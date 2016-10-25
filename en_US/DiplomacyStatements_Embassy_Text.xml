@@ -4,35 +4,35 @@
 	<BaseGameText>
 		<!-- AI accepts from human -->
 		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY">
-			<Text>Chúng tôi rất vui khi cho phép bạn xây dựng đại sứ quán tại thủ đô.</Text>
+			<Text>We are happy to allow you to construct an embassy in our capital.</Text>
 		</Row>
 		
 		<!-- AI rejects from human -->
 		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY">
-			<Text>Tạm thời tôi không quan tâm.</Text>
+			<Text>We are not interested at this time.</Text>
 		</Row>
 
 		<!-- AI requests from human -->
 		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY">
-			<Text>Bạn có cho phép đại sứ quán ở trong thủ đô của bạn?</Text>
+			<Text>Will you allow us to establish an embassy in your capital?</Text>
 		</Row>
 
 		<!-- Human accepts AI, AI responds -->
 		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY">
-			<Text>Một ngày tuyệt vời!</Text>
+			<Text>Oh happy day!</Text>
 		</Row>
 
 		<!-- Human rejects AI, AI responds -->
 		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY">
-			<Text>Thất vọng.</Text>
+			<Text>Disappointing.</Text>
 		</Row>
 
 		<!-- Choices -->
 		<Row Tag="LOC_DIPLO_EMBASSY_CHOICE_NEGATIVE">
-			<Text>Thủ đô chúng tôi tạm thời không chấp nhận những cư dân mới tại thời điểm này.</Text>
+			<Text>Our capital is not accepting new residents at this time.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_EMBASSY_CHOICE_POSITIVE">
-			<Text>Đại sứ quán của bạn được chào đón trong thủ đô của chúng tôi.</Text>
+			<Text>Your embassy is a welcome addition to our capital.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

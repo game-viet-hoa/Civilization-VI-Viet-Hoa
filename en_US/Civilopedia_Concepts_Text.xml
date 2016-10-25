@@ -27,7 +27,7 @@
 			<Text>Where to Construct Cities</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities should be constructed in locations with plenty of [ICON_Food] Thực phẩm and [ICON_Production] Sản phẩm and with access to Strategic, Luxury, and Bonus resources. It is often a good idea to build a city on a River or coastal hex, as sources of water are very important to a growing [ICON_Citizen] Dân số. Cities constructed on Hills gain a defensive bonus, making it harder for enemies to capture them.</Text>
+			<Text>Cities should be constructed in locations with plenty of [ICON_Food] Food and [ICON_Production] Production and with access to Strategic, Luxury, and Bonus resources. It is often a good idea to build a city on a River or coastal hex, as sources of water are very important to a growing [ICON_Citizen] Population. Cities constructed on Hills gain a defensive bonus, making it harder for enemies to capture them.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
 			<Text>With a Settler selected, ideal city locations will be shown on the map with an icon. Additionally, every Settler after your first will show the Settler Lens, giving you an idea of where on the map will provide the best source of water for your city, and indicating unavailable tiles.</Text>
@@ -36,49 +36,49 @@
 			<Text>Growth</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Your city will grow, or add more [ICON_Citizen] Citizens, with surplus [ICON_Food] Thực phẩm. Any amount of [ICON_Food] Thực phẩm over the total consumption of a city's [ICON_Citizen] Citizens, 2 per, is considered surplus, and is added as progress towards a new [ICON_Citizen] Citizen.</Text>
+			<Text>Your city will grow, or add more [ICON_Citizen] Citizens, with surplus [ICON_Food] Food. Any amount of [ICON_Food] Food over the total consumption of a city's [ICON_Citizen] Citizens, 2 per, is considered surplus, and is added as progress towards a new [ICON_Citizen] Citizen.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
-			<Text>A city will add all surplus [ICON_Food] Thực phẩm towards growth if its current [ICON_Citizen] Dân số is 2 or more below the city's [ICON_Housing] Nhà ở limit. If the city is 1 [ICON_Citizen] Dân số below its [ICON_Housing] Nhà ở limit, its growth will slow to 50%. When the [ICON_Citizen] Dân số is at the [ICON_Housing] Nhà ở limit, it will grow only at 75% the normal rate. A city can grow to 5 [ICON_Citizen] Citizens over its [ICON_Housing] Nhà ở limit at this rate, and then it will stop growing entirely.</Text>
+			<Text>A city will add all surplus [ICON_Food] Food towards growth if its current [ICON_Citizen] Population is 2 or more below the city's [ICON_Housing] Housing limit. If the city is 1 [ICON_Citizen] Population below its [ICON_Housing] Housing limit, its growth will slow to 50%. When the [ICON_Citizen] Population is at the [ICON_Housing] Housing limit, it will grow only at 75% the normal rate. A city can grow to 5 [ICON_Citizen] Citizens over its [ICON_Housing] Housing limit at this rate, and then it will stop growing entirely.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
-			<Text>A city will stagnate and not grow if it does not have surplus [ICON_Food] Thực phẩm. If it makes less [ICON_Food] Thực phẩm than its [ICON_Citizen] Citizens consume, the city will starve and slowly lose [ICON_Citizen] Dân số until it is able to support itself again.</Text>
+			<Text>A city will stagnate and not grow if it does not have surplus [ICON_Food] Food. If it makes less [ICON_Food] Food than its [ICON_Citizen] Citizens consume, the city will starve and slowly lose [ICON_Citizen] Population until it is able to support itself again.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
 			<Text>Food</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
-			<Text>A city requires 2 [ICON_Food] Thực phẩm per [ICON_Citizen] Citizen (another term for "[ICON_Citizen] Dân số") per turn to avoid starvation. A city acquires [ICON_Food] Thực phẩm (as well as other yields) by assigning its [ICON_Citizen] Citizens to "work" the land around the city. The city can work any tile within 3 spaces of the city that is also within the civilization's borders, provided as well that it is not being worked by another city. Cities cannot work tiles occupied by wonders.</Text>
+			<Text>A city requires 2 [ICON_Food] Food per [ICON_Citizen] Citizen (another term for "[ICON_Citizen] Population") per turn to avoid starvation. A city acquires [ICON_Food] Food (as well as other yields) by assigning its [ICON_Citizen] Citizens to "work" the land around the city. The city can work any tile within 3 spaces of the city that is also within the civilization's borders, provided as well that it is not being worked by another city. Cities cannot work tiles occupied by wonders.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_2">
-			<Text>Left to its own devices, the city will assign as many [ICON_Citizen] Citizens as needed to acquire its [ICON_Food] Thực phẩm.</Text>
+			<Text>Left to its own devices, the city will assign as many [ICON_Citizen] Citizens as needed to acquire its [ICON_Food] Food.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_TITLE">
 			<Text>Housing</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Housing] Nhà ở is a representation of the maximum amount of [ICON_Citizen] Citizens or [ICON_Citizen] Dân số you can have in each city. The base source of [ICON_Housing] Nhà ở is a water source.</Text>
+			<Text>[ICON_Housing] Housing is a representation of the maximum amount of [ICON_Citizen] Citizens or [ICON_Citizen] Population you can have in each city. The base source of [ICON_Housing] Housing is a water source.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_2">
-			<Text>Many buildings grant [ICON_Housing] Nhà ở. After researching Pottery, every city is able to build a Granary, which adds 2 [ICON_Housing] Nhà ở, and later they can build Sewers, which also adds 2 [ICON_Housing] Nhà ở. Buildings in other districts sometimes add [ICON_Housing] Nhà ở, such as the Barracks in the Encampment district, the University in the Campus, and the Lighthouse in the Harbor. The Palace building in your capital city also adds 1 [ICON_Housing] Nhà ở.</Text>
+			<Text>Many buildings grant [ICON_Housing] Housing. After researching Pottery, every city is able to build a Granary, which adds 2 [ICON_Housing] Housing, and later they can build Sewers, which also adds 2 [ICON_Housing] Housing. Buildings in other districts sometimes add [ICON_Housing] Housing, such as the Barracks in the Encampment district, the University in the Campus, and the Lighthouse in the Harbor. The Palace building in your capital city also adds 1 [ICON_Housing] Housing.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_3">
-			<Text>Each Farm, Pasture, Plantation, or Camp supports a small amount of [ICON_Citizen] Dân số — 1 [ICON_Housing] Nhà ở for every 2 such improvements. Supporting rural [ICON_Citizen] Dân số in this fashion will allow for slightly larger [ICON_Citizen] Dân sốs prior to the Industrial Era, when the Neighborhood district becomes available.</Text>
+			<Text>Each Farm, Pasture, Plantation, or Camp supports a small amount of [ICON_Citizen] Population — 1 [ICON_Housing] Housing for every 2 such improvements. Supporting rural [ICON_Citizen] Population in this fashion will allow for slightly larger [ICON_Citizen] Populations prior to the Industrial Era, when the Neighborhood district becomes available.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_TITLE">
 			<Text>Water</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_1">
-			<Text>Placing your city near a water source should be one of your first decisions in any game. The presence of a good water source will immediately set the initial [ICON_Housing] Nhà ở level of a city. A city not adjacent to any water will have a max [ICON_Citizen] Dân số of 2 at the start. A city on the coast will have a max [ICON_Citizen] Dân số of 3. And a city adjacent to a River, Lake, or Oasis will have a max [ICON_Citizen] Dân số of 5.</Text>
+			<Text>Placing your city near a water source should be one of your first decisions in any game. The presence of a good water source will immediately set the initial [ICON_Housing] Housing level of a city. A city not adjacent to any water will have a max [ICON_Citizen] Population of 2 at the start. A city on the coast will have a max [ICON_Citizen] Population of 3. And a city adjacent to a River, Lake, or Oasis will have a max [ICON_Citizen] Population of 5.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_2">
-			<Text>The fresh water status of a city may be upgraded by adding an Aqueduct tile next to the City Center. Aqueducts may only be placed in tiles that are adjacent to a River, Lake, or Mountain that is also adjacent to the City Center.  Completion of the Aqueduct district raises the city’s [ICON_Housing] Nhà ở from water by 2 or up to 6, whichever is larger—so 7 if adjacent to River, Lake or Oasis, or 6 otherwise.</Text>
+			<Text>The fresh water status of a city may be upgraded by adding an Aqueduct tile next to the City Center. Aqueducts may only be placed in tiles that are adjacent to a River, Lake, or Mountain that is also adjacent to the City Center.  Completion of the Aqueduct district raises the city’s [ICON_Housing] Housing from water by 2 or up to 6, whichever is larger—so 7 if adjacent to River, Lake or Oasis, or 6 otherwise.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_TITLE">
 			<Text>Districts</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
-			<Text>In Civilization VI, buildings are no longer trapped in your City Center, but may sprawl across your territory as part of districts. The map is more important than ever as you are faced with important strategic placement decisions. Campuses and Holy Site’s alike receive special boosts from placement near Mountains, but only the former also benefits from a nearby source of Rainforest. Specialty districts, such as the Campus or Commercial Hub, will have a [ICON_Citizen] Dân số requirement. The Neighborhood and Aqueduct are not affected by this requirement.</Text>
+			<Text>In Civilization VI, buildings are no longer trapped in your City Center, but may sprawl across your territory as part of districts. The map is more important than ever as you are faced with important strategic placement decisions. Campuses and Holy Site’s alike receive special boosts from placement near Mountains, but only the former also benefits from a nearby source of Rainforest. Specialty districts, such as the Campus or Commercial Hub, will have a [ICON_Citizen] Population requirement. The Neighborhood and Aqueduct are not affected by this requirement.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_2">
 			<Text>When a city is ready to construct something, the Choose Production button will appear. If a district is available to be constructed, it will appear on this menu. Click on the district to order the city to begin construction, opening the district placement lens. Here, you will be given an overview of the different yield outcomes available on the tiles surrounding your City Center, and you can better make a decision about where to place your district. This lens will also show you which tiles are unavailable, as some districts have very specific placement requirements (for example, the Encampment cannot be built adjacent to a City Center). Furthermore, all districts must be built within 3 tiles of a City Center.</Text>
@@ -90,22 +90,22 @@
 			<Text>Neighborhoods and Appeal</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_1">
-			<Text>Neighborhoods are a special district that allows a city to house more [ICON_Citizen] Dân số and is affected by Appeal. The term “Appeal” is used to describe a special form of adjacency bonus that just applies to Neighborhoods, and also will affect Culture Victory’s [ICON_Tourism] Du lịch system through National Parks and Seaside Resorts.</Text>
+			<Text>Neighborhoods are a special district that allows a city to house more [ICON_Citizen] Population and is affected by Appeal. The term “Appeal” is used to describe a special form of adjacency bonus that just applies to Neighborhoods, and also will affect Culture Victory’s [ICON_Tourism] Tourism system through National Parks and Seaside Resorts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_2">
-			<Text>Breathtaking Neighborhoods provide 6 [ICON_Housing] Nhà ở.</Text>
+			<Text>Breathtaking Neighborhoods provide 6 [ICON_Housing] Housing.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_3">
-			<Text>Charming Neighborhoods provide 5 [ICON_Housing] Nhà ở.</Text>
+			<Text>Charming Neighborhoods provide 5 [ICON_Housing] Housing.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_4">
-			<Text>Average Neighborhoods provide 4 [ICON_Housing] Nhà ở.</Text>
+			<Text>Average Neighborhoods provide 4 [ICON_Housing] Housing.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_5">
-			<Text>Uninviting Neighborhoods provide 3 [ICON_Housing] Nhà ở.</Text>
+			<Text>Uninviting Neighborhoods provide 3 [ICON_Housing] Housing.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_6">
-			<Text>Disgusting Neighborhoods provide 2 [ICON_Housing] Nhà ở.</Text>
+			<Text>Disgusting Neighborhoods provide 2 [ICON_Housing] Housing.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_7">
 			<Text>Finally, Appeal also affects the ability to place National Parks and Seaside Resorts.</Text>
@@ -150,34 +150,34 @@
 			<Text>The Palace</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_PARA_1">
-			<Text>The Palace is a special building. Part building, part wonder, the Palace automatically appears in the first city you build, which makes that city the [ICON_Capital] Capital of your empire. The Palace provides a small amount of [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, [ICON_Gold] Vàng, and [ICON_Culture] Văn minh to your civilization. If your [ICON_Capital] Capital is captured by another civilization and you still have other cities under your control, the Palace will automatically transfer to another city, which will become your new [ICON_Capital] Capital.</Text>
+			<Text>The Palace is a special building. Part building, part wonder, the Palace automatically appears in the first city you build, which makes that city the [ICON_Capital] Capital of your empire. The Palace provides a small amount of [ICON_Production] Production, [ICON_Science] Science, [ICON_Gold] Gold, and [ICON_Culture] Culture to your civilization. If your [ICON_Capital] Capital is captured by another civilization and you still have other cities under your control, the Palace will automatically transfer to another city, which will become your new [ICON_Capital] Capital.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_TITLE">
 			<Text>Citizens</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities thrive based upon the land around them. Their [ICON_Citizen] Citizens "work" the land, harvesting [ICON_Food] Thực phẩm, [ICON_Gold] Vàng, [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, and many other yields from the tiles. [ICON_Citizen] Citizens can work tiles that are within three tiles' distance from the city and that are within your civilization's borders. As your city grows, it automatically assigns its [ICON_Citizen] Citizens to work the lands around it. It seeks to provide a balanced amount of [ICON_Food] Thực phẩm, [ICON_Production] Sản phẩm, and [ICON_Gold] Vàng. You may order a city's [ICON_Citizen] Citizens to work other tiles – for example, if you want a certain city to concentrate on generating [ICON_Gold] Vàng, or [ICON_Production] Sản phẩm, select the Manage Citizens icon in the City Selection Panel to choose specific tiles for your [ICON_Citizen] Citizens to work.</Text>
+			<Text>Cities thrive based upon the land around them. Their [ICON_Citizen] Citizens "work" the land, harvesting [ICON_Food] Food, [ICON_Gold] Gold, [ICON_Production] Production, [ICON_Science] Science, and many other yields from the tiles. [ICON_Citizen] Citizens can work tiles that are within three tiles' distance from the city and that are within your civilization's borders. As your city grows, it automatically assigns its [ICON_Citizen] Citizens to work the lands around it. It seeks to provide a balanced amount of [ICON_Food] Food, [ICON_Production] Production, and [ICON_Gold] Gold. You may order a city's [ICON_Citizen] Citizens to work other tiles – for example, if you want a certain city to concentrate on generating [ICON_Gold] Gold, or [ICON_Production] Production, select the Manage Citizens icon in the City Selection Panel to choose specific tiles for your [ICON_Citizen] Citizens to work.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_TITLE">
 			<Text>Happiness</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_PARA_1">
-			<Text>Happiness measures the contentment of your people in a single city, and is measured by seeing if the [ICON_Citizen] Dân số of that city has as many [ICON_Amenities] Tiện nghi as expected. 1 [ICON_Amenities] Tiện nghi is required for each 2 [ICON_Citizen] Dân số, start at a [ICON_Citizen] Dân số of 3. A content city will not have any modifier applied to it, but a happy city will have a 10% growth increase and a 5% yield increase. Furthermore, an Ecstatic city will have a 20% growth increase and 10% yield increase. Likewise, having too few [ICON_Amenities] Tiện nghi will create displeasure among your [ICON_Citizen] Citizens, and the growth and yields will receive negative modifiers. At the level of unrest, your growth will stop and you may find rebel partisans in your city.</Text>
+			<Text>Happiness measures the contentment of your people in a single city, and is measured by seeing if the [ICON_Citizen] Population of that city has as many [ICON_Amenities] Amenities as expected. 1 [ICON_Amenities] Amenity is required for each 2 [ICON_Citizen] Population, start at a [ICON_Citizen] Population of 3. A content city will not have any modifier applied to it, but a happy city will have a 10% growth increase and a 5% yield increase. Furthermore, an Ecstatic city will have a 20% growth increase and 10% yield increase. Likewise, having too few [ICON_Amenities] Amenities will create displeasure among your [ICON_Citizen] Citizens, and the growth and yields will receive negative modifiers. At the level of unrest, your growth will stop and you may find rebel partisans in your city.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_TITLE">
 			<Text>Amenity Sources</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Amenities] Tiện nghi can come from a wide variety of sources. Each Luxury resource can contribute up to 4 [ICON_Amenities] Tiện nghi to your empire (1 per city) to the 4 cities that need them most. Distribution happens automatically, as long as the Luxury resource is improved (a Plantation improvement built on Spices, for example). The Arena, built in the Entertainment Complex, provides [ICON_Amenities] Tiện nghi to its local city. The Zoo and Stadium also provide [ICON_Amenities] Tiện nghi, but regionally. Some wonders also provide [ICON_Amenities] Tiện nghi. Furthermore, there are a few Religious Beliefs and policies that provide [ICON_Amenities] Tiện nghi.</Text>
+			<Text>[ICON_Amenities] Amenities can come from a wide variety of sources. Each Luxury resource can contribute up to 4 [ICON_Amenities] Amenities to your empire (1 per city) to the 4 cities that need them most. Distribution happens automatically, as long as the Luxury resource is improved (a Plantation improvement built on Spices, for example). The Arena, built in the Entertainment Complex, provides [ICON_Amenities] Amenities to its local city. The Zoo and Stadium also provide [ICON_Amenities] Amenities, but regionally. Some wonders also provide [ICON_Amenities] Amenities. Furthermore, there are a few Religious Beliefs and policies that provide [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_2">
-			<Text>War weariness and bankruptcy will lower the [ICON_Amenities] Tiện nghi in a city.</Text>
+			<Text>War weariness and bankruptcy will lower the [ICON_Amenities] Amenities in a city.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_TITLE">
 			<Text>Specialists</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Specialists are alternative assignments for [ICON_Citizen] Citizens, which involve working a district tile instead of a normal tile. As a general rule, specialists are a good way to get yields otherwise hard to find on normal tiles, but the city needs a solid support base of [ICON_Food] Thực phẩm to support them in the long term. Specialists are also particularly useful when a city grows large later in the game, and has more [ICON_Citizen] Dân số than there are normal tiles to work. There are different types of specialists, each with different effects. All specialist types except the generic [ICON_Citizen] Citizen have a limit on how many assignments there can be in a city. This limit is determined by the number of buildings in the district associated with that specialist type.</Text>
+			<Text>Specialists are alternative assignments for [ICON_Citizen] Citizens, which involve working a district tile instead of a normal tile. As a general rule, specialists are a good way to get yields otherwise hard to find on normal tiles, but the city needs a solid support base of [ICON_Food] Food to support them in the long term. Specialists are also particularly useful when a city grows large later in the game, and has more [ICON_Citizen] Population than there are normal tiles to work. There are different types of specialists, each with different effects. All specialist types except the generic [ICON_Citizen] Citizen have a limit on how many assignments there can be in a city. This limit is determined by the number of buildings in the district associated with that specialist type.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
 			<Text>The World</Text>
@@ -195,13 +195,13 @@
 			<Text>Resources</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Resources are sources of a variety of different yields ([ICON_Food] Thực phẩm, [ICON_Production] Sản phẩm, etc.), and some provide other special bonuses to a civilization. They appear in certain hexes. Some are visible at the start of the game, while others require the acquisition of specific technologies before you can see them. To utilize a resource, it must be within your civilization's borders and you must construct the appropriate "improvement" in that hex. There are three types of resources: Bonus, Luxury, and Strategic. </Text>
+			<Text>Resources are sources of a variety of different yields ([ICON_Food] Food, [ICON_Production] Production, etc.), and some provide other special bonuses to a civilization. They appear in certain hexes. Some are visible at the start of the game, while others require the acquisition of specific technologies before you can see them. To utilize a resource, it must be within your civilization's borders and you must construct the appropriate "improvement" in that hex. There are three types of resources: Bonus, Luxury, and Strategic. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Bonus resources can increase the [ICON_Food] Thực phẩm, [ICON_Gold] Vàng, or [ICON_Production] Sản phẩm output of a hex. Bonus resources cannot be traded to other civilizations. These resources can be "harvested" by Builders to remove the resource and provide an immediate, one-time sum of [ICON_Food] Thực phẩm or [ICON_Production] Sản phẩm to the city that owns the hex.</Text>
+			<Text>Bonus resources can increase the [ICON_Food] Food, [ICON_Gold] Gold, or [ICON_Production] Production output of a hex. Bonus resources cannot be traded to other civilizations. These resources can be "harvested" by Builders to remove the resource and provide an immediate, one-time sum of [ICON_Food] Food or [ICON_Production] Production to the city that owns the hex.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_3">
-			<Text>Luxury resources increase your civilization's happiness by providing [ICON_Amenities] Tiện nghi and provide a small bonus to the hex's yield output. Only one source of a specific Luxury resource provides [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Luxury resources increase your civilization's happiness by providing [ICON_Amenities] Amenities and provide a small bonus to the hex's yield output. Only one source of a specific Luxury resource provides [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_4">
 			<Text>Strategic resources are not always visible at the start of the game—they may require knowledge of a particular technology before they appear on a map. Strategic resources allow you to build certain units. When you construct an improvement on a Strategic resource hex, it allows you to build units that require that resource (i.e. Musketmen require Niter) in any of your cities that has an appropriate district—Encampment for land units, Harbor for naval units, or Aerodrome for air units. If you build an improvement on 2 copies of that resource, you can build or purchase those units in any city, whether it has the appropriate district or not.</Text>
@@ -222,13 +222,13 @@
 			<Text>Tribal Villages</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Tribal Villages are less civilized than other civilizations, but are friendly nonetheless. Visiting tribal villages provide a random benefit to the civilization of the unit that first enters their tile. The village disappears after its gifts have been claimed. Gifts include survivors, such as Builders or Traders, technology or technology boosts, military units, [ICON_Faith] Lòng tin, [ICON_Gold] Vàng, [ICON_GreatWork_Relic] Relics or civic boosts.</Text>
+			<Text>Tribal Villages are less civilized than other civilizations, but are friendly nonetheless. Visiting tribal villages provide a random benefit to the civilization of the unit that first enters their tile. The village disappears after its gifts have been claimed. Gifts include survivors, such as Builders or Traders, technology or technology boosts, military units, [ICON_Faith] Faith, [ICON_Gold] Gold, [ICON_GreatWork_Relic] Relics or civic boosts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_TITLE">
 			<Text>Barbarians</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Barbarians come from "outposts", which may appear randomly in any tile that cannot be seen by a unit. Each Barbarian unit belongs to its own home outpost. There are three types of Barbarian outposts: Naval, Cavalry, and Melee. A civilization will earn a [ICON_Gold] Vàng reward for dispersing a Barbarian outpost − in addition to the benefit of stopping it from spawning more Barbarian units.</Text>
+			<Text>Barbarians come from "outposts", which may appear randomly in any tile that cannot be seen by a unit. Each Barbarian unit belongs to its own home outpost. There are three types of Barbarian outposts: Naval, Cavalry, and Melee. A civilization will earn a [ICON_Gold] Gold reward for dispersing a Barbarian outpost − in addition to the benefit of stopping it from spawning more Barbarian units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_2">
 			<Text>Naval Barbarian outposts on the coastline can create naval units (equal to those that can be created by the civilization with the most advanced tech). These units will menace your coastline, destroy naval improvements and attack hapless land units which stray too near the coastline. It's important to maintain a navy to keep them off your back, but the best way to stop these attacks is to destroy the coastal outposts nearby.</Text>
@@ -270,7 +270,7 @@
 			<Text>Having a nation that is constantly at war will diminish the productivity and happiness of your people. War weariness grows for every battle you fight. This accumulation is worse when those battles occur in foreign territory or when your units are killed. It is worse still if those units are killed by a nuclear weapon, but launching a nuclear weapon yourself is the greatest source of war weariness. All war weariness you accumulate is increased if you declared war without using a Casus Belli.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_2">
-			<Text>War weariness is applied to every city you own as a negative [ICON_Amenities] Tiện nghi, lowering your city growth and productivity. Having low [ICON_Amenities] Tiện nghi for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.</Text>
+			<Text>War weariness is applied to every city you own as a negative [ICON_Amenities] Amenity, lowering your city growth and productivity. Having low [ICON_Amenities] Amenities for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_3">
 			<Text>While war weariness will slowly reduce while you are still at war, it reduces at a greatly increased rate when you are not at war with any player.</Text>
@@ -333,7 +333,7 @@
 			<Text>In combining your military might with the right force organization of combined arms, leadership, and intuitive use of terrain you can have the power to destroy your enemies armies, no matter how big or small, advanced or not. Using terrain to your advantage, you can position your forces on Hills, in Rainforests or Woods, and across Rivers from your enemy to ensure a distinct defensive advantage. Looking at the enemies movements across terrain as they approach you can also help you better understand what their battle plan is or where they look to strike.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Tướng quân vĩ đại will ensure victory!</Text>
+			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Great General will ensure victory!</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
 			<Text>Experience and Promotions</Text>
@@ -378,10 +378,10 @@
 			<Text>Both improvements and buildings in districts without garrisons can be pillaged. This action renders them inoperable and awards the pillaging unit with some form of "plunder."  </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_2">
-			<Text>Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district (see below). Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the [ICON_Production] Sản phẩm cost of initial construction of that building.)[NEWLINE]Pillaging a Campus awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Holy Site awards [ICON_Faith] Lòng tin.[NEWLINE]Pillaging a Commercial Hub awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Theater Square awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging a Harbor district awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Industrial Zone awards [ICON_Science] Khoa học.[NEWLINE]Pillaging an Aerodrome awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Aqueduct awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Spaceport awards [ICON_Science] Khoa học.</Text>
+			<Text>Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district (see below). Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the [ICON_Production] Production cost of initial construction of that building.)[NEWLINE]Pillaging a Campus awards [ICON_Science] Science.[NEWLINE]Pillaging a Holy Site awards [ICON_Faith] Faith.[NEWLINE]Pillaging a Commercial Hub awards [ICON_Gold] Gold.[NEWLINE]Pillaging a Theater Square awards [ICON_Culture] Culture.[NEWLINE]Pillaging a Harbor district awards [ICON_Gold] Gold.[NEWLINE]Pillaging an Industrial Zone awards [ICON_Science] Science.[NEWLINE]Pillaging an Aerodrome awards [ICON_Gold] Gold.[NEWLINE]Pillaging an Aqueduct awards [ICON_Gold] Gold.[NEWLINE]Pillaging a Spaceport awards [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_3">
-			<Text>Pillaging an improvement will take 3 Movement Points, or all your movement (if you have [ICON_Movement] Di chuyển Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).[NEWLINE]Pillaging a Farm awards healing.[NEWLINE]Pillaging a Mine awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Quarry awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging Fishing Boats awards healing.[NEWLINE]Pillaging a Pasture awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Plantation awards [ICON_Faith] Lòng tin.[NEWLINE]Pillaging a Camp awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Lumber Mill awards [ICON_Science] Khoa học.[NEWLINE]</Text>
+			<Text>Pillaging an improvement will take 3 Movement Points, or all your movement (if you have [ICON_Movement] Movement Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).[NEWLINE]Pillaging a Farm awards healing.[NEWLINE]Pillaging a Mine awards [ICON_Science] Science.[NEWLINE]Pillaging a Quarry awards [ICON_Culture] Culture.[NEWLINE]Pillaging Fishing Boats awards healing.[NEWLINE]Pillaging a Pasture awards [ICON_Gold] Gold.[NEWLINE]Pillaging a Plantation awards [ICON_Faith] Faith.[NEWLINE]Pillaging a Camp awards [ICON_Gold] Gold.[NEWLINE]Pillaging a Lumber Mill awards [ICON_Science] Science.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MOVEMENT_NAME">
 			<Text>Unit Movement</Text>
@@ -390,13 +390,13 @@
 			<Text>Movement Points</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_1_CHAPTER_CONTENT_PARA_1">
-			<Text>All mobile units have a certain number of [ICON_Movement] Di chuyển points that they can expend on [ICON_Movement] Di chuyển every turn. Once they've expended those [ICON_Movement] Di chuyển points, they can't move any more until the next turn. Units expend [ICON_Movement] Di chuyển points to enter tiles, to attack other units, or to pillage improvements or districts. The terrain of the tile a unit is entering determines the [ICON_Movement] Di chuyển point cost of the move.</Text>
+			<Text>All mobile units have a certain number of [ICON_Movement] Movement points that they can expend on [ICON_Movement] Movement every turn. Once they've expended those [ICON_Movement] Movement points, they can't move any more until the next turn. Units expend [ICON_Movement] Movement points to enter tiles, to attack other units, or to pillage improvements or districts. The terrain of the tile a unit is entering determines the [ICON_Movement] Movement point cost of the move.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_TITLE">
 			<Text>Roads</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Roads are an important part of moving around the world. Placed by Trader units beginning in the Ancient Era, roads begin by reducing the [ICON_Movement] Di chuyển cost of a tile to 1 when moving from one road tile to another. As technology progresses, you will unlock the ability to build better and better roads, and even bridges. Modern roads, for example, reduce [ICON_Movement] Di chuyển to a half [ICON_Movement] Di chuyển point per tile, when moving from one road tile to another. All roads allow units to ignore terrain-based movement penalties.</Text>
+			<Text>Roads are an important part of moving around the world. Placed by Trader units beginning in the Ancient Era, roads begin by reducing the [ICON_Movement] Movement cost of a tile to 1 when moving from one road tile to another. As technology progresses, you will unlock the ability to build better and better roads, and even bridges. Modern roads, for example, reduce [ICON_Movement] Movement to a half [ICON_Movement] Movement point per tile, when moving from one road tile to another. All roads allow units to ignore terrain-based movement penalties.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_2">
 			<Text>Roads are placed by Traders, but may also be placed manually by Military Engineers.</Text>
@@ -405,7 +405,7 @@
 			<Text>Zone of Control</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Many combat units exert a "Zone of Control" (ZOC) over the tiles around them. When a unit moves into an enemy's ZOC with [ICON_Movement] Di chuyển leftover, its [ICON_Movement] Di chuyển is stopped or it may attack.</Text>
+			<Text>Many combat units exert a "Zone of Control" (ZOC) over the tiles around them. When a unit moves into an enemy's ZOC with [ICON_Movement] Movement leftover, its [ICON_Movement] Movement is stopped or it may attack.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Naval Movement</Text>
@@ -426,13 +426,13 @@
 			<Text>Introduction</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Each technology you acquire gives your civilization access to some advanced unit, building, resource, or wonder, or gives you some other tangible benefit such as the ability to chop Woods and harvest Cattle. Each new technology makes your civilization that much more powerful. Every turn, your civilization receives [ICON_Science] Khoa học added to its pool, and when you have accumulated enough [ICON_Science] Khoa học, you acquire a new technology.</Text>
+			<Text>Each technology you acquire gives your civilization access to some advanced unit, building, resource, or wonder, or gives you some other tangible benefit such as the ability to chop Woods and harvest Cattle. Each new technology makes your civilization that much more powerful. Every turn, your civilization receives [ICON_Science] Science added to its pool, and when you have accumulated enough [ICON_Science] Science, you acquire a new technology.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Earning Science</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Science] Khoa học comes from a variety of sources, including your [ICON_Citizen] Citizens, your Palace, some Policies, some Religious Beliefs, some resources, wonders, trading, and of course the Campus district and its buildings. Look through the Civilopedia to find sources of [ICON_Science] Khoa học.</Text>
+			<Text>[ICON_Science] Science comes from a variety of sources, including your [ICON_Citizen] Citizens, your Palace, some Policies, some Religious Beliefs, some resources, wonders, trading, and of course the Campus district and its buildings. Look through the Civilopedia to find sources of [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Eureka Moments</Text>
@@ -453,13 +453,13 @@
 			<Text>Introduction</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Culture] Văn minh is the way that you advance through the Civics Tree, unlocking new policies and Governments. It’s also how you increase the size of your cities’ territories. Most importantly, [ICON_Culture] Văn minh can be another path to victory. Each civic you acquire gives your civilization access to policies or governments, as well as some buildings, districts, and diplomatic advancements. You acquire civics by accumulating [ICON_Culture] Văn minh. Every turn your civilization gets some amount of [ICON_Culture] Văn minh added to its pool. Each civic costs a certain amount of [ICON_Culture] Văn minh to learn; when you've accumulated enough [ICON_Culture] Văn minh, you acquire the civic. When you get the new civic, your pool is depleted and you start accumulating all over again, saving up for the next civic.</Text>
+			<Text>[ICON_Culture] Culture is the way that you advance through the Civics Tree, unlocking new policies and Governments. It’s also how you increase the size of your cities’ territories. Most importantly, [ICON_Culture] Culture can be another path to victory. Each civic you acquire gives your civilization access to policies or governments, as well as some buildings, districts, and diplomatic advancements. You acquire civics by accumulating [ICON_Culture] Culture. Every turn your civilization gets some amount of [ICON_Culture] Culture added to its pool. Each civic costs a certain amount of [ICON_Culture] Culture to learn; when you've accumulated enough [ICON_Culture] Culture, you acquire the civic. When you get the new civic, your pool is depleted and you start accumulating all over again, saving up for the next civic.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Earning Culture</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Culture] Văn minh can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Theater Square district. Look through the Civilopedia to find sources of [ICON_Culture] Văn minh.</Text>
+			<Text>[ICON_Culture] Culture can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Trade Routes, and of course the Theater Square district. Look through the Civilopedia to find sources of [ICON_Culture] Culture.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Inspiration Moments</Text>
@@ -480,25 +480,25 @@
 			<Text>Introduction</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Gold] Vàng is the lifeblood of a civilization. It may be true that "money can't buy you love," but it can purchase a submarine armed with nuclear missiles, and that's not bad.</Text>
+			<Text>[ICON_Gold] Gold is the lifeblood of a civilization. It may be true that "money can't buy you love," but it can purchase a submarine armed with nuclear missiles, and that's not bad.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_TITLE">
 			<Text>Obtaining Gold</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Gold] Vàng comes from a variety of sources. You'll obtain [ICON_Gold] Vàng by working the tiles around your cities, but other sources are available as well: terrains and improvements, trading posts, districts and buildings, [ICON_TradeRoute] Tuyến đường thương mại, Barbarian outposts, Tribal Villages, city-states, pillaging enemy improvements, capturing cities, and diplomacy with other civilizations.</Text>
+			<Text>[ICON_Gold] Gold comes from a variety of sources. You'll obtain [ICON_Gold] Gold by working the tiles around your cities, but other sources are available as well: terrains and improvements, trading posts, districts and buildings, [ICON_TradeRoute] Trade Routes, Barbarian outposts, Tribal Villages, city-states, pillaging enemy improvements, capturing cities, and diplomacy with other civilizations.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_TITLE">
 			<Text>Spending Gold</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_PARA_1">
-			<Text>There are many times that you can and will spend [ICON_Gold] Vàng. Units and buildings both have "maintenance costs" that must be paid every turn. You can also extend your civilization's territory by purchasing individual tiles, or you can use the [ICON_Gold] Vàng to purchase units and buildings. Upgrading obsolete units will also cost [ICON_Gold] Vàng. [ICON_Gold] Vàng may be exchanged with other civilizations during diplomacy, and if you ever lose a city, you will lose some [ICON_Gold] Vàng as well.</Text>
+			<Text>There are many times that you can and will spend [ICON_Gold] Gold. Units and buildings both have "maintenance costs" that must be paid every turn. You can also extend your civilization's territory by purchasing individual tiles, or you can use the [ICON_Gold] Gold to purchase units and buildings. Upgrading obsolete units will also cost [ICON_Gold] Gold. [ICON_Gold] Gold may be exchanged with other civilizations during diplomacy, and if you ever lose a city, you will lose some [ICON_Gold] Gold as well.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_TITLE">
 			<Text>Bankruptcy</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_PARA_1">
-			<Text>If your treasury is at zero and you're running a negative budget, you will begin to receive a -1 penalty to your [ICON_Amenities] Tiện nghi per every 10 [ICON_Gold] Vàng you drop below 0. Additionally, at -10 [ICON_Gold] Vàng you will automatically disband a unit, at -20 [ICON_Gold] Vàng, two units will be disbanded, and so forth.</Text>
+			<Text>If your treasury is at zero and you're running a negative budget, you will begin to receive a -1 penalty to your [ICON_Amenities] Amenities per every 10 [ICON_Gold] Gold you drop below 0. Additionally, at -10 [ICON_Gold] Gold you will automatically disband a unit, at -20 [ICON_Gold] Gold, two units will be disbanded, and so forth.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_FAITH_NAME">
 			<Text>Faith and Religion</Text>
@@ -513,19 +513,19 @@
 			<Text>Earning Faith</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_PARA_1">
-			<Text>ICON_Faith] Lòng tin is the currency of Religion and can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Holy Site district and its buildings. Look through the Civilopedia to find sources of [ICON_Faith] Lòng tin.</Text>
+			<Text>[ICON_Faith] Faith is the currency of Religion and can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Trade Routes, and of course the Holy Site district and its buildings. Look through the Civilopedia to find sources of [ICON_Faith] Faith.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_TITLE">
 			<Text>Pantheons</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Once you accumulate enough [ICON_Faith] Lòng tin, you’ll be prompted to found a Pantheon, a precursor to the full-blown Religions to be founded later. Choosing which Pantheon to found depends on your short- and long-term goals for your civilization. After earning a Pantheon, you are well on your way to establishing your Religion. Unlike a full Religion, a Pantheon you choose will be unique to your civilization, and cannot spread outside your borders, or be displaced. </Text>
+			<Text>Once you accumulate enough [ICON_Faith] Faith, you’ll be prompted to found a Pantheon, a precursor to the full-blown Religions to be founded later. Choosing which Pantheon to found depends on your short- and long-term goals for your civilization. After earning a Pantheon, you are well on your way to establishing your Religion. Unlike a full Religion, a Pantheon you choose will be unique to your civilization, and cannot spread outside your borders, or be displaced. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_TITLE">
-			<Text>Nhà tiên tri vĩ đại</Text>
+			<Text>Great Prophets</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_PARA_1">
-			<Text>You may found your Religion once you have earned (or purchased) a [ICON_GreatProphet] Great Prophet. Religious buildings will accumulate the [ICON_GreatProphet] Great Prophet points necessary to bring this special unit to your civilization. After the [ICON_GreatProphet] Great Prophet has been earned, send the unit to your Holy Site, and then found your Religion. [ICON_GreatProphet] Nhà tiên tri vĩ đại may also be earned from Stonehenge.</Text>
+			<Text>You may found your Religion once you have earned (or purchased) a [ICON_GreatProphet] Great Prophet. Religious buildings will accumulate the [ICON_GreatProphet] Great Prophet points necessary to bring this special unit to your civilization. After the [ICON_GreatProphet] Great Prophet has been earned, send the unit to your Holy Site, and then found your Religion. [ICON_GreatProphet] Great Prophets may also be earned from Stonehenge.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_TITLE">
 			<Text>Founding Your Religion</Text>
@@ -537,22 +537,22 @@
 			<Text>You can then use the Evangelize Belief action on Apostles to add additional beliefs to your Religion. You can have a total of 4 beliefs in a Religion.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_3">
-			<Text>Follower beliefs provide some kind of yield or other inherent bonus. This applies to all cities and civilizations that follow that Religion.[NEWLINE][NEWLINE]Founder beliefs provide a bonus that relies on the number of followers it has. Followers are citizens that follow that religion in all cities, regardless of whether or not that Religion is predominant in a city. This bonus is applied only to the civilization that founded that Religion.[NEWLINE][NEWLINE]Worship beliefs grant a unique type of building that can be built in Holy Sites, or purchased there with [ICON_Faith] Lòng tin. Every Worship building has different benefits.[NEWLINE][NEWLINE]Enhancer beliefs help spread the religion by making its natural religious pressure stronger or by making Missionaries and Apostles cheaper.</Text>
+			<Text>Follower beliefs provide some kind of yield or other inherent bonus. This applies to all cities and civilizations that follow that Religion.[NEWLINE][NEWLINE]Founder beliefs provide a bonus that relies on the number of followers it has. Followers are citizens that follow that religion in all cities, regardless of whether or not that Religion is predominant in a city. This bonus is applied only to the civilization that founded that Religion.[NEWLINE][NEWLINE]Worship beliefs grant a unique type of building that can be built in Holy Sites, or purchased there with [ICON_Faith] Faith. Every Worship building has different benefits.[NEWLINE][NEWLINE]Enhancer beliefs help spread the religion by making its natural religious pressure stronger or by making Missionaries and Apostles cheaper.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_TITLE">
 			<Text>Religious Units and Pressure</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_1">
-			<Text>There are three types of Religious units: Missionaries, Apostles, and Inquisitors. Religious units may be purchased through your city with [ICON_Faith] Lòng tin and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.[NEWLINE][NEWLINE]If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.</Text>
+			<Text>There are three types of Religious units: Missionaries, Apostles, and Inquisitors. Religious units may be purchased through your city with [ICON_Faith] Faith and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.[NEWLINE][NEWLINE]If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_2">
-			<Text>Missionaries may be purchased with [ICON_Faith] Lòng tin in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.</Text>
+			<Text>Missionaries may be purchased with [ICON_Faith] Faith in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_3">
-			<Text>Apostles may be purchased with [ICON_Faith] Lòng tin in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.[NEWLINE][NEWLINE]Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.</Text>
+			<Text>Apostles may be purchased with [ICON_Faith] Faith in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.[NEWLINE][NEWLINE]Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
-			<Text>Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors in cities that follow the religion of the Apostle that launched the Inquisition with [ICON_Faith] Lòng tin. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a city. They may also engage in theological combat against other Religious units.</Text>
+			<Text>Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors in cities that follow the religion of the Apostle that launched the Inquisition with [ICON_Faith] Faith. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a city. They may also engage in theological combat against other Religious units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
 			<Text>Theological Combat</Text>
@@ -603,13 +603,13 @@
 			<Text>Trade, Demand, and Discuss</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_1">
-			<Text>You can make trade deals with other players by selecting Make Deal from the Diplomacy Panel with a leader selected. You will enter a negotiation table with that leader.[NEWLINE][NEWLINE]On the left of the table are items you are able to trade, and on the right of the table are items the other player has available to trade. You can trade anything from [ICON_Gold] Vàng to resources to cities! Select items from the other leader's side of the table to request they trade them to you, and select items from your side of the table to offer in exchange.[NEWLINE][NEWLINE]When the other leader finds the deal acceptable, an "Accept Deal" button will appear, which will confirm the trade that is on the table. You will lose any items you proposed and gain any items from the other leader.[NEWLINE][NEWLINE]If the leader does not like the deal, you can select the "Make this deal more equitable" button to cause the leader to propose a deal they believe is fair. You may then adjust their offer to suit your needs, and see if they accept. You can also ask the leader for something and select "What would it take?" to see what they want from you in trade.[NEWLINE][NEWLINE]If you propose an item but do not ask anything in return, you can select "Give Gift" to give the item to the leader for free. Who doesn't like gifts? Or you can select "What would you give me?" to ask the leader what they would be willing to pay.</Text>
+			<Text>You can make trade deals with other players by selecting Make Deal from the Diplomacy Panel with a leader selected. You will enter a negotiation table with that leader.[NEWLINE][NEWLINE]On the left of the table are items you are able to trade, and on the right of the table are items the other player has available to trade. You can trade anything from [ICON_Gold] Gold to resources to cities! Select items from the other leader's side of the table to request they trade them to you, and select items from your side of the table to offer in exchange.[NEWLINE][NEWLINE]When the other leader finds the deal acceptable, an "Accept Deal" button will appear, which will confirm the trade that is on the table. You will lose any items you proposed and gain any items from the other leader.[NEWLINE][NEWLINE]If the leader does not like the deal, you can select the "Make this deal more equitable" button to cause the leader to propose a deal they believe is fair. You may then adjust their offer to suit your needs, and see if they accept. You can also ask the leader for something and select "What would it take?" to see what they want from you in trade.[NEWLINE][NEWLINE]If you propose an item but do not ask anything in return, you can select "Give Gift" to give the item to the leader for free. Who doesn't like gifts? Or you can select "What would you give me?" to ask the leader what they would be willing to pay.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_2">
 			<Text>If you are Unfriendly with a leader or either of you has Denounced each other, you will see the Make Demand option on the Diplomacy Panel with that leader selected. This option will take you to a negotiation table, but your side of the table will be blank. Instead, you select items from their side of the table to demand as tribute! Select "Demand Deal" to see if they will pay you what you ask. The leader may not take kindly to your demands.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Whether making a Deal or a Demand, some items are given permanently and some are only loaned to the leader. Sums of [ICON_Gold] Vàng, Great Works, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, and captured Spies are all permanent trades—once you give those items away, you have to trade again to get them back. Resources and gold per turn, however, are temporary, and once the deal has run its course you will get them back.</Text>
+			<Text>Whether making a Deal or a Demand, some items are given permanently and some are only loaned to the leader. Sums of [ICON_Gold] Gold, Great Works, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, and captured Spies are all permanent trades—once you give those items away, you have to trade again to get them back. Resources and gold per turn, however, are temporary, and once the deal has run its course you will get them back.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_4">
 			<Text>Depending on your interactions with a leader, you might also have the Discuss option on the Diplomacy Panel. Selecting it will show you a list of actions you can ask the leader to promise to stop doing towards you, but only if the leader has already done that action at least once. You can ask them to stop settling new cities near you, to stop spreading their religion to you, to stop spying on you, or to stop attacking a City State you are Suzerain of.</Text>
@@ -624,13 +624,13 @@
 			<Text>Delegations and Resident Embassies can be established between players to improve relations and gain Diplomatic Visibility. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_2">
-			<Text>A Delegation, or Embassy, needs to be sent to every leader individually. Delegations cost 10 [ICON_Gold] Vàng and Embassies cost 25 [ICON_Gold] Vàng, which is paid to the other leader. This will give you a small positive bonus in your relationship with that leader. It also gives you 1 level of Diplomatic Visibility.  See the Diplomatic Visibility and Gossip section of the Civilopedia for more information on Diplomatic Visibility.</Text>
+			<Text>A Delegation, or Embassy, needs to be sent to every leader individually. Delegations cost 10 [ICON_Gold] Gold and Embassies cost 25 [ICON_Gold] Gold, which is paid to the other leader. This will give you a small positive bonus in your relationship with that leader. It also gives you 1 level of Diplomatic Visibility.  See the Diplomatic Visibility and Gossip section of the Civilopedia for more information on Diplomatic Visibility.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_3">
 			<Text>Resident Embassies are unlocked with the Diplomatic Service Civic, at which point they replace Delegations. The effects of Resident Embassies and Delegations do not stack.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_TITLE">
-			<Text>Tự do đi lại</Text>
+			<Text>Open Borders</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_1">
 			<Text>Open Borders is an agreement with another leader to allow them to move their units, military or civilian, through your territory. Without this agreement, entering another leader's territory is an act of war, except with Religious Units, who can ignore borders entirely. If you have Open Borders with a leader, their border will appear as a dotted line instead of a solid one. Open Borders is unlocked with the Early Empire Civic. Prior to that, your borders are open to everyone.</Text>
@@ -684,7 +684,7 @@
 			<Text>You must accumulate Diplomatic Visibility levels individually for each civilization. Levels may be gained by accumulating various sources of Gossip, including:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_3">
-			<Text>Traders. Establish a [ICON_TradeRoute] Tuyến đường thương mại to a civilization to increase visibility by one level.[NEWLINE][NEWLINE]Send a Delegation. Send a Delegation to a civilization to increase visibility by one level. Once Embassies are available, establishing an Embassy will replace this.[NEWLINE][NEWLINE]Spying or forming an Alliance. Establish a spy in another civilization's city to increase visibility by one level, or you can form an alliance with a friendly civilization. These two actions do not add separate Diplomatic Visibility levels - it does no good to spy on your allies![NEWLINE][NEWLINE]Send a spy on a Listening Post Mission. Performing the Listening Post mission in another civilization's city increases visibility by one level.[NEWLINE][NEWLINE]Research the Printing Press technology. This will increase your visibility with ALL civilizations by one level.[NEWLINE][NEWLINE]Play as Catherine de Medici. She gives France one level of access above normal at all times with civilizations she has met.</Text>
+			<Text>Traders. Establish a [ICON_TradeRoute] Trade Route to a civilization to increase visibility by one level.[NEWLINE][NEWLINE]Send a Delegation. Send a Delegation to a civilization to increase visibility by one level. Once Embassies are available, establishing an Embassy will replace this.[NEWLINE][NEWLINE]Spying or forming an Alliance. Establish a spy in another civilization's city to increase visibility by one level, or you can form an alliance with a friendly civilization. These two actions do not add separate Diplomatic Visibility levels - it does no good to spy on your allies![NEWLINE][NEWLINE]Send a spy on a Listening Post Mission. Performing the Listening Post mission in another civilization's city increases visibility by one level.[NEWLINE][NEWLINE]Research the Printing Press technology. This will increase your visibility with ALL civilizations by one level.[NEWLINE][NEWLINE]Play as Catherine de Medici. She gives France one level of access above normal at all times with civilizations she has met.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_TITLE">
 			<Text>Spies and Espionage</Text>
@@ -711,37 +711,37 @@
 			<Text>There are six different "flavors" of city-states. Each can provide you with different benefits if you befriend or ally with them.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_2">
-			<Text>A trade city-state can provide [ICON_Gold] Vàng to your civilization.</Text>
+			<Text>A trade city-state can provide [ICON_Gold] Gold to your civilization.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_3">
-			<Text>A Religious city-state can provide [ICON_Faith] Lòng tin to your civilization </Text>
+			<Text>A Religious city-state can provide [ICON_Faith] Faith to your civilization </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_4">
-			<Text>A militaristic city-state can provide [ICON_Production] Sản phẩm toward producing units.</Text>
+			<Text>A militaristic city-state can provide [ICON_Production] Production toward producing units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_5">
-			<Text>A scientific city-state can provide [ICON_Science] Khoa học to your civilization.</Text>
+			<Text>A scientific city-state can provide [ICON_Science] Science to your civilization.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_6">
-			<Text>A cultural city-state can help you improve your [ICON_Culture] Văn minh. </Text>
+			<Text>A cultural city-state can help you improve your [ICON_Culture] Culture. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_7">
-			<Text>An industrial city-state can provide [ICON_Production] Sản phẩm towards wonders, buildings, and districts.</Text>
+			<Text>An industrial city-state can provide [ICON_Production] Production towards wonders, buildings, and districts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_TITLE">
 			<Text>Communicating with City-States</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>In order to communicate with a city-state, you must find it first. When one of your units encounters a city-state, the city-state will tell you what type it is, and if you're the first to discover it, you will automatically earn an [ICON_Envoy] Phái đoàn with that city-state. Once you have met, you will be able to undertake "quests" from that city-state. If you want to get in touch with the city-state, you can click on the city itself, or you can go through the City-State Panel. </Text>
+			<Text>In order to communicate with a city-state, you must find it first. When one of your units encounters a city-state, the city-state will tell you what type it is, and if you're the first to discover it, you will automatically earn an [ICON_Envoy] Envoy with that city-state. Once you have met, you will be able to undertake "quests" from that city-state. If you want to get in touch with the city-state, you can click on the city itself, or you can go through the City-State Panel. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_TITLE">
 			<Text>Envoys</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_1">
-			<Text>The bonuses you earn from a city-state depend on how many [ICON_Envoy] Phái đoàn you have sent to the city-state. After earning [ICON_Envoy] Phái đoàn, you will receive a prompt to choose which city-states to send them to. If you have multiple [ICON_Envoy] Phái đoàn, you may divide them between city-states as you desire.</Text>
+			<Text>The bonuses you earn from a city-state depend on how many [ICON_Envoy] Envoys you have sent to the city-state. After earning [ICON_Envoy] Envoys, you will receive a prompt to choose which city-states to send them to. If you have multiple [ICON_Envoy] Envoys, you may divide them between city-states as you desire.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Declaring war directly on a city-state removes all [ICON_Envoy] Phái đoàn you had there. Otherwise, [ICON_Envoy] Phái đoàn stay on the city-state permanently. [ICON_Envoy] Phái đoàn at a city-state are visible to all players, and placing them may have diplomatic consequences. The bonuses earned are based on how many [ICON_Envoy] Phái đoàn you have present, regardless of who else has [ICON_Envoy] Phái đoàn there. City-states of a type all share the same Type Bonuses. They are cumulative, so that as a player places more and more [ICON_Envoy] Phái đoàn on a city-state, they stack with the bonuses from before.</Text>
+			<Text>Declaring war directly on a city-state removes all [ICON_Envoy] Envoys you had there. Otherwise, [ICON_Envoy] Envoys stay on the city-state permanently. [ICON_Envoy] Envoys at a city-state are visible to all players, and placing them may have diplomatic consequences. The bonuses earned are based on how many [ICON_Envoy] Envoys you have present, regardless of who else has [ICON_Envoy] Envoys there. City-states of a type all share the same Type Bonuses. They are cumulative, so that as a player places more and more [ICON_Envoy] Envoys on a city-state, they stack with the bonuses from before.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_3">
 			<Text>{LOC_PEDIA_CONCEPTS_PAGE_DIPLO_6_CHAPTER_CONTENT_PARA_4}</Text>
@@ -750,7 +750,7 @@
 			<Text>Suzerain</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_1">
-			<Text>The civilization with the most [ICON_Envoy] Phái đoàn on a city-state, and at least 3 [ICON_Envoy] Phái đoàn, is considered that city-state's Suzerain. There can be at most one Suzerain; ties are not allowed. If nobody has [ICON_Envoy] Phái đoàn on a city-state, there is no Suzerain. The Suzerain gets several significant benefits:</Text>
+			<Text>The civilization with the most [ICON_Envoy] Envoys on a city-state, and at least 3 [ICON_Envoy] Envoys, is considered that city-state's Suzerain. There can be at most one Suzerain; ties are not allowed. If nobody has [ICON_Envoy] Envoys on a city-state, there is no Suzerain. The Suzerain gets several significant benefits:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Unique city-state bonus: This is a powerful bonus which no other city-state will provide (ex. Jerusalem acts as a second Holy City for your Religion.)</Text>
@@ -771,34 +771,34 @@
 			<Text>The Trader unit is unlocked by researching Foreign Trade, and built in cities. Trader units are on a separate map layer, and do not interact with most normal things on a map. They can freely stack with any other units, and they ignore cultural borders.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_2">
-			<Text>When a Trader is in a city the player owns, it can begin a [ICON_TradeRoute] Tuyến đường thương mại between that city and another city that is in range, as long as that [ICON_TradeRoute] Tuyến đường thương mại is not already active (for example, if I already have a [ICON_TradeRoute] Tuyến đường thương mại from Rome to Athens, I cannot start a second one), and the player has not reached their maximum number of [ICON_TradeRoute] Tuyến đường thương mại. </Text>
+			<Text>When a Trader is in a city the player owns, it can begin a [ICON_TradeRoute] Trade Route between that city and another city that is in range, as long as that [ICON_TradeRoute] Trade Route is not already active (for example, if I already have a [ICON_TradeRoute] Trade Route from Rome to Athens, I cannot start a second one), and the player has not reached their maximum number of [ICON_TradeRoute] Trade Routes. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Once made, the [ICON_TradeRoute] Tuyến đường thương mại will last for at least 20 turns on Standard game speed. The Trader unit will move automatically along its path for the duration of the route, but will not finish the route until it has returned to the origin city's tile. When on an active route, the Trader unit will disregard terrain restrictions and move 1 tile every turn, placing a Road as it moves. Don't forget to protect your Trader from Barbarians or hostile civilizations, as it is vulnerable to pillaging.</Text>
+			<Text>Once made, the [ICON_TradeRoute] Trade Route will last for at least 20 turns on Standard game speed. The Trader unit will move automatically along its path for the duration of the route, but will not finish the route until it has returned to the origin city's tile. When on an active route, the Trader unit will disregard terrain restrictions and move 1 tile every turn, placing a Road as it moves. Don't forget to protect your Trader from Barbarians or hostile civilizations, as it is vulnerable to pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Increasing Trade Routes</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>A player can only maintain a limited number of active [ICON_TradeRoute] Tuyến đường thương mại. This capacity is determined primarily by the number of Commercial Hub and Harbor districts they have, but can be increased by other means as well.</Text>
+			<Text>A player can only maintain a limited number of active [ICON_TradeRoute] Trade Routes. This capacity is determined primarily by the number of Commercial Hub and Harbor districts they have, but can be increased by other means as well.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Trade Range</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>On land, a [ICON_TradeRoute] Tuyến đường thương mại can reach destinations within a range of 15 tiles. Once the player researches the technology that allows embarkation, Traders can also move over water. On water, the range is 30 tiles. Changing between land and water can only be done at a City Center or Harbor district, and the allowance does not carry over. If the city has a Trading Post, the Trader "refuels" its allowance for the new travel domain, and can move further. Otherwise, it must stop at that city.</Text>
+			<Text>On land, a [ICON_TradeRoute] Trade Route can reach destinations within a range of 15 tiles. Once the player researches the technology that allows embarkation, Traders can also move over water. On water, the range is 30 tiles. Changing between land and water can only be done at a City Center or Harbor district, and the allowance does not carry over. If the city has a Trading Post, the Trader "refuels" its allowance for the new travel domain, and can move further. Otherwise, it must stop at that city.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Trading Posts</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Trading Posts extend your trade network and make it more lucrative. Not only do they let you reach further destinations, they also provide bonus yields to any of your [ICON_TradeRoute] Tuyến đường thương mại that pass through them (even if they are not the destination). When a player owns a Trading Post in a city, regardless of who owns the city, that player’s [ICON_TradeRoute] Tuyến đường thương mại can “refuel” their [ICON_Movement] Di chuyển range and reach further destinations. Trading Posts are placed at a city once a [ICON_TradeRoute] Tuyến đường thương mại to or from that city successfully completes, and the Trading Post belongs to the player that owned the [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Trading Posts extend your trade network and make it more lucrative. Not only do they let you reach further destinations, they also provide bonus yields to any of your [ICON_TradeRoute] Trade Routes that pass through them (even if they are not the destination). When a player owns a Trading Post in a city, regardless of who owns the city, that player’s [ICON_TradeRoute] Trade Routes can “refuel” their [ICON_Movement] Movement range and reach further destinations. Trading Posts are placed at a city once a [ICON_TradeRoute] Trade Route to or from that city successfully completes, and the Trading Post belongs to the player that owned the [ICON_TradeRoute] Trade Route.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_TITLE">
 			<Text>Yields</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
-			<Text>A [ICON_TradeRoute] Tuyến đường thương mại provides yields based on where it goes and what path it takes. The districts within a destination city will determine the types of yields provided to the origin city. For example, trading with a city with a Holy Site will provide [ICON_Faith] Lòng tin, and trading with a city with a Theater Square district will provide [ICON_Culture] Văn minh.</Text>
+			<Text>A [ICON_TradeRoute] Trade Route provides yields based on where it goes and what path it takes. The districts within a destination city will determine the types of yields provided to the origin city. For example, trading with a city with a Holy Site will provide [ICON_Faith] Faith, and trading with a city with a Theater Square district will provide [ICON_Culture] Culture.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
 			<Text>Governments and Policies</Text>
@@ -810,16 +810,16 @@
 			<Text>Governments allow you to customize your civilization to match your play style by offering different combinations of slots to elect different types of policies, as well as offering distinct bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Lòng tin and offers a discount on [ICON_Faith] Lòng tin purchases when active.</Text>
+			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Faith and offers a discount on [ICON_Faith] Faith purchases when active.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Lòng tin discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
+			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Faith discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
 			<Text>Policies</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Policies have concrete effects for gameplay. Some increase your cities’ [ICON_Production] Sản phẩm, while others generate more wealth, and still others help create a more effective military. There are no right or wrong policy choices in the game, and one policy may be better for a given circumstance than other, or better suit your personal playing style. Try them out and see.  </Text>
+			<Text>Policies have concrete effects for gameplay. Some increase your cities’ [ICON_Production] Production, while others generate more wealth, and still others help create a more effective military. There are no right or wrong policy choices in the game, and one policy may be better for a given circumstance than other, or better suit your personal playing style. Try them out and see.  </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_2">
 			<Text>There are 4 types of policies, each of which may be slotted into a corresponding slot in a given government. Slotting these individual policies will give you the benefits described and enhance your game.  </Text>
@@ -828,7 +828,7 @@
 			<Text>Gaining Policies</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>You can choose to adopt policies once you have gained [ICON_Culture] Văn minh to unlock your first government. Policies will be unlocked as you progress through the Civics Tree, and changing your government will allow you to slot different combinations of policies to better suit your play style. Any time a new government or policy is unlocked from the Civics Tree, you will have the opportunity to reslot or change your government for free. Otherwise, there will be a cost to make these changes.</Text>
+			<Text>You can choose to adopt policies once you have gained [ICON_Culture] Culture to unlock your first government. Policies will be unlocked as you progress through the Civics Tree, and changing your government will allow you to slot different combinations of policies to better suit your play style. Any time a new government or policy is unlocked from the Civics Tree, you will have the opportunity to reslot or change your government for free. Otherwise, there will be a cost to make these changes.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Policy Types</Text>
@@ -849,22 +849,22 @@
 			<Text>Wildcard: These policies accelerate the rate of [ICON_GreatPerson] Great Person production.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GREATPEOPLE_NAME">
-			<Text>VĨ NHÂN</Text>
+			<Text>Great People</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_TITLE">
 			<Text>Introduction</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Great People are the artists, merchants, engineers, scientists, generals, and admirals who can, singlehandedly, change the course of a civilization. There are nine types of [ICON_GreatPerson] Great People: [ICON_GreatArtist] Họa sĩ vĩ đạis, [ICON_GreatWriter] Nhà văn vĩ đạis, [ICON_GreatMusician] Nhạc sĩ vĩ đạis, [ICON_GreatEngineer] Kỹ sư vĩ đạis, [ICON_GreatMerchant] Thương gia vĩ đạis, [ICON_GreatScientist] Nhà khoa học vĩ đạis, [ICON_GreatProphet] Nhà tiên tri vĩ đại, [ICON_GreatAdmiral] Đô đốc vĩ đạis, and [ICON_GreatGeneral] Tướng quân vĩ đạis.</Text>
+			<Text>[ICON_GreatPerson] Great People are the artists, merchants, engineers, scientists, generals, and admirals who can, singlehandedly, change the course of a civilization. There are nine types of [ICON_GreatPerson] Great People: [ICON_GreatArtist] Great Artists, [ICON_GreatWriter] Great Writers, [ICON_GreatMusician] Great Musicians, [ICON_GreatEngineer] Great Engineers, [ICON_GreatMerchant] Great Merchants, [ICON_GreatScientist] Great Scientists, [ICON_GreatProphet] Great Prophets, [ICON_GreatAdmiral] Great Admirals, and [ICON_GreatGeneral] Great Generals.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Earning Great People</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Great People can be earned by generating enough of the right type of points. They are visible to all players, and they are visibly competed for between all players. Only major civilizations can earn [ICON_GreatPerson] Great People, not Barbarians or city-states. Each type of [ICON_GreatPerson] Great Person has its own points which are tracked separately. [ICON_GreatScientist] Nhà khoa học vĩ đại Points cannot count as [ICON_GreatArtist] Họa sĩ vĩ đại Points, and so on. The number of points needed to earn a particular [ICON_GreatPerson] Great Person depends that [ICON_GreatPerson] Great Person’s era. A Renaissance-era [ICON_GreatScientist] Nhà khoa học vĩ đại will cost much less [ICON_GreatScientist] Nhà khoa học vĩ đại Points than a Modern-era one. The points come from a variety of sources.</Text>
+			<Text>[ICON_GreatPerson] Great People can be earned by generating enough of the right type of points. They are visible to all players, and they are visibly competed for between all players. Only major civilizations can earn [ICON_GreatPerson] Great People, not Barbarians or city-states. Each type of [ICON_GreatPerson] Great Person has its own points which are tracked separately. [ICON_GreatScientist] Great Scientist Points cannot count as [ICON_GreatArtist] Great Artist Points, and so on. The number of points needed to earn a particular [ICON_GreatPerson] Great Person depends that [ICON_GreatPerson] Great Person’s era. A Renaissance-era [ICON_GreatScientist] Great Scientist will cost much less [ICON_GreatScientist] Great Scientist Points than a Modern-era one. The points come from a variety of sources.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Each district, and the buildings within it, provides points towards its associated [ICON_GreatPerson] Great Person type. This is the slow but steady source of points. Districts also allow a city to use [ICON_Production] Sản phẩm towards projects which, when completed, contribute [ICON_GreatPerson] Great Person points.</Text>
+			<Text>Each district, and the buildings within it, provides points towards its associated [ICON_GreatPerson] Great Person type. This is the slow but steady source of points. Districts also allow a city to use [ICON_Production] Production towards projects which, when completed, contribute [ICON_GreatPerson] Great Person points.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Using Great People</Text>
@@ -873,10 +873,10 @@
 			<Text>Each [ICON_GreatPerson] Great Person individual has a different effect, inspired by history. Most effects are strongly linked to a particular era of play, and are not optimal for use outside of that time. The effects fall into two broad categories, "birth" effects and "action" effects.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
-			<Text>A Birth Effect happens as soon as the [ICON_GreatPerson] Great Person is spawned on the map, and do not need to be activated. These are mostly used for Tướng quân vĩ đạis and Đô đốc vĩ đạis.</Text>
+			<Text>A Birth Effect happens as soon as the [ICON_GreatPerson] Great Person is spawned on the map, and do not need to be activated. These are mostly used for Great Generals and Great Admirals.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_3">
-			<Text>An Action Effect must be activated by the [ICON_GreatPerson] Great Person by using a “charge” at a certain location. The number of charges, the type of location needed, and the effect activated will vary based on the individual. Most individuals only have 1 charge and can only activate at a district matching its type (ex. most [ICON_GreatScientist] Nhà khoa học vĩ đạis have 1 charge and must use it at a Campus). Like other charge-based units, the individual will disappear when all charges are depleted.</Text>
+			<Text>An Action Effect must be activated by the [ICON_GreatPerson] Great Person by using a “charge” at a certain location. The number of charges, the type of location needed, and the effect activated will vary based on the individual. Most individuals only have 1 charge and can only activate at a district matching its type (ex. most [ICON_GreatScientist] Great Scientists have 1 charge and must use it at a Campus). Like other charge-based units, the individual will disappear when all charges are depleted.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Moving Great People</Text>
@@ -903,7 +903,7 @@
 			<Text>Patrols</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Fighter aircraft can be deployed to a valid hex within their [ICON_Movement] Di chuyển range from a friendly air base. After it is deployed, the aircraft will begin flying an orbiting pattern around its effective intercept range (currently 1 hex radius). This should make it more clear to both the attacker and defender the status of the Fighters in the Patrol state.</Text>
+			<Text>Fighter aircraft can be deployed to a valid hex within their [ICON_Movement] Movement range from a friendly air base. After it is deployed, the aircraft will begin flying an orbiting pattern around its effective intercept range (currently 1 hex radius). This should make it more clear to both the attacker and defender the status of the Fighters in the Patrol state.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_2">
 			<Text>The Patrol state is continuing, somewhat like the 'Fortify' unit operation. Once an aircraft has been set to Patrol it will do so until it is ordered otherwise or it is destroyed. While Patrolling, the aircraft will continue to intercept and defend against multiple attackers. </Text>
@@ -933,10 +933,10 @@
 			<Text>There are 2 categories of atomic weapons: the Nuclear Device and the Thermonuclear Device.  They can be built as a city Project in any city and both require the Uranium resource to produce. There is no limit on the number that a player can build. [NEWLINE][NEWLINE]Once a Nuclear or Thermonuclear Device is created, it is added to the player's inventory and can then be used by any unit or improvement capable of deploying it on the map. This includes bomber aircraft, Nuclear Submarines, and the Missile Silo.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Nuclear Devices have a blast radius of 1. When deployed from a Missile Silo, they have a [ICON_Range] Range of 12. They cost 14 [ICON_Gold] Vàng per turn to maintain.</Text>
+			<Text>Nuclear Devices have a blast radius of 1. When deployed from a Missile Silo, they have a [ICON_Range] Range of 12. They cost 14 [ICON_Gold] Gold per turn to maintain.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Thermonuclear Devices have a blast radius of 2. When deployed from a Missile Silo, they have a [ICON_Range] Range of 15. They cost 16 [ICON_Gold] Vàng per turn to maintain.</Text>
+			<Text>Thermonuclear Devices have a blast radius of 2. When deployed from a Missile Silo, they have a [ICON_Range] Range of 15. They cost 16 [ICON_Gold] Gold per turn to maintain.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_TITLE">
 			<Text>Destruction</Text>
@@ -948,7 +948,7 @@
 			<Text>Contamination</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>After a nuclear attack, fallout will contaminate every tile affect  by the blast. Any units that end their turn in a contaminated tile take 50 damage each turn. [ICON_Production] Sản phẩm cannot be applied to anything in tiles containing contamination, such as repairing buildings and districts. Tiles that are contaminated cannot be worked by the city until the contamination timer expires or until the tile is "cleaned." </Text>
+			<Text>After a nuclear attack, fallout will contaminate every tile affect  by the blast. Any units that end their turn in a contaminated tile take 50 damage each turn. [ICON_Production] Production cannot be applied to anything in tiles containing contamination, such as repairing buildings and districts. Tiles that are contaminated cannot be worked by the city until the contamination timer expires or until the tile is "cleaned." </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
 			<Text>Nuclear contamination can be "cleaned" from affected tiles by Builder and Military Engineer units. Cleaning a contaminated tile takes 1 build charge. Builder and Military Engineer units that are able to clean contaminated hexes will take less damage if they end their turn in such a hex. Any city tiles not directly affected by the nuclear blast will still function normally and contribute to the city’s yield.</Text>
@@ -960,7 +960,7 @@
 			<Text>Introduction</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Tourism] Du lịch is needed in order to win a Culture Victory. You can generate [ICON_Tourism] Du lịch through Great Works, wonders, Holy Sites, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, Seaside Resorts and National Parks. You can boost your [ICON_Tourism] Du lịch through [ICON_TradeRoute] Tuyến đường thương mại, Open Borders, and shared (or conflicting) late game governments. </Text>
+			<Text>[ICON_Tourism] Tourism is needed in order to win a Culture Victory. You can generate [ICON_Tourism] Tourism through Great Works, wonders, Holy Sites, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, Seaside Resorts and National Parks. You can boost your [ICON_Tourism] Tourism through [ICON_TradeRoute] Trade Routes, Open Borders, and shared (or conflicting) late game governments. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
 			<Text>Great Works, Relics, and Artifacts</Text>
@@ -972,19 +972,19 @@
 			<Text>Seaside Resorts</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Seaside Resorts are a special improvement that can be built after researching the Radio technology. These generate [ICON_Tourism] Du lịch based on the tile's Appeal.</Text>
+			<Text>Seaside Resorts are a special improvement that can be built after researching the Radio technology. These generate [ICON_Tourism] Tourism based on the tile's Appeal.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_TITLE">
 			<Text>National Parks</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Naturalists may be purchased in your city with [ICON_Faith] Lòng tin after researching the Conservation civic, and can be used to designate National Parks. Creating a National Park consumes the Naturalist unit.</Text>
+			<Text>Naturalists may be purchased in your city with [ICON_Faith] Faith after researching the Conservation civic, and can be used to designate National Parks. Creating a National Park consumes the Naturalist unit.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_2">
 			<Text>National Parks can be built on a cluster of any four contiguous hexes that meet the following requirements:[NEWLINE]The tiles must be natural wonders, Mountains, or a tile with an Appeal of Charming or better.[NEWLINE]	All four of the tiles must be owned by the same city.[NEWLINE]The tiles must form a diamond shape.[NEWLINE]	No tile can have an improvement or district on it.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_3">
-			<Text>A National Park's [ICON_Tourism] Du lịch output is equal to the total Appeal of all the tiles included in the park. Creating a National Park will also give your civilization extra [ICON_Amenities] Tiện nghi.  You will receive 2 [ICON_Amenities] Tiện nghi in the city that owns the park and 1 [ICON_Amenities] Tiện nghi towards the 4 closest cities in your empire.</Text>
+			<Text>A National Park's [ICON_Tourism] Tourism output is equal to the total Appeal of all the tiles included in the park. Creating a National Park will also give your civilization extra [ICON_Amenities] Amenities.  You will receive 2 [ICON_Amenities] Amenities in the city that owns the park and 1 [ICON_Amenities] Amenity towards the 4 closest cities in your empire.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME">
 			<Text>Victory and Defeat</Text>
@@ -1020,7 +1020,7 @@
 			<Text>Land a Human on the Moon:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_5">
-			<Text>Just like the Apollo II mission in 1969, you will send a human to the moon. This is unlocked after researching the technology Satellites, and can be built in any city with a Spaceport. Choose to produce the Moon Landing project to begin this mission. After the rocket has been launched, you will immediately be rewarded a lump sum of [ICON_Culture] Văn minh.</Text>
+			<Text>Just like the Apollo II mission in 1969, you will send a human to the moon. This is unlocked after researching the technology Satellites, and can be built in any city with a Spaceport. Choose to produce the Moon Landing project to begin this mission. After the rocket has been launched, you will immediately be rewarded a lump sum of [ICON_Culture] Culture.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_6">
 			<Text>Establish a Colony on Mars:</Text>
@@ -1038,7 +1038,7 @@
 			<Text>If you aim to be the cultural epicenter of the world, this is the victory for you. The first civilization to possess a total number of [ICON_Tourism] Visiting Tourists that exceeds the [ICON_Tourism] Domestic Tourists of each other civilization in the game wins the Culture Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_2">
-			<Text>[ICON_Tourism] Du lịch is generated by [ICON_TradeRoute] Tuyến đường thương mại, shared (or conflicting) late game Governments, open borders, Great Works housed in your civilization, [ICON_GreatWork_Relic] Relics housed in your civilization, Holy Sites, National Parks, [ICON_GreatWork_Artifact] Artifacts, and wonders.</Text>
+			<Text>[ICON_Tourism] Tourism is generated by [ICON_TradeRoute] Trade Routes, shared (or conflicting) late game Governments, open borders, Great Works housed in your civilization, [ICON_GreatWork_Relic] Relics housed in your civilization, Holy Sites, National Parks, [ICON_GreatWork_Artifact] Artifacts, and wonders.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
 			<Text>Religious Victory</Text>

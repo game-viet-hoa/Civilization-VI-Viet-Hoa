@@ -2,15 +2,15 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_ANY_ANY">
-			<Text>Vâng, tôi rất vui đồng ý thỏa thuận này.</Text>
+			<Text>Yes, I am happy to accept this deal.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_ANY_ANY">
-			<Text>Tôi không thể chấp nhận thỏa thuận này.</Text>
+			<Text>I cannot accept this deal.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_ANY_ANY">
-			<Text>Cảm ơn. Tôi nghĩ điều này đều có lợi cho chúng ta.</Text>
+			<Text>Thank you. I think this will benefit each of us.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MVEMBA_ANY">
 			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY}</Text>
@@ -71,7 +71,7 @@
 		</Row>
 		
 		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_ANY_ANY">
-			<Text>Tôi phải nói rằng tôi có một chút thất vọng.</Text>
+			<Text>I must say, I'm a bit disappointed.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MVEMBA_ANY">
 			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY}</Text>
@@ -132,7 +132,7 @@
 		</Row>
 		
 		<Row Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_ANY_ANY">
-			<Text>Thỏa thuận này có thay đổi so với ý muốn của tôi.</Text>
+			<Text>This deal is more to my liking.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

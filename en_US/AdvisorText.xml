@@ -2,10 +2,10 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_TUTORIAL_MAP_NAME">
-			<Text>Bản Đồ Hướng Dẫn</Text>
+			<Text>Tutorial Map</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_MAP_DESCRIPTION">
-			<Text>Bản đồ chuyên dùng cho hướng dẫn.</Text>
+			<Text>Map used exclusively for the tutorial.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
 			<Text>Dawn of Civilization</Text>
@@ -23,61 +23,61 @@
 			<Text>OK</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_SHOW_ME">
-			<Text>Chỉ tôi cách</Text>
+			<Text>Show me how</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_DISMISS">
-			<Text>Bạn bị sa thải</Text>
+			<Text>You are dismissed</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_ASSISTANCE_APPRECIATED">
-			<Text>Sự giúp đỡ của bạn được đánh giá cao</Text>
+			<Text>Your assistance is appreciated</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_CONTINUE">
-			<Text>Tiếp tục</Text>
+			<Text>Continue</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_GET_STARTED">
-			<Text>Bắt đầu nào</Text>
+			<Text>Let's get started</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_AGREED">
-			<Text>Đã đồng ý</Text>
+			<Text>Agreed</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_VERY_GOOD">
-			<Text>Rất tốt</Text>
+			<Text>Very good</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_TELL_ME_MORE">
-			<Text>Cho tôi biết thêm</Text>
+			<Text>Tell me more</Text>
 		</Row>
 		<!---->
 		<!-- ADVISOR TEXT -->
 		<!---->
 		<Row Tag="LOC_ADVISOR_HEAD">
-			<Text>CỐ VẤN</Text>
+			<Text>ADVISOR</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_INTRO">
-			<Text>Là một cố vấn, tôi đủ khả năng để hỗ trợ bạn trong tất cả các vấn đề liên quan. Nếu không cần đến tôi, bạn có thể bỏ qua.</Text>
+			<Text>As your advisor I am qualified to assist you in all matters related to ruling our civilization.[NEWLINE]If you do not require my service, you can dismiss me to attend to other matters.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_1">
-			<Text>Chào mừng! Là một cố vấn, tôi đủ khả năng để hỗ trợ bạn trong tất cả các vấn đề liên quan.</Text>
+			<Text>Greetings My Liege! As your personal advisor I am qualified to assist you in all matters related to ruling our civilization. I am at your service.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_2">
-			<Text>Tất cả nền văn minh lớn đều bắt đầu với một thành phố. Dân di cư của chúng ta đã tìm thấy một vị trí lý tưởng. Ra lệnh cho họ để tạo thành phố mới ở đây.</Text>
+			<Text>All great civilizations begin with a great city, and our Settlers have found an ideal location. Order them to found a new city here.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_3">
-			<Text>Tốt lắm! Bạn đã có thành phố đầu tiên. Từ những nền văn minh nhỏ bé sẽ phát triển trước những thử thách của thời gian. Bạn sẽ phải định hướng và bảo vệ những gì bạn đã tạo ra.</Text>
+			<Text>Well done! You have founded your first city. From these roots your civilization will grow to stand the test of time. Now you must nurture and protect what you have created.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_4">
-			<Text>Bảo vệ thành phố là rất quan trọng. Quân man rợ ở gần sẽ làm những gì chúng muốn như việc phá hoại, cướp bóc chúng ta.</Text>
+			<Text>Security is of great importance. There are barbaric tribes near us who want nothing more than to pillage and plunder what is ours.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_5">
-			<Text>Hãy đào tạo một Chiến binh để đối phó với các đe dọa.</Text>
+			<Text>Direct the production efforts of this city to train Warriors to deal with this impending threat.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_6">
-			<Text>Đã bắt đầu đào tạo, nó sẽ mất một chút thời gian trước khi Chiến binh sẵn sàng. Không có vấn đề nào cần phải chú ý nữa.</Text>
+			<Text>Training has begun, but it will be some time before our new Warriors are ready. There are no further matters to attend to right now.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_7">
-			<Text>Thành phố đang bận đào tạo Chiến binh cho phòng thủ. Nhưng nền văn minh lớn không chỉ có mỗi quân đội. Chúng tôi có những con người tài năng trong việc nghiên cứu khám phá khoa học. Sử dụng họ để tìm ra công nghệ mới giúp phát triển nền văn minh.</Text>
+			<Text>Your city is busy training Warriors for its defense, but a great civilization cannot thrive on military might alone. We have people talented in the ways of science and discovery. You should employ them in researching new technologies which will advance our civilization.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_8">
-			<Text>Một quyết định khôn ngoan. Công nghệ này sẽ giúp chúng ta có được [ICON_Production] Sản phẩm từ những tài nguyên phong phú. Tôi sẽ cho bạn biết khi nào nghiên cứu hoàn thành.</Text>
+			<Text>Wise decision, Your Majesty. This technology will let us better extract the riches from the earth and increase [ICON_Production] Production in our cities. I will let you know when we have finished our research.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_9">
 			<Text>Your Majesty, hostile Barbarians have been seen near our [ICON_Capital] Capital. If left alone they are sure to attack our people and pillage our lands. Your newly trained Warriors await your orders to attack!</Text>
@@ -98,16 +98,16 @@
 			<Text>There are mysteries that await us outside our borders in the uncharted lands beyond. The only way to find out is to explore.</Text>
 		</Row>
 		<Row Tag="LOC_META_14_BODY">
-			<Text>Khi mới bắt đầu game, các vùng đất xung quanh được khám phá, nhưng khu vực xa hơn thì sẽ chỉ là tờ giấy da trống.</Text>
+			<Text>At the beginning of the game, your city and the lands immediately around it are revealed, but the areas beyond, represented by blank parchment, indicate parts of the world you have not yet explored.</Text>
 		</Row>
 		<Row Tag="LOC_META_16_BODY">
-			<Text>Chiến binh có [ICON_Movement] Di chuyển là 2.[NEWLINE][NEWLINE]Đường màu xanh là phạm vi có thể di chuyển tối đa trong một lượt.</Text>
+			<Text>Warrior units have a [ICON_Movement] Movement range of 2.[NEWLINE][NEWLINE]The blue colored indicator shown on the lands around the unit displays the furthest the selected unit can move in a single turn.</Text>
 		</Row>
 		<Row Tag="LOC_META_17_BODY">
-			<Text>Địa hình mở như đồng cổ sẽ mất 1 [ICON_Movement], còn địa hình khó như đồi sẽ mất 2 [ICON_Movement] hoặc nhiều hơn.</Text>
+			<Text>Open terrain, like Plains and Grassland, only consume 1 [ICON_Movement] Movement point, whereas more difficult terrain, like Woods and Hills, will consume 2 or more [ICON_Movement] Movement points. Move the Warrior unit to the highlighted location by right clicking.</Text>
 		</Row>
 		<Row Tag="LOC_META_17b_HEAD">
-			<Text>DI CHUYỂN CHIẾN BINH</Text>
+			<Text>MOVE WARRIOR</Text>
 		</Row>
 		<Row Tag="LOC_META_17b_BODY">
 			<Text>RIGHT-CLICK the highlighted location to move your Warrior.</Text>
@@ -116,13 +116,13 @@
 			<Text>Your Majesty, our Warriors have discovered a small Tribal Village whose inhabitants are welcoming and friendly. Shall we investigate it and send the Warriors to speak with them?</Text>
 		</Row>
 		<Row Tag="LOC_META_18_BODY">
-			<Text>Khám phá làng bộ lạc sẽ cung cấp lợi ích tức thì như [ICON_Citizen] Dân số hoặc [ICON_Gold] Vàng. Khám phá được càng nhiều làng càng tốt.</Text>
+			<Text>Exploring Tribal Villages can give your civilization one of many instant benefits, like granting an additional [ICON_Citizen] Population in your city, or awarding [ICON_Gold] Gold. It is a good strategy to explore as many Tribal Villages as possible.</Text>
 		</Row>
 		<Row Tag="LOC_META_20_HEAD">
-			<Text>DI CHUYỂN CHIẾN BINH</Text>
+			<Text>MOVE WARRIOR</Text>
 		</Row>
 		<Row Tag="LOC_META_20_BODY">
-			<Text>Để khám phá làng bộ lạc, đưa quân vào ô đó. Hãy thử ngay bây giờ..</Text>
+			<Text>To explore a Tribal Village, move one of your units into the Tribal Village hex. Try moving your Warrior unit there now.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_16">
 			<Text>It appears that the Tribal Villagers are also harassed by the Barbarians. They are impressed by our culture, and have decided to join us in the fight!</Text>
@@ -131,34 +131,34 @@
 			<Text>Good news indeed! They are skillful Scouts and wily travellers. They can move faster than our Warriors, making them ideal for exploring the surrounding lands, but they are not as strong in combat. They eagerly await your orders.</Text>
 		</Row>
 		<Row Tag="LOC_META_21_BODY">
-			<Text>Đơn vị Do thám có 3 [ICON_Movement] Di chuyển, cho phép di chuyển xa hơn các đơn vị khác. Di chuyển Do thám để khám phá những vùng đất mới.</Text>
+			<Text>Notice that the Scout unit has a [ICON_Movement] Movement of 3, allowing it to move a greater distance than other units. Move the Scout unit toward an undiscovered part of the map.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_18">
 			<Text>Scouts are excellent at exploring, but they are not as strong in combat as our Warriors. It is better to have them focus on exploration and survival rather than fighting our enemies.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_19">
-			<Text>A team of Builders has finished their training in our city. They are ready to work on improving the surrounding lands. There are ideal locations for the growing of [ICON_Food] Thực phẩm to support our populace. Constructing a Farm there would increase our yield from those lands.</Text>
+			<Text>A team of Builders has finished their training in our city. They are ready to work on improving the surrounding lands. There are ideal locations for the growing of [ICON_Food] Food to support our populace. Constructing a Farm there would increase our yield from those lands.</Text>
 		</Row>
 		<Row Tag="LOC_META_22_BODY">
-			<Text>Thợ xây có thể xây mọi thứ trên vùng đất của mình. Cao nguyên hay đồng cỏ rất lý tưởng để xây dựng các nông trường.</Text>
+			<Text>Builders can construct a wide variety of improvements to your land. The type of improvement they can build on a plot is often determined by the type of terrain. Plains and Grassland plots are ideal for Farms, which help increase [ICON_Citizen] Population.</Text>
 		</Row>
 		<Row Tag="LOC_META_23_HEAD">
-			<Text>DI CHUYỂN THỢ XÂY</Text>
+			<Text>MOVE BUILDER</Text>
 		</Row>
 		<Row Tag="LOC_META_23_BODY">
-			<Text>Di chuyển thợ xây vào vùng đất cạnh thành phố.</Text>
+			<Text>Move your Builder to the highlighted Plains area next to your city.</Text>
 		</Row>
 		<Row Tag="LOC_META_24_HEAD">
-			<Text>XÂY NÔNG TRẠI</Text>
+			<Text>CONSTRUCT FARM</Text>
 		</Row>
 		<Row Tag="LOC_META_24_BODY">
-			<Text>Xây dựng một nông trại.</Text>
+			<Text>Construct a Farm improvement here by clicking on the "Build Improvement: Farm" button next to the Unit Panel.</Text>
 		</Row>
 		<Row Tag="LOC_META_25_BODY">
-			<Text>Xây Nông Trại ở đây sẽ tăng sản lượng từ 1 [ICON_Food] Thực phẩm lên 2. Lượng [ICON_Food] Thực phẩm quyết định đến sự phát triển [ICON_Citizen] Dân số. Nhiều [ICON_Food] Thực phẩm có nghĩa là sẽ phát triển nhanh.</Text>
+			<Text>Constructing a Farm here has increased the [ICON_Food] Food yield from this plot from 1 [ICON_Food] Food per turn to 2. The amount of [ICON_Food] Food generated by your city determines how fast the Population of that city grows, granting you new [ICON_Citizen] Citizens to work more tiles. More [ICON_Food] Food means faster growth.</Text>
 		</Row>
 		<Row Tag="LOC_META_26_BODY">
-			<Text>Thợ Xây có thể xây 3 cấu trúc trước khi ra đi. Con số này được hiển thị trong bảng thông tin. Sau khi xây Nông trại thì giờ còn lại 2.</Text>
+			<Text>Builders can build up to 3 improvements before exhausting their workforce. This number is indicated in the Unit Panel. This Builder unit has consumed one of its workforce from building the Farm and now has 2 remaining.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_20">
 			<Text>Your Majesty, it is once again time to choose where to direct the production efforts of our city. Your leadership is without equal and our civilization continues to thrive. Shall we construct a Monument to honor our civilization's growing greatness?</Text>
@@ -173,7 +173,7 @@
 			<Text>I would advise you to use caution. The Barbarian camp is heavily defended by their best troops and will be hard to take. We should send an assault force of multiple military units to ensure victory.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_BARBARIAN_CAMP_DISCOVERED_C">
-			<Text>Trong việc phát triển quân sự, nó luôn là một chiến thuật để đang dạng hóa. Không phải tất cả đơn vị đều có thông số giống nhau, có một số đơn vị tốt hơn những người khác.</Text>
+			<Text>In developing your military, it is always a good strategy to diversify. Not all units are created equal, some are better against others, and have abilities that separate them from the rest.</Text>
 		</Row>
 		<Row Tag="LOC_META_124_BODY">
 			<Text>In developing your military, it is always a good strategy to diversify. Not all units are created equal, some are better against others, and have abilities that separate them from the rest.</Text>
@@ -185,49 +185,49 @@
 			<Text>A good city can become a great city through careful planning. Deciding where to place a city district is an important decision. Be sure to pick a location best suited to reap the most benefit.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_4">
-			<Text>Your Excellency, I am happy to announce that because of our city's prosperity, our [ICON_Citizen] Dân số has grown!</Text>
+			<Text>Your Excellency, I am happy to announce that because of our city's prosperity, our [ICON_Citizen] Population has grown!</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_B">
-			<Text>[ICON_Citizen] Dân số đã phát triển từ 1 lên 2. Miễn là ấm no, hạnh phúc, nó sẽ tiếp tục phát triển. [ICON_Citizen] Dân sẽ làm việc xung quanh thành phố để tăng sản lượng.[ICON_Citizen] Dân số cao thì [ICON_Science] Khoa học nghiên cứu nhanh, sản xuất [ICON_Production] Sản phẩm, và [ICON_Culture] Văn minh cũng tăng theo.</Text>
+			<Text>The [ICON_Citizen] Population of your first city has grown from 1 to 2. As long as a city is well fed and its people are happy, it will continue to grow. The [ICON_Citizen] Citizens of the city work the surrounding plots and improvements contributing to greater yields. Higher [ICON_Citizen] Populations contribute to faster [ICON_Science] Science research, faster city [ICON_Production] Production, and faster [ICON_Culture] Cultural growth.</Text>
 		</Row>
 		<Row Tag="LOC_META_125_BODY">
-			<Text>[ICON_Citizen] Dân số đã phát triển từ 1 lên 2. Miễn là ấm no, hạnh phúc, nó sẽ tiếp tục phát triển. [ICON_Citizen] Dân sẽ làm việc xung quanh thành phố để tăng sản lượng.[ICON_Citizen] Dân số cao thì [ICON_Science] Khoa học nghiên cứu nhanh, sản xuất [ICON_Production] Sản phẩm, và [ICON_Culture] Văn minh cũng tăng theo.</Text>
+			<Text>The [ICON_Citizen] Population of your first city has grown from 1 to 2. As long as a city is well fed and its people are happy, it will continue to grow. The [ICON_Citizen] Citizens of the city work the surrounding plots and improvements contributing to greater yields. Higher [ICON_Citizen] Populations contribute to faster [ICON_Science] Science research, faster city [ICON_Production] Production, and faster [ICON_Culture] Cultural growth.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_C">
-			<Text>Khi đặt một thành phố mới thì các thành phố này cũng phát triển theo.</Text>
+			<Text>It is always a good strategy to not only found new cities to expand your realm, but also to grow those cities.</Text>
 		</Row>
 		<Row Tag="LOC_META_126_BODY">
-			<Text>Khi đặt một thành phố mới thì các thành phố này cũng phát triển theo.</Text>
+			<Text>It is always a good strategy to not only found new cities to expand your realm, but also to grow those cities.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
-			<Text>Trong Civilization VI, bạn có thể có được khoảnh khắc Eureka giúp tăng một nửa công nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
+			<Text>In Civilization VI, you can get Eureka Moments that boost your technology research through in game achievements. This Eureka Moment was gained by discovering a natural wonder. Other achievements could be winning a battle with a specific unit or constructing a building. Achieving these greatly accelerates your technological progress.</Text>
 		</Row>
 		
 		
 		<!-- Listener lines -->
 		<Row Tag="ADVISOR_LINE_LISTENER_1">
-			<Text>Qua khám phá chúng tôi tìm thấy một kỳ quan thiên nhiên của thế giới. Chắc chắn nó cung cấp nhiều lợi ích cho dân di cư lập thành phố xung quanh nó.</Text>
+			<Text>Through exploration we have discovered a natural wonder of the world. There is no doubt that it could provide a great benefit to the one who settles the lands surrounding it.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_2">
-			<Text>Đơn vị khám phá như Trinh sát có nhiều kinh nghiệm trong việc mở rộng bản đồ, khám phá thế giới.</Text>
+			<Text>Reconnaissance units like Scouts are unique in that they can gain experience by exploring and discovering parts of the world.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_3">
-			<Text>Số lần xây dựng của Thợ Xây đã hết. Chúng ta cần phải đào tạo thêm Thợ xây để xây dựng các công trình trong thành phố.</Text>
+			<Text>The workforce of our Builder unit has been expended. We will need to train more Builders to continue building improvements on the lands surrounding our cities.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_4">
-			<Text>Ban hình chính sách cho chính phủ rất có lợi. Dân chúng đang chờ lệnh của bạn.</Text>
+			<Text>Enacting new policies in our government can be of great benefit. Our people await your decree.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_5">
-			<Text>Cơ hội đến để mở ra mọt chính phủ mạnh mẽ hơn. Hãy để chúng tôi ban hành nhiều chính sách để cai trị tốt nhân dân.</Text>
+			<Text>The opportunity has arrived for a change into a new and more powerful system of government. Let us strengthen our identity and enact more policies to govern our people.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_6">
-			<Text>Chúng ta có thể phát triển tuyến thương mại giữa hai thành phố. Một THƯƠNG GIA là cần thiết để tạo một tuyến đường, nó sẽ rất có lợi cho nền kinh tế.</Text>
+			<Text>We have the opportunity to develop a formal Trade Route between two cities. A Trader unit is required to establish such a route, which would be very beneficial for our economy.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_7">
-			<Text>Ngoài việc làm giàu cho nền văn minh, Tuyến đường thương mại này còn làm ra những con đường giữa hai thành phố. Đường cho phép đơn vị đi qua mà không bị phạt điểm di chuyển trên địa hình khó.</Text>
+			<Text>In addition to bringing riches to our civilization, this Trade Route will gradually develop Roads between our cities. Roads allow our units to no longer be impaired by the difficult terrain through which they pass.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_9">
-			<Text>Đơn vị quân đội đã chúng tỏ bản thân. Từ những kinh nghiệm chiến đấu, họ có được nhưng huân chương cao quý. Bạn sẽ tặng cho họ thứ gì?</Text>
+			<Text>This military unit has proven themselves. From the experience they have gained in combat they are eligible to be granted a promotion. How will you award these brave souls?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_10">
 			<Text>The combat achievements of this unit have become legendary, and worthy of a name unique to them. With what title shall we honor them?</Text>
@@ -248,7 +248,7 @@
 			<Text>Our capital flourishes! But I think it is time that we begin establishing roots elsewhere. Perhaps we should train a Settler.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_16">
-			<Text>Chúng ta đã có một phái đoàn. Có thể sử dụng để đạt lợi ích với thành phố tự trị. Trở nên thân thiện hơn với thành phố tự trị sẽ giúp ích rất nhiều cho thành phố.</Text>
+			<Text>My liege, we have an Envoy at our disposal. We can use the Envoy to gain favor with a city-state. Becoming friendly with a city-state neighbor can be greatly beneficial to our civilization.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_17">
 			<Text>Our City-State neighbors have made a request of us. If we can impress them, I think they will reward us handsomely.</Text>
@@ -260,7 +260,7 @@
 			<Text>Your grace, I must warn you that some of the improved lands around our city have been pillaged. We should find those responsible and ensure no more damage can be done.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_20">
-			<Text>Bạn có được kiến thức quy hoạch thành phố. Xây các khu vực trong các thành phố thì phát triển hơn là các công trình như Đào Tài Nguyên, Nông Trường.</Text>
+			<Text>We have recently gained advanced knowledge in city planning. Creating districts in our cities can be much more powerful and lucrative than simple improvements like Farms and Mines.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_21">
 			<Text>Our military has learned the way of combining two military units into larger scale Corps. These Corps units are much more powerful than their singular counterparts.</Text>
@@ -269,7 +269,7 @@
 			<Text>Our military now is trained in the way of combining three military units into a single Army, much larger and more powerful than a Corps unit.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_23">
-			<Text>Chúng ta có được kiến thức xây dựng công trình bảo vệ quanh thành phố. Kiến trúc tường thành sẽ giúp ích bảo vệ thành phố rất nhiều.</Text>
+			<Text>Your Grace, we have obtained greater knowledge in the art of building static fortifications. Building Walls around our cities will not only make them stronger against a foreign invader, but will also allow them to bombard nearby enemies.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_24">
 			<Text>Your grace! The enemy is at our gates, and this city is surrounded and under seige. Supplies and food cannot get through, and our city cannot heal its wounds. It is paramount that we break this encirclement.</Text>
@@ -281,10 +281,10 @@
 			<Text>It is important to keep a close eye on our neighbors, and our people may be able to help. Listen carefully, for they are sometimes privy to more information than we are.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_27">
-			<Text>Chúng ta bắt đầu thu hút sự chú ý của Vĩ nhân trên thế giới. Dĩ nhiên, người lãnh đạo khác cũng có thể tuyển dụng được họ.</Text>
+			<Text>My liege, we are beginning to attract the attention of the Great People of the world. Of course, there are other leaders vying for their attention, too.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_28">
-			<Text>Các loại khu vực sẽ giúp tuyển dụng các loại Vĩ nhân khác nhau. I khuyến khích tiếp tục xây dựng những khu vực này.</Text>
+			<Text>The more specialized districts we construct, the more we will draw in specialized Great People to share their talents with our civilization. I advise that we continue to build these.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_29">
 			<Text>A famous artist is inspired by our civilization, and has come to our lands to create great works of art. I suggest we find somewhere to house these masterpieces immediately.</Text>
@@ -299,16 +299,16 @@
 			<Text>This musician is inspired by our civilization, and has come to our land to create great musical works. I suggest we find somewhere to house these masterpieces immediately.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_33">
-			<Text>Our civilization's attention to the naval arm of our military has given rise to a Đô đốc vĩ đại among our ranks. When deployed wisely among our ships we are sure to have a distinct advantage in battle.</Text>
+			<Text>Our civilization's attention to the naval arm of our military has given rise to a Great Admiral among our ranks. When deployed wisely among our ships we are sure to have a distinct advantage in battle.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_34">
-			<Text>Our civilization's dedication to military affairs has given rise to a Tướng quân vĩ đại among our troops. When used wisely in the field, generals can change the tide of battle in our favor.</Text>
+			<Text>Our civilization's dedication to military affairs has given rise to a Great General among our troops. When used wisely in the field, generals can change the tide of battle in our favor.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_35">
-			<Text>A Thương gia vĩ đại has come to our civilization! Each one has a unique talent which will help our economy flourish.</Text>
+			<Text>A great merchant has come to our civilization! Each one has a unique talent which will help our economy flourish.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_36">
-			<Text>Our dedication to the ways of science has attracted a Nhà khoa học vĩ đại to our civilization! I am certain we will be able to use them to benefit future scientific developments.</Text>
+			<Text>Our dedication to the ways of science has attracted a great scientist to our civilization! I am certain we will be able to use them to benefit future scientific developments.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_37">
 			<Text>Constructing wonders of the world not only is a remarkable display of our empire's greatness, they have other benefits as well. Remember, other civilizations may also be competing in this endeavor, and there can only be one of each type in the world.</Text>
@@ -413,7 +413,7 @@
 			<Text>Our populace has attracted a Great Prophet to our lands! Send this most holy person to Stonehenge and rejoice, for the time has come to found a religion for ourselves.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_74">
-			<Text>A Kỹ sư vĩ đại has come to our civilization, ready to work hard to advance our infrastructure. Each has a different talent, but all of them can improve our cities in some way.</Text>
+			<Text>A Great Engineer has come to our civilization, ready to work hard to advance our infrastructure. Each has a different talent, but all of them can improve our cities in some way.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_75">
 			<Text>We now have the ability to build a Spaceport. If we further our research, we may be able to unlock the mysteries of the stars.</Text>
@@ -469,121 +469,121 @@
 		<!-- META TEXT -->
 		<!---->
 		<Row Tag="LOC_META_1_HEAD">
-			<Text>Lựa chọn dân di cư</Text>
+			<Text>SELECT SETTLER</Text>
 		</Row>
 		<Row Tag="LOC_META_1_BODY">
-			<Text>Click vào dân di cư để lựa chọn.</Text>
+			<Text>Click on the Settler unit to select it.</Text>
 		</Row>
 		<Row Tag="LOC_META_8_HEAD">
-			<Text>KẾT THÚC LƯỢT</Text>
+			<Text>END TURN</Text>
 		</Row>
 		<Row Tag="LOC_META_8_BODY">
 			<Text>Since there are no more decisions to make this turn, click the Next Turn button to continue.</Text>
 		</Row>
 		<Row Tag="LOC_META_11a_BODY">
-			<Text>Nhiệm vụ đó phải được chọn trước khi bạn kết thúc lượt.</Text>
+			<Text>Tasks which must be completed before you can end your turn will appear in the notification panel in the bottom right of the screen.[NEWLINE][NEWLINE]Since production has finished in this city, you get a reminder that you need to choose the next thing to produce before you can end your turn.</Text>
 		</Row>
 		<Row Tag="LOC_META_11_HEAD">
-			<Text>YÊU CẦU HÀNH ĐỘNG</Text>
+			<Text>REQUIRED ACTIONS</Text>
 		</Row>
 		<Row Tag="LOC_META_11_BODY">
-			<Text>Click Chọn Sản phẩm để sản xuất.</Text>
+			<Text>Click the Choose Production notification to select your next production task.</Text>
 		</Row>
 		<Row Tag="LOC_META_33b_HEAD">
-			<Text>YÊU CẦU HÀNH ĐỘNG</Text>
+			<Text>REQUIRED ACTIONS</Text>
 		</Row>
 		<Row Tag="LOC_META_33b_BODY">
-			<Text>Cần phải chọn Nghiên cứu trước khi kết thúc lượt.</Text>
+			<Text>Research must be selected before the turn can be completed.</Text>
 		</Row>
 		<Row Tag="LOC_META_13a_BODY">
-			<Text>Thợ xây cần một thời gian để hoàn thành đào tạo. Chọn LƯỢT TIẾP THEO.</Text>
+			<Text>A Builder unit has been added to the city's Production Queue. It will take several turns to complete its training. Since there are no remaining decisions that need to be made this turn, the Next Turn button is displayed.</Text>
 		</Row>
 		<Row Tag="LOC_META_13_HEAD">
-			<Text>KẾT THÚC LƯỢT</Text>
+			<Text>END TURN</Text>
 		</Row>
 		<Row Tag="LOC_META_13_BODY">
-			<Text>Click LƯỢT TIẾP THEO để tiếp tục</Text>
+			<Text>Click the Next Turn button to continue.</Text>
 		</Row>
 		<Row Tag="LOC_META_19_HEAD">
-			<Text>KẾT THÚC LƯỢT</Text>
+			<Text>END TURN</Text>
 		</Row>
 		<Row Tag="LOC_META_19_BODY">
-			<Text>Khi Chiến binh sử dụng hết điểm [ICON_Movement] Di chuyển thì không thể hành động gì khác. Sản xuất và nghiên cứu vẫn đang được tiến hành.</Text>
+			<Text>Since your Warrior unit has used all of its [ICON_Movement] Movement points, it is done with its actions this turn.[NEWLINE][NEWLINE]Production and research tasks are still in progress, so there are no other decisions to be made.</Text>
 		</Row>
 		<Row Tag="LOC_META_19b_BODY">
-			<Text>Nhấn Lượt Tiếp Theo lần nữa.</Text>
+			<Text>Click the Next Turn button once again to continue.</Text>
 		</Row>
 		<Row Tag="LOC_META_9_HEAD">
-			<Text>CHỌN CHIẾN BINH</Text>
+			<Text>SELECT WARRIOR</Text>
 		</Row>
 		<Row Tag="LOC_META_9_BODY">
-			<Text>Click vào Chiến binh để lựa chọn.</Text>
+			<Text>Click on the Warrior unit to select it.</Text>
 		</Row>
 		<Row Tag="LOC_META_2_HEAD">
-			<Text>TÌM THẤY MỘT THÀNH PHỐ</Text>
+			<Text>FOUND A CITY</Text>
 		</Row>
 		<Row Tag="LOC_META_2_BODY">
-			<Text>Click vào THÀNH PHỐ MỚI để đặt thành phố mới ở đây.</Text>
+			<Text>Click the Found City button to order your Settler to found a new city at this location.</Text>
 		</Row>
 		<Row Tag="LOC_META_3_HEAD">
-			<Text>Lựa chọn Sản phẩm</Text>
+			<Text>CHOOSE PRODUCTION</Text>
 		</Row>
 		<Row Tag="LOC_META_3_BODY">
-			<Text>Mở chọn Sản phẩm bằng cách click vào Thay đổi Sản phẩm.</Text>
+			<Text>Open the Production Chooser of this city by clicking the Change City Production button.</Text>
 		</Row>
 		<Row Tag="LOC_META_4a_HEAD">
-			<Text>CHỌN SẢN PHẨM</Text>
+			<Text>PRODUCTION CHOOSER</Text>
 		</Row>
 		<Row Tag="LOC_META_4a_BODY">
-			<Text>Nó là Chọn Sản Phẩm. Từ đây có thể xây nhà, dựng kỳ quan, huấn luyện đơn vị dân sự và quân sự.</Text>
+			<Text>This is the city's Production Chooser. From here you can construct buildings, create wonders of the world, and train military and civilian units.</Text>
 		</Row>
 		<Row Tag="LOC_META_4b_BODY">
 			<Text>Select the Warrior button to start training a Warrior unit in your city.</Text>
 		</Row>
 		<Row Tag="LOC_META_5a_BODY">
-			<Text>Civilization là trò chơi theo lượt.....</Text>
+			<Text>Civilization is a turn-based game where decisions are made and actions performed during a game turn, much like playing a board game with friends. Once all the other players have made their moves, a new turn will begin.</Text>
 		</Row>
 		<Row Tag="LOC_META_5b_BODY">
-			<Text>Xây dựng thành phố cần có thời gian.Con số này sẽ được ghi rõ cụ thể.[NEWLINE][NEWLINE]Nó sử dụng [ICON_Production] Sản phẩm được tạo ra bởi thành phố. Sản lượng nhiều thì sẽ mất ít lượt để hoàn thành hơn.</Text>
+			<Text>Building items in your city takes time. The number of game turns it will take is indicated on each item in the menu.[NEWLINE][NEWLINE]This is calculated based on the [ICON_Production] Production cost of the item versus the [ICON_Production] Production yield of the city. The higher the yield, the fewer turns it will take to build.</Text>
 		</Row>
 		<Row Tag="LOC_META_5_HEAD">
-			<Text>KẾT THÚC LƯỢT</Text>
+			<Text>END TURN</Text>
 		</Row>
 		<Row Tag="LOC_META_5_BODY">
-			<Text>Click vào LƯỢT TIẾP THEO để kết thúc lượt của bạn.</Text>
+			<Text>Click the Next Turn button to finish your turn.</Text>
 		</Row>
 		<Row Tag="LOC_META_7a_BODY">
 			<Text>The Research Panel displays what technology your civilization is currently working toward. It is empty because you have not yet chosen a technology to research.</Text>
 		</Row>
 		<Row Tag="LOC_META_7_HEAD">
-			<Text>CHỌN NGHIÊN CỨU</Text>
+			<Text>SELECT RESEARCH</Text>
 		</Row>
 		<Row Tag="LOC_META_7_BODY">
-			<Text>Lựa chọn công nghệ Khai thác để bắt đầu nghiên cứu nó.</Text>
+			<Text>Select the Mining technology from the menu to begin researching it.</Text>
 		</Row>
 		<Row Tag="LOC_META_10_HEAD">
-			<Text>DI CHUYỂN CHIẾN BINH</Text>
+			<Text>MOVE WARRIOR</Text>
 		</Row>
 		<Row Tag="LOC_META_10_BODY">
-			<Text>Quân đội có thể tấn công kẻ địch bằng cách di chuyển tới ô họ đứng. Nhấn chuột phải để di chuyển.</Text>
+			<Text>Military units can attack enemy units by moving into their hex. Right-click on the Barbarian unit to attack it. Try doing that now.</Text>
 		</Row>
 		<Row Tag="LOC_META_27_HEAD">
-			<Text>XÂY ĐÀI KỶ NIỆM</Text>
+			<Text>BUILD MONUMENT</Text>
 		</Row>
 		<Row Tag="LOC_META_27_BODY">
-			<Text>Ngoài đào tạo đơn vị, thành phố có thể tập trung sản xuất để xây dựng các tòa nhà như đài kỷ niệm.[NEWLINE][NEWLINE]Thử xây một cái bằng cách chọn nó trong Hàng chờ sản phẩm.</Text>
+			<Text>In addition to training units, your city can focus its production on constructing buildings like the Monument.[NEWLINE][NEWLINE]Try building one now by selecting it in the city's Production Queue.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_21">
 			<Text>With Barbarians in our midst, I think our people would be more comfortable if our Warriors were closer to the city. Order them to return and defend.</Text>
 		</Row>
 		<Row Tag="LOC_META_28a_BODY">
-			<Text>Đơn vị có thể di chuyển chặng đường dài bằng nhiều lượt. Do đó không cần phải ra lệnh cho đơn vị trong từng lượt nhất định.</Text>
+			<Text>Units can be ordered to move longer distances by giving them a multi-turn order. This will eliminate the need to give a separate move order every turn to reach a destination.</Text>
 		</Row>
 		<Row Tag="LOC_META_28_HEAD">
-			<Text>DI CHUYỂN CHIẾN BINH</Text>
+			<Text>MOVE WARRIOR</Text>
 		</Row>
 		<Row Tag="LOC_META_28_BODY">
-			<Text>Thử di chuyển Chiến binh quay về thành phố.</Text>
+			<Text>Try ordering the Warrior to return to the city by clicking the Move To button, then clicking the city.</Text>
 		</Row>
 		<Row Tag="LOC_META_29_BODY">
 			<Text>When using a multi-move order, a path will display on the map indicating the path the unit will take, along with indicators of the number of turns until it reaches the destination.</Text>
@@ -598,16 +598,16 @@
 			<Text>Our brightest minds have discovered new and ingenious ways to extract precious stones and metals from the earth. There is an abundance of valuable Stone nearby, it would be wise to send our Builders to construct a Quarry there.</Text>
 		</Row>
 		<Row Tag="LOC_META_30_BODY">
-			<Text>Rải rác quanh bản đồ là các nguồn tài nguyên khác nhau. Có 3 loại tài nguyên:[NEWLINE][NEWLINE]Quý hiếm: Đóng góp hạnh phúc chung cho dân.[NEWLINE][NEWLINE]Chiến thuật: Cần thiết để tạo ra một số đơn vị quân sự mạnh mẽ.[NEWLINE][NEWLINE]Thưởng: Cung cấp thêm các sản lượng như [ICON_Food] Thực phẩm , [ICON_Production] Sản phẩm, hay [ICON_Gold] Vàng.</Text>
+			<Text>Scattered around the map are resources of various kinds. There are 3 categories of resources:[NEWLINE][NEWLINE]Luxury: These contribute to the overall happiness of your citizens.[NEWLINE][NEWLINE]Strategic: Essential for creating some very powerful military units.[NEWLINE][NEWLINE]Bonus: Provide additional yields of [ICON_Food] Food , [ICON_Production] Production, or [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_META_31a_HEAD">
-			<Text>Xây Mỏ Đá</Text>
+			<Text>BUILD QUARRY</Text>
 		</Row>
 		<Row Tag="LOC_META_31a_BODY">
-			<Text>Đá là một tài nguyên thưởng. Nó cung cấp thêm +1 [ICON_Production] Sản phẩm cho thành phố.[NEWLINE][NEWLINE]Nếu xây Mỏ đá ở đây thì có được +2 [ICON_Production] Sản phẩm.</Text>
+			<Text>This Stone is a Bonus resource. It provides an additional +1 [ICON_Production]Production to your city.[NEWLINE][NEWLINE]If you build a Quarry improvement here, it will raise the yield to +2 [ICON_Production]Production.</Text>
 		</Row>
 		<Row Tag="LOC_META_31b_BODY">
-			<Text>Di chuyển Thợ Xây đến tài nguyên và xây dựng công trình Mỏ đá.</Text>
+			<Text>Move your Builder unit to the Stone resource and have them construct a Quarry improvement there.</Text>
 		</Row>
 		<Row Tag="LOC_META_32_BODY">
 			<Text>Quarry improvements increase the [ICON_Production]Production of the city they're in. Higher Production allows units and buildings to be constructed faster. In short, the higher the Production of a city, the less turns required to build something there.</Text>
@@ -643,16 +643,16 @@
 			<Text>Your Majesty has shown wisdom and understanding in the fundamentals of ruling a civilization. I shall be available to assist you at any point should you wish, but for now I take my leave.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_37">
-			<Text>Our farmers are very skilled at providing [ICON_Food] Thực phẩm for our people, but we need to find better ways to store it. I suggest we direct the efforts of our scientists to solving this problem.</Text>
+			<Text>Our farmers are very skilled at providing [ICON_Food] Food for our people, but we need to find better ways to store it. I suggest we direct the efforts of our scientists to solving this problem.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_39">
 			<Text>Our dedication to developing a consistent written language has allowed us to record our knowledge for future use. If we were to provide a common location in our city for our scientists to share this information I'm sure their pursuits would be much more efficient.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_40">
-			<Text>Excellent! Construction on a Khu tri thức has begun. Our scientists look forward to its completion.</Text>
+			<Text>Excellent! Construction on a Campus has begun. Our scientists look forward to its completion.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_41">
-			<Text>The Khu tri thức is complete and we have already begun to see its benefits. Construction of a Library would be ideal at such a location, should your highness agree to it.</Text>
+			<Text>The Campus is complete and we have already begun to see its benefits. Construction of a Library would be ideal at such a location, should your highness agree to it.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_42">
 			<Text>It seems we are not the only people competing for control of these lands. I suggest we proceed with caution.</Text>
@@ -691,19 +691,19 @@
 			<Text>Caution, your majesty. This city is hostile to us and its people will surely fight to the bitter end to keep it out of our hands. We must be well prepared</Text>
 		</Row>
 		<Row Tag="LOC_META_33_HEAD">
-			<Text>LỰA CHỌN NGHIÊN CỨU</Text>
+			<Text>SELECT RESEARCH</Text>
 		</Row>
     <Row Tag="LOC_META_332_HEAD">
-      <Text>LỰA CHỌN</Text>
+      <Text>SELECT RESEARCH</Text>
     </Row>
     <Row Tag="LOC_META_332_BODY">
-      <Text>Chọn NGHIÊN CỨU.</Text>
+      <Text>Click the Choose Research button to display the research chooser.</Text>
     </Row>
     <Row Tag="LOC_META_331_HEAD">
       <Text>CHANGE RESEARCH</Text>
     </Row>
 		<Row Tag="LOC_META_33_BODY">
-			<Text>Lựa chọn công nghệ Đồ Gốm.</Text>
+			<Text>Select the Pottery technology from the Research Menu.</Text>
 		</Row>
 		<Row Tag="LOC_META_34_HEAD">
 			<Text>NOTIFICATIONS</Text>
@@ -715,136 +715,136 @@
 			<Text>MOVE SCOUT</Text>
 		</Row>
 		<Row Tag="LOC_META_35_BODY">
-			<Text>Tiếp tục khám phá thế giới với đơn vị Do thám.</Text>
+			<Text>Continue to explore the world with your Scout unit.</Text>
 		</Row>
 		<Row Tag="LOC_META_36a_BODY">
-			<Text>Khi không làm gì cả, tốt hơn hết là cho đơn vị Cắm chốt. Khi Cắm chốt, đơn vị sẽ dùng 2 lượt để thực hiện.[ICON_Strength] Sức mạnh của họ sẽ tăng lên.</Text>
+			<Text>When not advancing a military unit, it is often a good idea to fortify the unit. When ordered to fortify, the unit will spent up to 2 turns digging in. This will increase their [ICON_Strength] Combat Strength if they are attacked.</Text>
 		</Row>
 		<Row Tag="LOC_META_36_HEAD">
-			<Text>CẮM CHỐT</Text>
+			<Text>FORTIFY WARRIOR</Text>
 		</Row>
 		<Row Tag="LOC_META_36_BODY">
-			<Text>Đưa đơn vị vào chế độ Cắm chốt.</Text>
+			<Text>Try ordering the Warrior unit to do so by clicking on the Fortify button.</Text>
 		</Row>
 		<Row Tag="LOC_META_37_HEAD">
 			<Text>FORTIFY BONUS</Text>
 		</Row>
 		<Row Tag="LOC_META_37_BODY">
-			<Text>Đơn vị sẽ tăng sức mạnh khi Cắm chốt. Tuy nhiên, khi di chuyển thì sẽ mất đi trạng thái này, để có lại thì hãy Cắm chốt một lần nữa.</Text>
+			<Text>This unit will now have an advantage in combat when defending. However, if the unit is moved it will lose its fortified status and will have to be ordered to fortify again in order to receive the bonus.</Text>
 		</Row>
 		<Row Tag="LOC_META_38_HEAD">
 			<Text>BUILDER WORKFORCE</Text>
 		</Row>
 		<Row Tag="LOC_META_38a_BODY">
-			<Text>Thợ Xây vẫn còn sức để xây một công trình nữa.[NEWLINE][NEWLINE]Có thể sử dụng nó để xây Đào Tài Nguyên trên đồi (+[ICON_Production] Sản phẩm), hay Nông Trại trên đồng bằng (+[ICON_Food] Thực phẩm).[NEWLINE][NEWLINE]Có thể mất hơn một lượt để di chuyển Thợ Xây đến ô đó.</Text>
+			<Text>Your Builder still has one of its workforce remaining.[NEWLINE][NEWLINE]You can use it to build either a Mine on the Hill plot (+[ICON_Production] Production), or a Farm on the Plains plot (+[ICON_Food] Food).[NEWLINE][NEWLINE]This may take more than one turn, one to move the Builder unit, and another turn to build the improvement.</Text>
 		</Row>
 		<Row Tag="LOC_META_38b_BODY">
-			<Text>Hãy nhớ: Thợ Xây chỉ có thể xây trong biên giới thành phố, trên những tài nguyên được phép.</Text>
+			<Text>Remember: Builders can only construct improvements within the borders of your city.[NEWLINE][NEWLINE]By generating [ICON_Culture] Culture, the borders of your city will expand, allowing you access to more resources.</Text>
 		</Row>
 		<Row Tag="LOC_META_39_HEAD">
 			<Text>EXPLORATION</Text>
 		</Row>
 		<Row Tag="LOC_META_39_BODY">
-			<Text>Kết thúc lượt khi hoàn tất ra lệnh cho Do Thám và Thợ Xây.</Text>
+			<Text>Feel free to continue exploring the map with your Scout unit. End your turn when you have finished giving orders to your Builder and Scout.</Text>
 		</Row>
 		<Row Tag="LOC_META_40_BODY">
-			<Text>Bạn đã hoàn tất xây dựng Đài kỷ niệm. Tất cả các tòa nhà đều đóng góp vào sự phát triển của thành phố. Đài kỷ niệm sẽ làm tăng [ICON_Culture] Văn minh, kéo theo sự ảnh hưởng tới các ô xung quanh.</Text>
+			<Text>Your city has finished production on the Monument building. All buildings contribute to a city’s development in specific ways. The Monument will increase the [ICON_Culture] Culture generated by the city, which extends the city’s influence over additional hexes.</Text>
 		</Row>
 		<Row Tag="LOC_META_41_HEAD">
-			<Text>ĐÀO TẠO DÂN DI CƯ</Text>
+			<Text>TRAIN SETTLERS</Text>
 		</Row>
 		<Row Tag="LOC_META_41_BODY">
-			<Text>Bắt đầu đào tạo dân di cư.</Text>
+			<Text>Begin training a Settler unit.</Text>
 		</Row>
 		<Row Tag="LOC_META_41b_BODY">
-			<Text>Mở CHỌN SẢN PHẨM và bắt đầu đào tạo DÂN DI CƯ. Nhớ rằng, CHỌN SẢN PHẨM có thể được mở từ bảng thông tin thành phố hoặc bảng thông báo ở dưới cùng bên phải.</Text>
+			<Text>Open the Production Chooser and begin training a Settler unit. Remember, the Production Chooser can either be accessed from the city's Information Panel or from the Choose Production reminder in the Notification Panel on the right side of the game view.</Text>
 		</Row>
 		<Row Tag="LOC_META_42_BODY">
-			<Text>Đơn vị DÂN DI CƯ và THỢ XÂY là phi chiến đấu. Là đơn vị dân sự và không thể tự bảo vệ mình. Tuy nhiên quân đội có thể bảo vệ họ nếu đang đứng cùng một ô.</Text>
+			<Text>Units like Settlers and Builders are non-combat, civilian units and thus cannot defend themselves. This leaves them highly vulnerable to be captured or killed by enemy units. However, your military units can act as protection for the civilian unit if they occupy the same hex.</Text>
 		</Row>
 		<Row Tag="LOC_META_43a_BODY">
-			<Text>Di chuyển hai đơn vị liên kết với nhau cho đến khi họ đạt được mục đích.</Text>
+			<Text>An easy way to move the two units together is by linking them together until they reach their destination.</Text>
 		</Row>
 		<Row Tag="LOC_META_43_HEAD">
-			<Text>HỘ TỐNG DÂN DI CƯ</Text>
+			<Text>ESCORT SETTLER</Text>
 		</Row>
 		<Row Tag="LOC_META_43_BODY">
-			<Text>Lựa chọn DÂN DI CƯ hoặc CHIẾN BINH và Click vào HỘ TỐNG</Text>
+			<Text>Select either the Settler or the Warrior and click the Escort button in the unit panel.</Text>
 		</Row>
 		<Row Tag="LOC_META_44_HEAD">
-			<Text>ĐI CHUYỂN ĐỘI HÌNH</Text>
+			<Text>MOVE FORMATION</Text>
 		</Row>
 		<Row Tag="LOC_META_44_BODY">
-			<Text>Bắt đầu di chuyển tới điểm chỉ định. Nếu vùng đất chưa được khám phá thì DO THÁM có thể giúp họ.</Text>
+			<Text>Begin moving the units southeast toward the indicated map marker. If you have not yet revealed that part of the map it might make your journey easier if you sent your Scout there as well.</Text>
 		</Row>
 		<Row Tag="LOC_META_45a_BODY">
-			<Text>Trong Civilization, một người chơi mất tất cả thành phố sẽ thua cuộc. Cho nên bảo vệ thành phố rất là quan trọng, nhất là [ICON_Capital] THỦ ĐÔ.</Text>
+			<Text>In a game of Civilization, once a player loses all of their cities, the game is over. It is very important that you protect your cities, especially your [ICON_Capital] Capital, from any foreign threat.</Text>
 		</Row>
 		<Row Tag="LOC_META_45_HEAD">
-			<Text>ĐÀO TẠO BẮN NÁ</Text>
+			<Text>TRAIN SLINGERS</Text>
 		</Row>
 		<Row Tag="LOC_META_45_BODY">
-			<Text>Đào tạo đơn vị BẮN NÁ.</Text>
+			<Text>Add a Slinger unit to the city's Production Queue and end your turn when you are finished.</Text>
 		</Row>
 		<Row Tag="LOC_META_46_BODY">
-			<Text>Như thông thường, công nghệ mới phát triển dựa vào công nghệ cũ. Trong trò chơi, điều này được mô phỏng ở CÂY CÔNG NGHỆ. Nhấn CÂY CÔNG NGHỆ để mở và xem nó.</Text>
+			<Text>As is often the case in history, technological discoveries inspire new technologies, building upon knowledge gained in the past. In a game of Civilization, this is simulated by the Technology Tree. Click the open Technology Tree button in the Research Panel to view it.</Text>
 		</Row>
 		<Row Tag="LOC_META_46a_HEAD">
-			<Text>Mở CÂY CÔNG NGHỆ</Text>
+			<Text>Open Technology Tree</Text>
 		</Row>
 		<Row Tag="LOC_META_46a_BODY">
-			<Text>Click để mở CÂY CÔNG NGHỆ</Text>
+			<Text>Click to open the Technology Tree</Text>
 		</Row>
 		<Row Tag="LOC_META_47_BODY">
-			<Text>CÂY CÔNG NGHỆ hiển thị tất cả công nghệ từ thời CỔ ĐẠI cho đến kỷ nguyên THÔNG TIN.</Text>
+			<Text>The Technology Tree displays all of the researchable technologies available in a game of Civilization, from the Ancient era all the way to the Information era and beyond.</Text>
 		</Row>
 		<Row Tag="LOC_META_48_BODY">
-			<Text>Các khung vàng đại diện cho công nghệ đã nghiên cứu.</Text>
+			<Text>The gold colored nodes represent technologies that you have already finished researching. You have just finished researching Pottery, so it has been marked as complete.</Text>
 		</Row>
 		<Row Tag="LOC_META_49_BODY">
-			<Text>Khung đen xám là công nghệ sẵn sàng để nghiên cứu.</Text>
+			<Text>The dark grey nodes represent technologies that are available to begin researching, but are not complete.</Text>
 		</Row>
 		<Row Tag="LOC_META_50_BODY">
-			<Text>Khung sáng xám là công nghệ chưa thể nghiên cứu. Cần phải hoàn tất những công nghệ trước đó.</Text>
+			<Text>Light grey nodes represent technologies that are not yet available to begin researching. These technologies need to first be unlocked by researching one or more prerequisite technologies.</Text>
 		</Row>
 		<Row Tag="LOC_META_51a_BODY">
-			<Text>Từ khi nghiên cứu xong ĐỒ GỐM, chúng ta có thể nghiên cứu VIẾT.</Text>
+			<Text>Since we have already researched Pottery, we are now able to begin research on the Writing technology.</Text>
 		</Row>
 		<Row Tag="LOC_META_51_HEAD">
-			<Text>CHỌN NGHIÊN CỨU</Text>
+			<Text>SELECT RESEARCH</Text>
 		</Row>
 		<Row Tag="LOC_META_51_BODY">
-			<Text>Bắt đầu nghiên cứu VIẾT.</Text>
+			<Text>Start research on Writing by clicking on the Writing node in the Technology Tree.</Text>
 		</Row>
 		<Row Tag="LOC_META_52_BODY">
-			<Text>Thông báo tình trạng công nghệ được thay đổi. Nó cho biết công nghệ đang được nghiên cứu. Số lượt yêu cầu để hoàn tất được hiển thị ở bên trái.</Text>
+			<Text>Notice the Writing technology node status has changed, indicating that it currently being researched. The number of turns required to finish research on a technology is indicated in the upper right corner of the node.</Text>
 		</Row>
 		<Row Tag="LOC_META_53A_BODY">
-			<Text>Những biểu tượng này là những công trình, kỳ quan, đơn vị được mở khi nghiên cứu hoàn tất.</Text>
+			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders and abilities that are unlocked by the technology once it is completed.</Text>
 		</Row>
 		<Row Tag="LOC_META_53B_BODY">
-			<Text>Ví dụ, khi nghiên cứu xong VIẾT, bạn có thể xây dựng THƯ VIỆN. THƯ VIỆN sẽ giúp tăng [ICON_Science] Khoa học, cho phép bạn nghiên cứu nhanh hơn nữa.! </Text>
+			<Text>For example, once you have finished researching the Writing technology, you will be able to construct the Campus district as well as the Library building in all of your cities. The Campus and Library allow you to increase the amount of [ICON_Science] Science you generate each turn, allowing you to research technologies faster! </Text>
 		</Row>
 		<Row Tag="LOC_META_54_BODY">
-			<Text>Khi định hướng xong. Nhấn X để đóng CÂY CÔNG NGHỆ.</Text>
+			<Text>Since you're done designating new research, we can close the Technology Tree by clicking the X button in the upper right corner.</Text>
 		</Row>
 		<Row Tag="LOC_META_54a_HEAD">
-			<Text>Đóng</Text>
+			<Text>Close Tree</Text>
 		</Row>
 		<Row Tag="LOC_META_54a_BODY">
-			<Text>Đóng CÂY CÔNG NGHỆ</Text>
+			<Text>Click to close the Technology Tree</Text>
 		</Row>
 		<Row Tag="LOC_META_55_BODY">
 			<Text>Continue moving your Settler unit to the indicated location.</Text>
 		</Row>
 		<Row Tag="LOC_META_56_BODY">
-			<Text>Việc lựa chọn vị trí thành phố rất là quan trọng. Cần phải xem xét địa hình, tài nguyên xung quanh. Chúng tôi đã tìm được một vị trí lý tưởng.</Text>
+			<Text>In choosing a location to settle a new city, it is important to look at the fertility of the surrounding land. Proximity to sources of [ICON_Food] Food, resources, and fresh water are all very important. For this tutorial we have already found an ideal location for you.</Text>
 		</Row>
 		<Row Tag="LOC_META_57_BODY">
-			<Text>Khi DÂN DI CƯ có thể, hay nhất nút THÀNH PHỐ MỚI. Nó có thể cần phải sang lượt tiếp theo nếu DÂN DI CƯ đã hết điểm di chuyển.</Text>
+			<Text>When your Settler unit is able, click the Found City button to create a new city here. This may require moving on to the next turn if your Settler is out of [ICON_Movement] Movement points.</Text>
 		</Row>
 		<Row Tag="LOC_META_58_BODY">
-			<Text>Để chiến thắng trò chơi Civilization, người chơi cần đánh bại các nền văn minh khác trên thế giới.Có nhiều cách để đạt được điều này. Có thể chinh phục bằng sức mạnh quân sự, hay nền văn minh, công nghệ, tôn giáo.</Text>
+			<Text>To win a game of Civilization, as a player you need to defeat all other civilizations in the world. There are multiple ways to achieve this. You can conquer their cities militarily, bringing them into your civilization. You can also win technologically, or through cultural or religious dominance.</Text>
 		</Row>
 		<Row Tag="LOC_META_59_BODY">
 			<Text>On the path to victory, there are fundamental strategies to assist you in building your civilization.[NEWLINE]---[NEWLINE]For this tutorial, we have provided four goals for you to achieve. Complete all four and you can complete the tutorial. However, in order to WIN the tutorial, you need to complete the fifth goal.</Text>
@@ -862,148 +862,148 @@
 			<Text>Open the Production Chooser of your first city by clicking the production button on the City Banner.</Text>
 		</Row>
 		<Row Tag="LOC_META_77_BODY">
-			<Text>Trong Civilization VI, có rất nhiều loại khu vực khác nhau có thể xây dựng trong thành phố, mỗi khu vực đều có một mục đích cụ thể.</Text>
+			<Text>In Civilization VI, there are many types of districts that can be built in your cities, each with a specific purpose.</Text>
 		</Row>
 		<Row Tag="LOC_META_78_BODY">
-			<Text>Bằng cách hoàn tất nghiên cứu VIẾT, bạn có thể xây dựng khu Khu tri thức trong thành phố.[NEWLINE][NEWLINE]Khu tri thức giúp tăng [ICON_Science] KHOA HỌC.</Text>
+			<Text>By completing research on Writing, you are now able to construct a Campus district in your city.[NEWLINE][NEWLINE]The Campus district is dedicated to increasing the amount of [ICON_Science] Science generated by the city that contains it.</Text>
 		</Row>
 		<Row Tag="LOC_META_79_BODY">
-			<Text>Nhiều Khu vực trong game cũng được một tiền thưởng tùy vào nơi chúng được đặt trong thành phố. Khu tri thức thường được thưởng khi xây cạnh NÚI hoặc RỪNG.</Text>
+			<Text>Many districts in the game also get a bonus depending on where they are placed within the city. The Campus gets a bonus when built next to Mountains or Jungles.</Text>
 		</Row>
 		<Row Tag="LOC_META_80_HEAD">
-			<Text>XÂY Khu tri thức</Text>
+			<Text>BUILD CAMPUS</Text>
 		</Row>
 		<Row Tag="LOC_META_80_BODY">
-			<Text>Click để xây Khu tri thức trong thành phố này.</Text>
+			<Text>Click the Campus button in the Production Chooser to start building one in this city.</Text>
 		</Row>
 		<Row Tag="LOC_META_81_BODY">
-			<Text>Khi đặt một Khu vực, bản đồ có thêm chút thông tin để giúp tìm được vị trí lý tưởng.</Text>
+			<Text>When placing a district, the map changes slightly to indicate ideal locations in which to build it. </Text>
 		</Row>
 		<Row Tag="LOC_META_82_BODY">
-			<Text>Mỗi một viền cạnh núi sẽ cung cấp +1 [ICON_Science] KHOA HỌC. Đây là nơi lý tưởng để đặt Khu tri thức.</Text>
+			<Text>This plot has Mountains on two of its edges, each providing +1 [ICON_Science] Science per turn. Placing the Campus here would be ideal.</Text>
 		</Row>
 		<Row Tag="LOC_META_83_BODY">
-			<Text>Click vào ô để đặt Khu tri thức ở đây.</Text>
+			<Text>Click this hex to begin building a Campus here.</Text>
 		</Row>
 		<Row Tag="LOC_META_84_BODY">
-			<Text>Sau khi nghiên cứu VIẾT hoàn tất, bạn phải chọn gì đó để tiếp tục nghiên cứu. Nếu muốn một gợi ý, CHĂN NUÔI và ĐỒNG ĐỎ là hai sự lựa chọn tốt.</Text>
+			<Text>Since you have finished the Writing technology, you now must choose what to research next. If you would like a suggestion, Animal Husbandry and Bronze Working are both good choices.</Text>
 		</Row>
 		<Row Tag="LOC_META_85_BODY">
-			<Text>CHĂN NUÔI cho phép xây dựng TRANG TRẠI và TRẠI trong thành phố.[NEWLINE][NEWLINE]ĐỒNG ĐỎ cho phép quận đội mở khóa DỰNG TRẠI đào tạo GIÁO SĨ.</Text>
+			<Text>Animal Husbandry will allow you to build the Pasture and Camp improvements in your cities.[NEWLINE][NEWLINE]Bronze Working will help you militarily by unlocking the Encampment district, as well as allow you to train Spearmen.</Text>
 		</Row>
 		<Row Tag="LOC_META_86_BODY">
-			<Text>Một số tòa nhà chỉ có thể xây trên khu vực khác. THƯ VIỆN là một tòa nhà trong Khu tri thức. Khi toàn tất Khu tri thức, chúng ta có thể xây THƯ VIỆN.</Text>
+			<Text>Some buildings can only be constructed in districts. The Library is a building exclusive to the Campus district. Since we have completed construction on the Campus, we are now able to build a Library on it.</Text>
 		</Row>
 		<Row Tag="LOC_META_87_HEAD">
-			<Text>XÂY THƯ VIỆN</Text>
+			<Text>BUILD LIBRARY</Text>
 		</Row>
 		<Row Tag="LOC_META_87_BODY">
-			<Text>Click CHỌN SẢN PHẨM để bắt đầu xây THƯ VIỆN.</Text>
+			<Text>Click the Choose Production button in the lower right to begin building a Library.</Text>
 		</Row>
 		<Row Tag="LOC_META_88_BODY">
 			<Text>Congratulations!![NEWLINE]You have won your first game of Civilization.[NEWLINE][NEWLINE]You are now ready to take on much larger challenges and objectives, explore new worlds, meet new civilizations for the first time, and achieve victory on your terms.</Text>
 		</Row>
 		<Row Tag="LOC_META_89_BODY">
-			<Text>Khi tham gia chiến tranh, tốt nhất cần phải đầy đủ lực lượng chiến đấu, bảo vệ thành phố.</Text>
+			<Text>When engaged in a war with another civilization, it is best to have a sufficient number of combat units, both to defend your cities as well as fight abroad.</Text>
 		</Row>
 		<Row Tag="LOC_META_90_BODY">
-			<Text>Đôi lúc cần đình chỉ sản xuất để đào tạo đơn vị quân đội phục vụ chiến tranh. Để làm được điều này, chỉ cần thay đổi nhiệm vụ sản xuất sang đơn vị cần đào tạo.</Text>
+			<Text>Sometimes it is necessary to suspend production on a building or district in order to train units to fight the war. To do this, simply change the current production task of the city to the combat unit you wish to create.</Text>
 		</Row>
 		<Row Tag="LOC_META_91_BODY">
-			<Text>Khi đã đủ lực lượng quân đội, bạn có thể quay lại sản xuất mà không có mất mát gì.</Text>
+			<Text>When you are satisfied with the size of your military, you can resume production on what was being built previously without losing the progress you made on it.</Text>
 		</Row>
 		<Row Tag="LOC_META_92_BODY">
 			<Text>Engaging in diplomatic relations with other civilizations can be very lucrative. Of course, relations can also go sour. How you interact with other leaders is your choice. Just remember, in the path to victory, you cannot always be everyone’s friend.</Text>
 		</Row>
 		<Row Tag="LOC_META_93a_BODY">
-			<Text>Bằng cách tích lũy [ICON_Culture] Văn hóa, bạn có thể mở khóa PHÁP LUẬT, một trong số đó là: Thủ lĩnh.</Text>
+			<Text>By accumulating [ICON_Culture] Culture, you have just unlocked Code of Laws, which contains your first government: Chiefdom.</Text>
 		</Row>
 		<Row Tag="LOC_META_93b_HEAD">
-			<Text>CHÍNH PHỦ</Text>
+			<Text>GOVERNMENT</Text>
 		</Row>
 		<Row Tag="LOC_META_93b_BODY">
-			<Text>Click để mở.</Text>
+			<Text>To access it, click the Government button.</Text>
 		</Row>
 		<Row Tag="LOC_META_94_BODY">
-			<Text>Có nhiều loại chính sách trong Civilization VI.</Text>
+			<Text>There are many types of governments in Civilization VI. In addition to various benefits, each government has a number of slots in which you can enact policies.</Text>
 		</Row>
 		<Row Tag="LOC_META_95a_BODY">
-			<Text>Chính phủ đầu tiền dành cho bạn là THỦ LĨNH. Có 2 vị trí chính sách. Thứ nhất là chính sách quân đội và thử hai là chính sách kinh tế.</Text>
+			<Text>The first government available to you is a Chiefdom. It has 2 available slots for policies. The first slot in Chiefdom is for Military policies. The second is for Economic policies.</Text>
 		</Row>
 		<Row Tag="LOC_META_95b_HEAD">
-			<Text>CHÍNH SÁCH</Text>
+			<Text>GOVERNMENT POLICIES</Text>
 		</Row>
 		<Row Tag="LOC_META_95b_BODY">
-			<Text>Click để thay đổi chính sách</Text>
+			<Text>Click the Change Policies button</Text>
 		</Row>
 		<Row Tag="LOC_META_96_BODY">
-			<Text>Để áp đặt, nhấn và kéo chính sách ở bên phải vào ô bên trái.[NEWLINE][NEWLINE]Hãy thử với đưa chính sách Kỷ luật vào Quân đội, rồi thêm Quy hoạch đô thị trong ô Kinh tế. Click Xác nhận khi hoàn tất.</Text>
+			<Text>To slot a policy, click and drag the policy from the right to the appropriate slot in your government on the left.[NEWLINE][NEWLINE]Try that now by adding the Discipline policy to the Military slot, then add the Urban Planning policy to the Economic slot. Click the Confirm Policies button when you are done.</Text>
 		</Row>
 		<Row Tag="LOC_META_97_BODY">
-			<Text>By enacting these policies, your military units will now get a +5 [ICON_Strength] Combat Strength bonus when fighting against Barbarians. Also, your cities receive +1 [ICON_Production] Sản phẩm per turn, allowing them to train units and construct buildings faster than before.</Text>
+			<Text>By enacting these policies, your military units will now get a +5 [ICON_Strength] Combat Strength bonus when fighting against Barbarians. Also, your cities receive +1 [ICON_Production] Production per turn, allowing them to train units and construct buildings faster than before.</Text>
 		</Row>
 		<Row Tag="LOC_META_98_BODY">
-			<Text>Phần lớn, bạn tạo ra công nghệ mới bằng [ICON_Science] Khoa học, mở khóa Công Dân bằng [ICON_Culture] Văn minh.[NEWLINE][NEWLINE]Bạn đã có PHÁP LUẬT trong CÔNG DÂN để thiết lập chính sách đầu tiên cho thành phố</Text>
+			<Text>Much in the same way you research new technologies by generating [ICON_Science] Science in your cities, you unlock civics by generating [ICON_Culture] Culture.[NEWLINE][NEWLINE]You have already unlocked the Code of Laws civic which enabled you to establish your first government.</Text>
 		</Row>
 		<Row Tag="LOC_META_99a_BODY">
-			<Text>Bây giờ cần lựa chọn Công Dân mới.</Text>
+			<Text>Now you need to select a new civic to advance toward.</Text>
 		</Row>
 		<Row Tag="LOC_META_99b_HEAD">
-			<Text>CÂY CÔNG DÂN</Text>
+			<Text>CIVICS TREE</Text>
 		</Row>
 		<Row Tag="LOC_META_99b_BODY">
-			<Text>Mở cây công dân.</Text>
+			<Text>Open the Civics Tree by clicking the Civics Tree button in the upper left corner of the screen.</Text>
 		</Row>
 		<Row Tag="LOC_META_100_BODY">
-			<Text>Tương tự cây công nghệ, cây công dân có các lựa chọn khác nhau. Đối với hướng dẫn này, hãy chọn KHÉO LÉO để tiếp tục.</Text>
+			<Text>Similar to the Technology Tree, the Civics Tree has different choices and paths as you progress through the game.[NEWLINE]For this tutorial, click the Craftsmanship civic to start advancing next.</Text>
 		</Row>
 		<Row Tag="LOC_META_100b_HEAD">
-			<Text>CHỌN CÔNG DÂN</Text>
+			<Text>CHOOSE CIVIC</Text>
 		</Row>
 		<Row Tag="LOC_META_100b_BODY">
-			<Text>Lựa chọn công dân KHÉO LÉO</Text>
+			<Text>Select the Craftsmanship civic</Text>
 		</Row>
     		<Row Tag="LOC_META_100c_HEAD">
-			<Text>Đóng</Text>
+			<Text>Close Tree</Text>
 		</Row>
 		<Row Tag="LOC_META_100c_BODY">
-			<Text>Click để đóng</Text>
+			<Text>Click to close the Civics Tree</Text>
 		</Row>
 		<Row Tag="LOC_META_101_BODY">
 			<Text>Click Next Turn to continue.</Text>
 		</Row>
 		<Row Tag="LOC_META_102_HEAD">
-			<Text>ĐÀO TẠO THỢ XÂY</Text>
+			<Text>TRAIN BUILDER</Text>
 		</Row>
 		<Row Tag="LOC_META_102_BODY">
-			<Text>Chọn Thợ Xây để đào tạo.</Text>
+			<Text>Click Builder to begin training a Builder unit.</Text>
 		</Row>
 		<Row Tag="LOC_META_103_BODY">
-			<Text>Thành phố là nền tảng bất kỳ của một nền văn minh lớn. Kích thước thành phố được đại diện bởi [ICON_Citizen] Dân số được đặt bên trái tên của nó.</Text>
+			<Text>The city is the cornerstone of any great civilization. A city’s size is represented by its [ICON_Citizen] Population, indicated to the left of its nameplate.</Text>
 		</Row>
 		<Row Tag="LOC_META_103_OTHER_BODY">
-			<Text>Đơn vị BẮN NÁ đã hoàn tất đào tạo. BÁN NÁ là đơn vị tấn công tầm xa, cho phép tấn công từ một khoảng cách nhất định mà không cần tiếp cận.</Text>
+			<Text>A Slinger unit has finished training in your capital. Slingers are ranged class units, allowing them to attack from distance without engaging in melee combat. This keeps them from taking reciprocal damage during the attack.</Text>
 		</Row>
 		<Row Tag="LOC_META_104_BODY">
-			<Text>Mỗi thành phố đều tuyên bố vùng lãnh thổ xung quanh. Những vùng đất này được chỉ định bởi các đường viền xung quanh thành phố. Các tính chất độc đáo bên trong biên giới sẽ ảnh hưởng sâu sắc tới tiền năng, thế mạnh của mỗi thành phố.</Text>
+			<Text>Each city also claims the surrounding lands for your exclusive control. These lands are indicated by the colored border surrounding the city. The unique features within your borders will have a profound influence on the potential strengths of each city.</Text>
 		</Row>
 		<Row Tag="LOC_META_104_OTHER_BODY">
-			<Text>Đơn vị tầm xa có sức phòng thủ thấp hơn cận chiến. Vì vậy cần có đơn vị khác để bảo vệ.</Text>
+			<Text>Ranged units also tend to have lower defense strength than their melee fighting counterparts, so it is best to keep them close to friendly units of other types for protection.</Text>
 		</Row>
 		<Row Tag="LOC_META_105_BODY">
-			<Text>Phải chọn mỗi thành phố để phát triển và mở rộng theo giời gian. Cải thiện đất đai, xây các tòa nhà mới trong phạm vị biên giới.</Text>
+			<Text>You must choose how each city in your civilization is to grow and expand over time, improving the land you control and creating new buildings and districts within your borders.</Text>
 		</Row>
 		<Row Tag="LOC_META_105_OTHER_BODY">
-			<Text>Khi hoàn tất nghiên cứu, bạn sẽ mở khóa các đơn vị mạnh mẽ, nâng cao hơn. Xây dựng quân đội hùng mạnh là cần thiết trong việc cạnh trạnh với các nền văn minh khác, đồng thời giữ gìn hòa hình cho thành phố.</Text>
+			<Text>As you progress through the game and research new technologies, you will unlock better, stronger, and more advanced units. Building a strong and diverse fighting force is essential in competing against other civilizations, and preserving the safety of your people.</Text>
 		</Row>
 		<Row Tag="LOC_META_WRITING_COMPLETE">
-			<Text>Chúng ta vừa hoàn tất công nghệ VIẾT.</Text>
+			<Text>We have just completed research on Writing.</Text>
 		</Row>
 		<Row Tag="LOC_META_POTTERY_COMPLETE">
-			<Text>Ngoài [ICON_Food] Thực phẩm, dân cũng yêu cầu [ICON_Amenities] Tiện nghi. [ICON_Amenities] Tiện nghi là tài nguyên quý hiếm, như [ICON_Resource_Coffee] Cà Phê bên cạnh [ICON_Capital] Thủ Đô. Với công nghệ ĐỒ GỐM cho phép nghiên cứu TƯỚI ĐẤT để tận dụng các tài nguyên quý hiếm. Nó sẽ cung cấp cho thành phố các [ICON_Amenities] Tiện nghi để tăng hạnh phúc.</Text>
+			<Text>In addition to [ICON_Food] Food, your people also require [ICON_Amenities] Amenities in their cities. One source of [ICON_Amenities] Amenities are Luxury resources, such as this [ICON_Resource_Coffee] Coffee next to your [ICON_Capital] Capitol. With the Pottery technology complete, it would be a good idea to research Irrigation to enable your Builders to improve Luxury resources, such as the [ICON_Resource_Coffee] Coffee next to our [ICON_Capital] Capital. This will provide [ICON_Amenities] Amenities to our city, increasing its happiness.</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_6_COMPLETE">
-			<Text>Đã hoàn thành mục tiêu xây một công trình ở thành phố thứ hai!</Text>
+			<Text>You have completed the goal of improving a tile within range of the second city!</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_8_COMPLETE">
 			<Text>You have completed the goal of exploring another tribal village!</Text>
@@ -1015,31 +1015,31 @@
 			<Text>You have completed the goal of building five improvements!</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_14_COMPLETE">
-			<Text>Đã hoàn thành mục tiêu xây Tường trong [ICON_Capital] Thủ đô!</Text>
+			<Text>You have completed the goal of constructing Walls in your [ICON_Capital] Capital city!</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_15_COMPLETE">
-			<Text>Đã hoàn thành mục tiêu xây Trại lính!</Text>
+			<Text>You have completed the goal of constructing a Barracks!</Text>
 		</Row>
 		<Row Tag="LOC_META_106_BODY">
-			<Text>Mỗi thành phố tạo ra các sản lượng ở mỗi lượt. Chúng được lấy từ các ô lục giác trong biên giới.</Text>
+			<Text>Each city generates a variety of yields at the start of every turn. These are obtained from the hexes that the city controls.</Text>
 		</Row>
 		<Row Tag="LOC_META_107_BODY">
-			<Text>[ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm là hai trong số sản lượng.[NEWLINE][NEWLINE] [ICON_Food] Thực phẩm phát triển thì tăng [ICON_Citizen] Dân số. [NEWLINE][NEWLINE]  [ICON_Production] Sản phẩm sử dụng để sản xuất đơn vị, xây dựng khu vực và công trình... Có [ICON_Production] Sản phẩm nhiều thì có thể xây dựng mọi thứ.</Text>
+			<Text>Each hex within your city borders can provide a number of yields to help you advance your civilization. [ICON_Food] Food and [ICON_Production] Production are two of these yields.[NEWLINE][NEWLINE] [ICON_Food] Food fuels city growth, increasing its [ICON_Citizen] Population. More [ICON_Food] Food, faster growth.[NEWLINE][NEWLINE]  [ICON_Production] Production is used to build new items, like military units and city upgrades. The more [ICON_Production] Production your city has, the faster you can build things.</Text>
 		</Row>
 		<Row Tag="LOC_META_108_BODY">
-			<Text>Tuy nhiên, mỗi ô lục giác cần phải được làm hoạt động bởi [ICON_Citizen] Dân số để tạo ra sản lượng.[NEWLINE][NEWLINE]Mỗi [ICON_Citizen] Dân số có thể làm việc với một ô trong phạm vi biên giới.</Text>
+			<Text>However, each hex will need to be worked by your [ICON_Citizen] Population in order to obtain the yield from that hex.[NEWLINE][NEWLINE]Each [ICON_Citizen] Citizen can work 1 hex within your borders.</Text>
 		</Row>
 		<Row Tag="LOC_META_109_BODY">
-			<Text>Phát triển [ICON_Citizen] Dân số rất quan trọng để có thể tận dụng hết tài nguyên trong biên giới.</Text>
+			<Text>Growing your city’s [ICON_Citizen] Population is very important in order to take advantage of all the yields from the surrounding lands.</Text>
 		</Row>
 		<Row Tag="LOC_META_110_BODY">
-			<Text>Bây giờ bạn cần quyết định làm những gì để phát triển thành phố này.[NEWLINE][NEWLINE]Gợi ý:[NEWLINE][NEWLINE]- Đào tạo THỢ XÂY để xây dựng công trình ở các ô đất xung quanh.[NEWLINE][NEWLINE]- Đào tạo đơn vị chiến đấu để mở rộng sức mạnh quân đội.[NEWLINE][NEWLINE]-Xây KHO THÓC để cung cấp thêm [ICON_Food] THỰC PHẨM cũng như [ICON_Housing] NHÀ Ở cho [ICON_Citizen] DÂN SỐ.</Text>
+			<Text>It is now up to you to decide what you would like to produce in this city.[NEWLINE][NEWLINE]Suggestions:[NEWLINE][NEWLINE]- Train a Builder to improve more of the surrounding lands within your borders.[NEWLINE][NEWLINE]- Train a combat unit to expand the size and strength of your military.[NEWLINE][NEWLINE]-Build a Granary to provide additional [ICON_Food] Food for your city as well as more [ICON_Housing] Housing for your [ICON_Citizen] Population.</Text>
 		</Row>
 		<!---->
 		<!--TUTORIAL GOALS TEXT-->
 		<!---->
 		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_1">
-			<Text>Mục tiêu:</Text>
+			<Text>Goals:</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_2">
 			<Text>To COMPLETE the tutorial:</Text>
@@ -1054,40 +1054,40 @@
 			<Text>Use your Scout to find and explore all of the Tribal Villages in the region.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_2">
-			<Text>PHÒNG THỦ: Đưa Chiến binh quay về thành phố.</Text>
+			<Text>DEFENSE: Move Warriors back to city.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_2">
 			<Text>Move your Warriors back to the city to defend.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_3">
-			<Text>PHÒNG THỦ: Giữ Chiến binh trong thành phố.</Text>
+			<Text>DEFEND: Keep Warriors inside city.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_3">
 			<Text>Keep your Warriors inside your city to defend it.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_4">
-			<Text>ĐÀO TẠO DÂN DI CƯ: Hoàn tất đào tạo DÂN DI CƯ.</Text>
+			<Text>TRAIN SETTLER: Complete training of a Settler unit.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_4">
 			<Text>Complete training of a Settler unit to expand your civilization.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_5">
-			<Text>THÀNH LẬP THÀNH PHỐ MỚI: Đoàn hộ tống tới vị trí quy định.</Text>
+			<Text>ESTABLISH NEW CITY: Escort Settler to the specified location.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_5">
 			<Text>Escort the Settler with your Warrior to the specified location.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_6">
-			<Text>PHÁT TRIỂN: Sử dụng THỢ XÂY để xây dựng công trình xung quanh thành phố mới.</Text>
+			<Text>DEVELOP: Use Builder to improve land surrounding new city.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_6">
 			<Text>Use a Builder to improve the lands surrounding the new city.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_7">
-			<Text>SCIENCE: Construct a Khu tri thức in your capital.</Text>
+			<Text>SCIENCE: Construct a Campus in your capital.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_7">
-			<Text>Complete construction of a Khu tri thức in your capital.</Text>
+			<Text>Complete construction of a Campus in your capital.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_8">
 			<Text>EXPLORE: Find and explore all of the Tribal Villages in your region (n / n)</Text>
@@ -1105,70 +1105,70 @@
 			<Text>Eliminate the other civilization.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_13">
-			<Text>XÂY DỰNG: Sử dụng lượt cuối để xây dựng một công trình cho thành phố.</Text>
+			<Text>BUILD IMPROVEMENT: Use your Builder unit to construct a 3rd improvement in your city.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_14">
-			<Text>Xây tường xa xưa trong Thủ đô.</Text>
+			<Text>Build the Ancient Walls in your Capital City.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_15">
-			<Text>Xây khu quân sự và nâng cấp nó với kiến trúc Trại lính.</Text>
+			<Text>Build an Encampment District and upgrade it with a Barracks.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_16">
 			<Text>Train five Military units including at least one Archer or Battering Ram. [NOT IMPLEMENTED].</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_17">
-			<Text>ĐỂ CHIẾN THẮNG: Hạ gục nền văn minh khác bằng cách chiếm lấy thủ đô.</Text>
+			<Text>TO WIN: Eliminate the other civilization by capturing its Capital.</Text>
 		</Row>
 		<!---->
 		<!--CITY PANEL BUILT-IN ADVISOR MESSAGES-->
 		<!---->
 		<Row Tag="LOC_ADVISOR_CITYPANEL_HOUSING_INTRO">
-			<Text>ĐỂ CÓ NHÀ Ở:</Text>
+			<Text>TO GAIN HOUSING:</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_AMENITY_INTRO">
-			<Text>ĐỂ CÓ TIỆN NGHI:</Text>
+			<Text>TO GAIN AMENITIES:</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_CONSTRUCT">
-			<Text>[NEWLINE][NEWLINE]Xây dựng kiến trúc: {1_Buildings}</Text>
+			<Text>[NEWLINE][NEWLINE]Construct Buildings: {1_Buildings}</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_ZONE">
-			<Text>[NEWLINE][NEWLINE]Thêm khu vực: {1_Districts}</Text>
+			<Text>[NEWLINE][NEWLINE]Add Districts: {1_Districts}</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_BUILD">
-			<Text>[NEWLINE][NEWLINE]Xây dựng công trình: {1_Improvements}</Text>
+			<Text>[NEWLINE][NEWLINE]Place Improvements: {1_Improvements}</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_IMPROVE_LUXURIES">
-			<Text>[NEWLINE][NEWLINE]Khai thác tài nguyên quý.</Text>
+			<Text>[NEWLINE][NEWLINE]Improve Luxury resources.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_RESEARCH">
-			<Text>[NEWLINE][NEWLINE]Nghiên cứu công nghệ: {1_Techs}</Text>
+			<Text>[NEWLINE][NEWLINE]Research Technology: {1_Techs}</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
-			<Text>[NEWLINE][NEWLINE]Mở khóa công dân: {1_Civics}</Text>
+			<Text>[NEWLINE][NEWLINE]Unlock Civics: {1_Civics}</Text>
 		</Row>
 		<Row Tag="LOC_META_53_BODY">
-			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders, and abilities that are unlocked by the technology once it is completed. For example, once you have finished researching the Pottery technology, you will be able to construct the Granary building in all of your cities. Your Builders will also gain the ability to harvest Wheat resources near your city. While harvesting a Wheat resource gives you a large amount of [ICON_Food] Thực phẩm, that resource is removed from the map. In most cases, it is better to nurture a Wheat resource by building a Farm improvement on it instead.</Text>
+			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders, and abilities that are unlocked by the technology once it is completed. For example, once you have finished researching the Pottery technology, you will be able to construct the Granary building in all of your cities. Your Builders will also gain the ability to harvest Wheat resources near your city. While harvesting a Wheat resource gives you a large amount of [ICON_Food] Food, that resource is removed from the map. In most cases, it is better to nurture a Wheat resource by building a Farm improvement on it instead.</Text>
 		</Row>
 		<Row Tag="LOC_META_167_BODY">
-			<Text>Các tiến bộ công nghệ đạt được thông qua nghiên cứu.[NEWLINE][NEWLINE]Sau khi hoàn thành sẽ mở khóa những cách thức mới để khai thác đất đai, các đơn vị quân sự mới...</Text>
+			<Text>The technological advancement of your people is attained through research.[NEWLINE][NEWLINE]By completing research on technologies you will unlock new ways to exploit the land, new military units, new city upgrades, and much more.</Text>
 		</Row>
 		<Row Tag="LOC_META_111_BODY">
-			<Text>Chỉ xây dựng đơn vị mới sử dụng [ICON_Production] Sản phẩm, nghiên cứu công nghệ mới sử dụng [ICON_Science] Khoa học.</Text>
+			<Text>Just as building new units is fueled by [ICON_Production] Production, researching new technologies is fueled by [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_META_112_BODY">
-			<Text>Mỗi thành phố tạo ra một lượng nhỏ [ICON_Science] Khoa học. Để nghiên cứu nhanh thì cần có [ICON_Science] nhiều hơn.</Text>
+			<Text>Each city in your empire generates a small amount of [ICON_Science] Science per turn. How quickly your research projects are completed is determined by the total of all the [ICON_Science] Science generated by your cities. [NEWLINE][NEWLINE]The more [ICON_Science] Science you generate, the faster you research new technologies.</Text>
 		</Row>
 		<Row Tag="LOC_META_SELECT_IRRIGATION">
-			<Text>Chọn công nghệ TƯỚI ĐẤT.</Text>
+			<Text>Select Irrigation from the research chooser panel.</Text>
 		</Row>
     <Row Tag="LOC_META_6_HEAD">
-      <Text>CHỌN NGHIÊN CỨU</Text>
+      <Text>CHOOSE RESEARCH</Text>
     </Row>
 		<Row Tag="LOC_META_6_BODY">
-			<Text>Click NGHIÊN CỨU để mở bảng nghiên cứu.</Text>
+			<Text>Click the Choose Research button to open the Research Panel.</Text>
 		</Row>
 		<Row Tag="LOC_META_113_BODY">
-			<Text>Vì đây là hướng dẫn nên chúng ta bỏ qua việc sản xuất đơn vị này. Thông thường, việc sản xuất cần một số lượt nhất định để hoàn tất.</Text>
+			<Text>For the purposes of this tutorial we have ‘rushed’ the production of this unit. Normally, the production would have taken several more turns to complete.</Text>
 		</Row>
 		<Row Tag="LOC_META_12_BODY">
 			<Text>Click the Choose Production notification to open the city’s Production Menu.</Text>
@@ -1177,40 +1177,40 @@
 			<Text>Click on the Warrior unit to select it.</Text>
 		</Row>
 		<Row Tag="LOC_META_114_BODY">
-			<Text>Tất cả làng bộ lạc đều có phần thưởng khi khám phá. Làng này cho chúng ta một đơn vị Do thám.</Text>
+			<Text>All Tribal Villages will grant a reward when explored by a player. This Tribal Village has granted you a new Scout unit, which has appeared in your city.</Text>
 		</Row>
 		<Row Tag="LOC_META_115_BODY">
 			<Text>Continue exploring the world with your Scout. End turn when its action is complete.</Text>
 		</Row>
 		<Row Tag="LOC_META_116_BODY">
-			<Text>Nền văn minh sẽ luôn nghiên cứu công nghệ. Khi hoàn thành Khai Thác thì có thể nghiên cứu công nghệ khác.</Text>
+			<Text>Your civilization will always be researching a technology. Because you just completed Mining, you must now choose what to research next before you can progress to the next turn.</Text>
 		</Row>
 		<Row Tag="LOC_META_117_BODY">
-			<Text>Đã bắt đầu nghiên cứu Đồ Gốm. Lượt sẽ kết thúc khi di chuyển Do Thám.</Text>
+			<Text>Research has begun on the Pottery technology. End your turn once you have moved your Scout unit.</Text>
 		</Row>
 		<Row Tag="LOC_META_118_BODY">
-			<Text>Để chiến thắng trò chơi Civilization, người chơi cần đánh bại các nền văn minh khác trên thế giới.Có nhiều cách để đạt được điều này. Có thể chinh phục bằng sức mạnh quân sự, hay nền văn minh, công nghệ, tôn giáo.</Text>
+			<Text>To win a game of Civilization, you need to defeat all other civilizations in the world. There are multiple ways to achieve this. Most games will also end in the year 2050 or after a set number of turns. If no player has achieved these Victories by then, score will determine the winner. Score is calculated as a general measure of each player’s achievements in all fields of endeavor.</Text>
 		</Row>
 		<Row Tag="LOC_META_119_BODY">
-			<Text>Trang thái của mỗi điều kiện chiến thắng có trong BẢNG XẾP HẠNG THẾ GIỚI. [NEWLINE][NEWLINE]Mở nó ngay.</Text>
+			<Text>The status of each Victory’s conditions are tracked on the World Rankings panel. [NEWLINE][NEWLINE]Open it now.</Text>
 		</Row>
 		<Row Tag="LOC_META_119a_HEAD">
-			<Text>BẢNG XẾP HẠNG THẾ GIỚI</Text>
+			<Text>World Rankings</Text>
 		</Row>
 		<Row Tag="LOC_META_119a_BODY">
-			<Text>Click để mở BẢNG XẾP HẠNG THẾ GIỚI</Text>
+			<Text>Click to open the World Rankings panel</Text>
 		</Row>
 		<Row Tag="LOC_META_120_BODY">
-			<Text>Mục TỔNG QUAN cho cái nhìn sơ lược về các loại chiến thắng cũng như thứ hạng các người chơi khác.</Text>
+			<Text>The Overall tab gives you an overview of all types of Victory and your ranking against other players</Text>
 		</Row>
 		<Row Tag="LOC_META_121_BODY">
-			<Text>Những mục khác cung cấp thông tin chi tiết hơn.</Text>
+			<Text>The other tabs give you more specific detail about each set of rankings. [NEWLINE][NEWLINE]Close the panel when you are ready to proceed.</Text>
 		</Row>
 		<Row Tag="LOC_META_122_BODY">
-			<Text>Phần còn lại của hướng dẫn này sẽ giúp bạn cách CHIẾN THẮNG THỐNG TRỊ.[NEWLINE][NEWLINE]Mục tiêu của chiến thắng là thống nhất thế giới bằng sức mạnh quân sự.</Text>
+			<Text>The rest of this tutorial will help you to achieve your first Domination Victory.[NEWLINE][NEWLINE]The goal of a Domination Victory is for your civilization to be the last to occupy its own [ICON_Capital] Capital city.[NEWLINE][NEWLINE]For this tutorial, that means you will have to use your military to capture the [ICON_Capital] Capital city of your rival, while preventing them from taking yours.[NEWLINE][NEWLINE]How you ultimately achieve this will be up to you. However, we have provided three optional objectives that, if completed, will greatly assist you in achieving this.</Text>
 		</Row>
 		<Row Tag="LOC_META_123_BODY">
-			<Text>Nếu không chắc về điều gì đó, hãy tìm hiểu thêm thông tin trong bách khoa toàn thư Civilopedia.</Text>
+			<Text>If you are unsure about something, or are looking for more information about anything you’ve seen in this tutorial, there’s a good chance you’ll find it in the Civilopedia.</Text>
 		</Row>
 		<Row Tag="LOC_META_64_BODY">
 			<Text>Districts are specific areas of your city dedicated to providing a specific yield. Buildings can be constructed in districts to increase that yield while also providing other benefits for your city.</Text>
@@ -1234,7 +1234,7 @@
 			<Text>Any research progress on a technology is not lost, so there are cases where changing your research focus is strategically valid. However, it is always better to have a completed technology rather than many incomplete ones.</Text>
 		</Row>
 		<Row Tag="LOC_META_73_BODY">
-			<Text>Trong Civilization VI, bạn có thể có được khoảnh khắc Eureka giúp tăng một nửa công nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
+			<Text>In Civilization VI, you can get Eureka Moments that boost your technology research through in game achievements. This Eureka Moment was gained by discovering a natural wonder. Other achievements could be winning a battle with a specific unit or constructing a building. Achieving these greatly accelerates your technological progress.</Text>
 		</Row>
 		<Row Tag="LOC_META_127_BODY">
 			<Text>Scouts are ideal for investigating Tribal Villages because they receive experience from it.</Text>
@@ -1243,37 +1243,37 @@
 			<Text>Any production progress on an item in the queue is not lost, so there are cases where changing your city’s production focus is strategically valid. However, it is often best to finish what you have started before starting something new.</Text>
 		</Row>
 		<Row Tag="LOC_META_74_BODY">
-			<Text>Bạn thấy Thợ Xây biến mất sau khi đã xây dựng 3 công trình. Cần phải đào tạo nhiều Thợ Xây nếu muốn cải thiện các vùng đất xung quanh thành phố.</Text>
+			<Text>You might have noticed that your Builder unit disappeared after using its last build ‘charge’. This is because all of its workforce has been expended. You will need to train more Builders as you progress through the game to improve the lands around your cities.</Text>
 		</Row>
 		<Row Tag="LOC_META_75_BODY">
 			<Text>Scouts, unlike other military units, gain experience from exploring Tribal Villages. They can also gain experience from discovering natural wonders in the world. </Text>
 		</Row>
 		<Row Tag="LOC_META_128_BODY">
-			<Text>Có thể thấy thành phố tạo ra một lượng nhỏ [ICON_Faith] Lòng tin mỗi lượt.[NEWLINE][NEWLINE]ICON_Faith] Lòng tin kiếm được qua thời gian từ các kiến trúc, khu vực và chính sách nào đó.</Text>
+			<Text>You may have noticed that your cities have been generating a small amount of [ICON_Faith] Faith each turn.[NEWLINE][NEWLINE][ICON_Faith] Faith is earned over time by certain buildings, districts, and policies.</Text>
 		</Row>
 		<Row Tag="LOC_META_129_BODY">
-			<Text>Giờ bạn đã kiếm đủ [ICON_Faith] Lòng tin, bạn có thể bước đầu thành lập tôn giáo với sự hình thành một Vị thần, nó sẽ cung cấp một số lợi ích chiến lược.</Text>
+			<Text>Now that you’ve earned enough [ICON_Faith] Faith, you are able to take the first step towards founding a Religion by forming a Pantheon, which will provide you with a choice of strategic benefits.</Text>
 		</Row>
 		<Row Tag="LOC_META_129b_HEAD">
-			<Text>Chọn Vị thần</Text>
+			<Text>Choose Pantheon</Text>
 		</Row>
 		<Row Tag="LOC_META_129b_BODY">
-			<Text>Click Tôn giáo để mở và chọn một Vị thần.</Text>
+			<Text>Click the Religion button to open the Religion screen and choose a Pantheon.</Text>
 		</Row>
 		<Row Tag="LOC_META_129c">
-			<Text>Có rất nhiều vị thần để chọn lựa với các hiệu ứng khác nhau. Một khi được lựa chọn bởi một người chơi, nó sẽ lấy ra từ danh sách và gắn liền với tôn giáo trong suốt thời gian của trò chơi. Hãy chọn một cách khôn ngoan!</Text>
+			<Text>There are many Pantheons to choose from with different gameplay effects. Once one is chosen by a player, it is removed from the list of available Pantheons and is exclusive to that player’s religion for the duration of the game. Choose wisely!</Text>
 		</Row>
 		<Row Tag="LOC_META_129d">
-			<Text>Chọn một vị thần rồi click 'Tìm thấy vị thần này' để hoàn tất.</Text>
+			<Text>Choose a Pantheon, then click the 'Found this Pantheon' button when you are done.</Text>
 		</Row>
 		<Row Tag="LOC_META_130_BODY">
-			<Text>Tốt lắm! Bước tiếp theo là thu hút một Vĩ nhân, người mà có thể sáng lập ra một tôn giáo. Nhưng trước tiên cần phải xây Khu linh thiêng, hoặc ban hành một chính sách phù hợp để kiếm được điểm Vĩ nhân.</Text>
+			<Text>Well done! The next step is to attract a Great Prophet, who will be able to found a Religion. But first, you will need to build a Holy Site district, or enact an appropriate government policy, both of which will earn you Great Prophet Points.</Text>
 		</Row>
 		<Row Tag="LOC_META_131_BODY">
-			<Text>Có một số lượng tôn giáo hạn chế. Bạn có thể không có cũng được, tuy nhiên sẽ không hiệu quả đối với người chơi muốn đạt được chiến thắng Tôn giáo bằng cách chinh phục các [ICON_Citizen] Công dân.</Text>
+			<Text>There are a limited number of opportunities to found a Religion. Doing so is optional, but keep in mind that if you do not, you may not have an effective counter against a player who is seeking a Religious Victory by converting your [ICON_Citizen] Citizens.</Text>
 		</Row>
 		<Row Tag="LOC_META_131b_HEAD">
-			<Text>Đóng tôn giáo</Text>
+			<Text>Close Religion</Text>
 		</Row>
 		<Row Tag="LOC_META_132_BODY">
 			<Text>Your [ICON_GreatProphet] Great Prophet has founded a new Religion, and you must customize it by selecting a name, symbol, and selecting two additional religious beliefs that will complement the Pantheon belief you selected previously.</Text>
@@ -1282,37 +1282,37 @@
 			<Text>Your new Religion can spread between cities, converting its [ICON_Citizen] Citizens into followers. It is possible for a city to have a mix of several Religions. The Religion with the majority of followers in a city will be the one that imparts its bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_META_134_BODY">
-			<Text>While Religion will slowly spread from city to city organically, you can cause sudden shifts by training Missionary and Apostle units and sending them out to spread your people’s Religion. These units can be obtained by spending [ICON_Faith] Lòng tin to buy them in the Purchase tab of a city’s Production Menu.</Text>
+			<Text>While Religion will slowly spread from city to city organically, you can cause sudden shifts by training Missionary and Apostle units and sending them out to spread your people’s Religion. These units can be obtained by spending [ICON_Faith] Faith to buy them in the Purchase tab of a city’s Production Menu.</Text>
 		</Row>
 		<Row Tag="LOC_META_135_BODY">
 			<Text>Aggressively spreading your Religion is essential if you are targeting a Religious Victory. Even if you are not, it is wise to keep track of how Religion is spreading around the world. Counter it where possible to mitigate the chances of another player claiming Victory this way.</Text>
 		</Row>
 		<Row Tag="LOC_META_136_BODY">
-			<Text>Bạn có cơ hội để tuyển dụng một [ICON_GreatPerson] Vĩ nhân cho nền văn minh của bạn. [ICON_GreatPerson] Vĩ nhân đem lại lược ích đáng kẻ cho nền văn minh dựa trên lĩnh vực chuyên môn của họ. Có rất nhiều loại [ICON_GreatPerson] Vĩ nhân, bao gồm họa sĩ, kỹ sư, quân đội...</Text>
+			<Text>You have gained the opportunity to claim a [ICON_GreatPerson] Great Person for your civilization. [ICON_GreatPerson] Great People provide significant benefits to your civilization based on their field. There are many types of [ICON_GreatPerson] Great People, including artists, engineers, and military leaders.</Text>
 		</Row>
 		<Row Tag="LOC_META_136b_HEAD">
-			<Text>Vĩ nhân</Text>
+			<Text>Great People</Text>
 		</Row>
 		<Row Tag="LOC_META_136b_BODY">
-			<Text>Mở [ICON_GreatPerson] Vĩ nhân để tuyển dụng [ICON_GreatPerson] Vĩ nhân.</Text>
+			<Text>Open the [ICON_GreatPerson] Great People panel to claim your [ICON_GreatPerson] Great Person.</Text>
 		</Row>
 		<Row Tag="LOC_META_137_BODY">
 			<Text>This is the [ICON_GreatPerson] Great People panel. It shows all the [ICON_GreatPerson] Great People that are currently available for civilizations to claim, their benefits, and their costs.</Text>
 		</Row>
 		<Row Tag="LOC_META_138_BODY">
-			<Text>Mỗi [ICON_GreatPerson] Vĩ nhân đều có một hoặc nhiều lần kích hoạt để nhận những phần thưởng đặc biệt. Khi họ xuất hiện trong thành phố và sẽ được kích hoạt tại một vị trí đặc biệt trên bản đồ. Một khi sử dụng hết số lần kích hoạt, [ICON_GreatPerson] Vĩ nhân sẽ biến mất.</Text>
+			<Text>Each [ICON_GreatPerson] Great Person has one or more opportunities to activate a special bonus. They will appear as a unit in one of your cities and you must Activate their bonus at a special location on the map. Once they have used all their bonuses, the [ICON_GreatPerson] Great Person will disappear.</Text>
 		</Row>
 		<Row Tag="LOC_META_139_BODY">
-			<Text>[ICON_GreatPerson] Vĩ nhân kiếm được bằng cách thu thập đủ điểm [ICON_GreatPerson] Vĩ nhân của từng loại. Những điểm này có được từ khu vực và kiến trúc, nhưng cũng có thể đến từ chính sách và hiệu ứng khác. Nếu đang vội, bạn có thể dùng [ICON_Gold] Vàng hoặc [ICON_Faith] Lòng tin để mua được tức thì [ICON_GreatPerson] Vĩ nhân bạn muốn.</Text>
+			<Text>A [ICON_GreatPerson] Great Person is earned by saving up enough [ICON_GreatPerson] Great People Points of its type, then spending them to recruit the [ICON_GreatPerson] Great Person to your civilization. These points come primarily from districts and buildings, but can also come from policies and other effects. If you are in a rush, you can spend [ICON_Gold] Gold or [ICON_Faith] Faith to instantly earn the [ICON_GreatPerson] Great Person you want.</Text>
 		</Row>
 		<Row Tag="LOC_META_140_BODY">
-			<Text>Có thể chọn bỏ qua [ICON_GreatPerson] Vĩ nhân nếu bạn không muốn. Nếu làm điều này, người chơi khác sẽ có cơ hội tuyển dụng được họ. Tuy nhiên, điểm [ICON_GreatPerson] Vĩ nhân của bạn sẽ được lưu lại cho một cơ hội trong tương lai.</Text>
+			<Text>You can choose to pass on a [ICON_GreatPerson] Great Person that you don’t want. If you do this, then other players will have the opportunity to claim them, and your choice to pass is not reversible. However, your [ICON_GreatPerson] Great People Points will be saved for a future opportunity.</Text>
 		</Row>
 		<Row Tag="LOC_META_141_BODY">
-			<Text>Bạn vừa hoàn tất đào tạo một THƯƠNG GIA. THƯƠNG GIA có thể đi lại giữa hai thành phố và tạo ra thu nhập.</Text>
+			<Text>You’ve just completed a Trader unit. Traders travel between two cities and generate income for their city of origin. </Text>
 		</Row>
 		<Row Tag="LOC_META_142_BODY">
-			<Text>Nền văn minh có thể thiết lập một số giới hạn của [ICON_TradeRoute] TUYẾN ĐƯỜNG THƯƠNG MẠI. Có thể mở rộng khả năng này với TRUNG TÂM THƯƠNG MẠI hoặc CẢNG.</Text>
+			<Text>Your civilization can establish a limited number of [ICON_TradeRoute] Trade Routes. You can expand this capacity with Commercial Hub or Harbor districts.</Text>
 		</Row>
 		<Row Tag="LOC_META_142b_HEAD">
 			<Text>Assign Trade Route</Text>
@@ -1324,22 +1324,22 @@
 			<Text>There are no other cities to trade with right now. Continue to explore the map, or build a Settler and found a new city of your own.</Text>
 		</Row>
 		<Row Tag="LOC_META_144_BODY">
-			<Text>Đây là bảng điều chỉnh THƯƠNG MẠI, cho thấy những thành phố mà bạn có thể giao dịch. THƯƠNG GIA có một phạm vị giới hạn cho nên cần phải tạo những cầu nối để liên kết được xa hơn.</Text>
+			<Text>This is the Trade Panel, showing the cities that you can trade with currently. Traders have a limited range, but visiting nearby cities will establish a Trading Post there, allowing them to be used as a bridge to farther destinations.</Text>
 		</Row>
 		<Row Tag="LOC_META_145_BODY">
-			<Text>Tùy thuộc vào công trình và khu vực đang đứng, ví dụ ở nước ngoài thì có thể kiếm được [ICON_Science] KHOA HỌC, [ICON_Faith] LÒNG TIN, [ICON_Culture] VĂN MINH, hoặc [ICON_Gold] VÀNG mỗi lượt. Đối với điểm đến trong nước, có thể kiếm được [ICON_Food] THỰC PHẨM và [ICON_Production] SẢN PHẨM.</Text>
+			<Text>Depending on the buildings and districts within a foreign destination, you stand to earn yields of [ICON_Science] Science, [ICON_Faith] Faith, [ICON_Culture] Culture, or [ICON_Gold] Gold each turn for a set number of turns. For domestic destinations, you can earn [ICON_Food] Food and [ICON_Production] Production.</Text>
 		</Row>
 		<Row Tag="LOC_META_145b_BODY">
-			<Text>Lựa chọn đích đến từ danh sách thành phố sẵn có.</Text>
+			<Text>Select the destination of your choice from the list of available cities.</Text>
 		</Row>
 		<Row Tag="LOC_META_145c_BODY">
-			<Text>Click 'BẮT ĐẦU TUYẾN ĐƯỜNG' để gửi THƯƠNG GIA đến dó.</Text>
+			<Text>Click 'Begin Route' to send this Trader on its way to the destination.</Text>
 		</Row>
 		<Row Tag="LOC_META_146_BODY">
-			<Text>THƯƠNG GIA này sẽ đi tới đó và quay về để tạo ra sản lượng mỗi lượt. Khi trở về, chúng ta có thể chọn một tuyến đường khác.</Text>
+			<Text>This Trader will now travel to the destination and back, generating the relevant yields each turn. Once it has returned, you can choose a new route.</Text>
 		</Row>
 		<Row Tag="LOC_META_147_BODY">
-			<Text>THƯƠNG GIA cũng sẽ xây dựng một CON ĐƯỜNG giữa các thành phố đi qua. Các đơn vị đi qua CON ĐƯỜNG sẽ không bị phạt điểm [ICON_Movement] DI CHUYỂN ở địa hình khó.</Text>
+			<Text>The Trader will also build a Road between the cities as it goes. Units travelling a road generally suffer no terrain [ICON_Movement] Movement penalties.</Text>
 		</Row>
 		<Row Tag="LOC_META_148_BODY">
 			<Text>You have discovered a nearby city-state. These are mini-civilizations that are similar in some ways to another player, but they can only ever have a single city and cannot win the game. By working with your city-state neighbors, you can build lucrative relationships and even gain their support in war.</Text>
@@ -1351,7 +1351,7 @@
 			<Text>Click the city-state button or click the city-state to open the city state panel.</Text>
 		</Row>
 		<Row Tag="LOC_META_151_BODY">
-			<Text>This is the city-state panel. You can earn Envoys and dispatch them to a city-state. Doing this can earn you progressively better buffs to [ICON_Science] Khoa học, [ICON_Culture] Văn minh, [ICON_Production] Sản phẩm, [ICON_Gold] Vàng, or [ICON_Faith] Lòng tin. Click the name of a city-state in the list.</Text>
+			<Text>This is the city-state panel. You can earn Envoys and dispatch them to a city-state. Doing this can earn you progressively better buffs to [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production, [ICON_Gold] Gold, or [ICON_Faith] Faith. Click the name of a city-state in the list.</Text>
 		</Row>
 		<Row Tag="LOC_META_152_BODY">
 			<Text>These are the Quests you can complete for this city-state. This is one way to earn Envoys and improve your friendship with it. You can also earn Envoys by completing certain items in the Civics Tree, and over time through governments and policies.</Text>
@@ -1366,10 +1366,10 @@
 			<Text>Certain siege units can improve your chances. Catapults can attack from range and do significant damage to Walls, while the Battering Ram or Siege Tower allows melee units to attack Walls or bypass them, respectively.</Text>
 		</Row>
 		<Row Tag="LOC_META_156_BODY">
-			<Text>Bạn đã gặp một lãnh đạo của nền văn minh khác. Trong Civilization VI, thường có một số nền văn minh chia sẻ bàn đồ thế giới với bạn. Chúng được điều khiển bởi máy, cũng có những khả năng tương tự chúng ta.</Text>
+			<Text>You have met the leader of another civilization. In Civilization VI, there will typically be several other civilizations sharing the world map with you. These are controlled by the game AI, and have all the same abilities – and ambitions – that you do.</Text>
 		</Row>
 		<Row Tag="LOC_META_157_BODY">
-			<Text>Khi chơi, cần phải xem xét làm gì với nước láng giềng một cách cẩn thận.</Text>
+			<Text>As you play, you will need to consider how to deal with your neighbors and watch them carefully to improve your understanding of their strategy.</Text>
 		</Row>
 		<Row Tag="LOC_META_158_BODY">
 			<Text>Leaders of civilizations you have met in the game will appear here. The leader icon on the far right represents your civilization. All other leaders will be listed to next to yours.</Text>
@@ -1408,139 +1408,139 @@
 			<Text>A City-State is a small civilization that cannot win the game. Establishing good diplomatic relations with them can be very lucrative. This is done by sending Envoys to the City State.</Text>
 		</Row>
 		<Row Tag="LOC_META_169_BODY">
-			<Text>THƯƠNG GIA có thể được đào tạo tại một trong những thành phố của bạn. Ngoài việc cung cấp thêm [ICON_Gold] Vàng và lợi ích khác cho nền văn minh, [ICON_TradeRoute] TUYẾN ĐƯỜNG THƯƠNG MẠI rất cần thiết cho việc xây dựng giao thông giữa các thành phố.</Text>
+			<Text>Trader units can be trained in one of your cities. In addition to providing additional [ICON_Gold] Gold and other benefits to your civilization, [ICON_TradeRoute] Trade Routes are essential for building roads between cities.</Text>
 		</Row>
 		<!---->
 		<!--ROCCO LINES-->
 		<!---->		
 		<Row Tag="ADVISOR_LINE_FTUE_1ALT_1">
-			<Text>Chào Cleopatra! Số phận dân tộc đang nằm trong tay bạn. Có lẽ tôi có thể giúp gì đó cho bạn.</Text>
+			<Text>Welcome Cleopatra. Our people's fate lies in your hands. Great is the responsibility placed upon you. Perhaps I may be of service.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_1ALT_2">
-			<Text>Chào Gilgamesh! Số phận dân tộc đang nằm trong tay bạn. Có lẽ tôi có thể giúp gì đó cho bạn.</Text>
+			<Text>Welcome Gilgamesh. Our people's fate lies in your hands. Great is the responsibility placed upon you. Perhaps I may be of service.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_2_ALT">
-			<Text>Đã từ rất lâu, chúng tôi đi lang thang khắp thế giới, cho nên không có cái tên nào để gọi chúng tôi.</Text>
+			<Text>For too long we have roamed this world without a land to call our own. It is time we put down roots.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_22a">
-		   <Text>Dân di cư dũng cảm đang đợi lệnh. Chúng ta nên đặt thành phố đầu tiên ở đây.</Text>
+		   <Text>Our brave Settlers await your command. We should found our first city here.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_3_ALTV2">
-		   <Text>Từ một thành phố nhỏ này, bạn có thể phát triển cả một đế chế. Nhưng trước tiên cần phải tìm hiểu nhu cầu của nhân dân ta.</Text>
+		   <Text>From the seeds of this small city shall you grow an empire.  But to truly thrive we must first see to the needs of our people.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_23">
 		   <Text>The lands before us offer untold riches and dangers.  You must consider that carefully when choosing their final destination.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_36">
-			<Text>Bây giờ nó nhỏ nhưng có thể phát triển nếu bạn cho phép. Số phận của nó phụ thuộc vào bạn.</Text>
+			<Text>Though small now, our city will continue to grow if you allow it to.  Its fate and that of our people depend upon you.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_37a">
-			<Text>Rất may mắn là vùng đất xung quanh giàu tài nguyên. Phát triển là chìa khóa của sự tồn tại...</Text>
+			<Text>We are fortunate that the land surrounding our city is rich in resources.  Developing it will be key to our survival...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_38">
-			<Text>Chúng ta may mắn có được vùng đất rộng lớn. Tuy nhiên nên văn minh cần phải có người, không đơn giản chỉ gồm trái đất.</Text>
+			<Text>We are blessed to have such bountiful lands within our borders. Still, a civilization is comprised of people, not just earth.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_46_ALT">
-		   <Text>Vùng đất như này sẽ thu hút sự chú ý của quân man rợ. Cần phải chiến đấu để tồn tại.</Text>
+		   <Text>Such lands will surely draw the attention of the Barbarian raiders plaguing this area. We must prepare to fight back if we are to survive.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_5_ALT_2">
-			<Text>Thành phố cần Chiến binh.</Text>
+			<Text>Our city requires Warriors.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_51a">
-			<Text>Để tồn tại trong vùng đất này, chúng ta phải nỗ lực. Chỉ khi đó, chúng ta có thể làm chủ được thế giới này.</Text>
+			<Text>If our people are to survive in these lands, we must focus their efforts. Only then can we master this world.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_6ALTV_1">
-			<Text>Bảo vệ thành phố đang là mối quan tâm. Hãy đào tạo một Chiến binh.</Text>
+			<Text>Our people's protection is our utmost concern. Direct your city towards the creation of a Warrior.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_61">
-		   <Text>Đã bắt đầu đào tạo. Nhân dân cảm thấy an tâm.</Text>
+		   <Text>Training has commenced. Already our people feel more secure.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_62">
-			<Text>Đế chế không làm việc qua đêm. Đây là tất cả của ngày hôm nay.</Text>
+			<Text>Our empire will not be built overnight. We have accomplished all we can this day...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_63">
 			<Text>There are no other matters for you to attend to.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_7ALT">
-			<Text>Chiến binh đang được đào tạo. Nếu muốn có nhiều hơn thì cần phải khám phá những khu vực khác để phát triển.</Text>
+			<Text>Our Warriors continue to train. But if we are to be more than the Barbarian tribes we defend against, we must explore other areas of development.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_71">
-			<Text>Có những bộ óc thiên tài sẽ mở khóa bí mật thế giới. Chúng ta cần phải định hướng cho họ..</Text>
+			<Text>There are those among us with minds adept at unlocking the world's secrets. We need only guide them.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_8ALT">
-		   <Text>Hoàn hảo. Cần thời gian để họ hoàn thành nghiên cứu này.</Text>
+		   <Text>Excellent. As our people's understanding of the earth increases so to will our ability to harness it's riches and increase our production capabilities. We must give them time to do their work.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_81">
 			<Text>There are no more matters requiring your attention today.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_9ALT">
-			<Text>Quân man rợ tiếp cận thành phố của chúng ta!  Bọn chúng sẽ không bỏ qua chúng ta.</Text>
+			<Text>Barbarian raiders approach our city!  We are surely too prize a target for them to ignore.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_92">
-			<Text>Chúng ta không cho phép chúng cướp bóc, phá hủy những gì đã gây dựng. Chiến binh cũng vừa hoàn thành đào tạo. Hãy để họ chiến đấu!</Text>
+			<Text>We cannot allow these savages to pillage and destroy all we have built. Our Warriors have completed their training. Let us commit them to battle!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_94">
-			<Text>Chiến binh sẽ tấn công kẻ địch. Họ cần được phải định hướng chiến thuật.</Text>
+			<Text>Warriors are the blade with which we will strike down our enemy. They need only your hand to guide them.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_10ALT">
-			<Text>Chiến thắng! Quân man rợ đã bị hạ gục. Tuy nhiên họ sẽ trở lại và lợi hại hơn xưa..</Text>
+			<Text>Victory! The Barbarians have learned we are not a people to be trifled with. Still, they will return, and next time I fear they will not take us so lightly.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_12ALT">
-			<Text>Chúng ta cần tận dụng thời gian này. Nhân dân có thể tập trung năng lực để sản xuất.</Text>
+			<Text>We should take advantage of this lull in hostilities. With our Warriors now prepared, we may focus our production capabilities towards the city itself.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_121">
-			<Text>Hoàn hảo. Các kỹ năng của thợ xây sẽ cải thiện đáng kể nền văn minh.</Text>
+			<Text>Excellent. The skills these Builders will attain will dramatically improve our civilization.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_13ALT">
-			<Text>Vùng đất xung quanh rất màu mỡ. Chúng ta cần tạo ra lực lượng lao động để khai thác những tài nguyên này.</Text>
+			<Text>The lands surrounding our city are fertile. Yet as of now they lie undeveloped. We must create a workforce if we are to make the most of the resources within our borders.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_131">
 			<Text>We have no more matters that require your attention today.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_14_ALT">
-			<Text>Trong khi đào tạo Thợ Xây. Chúng ta sẽ tiếp tục khám phá.</Text>
+			<Text>While our Builders train to improve life within our borders we must not ignore the lands beyond them. The only way to truly master this world is to understand it.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_15ALT">
-			<Text>Ngoài chiến đấu, Chiến binh có thể đi khám phá các vùng đất mới. Chỉ cần bạn ra lệnh.</Text>
+			<Text>Beyond combat, our Warriors make for ideal explorers in this uncertain and hostile world.  You need only give the word and they shall set forth into the unknown.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_151">
-			<Text>Những con đường sẽ giúp di chuyển xa hơn.</Text>
+			<Text>Alone, on foot, the wildlands take a heavy toll on our troops.  Perhaps there is a smoother path…</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_153">
-			<Text>Với nỗ lực của Chiến binh, họ tìm thấy một ngôi làng bộ lạc nhỏ.</Text>
+			<Text>Already our Warriors' efforts bear fruit. They have come upon a small Tribal Village.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_154">
-			<Text>Những người này có vẻ khác với quân man rợ. Chúng ta nên giữ liên lạc với họ hơn là chiến đấu.</Text>
+			<Text>This people seem different from the Barbarian tribes we encountered. Perhaps we should make contact instead of combat.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_155">
 			<Text>We have attended to all matters necessary today.</Text>
 		</Row>
 		<Row Tag="ADVISOR_FTUE_47_ALT">
-			<Text>Chiến binh đang đứng trước cổng làng. Họ đang đợi lệnh.</Text>
+			<Text>Our Warriors stand before the village gates. They await your command to enter.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_16_ALT">
-			<Text>Có vẻ như bạn nhận được phần thưởng...</Text>
+			<Text>It would seem friendship has its rewards. Our success against the Barbarians has reached this village. Impressed by our culture they wish to rise up against their oppressors and join us in the fight against the horde.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_17_ALT">
-			<Text>Không có kĩ năng chiến đấu nhưng bộ lạc này có một kiến thức rộng lớn về các vùng đất. Khả năng di chuyển nhanh qua các địa hình, hãy sử dụng họ thật tốt.</Text>
+			<Text>Though not skilled in the ways of combat, this tribe possess a great knowledge of the land. Their ability to move through the terrain quickly makes them ideal Scouts. We should put them to good use.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_171">
 			<Text>There may be other like-minded settlements in the lands ahead.  We would be wise to seek them out in the future...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_18_ALT">
-			<Text>Cần phải sử dụng Do thám cẩn thận vì họ chiến đấu kém. Sẽ khôn ngoan khi tránh các cuộc chiến bất cứ khi nào có thể.</Text>
+			<Text>We should employ these Scouts with caution. They are excellent explorers but poor warriors. It would be wise for them to avoid battle whenever possible.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_181">
 			<Text>No other matters require your attention today.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_21_ALT">
-			<Text>Khám phá vùng đất mang nhiều lợi ích nhưng đừng quên sự an toàn của Thủ Đô. Cần chỉ đạo Chiến binh bảo vệ nhà.</Text>
+			<Text>Exploration may bring many rewards, but let us not forget the safety of our Capital.  We should direct our Warriors home for its protection.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_22_ALT">
-			<Text>Do thám đang chờ ra lệnh để khám phá những vùng đất mới.</Text>
+			<Text>Our Scouts await orders. They must explore and teach us about new lands yet undiscovered.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_23_ALT">
-			<Text>Không thể làm gì nữa trong lượt này.</Text>
+			<Text>There are no further matters to attend to today.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_231">
 			<Text>Our people are hard at work fulfilling your orders.  Let us take this time to further advance our Scouts.</Text>
@@ -1549,109 +1549,109 @@
 			<Text>No other matters require your attention today.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_26_ALT">
-			<Text>Dân rất vui mừng vì sự trở lại của Chiến binh. Giờ cần phải củng cố vị trí của họ để có thể chống lại quân man rợ tốt hơn.</Text>
+			<Text>Our citizens rejoice at the return of our brave Warriors. Perhaps they should fortify their position to defend against the Barbarian threat.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_261">
-			<Text>Tuyệt vời, Chiến binh đang cố thủ để giữ an toàn. Rất khôn ngoan khi duy trì lợi thế này càng lâu càng tốt.</Text>
+			<Text>Excellent, with our Warriors entrenched in their positions our people are secure.  It would be wise to maintain this advantage for as long as possible.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_24_ALT">
-			<Text>Trong khi lực lượng bảo vệ thành phố, chúng tôi tìm được cách để khai thác tài nguyên. Với sự phong phú Đá ở gần đó, Thợ Xây có thể khai thác khi hoàn tất đào tạo.</Text>
+			<Text>While our forces prepare the defense of our city, our best minds have discovered how to extract precious resources from the earth itself. With an abundance of valuable Stone nearby, our Builders may be able to exploit this knowledge when they complete their training.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_241">
-			<Text>Nhân dân ta đam mê trong việc theo đuổi kiến thức. Chỉ cần định hướng cho họ để khám phá những bí ẩn của thế giới này.</Text>
+			<Text>Our people delight in the pursuit of knowledge.  We need only direct their efforts and they shall uncover yet another mystery of this world.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_242">
-			<Text>Một quyết định khôn ngoan...</Text>
+			<Text>A wise decision. Our people may now uncover new uses for the materials we unearth in our Mines and Quarries.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_243">
-			<Text>Đừng quên nỗ lực của đơn vị Do Thám...</Text>
+			<Text>But let us not forget the exploration efforts of our Scouts.  There is a whole world before us to uncover.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_19_ALT">
-			<Text>Do thám tiếp tục tìm hiểu, chúng ta hãy tìm hiểu bên trong thành phố. Dân chúng bắt đầu thấy đói.</Text>
+			<Text>As our Scouts continue to push onwards let us turn inwards to our own Capital. As our city grows, so too does our people's hunger...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_191">
-			<Text>Thợ xây đã sãn sàng. Xây Nông trại trên vùng đất màu mỡ để tăng sản lượng và cung cấp thức ăn cho mọi người.</Text>
+			<Text>Our Builders now stand ready. Constructing a Farm on fertile lands within our city will increase our yield and better feed our people.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_192">
-			<Text>Đồng bằng có đất đai màu mỡ. Lý tưởng để trồng những cây đầu tiên.</Text>
+			<Text>These Plains possess rich soil. An ideal spot to plant our first crops...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_193">
-			<Text>Xuất sắc. Dân không còn đói và tiếp tục phát triển.</Text>
+			<Text>Excellent. With their stomachs full our people prosper and our population shall only grow...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_194">
-			<Text>Nhưng nhớ rằng sức khỏe Thợ xây không phải là vô hạn. Hãy sử dụng một cách khôn ngoan trước khi họ ra đi.</Text>
+			<Text>But remember, our Builders' strength is not infinite. We would be wise to make the best use of their talents before exhausting them.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_20_ALT">
-			<Text>Với khả năng này, chúng ta có thể xây dựng những công trình phức tạp hơn. Có lẽ một đài kỷ niệm sẽ truyền cảm hứng cho thành phố phát triển hơn nữa.</Text>
+			<Text>With their basic needs met, our people now have the capability to construct more elaborate structures. Perhaps a Monument to all they have accomplished will inspire them to evolve even further...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_201">
-			<Text>Tuyệt vời, niềm tự hào về văn hóa riêng của họ phát triển vượt qua cả vùng biên giới.</Text>
+			<Text>Excellent, as pride in their own culture grows our people shall be driven to spread our civilization beyond their own borders.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_202">
 			<Text>And follow in the footsteps of our brave Scouts.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_204">
-			<Text>Bây giờ dân chúng đã có ăn. Đưa thợ xây tới ô kế để xây dựng khai thác những tài nguyên khác.</Text>
+			<Text>Now that our people are fed, let us turn our Builder's attention elsewhere.  There are valuable resources surrounding our city that have yet to be exploited.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_205">
-			<Text>Chỉ đạo Thợ Xây để khai thác những tài nguyên có giá trị.</Text>
+			<Text>Direct the efforts of our Builders towards harnessing these valuable materials.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_206">
-			<Text>Xuất sắc. Mỏ đã sẽ giúp tăng Sản phẩm thành phố.</Text>
+			<Text>Excellent. This Stone we extract from this Quarry will only increase our production capabilities.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_207">
 			<Text>It would appear some of our people still require your direction...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_209">
-			<Text>Mỏ đá xây xong thì hãy để Thợ Xây xây những công trình khác.</Text>
+			<Text>With our Quarry now complete we must turn our Builders’ attention towards additional improvements.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_2091">
-			<Text>Hiện vẫn có vùng đất giá trị trong phạm vi biên giới.</Text>
+			<Text>There is still valuable land within our borders, we must guide their hands carefully.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_2092">
 			<Text>Our people still await your command.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_27_ALT">
-			<Text>Chúng ta rất may mắn. Đài kỷ niệm này là biểu tượng của thành tựu và quyết tâm của nhân dân. Nó truyền cảm hứng để thúc đẩy phát triển mạnh hơn nữa.</Text>
+			<Text>We are blessed. This Monument stands as symbol of the accomplishments and determination of our people.  Truly they shall now be inspired to push even further into the lands beyond.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_28_ALT">
-			<Text>Có lẽ bây giờ chúng ta đã sẵn sàng truyền bá nền văn minh này. Nếu không mở rộng lãnh thổ thì kẻ khác sẽ chiếm nó.</Text>
+			<Text>Perhaps we are now ready to spread our civilization beyond our Capital city. If we do not claim the surrounding territory, others surely will.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_29_ALT">
-			<Text>Tuyệt vời, Dân Di Cư sẵn sàng đi gây dựng thành phố mới, tuy nhiên họ cần một thời gian để chuẩn bị.</Text>
+			<Text>Excellent, these brave Settlers are ready to carry our culture into the unknown. However, it will take some time before they are prepared for the journey that awaits them.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_292">
 			<Text>There are reports of dangerous raiders roaming the lands nearby.  It would be best to keep these Warriors here, seeing to the safety of our Capital.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_30_ALT">
-			<Text>DÂN DI CƯ đã hoàn tất chuẩn bị và sẵn sàng chờ lệnh. Tuy nhiên những vùng đất mới có muôn vàn nguy hiểm. Chúng tôi không cho phép họ đi mà không có sự bảo vệ...</Text>
+			<Text>Our Settlers have finished preparations and await your command. However, the lands before them possess untold dangers.  We must not allow them to go forth without protection...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_301">
-			<Text>Hoàn hảo. Hãy chọn điểm đến cho chúng tôi.</Text>
+			<Text>Excellent, with our people prepared we must now choose our destination.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_302">
-			<Text>Có một khu vực giàu tài nguyên không xa THỦ ĐÔ. Hay đưa DÂN DI CƯ tới đó.</Text>
+			<Text>There is an area rich in resources not far from the Capital.  Let us send our Settlers there.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_31_ALT">
-			<Text>...</Text>
+			<Text>Though our Settlers are safe under the protection of our Warriors, our Capital is now defenseless. Without the protection of the military we will most surely become overrun by our enemies.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_311">
-			<Text>Mặc dù CHIẾN BINH chiến đấu rất dũng cảm nhưng cần phải có sự đa dạng hóa quân sự. BẮN NÁ có phong cách chiến đấu khác.</Text>
+			<Text>Though our Warriors are valiant a proper fighting force must be diversified.  Slingers provide a different style of combat.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_312">
-			<Text>...</Text>
+			<Text>With knowledge comes opportunity. As our people's understanding of this world grows, new paths present themselves to us...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_33_ALT">
 			<Text>Location is critical in founding a new settlement.  We are fortunate to have  discovered such an ideal place.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_331">
-			<Text>Đưa người vào cắm rễ ở đây.</Text>
+			<Text>Order our people to take root here.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_332">
-			<Text>Rất tốt. Nền văn minh tiếp tục lan rộng. Thậm chí nó có thể cạnh tranh với cả THỦ ĐÔ của chúng ta.</Text>
+			<Text>Well done. Our civilization continues to spread beyond expectation.  In time it may rival even our own Capital.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_34_ALT">
-			<Text>Thành phố khao khát được phát triển. Người dân đang chờ đợi sự hướng dẫn của bạn.</Text>
+			<Text>Already this new city yearns to grow.  Its people await your guidance.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_35_ALT">
 			<Text>We have reports of another civilization growing on this continent. It seems we are not the only people competing for control of these lands.</Text>
@@ -1660,13 +1660,13 @@
 		<!--EDIT BELOW-->
 		<!---->		
 		<Row Tag="ADVISOR_LINE_2_ALT">
-			<Text>Có vẻ hình như cuối cùng chúng ta đã tìm thấy được nguồn gốc của quân man rợ gây rắc rối cho thành phố. Cần phải phá hủy nếu không muốn bị tấn công trong tương lai.</Text>
+			<Text>It would seem we have finally tracked the Barbarian raiders plaguing these lands to their source. We must destroy this stronghold or risk future attacks.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_3_ALT">
-			<Text>Tuy nhiên tôi có thể nói rằng cần phải thận trọng. Mặc dùng nguyên sơ nhưng quân mạn rợ có trại bảo vệ giúp tăng phòng thủ. Để đảm bảo chiến thắng, chúng ta cần một lực lượng áp đảo.</Text>
+			<Text>Still might I advise caution. Though primitive and savage, these Barbarians are fierce warriors and their camp is heavily defended.  To ensure victory we must attack with overwhelming force.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_4_ALT">
-			<Text>Thành phố tiếp tục phát triển...</Text>
+			<Text>Our city continues to prosper.  Already our people thrive and our population grows!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_5_ALT">
 			<Text>Although our scientists would be willing to explore other topics of research, perhaps it is not wise to  distract them from their current work unless absolutely necessary.</Text>
@@ -1678,79 +1678,79 @@
 			<Text>We have spotted another friendly village nearby. Perhaps we should send a Scout to investigate.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_8_ALT2">
-			<Text>Thành phố sẽ tuyệt vời thông qua kế hoạch cẩn thận. Quyết định đặt một khu vực là rất quan trọng. Hãy chắc chắn chọn một vị trí thích hợp nhất cho Khu vực để gặt hái nhiều lợi ích nhất.</Text>
+			<Text>A good city can become a great city through careful planning. Deciding where to place a city district is an important decision. Be sure to pick a location best suited for the district to reap the most benefit.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_38_ALT">
-			<Text>Di sản của chúng ta sẽ được ghi lại...</Text>
+			<Text>Our legacy will one day be recorded beyond the spoken word.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_381">
-			<Text>BẮN NÁ hoàn tất đào tạo. Người dân cảm thấy an toàn hơn.</Text>
+			<Text>It appears our Slingers have completed their training. Already the people of our city feel safer...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_382">
-			<Text>Khi quân đội tiếp tục đa dạng hóa, tương lai của chúng ta sẽ phát triển trong an toàn.</Text>
+			<Text>As our army continues to diversify and improve, our future grows even more secure.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_383">
-			<Text>Khi BẮN NÁ hoàn tất đào tạo. Chúng ta có định hướng mới.</Text>
+			<Text>With our Slingers training complete, we may now direct our people's efforts to new pursuits.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_384">
 			<Text>Our people still await your command.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_39_ALT">
-			<Text>VIẾT giúp thống nhất mọi người. Cung cấp nơi để thu thập, chia sẻ kiến thức...</Text>
+			<Text>With Writing we unify our people.  A common written language allows ideas to flourish and our collective knowledge to grow. Were we to provide a place to collect and share this knowledge our people would surely prosper...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_391">
 			<Text>By concentrating like minds and resources into districts we specialize the growth of our city. We must choose the location of these districts carefully in order to reap the most benefit.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_40_ALT">
-			<Text>Dân cư đang háo hức chờ đợi sự hoàn thành của Khu tri thức.</Text>
+			<Text>Already the greatest minds in our civilization eagerly await the completion of this Campus...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_401">
-			<Text>Nhưng chúng tôi không cho phép bạn rảnh rỗi. Hãy chuyển sang công việc khác...</Text>
+			<Text>But we must not allow these great thinkers to be idle.  Let us turn their attention elsewhere...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_41_ALT">
-			<Text>Các nhà khoa học bắt đầu tập trung ở Khu tri thức. Xây một THƯ VIỆN sẽ giúp họ theo đuổi giấc mơ.</Text>
+			<Text>Our greatest scholars and scientists already begin to gather at our Campus. Providing them with a Library would further assist them in their pursuits.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_ALT">
-			<Text>Nhân dân có nhiều khởi sắc với sự hướng dẫn của bạn...</Text>
+			<Text>Our people have prospered under your guidance.  Truly our civilization has no equal.  Perhaps now is the time for you to prove this to be true.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_2">
-			<Text>Bla bla...</Text>
+			<Text>The task before us is great, but under your leadership we shall not fail.  As always I stand ready at your side should you require any assistance along the way.  May our civilization truly stand forever.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_3">
 			<Text>We are victorious! You are now ready to take on bigger challenges, explore new worlds, meet new civilizations, and to achieve victory on your own terms.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_42_ALT">
-			<Text>Tài nguyên và đất đai là có hạn. Có vẻ chúng ta có một cuộc cạnh tranh. Chưa biết được ý định thực sự của họ, cần phải thận trọng.</Text>
+			<Text>Resources and land are not infinite. It seems we now have competition.  As we do not yet know the true intention of this people, might I suggest we proceed with caution.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_43_ALT">
-			<Text>Chiến tranh xảy ra! Dân ta đang gặp nguy hiểm. Cần phải huy động quân đội ngay lập tức. Không có thời gian chậm trễ!</Text>
+			<Text>War is upon us!  Our people are in danger.  We must mobilize an army immediately or risk being conquered.  There is no time for delay!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_44_ALT">
-			<Text>Nhân dân phát triển mạnh mẽ với sự hướng dẫn của bạn...</Text>
+			<Text>Our people truly thrive under your guidance. But as our civilization grows so too must our leadership.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_441">
-			<Text>Cần phải ban hành chính sách để dân phát triển hơn.</Text>
+			<Text>We must now enact policies to better steer the growth of our people...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_45_ALT">
-			<Text>Kỷ luật là trái tim của quân đội và là một lợi thế có giá trị. Tôi đề nghị ban hành chính sách này.</Text>
+			<Text>Discipline is the heart of any army and is a valuable advantage over the unorganized Barbarian rabble. Urban planning will only make our cities more organized and efficient. I suggest we enact both these policies.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_453">
-			<Text>Chúng ta phải lập kế hoạch cho tương lai...</Text>
+			<Text>Though our policies begin to bear fruit our civilization will only continue to grow.  We must plan for the future...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_48">
-			<Text>Nhân dân đã nhìn lên trời, và bắt đầu tự hỏi những vận may có được bắt nguồn từ những con người có sức mạnh tuyệt vời. Ai là vị thần vĩ đại và họ có thể ban phước lành gì cho chúng ta?</Text>
+			<Text>Our people have looked to the heavens, and begun to wonder if our fortunes may be guided by the hands of a greater power. Who are these great gods, and what blessings might they bestow upon us?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_50_ALT">
 			<Text>Your inspiration is contagious.  Though our civilization achieves greatness under your leadership, one amongst our people truly shines above all others. Under your guidance shall their impact truly reverberate throughout history.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_51_ALT">
-			<Text>Độc lập không phải là cách phát triển thịnh vượng. Các THƯƠNG GIA cho phép tiếp cận những nền văn minh khác. Thông qua thương mại, chúng ta có thể phát triển nền kinh tế.</Text>
+			<Text>Isolation is not the key to prosperity. These traders allow us to reach out to our neighbors. Through trade, we stand to boost our economy, and gain new insights into the mysteries of the world.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_52_ALT">
 			<Text>We have made contact with people more advanced than the Tribal Villagers who have aided us in the past. Should we extend the hand of friendship or look to conquer them?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_WONDER_73">
-			<Text>Rất may mắn khi khám phá được một kỳ quan...</Text>
+			<Text>The beauty and majesty of this world is sometimes enough to inspire our people to new directions of thought. This was a fortunate discovery...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_POP_HUT_1">
 			<Text>Again our brave Scouts prove their worth to our people.</Text>
@@ -1765,4 +1765,4 @@
 			<Text>We have spotted another friendly village nearby. Perhaps we should send a Scout to investigate.</Text>
 		</Row>
 	</BaseGameText>
-</GameData>
+</GameData>
