@@ -57,22 +57,22 @@
 			<Text>{1_UnitName} ({2_Num} damage) của bạn đã bị tấn công bởi {3_EnUName} ({4_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>Trong khi phòng thủ, {2_UnitName} của đã bị phá hủy bởi {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} ({5_Num} damage)!</Text>
+			<Text>Trong khi phòng thủ, {2_UnitName} của đã bị phá hủy bởi {4_EnemyUnitName} ({5_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
 			<Text>{1_UnitName} của bạn oanh tạc {2_EnUName} gây {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
-			<Text>{1_UnitName} của bạn ném bom {2_EnUName} gây {3_Num} damage!</Text>
+			<Text>{1_UnitName} của bạn đánh xa {2_EnUName} gây {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
 			<Text>{1_UnitName} của bạn bị {2_EnUName} oanh tạch nhận {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
-			<Text>{1_UnitName} của bạn ném bom {2_EnUName} gây {3_Num} damage!</Text>
+			<Text>{1_UnitName} của bạn đánh xa {2_EnUName} gây {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
-			<Text>{1_UnitName} của bạn bị {2_EnUName} ném bom nhận {3_Num} damage!</Text>
+			<Text>{1_UnitName} của bạn bị {2_EnUName} đánh xa nhận {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
 			<Text>{1_UnitName} của bạn sống sót sau khi đánh chặn vũ khí hạt nhân, nhận {2_Num} damage từ {4_EnemyUnitName} gây {5_Num} damage!</Text>

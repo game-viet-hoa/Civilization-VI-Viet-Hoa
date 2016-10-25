@@ -4,13 +4,13 @@
 	<BaseGameText>
 		<!-- UI -->
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
-			<Text>Hiệu ứng kích hoạt</Text>
+			<Text>Kích hoạt hiệu ứng</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
 			<Text>Tạo thành tựu vĩ đại</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
-			<Text>Tìm thấy tôn giáo</Text>
+			<Text>Sáng lập tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
 			<Text>Về hưu</Text>
@@ -159,7 +159,7 @@
 			<Text>Gán 1 level tăng cấp và +25% EXP cho một đơn vị quân sự mặt đất.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Ném Bom với 1 level tăng cấp.</Text>
+			<Text>Ngay lập tức có đơn vị đánh xa với 1 level tăng cấp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
 			<Text>Tạo một [ICON_GreatWork_Relic] di tích.</Text>

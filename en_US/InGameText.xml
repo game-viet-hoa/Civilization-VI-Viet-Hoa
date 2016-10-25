@@ -509,7 +509,7 @@
 			<Text>Sức mạnh đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_BOMBARD_STRENGTH">
-			<Text>Sức mạnh ném bom</Text>
+			<Text>Sức mạnh đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_CORPS_SUFFIX">
 			<Text>Trung đội [ICON_Corps]</Text>
@@ -2317,7 +2317,7 @@
 			<Text>Thành phố mới</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_FOUND_RELIGION_DESCRIPTION">
-			<Text>Tìm thấy tôn giáo</Text>
+			<Text>Sáng lập tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_FOUND_RELIGION_REQUIRES_PANTHEON">
 			<Text>Phải có một Vị thần trước.</Text>
@@ -2787,7 +2787,7 @@
 			<Text>[ICON_Ranged] Đánh xa: {1_RangedCombat} (Tầm xa [ICON_Range] {2_Range})</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_STRENGTH">
-			<Text>[ICON_Bombard] Ném bom: {1_Bombard} (Tầm xa [ICON_Range] {2_Range})</Text>
+			<Text>[ICON_Bombard] Đánh xa: {1_Bombard} (Tầm xa [ICON_Range] {2_Range})</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOVEMENT">
 			<Text>[ICON_Movement] Di chuyển: {1_Movement}</Text>
@@ -3401,7 +3401,7 @@
 			<Text>Tìm thấy vị thần này</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_FOUND_RELIGION">
-			<Text>Tìm thấy tôn giáo này</Text>
+			<Text>Sáng lập tôn giáo này</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_FOUNDING_RELIGION">
 			<Text>Sáng lập một tôn giáo</Text>
@@ -3428,7 +3428,7 @@
 			<Text>Custom Religion</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_BUTTON">
-			<Text>Declare War!</Text>
+			<Text>Tuyên chiến!</Text>
 		</Row>
 		<Row Tag="LOC_MAKE_PEACE_BUTTON">
 			<Text>Make Peace</Text>
@@ -4134,10 +4134,10 @@
 			<Text>VĨ NHÂN</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PERSON_ACTIVATED">
-			<Text>Great Person activated!</Text>
+			<Text>Vĩ nhân đã được kích hoạt!</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_WORK_CREATED">
-			<Text>Great Work created</Text>
+			<Text>Thành tựu vĩ đại đã được tạo</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_YOU">
 			<Text>You</Text>
@@ -4467,13 +4467,13 @@
 			<Text>Before you declare war, you may wish to consider the consequences.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
-			<Text>Warmonger Penalties</Text>
+			<Text>Hình phạt chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_WAR_TYPE">
 			<Text>War type: {1_WarType}</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
-			<Text>Warmonger penalty: {1_WarmongerLevel}</Text>
+			<Text>Hình phạt chiến tranh: {1_WarmongerLevel}</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_HEADING">
 			<Text>Defensive Pacts Triggered</Text>
