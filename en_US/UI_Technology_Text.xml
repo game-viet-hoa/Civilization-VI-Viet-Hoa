@@ -3,16 +3,16 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
-			<Text>RESEARCH COMPLETE</Text>
+			<Text>NGHIÊN CỨU HOÀN THÀNH</Text>
 		</Row>
 		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
-			<Text>Congratulations!  You've researched {1_TechnologyName}!</Text>
+			<Text>Chúc mừng! Bạn đã nghiên cứu {1_TechnologyName}!</Text>
 		</Row>
 		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
-			<Text>CIVIC COMPLETE</Text>
+			<Text>CÔNG DÂN MỞ KHÓA</Text>
 		</Row>
 		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
-			<Text>With your people enthused to try {1_CivicName}, government and social policy changes are FREE this turn.</Text>
+			<Text>Với sự giúp đỡ của mọi người lần này {1_CivicName} cung cấp chính quyền và chính sách cho lượt này.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

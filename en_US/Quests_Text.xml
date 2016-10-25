@@ -23,7 +23,7 @@
 			<Text>Convert the city-state to your [ICON_Religion] religion.</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
-			<Text>Send a [ICON_TradeRoute] Trade Route to the city-state.</Text>
+			<Text>Send a [ICON_TradeRoute] Tuyến đường thương mại to the city-state.</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
 			<Text>Destroy one [ICON_Barbarian] Barbarian Outpost within 5 tiles of the city.</Text>
@@ -61,7 +61,7 @@
 		</Row>
 		<!--Rewards-->
 		<Row Tag="LOC_QUEST_REWARD_ENVOYS">
-			<Text>[ICON_Envoy] Envoys</Text>
+			<Text>[ICON_Envoy] Phái đoàn</Text>
 		</Row>
 		<!--Instance Rewards-->
 		<Row Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">

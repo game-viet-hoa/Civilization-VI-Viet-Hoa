@@ -92,7 +92,7 @@
 			<Text>Purchase Cost</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MAITENANCE_COST">
-			<Text>Maintenance Cost</Text>
+			<Text>Phí duy trì</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CULTURE_COST">
 			<Text>Culture Cost</Text>
@@ -215,7 +215,7 @@
 			<Text>Creates</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CREATED_BY">
-			<Text>Created By</Text>
+			<Text>Tạo bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_IMPROVED_BY">
 			<Text>Improved By</Text>
@@ -224,16 +224,16 @@
 			<Text>Harvest</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIRES">
-			<Text>Requires: {1_Name}</Text>
+			<Text>Yêu cầu: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
 			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?charge; other?charges;})</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_GREAT_WORKS">
-			<Text>Great Works</Text>
+			<Text>Thành tựu vĩ đại</Text>
 		</Row>
     <Row Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
-      <Text>Mountains</Text>
+      <Text>Núi</Text>
     </Row>
     <Row Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
       <Text>Hills</Text>
