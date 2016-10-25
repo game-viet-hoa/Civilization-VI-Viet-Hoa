@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_ESPIONAGE_CONFIRMATION">
+			<Text>{1_Name}[NEWLINE][NEWLINE]{2_Yield}[NEWLINE]{3_Header}[NEWLINE]{4_Success}[NEWLINE]{5_SuccessEscape}[NEWLINE]{6_Fail}[NEWLINE]{7_FailEscape}[NEWLINE]{8_Capture}[NEWLINE]{9_Killed}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_MISSION_HEADER">
+			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Your Mission: {1_Mission}[NEWLINE]Duration: {2_Num} Turns</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_OPERATION_YIELD">
+			<Text>Success will grant {1_Award}.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_OPERATION_CHANCES">
+			<Text>Possible Outcomes:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SUCCESS">
+			<Text>{1_Num}% - Success</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SUCCESS_ESCAPE">
+			<Text>{1_Num}% - Success if escape city</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FAILURE">
+			<Text>{1_Num}% - Failure</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FAILURE_ESCAPE">
+			<Text>{1_Num}% - Failure and must escape city</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_CAPTURED">
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spy Captured</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_KILLED">
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spy Killed</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_START_MISSION">
+			<Text>Accept</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ABORT_MISSION">
+			<Text>Abort</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_HEIST_REWARD">
+			<Text>a Great Work from the district</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_PARTISAN_REWARD">
+			<Text>an uprising of disgruntled partisans</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SABOTAGE_REWARD">
+			<Text>pillaging all buildings in the Industrial Zone district</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SIPHON_REWARD">
+			<Text>the city's [ICON_Gold] Gold output over next {1_Num} turns</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ROCKETRY_REWARD">
+			<Text>pillaging of the enemy Spaceport district</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_TECH_REWARD">
+			<Text>a technology boost</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_GAIN_SOURCES">
+			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Your Mission: Gain Sources[NEWLINE]Duration: {1_Num} Turns[NEWLINE][NEWLINE]Once the Spy has spent the requisite time finding local contacts, this mission will automatically succeed. It will improve the chances of all offensive Spy operations in this city for the next {2_Duration} turns.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LISTENING_POST">
+			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Your Mission: Listening Post[NEWLINE]Duration: {1_Num} Turns[NEWLINE][NEWLINE]This mission is automatically successful. While running it will improve your diplomatic visibility on this civilization by 1 level.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PANEL_HEADER">
+			<Text>CHASE SEQUENCE</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CITY_HEADER">
+			<Text>in {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_AGENT_LABEL">
+			<Text>Agent:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NO_LOOT">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_LOOT_LABEL">
+			<Text>Loot:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_BOOST_LOOT">
+			<Text>{1_TechName} secrets</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_LABEL">
+			<Text>Pursued by:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_POLICE">
+			<Text>Police</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_COUNTERSPY">
+			<Text>Police and agent {1_Counterspy}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_HEADER">
+			<Text>Choose how your agent is going to try and escape:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_1">
+			<Text>Airplane</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_2">
+			<Text>Boat</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_3">
+			<Text>Vehicle</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_4">
+			<Text>Foot</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_NO_DISTRICT">
+			<Text>No {1_DistrictName} in city</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_TURNS">
+			<Text>Turns to return: {1_Turns}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_TOOLTIP">
+			<Text>Choose the escape route out of the city for your agent. Police are more likely to be patrolling quick exits such as the Aerodrome or Harbor. Exit by foot is always the safest option.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_1_NAME">
+			<Text>Spy Recruit</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_2_NAME">
+			<Text>Agent</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_3_NAME">
+			<Text>Secret Agent</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_4_NAME">
+			<Text>Master Spy</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SIPHON_ESTIMATE">
+			<Text>+{1_Amount} [ICON_Gold]</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_STEAL_TECH_ESTIMATE">
+			<Text>Steal {1_Amount} {1_Amount : plural 1?boost; other?boosts;} including {2_TechName}.</Text>
+		</Row>
+		<!-- ==================== Espionage Text ==================== -->
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_HEADER">
+			<Text>Spies for {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_NAME">
+			<Text>SPY NAME</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_LEVEL">
+			<Text>LEVEL</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_PROMOTION">
+			<Text>PROMOTION</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_CITY">
+			<Text>CITY</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_MISSION">
+			<Text>MISSION</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_TURNS">
+			<Text>TURNS REMAINING</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_NO_MISSION">
+			<Text>none</Text>
+		</Row>
+		<!-- ==================== EspionageChooser ==================== -->
+		<Row Tag="LOC_ESPIONAGECHOOSER_PANEL_HEADER">
+			<Text>EMBED SPY</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_SELECT_A_CITY">
+			<Text>Select a city to target for espionage.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_POSSIBLE_MISSIONS">
+			<Text>POSSIBLE MISSIONS:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_CONFIRM_PLACEMENT">
+			<Text>CONFIRM PLACEMENT</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_CANCEL">
+			<Text>CANCEL</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_CHOOSE_MISSION">
+			<Text>CHOOSE MISSION</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_GAIN_SOURCES_ACTIVE">
+			<Text>Gain Sources Active! ({1_Turns}[Icon_Turn])</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_SUCCESS_BOOSTED">
+			<Text>Mission success boosted</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_NO_BOOST_ACTIVE">
+			<Text>No Boost Active</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_TRAVEL_TIME_TOOLTIP">
+			<Text>{1_TravelTime} {1_TravelTime : plural 1?turn; other?turns;} to travel to city[NEWLINE]{2_EstablishTime} {2_EstablishTime : plural 1?turn; other?turns;} to establish in city</Text>
+		</Row>
+		<!-- ==================== Spy Operation Details ==================== -->
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
+			<Text>Increases diplomatic visibility by 1 rank.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GAIN_SOURCES">
+			<Text>Spies will operate at {1_Levels} {1_Levels : plural 1?level; other?levels;} higher for {2_Turns} {2_Turns : plural 1?turn; other?turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GREAT_WORK_HEIST">
+			<Text>Steal {1_GreatWorkName} from this city</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SABOTAGE_PRODUCTION">
+			<Text>Pillage all buildings in the industrial zone.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SIPHON_FUNDS">
+			<Text>Gain the gold yields of {1_CityName} during the mission's duration. ({2_GoldString})</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_DISRUPT_ROCKETRY">
+			<Text>Disable the Spaceport in the city.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_RECRUIT_PARTISANS">
+			<Text>Create rebel units within the city.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_STEAL_TECH_BOOST">
+			<Text>Steal a technology boost.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_COUNTERSPY">
+			<Text>Protect {1_District} (and all adjacent districts) from enemy spies.</Text>
+		</Row>
+		<!-- ==================== EspionagePopup ==================== -->
+		<Row Tag="LOC_ESPIONAGEPOPUP_MISSION_BRIEFING">
+			<Text>MISSION BRIEFING: {1_MissionName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_CURRENT_MISSION">
+			<Text>CURRENT MISSION: {1_MissionName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_MISSION_OBJECTIVE">
+			<Text>MISSION OBJECTIVE</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_MISSION_DURATION">
+			<Text>MISSION DURATION</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_TURNS">
+			<Text>{1_NumberOfTurns} {1_NumberOfTurns : plural 1?Turn; other?Turns;}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_TURNS_REMAINING">
+			<Text>{1_RemainingTurns} more {1_RemainingTurns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_POSSIBLE_OUTCOMES">
+			<Text>POSSIBLE OUTCOMES</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_OUTCOME_DETAILS">
+			<Text>Our intelligence projects the following probabilities:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_SUCCESS_OUTCOME_CHANCE">
+			<Text>Chance for mission success</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_FAILURE_OUTCOME_CHANCE">
+			<Text>Chance of mission failure</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_CAPTUREDORKILLED_OUTCOME_CHANCE">
+			<Text>Chance for being captured or killed</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_DISCOVERED_WARNING">
+			<Text>If DISCOVERED {1_TargetName} will lose respect for us and will gain a Casus Belli (Reason of War)</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_TARGET">
+			<Text>TARGET</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_ACCEPT_MISSION">
+			<Text>ACCEPT MISSION</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_ABORT_MISSION">
+			<Text>ABORT MISSION!</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_CANCEL">
+			<Text>CANCEL</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_GAIN_SOURCES_OUTCOME">
+			<Text>This will boost your chance of any subsequent operation within this city. There is no risk to your spy.</Text>
+		</Row>
+		<!-- ==================== EspionageOverview ==================== -->
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_HEADER">
+			<Text>Operatives</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_SUBHEADER">
+			<Text>OPERATIVES ({1_NumberOfSpies}/{2_SpyCapacity})</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_AWAITING_ASSIGNMENT">
+			<Text>Awaiting Assignment...</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_MORE_TURNS">
+			<Text>{1_RemainingTurns} more {1_RemainingTurns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_HEADER">
+			<Text>City Activity</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_SUBHEADER">
+			<Text>CITY ACTIVITY</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY">
+			<Text>City</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_TRANSIT_TO">
+			<Text>In Transit To {1_DestinationName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED">
+			<Text>Captured by</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_ASK_FOR_TRADE">
+			<Text>Ask For Trade</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_TRAVELING">
+			<Text>Traveling</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NO_GREAT_WORK_TO_STEAL">
+			<Text>No Great Work to steal</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NO_TECH_BOOST_TO_STEAL">
+			<Text>No Tech Boost to steal</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_HEADER">
+			<Text>Mission History</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_SUBHEADER">
+			<Text>MISSION HISTORY</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES">
+			<Text>CAPTURED SPIES:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_OFFER_TRADE">
+			<Text>Offer Trade</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_VIEW_CITY">
+			<Text>View this city on the map.</Text>
+		</Row>
+		<!-- ==================== Speculative text for temporary Captured Spies tab (which would become part of Mission History) ==================== -->
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_HEADER">
+			<Text>Captured Spies</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_SUBHEADER">
+			<Text>CAPTURED SPIES</Text>
+		</Row>
+		<!-- ==================== UnitPanel - Espionage ==================== -->
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_LOCATED_IN">
+			<Text>Located in</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_MORE_TURNS">
+			<Text>{1_RemainingTurns} more {1_RemainingTurns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_AWAITING_ASSIGNMENT">
+			<Text>Awaiting Assignment...</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_SPY_RANK">
+			<Text>{1_RankName} (Level {2_RankLevel})</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_CANCEL_MISSION">
+			<Text>Cancel Mission</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_CHOOSE_MISSION">
+			<Text>Choose Mission</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

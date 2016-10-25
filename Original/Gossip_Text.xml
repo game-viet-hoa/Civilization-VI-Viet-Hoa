@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_VISIBILITY_NONE_NAME">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_LIMITED_NAME">
+			<Text>Limited</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_FULL_NAME">
+			<Text>Open</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_SECRET_NAME">
+			<Text>Secret</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_TOP_SECRET_NAME">
+			<Text>Top Secret</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FULL_STRING">
+			<Text>{1_SourceText} {2GossipText}</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_ALLIED">
+			<Text>Alliances</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CHANGE_GOVERNMENT">
+			<Text>Government Changes</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CONQUER_CITY">
+			<Text>City Conquests</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CONSTRUCT_DISTRICT">
+			<Text>Districts Constructed</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CULTURVATE_CIVIC">
+			<Text>Civics Completed</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CITY_STATE_INFLUENCE">
+			<Text>City-States Influenced</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_DENOUNCED">
+			<Text>Denunciations</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_FOUND_CITY">
+			<Text>Cities Founded</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_FOUND_RELIGION">
+			<Text>Religions Founded</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
+			<Text>Great People Recruited</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_MAKE_DOW">
+			<Text>Declarations of War</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_POLICY_ENACTED">
+			<Text>Hidden Agendas Revealed</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_RESEARCH_TECH">
+			<Text>Technologies Researched</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_TRADE_DEAL">
+			<Text>Trade Deals Enacted</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_TRADE_RENEGE">
+			<Text>Trade Deals Reneged</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_TRAIN_SETTLER">
+			<Text>Settlers Trained</Text>
+		</Row>
+    <Row Tag="LOC_GOSSIPDESC_WMD_BUILT">
+      <Text>Weapon of Mass Destruction Built</Text>
+    </Row>
+		<Row Tag="LOC_GOSSIPDESC_WMD_STRIKE">
+			<Text>Weapon of Mass Destruction Strikes</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_WONDER_STARTED">
+			<Text>Wonders Started</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_ATTACK_LAUNCHED">
+			<Text>Attacks Launched</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_PROJECT_STARTED">
+			<Text>Projects Started</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED">
+			<Text>Victory Strategy Changed</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_WAR_PREPARATION">
+			<Text>War Preparations</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_AGENDA_KUDOS">
+			<Text>{1_LeaderName} has thanked {2_Leadername} for cooperating with the agenda: {3_AgendaName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_AGENDA_WARNING">
+			<Text>{1_LeaderName} has warned {2_Leadername} about interfering with the agenda: {3_AgendaName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ALLIED">
+			<Text>{1_CivName} has just formed an alliance with {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ANARCHY_BEGINS">
+			<Text>There has been a coup d'etat in {1_CivName} removing the regime of {2_Government}. Anarchy has begun.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ARTIFACT_EXTRACTED">
+			<Text>{1_CivName} has extracted a new archaeological work: {2_GreatWork}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_BARBARIAN_INVASION_STARTED">
+			<Text>{1_CivName} is facing a barbarian invasion at {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_BARBARIAN_RAID_STARTED">
+			<Text>{1_CivName} is facing a barbarian raid at {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
+			<Text>{1_CivName} has heard that the sunbathing is great at the new seaside resort outside {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CHANGE_GOVERNMENT">
+			<Text>{1_CivName} has switched governments to {2_Government}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_BESIEGED">
+			<Text>{1_CityName} is facing a siege.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_LIBERATED">
+			<Text>{1_CivName} has just liberated {2_CityName} giving it back to {3_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_RAZED">
+			<Text>{1_CivName} has just razed a city originally founded by {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CLEAR_CAMP">
+			<Text>{1_CivName} has used {LOC_GRAMMAR_A_AN &lt;&lt; {2_UnitName}} to clear {LOC_GRAMMAR_A_AN &lt;&lt; {3_ImprovementName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_STATE_INFLUENCE">
+			<Text>{1_CivName} has sent an Envoy to {2_CityState}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONQUER_CITY">
+			<Text>{1_CivName} has conquered {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONSTRUCT_BUILDING">
+			<Text>{1_CivName} has built {LOC_GRAMMAR_A_AN &lt;&lt; {2_BuildingName}} in {3_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONSTRUCT_DISTRICT">
+			<Text>{1_CivName} has built {LOC_GRAMMAR_A_AN &lt;&lt; {2_DistrictName}} in {3_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CREATE_PANTHEON">
+			<Text>{1_CivName} is worshipping a Pantheon of the gods focused on the {2_BeliefName} Belief.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CULTURVATE_CIVIC">
+			<Text>{1_CivName} completed development of {2_CivicName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_DECLARED_FRIENDSHIP">
+			<Text>{1_CivName} has declared their friendship with {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_DELEGATION">
+			<Text>{1_CivName} has just received a foreign delegation. It appears they came from {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_DENOUNCED">
+			<Text>{1_CivName} has denounced the evil deeds of {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_EMBASSY">
+			<Text>A new building has appeared in the capital of {1_CivName}: a permanent embassy from {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ERA_CHANGED">
+			<Text>{1_CivName} has progressed from the {2_OldEra} to the {3_NewEra}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FIND_NATURAL_WONDER">
+			<Text>{1_CivName} has just stumbled on the {2_NWName} natural wonder.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FOUND_CITY">
+			<Text>{1_CivName} is expanding, adding the new settlement: {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FOUND_RELIGION">
+			<Text>{1_CivName} has founded a new Religion: {2_ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_GREATPERSON_CREATED">
+			<Text>{1_CivName} has earned the {2_unit} {3_GreatPerson}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_LAUNCHING_ATTACK">
+			<Text>{1_CivName} is beginning a military assault on {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_WAR_PREPARATION">
+			<Text>{1_CivName} is considering a war on {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_INQUISITION_LAUNCHED">
+			<Text>{1_CivName} has launched an inquisition rooting out heretics opposed to {2_ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_LAND_UNIT_LEVEL">
+			<Text>{1_CivName} has a {2_UnitName} that just earned the {3_PromotionName} promotion.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_MAKE_DOW">
+			<Text>{1_CivName} has just declared war on {2_OtherPlayer}!</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_NATIONAL_PARK_CREATED">
+			<Text>{1_CivName} has just created {2_NationalParkName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_NAVAL_UNIT_LEVEL">
+			<Text>{1_CivName} has a {2_UnitName} that just earned the {3_PromotionName} promotion.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY">
+			<Text>A majority of cities in {1_CivName} are now following the Religion: {2_ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_PILLAGE">
+			<Text>{1_CivName} has pillaged an enemy {2_TargetName} with {LOC_GRAMMAR_A_AN &lt;&lt; {3_UnitName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_POLICY_ENACTED">
+			<Text>{1_CivName} adopted the {2_SlotName} policy {3_PolicyName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RECEIVE_DOW">
+			<Text>{1_CivName} has been targeted for a declaration of war by {2_OtherPlayer}!</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RELIC_RECEIVED">
+			<Text>Pilgrims in {1_CivName} are now flocking to see the holy relic: {2_RelicName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RESEARCH_AGREEMENT">
+			<Text>Scientists from {1_CivName} and {2_CivName} have formed a scientific partnership.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RESEARCH_TECH">
+			<Text>{1_CivName} completed research on {2_TechName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_DETECTED">
+			<Text>{1_CivName} had their Spaceport in {2_CityName} sabotaged by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_UNDETECTED">
+			<Text>{1_CivName} had their Spaceport in {2_CityName} sabotaged by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_DETECTED">
+			<Text>{1_CivName} had a Great Work in {2_CityName} stolen by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_UNDETECTED">
+			<Text>{1_CivName} had a Great Work in {2_CityName} stolen by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_DETECTED">
+			<Text>{1_CivName} is trying to put down partisans in {2_CityName} that were recruited by {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_UNDETECTED">
+			<Text>{1_CivName} is trying to put down partisans in {2_CityName} that were recruited by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_DETECTED">
+			<Text>{1_CivName} had their Industrial Zone in {2_CityName} sabotaged by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_UNDETECTED">
+			<Text>{1_CivName} had their Industrial Zone in {2_CityName} sabotaged by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_DETECTED">
+			<Text>{1_CivName} had funds stolen in {2_CityName} by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_UNDETECTED">
+			<Text>{1_CivName} had funds stolen in {2_CityName} by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_DETECTED">
+			<Text>{1_CivName} had technology plans stolen in {2_CityName} by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_UNDETECTED">
+			<Text>{1_CivName} had technology plans stolen in {2_CityName} by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRADE_DEAL">
+			<Text>{1_CivName} is trading with {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRADE_RENEGE">
+			<Text>{1_CivName} has reneged on a deal with {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRAIN_SETTLER">
+			<Text>{1_CivName} is looking to found a city with their newly trained {2_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRAIN_UNIT">
+			<Text>{1_CivName} has just finished training the world's first {2_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRAIN_UNIQUE_UNIT">
+			<Text>{1_CivName} has trained a unique unit, the {2_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_PROJECT_STARTED">
+			<Text>{1_CivName} has started {2_ProjectType}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_START_VICTORY_STRATEGY">
+			<Text>{1_CivName} is seeking {LOC_GRAMMAR_A_AN &lt;&lt; {2_VictoryName}} victory.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_STOP_VICTORY_STRATEGY">
+			<Text>{1_CivName} is no longer seeking a {2_VictoryType} victory.</Text>
+		</Row>
+    <Row Tag="LOC_GOSSIP_WMD_BUILT">
+      <Text>{1_CivName} has just built {2_WMDCount} WMDs.</Text>
+    </Row>
+		<Row Tag="LOC_GOSSIP_WMD_STRIKE">
+			<Text>{1_CivName} has just unleashed a Weapon of Mass Destruction! A {2_UnitName}! Duck and cover!</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_WONDER_STARTED">
+			<Text>{1_CivName} has cleared land in {2_CityName} for the {3_BuildingName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_RUMOR">
+			<Text>Rumor has it that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_TECH">
+			<Text>A recent news article revealed that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_TRADER">
+			<Text>Your trader, {1_Name}, overheard that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_DELEGATE">
+			<Text>Your delegate, {1_Name}, learned that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_TRAIT">
+			<Text>Your lady-in-waiting, {1_Name}, heard at the court ball that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_ALLY">
+			<Text>An allied friend reports that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_SPY">
+			<Text>Your Spy, {1_Name}, uncovered news that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_GREAT_PERSON_JOURNALISM">
+			<Text>Your intrepid reporter, {1_Name}, discovered that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_LOST_CITY">
+			<Text>a "lost" city</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TECH">
+			<Text>Printing technology researched</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TRADER">
+			<Text>Trade Route established</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_DELEGATE">
+			<Text>Delegate or Embassy sent</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TRAIT">
+			<Text>Catherine's Flying Squadron</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ALLY">
+			<Text>Alliance in place</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_SPY">
+			<Text>Spy in place</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_GREAT_PERSON_JOURNALISM">
+			<Text>Mary Katherine Goddard's Great Merchant effect</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TECH">
+			<Text>Research the Printing technology.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TRADER">
+			<Text>Establish a Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_DELEGATE">
+			<Text>Send a delegation or establish an embassy.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TRAIT">
+			<Text>Play as Catherine de Medici.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_ALLY">
+			<Text>Become allies (requires Civil Service).</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_SPY">
+			<Text>Send a Spy on a Listening Post mission.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_GREAT_PERSON_JOURNALISM">
+			<Text>Use Mary Katherine Goddard's Great Merchant ability.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

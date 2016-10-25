@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI Accepts -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>We are happy to welcome your delegation to our capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Your trade delegation arrived at my capital, where we welcomed them with open arms. And thank you for your gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>We received your delegation at the palace. Thank you. The gifts will be treasured.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>I received your offerings to the New Isis from your trade delegation. I will remember your kindness.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Your envoy arrived and I welcomed them personally. Our Empire could benefit from diplomacy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>You are too kind, my friend. Your gifts arrived with your trade delegation, and I have personally thanked them.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh has received your tributes and your envoy. He will let them enter Uruk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Spartans are not interested in material goods, but I thank you for the gifts your delegation brought me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Your delegation has arrived. We welcomed them with a feast in the longhouse.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Your delegation arrived, and we are humbled by your generosity.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We are happy to welcome your delegation to our capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>The people happily received your delegation and gifts. Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Your trade delegation arrived, and I am always happy to receive visitors from abroad, especially when they bring gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>We received the heret- I mean, your trade delegation. I will be sure to instruct them in our ways.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>We are happy to welcome your trade delegation. They will be treated with the honor they deserve.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>A thousand thanks for your gifts. Your delegation will be treated with the utmost regard.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>I welcome your delegation to the great United States of America.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Your delegation arrived bearing your tribute to the Empress. It is greatly appreciated.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Your trade delegation arrived, saw, and conquered us with their kindness. Thank you for the gifts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>We have received your trade delegation and you may rest assured that we will treat them with the dignity they deserve. </Text>
+		</Row>
+		
+		<!-- AI Rejects -->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>We politely refuse your delegation.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>I cannot say yes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Tempting, but no.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Maybe some other time?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>No, of course not.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Unfortunately, no.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>I think not.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Not this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>No. I can’t accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>No, thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We politely refuse your delegation.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Athens declines.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>I cannot accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>I cannot accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>We reject your offer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>No, we cannot accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We must decline.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>I will not accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>A good offer, but I cannot accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>My Parliament does not approve.</Text>
+		</Row>
+		<!-- AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>My trade delegation should be arriving soon with fufu. Enjoy the meal!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I have sent you a trade delegation with all of the customary gifts : herbs, olives, various cheeses, and baguettes to eat them with, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>My diplomatic delegation brings you a small gift of papyrus from the New Isis. Welcome them as you would welcome me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>We have sent a diplomatic envoy to you. Treat them as you would treat me, the Duke of Swabia, King of Burgundy, King of Germany, King of the Romans, King of Italy, and Holy Roman Emperor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>I have sent a trade delegation to you with gifts from our land: teas, sarees, and sitars.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>The delegation of Gilgamesh brings you gifts of Sumerian jewelry, and lyres from Ur. Will you accept them into your city?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORGO_ANY">
+			<Text>A Spartan delegation honors you with gifts of olive oil and black broth. Accept them with honor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>I have sent you traders with gifts of rune stones. They are powerful - the stones, not the traders.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY">
+			<Text>We have sent you a delegation with gifts of yosegi-zukuri, some of our greatest works.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>We have sent you a delegation bearing gifts. Don’t be alarmed, there’s no large wooden horse involved.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>I have sent you a trade delegation bearing gifts of the finest caviar. Please enjoy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>I have sent a delegation to your city. Please, enjoy the churros and welcome them kindly.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY">
+			<Text>Our trade delegation should be arriving soon with gifts of the finest spices, tea, and silk in the Middle Kingdom. Please, enjoy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>I have sent a delegation to you with gifts from our empire. They bring the sweetest fruit, rare snow to cool you on even the hottest day, and the most excellent of horses. Please receive them as our courtesy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>It’s good to see you. My diplomatic delegation should be arriving soon with some fresh-baked apple pies. I’m sure you’ll give them a warm welcome.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>I have sent you a trade delegation bearing a decorated gorytos as a gift for you. You do have a bow, yes?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>I have sent a trade delegation to you. Enjoy the Pecorino Romano: the finest salted, sheeps-milk cheese you will ever have.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Greetings. We have sent a Royal envoy on behalf of the United Kingdom. We hope they are well received.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE">
+			<Text>Our capital is not open to visitors at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE">
+			<Text>Your delegation is most welcome.</Text>
+		</Row>
+		
+		<!-- Human Accepts -->		
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Excellent!</Text>
+		</Row>
+
+		<!-- Human Rejects -->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>That is too bad, perhaps at a later date.</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

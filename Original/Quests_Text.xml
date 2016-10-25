@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Instance Names-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>Train {LOC_GRAMMAR_A_AN &lt;&lt; {1_UnitName}}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>Construct {LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>Trigger a Eureka for {1_TechName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>Trigger an Inspiration for {1_CivicName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Recruit {LOC_GRAMMAR_A_AN &lt;&lt; {1_GreatPersonClassName}}.</Text>
+		</Row>
+		<!--Descriptions-->
+		<Row Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Convert the city-state to your [ICON_Religion] religion.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Send a [ICON_TradeRoute] Trade Route to the city-state.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Destroy one [ICON_Barbarian] Barbarian Outpost within 5 tiles of the city.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Train a randomly selected military [ICON_Unit] unit type.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Construct a randomly selected specialty [ICON_District] district type.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Trigger a randomly selected [ICON_TechBoosted] Eureka moment.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Trigger a randomly selected [ICON_CivicBoosted] Inspiration moment.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Recruit a randomly selected [ICON_GreatPerson] Great Person class.</Text>
+		</Row>
+		<!--Instance Descriptions-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Train {LOC_GRAMMAR_A_AN &lt;&lt; {1_UnitName}} military unit.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Construct {LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}} district.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Trigger the [ICON_TechBoosted] Eureka moment for the {1_TechnologyName} technology.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Trigger the [ICON_CivicBoosted] Inspiration moment for the {1_CivicName} civic.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Recruit one {1_IconString} {2_GreatPersonClassName}.</Text>
+		</Row>
+		<!--Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Envoys</Text>
+		</Row>
+		<!--Instance Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+			<Text>[ICON_Envoy] {1_Amount} {1_Amount : plural 1?Envoy; other?Envoys;}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

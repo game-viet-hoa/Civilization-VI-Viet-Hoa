@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
+			<Text>Natural Wonder Discovered</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
+			<Text>The discovery of a natural wonder gives Scouts bonus experience. Natural wonders also give an adjacency bonus to Holy Site districts. All adjacent tiles receive +2 Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
+			<Text>Two tile natural wonder that can be found on coastal terrain and provides +3 [ICON_Food] Food and +2 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
+			<Text>Two tile natural wonder. It appears with Cliffs adjacent to water and provides +3 [ICON_Culture] Culture and +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
+			<Text>One tile natural wonder. It appears as a Lake and provides +4 [ICON_Faith] Faith, +1 [ICON_Science] Science, and Fresh Water.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
+			<Text>Two tile natural wonder. It appears as a Lake and provides +2 [ICON_Faith] Faith, +2 [ICON_Culture] Culture, and Fresh Water. Units heal completely if they heal for one turn adjacent to the Dead Sea.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Faith] Faith to adjacent tiles. Missionaries, Inquisitors, and Apostles who move next to Mount Everest ignore Hills for the rest of the game.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
+			<Text>Two tile impassable natural wonder. It appears on coastal terrain and provides +2 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Food] Food to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
+			<Text>Four tile natural wonder. It appears as Marsh and provides +2 [ICON_Food] Food and +2 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
+			<Text>Three tile impassable natural wonder. Provides +1 [ICON_Culture] Culture and +1 [ICON_Gold] Gold to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
+			<Text>Two tile impassable natural wonder. Doubles the terrain yields of all adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
+			<Text>One tile impassable natural wonder. Provides +1 [ICON_Culture] Culture and +1 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
+			<Text>Two tile impassable natural wonder. Provides +1 [ICON_Gold] Gold and +1 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

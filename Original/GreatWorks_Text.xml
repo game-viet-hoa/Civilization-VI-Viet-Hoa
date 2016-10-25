@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Writings-->
+		<Row Tag="LOC_GREATWORK_BHASA_1_NAME">
+			<Text>The Madhyama Vyayoga</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BHASA_2_NAME">
+			<Text>Pratima-nataka</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_1_NAME">
+			<Text>Iliad</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_2_NAME">
+			<Text>Odyssey</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_1_NAME">
+			<Text>Metamorphoses</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_2_NAME">
+			<Text>Heroides</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_1_NAME">
+			<Text>Chu Ci (Songs of Chu)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_2_NAME">
+			<Text>Lament for Ying</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_1_NAME">
+			<Text>The Canterbury Tales</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_2_NAME">
+			<Text>Troilus and Criseyde</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_1_NAME">
+			<Text>Drinking Alone by Moonlight</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_2_NAME">
+			<Text>In the Mountains on a Summer Day</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_1_NAME">
+			<Text>The Diary of Lady Murasaki</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_2_NAME">
+			<Text>The Tale of Genji</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_1_NAME">
+			<Text>The Blazing World</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_2_NAME">
+			<Text>Observations upon Experimental Philosophy</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_1_NAME">
+			<Text>Don Quixote</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_2_NAME">
+			<Text>Novelas Ejemplares (Exemplary Novels)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_1_NAME">
+			<Text>Discourses on Livy</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_2_NAME">
+			<Text>The Prince</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_1_NAME">
+			<Text>Romeo and Juliet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_2_NAME">
+			<Text>Hamlet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_1_NAME">
+			<Text>Fair Goldilocks</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_2_NAME">
+			<Text>The Dolphin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_1_NAME">
+			<Text>Eugene Onegin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_2_NAME">
+			<Text>Boris Godunov</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_1_NAME">
+			<Text>The Tell Tale Heart</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_2_NAME">
+			<Text>The Raven</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_1_NAME">
+			<Text>Pride and Prejudice</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_2_NAME">
+			<Text>Sense and Sensibility</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_1_NAME">
+			<Text>Faust</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_2_NAME">
+			<Text>The Sorrows of Young Werther</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_1_NAME">
+			<Text>Frankenstein</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_2_NAME">
+			<Text>The Last Man</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MUIS_1_NAME">
+			<Text>Salah Asuhan (A Wrong Upbringing)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MUIS_2_NAME">
+			<Text>Pertemuan Jodoh (A Meeting of Soulmates)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_1_NAME">
+			<Text>Ulysses</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_2_NAME">
+			<Text>Dubliners</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_1_NAME">
+			<Text>A Bird Came Down</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_2_NAME">
+			<Text>Success is counted sweetest</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_1_NAME">
+			<Text>War and Peace</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_2_NAME">
+			<Text>Anna Karenina</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_1_NAME">
+			<Text>Adventures of Huckleberry Finn</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_2_NAME">
+			<Text>The Adventures of Tom Sawyer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_1_NAME">
+			<Text>This Side of Paradise</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_2_NAME">
+			<Text>The Beautiful and Damned</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_1_NAME">
+			<Text>The War of the Worlds</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_2_NAME">
+			<Text>The Time Machine</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_1_NAME">
+			<Text>The Home and the World</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_2_NAME">
+			<Text>The Gardener</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_1_NAME">
+			<Text>Rossum’s Universal Robots (R.U.R.)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_2_NAME">
+			<Text>War with the Newts</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SUN_TZU_NAME">
+			<Text>The Art of War</Text>
+		</Row>
+		<!--Art-->
+		<Row Tag="LOC_GREATWORK_RUBLEV_1_NAME">
+			<Text>Annunciation</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RUBLEV_2_NAME">
+			<Text>Saviour in Glory</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RUBLEV_3_NAME">
+			<Text>Ascension</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BOSCH_1_NAME">
+			<Text>The Garden of Earthly Delights</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BOSCH_2_NAME">
+			<Text>The Last Judgement</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BOSCH_3_NAME">
+			<Text>The Haywain Triptych</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DONATELLO_1_NAME">
+			<Text>St. Mark</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DONATELLO_2_NAME">
+			<Text>Equestrian statue of Gattamelata</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DONATELLO_3_NAME">
+			<Text>Judith Slaying Holofernes</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MICHELANGELO_1_NAME">
+			<Text>Sistine Chapel Ceiling</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MICHELANGELO_2_NAME">
+			<Text>David</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MICHELANGELO_3_NAME">
+			<Text>Pietà</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YING_1_NAME">
+			<Text>Spring Morning in the Han Palace</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YING_2_NAME">
+			<Text>Fishermen in Reclusion Among the Lotus Stream</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YING_3_NAME">
+			<Text>Red Cliff</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TITIAN_1_NAME">
+			<Text>Assunta</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TITIAN_2_NAME">
+			<Text>Salome with the Head of John the Baptist</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TITIAN_3_NAME">
+			<Text>Equestrian Portrait of Charles V</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GRECO_1_NAME">
+			<Text>Adoration of the Magi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GRECO_2_NAME">
+			<Text>The Assumption of the Virgin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GRECO_3_NAME">
+			<Text>View of Toledo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REMBRANDT_1_NAME">
+			<Text>Andries de Graeff</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REMBRANDT_2_NAME">
+			<Text>Agatha Bas</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REMBRANDT_3_NAME">
+			<Text>Abraham and Isaac</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ANGUISSOLA_1_NAME">
+			<Text>Three Sisters Playing Chess</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ANGUISSOLA_2_NAME">
+			<Text>Philip II of Spain</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ANGUISSOLA_3_NAME">
+			<Text>A Monk</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAUFFMAN_1_NAME">
+			<Text>Anna Maria Jenkins and Thomas Jenkins</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAUFFMAN_2_NAME">
+			<Text>Portrait of Johann Joachim Winckelmann</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAUFFMAN_3_NAME">
+			<Text>Sarah Harrop as a Muse</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOKUSAI_1_NAME">
+			<Text>The Great Wave off Kanagawa</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOKUSAI_2_NAME">
+			<Text>Lake Suwa in Shinano Province</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOKUSAI_3_NAME">
+			<Text>Fuji Mountains in Clear Weather</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_EOP_1_NAME">
+			<Text>Samin munnyeondo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_EOP_2_NAME">
+			<Text>Rooster</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_EOP_3_NAME">
+			<Text>Ssangma inmuldo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOGH_1_NAME">
+			<Text>Starry Night</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOGH_2_NAME">
+			<Text>Café Terrace at Night</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOGH_3_NAME">
+			<Text>The Night Café</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEWIS_1_NAME">
+			<Text>The Death of Cleopatra</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEWIS_2_NAME">
+			<Text>Marriage of Hiawatha and Minnehaha</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEWIS_3_NAME">
+			<Text>Pompeiian Girl</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_COLLOT_1_NAME">
+			<Text>Portrait of Pierre Etienne Falconet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_COLLOT_2_NAME">
+			<Text>Portrait of Catherine II</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_COLLOT_3_NAME">
+			<Text>Portrait of Marie Cathcart</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MONET_1_NAME">
+			<Text>Water Lilies</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MONET_2_NAME">
+			<Text>Impression, Sunrise</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MONET_3_NAME">
+			<Text>Haystack at Giverny</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ORLOVSKY_1_NAME">
+			<Text>Mikhail Kutuzov</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ORLOVSKY_2_NAME">
+			<Text>Alexander Column</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ORLOVSKY_3_NAME">
+			<Text>Bust of tsar Alexander</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KLIMT_1_NAME">
+			<Text>The Kiss</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KLIMT_2_NAME">
+			<Text>Avenue in the Park of Schloss Kammer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KLIMT_3_NAME">
+			<Text>The Sunflower</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GIL_1_NAME">
+			<Text>Three Girls</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GIL_2_NAME">
+			<Text>Bride's Toilet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GIL_3_NAME">
+			<Text>Self Portrait</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASSATT_1_NAME">
+			<Text>Lydia Leaning on Her Arms</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASSATT_2_NAME">
+			<Text>The Child's Bath</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASSATT_3_NAME">
+			<Text>The Cup of Tea</Text>
+		</Row>
+		<!--Music-->
+		<Row Tag="LOC_GREATWORK_VIVALDI_1_NAME">
+			<Text>Four Seasons: Winter</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_VIVALDI_2_NAME">
+			<Text>La Notte Concerto</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BACH_1_NAME">
+			<Text>Bach "Little" Fugue in G minor</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BACH_2_NAME">
+			<Text>Cello Suite No. 1 in G Major</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BEETHOVEN_1_NAME">
+			<Text>Ode to Joy (Symphony #9)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BEETHOVEN_2_NAME">
+			<Text>Symphony #3 (Eroica Symphony) Mvt. 1</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MOZART_1_NAME">
+			<Text>Eine Kleine Nachtmusik</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MOZART_2_NAME">
+			<Text>Symphony #40, Mvt. 1</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KENGYO_1_NAME">
+			<Text>Rokudan No Shirabe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KENGYO_2_NAME">
+			<Text>Hachidan No Shirabe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KENGYO_3_NAME">
+			<Text>Midare</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOMEZ_1_NAME">
+			<Text>Fosca - Mvt. 1 (Abertura)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOMEZ_2_NAME">
+			<Text>Alvorada</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LISZT_1_NAME">
+			<Text>Hungarian Rhapsody No. 1</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LISZT_2_NAME">
+			<Text>Mephisto Waltz No. 1 "The Dance in the Village Inn"</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHOPIN_1_NAME">
+			<Text>Nocturne in E flat Major</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHOPIN_2_NAME">
+			<Text>Valse Brillante Op. 18</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME">
+			<Text>1812 Overture</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_2_NAME">
+			<Text>Romeo and Juliet Fantasy Overture</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TIANHUA_1_NAME">
+			<Text>Liáng Xiāo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TIANHUA_2_NAME">
+			<Text>Kong Shan Niao Yu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TIANHUA_3_NAME">
+			<Text>Bēi Gē</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DVORAK_1_NAME">
+			<Text>New World Symphony (no. 9) - Mvt. 4</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DVORAK_2_NAME">
+			<Text>Serenade for Strings, Op. 22 - Mvt. 2</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SCHUMANN_1_NAME">
+			<Text>Prelude and Fugue Op. 16, No. 3</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SCHUMANN_2_NAME">
+			<Text>Toccatina in A minor</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ROSAS_1_NAME">
+			<Text>Sobre las olas</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ROSAS_2_NAME">
+			<Text>Vals Carmen</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LILIUOKALANI_1_NAME">
+			<Text>Lili’uokalani’s Prayer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LILIUOKALANI_2_NAME">
+			<Text>Sanoe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JAAN_1_NAME">
+			<Text>Raga Khamaj Jogiya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JAAN_2_NAME">
+			<Text>Raga Bhairavi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JAAN_3_NAME">
+			<Text>Thumri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEONTOVYCH_1_NAME">
+			<Text>Carol of the Bells</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEONTOVYCH_2_NAME">
+			<Text>Prelude for Choir</Text>
+		</Row>
+		<!--Relics-->
+		<Row Tag="LOC_GREATWORK_RELIC_1_NAME">
+			<Text>Ark of the Covenant</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_2_NAME">
+			<Text>Beard of the Evangelist</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_3_NAME">
+			<Text>Blood of the Martyr</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_4_NAME">
+			<Text>Book of Thoth</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_5_NAME">
+			<Text>Footprint of the Apostle</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_6_NAME">
+			<Text>Grass Cutting Sword</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_7_NAME">
+			<Text>Holy Grail</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_8_NAME">
+			<Text>Philosopher's Stone</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_9_NAME">
+			<Text>Robes of the Guru</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_10_NAME">
+			<Text>Saint Aubert's Skull</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_11_NAME">
+			<Text>Sandals of the Prophet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_12_NAME">
+			<Text>Shroud of Turin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_13_NAME">
+			<Text>Silk Texts</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_14_NAME">
+			<Text>Splinter of the True Cross</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_15_NAME">
+			<Text>Stone of Scone</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_16_NAME">
+			<Text>Tooth of the Prophet</Text>
+		</Row>
+		<!--Artifacts-->
+		<Row Tag="LOC_GREATWORK_ARTIFACT_1_NAME">
+			<Text>Mummy</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_2_NAME">
+			<Text>Stone Tablet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_3_NAME">
+			<Text>Javelin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_4_NAME">
+			<Text>Scroll</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_5_NAME">
+			<Text>Mask</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_6_NAME">
+			<Text>Amphora</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_7_NAME">
+			<Text>Mosaic</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_8_NAME">
+			<Text>Axe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_9_NAME">
+			<Text>Aspis</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_10_NAME">
+			<Text>Bracelet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_11_NAME">
+			<Text>Chalice</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_12_NAME">
+			<Text>Silver Coin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_13_NAME">
+			<Text>Longsword</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_14_NAME">
+			<Text>Plate Mail</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_15_NAME">
+			<Text>Signet Ring</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_16_NAME">
+			<Text>Astrolabe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_17_NAME">
+			<Text>Doubloon</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_18_NAME">
+			<Text>Halberd</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_19_NAME">
+			<Text>Fresco</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_20_NAME">
+			<Text>Earring</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_21_NAME">
+			<Text>Clock</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_22_NAME">
+			<Text>Broadsheet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_23_NAME">
+			<Text>Flintlock Pistol</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_24_NAME">
+			<Text>Map</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_25_NAME">
+			<Text>Necklace</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Creates additional Barbarians.[ICON_Gold] Gold award if destroyerd.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Seaside Resorts.[NEWLINE][NEWLINE]Provides double the tile's Appeal in [ICON_Tourism] Tourism. Can only be built on Coastal Desert, Coastal Plains, or Coastal Grassland tiles. Minimum Appeal of Breathtaking.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+1 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Mines.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. Can only be built on Hills or certain resources.[NEWLINE][NEWLINE]If built on Luxury or Strategic resources, city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Quarries.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. Can only be built on [ICON_RESOURCE_STONE] Stone, [ICON_RESOURCE_MARBLE] Marble, or [ICON_RESOURCE_GYPSUM] Gypsum resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Fishing Boats.[NEWLINE][NEWLINE]+1 [ICON_Food] Food. Can only be built on Coast or Ocean resources.[NEWLINE][NEWLINE]If built on [ICON_RESOURCE_PEARLS] Pearls or [ICON_RESOURCE_WHALES] Whales, the city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Pastures.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. Can only be built on [ICON_RESOURCE_CATTLE] Cattle, [ICON_RESOURCE_SHEEP] Sheep, or [ICON_RESOURCE_HORSES] Horse resources.[NEWLINE][NEWLINE]If built on a [ICON_RESOURCE_HORSES] Horse resource, the city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Plantations.[NEWLINE][NEWLINE]+1 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_BANANAS] Bananas, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_COFFEE] Coffee, [ICON_RESOURCE_COTTON] Cotton, [ICON_RESOURCE_DYES] Dyes, [ICON_RESOURCE_SILK] Silk, [ICON_RESOURCE_SPICES] Spices, [ICON_RESOURCE_SUGAR] Sugar, [ICON_RESOURCE_TEA] Tea, [ICON_RESOURCE_TOBACCO] Tobacco, or [ICON_RESOURCE_WINE] Wine resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Camps.[NEWLINE][NEWLINE]+1 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_FURS] Fur, [ICON_RESOURCE_IVORY] Ivory, [ICON_RESOURCE_DEER] Deer, or [ICON_RESOURCE_TRUFFLES] Truffle resources.[NEWLINE][NEWLINE]If built on a Luxury resource like [ICON_RESOURCE_FURS] Fur, [ICON_RESOURCE_TRUFFLES] Truffles, or [ICON_RESOURCE_IVORY] Ivory, the city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Lumber Mill.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. +1 [ICON_Production] Production if adjacent to River. Can only be built on Woods.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct an Oil Well.[NEWLINE][NEWLINE]Can only be built on [ICON_RESOURCE_OIL] Oil.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct an Offshore Oil Rig.[NEWLINE][NEWLINE]Can only be built on [ICON_RESOURCE_OIL] Oil.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+			<Text>Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+			<Text>Unlocks the Military Engineer ability to construct an Airstrip.[NEWLINE][NEWLINE]Can support 3 air units. Can only be built on flat terrain.</Text>
+		</Row>
+		<!--Unique Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Chateau, unique to France.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture. +2 [ICON_Culture] Culture if next to a wonder. +1 [ICON_Gold] Gold if next to a Luxury resource. Can only be built adjacent to Rivers.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Colossal Head.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every 2 adjacent Rainforest. +1 [ICON_Faith] Faith for every 2 adjacent Woods. Cannot be built on Snow or Snow Hills.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct the Great Wall, unique to China.[NEWLINE][NEWLINE]Provides an increase to [ICON_Strength] Defense. Bonus to [ICON_Gold] Gold if adjacent to other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Kurgan, unique to Scythia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +1 [ICON_Gold] Gold. +1 [ICON_Faith] Faith for each adjacent Pasture. Cannot be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if on a different continent than your [ICON_Capital] Capital. +1 [ICON_Science] Science if built next to a Campus district.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+			<Text>Unlocks the Roman Legion ability to construct a Roman Fort, unique to Rome.[NEWLINE][NEWLINE]Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Sphinx, unique to Egypt.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +2 [ICON_Faith] Faith if next to a wonder. Cannot be built next to another Sphinx. Can be built on Floodplains.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Stepwell, unique to India.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Faith if adjacent to a Holy Site district. +1 [ICON_Food] Food if adjacent to a Farm. Cannot be built on Hills or adjacent to another Stepwell.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Ziggurat, unique to Sumeria.[NEWLINE][NEWLINE]+2 [ICON_Science] Science. +1 [ICON_Culture] Culture if next to River. Cannot be built on Hills.</Text>
+		</Row>
+		<!--Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Relic Was Awarded[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]You are granted a recon unit.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Your unit has been upgraded.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Your unit has earned experience.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Your unit has been healed.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+			<Text>[COLOR_FLOAT_SCIENCE]One free Technology.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+			<Text>+{1_Num} New Population</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+			<Text>You are granted {1_Num}  {1_Num: plural 1?{2_Unit} unit; other?{2_Unit} units;}.</Text>
+		</Row>
+		<!--Barbarian Camps -->
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Row>
+		<!--Nuclear -->
+		<Row Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+			<Text>Unlocks the Military Engineer ability to construct a Missile Silo.[NEWLINE][NEWLINE]Acts as a launch site for Nuclear and Thermonuclear Devices.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

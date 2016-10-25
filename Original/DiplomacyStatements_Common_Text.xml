@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Cleopatra of Egypt</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Greetings travler. You should know that you stand in the presence of greatness.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>What would you like to do, my liege?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Declare Friendship</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Make Peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Request Open Borders[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Send Delegation[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Establish Resident Embassy[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Denounce</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Declare Surprise War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Declare Formal War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Declare Holy War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Declare War of Liberation[NEWLINE][SIZE_12](No warmongering if capture friendly cities)[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Declare War of Reconquest[NEWLINE][SIZE_12](No warmongering if capture your cities)[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Declare Protectorate War[NEWLINE][SIZE_12](No warmongering if defend allied city-state)[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Declare Colonial War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Declare War of Territorial Expansion[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Warmonger penalty: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Costs {1_Cost} [ICON_Gold] Gold</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Are you sure you want to go to war?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Yes</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>No</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Make Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Make Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Ignore this Request.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Goodbye</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Propose Auction</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>What can I do for you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>What do you think of this?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>My demands must be met.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>View Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>View Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>No available items to demand.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>No available items to use in a deal.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+      <Text>Promise Not to Spy on Me</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+      <Text>Promise Not to Settle Too Near My Cities</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+      <Text>Promise Not to Convert My Cities</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+      <Text>Promise Not to Dig Up My Artifacts</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_UI_PEDIA_TITLE">
+			<Text>CIVILOPEDIA</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CIVILIZATIONS">
+			<Text>Civilizations</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GEOGRAPHY_AND_SOCIAL_DATA">
+			<Text>Geography &amp; Social Data</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERENCES">
+			<Text>Preferences</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_AGENDAS">
+			<Text>Agendas</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERRED_RELIGION">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADERS">
+			<Text>Leaders</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS">
+			<Text>Rivers</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS_FOOTNOTE">
+			<Text>(also prefers rivers)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
+			<Text>Special Infrastructure</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
+			<Text>Special Units</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SUZERAIN">
+			<Text>Become Suzerain Of</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_START_BIAS">
+			<Text>Start Bias</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_DESCRIPTION">
+			<Text>Description</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BELIEF_CLASS">
+			<Text>Belief Class</Text>
+		</Row>
+    		<Row Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
+			<Text>Promotion Class</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRAITS">
+			<Text>Traits</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MADE_OBSOLETE_BY">
+			<Text>Made obsolete by</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_APPLIES_TO">
+			<Text>Applies To</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REPLACES">
+			<Text>Replaces</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
+			<Text>Required Civics</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_TECHNOLOGIES">
+			<Text>Required Technologies</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNLOCKS">
+			<Text>Unlocks</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BOOSTS">
+			<Text>Boosts</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_FOLLOWERS">
+			<Text>Followers</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROGRESSION">
+			<Text>Progression</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
+			<Text>Leads to Civics</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_TECHS">
+			<Text>Leads to Technologies</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PRODUCTION_COST">
+			<Text>Production Cost</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PURCHASE_COST">
+			<Text>Purchase Cost</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAITENANCE_COST">
+			<Text>Maintenance Cost</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CULTURE_COST">
+			<Text>Culture Cost</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RESEARCH_COST">
+			<Text>Research Cost</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BASE_COST">
+			<Text>Base Cost: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIREMENTS">
+			<Text>Requirements</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BUILD_CHARGES">
+			<Text>Build Charges</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
+			<Text>Movement Points</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
+			<Text>Melee Strength</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
+			<Text>Ranged Strength</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
+			<Text>Bombard Strength</Text>
+		</Row>
+    <Row Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
+      <Text>Religious Strength</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
+      <Text>Anti-air Strength</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
+      <Text>Spread Charges</Text>
+    </Row>
+		<Row Tag="LOC_UI_PEDIA_RANGE">
+			<Text>Range</Text>
+		</Row>	
+		<Row Tag="LOC_UI_PEDIA_REPLACED_BY">
+			<Text>Replaced By</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNLOCKED_BY">
+			<Text>Unlocked By</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BUILT_BY">
+			<Text>Built By</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE">
+			<Text>Usage</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
+			<Text>Unlocks Buildings</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
+			<Text>Unlocks Units</Text>
+		</Row>
+    <Row Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
+      <Text>Can Construct</Text>
+    </Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT">
+			<Text>Placement</Text>
+		</Row>
+    <Row Tag="LOC_UI_PEDIA_ADJACENCY">
+      <Text>Adjacency</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
+      <Text>Mutually Exclusive With</Text>
+    </Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
+			<Text>Must be placed on Coast, adjacent to land</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_CITY">
+			<Text>Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_NOT_ADJ_TO_CITY">
+			<Text>Cannot be adjacent to the City Center</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
+			<Text>Adjacency Bonus</Text>
+		</Row>
+    <Row Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
+      <Text>Citizen Yields (per citizen)</Text>
+    </Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_YIELDS">
+			<Text>Trade Yields</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_ORIGIN">
+			<Text>Origin</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_DOMESTIC_DESTINATION">
+			<Text>Domestic Destination</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_INTERNATIONAL_DESTINATION">
+			<Text>International Destination</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UPGRADES_TO">
+			<Text>Upgrades To</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UPGRADE_FROM">
+			<Text>Upgrade From</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNIQUE_TO">
+			<Text>Unique To</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
+			<Text>Unique Ability</Text>
+		</Row>
+	    <Row Tag="LOC_UI_PEDIA_PROMOTIONS">
+	      <Text>Promotion(s)</Text>
+	    </Row>
+	    <Row Tag="LOC_UI_PEDIA_PROJECTS">
+	      <Text>Project(s)</Text>
+	    </Row>
+		<Row Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
+			<Text>City-State Type</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CREATES">
+			<Text>Creates</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CREATED_BY">
+			<Text>Created By</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_IMPROVED_BY">
+			<Text>Improved By</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_HARVEST">
+			<Text>Harvest</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES">
+			<Text>Requires: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
+			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?charge; other?charges;})</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GREAT_WORKS">
+			<Text>Great Works</Text>
+		</Row>
+    <Row Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
+      <Text>Mountains</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
+      <Text>Hills</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_TERRAIN_WATER">
+      <Text>Water</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
+      <Text>Shallow Water</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
+      <Text>Impassable</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
+      <Text>Inactive</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
+      <Text>Special requirements must be met in order to activate.  See the description for more details.</Text>
+    </Row>
+	  <Row Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
+      <Text>Removed if game started after</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
+      <Text>Must be adjacent to a river</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
+      <Text>Must be adjacent to a mountain</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
+      <Text>Must be built on coast</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
+      <Text>Must be built on a lake</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
+      <Text>Cannot be built on a lake</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
+      <Text>Must have founded a religion</Text>
+    </Row>
+    <Row Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
+      <Text>Buildings (any)</Text>
+    </Row>
+	</FrontEndText>
+</GameData>

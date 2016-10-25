@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+			<Text>American Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+			<Text>Arabian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Barbarians</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+			<Text>Brazilian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+			<Text>Chinese Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+			<Text>Egyptian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+			<Text>English Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+			<Text>French Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+			<Text>German Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+			<Text>Greek Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+			<Text>Indian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+			<Text>Japanese Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+			<Text>Empire of Kongo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+			<Text>Norwegian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+			<Text>Roman Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+			<Text>Russian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+			<Text>Scythian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+			<Text>Spanish Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+			<Text>Sumerian Empire</Text>
+		</Row>
+		<!-- City-State Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+			<Text>Amsterdam city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+			<Text>Brussels city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+			<Text>Buenos Aires city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+			<Text>Carthage city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+			<Text>Geneva city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+			<Text>Hattusa city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+			<Text>Hong Kong city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+			<Text>Jakarta city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+			<Text>Jerusalem city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+			<Text>Kabul city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+			<Text>Kandy city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+			<Text>Kumasi city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+			<Text>La Venta city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+			<Text>Lisbon city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+			<Text>Mohenjo-Daro city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+			<Text>Preslav city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+			<Text>Nan Madol city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+			<Text>Seoul city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+			<Text>Stockholm city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+			<Text>Toronto city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+			<Text>Valletta city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+			<Text>Vilnius city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+			<Text>Yerevan city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+			<Text>Zanzibar city-state</Text>
+		</Row>
+		<!-- Adjectives -->
+		<Row Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+			<Text>American</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+			<Text>Arabian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+			<Text>Barbarian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+			<Text>Brazilian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+			<Text>Chinese</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+			<Text>Egyptian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+			<Text>English</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+			<Text>French</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+			<Text>German</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+			<Text>Greek</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+			<Text>Indian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+			<Text>Japanese</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+			<Text>Kongolese</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+			<Text>Norwegian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+			<Text>Roman</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+			<Text>Russian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+			<Text>Scythian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+			<Text>Spanish</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+			<Text>Sumerian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+			<Text>Amsterdamer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
+			<Text>Brussels</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+			<Text>Carthaginian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+			<Text>Genevese</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+			<Text>Hattusa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+			<Text>Hongkongese</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+			<Text>Jakartan</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+			<Text>Kandyan</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+			<Text>Kumasi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+			<Text>La Venta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+			<Text>Lisbon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+			<Text>Mohenjo-Daro</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+			<Text>Preslav</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+			<Text>Nan Madol</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+			<Text>Seoulite</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+			<Text>Stockholmer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+			<Text>Torontonian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+			<Text>Valletta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+			<Text>Vilnian</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+			<Text>Yerevantsi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+			<Text>Zanzibari</Text>
+		</Row>
+		<!-- Civ Traits-->
+		<Row Tag="LOC_TRAIT_PLACEHOLDER">
+			<Text>[PLACEHOLDER] No unique ability implemented</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+			<Text>Amazon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts. Rainforest tiles provide +1 [ICON_Housing] Housing for Neighborhoods built adjacent to them.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+			<Text>Dynastic Cycle</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 60% of civics and technologies instead of 50%.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+			<Text>Inexpensive Builders</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+			<Text>Train Builders in half the usual time.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+			<Text>Meiji Restoration</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+			<Text>British Museum</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+			<Text>Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 [ICON_GreatWork_Artifact] Artifacts.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+			<Text>People of the Steppe</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+			<Text>Receive a second light cavalry unit or Saka Horse Archer each time you train a light cavalry unit or Saka Horse Archer.</Text>
+		</Row>
+		<Row Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+			<Text>Savage</Text>
+		</Row>
+		<Row Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+			<Text>Bonus against Barbarians.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+			<Text>Epic Quests</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+			<Text>When you capture a Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy city-state units.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+			<Text>Iteru</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+			<Text>+15% [ICON_Production] Production towards districts and wonders if placed next to a River. Floodplains do not block placement of districts and wonders.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+			<Text>Plato's Republic</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+			<Text>One extra Wildcard policy slot in any government.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+			<Text>Mother Russia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+			<Text>The Last Prophet</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+			<Text>Automatically receive the final Great Prophet when the next-to-last one is claimed (if you have not earned a Great Prophet already). +1 [ICON_Science] Science for each foreign city following Arabia's Religion.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+			<Text>Nkisi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+			<Text>+2 [ICON_Food] Food, +2 [ICON_Production] Production, and +4 [ICON_Gold] Gold from each [ICON_GreatWork_Relic] Relic, [ICON_GreatWork_Artifact] Artifact, and Sculpture [ICON_GreatWork_Sculpture] Great Work of Art in addition to the usual [ICON_Culture] Culture. Receive double [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, [ICON_GreatMusician] Great Musician, and [ICON_GreatMerchant] Great Merchant points. Palace has slots for 5 Great Works.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+			<Text>Treasure Fleet</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+			<Text>May build Fleets and Armadas earlier than usual (Mercantilism). [ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+			<Text>Founding Fathers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+			<Text>Earn all government legacy bonuses in half the usual time.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+			<Text>Dharma</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+			<Text>Receives Follower Belief bonuses in a city from each Religion that has at least 1 follower.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+			<Text>Grand Tour</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production toward Medieval, Renaissance, and Industrial era wonders. [ICON_Tourism] Tourism from wonders of any era is doubled.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+			<Text>Free Imperial Cities</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+			<Text>Each city can build one more district than usual (exceeding the normal limit based on [ICON_Citizen] Population).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+			<Text>All Roads Lead to Rome</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+			<Text>All cities you found or conquer start with a Trading Post. If in [ICON_TradeRoute] Trade Route range of your [ICON_Capital] Capital, they also start with a road to it. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+			<Text>Knarr</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+			<Text>Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology. Naval melee units heal in neutral territory. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+		</Row>
+		<!-- Civilization Info -->
+		<Row Tag="LOC_CIVINFO_LOCATION">
+			<Text>Location</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SIZE">
+			<Text>Size</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_POPULATION">
+			<Text>Population</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAPITAL">
+			<Text>Capital</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_LOCATION">
+			<Text>North America</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_SIZE">
+			<Text>Roughly 3.8 million square miles (9.6 million square kilometers)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_POPULATION">
+			<Text>About 318 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+			<Text>Various (Philadelphia, New York, currently Washington)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_LOCATION">
+			<Text>Asia-Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_SIZE">
+			<Text>Under Umayyad Caliphate, Est. 5.79 million square miles (15 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_POPULATION">
+			<Text>Under Umayyads, around 34 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+			<Text>Many (Medina, Kufa, Damascus, Baghdad, Cairo)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+			<Text>South America</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_SIZE">
+			<Text>Some 3.29 million square miles (8.5 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+			<Text>Est. 193 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+			<Text>Various (Salvador, Rio de Janeiro, currently Brasilia)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_SIZE">
+			<Text>Est. 3.7 million square miles (9.6 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_POPULATION">
+			<Text>1.1 billion in 1990</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_CAPITAL">
+			<Text>Many (the four primary ones: Beijing, Nanjing, Luoyang, and Chang'an)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_SIZE">
+			<Text>Roughly 94 thousand square miles (243458.88 square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+			<Text>Est. 64.1 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+			<Text>London (generally)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_LOCATION">
+			<Text>Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_SIZE">
+			<Text>Est. 390 thousand square miles (1 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_POPULATION">
+			<Text>Est. 7.5 million (Ptolemaic Dynasty)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+			<Text>Various (Memphis, Thebes, Alexandria, Cairo)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_SIZE">
+			<Text>Est. 246.2 thousand square miles (640.6 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_POPULATION">
+			<Text>Est. 66.6 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+			<Text>Various (Orleans, Tours, Versailles, Vichy, mostly Paris)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_SIZE">
+			<Text>Est. 390 thousand square miles ( 1 million square km in 1050 AD)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_POPULATION">
+			<Text>Est. 26.3 million (in 1780 AD)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+			<Text>None (wherever the Emperor was)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_SIZE">
+			<Text>Roughly (very) 50.9 thousand square miles (131.9 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_POPULATION">
+			<Text>Est. 667.5 thousand (during Peloponnesian War)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_CAPITAL">
+			<Text>All of the cities, but primarily Sparta and Athens</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_SIZE">
+			<Text>Est. 1.3 square miles (3.3 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_POPULATION">
+			<Text>Est. 1.2 billion (increasing daily)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_CAPITAL">
+			<Text>Various (Calcutta, Delhi, now New Delhi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_SIZE">
+			<Text>Est. 146 thousand square miles (378 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_POPULATION">
+			<Text>Latest 126.4 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+			<Text>Various (too numerous to list until Kyoto; currently Tokyo)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_LOCATION">
+			<Text>Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_SIZE">
+			<Text>At greatest extent, 49.9 thousand square miles (129.4 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_POPULATION">
+			<Text>Est. 509 thousand in 1650 AD</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_CAPITAL">
+			<Text>M'banza Kongo</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_SIZE">
+			<Text>Est. 148.7 thousand square miles (385.2 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_POPULATION">
+			<Text>Most recent est. 5.1 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+			<Text>Various (Trondheim, Bergen, and Oslo)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_LOCATION">
+			<Text>Europe (and Asia Minor, Africa, Middle East and other bits)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_SIZE">
+			<Text>Some 2.5 million square miles (6.5 million square km) under Trajan</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_POPULATION">
+			<Text>Est. 88 million (at peak)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_CAPITAL">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+			<Text>Europe-Asia (and briefly a piece of North America)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_SIZE">
+			<Text>Some 8.4 million square miles (21.8 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+			<Text>Est. 181.5 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+			<Text>Moscow, then St. Petersburg</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+			<Text>Roughly 384 thousand square miles (994 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+			<Text>Unknown, best guess is 40-50 thousand at peak</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+			<Text>None (the only city mentioned in the histories is "Scythian Neapolis," destroyed by the Goths in 3rd Century AD)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_SIZE">
+			<Text>Est. 195 thousand square miles (504.4 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_POPULATION">
+			<Text>Est. 47.6 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+			<Text>Madrid (mostly)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_SIZE">
+			<Text>Impossible to say</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+			<Text>Est. between 1.1 and 1.5 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+			<Text>Many (Lagash, Eridu, Uruk, Kish, Ur, or wherever the current king hailed from)</Text>
+		</Row>
+		<!-- Uniques -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+			<Text>American unique building: Film Studio</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+			<Text>Arabian unique building: Madrasa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+			<Text>Chinese unique improvement: Great Wall</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+			<Text>Egyptian unique improvement: Sphinx</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>Egyptian unique unit: Maryannu Chariot Archer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+			<Text>Chinese unique unit: Crouching Tiger</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+			<Text>French unique improvement: Château</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+			<Text>German unique district: Hansa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+			<Text>Greece unique district: Acropolis</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+			<Text>Greek unique unit: Hoplite</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+			<Text>Indian unique improvement: Stepwell</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+			<Text>Japanese unique building: Electronics Factory</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+			<Text>Japanese unique unit: Samurai</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+			<Text>Kongolese unique district: Mbanza</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+			<Text>Norwegian unique building: Stave Church</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+			<Text>Roman unique district: Bath</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+			<Text>Roman unique unit: Legion</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+			<Text>Kongolese unique unit: Ngao Mbeba</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+			<Text>Russian unique district: Lavra</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+			<Text>Scythian unique improvement: Kurgan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+			<Text>Scythian unique unit: Saka Horse Archer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+			<Text>Spanish unique improvement: Mission</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+			<Text>Spanish unique unit: Conquistador</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+			<Text>Russian unique unit: Cossack</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+			<Text>Sumerian unique improvement: Ziggurat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+			<Text>Sumerian unique unit: War-Cart</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+			<Text>Indian unique unit: Varu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>English unique unit: Sea Dog</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+			<Text>Arabian unique unit: Mamluk</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>French unique unit: Garde Impériale</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+			<Text>German unique unit: U-Boat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+			<Text>American unique unit: P-51 Mustang</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+			<Text>Brazilian unique unit: Minas Geraes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+			<Text>Norwegian unique unit: Berserker</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+			<Text>Brazilian unique district: Street Carnival</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>English unique district: Royal Navy Dockyard</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

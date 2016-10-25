@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DISTRICT_CITY_CENTER_DESCRIPTION">
+			<Text>This is the City Center.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>A district in your city for scientific endeavors.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standard [ICON_Science] Science bonus for each adjacent Mountain. Minor [ICON_Science] Science bonus for adjacent district tiles and adjacent Rainforest tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>A district in your city for religious worship.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Faith] Faith bonus for adjacent natural wonders. Standard [ICON_Faith] Faith bonus for each adjacent Mountain tile. Minor [ICON_Faith] Faith bonus for adjacent district tiles and unimproved Woods tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>A district in your city for military facilities.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>A district in your city dedicated to keeping your people happy by increasing [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION">
+			<Text>A district in your city for cultural sites.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standard [ICON_Culture] Culture bonus for each adjacent wonder. Minor [ICON_Culture] Culture bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>A district for naval activity in your city. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standard [ICON_Gold] Gold bonus for each adjacent coastal resource. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NEIGHBORHOOD_DESCRIPTION">
+			<Text>A district in your city that provides housing based on the Appeal of the tile:[NEWLINE]Breathtaking: +6 [ICON_Housing] Housing.[NEWLINE]Charming: +5 [ICON_Housing] Housing.[NEWLINE]Average: +4 [ICON_Housing] Housing.[NEWLINE]Uninviting: +3 [ICON_Housing] Housing.[NEWLINE]Disgusting: +2 [ICON_Housing] Housing.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>A district in your city for industrial activity.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standard [ICON_Production] Production bonus for each adjacent Mine or Quarry. Minor [ICON_Production] Production bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>A district in your city specializing in finance and trade.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Gold] Gold bonus for each adjacent Harbor district, or tile edge containing a River. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+			<Text>A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
+			<Text>A district that allows you to build and store aircraft. Cannot be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION">
+			<Text>A district that is required to construct the Science Victory projects. This includes Launch Earth Satellite, Launch Moon Landing, Mars Colony Habitation, Mars Colony Hydroponics, and Mars Colony Reactor. Cannot be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
+			<Text>A district unique to Greece for cultural sites. Replaces the Theater Square district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standard [ICON_Culture] Culture bonus for adjacent City Center. Standard [ICON_Culture] Culture bonus for each adjacent wonder and district. Can only be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BATH_DESCRIPTION">
+			<Text>A district unique to Rome for city growth. Replaces the Aqueduct district.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
+			<Text>A district unique to Germany for industrial activity. Replaces the Industrial Zone district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Commercial Hub district. Standard [ICON_Production] Production bonus for each adjacent resource. Minor [ICON_Production] Production bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
+			<Text>A district unique to Russia for religious activity. Replaces the Holy Site district.[NEWLINE][NEWLINE]Your city border grows by one tile each time a Great Person is expended in this city.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
+			<Text>A district unique to Kongo that can only be constructed in Rainforest or Woods. Replaces the Neighborhood district but is available earlier. Provides +5 [ICON_Housing] Housing , +2 [ICON_Food] Food, and +4 [ICON_Gold] Gold, regardless of Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
+			<Text>A district unique to England for naval activity in your city. Replaces the Harbor district. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_Movement] Movement for all naval units built in Dockyard[NEWLINE]+2 [ICON_Gold] Gold when built on a foreign continent[NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Standard [ICON_Gold] Gold bonus for each adjacent coastal resource. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REQUIRE_DISTRICT_Adjacency">
+			<Text>Must be adjacent to an existing district or City Center.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REQUIRE_NOT_ADJACENT_TO_CITY">
+			<Text>Cannot be adjacent to a City Center.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE1">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE2">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE3">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE4">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE5">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent natural {1_Num : plural 1?wonder; other?wonders;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH1">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH2">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH3">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH4">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH5">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Woods {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent districts.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_TUNDRA_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Tundra {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Desert {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Woods {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent River.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Royal Navy Dockyard district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent sea {1_Num : plural 1?resource; other?resources;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WONDER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?wonder; other?wonders;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent City Center.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?Mines; other?Mines;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?Quarry; other?Quarries;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Commercial Hub district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RESOURCE_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?resource; other?resources;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
+			<Text>[COLOR_RED]The improvement will be removed when building the district. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_FEATURE_TECH">
+			<Text>[COLOR_RED]Need {1_TechName} to remove {2_FeatureName} in order to build the district here. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OK_REMOVE_FEATURE">
+			<Text>[COLOR_RED]Placing the district here will remove the {1_FeatureName}. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_HARVEST_TECH">
+			<Text>[COLOR_RED]Need {1_TechName} to remove {2_ResourceName} in order to build the district here. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OK_HARVEST_RESOURCE">
+			<Text>[COLOR_RED]Placing the district here will remove the {1_ResourceName}. [ENDCOLOR]</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

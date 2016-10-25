@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Promotion Class Names -->
+		<Row Tag="LOC_PROMOTION_CLASS_RECON_NAME">
+			<Text>Recon</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
+			<Text>Melee</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
+			<Text>Ranged</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
+			<Text>Siege</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
+			<Text>Anti Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
+			<Text>Light Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
+			<Text>Heavy Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
+			<Text>Air Fighter</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
+			<Text>Air Bomber</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
+			<Text>Naval Melee</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
+			<Text>Naval Ranged</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
+			<Text>Naval Carrier</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
+			<Text>Naval Raider</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
+			<Text>Religious Apostle</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
+			<Text>Religious Inquisitor</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
+			<Text>Support</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SPY_NAME">
+			<Text>Espionage</Text>
+		</Row>
+		<!-- Formation Class Names -->
+		<Row Tag="LOC_FORMATION_CLASS_AIR_NAME">
+			<Text>Air Combat</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
+			<Text>Civilian</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
+			<Text>Land Combat</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
+			<Text>Naval Combat</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
+			<Text>Support</Text>
+		</Row>
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
+			<Text>+{1_Num}</Text>
+		</Row>
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<!-- Experience Message -->
+		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*PROMOTION AVAILABLE*[ENDCOLOR]</Text>
+		</Row>
+		<!-- Production Yield Message -->
+		<Row Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<!-- Food Yield Message -->
+		<Row Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<!-- Gold Yield Message -->
+		<Row Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<!-- Civilian-->
+		<Row Tag="LOC_UNIT_SETTLER_DESCRIPTION">
+			<Text>May create new cities. Reduces city's [ICON_Citizen] Population by 1 when completed.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BUILDER_DESCRIPTION">
+			<Text>May create tile improvements or remove features like Woods or Rainforest. Builders can be used 3 times. This can be increased through policies or wonders like the Pyramids.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRADER_DESCRIPTION">
+			<Text>May make and maintain a single [ICON_TradeRoute] Trade Route. Automatically creates Roads as it travels.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+			<Text>May convert [ICON_Citizen] Citizens to their Religion. May not initiate theological combat with units of other Religions (but can defend).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
+			<Text>May convert [ICON_Citizen] Citizens to their Religion and initiate theological combat with units of other Religions.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
+			<Text>May eliminate the presence of other Religions in their territory, and initiate theological combat with units of other Religions.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
+			<Text>Find and extract [ICON_GreatWork_Artifact] Artifacts from [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Sites to be displayed in their home city's Museum.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPY_DESCRIPTION">
+			<Text>Performs secret missions in foreign cities and protects your cities from enemy Spies.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
+			<Text>A late-game civilian who can create a single National Park to attract [ICON_Tourism] Tourists. Must be purchased with [ICON_Faith] Faith.</Text>
+		</Row>
+		<!-- Great People-->
+		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
+			<Text>Each [ICON_GreatGeneral] Great General has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
+			<Text>Each [ICON_GreatAdmiral] Great Admiral has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
+			<Text>Each [ICON_GreatEngineer] Great Engineer has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
+			<Text>Each [ICON_GreatMerchant] Great Merchant has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
+			<Text>Great [ICON_GreatProphet] Prophets can found a Religion when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
+			<Text>Each [ICON_GreatScientist] Great Scientist has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
+			<Text>Each [ICON_GreatWriter] Great Writer generates a [ICON_GreatWork_Writing] Great Work of Writing when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
+			<Text>Each [ICON_GreatArtist] Great Artist generates a [ICON_GreatWork_Landscape] Great Work of Art when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
+			<Text>Each [ICON_GreatMusician] Great Musician generates a [ICON_GreatWork_Music] Great Work of Music when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<!-- Recon-->
+		<Row Tag="LOC_UNIT_SCOUT_DESCRIPTION">
+			<Text>Fast-moving Ancient era recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RANGER_DESCRIPTION">
+			<Text>Fast-moving Industrial era recon unit.</Text>
+		</Row>
+		<!-- Melee-->
+		<Row Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
+			<Text>Weak Ancient era melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
+			<Text>Ancient era melee unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+			<Text>Strong Classical era melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+			<Text>Medieval era melee unit that's strong against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
+			<Text>Renaissance era melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+			<Text>Modern era melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+			<Text>Information era melee unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+			<Text>Modern era counter to cavalry class units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
+			<Text>Information era counter to cavalry class units.</Text>
+		</Row>
+		<!-- Ranged-->
+		<Row Tag="LOC_UNIT_SLINGER_DESCRIPTION">
+			<Text>Weak Ancient era ranged unit. Better on attack than defense.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHER_DESCRIPTION">
+			<Text>First Ancient era ranged unit with a [ICON_Range] Range of 2.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+			<Text>Medieval era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
+			<Text>Industrial era ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Atomic era ranged unit.</Text>
+		</Row>
+		<!-- Light Cavalry-->
+		<Row Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
+			<Text>Fast-moving Classical era light cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
+			<Text>Fast-moving Industrial era light cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+			<Text>Fast-moving Atomic era light cavalry unit.</Text>
+		</Row>
+		<!-- Siege-->
+		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+			<Text>Classical era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
+			<Text>Renaissance era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
+			<Text>Modern era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Information era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+		</Row>
+		<!-- Support-->
+		<Row Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
+			<Text>Ancient era support unit. When adjacent to a city, attacking melee units do full damage to the city's Walls.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
+			<Text>Classical era support unit. When adjacent to a city, attacking melee units ignore Walls and immediately assault the city.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDIC_DESCRIPTION">
+			<Text>Industrial era support unit. Can heal adjacent units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+			<Text>Modern era support unit. Adds +1 [ICON_Range] Range to adjacent bombard strength units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Medieval era support unit. Requires an Armory to produce. Can construct Roads, Forts, and Airstrip improvements.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+			<Text>Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+			<Text>Information era anti-air support unit. Provides cover from air and nuclear attacks up to 1 hex away from the weapon.</Text>
+		</Row>
+		<!-- Heavy Cavalry -->
+		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>Hard-hitting, Ancient era heavy cavalry unit. Gains 1 bonus [ICON_Movement] Movement if it begins a turn on a flat tile with no Woods, Rainforest, or Hills.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+			<Text>Hard-hitting, Medieval era heavy cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
+			<Text>Information era heavy cavalry unit that is fast and strong.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESCRIPTION">
+			<Text>Fast-moving Modern era heavy cavalry unit that ignores zone of control.</Text>
+		</Row>
+		<!--Naval-->
+		<Row Tag="LOC_UNIT_GALLEY_DESCRIPTION">
+			<Text>Ancient era melee naval combat unit. Can only operate on Coastal waters until Cartography is researched.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
+			<Text>Classical era ranged naval unit. Can only operate on Coastal waters until Cartography is researched.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Fast Renaissance era exploration melee naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
+			<Text>Powerful Industrial era armored melee naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
+			<Text>Highly advanced Information era ranged raiding naval unit that can be armed with nuclear weapons. Cannot be seen unless adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
+			<Text>Modern era ranged raiding naval unit. Cannot be seen unless adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
+			<Text>Renaissance era ranged naval unit with the ability to coastal raid. Cannot be seen unless adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
+			<Text>Renaissance era ranged naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+			<Text>Atomic era melee naval unit that can transport air units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+			<Text>Modern era naval ranged unit. Provides cover from air and nuclear attacks up to 1 tile away.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+			<Text>Strongest ranged naval unit, available in the Information era.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+			<Text>Strongest melee naval unit. Reveals submarines within sight range.</Text>
+		</Row>
+		<!--Air Units-->
+		<Row Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
+			<Text>First air combat unit, available in the Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+			<Text>Atomic era Biplane upgrade.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+			<Text>First bomber unit, available in the Atomic era.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
+			<Text>Information era Fighter upgrade.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
+			<Text>Information era Bomber upgrade.</Text>
+		</Row>
+		<!-- Unique Units-->
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
+			<Text>Ancient era primitive horseback warrior.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Ancient era primitive horseback archer.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
+			<Text>Ancient era primitive naval melee combat unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Egyptian unique Ancient era ranged unit that replaces the Heavy Chariot. 4 [ICON_Movement] Movement when starting in open terrain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
+			<Text>Greek unique Ancient era unit that replaces the Spearman. +10 [ICON_Strength] Combat Strength if there is at least one adjacent Hoplite unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Scythian unique Classical era unit. Ranged unit with 4 [ICON_Movement] Movement with a [ICON_Range] Range of 1.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
+			<Text>Sumerian unique Ancient era unit. Stronger than all other starting units. No penalties against anti-cavalry units. 4 [ICON_Movement] Movement if this unit starts in open terrain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
+			<Text>English unique Industrial era unit when Victoria is their leader. +10 [ICON_Strength] Combat Strength when fighting on a continent other that your capital's. No disembark cost.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
+			<Text>American unique Modern era unit when Teddy Roosevelt is their leader. [ICON_Culture] Culture is earned from kills on their [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills. Lower maintenance cost.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
+			<Text>Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
+			<Text>Japanese unique Medieval era melee unit. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
+			<Text>Norwegian unique Medieval era unit. 4 [ICON_Movement] Movement if this unit starts in enemy territory. +7 [ICON_Strength] Combat Strength when attacking and -7 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
+			<Text>Norwegian unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability. 4 [ICON_Movement] Movement while in coastal waters.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
+			<Text>Chinese unique Medieval era unit. Ranged unit with a [ICON_Range] Range of 1 and high combat strength.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+			<Text>Spanish unique Renaissance era unit that replaces the Musketman. +10 [ICON_Strength] Combat Strength when there is a Missionary, Inquisitor, or Apostle in the same hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's Religion as the dominant Religion.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
+			<Text>Russian unique Industrial era unit that replaces Cavalry. Stronger than Cavalry, and gains +5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory. Can move after attacking if [ICON_Movement] Movement points remain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+			<Text>Indian unique Classical era unit that replaces the Horseman. -5 [ICON_Strength] Combat Strength for all adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
+			<Text>Kongo unique Classical era unit that replaces the Swordsman. +10 [ICON_Strength] Combat Strength when defending against ranged attacks. Can move and see through Woods and Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
+			<Text>Arabian unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+			<Text>English unique Renaissance era naval unit that replaces the Privateer. Can capture enemy ships. Cannot be seen unless adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+			<Text>French unique Industrial era melee unit. +10 [ICON_Strength] Combat Strength when fighting on your capital's continent. [ICON_GreatGeneral] Great General points for killing units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
+			<Text>German unique Modern era naval unit that replaces the Submarine. Cheaper to produce, +1 Sight, and +10 [ICON_Strength] Combat Strength when fighting on Ocean tiles. Able to reveal other stealthed units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
+			<Text>American unique Modern era air unit that replaces the Fighter.  Gains +5 attack against fighter aircraft, has +2 flight range, and gains +50% experience.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
+			<Text>Brazilian unique Modern era unit that replaces the Battleship. Stronger than the Battleship. Unlocked by Nationalism.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

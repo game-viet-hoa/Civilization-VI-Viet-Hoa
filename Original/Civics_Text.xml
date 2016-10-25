@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
+			<Text>Allows the creation of [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
+			<Text>Grants flanking and support combat bonuses to all combat units.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
+			<Text>Unlocks the abilities to enforce borders and grant Open Borders to other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>Farm improvements now gain +1 [ICON_Food] Food for each adjacent Farm improvement when 3 Farm improvements are adjacent to each other.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
+			<Text>Allows Alliances.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
+			<Text>Pasture improvements receive +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
+			<Text>Allows Resident Embassies and grants the ability to construct a Spy. The first four Casus Belli may now be used to justify wars. These Casus Belli are: Holy War, War of Liberation, War of Reconquest, and Protectorate War.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>Camp improvements receive +1 [ICON_Production] Production. </Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Religious [ICON_Tourism] Tourism effects are halved versus your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
+			<Text>Can build Farms on Grassland Hills and Plains Hills. Unlocks Urban Defenses, giving all of your cities an automatic 200 Fortification Strength and the ability to bombard.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
+			<Text>Grants the ability to construct an additional Spy. Allows forming two identical units into a Corps or Fleet. Allows one new Casus Belli that can be used to justify wars: Colonial War.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
+			<Text>Reveals [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Sites. Allows construction of Archaeologists. Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CAPITALISM_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy. Allows the building of National Parks and the purchase of Naturalists with [ICON_Faith] Faith. Allows Builders to plant Woods (second-growth). Woods in your territory that have never been removed (old-growth) gain +1 Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Allows formation of Defensive Pacts. Allows forming three identical units into an Army or Armada. Allows one new Casus Belli that can be used to justify wars: War of Territorial Expansion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
+			<Text>Grants the ability to construct an additional Spy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
+			<Text>Grants the ability to construct an additional Spy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy. </Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
+			<Text>Allows for the transport of land units between Aerodrome districts that contain Airports.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold to Plantations. Can be completed multiple times, increasing your points towards the Score Victory.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_DESCRIPTION">
+			<Text>Can be completed multiple times, increasing your points towards the Score Victory.</Text>
+		</Row>
+		<!-- Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
+			<Text>Improve 3 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
+			<Text>Discover a second continent.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+			<Text>Clear a Barbarian Outpost.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
+			<Text>Build any district.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
+			<Text>Grow your civilization to at least 6 population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MYSTICISM">
+			<Text>Found a pantheon.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
+			<Text>Research the Construction technology.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
+			<Text>Meet 3 city-states.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
+			<Text>Build a wonder.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
+			<Text>Build an Encampment.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
+			<Text>Be the target of a Declaration of War.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
+			<Text>Build 2 Campus districts.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THEOLOGY">
+			<Text>Found a Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
+			<Text>Kill a unit with a Quadrireme.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FEUDALISM">
+			<Text>Build 6 Farms.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
+			<Text>Grow a city to 10 population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MERCENARIES">
+			<Text>Have 8 land combat units in your military.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
+			<Text>Maintain 4 Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUILDS">
+			<Text>Build 2 Markets.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
+			<Text>Build 2 Temples.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EXPLORATION">
+			<Text>Build 2 Caravels.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_HUMANISM">
+			<Text>Earn a Great Artist.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
+			<Text>Have an alliance with another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
+			<Text>Have 6 cities Following your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
+			<Text>Earn a Great Merchant.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
+			<Text>Earn 3 Great People.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
+			<Text>Build 7 different specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NATIONALISM">
+			<Text>Declare war using a casus belli.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
+			<Text>Build an Art Museum.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COLONIALISM">
+			<Text>Research the Astronomy technology.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
+			<Text>Build an Archaeological Museum.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_URBANIZATION">
+			<Text>Grow a city to 15 population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
+			<Text>Build 2 Field Cannons.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CONSERVATION">
+			<Text>Have a Neighborhood district with Breathtaking Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
+			<Text>Have 3 Corps in your military.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
+			<Text>Research Radio.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CAPITALISM">
+			<Text>Build 3 Stock Exchanges.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
+			<Text>Build a Research Lab.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
+			<Text>Build 4 Sewers.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
+			<Text>Build 3 Military Academies.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
+			<Text>Build 3 Factories.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COLD_WAR">
+			<Text>Research the Nuclear Fission technology.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
+			<Text>Build 4 Entertainment Complex districts.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
+			<Text>Have a Themed Museum.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
+			<Text>Build an Aerodrome or Airstrip on a foreign continent.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
+			<Text>Build a Spaceport district.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
+			<Text>Build 3 Airports.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
+			<Text>Research the Telecommunications technology.</Text>
+		</Row>
+		<!-- Civic Boosts Long Descriptions-->
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
+			<Text>With the land around our first city developing nicely, we can fine tune our production techniques.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Having discovered another continent we realize there is a wide world of trading opportunities.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
+			<Text>Your soldiers hope your victory over a Barbarian Outpost is the start of a long line of military successes.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
+			<Text>Bringing our first district online has proven the value of conscripting workers for state projects.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
+			<Text>The growing number of citizens in your lands dream of having an empire.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
+			<Text>Worship of your pantheon of gods has brought up further questions about spiritual forces in our world.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+			<Text>Your new skills in construction will surely help create venues for games and entertainment.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
+			<Text>Your contact with other states has crystallized your ideas on governing your own people.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
+			<Text>The glory of completing a wonder has energized your people. They are writing works to commemorate this great event.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+			<Text>With an Encampment now in place, we can formalize our military training.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+			<Text>Faced with the threat of invasion, your people are ready to come up with innovative defenses.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
+			<Text>With plans to house many scrolls in the libraries of your campuses, your people begin to record the history of your empire.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
+			<Text>The formation of a Religion by your Great Prophet inspires deeper thought on the nature of the divine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
+			<Text>Your victory at sea inspires your people to strive to become a naval power.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
+			<Text>A system of lords and vassals is forming to manage all the farmlands of your empire.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
+			<Text>Your large urban center will soon require a corps of bureaucrats.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
+			<Text>With such a large standing army, you may want to consider adding mercenaries if your army needs to expand further.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
+			<Text>The increase of commerce through your lands will soon attract a trade fair.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
+			<Text>The success of your commercial districts has spurred the growth of trade guilds.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
+			<Text>Your devout people believe strongly that your rule is a blessing from the divine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
+			<Text>The lessons you have learned from Caravel exploration have led to a new way of governing your people.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
+			<Text>The inspiration provided by your newly-acquired Great Artist is awakening our people to the power of the individual.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
+			<Text>The legwork to build an alliance has trained up your first corps of diplomats.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
+			<Text>The growth of your Religion comes with the danger of schism. Reforming corrupt church practices better happen soon!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
+			<Text>Your new Great Merchant is sharing ideas on how we can get the edge on our economic competitors.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
+			<Text>The ideas from your great people have inspired intellectual discussion throughout the land.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
+			<Text>Your new knowledge of the heavens is helping your navy navigate and establish a global empire.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
+			<Text>Having constructed so many types of districts, your engineers have become skilled in city construction.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
+			<Text>Your people believe in the just nature of this war.  It has become an issue of national pride for us!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
+			<Text>The unveiling of a new museum is drawing people to the arts. Perhaps dance and opera are next?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
+			<Text>With a museum now ready to hold your findings, it is time to see what you can discover out in the natural world.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
+			<Text>Your large city is getting overcrowded. It's time to start planning for some suburbs.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
+			<Text>Modern warfare is clearly a brutal affair.  Your military doctrine is starting to reflect some of these principles of total war.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
+			<Text>The residents of your breathtaking new neighborhood clamor for a plan to conserve all the world’s natural treasures.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
+			<Text>The advent of radio beckons the start of a new era of communication.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
+			<Text>Your military is better organized. Now time to take your force to the world stage.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
+			<Text>With stock exchanges springing up in several cities, investment capital is plentiful and a market economy is ready to emerge.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
+			<Text>With a dedicated research lab in place, your initiative to recruit scientists into a nuclear research program can commence.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
+			<Text>The women of your empire have clamored for proper sanitation. Having won that battle, they now need the right to vote.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
+			<Text>The discipline instilled by your military academies is now second nature to your citizens.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
+			<Text>Your factory workers clamor for better working conditions. It is time for the workers of the world to unite!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
+			<Text>The advent of nuclear weaponry will surely change the nature of armed conflict across the globe.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
+			<Text>Your 4 cites with Entertainment Complexes want to compete in a new professional sports league.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
+			<Text>With a perfectly curated museum, your people's strong cultural heritage is on exhibit for all to see.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
+			<Text>With air bases now spanning the globe, our military is ready to be deployed anywhere in the world at a moment's notice.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
+			<Text>The unveiling of your new Spaceport has energized your people to push into space.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
+			<Text>With so many airports in place, the world is truly becoming a smaller place.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
+			<Text>Your advances in communications technology are allowing people to congregate online.</Text>
+		</Row>
+		<!-- Governments -->
+		<Row Tag="LOC_GOVERNMENT_OF">
+			<Text>Government of {1_civ}</Text>
+		</Row>
+		<Row Tag="LOC_CHANGE_GOVERNMENT">
+			<Text>Change Government</Text>
+		</Row>
+		<Row Tag="LOC_MY_GOVERNMENT">
+			<Text>My Government</Text>
+		</Row>
+		<Row Tag="LOC_policIES">
+			<Text>policies</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENTS">
+			<Text>Governments</Text>
+		</Row>
+		<Row Tag="LOC_CULTURE_PER_TURN">
+			<Text>Culture Per Turn: +{1_Culture}</Text>
+		</Row>
+		<Row Tag="LOC_MILITARY">
+			<Text>Military</Text>
+		</Row>
+		<Row Tag="LOC_ECONOMIC">
+			<Text>Economic</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMATIC">
+			<Text>Diplomatic</Text>
+		</Row>
+		<Row Tag="LOC_WILDCARD">
+			<Text>Wildcard</Text>
+		</Row>
+		<Row Tag="LOC_EMPTY_POLICY_SLOT">
+			<Text>Empty {1_policyType} policy Slot</Text>
+		</Row>
+		<Row Tag="LOC_NO_AVAIL_policIES">
+			<Text>No Available policies</Text>
+		</Row>
+		<Row Tag="LOC_VIEW_LOCKED_policIES">
+			<Text>View Locked policies</Text>
+		</Row>
+		<!-- Government Effects-->
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
+			<Text>No Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
+			<Text>Capital receives +1 boost to all yields.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
+			<Text>All Land Melee units gain +4 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
+			<Text>All cities with a district receive +1 [ICON_Amenities] Amenity.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>+2 [ICON_Housing] Housing in any city with Medieval Walls.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
+			<Text>Can buy land combat units with Faith. All units +5 [ICON_Religion] Religious Strength in theological combat.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
+			<Text>+2 [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
+			<Text>All combat units gain +4 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
+			<Text>Land units gain +4 [ICON_Strength] Defense Strength.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
+			<Text>Patronage of Great People costs 50% less Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
+			<Text>No Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
+			<Text>Bonus on wonder production.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
+			<Text>Experience for combat units.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
+			<Text>Bonus Great People points.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
+			<Text>Bonus Influence points.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
+			<Text>Discount on Faith purchases.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
+			<Text>Discount on Gold purchases.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
+			<Text>Bonus on unit Production.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
+			<Text>Bonus to all Production.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
+			<Text>Bonus yields from district projects.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
+			<Text>No Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
+			<Text>Bonus to wonder [ICON_Production] Production (10%, plus 1% for every 20 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
+			<Text>Bonus combat experience for units (20%, plus 1% for every 5 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
+			<Text>Bonus [ICON_GreatPerson] Great People points (15%, plus 1% for every 15 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
+			<Text>Bonus Influence points towards [ICON_Envoy] Envoys (20%, plus 1% for every 10 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
+			<Text>Discount on [ICON_Faith] Faith purchases (15%, plus 1% for every 15 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
+			<Text>Discount on [ICON_Gold] Gold purchases (15%, plus 1% for every 15 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
+			<Text>Bonus to unit [ICON_Production] Production (20%, plus 1% for every 10 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
+			<Text>Bonus to all [ICON_Production] Production (10%, plus 1% for every 20 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
+			<Text>Bonus yields from district projects (30%, plus 1% for every 10 turns on Standard speed).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
+			<Text>No more {1_policyName} can be set for this government.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
+			<Text>No {1_policyName} can be set under this government.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
+			<Text>{1_Num: number #} more {1_Num : plural 1?policy; other?policies;} can be placed in the {2_policyName} area.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
+			<Text>{1_Num: number #} {1_Num : plural 1?policy; other?policies;} can be set in the {2_policyName} area.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
+			<Text>Gain {1_InfluencePointRate} Influence {1_InfluencePointRate : plural 1?point; other?points;} per [ICON_Turn] Turn. At {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?point; other?points;}, earn {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Envoy; other?Envoys;}.</Text>
+		</Row>
+		<!-- Policy Descriptions-->
+		<Row Tag="LOC_POLICY_PLACEHOLDER_DESC">
+			<Text>Placeholder.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
+			<Text>+100% Theater Square district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AGOGE_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Ancient and Classical era melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +2 [ICON_Food] Food and +2 [ICON_Production] Production for both cities.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
+			<Text>+6 City [ICON_Strength] Defense Strength. +5 City [ICON_Ranged] Ranged Strength.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold from all [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
+			<Text>+2 Influence points per turn toward earning city-state [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward Medieval, Renaissance, and Industrial era heavy and light cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
+			<Text>+10% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
+			<Text>+4 [ICON_Food] Food from domestic [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% faster growth for cities not on your original [ICON_Capital] Capital's continent.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] Gold in cities not on your original [ICON_Capital] Capital's continent.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Settlers.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
+			<Text>Unit maintenance reduced by 1 [ICON_Gold] Gold per turn, per unit.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
+			<Text>Each [ICON_Envoy] Envoy you send to a city-state counts as two, if its Suzerain has a different government than you.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CORVEE_DESCRIPTION">
+			<Text>+15% [ICON_Production] Production toward Ancient and Classical wonders.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
+			<Text>100% Industrial Zone adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
+			<Text>Enemy Spy level reduced by 2 in your lands. Your Spy level is increased by 1 for offensive operations.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
+			<Text>No war weariness from combat in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
+			<Text>The first [ICON_Envoy] Envoy you send to each city-state counts as two [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Unit Combat Strength when fighting Barbarians.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
+			<Text>+5 [ICON_Production] Production and +10 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
+			<Text>+100% Commercial Hub and Harbor district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
+			<Text>Settler cost reduced by 50%. Plot purchase cost reduced by 20%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Medieval and Renaissance era melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Modern and Atomic air units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
+			<Text>+100% Campus and Industrial Zone district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>+100% [ICON_Gold] Gold yield from Commercial Hub district buildings.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
+			<Text>+2 [ICON_GreatArtist] Great Artist points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
+			<Text>+1 [ICON_Faith] Faith and +1 [ICON_Gold] Gold in the [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
+			<Text>+15% [ICON_Production] Production toward Medieval and Renaissance wonders.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Industrial and Modern era melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>+100% [ICON_Culture] Culture yield from Theater Square district buildings.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
+			<Text>Open Borders with all city-states, and +4 Influence points per turn toward earning [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] Tourism from [ICON_GreatWork_Landscape] Great Works of Art and [ICON_GreatWork_Artifact] Artifacts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ILKUM_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Builders.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
+			<Text>+2 [ICON_GreatScientist] Great Scientist points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INSULAE_DESCRIPTION">
+			<Text>+1 [ICON_Housing] Housing in all cities with at least 2 specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
+			<Text>+15% [ICON_Production] Production toward Space Race projects if a city has either a Military Academy or a Seaport.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
+			<Text>+10% [ICON_Science] Science per city-state you are the Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward Modern, Atomic, and Information era naval units, excluding Carriers.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVENTION_DESCRIPTION">
+			<Text>+2 [ICON_GreatEngineer] Great Engineer points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
+			<Text>+4 [ICON_GreatMerchant] Great Merchant points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
+			<Text>Reduces the cost of purchasing a tile by 20%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
+			<Text>Unit maintenance cost reduced by 2 [ICON_Gold] Gold per turn, per unit.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenity to all cities with at least 2 specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production for Modern, Atomic, and Information era heavy and light cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMES_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward defensive buildings.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
+			<Text>+2 [ICON_GreatWriter] Great Writer points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
+			<Text>+1 Movement if starting turn in friendly territory.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Spies. Spy operations take 25% less time.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward Ancient and Classical era heavy and light cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward Ancient and Classical era naval units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
+			<Text>Your international [ICON_TradeRoute] Trade Routes provide +1 [ICON_Gold] Gold per Luxury and Strategic resource improved at the destination, as well as +2 [ICON_Culture] Culture and +2 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Accumulate 25% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
+			<Text>+2 [ICON_Housing] Housing in all cities with at least 3 specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold from each of your [ICON_Envoy] Envoys at city-states.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
+			<Text>Each city receives +1 [ICON_Culture] Culture for each specialty district it constructs.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Atomic and Information era melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
+			<Text>+4 [ICON_GreatGeneral] Great General points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
+			<Text>Military Academies and Seaports generate +1 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
+			<Text>Units have 50% less [ICON_Strength] Combat Strength reduction from being injured.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
+			<Text>Combat victories over units from earlier eras provide [ICON_Gold] Gold equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>+100% Campus district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+100% Harbor district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
+			<Text>+2 [ICON_GreatAdmiral] Great Admiral points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
+			<Text>+4 [ICON_Housing] Housing, +2 [ICON_Amenities] Amenities, -8 [ICON_Gold] Gold to all cities with at least 3 specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
+			<Text>+4 [ICON_GreatScientist] Great Scientist points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
+			<Text>Spies who steal a tech boost without being detected gain an extra boost.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
+			<Text>+50% [ICON_Tourism] Tourism output to civilizations to which you have a [ICON_TradeRoute] Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production for Modern, Atomic, and Information era support units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Enemy Spies level reduced by 2 in your lands. However all cities suffer -1 [ICON_Amenities] Amenity.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
+			<Text>100% [ICON_Production] Production toward Renaissance and Industrial era naval units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
+			<Text>50% discount on all unit upgrades.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
+			<Text>Accumulate 25% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
+			<Text>Receive 50 [ICON_Gold] Gold per Appeal of tile when replacing a Farm with a Neighborhood district.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Builders, and newly trained Builders gain 2 extra build actions.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAJ_DESCRIPTION">
+			<Text>+2 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Faith] Faith, and [ICON_Gold] Gold from each city-state you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_DESCRIPTION">
+			<Text>Yields gained from pillaging are doubled for pillaging improvements.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>+100% [ICON_Science] Science from Campus district buildings.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
+			<Text>All religious units +5 [ICON_Religion] Religious Strength in theological combat.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
+			<Text>1 copy of a Strategic resource allows you to produce and purchase units requiring it in any city.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenity for cities with a garrisoned unit.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REVELATION_DESCRIPTION">
+			<Text>+2 [ICON_GreatProphet] Great Prophet points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SACK_DESCRIPTION">
+			<Text>Yields gained from pillaging are doubled for pillaging districts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
+			<Text>Triples [ICON_Tourism] Tourism from [ICON_GreatWork_Music] Great Works of Music.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
+			<Text>+100% Holy Site adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
+			<Text>Newly trained Builders gain 2 extra build actions.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Doubles [ICON_Faith] Faith yield from Holy Site district buildings.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
+			<Text>+15% [ICON_Production] Production toward Industrial era and later wonders.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
+			<Text>+100% Theater Square district adjacency bonuses, and Stadiums generate +1 [ICON_Amenities] Amenity.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
+			<Text>+50 [ICON_Production] Production toward Information era air units, and toward all Carriers.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
+			<Text>+2 [ICON_GreatGeneral] Great General points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SURVEY_DESCRIPTION">
+			<Text>Double experience for recon units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
+			<Text>+4 [ICON_GreatMusician] Great Musician points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Gold from each Research Lab, Military Academy, and Power Plant.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
+			<Text>Yields gained from pillaging are doubled.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
+			<Text>+100% Commercial Hub district adjacency bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Culture and +1 [ICON_Science] Science from international [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
+			<Text>+2 [ICON_GreatMerchant] Great Merchant points per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Gold and +1 [ICON_Faith] Faith from all [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production in all cities.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Encampment districts and buildings for that district.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength when fighting civilizations that follow other Religions.</Text>
+		</Row>
+		<!-- Preview Text -->
+		<Row Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
+			<Text>+4 Oligarchy bonus</Text>
+		</Row>
+		<!-- Temporary UI -->
+		<Row Tag="LOC_CIVIC_STARTED">
+			<Text>Progress started toward Civic: {1_CivicName}</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COMPLETE">
+			<Text>Civic complete: {1_CivicName}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

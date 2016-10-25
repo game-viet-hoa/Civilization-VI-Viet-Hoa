@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Base Menu-->
+		<Row Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
+			<Text>Replay Movie</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_MAIN_MENU">
+			<Text>Main Menu</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
+			<Text>Just One More Turn...</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
+			<Text>Next Player</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_VICTORY_INFO">
+			<Text>INFO</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING">
+			<Text>RANKING</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_REPLAY">
+			<Text>REPLAY</Text>
+		</Row>
+    <Row Tag="LOC_UI_ENDGAME_CHAT">
+      <Text>CHAT</Text>
+    </Row>
+    <Row Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+			<Text>{1_number}.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_POP_SCORE">
+			<Text>Score</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_LEADER_NAME">
+			<Text>Leader Name</Text>
+		</Row>
+
+		<!-- Rankings -->
+		<Row Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
+			<Text>You have achieved the level of {1_LeaderName}</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Augustus Caesar</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>I found Rome a city of bricks and left it a city of marble.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Hammurabi</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>When Marduk sent me to rule over men, to give the protection of right to the land, I did right and righteousness, and brought about the well-being of the oppressed.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Abraham Lincoln</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Always bear in mind that your own resolution to succeed is more important than any other.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Charlemagne</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Let my armies be the rocks and the trees, and the birds in the sky.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Nelson Mandela</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
+			<Text>It always seems impossible until it's done.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
+			<Text>Marcus Aurelius</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
+			<Text>Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
+			<Text>Joan of Arc</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
+			<Text>I am not afraid... I was born to do this.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
+			<Text>Charles de Gaulle</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
+			<Text>Faced with crisis, the man of character falls back on himself. He imposes his own stamp of action, takes responsibility for it, makes it his own.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
+			<Text>Simon Bolivar</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
+			<Text>Judgment comes from experience, and experience comes from bad judgment.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
+			<Text>Lech Walesa</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
+			<Text>He who puts out his hand to stop the wheel of history will have his fingers crushed.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>Ivan the Terrible</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>Withal, I concern myself greatly regarding the affairs of state, constant wars against hostile nations, and the welfare of my poor people.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
+			<Text>Henry VIII</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
+			<Text>My Lord, if it were not to satisfy the world, and my Realm, I would not do that I must do this day for none earthly thing.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
+			<Text>Herbert Hoover</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
+			<Text>Blessed are the young for they shall inherit the national debt.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
+			<Text>Louis XVI</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
+			<Text>Listeners never hear any good of themselves.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
+			<Text>Neville Chamberlain</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
+			<Text>In war, whichever side may call itself the victor, there are no winners, but all are losers.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
+			<Text>Andrew Jackson</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
+			<Text>There is no pleasure in having nothing to do; the fun is having lots to do and not doing it.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
+			<Text>Nero</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
+			<Text>So great an artist, I die!</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
+			<Text>Warren G. Harding</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
+			<Text>Somewhere there must be a book that tells all about it, where I could go to straighten it out in my mind. But I don't know where the book is, and maybe I couldn't read it if I found it.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
+			<Text>Ethelred the Unready</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
+			<Text>Yeah, just five minutes, all right?</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
+			<Text>Dan Quayle</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
+			<Text>If we don't succeed, we run the risk of failure.</Text>
+		</Row>
+
+		<!-- Replay -->
+		<Row Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
+			<Text>No Graph Data</Text>
+		</Row>
+
+		<!-- Graph Data Sets -->
+		<Row Tag="LOC_REPLAYDATASET_CULTURE_NAME">
+			<Text>Culture per-turn</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_CULTURE_DESC">
+			<Text>The amount of Culture acquired per turn.</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
+			<Text>Gold balance</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
+			<Text>The player's total Gold.</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+			<Text>Total cities founded</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
+			<Text>Total districts constructed</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
+			<Text>Total wonders constructed</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
+			<Text>Total buildings constructed</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
+			<Text>Total cities captured</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
+			<Text>Total cities lost</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
+			<Text>Total cities destroyed</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
+			<Text>Total wars declared</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
+			<Text>Total wars won</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
+			<Text>Total number of combats</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
+			<Text>Total units killed</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
+			<Text>Total units lost</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
+			<Text>Total religions founded</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
+			<Text>Total great people earned</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
+			<Text>Total wars against player</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
+			<Text>Total pantheons founded</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
+			<Text>Score per-turn</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
+			<Text>Science per-turn</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
+			<Text>Faith per-turn</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

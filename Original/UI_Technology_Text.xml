@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+			<Text>RESEARCH COMPLETE</Text>
+		</Row>
+		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+			<Text>Congratulations!  You've researched {1_TechnologyName}!</Text>
+		</Row>
+		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+			<Text>CIVIC COMPLETE</Text>
+		</Row>
+		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
+			<Text>With your people enthused to try {1_CivicName}, government and social policy changes are FREE this turn.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

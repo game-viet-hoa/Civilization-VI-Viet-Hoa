@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
+			<Text>Legend of the Five Suns</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
+			<Text>Spend Builder charges to complete 20% of the original district cost.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_NAME">
+			<Text>Gifts for the Tlatoani</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
+			<Text>Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities. Military units receive +1 [ICON_Strength] Combat Strength for each different Luxury resource improved in Aztec lands.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+			<Text>Eagle Warrior</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
+			<Text>Aztec unique Ancient era unit that replaces the Warrior.  Has a chance to capture other civilization's military units by turning them into Builders.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_NAME">
+			<Text>Tlachtli</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
+			<Text>A building unique to the Aztecs. Provides an [ICON_Amenities] Amenity, +2 [ICON_Faith] Faith, and a [ICON_GreatPerson] Great General Point.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

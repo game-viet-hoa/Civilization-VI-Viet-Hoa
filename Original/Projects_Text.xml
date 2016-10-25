@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Repair the damage to the outer defenses of this city. Only possible if this city has not been attacked for at least 3 turns.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Gold] Gold and [ICON_GreatGeneral] Great General points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Gold] Gold and [ICON_GreatAdmiral] Great Admiral points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Gold] Gold and [ICON_GreatEngineer] Great Engineer points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>District-based project which provides a large amount of [ICON_Gold] Gold and [ICON_GreatMerchant] Great Merchant points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Faith] Faith and [ICON_GreatProphet] Great Prophet points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Science] Science and [ICON_GreatScientist] Great Scientist points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Culture] Culture and a small amount of [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician points.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenity and [ICON_GreatPerson] Great Person Points for [ICON_GreatEngineer] Great Engineers, [ICON_GreatMerchant] Great Merchants, [ICON_GreatWriter] Great Writers, [ICON_GreatArtist] Great Artists, and [ICON_GreatMusician] Great Musicians.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Space Race project which launches a small satellite into orbit. Reveals the geography of any unexplored corner of the world, and marks the first step towards the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Space Race project which launches a large rocket to land a human on the moon. Grants a one time [ICON_Culture] Culture bonus equal to 10 times your [ICON_Science] Science per turn, and marks the second step towards the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Space Race project which launches a Reactor module into orbit for the Mars Colony mission. Launching all three modules wins the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Space Race project which launches a Habitation module into orbit for the Mars Colony mission. Launching all three modules wins the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Space Race project which launches a Hydroponics module into orbit for the Mars Colony mission. Launching all three modules wins the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Allows for the creation of Nuclear Devices.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Allows for the creation of Thermonuclear Devices.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Adds one Nuclear Device to your nation's inventory. Requires [ICON_Resource_Uranium] Uranium. Maintenance is 14 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Adds a Thermonuclear Device to your nation's inventory. Requires [ICON_Resource_Uranium] Uranium. Maintenance is 16 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>You've successfully launched a satellite into orbit! Reveals the geography of any unexplored corner of the world, and marks the first step towards the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>You successfully land a person on the moon! Grants a one time [ICON_Culture] Culture bonus equal to 10 times your [ICON_Science] Science per turn, and marks the second step towards the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>You successfully launch a Reactor module, a key component in your Mars Colony spacecraft. Launching all three modules into orbit completes the spacecraft, and wins the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>You successfully launch a Habitation module, a key component in your Mars Colony spacecraft. Launching all three modules into orbit completes the spacecraft, and wins the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>You successfully launch a Hydroponics module, a key component in your Mars Colony spacecraft. Launching all three modules into orbit completes the spacecraft, and wins the Science Victory.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

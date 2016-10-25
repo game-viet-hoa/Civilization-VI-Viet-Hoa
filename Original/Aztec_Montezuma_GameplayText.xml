@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
+			<Text>Tlatoani Montezuma, keep your eagle warriors happy and fed, and they will forever fight for your cause. As your Aztec empire unfurls across the land, you will never want for people to raise your walls, for you will be blessed with new, loyal workers as you conquer those around you. Go forth; Huitzilopochtli calls.</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_1">
+			<Text>Acamapichtli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_2">
+			<Text>Chimalli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_3">
+			<Text>Cuauhtemoc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_4">
+			<Text>Huitzilli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_5">
+			<Text>Itzcoatl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_6">
+			<Text>Nochehuatl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_7">
+			<Text>Tlaloc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_8">
+			<Text>Xiuhpilli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_9">
+			<Text>Yaotl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_10">
+			<Text>Zolin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
+			<Text>Centehua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
+			<Text>Chalchiuitl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
+			<Text>Chicomecoatl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
+			<Text>Chimalma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
+			<Text>Citlalli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
+			<Text>Cozamalotl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
+			<Text>Tlacotl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
+			<Text>Xilonen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
+			<Text>Xochitl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
+			<Text>Yaretzi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
+			<Text>Carlos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
+			<Text>Estévan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
+			<Text>Ignacio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
+			<Text>José</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
+			<Text>Montago</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
+			<Text>Niguel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
+			<Text>Richardo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
+			<Text>Teyo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
+			<Text>Tino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
+			<Text>Amorita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
+			<Text>Bellona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
+			<Text>Eldora</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
+			<Text>Luminosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
+			<Text>Orlena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
+			<Text>Perdita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
+			<Text>Pilar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
+			<Text>Senalda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
+			<Text>Zola</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TENOCHTITLAN">
+			<Text>Tenochtitlan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEXCOCO">
+			<Text>Texcoco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
+			<Text>Atzcapotzalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEOTIHUACAN">
+			<Text>Teotihuacán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TLACOPAN">
+			<Text>Tlacopán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XOCHICALCO">
+			<Text>Xochicalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALINALCO">
+			<Text>Malinalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEAYO">
+			<Text>Teayo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CEMPOALA">
+			<Text>Cempoala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHALCO">
+			<Text>Chalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IXTAPALUCA">
+			<Text>Ixtapaluca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TENAYUCA">
+			<Text>Tenayuca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUEXOTLA">
+			<Text>Huexotla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHAPULTEPEC">
+			<Text>Chapultepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEPEXPAN">
+			<Text>Tepexpan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZITLALTEPEC">
+			<Text>Zitlaltepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XALAPA">
+			<Text>Xalapa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAMUIN">
+			<Text>Tamuín</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELOLOAPAN">
+			<Text>Teloloapan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MITLA">
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TLATELOLCO">
+			<Text>Tlatelolco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COYOTEPEC">
+			<Text>Coyotepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZACATULA">
+			<Text>Zacatula</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YUCUNUDAHUI">
+			<Text>Yucuñudahui</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECATEPEC">
+			<Text>Ecatepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAZATAN">
+			<Text>Mazatán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IZTAPALAPA">
+			<Text>Iztapalapa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TLALMANALCO">
+			<Text>Tlalmanalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUAXYACAC">
+			<Text>Huaxyacac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ACATITLAN">
+			<Text>Acatitlan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
+			<Text>Aztec Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
+			<Text>Aztec</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_LOCATION">
+			<Text>North America</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_SIZE">
+			<Text>Est. 117.5 thousand square miles (304 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_POPULATION">
+			<Text>Est. 5.1 million at greatest extent</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_CAPITAL">
+			<Text>Tenochtitlan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
+			<Text>Aztec unique building: Tlachtli</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+			<Text>Aztec unique unit: Eagle Warrior</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
+			<Text>When Hernando Cortes and his band of ne’er-do-wells arrived, the Aztec Empire was still in its childhood, having come into existence (more-or-less) around 1428 AD. Although the Excan Tlahtoloyan (Aztec Empire) lasted only one hundred years, it was an eventful one hundred years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_2">
+			<Text>In the beginning... there were a number of small altepetl (city-states) scattered about the Valley of Mexico along the banks of the conjoined lakes Zumpango, Xaltocan, Texcoco, Xochimilco, and Chalco. The region had abundant rainfall and a temperate climate, and the land was fertile. So the Nahua (also known as the Mexihcati) peoples sought to settle there, having migrated south from Aztlan (the “White Land” – hence, “Aztecs”) sometime around 1250.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_3">
+			<Text>Unfortunately, several other tribes were already there, notably the Azcapotzalco and the Culhuacan. The mighty Azcapotzalco in 1325 gave the wandering Aztecs permission to settle on a small island in Lake Texcoco, where they founded their city Tenochtitlan; according to legend, the site was chosen because a priest man saw an eagle nesting in a nopal cactus - a sign that this was the chosen location. Yet Tenochtitlan was perfectly situated to grow – easily defended (being on an island), with plentiful water and fishing, and nearby sources of building materials. It seems the Aztecs were content to pay tribute to the Azcapotzalcos to be left alone … for the time being.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_4">
+			<Text>The Aztecs remained subject to the Azcapotzalcos for a century. Meanwhile another nearby altepetl was getting restless. The Alcohua city-state of Texcoco, situated at the southern end of the lake basin grew rich on trade, to the point where it challenged the Azcapotzalcos for dominance. In the ensuing war, Tenochtitlan remained true to the Azcapotzalcos and played a vital role in the conquest of Texcoco. As a result, the Aztecs were rewarded for their loyalty by receiving the defeated city as a tributary province.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_5">
+			<Text>Things were pleasant enough until the Azcapotzalco king Tezozomoc died suddenly in 1426. In the ensuing brief civil war, the Aztecs of Tenochtitlan supported the old king’s preferred heir, one Tayahuah – not the best choice as it turned out. His brother Maxtla won, and promptly set about punishing those who had backed Tayahuah. In the midst of this the Aztec king died under suspicious circumstances, likely assassinated on Maxtla’s orders. But the new king Itzcoatl remained defiant, and so Maxtla surrounded the city, blockaded the island, and demanded total surrender.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
+			<Text>Simultaneously, Maztla turned on the Alcohua in Texcoco, for whom he had no great love either. The Texcoco ruler Nezahualcoyotl fled into exile and made his way to join Itzcoatl. And the dissident Azcapotzalco city Tlacopan threw its support to Itzcoatl. Thus was formed the famed Triple Alliance: three city-states with a common goal, the overthrow of Maxtla, which was accomplished by the end of 1427. Having smashed the Azcapotzalco completely, the three kings agreed to live “in accord.” Their first act was to divvy up the lands of the defeated; somehow Tenochtitlan got the lion’s share. So pleased were they all by this success that the three cities formalized their alliance. Under its provisions, all tribute was to be divided, and all three would participate in future wars of conquest with all sharing the spoils. The kings each took the title huetlatoani (“elder speaker”) in rotation, in effect serving as emperor of the allied realm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
+			<Text>Over the next century, under a series of able elder speakers, the Aztec Alliance would thrive, mainly by stomping on its neighbors until it reached from the Atlantic to the Pacific across Mesoamerica. In fact, this “empire” existed in a near-constant state of war, either for social or perhaps religious necessity. In the Aztec Weltanschaung (to mix tongues), death was instrumental to the perpetuation of life, and in the natural order of things both gods and humans had to sacrifice to keep creation in balance. And blood – human, as animal blood didn’t seem to work – kept the sun from falling. Since the citizens weren’t keen on being the ones to bleed, it was natural to use the lesser folk – prisoners (hence the need for lots of combat), slaves, servants, and the poor. The scale of the sacrifices was staggering; at the dedication of the Templo Mayor (Great Pyramid) in Tenochtitlan in 1487 for instance, historians have estimated between 10 and 80 thousand were killed, usually by beheading.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
+			<Text>When the Aztecs weren’t celebrating with bloody rituals, they developed a culture and science unmatched in the Americas. For instance, the sophisticated Aztec calendar was the equal to any evolved in Europe or Asia. The tonalpohualli (“day count”) consisted of a 260-day cycle, each day signified by a number one through thirteen and one of 20 day signs; the xiuhpohualli or “year count” divided the year in 18 periods of 20 days each. Thus, a year consisted of 360 named days and five unnamed ones; these unnamed days were thought unlucky (certainly for those who got sacrificed on them to counter the bad karma). It is thought that this calendar arose from their intense study of the heavens, for they developed astronomy to an art form. And the Aztecs wrote it all down on amate, a bark paper, in their distinctive ideographic system.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
+			<Text>When Itzcoatl passed away in 1440, he was replaced by his nephew Montezuma (the first, not to be confused with the less-able second). Montezuma’s older half-brother, Tlacaelel, was made Cihuacoatl, roughly the equivalent of a European prime minister. The two then proceeded to make Tenochtitlan the dominant partner in the alliance, in effect formalizing an Aztec Empire. Montezuma handled the conquering part – overrunning the Huastecs, the Totonacs, the Mixtecs, the Cosamaloapans, the Orizabas and the Cotaxtlas. Tlacaelel handled reshaping the Aztec civilization to his own vision.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
+			<Text>While Montezuma was busy waging war, Tlacaelel literally rewrote the Aztec past and future, according to some sources ordering the burning of hundreds of texts because of “historical inaccuracies.” Under Tlacaelel, the revamped Aztec religion held that the Aztecs were a chosen people, destined to be above all others. Tlacaelel also emphasized the importance of militarism and ritual sacrifice in the “new” Aztec theology. And he oversaw the construction of a host of temples and religious buildings, including the Templo Mayor in Tenochtitlan, consecrated (with a lot of sacrifices) to the newly paramount deity Huitzilopochtli.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
+			<Text>The Aztecs thrived under the brothers for three decades. With Montezuma, the empire spanned a hundred thousand square miles, and about five million subjects were subject to its rule. With Tlacaelel, the subject tribes were largely left to their own devices, so long as the requisite tribute (which included sacrificial donations of course) and military forces were supplied on demand. Tenochtitlan became the center of a great trading network, and Aztec merchants happily did business with allies and enemies alike. Lacking any currency, trade was based upon barter. Possessing no draft animals or wheeled conveyances, Tlacaelel oversaw the construction of an extensive road system designed for foot traffic, since everything had to be carried from one place to another by humans. The roads were in constant use, guarded by the Aztec military, making them safe enough for even women to travel alone. He also had government-funded telpochcalli (schools) built in every neighborhood where boys received religious instruction and military training.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
+			<Text>Montezuma I passed away in 1468 AD and was succeeded by his son Axayacatl, who spent his 13 years consolidating his father’s conquests, putting down various rebellions and fending off the uppity Tarascan Empire. (Tlacaelel died in 1487, much to the relief of many, no doubt.) When Axayacatl died, he was replaced by his brother, the monumentally incompetent Tizoc, who was assassinated by his nobles after just five years. He was followed by another brother – Ahuitzotl – in 1486, who proved better; he conquered the city-state of Otzoma, whose population disappeared (either killed or sacrificed en masse), and began building a line of fortresses along several contested borderlands. Ahuitzotl died in the Year 10 Rabbit (to make use of the convoluted Aztec calendar). His nephew, Montezuma II, was elevated to the throne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
+			<Text>The new Montezuma’s reign started out inauspiciously … and then went downhill. He removed the more competent of Ahuitzotl’s advisors, having most of them executed. He then abolished the quauhpilli class – a sort of semi-noble stage – in Aztec society, destroying any chance for commoners to advance their family. The unwashed masses thus had no incentive to serve the empire militarily or in any other manner. Having angered the most powerful noble families and alienated the commoners, Montezuma was, needless-to-say, ill-prepared to meet the challenge of greedy Spaniards, who showed up on the Aztec doorstep in February 1519.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
+			<Text>Earlier that year, an expedition under the command of Hernando Cortes – consisting of some 11 ships, 630 men, 13 horses and a few small cannon – landed in the Yucatan, part of the Mayan Empire. In point of fact, the charter for Cortes’ expedition had been revoked by the Spanish governor of Cuba before his departure from port, but Cortes ignored his orders in an act of open mutiny and sailed anyway (guess fortune really does “favor the fool-hearty”). After a few adventures, the conquistadors ended up sailing to and seizing the small native settlement at Veracruz, where they met a couple of Aztec governors of tributary states. These two agreed to set up a meet between Cortes and Montezuma II.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
+			<Text>Montezuma stubbornly refused to accept the Spanish “envoy” however, so Cortes set out for Tenochtitlan uninvited. Like most unwelcome guests, the Spanish left chaos in their wake. Marching towards the capital with a host of native warriors – looking for adventure, loot or revenge – joining his troupe, Cortes arrived in the large city of Cholula. There his merry band massacred thousands of unarmed members of the local Aztec nobility gathered in the square before the Great Pyramid there (the largest pyramid by volume in the world). Then for good measure, the Spaniards burned the city. So impressed by all the bloodshed were the downtrodden Aztec vassals that more joined the expedition. By the time Cortes reached Tenochtitlan, he had quite a following.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
+			<Text>Bowing to the inevitable, Montezuma II welcomed the Spaniards into the city peacefully to meet and talk. Whereupon Cortes made him prisoner. To make a long story short, eventually the Aztecs stoned Montezuma to death and drove the Spanish out of their capital. But Cortes returned with reinforcements, laying siege to Tenochtitlan. What with all the firearms and cannon and horses (which the Aztecs were most impressed by), the city soon fell and was razed … and in August 1521 Cuauhtémoc, the last ruler of the Aztecs, was captured and later executed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
+			<Text>The bloody Aztec overlords were gone, and the empire shattered into separate city-states again, now under Spanish suzerainty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
+			<Text>Montezuma I</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
+			<Text>Huetlatoani of Tenochtitlan, Fifth Tlatoani of the Aztecs</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
+			<Text>The sun is not hot when it has risen; after it has been travelling its course a while, then it becomes hot.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
+			<Text>Motecuhzoma Ilhuicamina (a mouthful in any language) was the fifth tlatoani (“emperor elect”) of the Aztecs. During his 29-year reign, he made his city of Tenochtitlan the dominant power in the region, through maintaining the favorable alliance with nearby Tlacopan and Texcoco. Together, the three would proceed to beat up on all their neighbors – in no particular order: the Huastecs, the Totonacs, the Mixtecs, the Cosamaloapans, the Orizabas and the Cotaxtlas. By the terms of the triple alliance, Tenochtitlan received 40% or so of the conquered lands; by the end of Montezuma’s life, the Aztec empire had expanded well beyond the Valley of Mexico all the way to the Gulf Coast.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
+			<Text>Montezuma (whose name means, somewhat, “he frowns like a lord”) came from good stock. His father Huitzilihuitl was the king of Tenochtitlan, and his mother Miahuaxihuitl was the daughter of the ruler of the city of Cuauhnahuac. He was one of four brothers, including his elder Tlacaelel I. Following his father’s death in 1417 AD, Montezuma’s uncle Itzcoatl was elected tlatoani; Tlacaelel I was made one of Itzcoatl’s advisors – in fact, Nahuati, or “First Advisor” – while Montezuma served as a general in the Aztec army.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
+			<Text>Following Itzcoatl's death in 1440, Montezuma was elected emperor. Tlacaelel I did not seem at all unhappy about being bypassed (perhaps he thought he'd live longer if he didn’t wear the crown), and by all accounts he served his brother faithfully. Besides, Tlacaelel I was too busy with religious affairs. Among other things, he recast the legends of the Aztecs as a chosen people, elevated the minor deity Huitzilopochtli (god of war and the sun, and soon enough patron of Tenochtitlan), and coupled militarism to faith. Oh yeah, and he increased the scope and frequency of human sacrifice to the gods – especially during times of troubles (which seemed to be most of the time).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
+			<Text>Montezuma, meanwhile, was living relatively modestly, despite being an emperor. He lived, according to the Codex Mendoza created just 14 years after the Spanish Conquest of the Aztecs, in a “simple” palace with “just a few wives.” In fact, it is recorded that he eventually had ten harems, three inherited from his brother Huehue Zaca. His first wife, at least in rank and prestige, was the comely Chichimecacihuatzin, his cousin and mother of perhaps three of his children, including two princes, although things are a bit hazy as to who bore which Montezuma offspring. When not engaged in religious duties or procreation or affairs of state, he supposedly enjoyed lengthy conversations with his friends and advisors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
+			<Text>Much of this talk seems to have been centered on how to improve the Aztec city and newly-conquered lands. One of these, the construction of a double aqueduct to supply Tenochtitlan with plentiful fresh water, is considered the greatest engineering feat of the Aztec Empire. Of course as the sprawling city grew, it also required ever greater amounts of food to sustain its hungry population. Since Central America lacked domestic draft animals, every morsel had to be transported to the city on somebody's back (the burden of their many slaves – those not ritually sacrificed, that is). Montezuma’s government employed state inspectors to ensure that every scrap of arable land within walking distance was cultivated efficiently. And the emperor ordered the construction of dikes to alleviate flooding and to reclaim even more farmland from marshland.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
+			<Text>At the urging of his brother Tlacaelel I, Montezuma instituted sumptuary laws – traditionally regulations meant to limit extravagance in consumption of goods, particularly luxuries – which codified and reinforced the already-stratified Aztec class system. An Aztec’s station in life determined what he or she could wear and how he or she could speak. For instance, under Montezuma’s new laws the poor were not allowed to wear cotton cloth, sandals or any clothing that extended below the knee. Only the nobility could live in homes of greater than one story. Crimes were punished by slavery or by being sacrificed, so adherence was nigh universal. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
+			<Text>Montezuma and his pious elder brother set about building a lot of temples about the countryside, including a new temple to Huitzilopochtli. The temple of Huitzilopochtli was “consecrated” in 1455 AD with the sacrifice of hundreds of Huaxtec prisoners of war (it has been argued by some historians that the need for prisoners to sacrifice became one of the major threads in Aztec foreign policy). Tlacaele also got busy rewriting Aztec religious tracts, ordering the destruction of previous ones that disagreed with his own interpretations of history and faith.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
+			<Text>But Montezuma’s growing empire is known primarily for its near constant, and successful, state of war. Some historians theorize that he conquered nearby tribes for tribute, hoping to ensure a continuous food supply for Tenochtitlan which, despite his best efforts, continued to suffer from periodic famine. Another, more pessimistic, theory is that the empire conducted frequent wars so as to feed its bloody state-religion’s chronic need for someone to sacrifice on the abundance of alters. Yet another theory is that Montezuma was at war a lot because that’s just what Aztecs did … conquer stuff. As with much of history, no one really knows why things happened.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
+			<Text>Montezuma I died in 1469 AD, the unknown cause buried under the detritus of history. He was succeeded by his 19-year-old son Axayacatl, later father to the unfortunate Montezuma II who managed to lose everything to Cortes and a bunch of rag-tag conquistadors in just two years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
+			<Text>Montezuma is an aggressive expansionist who pushes out his empire in order to collect all the Luxuries he can.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
+			<Text>The Aztecs will be a warmonger throughout the game, but they should have plenty of [ICON_Amenities] Amenities to handle any war weariness that develops. Their initial push will be to defeat enemies with their Eagle Warriors, allowing those enemy units to morph into Aztec Builders. These Builders then serve as fuel for a rapid expansion of Aztec cities, utilizing their unique ability to use Builder charges on district construction. Ultimately they want as wide an empire as possible since any extra Luxuries they can capture will increase their [ICON_Amenities] Amenities further and provide stronger attack boosts.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
+			<Text>One of the two elite class of infantry (the other being the Jaguar Warriors) in the Aztec army, the Eagle Warriors were the bravest young men of noble birth and/or those who had taken the most prisoners in battle. Like the Jaguars, the Eagles used the atlatl, bow, spear and macuahuitl (wooden swords set with obsidian shards); unlike the Jaguars, the Eagles decorated their armor with eagle feathers and wore a headdress shaped like the head of an eagle with the beak wide open. And they had a hilltop temple in Malinalco. Upon taking 20 prisoners – intact enough to serve as human sacrifice – a young warrior was eligible to become an Eagle Warrior, no doubt making his family very proud. Until the Spanish arrived with their cannons, muskets, and horses, the Eagle and Jaguar warriors were the toughest bullies on the Mesoamerican block.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>You are no friend to the Aztecatl. You must earn this honor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
+			<Text>Montezuma sees your luxuries that he does not have as a ripe target for attack</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
+			<Text>Montezuma is happy you have controlled the same luxuries that he has</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>My heart turns white with your offer. Let us celebrate our friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Let us be joined in friendship against the evils of this world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>You test my patience…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Your soldiers will die on the battlefield or upon an altar. It makes no difference to Huitzilopochtli.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Now we will see if you are cowards or warriors!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli forgive our weakness… my weakness. I was not strong enough to serve you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>We will house your delegation in a place of honor. Your gifts are a kind tribute.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Not today.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Gifts of maize and chocolate are brought to you by my delegation. We offer them to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Those who are afraid speak loudest. You fear us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>You are a poison to this world. You are evil! (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
+			<Text>I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
+			<Text>It is an honor to meet you. I invite you to our nearby city, you could test your skill at Ollamaliztli.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MONTEZUMA_ANY">
+			<Text>It is settled.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
+			<Text>Tenochtitlan is closest to Huitzilopochtli; now, tell me of your capital!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
+			<Text>What do you want???</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
+			<Text>We have more in common, than not. You follow Tlacaelel’s words.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
+			<Text>(You have no Luxuries he wants)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
+			<Text>You have much that I do not!  Do you want to see your people taken as slaves?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
+			<Text>(You have a Luxury he wants.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
+			<Text>This war has greatly pleased the gods. Let us now celebrate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
+			<Text>I do not accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Come, let us return to our homes and gather our strength for the next conflict.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>We have nothing to fear from your military. You may pass.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>You may not pass through the Empire of Huitzilopochtli. It is closed to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Let us pass through your lands! Huitzilopochtli commands it!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
+			<Text>You cannot surprise the Empire. We see your attack. We will strike first if you do not move them away.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
+			<Text>For over 2700 years the Mesoamericans played their traditional “ballgame” – Ollamaliztli in Nahuatl – in (not surprisingly) “ball courts.” Somewhat similar in play to team racquetball, these “sporting events” had significant ritual overtones, given that the losers (and sometimes the winners) were often sacrificed after the game, usually by decapitation. Explicit depictions of human sacrifice after a game can be found in many Mayan ball courts such as those at El Tajin and at Chichen Itza. Although the sport had somewhat different rules in different places and different times, it spread throughout Mesoamerica, as far south as Nicaragua and north as Arizona. Built in a pattern that changed little over two-and-a-half millennia, the ball courts were stone constructs of a long, narrow playing field between high sloped walls with open-ended (later enclosed) wider goal areas. Painted and decorated, these stadiums were the epitome of the Mesoamerican civilization … until the Spanish showed up and introduced the natives to other games.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

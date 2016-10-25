@@ -1,0 +1,1768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TUTORIAL_MAP_NAME">
+			<Text>Tutorial Map</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_MAP_DESCRIPTION">
+			<Text>Map used exclusively for the tutorial.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
+			<Text>Dawn of Civilization</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_DESCRIPTION">
+			<Text>Prerequisite knowledge for the dawn of civilization</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_QUOTE_1">
+			<Text>In the beginning, the earth was without form. And void. And then the sun shone upon the sleeping earth. Into this swirling maelstrom of fire air and water, the first stirrings of life appeared.</Text>
+		</Row>
+		<!---->
+		<!-- BUTTON TEXT -->
+		<!---->
+		<Row Tag="LOC_ADVISOR_BUTTON_OK">
+			<Text>OK</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_SHOW_ME">
+			<Text>Show me how</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_DISMISS">
+			<Text>You are dismissed</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_ASSISTANCE_APPRECIATED">
+			<Text>Your assistance is appreciated</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_CONTINUE">
+			<Text>Continue</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_GET_STARTED">
+			<Text>Let's get started</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_AGREED">
+			<Text>Agreed</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_VERY_GOOD">
+			<Text>Very good</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_TELL_ME_MORE">
+			<Text>Tell me more</Text>
+		</Row>
+		<!---->
+		<!-- ADVISOR TEXT -->
+		<!---->
+		<Row Tag="LOC_ADVISOR_HEAD">
+			<Text>ADVISOR</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_INTRO">
+			<Text>As your advisor I am qualified to assist you in all matters related to ruling our civilization.[NEWLINE]If you do not require my service, you can dismiss me to attend to other matters.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_1">
+			<Text>Greetings My Liege! As your personal advisor I am qualified to assist you in all matters related to ruling our civilization. I am at your service.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_2">
+			<Text>All great civilizations begin with a great city, and our Settlers have found an ideal location. Order them to found a new city here.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_3">
+			<Text>Well done! You have founded your first city. From these roots your civilization will grow to stand the test of time. Now you must nurture and protect what you have created.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_4">
+			<Text>Security is of great importance. There are barbaric tribes near us who want nothing more than to pillage and plunder what is ours.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_5">
+			<Text>Direct the production efforts of this city to train Warriors to deal with this impending threat.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_6">
+			<Text>Training has begun, but it will be some time before our new Warriors are ready. There are no further matters to attend to right now.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_7">
+			<Text>Your city is busy training Warriors for its defense, but a great civilization cannot thrive on military might alone. We have people talented in the ways of science and discovery. You should employ them in researching new technologies which will advance our civilization.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_8">
+			<Text>Wise decision, Your Majesty. This technology will let us better extract the riches from the earth and increase [ICON_Production] Production in our cities. I will let you know when we have finished our research.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_9">
+			<Text>Your Majesty, hostile Barbarians have been seen near our [ICON_Capital] Capital. If left alone they are sure to attack our people and pillage our lands. Your newly trained Warriors await your orders to attack!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_10">
+			<Text>Our Warriors were victorious! They fought well to defend our people against this threat. However, the Barbarians are still envious of our civilization. We should be prepared in case they return in greater force.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_11">
+			<Text>There are other matters, Your Excellency.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_12">
+			<Text>Since Warrior training is complete, it is time to assign a new production task to the city.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_13">
+			<Text>The lands surrounding our city could be bountiful if we develop them. We should train Builders to create improvements to the lands within our borders.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_14">
+			<Text>There are mysteries that await us outside our borders in the uncharted lands beyond. The only way to find out is to explore.</Text>
+		</Row>
+		<Row Tag="LOC_META_14_BODY">
+			<Text>At the beginning of the game, your city and the lands immediately around it are revealed, but the areas beyond, represented by blank parchment, indicate parts of the world you have not yet explored.</Text>
+		</Row>
+		<Row Tag="LOC_META_16_BODY">
+			<Text>Warrior units have a [ICON_Movement] Movement range of 2.[NEWLINE][NEWLINE]The blue colored indicator shown on the lands around the unit displays the furthest the selected unit can move in a single turn.</Text>
+		</Row>
+		<Row Tag="LOC_META_17_BODY">
+			<Text>Open terrain, like Plains and Grassland, only consume 1 [ICON_Movement] Movement point, whereas more difficult terrain, like Woods and Hills, will consume 2 or more [ICON_Movement] Movement points. Move the Warrior unit to the highlighted location by right clicking.</Text>
+		</Row>
+		<Row Tag="LOC_META_17b_HEAD">
+			<Text>MOVE WARRIOR</Text>
+		</Row>
+		<Row Tag="LOC_META_17b_BODY">
+			<Text>RIGHT-CLICK the highlighted location to move your Warrior.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_15">
+			<Text>Your Majesty, our Warriors have discovered a small Tribal Village whose inhabitants are welcoming and friendly. Shall we investigate it and send the Warriors to speak with them?</Text>
+		</Row>
+		<Row Tag="LOC_META_18_BODY">
+			<Text>Exploring Tribal Villages can give your civilization one of many instant benefits, like granting an additional [ICON_Citizen] Population in your city, or awarding [ICON_Gold] Gold. It is a good strategy to explore as many Tribal Villages as possible.</Text>
+		</Row>
+		<Row Tag="LOC_META_20_HEAD">
+			<Text>MOVE WARRIOR</Text>
+		</Row>
+		<Row Tag="LOC_META_20_BODY">
+			<Text>To explore a Tribal Village, move one of your units into the Tribal Village hex. Try moving your Warrior unit there now.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_16">
+			<Text>It appears that the Tribal Villagers are also harassed by the Barbarians. They are impressed by our culture, and have decided to join us in the fight!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_17">
+			<Text>Good news indeed! They are skillful Scouts and wily travellers. They can move faster than our Warriors, making them ideal for exploring the surrounding lands, but they are not as strong in combat. They eagerly await your orders.</Text>
+		</Row>
+		<Row Tag="LOC_META_21_BODY">
+			<Text>Notice that the Scout unit has a [ICON_Movement] Movement of 3, allowing it to move a greater distance than other units. Move the Scout unit toward an undiscovered part of the map.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_18">
+			<Text>Scouts are excellent at exploring, but they are not as strong in combat as our Warriors. It is better to have them focus on exploration and survival rather than fighting our enemies.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_19">
+			<Text>A team of Builders has finished their training in our city. They are ready to work on improving the surrounding lands. There are ideal locations for the growing of [ICON_Food] Food to support our populace. Constructing a Farm there would increase our yield from those lands.</Text>
+		</Row>
+		<Row Tag="LOC_META_22_BODY">
+			<Text>Builders can construct a wide variety of improvements to your land. The type of improvement they can build on a plot is often determined by the type of terrain. Plains and Grassland plots are ideal for Farms, which help increase [ICON_Citizen] Population.</Text>
+		</Row>
+		<Row Tag="LOC_META_23_HEAD">
+			<Text>MOVE BUILDER</Text>
+		</Row>
+		<Row Tag="LOC_META_23_BODY">
+			<Text>Move your Builder to the highlighted Plains area next to your city.</Text>
+		</Row>
+		<Row Tag="LOC_META_24_HEAD">
+			<Text>CONSTRUCT FARM</Text>
+		</Row>
+		<Row Tag="LOC_META_24_BODY">
+			<Text>Construct a Farm improvement here by clicking on the "Build Improvement: Farm" button next to the Unit Panel.</Text>
+		</Row>
+		<Row Tag="LOC_META_25_BODY">
+			<Text>Constructing a Farm here has increased the [ICON_Food] Food yield from this plot from 1 [ICON_Food] Food per turn to 2. The amount of [ICON_Food] Food generated by your city determines how fast the Population of that city grows, granting you new [ICON_Citizen] Citizens to work more tiles. More [ICON_Food] Food means faster growth.</Text>
+		</Row>
+		<Row Tag="LOC_META_26_BODY">
+			<Text>Builders can build up to 3 improvements before exhausting their workforce. This number is indicated in the Unit Panel. This Builder unit has consumed one of its workforce from building the Farm and now has 2 remaining.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_20">
+			<Text>Your Majesty, it is once again time to choose where to direct the production efforts of our city. Your leadership is without equal and our civilization continues to thrive. Shall we construct a Monument to honor our civilization's growing greatness?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_SELECT_END_TURN">
+			<Text>There are no more pressing issues at this time. Shall we continue with our duties?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_2">
+			<Text>Our explorers on the frontier have discovered a Barbarian camp. This is the source of the Barbarians threatening our region. We must destroy this stronghold, or they will continue to plague us.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_3">
+			<Text>I would advise you to use caution. The Barbarian camp is heavily defended by their best troops and will be hard to take. We should send an assault force of multiple military units to ensure victory.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_BARBARIAN_CAMP_DISCOVERED_C">
+			<Text>In developing your military, it is always a good strategy to diversify. Not all units are created equal, some are better against others, and have abilities that separate them from the rest.</Text>
+		</Row>
+		<Row Tag="LOC_META_124_BODY">
+			<Text>In developing your military, it is always a good strategy to diversify. Not all units are created equal, some are better against others, and have abilities that separate them from the rest.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_7">
+			<Text>Our explorers have spotted another friendly Tribal Village. I suggest we send our Scouts to investigate it.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_8">
+			<Text>A good city can become a great city through careful planning. Deciding where to place a city district is an important decision. Be sure to pick a location best suited to reap the most benefit.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_4">
+			<Text>Your Excellency, I am happy to announce that because of our city's prosperity, our [ICON_Citizen] Population has grown!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_B">
+			<Text>The [ICON_Citizen] Population of your first city has grown from 1 to 2. As long as a city is well fed and its people are happy, it will continue to grow. The [ICON_Citizen] Citizens of the city work the surrounding plots and improvements contributing to greater yields. Higher [ICON_Citizen] Populations contribute to faster [ICON_Science] Science research, faster city [ICON_Production] Production, and faster [ICON_Culture] Cultural growth.</Text>
+		</Row>
+		<Row Tag="LOC_META_125_BODY">
+			<Text>The [ICON_Citizen] Population of your first city has grown from 1 to 2. As long as a city is well fed and its people are happy, it will continue to grow. The [ICON_Citizen] Citizens of the city work the surrounding plots and improvements contributing to greater yields. Higher [ICON_Citizen] Populations contribute to faster [ICON_Science] Science research, faster city [ICON_Production] Production, and faster [ICON_Culture] Cultural growth.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_C">
+			<Text>It is always a good strategy to not only found new cities to expand your realm, but also to grow those cities.</Text>
+		</Row>
+		<Row Tag="LOC_META_126_BODY">
+			<Text>It is always a good strategy to not only found new cities to expand your realm, but also to grow those cities.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
+			<Text>In Civilization VI, you can get Eureka Moments that boost your technology research through in game achievements. This Eureka Moment was gained by discovering a natural wonder. Other achievements could be winning a battle with a specific unit or constructing a building. Achieving these greatly accelerates your technological progress.</Text>
+		</Row>
+		
+		
+		<!-- Listener lines -->
+		<Row Tag="ADVISOR_LINE_LISTENER_1">
+			<Text>Through exploration we have discovered a natural wonder of the world. There is no doubt that it could provide a great benefit to the one who settles the lands surrounding it.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_2">
+			<Text>Reconnaissance units like Scouts are unique in that they can gain experience by exploring and discovering parts of the world.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_3">
+			<Text>The workforce of our Builder unit has been expended. We will need to train more Builders to continue building improvements on the lands surrounding our cities.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_4">
+			<Text>Enacting new policies in our government can be of great benefit. Our people await your decree.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_5">
+			<Text>The opportunity has arrived for a change into a new and more powerful system of government. Let us strengthen our identity and enact more policies to govern our people.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_6">
+			<Text>We have the opportunity to develop a formal Trade Route between two cities. A Trader unit is required to establish such a route, which would be very beneficial for our economy.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_7">
+			<Text>In addition to bringing riches to our civilization, this Trade Route will gradually develop Roads between our cities. Roads allow our units to no longer be impaired by the difficult terrain through which they pass.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_9">
+			<Text>This military unit has proven themselves. From the experience they have gained in combat they are eligible to be granted a promotion. How will you award these brave souls?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_10">
+			<Text>The combat achievements of this unit have become legendary, and worthy of a name unique to them. With what title shall we honor them?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_11">
+			<Text>The health of this unit is very low and in danger of being lost. Allowing a unit to take a break from combat and rest will allow it to heal over time.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_12">
+			<Text>It is best to use caution when moving close to enemy units. Doing so will often force the unit to be in the enemy's 'zone of control', restricting its movement.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_13">
+			<Text>My liege, our city would do well with some farms or other improvements. I suggest we train a Builder soon.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_14">
+			<Text>Our Builders have been idle. Perhaps we should direct their efforts to improving the lands around our city.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_15">
+			<Text>Our capital flourishes! But I think it is time that we begin establishing roots elsewhere. Perhaps we should train a Settler.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_16">
+			<Text>My liege, we have an Envoy at our disposal. We can use the Envoy to gain favor with a city-state. Becoming friendly with a city-state neighbor can be greatly beneficial to our civilization.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_17">
+			<Text>Our City-State neighbors have made a request of us. If we can impress them, I think they will reward us handsomely.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_18">
+			<Text>I'm afraid I must report that we are bankrupt. It is imperative that we do whatever we can to ease ourselves of this debt. May I suggest we disband some of our military?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_19">
+			<Text>Your grace, I must warn you that some of the improved lands around our city have been pillaged. We should find those responsible and ensure no more damage can be done.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_20">
+			<Text>We have recently gained advanced knowledge in city planning. Creating districts in our cities can be much more powerful and lucrative than simple improvements like Farms and Mines.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_21">
+			<Text>Our military has learned the way of combining two military units into larger scale Corps. These Corps units are much more powerful than their singular counterparts.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_22">
+			<Text>Our military now is trained in the way of combining three military units into a single Army, much larger and more powerful than a Corps unit.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_23">
+			<Text>Your Grace, we have obtained greater knowledge in the art of building static fortifications. Building Walls around our cities will not only make them stronger against a foreign invader, but will also allow them to bombard nearby enemies.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_24">
+			<Text>Your grace! The enemy is at our gates, and this city is surrounded and under seige. Supplies and food cannot get through, and our city cannot heal its wounds. It is paramount that we break this encirclement.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_25">
+			<Text>An enemy is in range of our city. Order the city garrison to conduct a ranged attack against the invaders.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_26">
+			<Text>It is important to keep a close eye on our neighbors, and our people may be able to help. Listen carefully, for they are sometimes privy to more information than we are.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_27">
+			<Text>My liege, we are beginning to attract the attention of the Great People of the world. Of course, there are other leaders vying for their attention, too.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_28">
+			<Text>The more specialized districts we construct, the more we will draw in specialized Great People to share their talents with our civilization. I advise that we continue to build these.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_29">
+			<Text>A famous artist is inspired by our civilization, and has come to our lands to create great works of art. I suggest we find somewhere to house these masterpieces immediately.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_30">
+			<Text>This writer has been inspired by our civilization, and comes to our lands to create great works of writing. I suggest we find somewhere to house these masterpieces immediately.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_31">
+			<Text>Our populace has attracted a Great Prophet to our lands! Send this most holy person to our Holy Site and rejoice, for the time has come to found a religion for ourselves.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_32">
+			<Text>This musician is inspired by our civilization, and has come to our land to create great musical works. I suggest we find somewhere to house these masterpieces immediately.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_33">
+			<Text>Our civilization's attention to the naval arm of our military has given rise to a Great Admiral among our ranks. When deployed wisely among our ships we are sure to have a distinct advantage in battle.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_34">
+			<Text>Our civilization's dedication to military affairs has given rise to a Great General among our troops. When used wisely in the field, generals can change the tide of battle in our favor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_35">
+			<Text>A great merchant has come to our civilization! Each one has a unique talent which will help our economy flourish.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_36">
+			<Text>Our dedication to the ways of science has attracted a great scientist to our civilization! I am certain we will be able to use them to benefit future scientific developments.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_37">
+			<Text>Constructing wonders of the world not only is a remarkable display of our empire's greatness, they have other benefits as well. Remember, other civilizations may also be competing in this endeavor, and there can only be one of each type in the world.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_38">
+			<Text>Just as our citizens have faith in your leadership, so they are beginning to have faith in a higher power. I think it is wise to cultivate this new way of thinking - perhaps there is some benefit to be gained.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_39">
+			<Text>The number of faithful has grown, and it is time for us to define our beliefs. Let us choose a pantheon to worship.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_40">
+			<Text>My liege, we have the ability to train religious missionaries to begin spreading our great religion to foreign lands.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_41">
+			<Text>Your majesty, I believe that we may benefit from recruiting an apostle to spread our religion. These holy people are quite powerful in the ways of conversion.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_42">
+			<Text>All other religions in the world are a threat to our faith. We can recruit Inquisitors to purge the heretics from our cities.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_43">
+			<Text>Your Excellency, I feel it is time to build some Neighborhoods for our growing populous. We should build these on our most beautiful lands - near natural wonders, or perhaps by the Coast.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_44">
+			<Text>My liege, all of our military has been destroyed and we are completely defenseless. Training military units is of utmost importance if we are to survive.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_45">
+			<Text>Our explorers have spotted another friendly Tribal Village. I suggest we send a Scout to investigate.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_46">
+			<Text>Your Majesty, keep your allies close and your enemies closer. We are now able to recruit a Spy who could help us better understand what it is that our neighbors do… On a more covert level.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_50">
+			<Text>Some resources, like this one, can be harvested. This will remove the resource in exchange for an immediate gain.  But once it is removed, it will not come back.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_51">
+			<Text>We have discovered a City-State! Establishing diplomatic relations with them will surely be beneficial for our empire. Perhaps we should send them an envoy…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_52">
+			<Text>There are several different types of City-States, and each may provide different benefits in return for our friendship. Our government, over time, will allow us to earn envoys to grow these relationships.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_53">
+			<Text>We have trained our first ranged unit, capable of hitting enemies from afar, while out of the range of hand-to-hand combat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_54">
+			<Text>A siege unit! This will surely be useful if we choose to engage in a city attack.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_55">
+			<Text>We are now skilled in the construction of walls to protect our cities. In addition to providing protection from invaders, they are also excellent vantage points to bombard enemies with ranged attacks.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_56">
+			<Text>The enemy has surrounded the city and we are under siege. We must break this blockade or we will not be able to reinforce the garrison and repair our defenses.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_57">
+			<Text>My liege, this city has great defenses. With enough force, and the right military, I think we can take it.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_58">
+			<Text>Your majesty, there are times when peace is not the better option. I think we now have good reason to show our military might, but it is a careful decision that you must make alone.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_59">
+			<Text>It is a difficult world to face alone, but if I may, I do believe that one of our neighbors has proven worthy. Shall we extend the hand of friendship to them?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_60">
+			<Text>Your excellency, I feel it is time that we send a diplomatic delegation to those around us. This will allow us to sow the seeds of friendship, and perhaps give us a better insight as to what these other people may be doing.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_61">
+			<Text>I have good news! If we wish it, I think we may have an ally amongst our neighbors. This could come in handy if we ever find ourselves in need of help.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_62">
+			<Text>Do not distress, my liege. There are those out there who cannot be pleased, no matter what. It is important to remember what you stand for, and if the time comes… to fight for it.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_63">
+			<Text>My liege, I must warn you that denouncing other civilizations will have long and lasting consequences. It is important to think carefully on these matters.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_64">
+			<Text>Though it appears as if we may have offended someone, do not fret. There will always be other leaders with different ideas than our own.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_65">
+			<Text>It seems that our choices have won favor with one of our neighbors. But everyone has their own agenda, and I am sure that someone else may be watching us warily.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_66">
+			<Text>Your grace, If I may, I think it is time that we begin exploring what is beyond our shores. It may be that our land units would be fit for this opportunity.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_67">
+			<Text>It isn't just our lands that can be improved, but our waterways as well. I suggest we search for opportunities to exploit the resources along the shores.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_68">
+			<Text>I think we may have an opportunity to convince the followers of another religion of the error of their ways. Shall we seize this opportunity?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_69">
+			<Text>Foreign proselytizers have been seeking audience with our citizens. I must advise that we do something about this threat to our holy lands. Perhaps we should launch an inquisition.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_70">
+			<Text>Neighborhoods with higher appeal will house more citizens, whereas neighborhoods built by marsh, airports, or rainforest are not going to be very populated at all.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_71">
+			<Text>Our treasury is filled with gold, and I think it could be wise to make an investment. Perhaps we could expand our military.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_72">
+			<Text>We have not yet constructed a Holy Site, and the great prophet that we have attracted to our city has nowhere to go. Let's construct one!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_73">
+			<Text>Our populace has attracted a Great Prophet to our lands! Send this most holy person to Stonehenge and rejoice, for the time has come to found a religion for ourselves.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_74">
+			<Text>A Great Engineer has come to our civilization, ready to work hard to advance our infrastructure. Each has a different talent, but all of them can improve our cities in some way.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_75">
+			<Text>We now have the ability to build a Spaceport. If we further our research, we may be able to unlock the mysteries of the stars.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_76">
+			<Text>We have uncovered a way to increase our farming output. To tap into this potential, I suggest we try to maintain two adjacent farms to each plot of farmland.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_77">
+			<Text>We have furthered our agricultural technology yet again! Each farm that we build next to another will increase the output of both - I suggest we do this as often as possible.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_78">
+			<Text>Times have changed, and the era of diplomatic delegations has passed. It is important that we now establish Embassies with our friends and allies.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_79">
+			<Text>This earth is a gift, and it is important that we protect it. I recommend we establish a National Park. It may even attract tourists!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_80">
+			<Text>It isn't simply seagulls that flock to our shores now. If we build a Seaside Resort, we may be able to benefit from this new attraction to the ocean.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_81">
+			<Text>Though our own people are quite skilled, we can always benefit by learning from others. Perhaps we should look into beginning a Research Agreement with one of our neighbors.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_82">
+			<Text>A Relic! If we can house this for our people to see, I am certain that it will attract more of the faithful to our lands.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_83">
+			<Text>It appears we have become quite a popular attraction to the people of the world. I wonder how many more tourists will travel through our borders…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_84">
+			<Text>You are a brave and mighty conqueror! I have great faith that you will soon rule all of the lands before us.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_85">
+			<Text>Our religion spreads throughout the lands. It is a great joy to see so many people embracing what we know to be true. Though, there are still more who have yet to see the light.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_86">
+			<Text>Though our population grows, there is little room for our newest citizens. We should find a way to add more housing to this city.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_87">
+			<Text>Your grace, I worry about the happiness of our citizens. I would advise that we investigate a means of increasing their contentment.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_88">
+			<Text>Our people have discovered that they have a particular, useful skill that I think we should explore. If we begin construction on this new district now, I believe we will have it completed in no time at all.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_89">
+			<Text>Alas, all of this time that we spend at war is taking a toll on our people. I see pain in their eyes, and our productivity has reached record lows.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_90">
+			<Text>The building of an Archeological Museum will allow us to train Archeologists. There is so much to learn from the world, and they will help us gain this knowledge.</Text>
+		</Row>
+		
+		
+		<!---->
+		<!-- META TEXT -->
+		<!---->
+		<Row Tag="LOC_META_1_HEAD">
+			<Text>SELECT SETTLER</Text>
+		</Row>
+		<Row Tag="LOC_META_1_BODY">
+			<Text>Click on the Settler unit to select it.</Text>
+		</Row>
+		<Row Tag="LOC_META_8_HEAD">
+			<Text>END TURN</Text>
+		</Row>
+		<Row Tag="LOC_META_8_BODY">
+			<Text>Since there are no more decisions to make this turn, click the Next Turn button to continue.</Text>
+		</Row>
+		<Row Tag="LOC_META_11a_BODY">
+			<Text>Tasks which must be completed before you can end your turn will appear in the notification panel in the bottom right of the screen.[NEWLINE][NEWLINE]Since production has finished in this city, you get a reminder that you need to choose the next thing to produce before you can end your turn.</Text>
+		</Row>
+		<Row Tag="LOC_META_11_HEAD">
+			<Text>REQUIRED ACTIONS</Text>
+		</Row>
+		<Row Tag="LOC_META_11_BODY">
+			<Text>Click the Choose Production notification to select your next production task.</Text>
+		</Row>
+		<Row Tag="LOC_META_33b_HEAD">
+			<Text>REQUIRED ACTIONS</Text>
+		</Row>
+		<Row Tag="LOC_META_33b_BODY">
+			<Text>Research must be selected before the turn can be completed.</Text>
+		</Row>
+		<Row Tag="LOC_META_13a_BODY">
+			<Text>A Builder unit has been added to the city's Production Queue. It will take several turns to complete its training. Since there are no remaining decisions that need to be made this turn, the Next Turn button is displayed.</Text>
+		</Row>
+		<Row Tag="LOC_META_13_HEAD">
+			<Text>END TURN</Text>
+		</Row>
+		<Row Tag="LOC_META_13_BODY">
+			<Text>Click the Next Turn button to continue.</Text>
+		</Row>
+		<Row Tag="LOC_META_19_HEAD">
+			<Text>END TURN</Text>
+		</Row>
+		<Row Tag="LOC_META_19_BODY">
+			<Text>Since your Warrior unit has used all of its [ICON_Movement] Movement points, it is done with its actions this turn.[NEWLINE][NEWLINE]Production and research tasks are still in progress, so there are no other decisions to be made.</Text>
+		</Row>
+		<Row Tag="LOC_META_19b_BODY">
+			<Text>Click the Next Turn button once again to continue.</Text>
+		</Row>
+		<Row Tag="LOC_META_9_HEAD">
+			<Text>SELECT WARRIOR</Text>
+		</Row>
+		<Row Tag="LOC_META_9_BODY">
+			<Text>Click on the Warrior unit to select it.</Text>
+		</Row>
+		<Row Tag="LOC_META_2_HEAD">
+			<Text>FOUND A CITY</Text>
+		</Row>
+		<Row Tag="LOC_META_2_BODY">
+			<Text>Click the Found City button to order your Settler to found a new city at this location.</Text>
+		</Row>
+		<Row Tag="LOC_META_3_HEAD">
+			<Text>CHOOSE PRODUCTION</Text>
+		</Row>
+		<Row Tag="LOC_META_3_BODY">
+			<Text>Open the Production Chooser of this city by clicking the Change City Production button.</Text>
+		</Row>
+		<Row Tag="LOC_META_4a_HEAD">
+			<Text>PRODUCTION CHOOSER</Text>
+		</Row>
+		<Row Tag="LOC_META_4a_BODY">
+			<Text>This is the city's Production Chooser. From here you can construct buildings, create wonders of the world, and train military and civilian units.</Text>
+		</Row>
+		<Row Tag="LOC_META_4b_BODY">
+			<Text>Select the Warrior button to start training a Warrior unit in your city.</Text>
+		</Row>
+		<Row Tag="LOC_META_5a_BODY">
+			<Text>Civilization is a turn-based game where decisions are made and actions performed during a game turn, much like playing a board game with friends. Once all the other players have made their moves, a new turn will begin.</Text>
+		</Row>
+		<Row Tag="LOC_META_5b_BODY">
+			<Text>Building items in your city takes time. The number of game turns it will take is indicated on each item in the menu.[NEWLINE][NEWLINE]This is calculated based on the [ICON_Production] Production cost of the item versus the [ICON_Production] Production yield of the city. The higher the yield, the fewer turns it will take to build.</Text>
+		</Row>
+		<Row Tag="LOC_META_5_HEAD">
+			<Text>END TURN</Text>
+		</Row>
+		<Row Tag="LOC_META_5_BODY">
+			<Text>Click the Next Turn button to finish your turn.</Text>
+		</Row>
+		<Row Tag="LOC_META_7a_BODY">
+			<Text>The Research Panel displays what technology your civilization is currently working toward. It is empty because you have not yet chosen a technology to research.</Text>
+		</Row>
+		<Row Tag="LOC_META_7_HEAD">
+			<Text>SELECT RESEARCH</Text>
+		</Row>
+		<Row Tag="LOC_META_7_BODY">
+			<Text>Select the Mining technology from the menu to begin researching it.</Text>
+		</Row>
+		<Row Tag="LOC_META_10_HEAD">
+			<Text>MOVE WARRIOR</Text>
+		</Row>
+		<Row Tag="LOC_META_10_BODY">
+			<Text>Military units can attack enemy units by moving into their hex. Right-click on the Barbarian unit to attack it. Try doing that now.</Text>
+		</Row>
+		<Row Tag="LOC_META_27_HEAD">
+			<Text>BUILD MONUMENT</Text>
+		</Row>
+		<Row Tag="LOC_META_27_BODY">
+			<Text>In addition to training units, your city can focus its production on constructing buildings like the Monument.[NEWLINE][NEWLINE]Try building one now by selecting it in the city's Production Queue.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_21">
+			<Text>With Barbarians in our midst, I think our people would be more comfortable if our Warriors were closer to the city. Order them to return and defend.</Text>
+		</Row>
+		<Row Tag="LOC_META_28a_BODY">
+			<Text>Units can be ordered to move longer distances by giving them a multi-turn order. This will eliminate the need to give a separate move order every turn to reach a destination.</Text>
+		</Row>
+		<Row Tag="LOC_META_28_HEAD">
+			<Text>MOVE WARRIOR</Text>
+		</Row>
+		<Row Tag="LOC_META_28_BODY">
+			<Text>Try ordering the Warrior to return to the city by clicking the Move To button, then clicking the city.</Text>
+		</Row>
+		<Row Tag="LOC_META_29_BODY">
+			<Text>When using a multi-move order, a path will display on the map indicating the path the unit will take, along with indicators of the number of turns until it reaches the destination.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_22">
+			<Text>Your Majesty, our Scouts are eager to explore the surrounding lands and uncover new areas of the continent. Send them forth!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_23">
+			<Text>There are no further matters to attend to at present, My Liege.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_24">
+			<Text>Our brightest minds have discovered new and ingenious ways to extract precious stones and metals from the earth. There is an abundance of valuable Stone nearby, it would be wise to send our Builders to construct a Quarry there.</Text>
+		</Row>
+		<Row Tag="LOC_META_30_BODY">
+			<Text>Scattered around the map are resources of various kinds. There are 3 categories of resources:[NEWLINE][NEWLINE]Luxury: These contribute to the overall happiness of your citizens.[NEWLINE][NEWLINE]Strategic: Essential for creating some very powerful military units.[NEWLINE][NEWLINE]Bonus: Provide additional yields of [ICON_Food] Food , [ICON_Production] Production, or [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_META_31a_HEAD">
+			<Text>BUILD QUARRY</Text>
+		</Row>
+		<Row Tag="LOC_META_31a_BODY">
+			<Text>This Stone is a Bonus resource. It provides an additional +1 [ICON_Production]Production to your city.[NEWLINE][NEWLINE]If you build a Quarry improvement here, it will raise the yield to +2 [ICON_Production]Production.</Text>
+		</Row>
+		<Row Tag="LOC_META_31b_BODY">
+			<Text>Move your Builder unit to the Stone resource and have them construct a Quarry improvement there.</Text>
+		</Row>
+		<Row Tag="LOC_META_32_BODY">
+			<Text>Quarry improvements increase the [ICON_Production]Production of the city they're in. Higher Production allows units and buildings to be constructed faster. In short, the higher the Production of a city, the less turns required to build something there.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_26">
+			<Text>Our citizens are comforted by the return of our Warriors to the city. Might I suggest having them adopt a more defensive stance for the time being? They will be vigilant against the Barbarian threat.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_27">
+			<Text>Great news! Our craftsmen have completed the Monument in our city! It is a symbol of the accomplishments and perseverance of our civilization, and inspires our people to push even further into the lands beyond.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_28">
+			<Text>Your Majesty, we should expand our realm. We have adventurous families ready to strike out and claim new lands for the glory of our people. If we do not expand our borders, then in time we will find ourselves surrounded by our enemies.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_29">
+			<Text>Settlers will take some time to complete their training. Our Scout should continue exploring undiscovered lands. I would advise we keep our Warriors in the [ICON_Capital] Capital to defend it.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_30">
+			<Text>The Settlers are ready to embark on their journey to found a new city and expand our civilization. The lands beyond are dangerous, and it would be wise to insure their protection by sending them with a military escort.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_31">
+			<Text>Our Settlers should be safe on their journey under the protection of our Warriors. But we will be without protection in the [ICON_Capital] Capital once they leave. I suggest we begin training a Slinger unit immediately to defend the city.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_32">
+			<Text>Well done, Your Majesty. Our great minds have already begun work on new ways to store and preserve our food.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_33">
+			<Text>May the triumphs of our great civilization know no bounds! Our second great city awaits your direction. With your wise leadership it too shall grow and thrive.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_34">
+			<Text>Like our [ICON_Capital] Capital, this city can produce buildings and units, increase its population, and expand its borders. More cities means more to manage, but I have great faith in Your Majesty.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_36">
+			<Text>Your Majesty has shown wisdom and understanding in the fundamentals of ruling a civilization. I shall be available to assist you at any point should you wish, but for now I take my leave.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_37">
+			<Text>Our farmers are very skilled at providing [ICON_Food] Food for our people, but we need to find better ways to store it. I suggest we direct the efforts of our scientists to solving this problem.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_39">
+			<Text>Our dedication to developing a consistent written language has allowed us to record our knowledge for future use. If we were to provide a common location in our city for our scientists to share this information I'm sure their pursuits would be much more efficient.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_40">
+			<Text>Excellent! Construction on a Campus has begun. Our scientists look forward to its completion.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_41">
+			<Text>The Campus is complete and we have already begun to see its benefits. Construction of a Library would be ideal at such a location, should your highness agree to it.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_42">
+			<Text>It seems we are not the only people competing for control of these lands. I suggest we proceed with caution.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_43">
+			<Text>Your Highness we are at war. Security of the realm is of greatest importance. We must begin mobilizing an army immediately.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_44">
+			<Text>Uniting your governance with a strict code of laws can be most beneficial to us. I think it is time to enact a set of policies to strengthen our progress toward a more refined civilization.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_45">
+			<Text>Strict discipline in our military ranks would give us an edge against the unorganized Barbarian horde. More structured Urban Planning will make our cities more organized and efficient. I suggest we enact these policies.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_46">
+			<Text>Nurturing our populace is important, but we must also protect them. There are barbaric tribes near us who want nothing more than to pillage and plunder what is ours.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_47">
+			<Text>We continue to make progress on training a team of Builders, and research is continuing as planned. [NEWLINE] Our Warriors are very close to the Tribal Village and should arrive soon.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_48">
+			<Text>Our people have looked to the heavens, and begun to wonder if our fortunes may be guided by the hands of a greater power. Who are these great gods, and what blessings might they bestow on us?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_49">
+			<Text>In a life dedicated to searching for guidance in the mysteries of the universe, one has had an epiphany that will guide our faithful for millennia to come. Let the teachings of this Great Prophet spread people of all cultures across the face of the earth. By proliferating our Religion, we may be victorious over our rivals.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_50">
+			<Text>Congratulations, My Liege! Your leadership has inspired our people to greatness, and now one among them has attained true genius. Their contribution will reverberate throughout history.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_51">
+			<Text>Your Majesty, we must reach out to our neighbors in trade. Through them, we stand to boost our economy, and gain new insights into the mysteries of the world.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_52">
+			<Text>My Liege, we have made contact with some outsiders. These people are more advanced than the Tribal Villagers that have aided us in the past. Should we extend a hand in friendship, or seek to conquer them?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_53">
+			<Text>Caution, your majesty. This city is hostile to us and its people will surely fight to the bitter end to keep it out of our hands. We must be well prepared</Text>
+		</Row>
+		<Row Tag="LOC_META_33_HEAD">
+			<Text>SELECT RESEARCH</Text>
+		</Row>
+    <Row Tag="LOC_META_332_HEAD">
+      <Text>SELECT RESEARCH</Text>
+    </Row>
+    <Row Tag="LOC_META_332_BODY">
+      <Text>Click the Choose Research button to display the research chooser.</Text>
+    </Row>
+    <Row Tag="LOC_META_331_HEAD">
+      <Text>CHANGE RESEARCH</Text>
+    </Row>
+		<Row Tag="LOC_META_33_BODY">
+			<Text>Select the Pottery technology from the Research Menu.</Text>
+		</Row>
+		<Row Tag="LOC_META_34_HEAD">
+			<Text>NOTIFICATIONS</Text>
+		</Row>
+		<Row Tag="LOC_META_34_BODY">
+			<Text>If there are units that have not moved this turn and are awaiting orders, you can address them by clicking the Unit Needs Orders notification. Click the notification now to be taken to your Scout unit so you may issue new orders.</Text>
+		</Row>
+		<Row Tag="LOC_META_35_HEAD">
+			<Text>MOVE SCOUT</Text>
+		</Row>
+		<Row Tag="LOC_META_35_BODY">
+			<Text>Continue to explore the world with your Scout unit.</Text>
+		</Row>
+		<Row Tag="LOC_META_36a_BODY">
+			<Text>When not advancing a military unit, it is often a good idea to fortify the unit. When ordered to fortify, the unit will spent up to 2 turns digging in. This will increase their [ICON_Strength] Combat Strength if they are attacked.</Text>
+		</Row>
+		<Row Tag="LOC_META_36_HEAD">
+			<Text>FORTIFY WARRIOR</Text>
+		</Row>
+		<Row Tag="LOC_META_36_BODY">
+			<Text>Try ordering the Warrior unit to do so by clicking on the Fortify button.</Text>
+		</Row>
+		<Row Tag="LOC_META_37_HEAD">
+			<Text>FORTIFY BONUS</Text>
+		</Row>
+		<Row Tag="LOC_META_37_BODY">
+			<Text>This unit will now have an advantage in combat when defending. However, if the unit is moved it will lose its fortified status and will have to be ordered to fortify again in order to receive the bonus.</Text>
+		</Row>
+		<Row Tag="LOC_META_38_HEAD">
+			<Text>BUILDER WORKFORCE</Text>
+		</Row>
+		<Row Tag="LOC_META_38a_BODY">
+			<Text>Your Builder still has one of its workforce remaining.[NEWLINE][NEWLINE]You can use it to build either a Mine on the Hill plot (+[ICON_Production] Production), or a Farm on the Plains plot (+[ICON_Food] Food).[NEWLINE][NEWLINE]This may take more than one turn, one to move the Builder unit, and another turn to build the improvement.</Text>
+		</Row>
+		<Row Tag="LOC_META_38b_BODY">
+			<Text>Remember: Builders can only construct improvements within the borders of your city.[NEWLINE][NEWLINE]By generating [ICON_Culture] Culture, the borders of your city will expand, allowing you access to more resources.</Text>
+		</Row>
+		<Row Tag="LOC_META_39_HEAD">
+			<Text>EXPLORATION</Text>
+		</Row>
+		<Row Tag="LOC_META_39_BODY">
+			<Text>Feel free to continue exploring the map with your Scout unit. End your turn when you have finished giving orders to your Builder and Scout.</Text>
+		</Row>
+		<Row Tag="LOC_META_40_BODY">
+			<Text>Your city has finished production on the Monument building. All buildings contribute to a city’s development in specific ways. The Monument will increase the [ICON_Culture] Culture generated by the city, which extends the city’s influence over additional hexes.</Text>
+		</Row>
+		<Row Tag="LOC_META_41_HEAD">
+			<Text>TRAIN SETTLERS</Text>
+		</Row>
+		<Row Tag="LOC_META_41_BODY">
+			<Text>Begin training a Settler unit.</Text>
+		</Row>
+		<Row Tag="LOC_META_41b_BODY">
+			<Text>Open the Production Chooser and begin training a Settler unit. Remember, the Production Chooser can either be accessed from the city's Information Panel or from the Choose Production reminder in the Notification Panel on the right side of the game view.</Text>
+		</Row>
+		<Row Tag="LOC_META_42_BODY">
+			<Text>Units like Settlers and Builders are non-combat, civilian units and thus cannot defend themselves. This leaves them highly vulnerable to be captured or killed by enemy units. However, your military units can act as protection for the civilian unit if they occupy the same hex.</Text>
+		</Row>
+		<Row Tag="LOC_META_43a_BODY">
+			<Text>An easy way to move the two units together is by linking them together until they reach their destination.</Text>
+		</Row>
+		<Row Tag="LOC_META_43_HEAD">
+			<Text>ESCORT SETTLER</Text>
+		</Row>
+		<Row Tag="LOC_META_43_BODY">
+			<Text>Select either the Settler or the Warrior and click the Escort button in the unit panel.</Text>
+		</Row>
+		<Row Tag="LOC_META_44_HEAD">
+			<Text>MOVE FORMATION</Text>
+		</Row>
+		<Row Tag="LOC_META_44_BODY">
+			<Text>Begin moving the units southeast toward the indicated map marker. If you have not yet revealed that part of the map it might make your journey easier if you sent your Scout there as well.</Text>
+		</Row>
+		<Row Tag="LOC_META_45a_BODY">
+			<Text>In a game of Civilization, once a player loses all of their cities, the game is over. It is very important that you protect your cities, especially your [ICON_Capital] Capital, from any foreign threat.</Text>
+		</Row>
+		<Row Tag="LOC_META_45_HEAD">
+			<Text>TRAIN SLINGERS</Text>
+		</Row>
+		<Row Tag="LOC_META_45_BODY">
+			<Text>Add a Slinger unit to the city's Production Queue and end your turn when you are finished.</Text>
+		</Row>
+		<Row Tag="LOC_META_46_BODY">
+			<Text>As is often the case in history, technological discoveries inspire new technologies, building upon knowledge gained in the past. In a game of Civilization, this is simulated by the Technology Tree. Click the open Technology Tree button in the Research Panel to view it.</Text>
+		</Row>
+		<Row Tag="LOC_META_46a_HEAD">
+			<Text>Open Technology Tree</Text>
+		</Row>
+		<Row Tag="LOC_META_46a_BODY">
+			<Text>Click to open the Technology Tree</Text>
+		</Row>
+		<Row Tag="LOC_META_47_BODY">
+			<Text>The Technology Tree displays all of the researchable technologies available in a game of Civilization, from the Ancient era all the way to the Information era and beyond.</Text>
+		</Row>
+		<Row Tag="LOC_META_48_BODY">
+			<Text>The gold colored nodes represent technologies that you have already finished researching. You have just finished researching Pottery, so it has been marked as complete.</Text>
+		</Row>
+		<Row Tag="LOC_META_49_BODY">
+			<Text>The dark grey nodes represent technologies that are available to begin researching, but are not complete.</Text>
+		</Row>
+		<Row Tag="LOC_META_50_BODY">
+			<Text>Light grey nodes represent technologies that are not yet available to begin researching. These technologies need to first be unlocked by researching one or more prerequisite technologies.</Text>
+		</Row>
+		<Row Tag="LOC_META_51a_BODY">
+			<Text>Since we have already researched Pottery, we are now able to begin research on the Writing technology.</Text>
+		</Row>
+		<Row Tag="LOC_META_51_HEAD">
+			<Text>SELECT RESEARCH</Text>
+		</Row>
+		<Row Tag="LOC_META_51_BODY">
+			<Text>Start research on Writing by clicking on the Writing node in the Technology Tree.</Text>
+		</Row>
+		<Row Tag="LOC_META_52_BODY">
+			<Text>Notice the Writing technology node status has changed, indicating that it currently being researched. The number of turns required to finish research on a technology is indicated in the upper right corner of the node.</Text>
+		</Row>
+		<Row Tag="LOC_META_53A_BODY">
+			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders and abilities that are unlocked by the technology once it is completed.</Text>
+		</Row>
+		<Row Tag="LOC_META_53B_BODY">
+			<Text>For example, once you have finished researching the Writing technology, you will be able to construct the Campus district as well as the Library building in all of your cities. The Campus and Library allow you to increase the amount of [ICON_Science] Science you generate each turn, allowing you to research technologies faster! </Text>
+		</Row>
+		<Row Tag="LOC_META_54_BODY">
+			<Text>Since you're done designating new research, we can close the Technology Tree by clicking the X button in the upper right corner.</Text>
+		</Row>
+		<Row Tag="LOC_META_54a_HEAD">
+			<Text>Close Tree</Text>
+		</Row>
+		<Row Tag="LOC_META_54a_BODY">
+			<Text>Click to close the Technology Tree</Text>
+		</Row>
+		<Row Tag="LOC_META_55_BODY">
+			<Text>Continue moving your Settler unit to the indicated location.</Text>
+		</Row>
+		<Row Tag="LOC_META_56_BODY">
+			<Text>In choosing a location to settle a new city, it is important to look at the fertility of the surrounding land. Proximity to sources of [ICON_Food] Food, resources, and fresh water are all very important. For this tutorial we have already found an ideal location for you.</Text>
+		</Row>
+		<Row Tag="LOC_META_57_BODY">
+			<Text>When your Settler unit is able, click the Found City button to create a new city here. This may require moving on to the next turn if your Settler is out of [ICON_Movement] Movement points.</Text>
+		</Row>
+		<Row Tag="LOC_META_58_BODY">
+			<Text>To win a game of Civilization, as a player you need to defeat all other civilizations in the world. There are multiple ways to achieve this. You can conquer their cities militarily, bringing them into your civilization. You can also win technologically, or through cultural or religious dominance.</Text>
+		</Row>
+		<Row Tag="LOC_META_59_BODY">
+			<Text>On the path to victory, there are fundamental strategies to assist you in building your civilization.[NEWLINE]---[NEWLINE]For this tutorial, we have provided four goals for you to achieve. Complete all four and you can complete the tutorial. However, in order to WIN the tutorial, you need to complete the fifth goal.</Text>
+		</Row>
+		<Row Tag="LOC_META_61_BODY">
+			<Text>Congratulations![NEWLINE]---[NEWLINE]You have completed the fundamentals of growing and maintaining a civilization that will stand the test of time. You can finish the tutorial, or you can keep playing and win this game by eliminating the rival civ.</Text>
+		</Row>
+		<Row Tag="LOC_META_63_BODY">
+			<Text>In this tutorial you are playing on a small map with a single rival civilization. A standard game of Civilization presents a larger map of the world, with several rival civilizations, all competing to win. The task is larger, but the goals remain the same.</Text>
+		</Row>
+		<Row Tag="LOC_META_62_BODY">
+			<Text>To win this game, you must conquer all the rival civilization’s city(s) with your military.[NEWLINE]---[NEWLINE]Good luck!</Text>
+		</Row>
+		<Row Tag="LOC_META_76_BODY">
+			<Text>Open the Production Chooser of your first city by clicking the production button on the City Banner.</Text>
+		</Row>
+		<Row Tag="LOC_META_77_BODY">
+			<Text>In Civilization VI, there are many types of districts that can be built in your cities, each with a specific purpose.</Text>
+		</Row>
+		<Row Tag="LOC_META_78_BODY">
+			<Text>By completing research on Writing, you are now able to construct a Campus district in your city.[NEWLINE][NEWLINE]The Campus district is dedicated to increasing the amount of [ICON_Science] Science generated by the city that contains it.</Text>
+		</Row>
+		<Row Tag="LOC_META_79_BODY">
+			<Text>Many districts in the game also get a bonus depending on where they are placed within the city. The Campus gets a bonus when built next to Mountains or Jungles.</Text>
+		</Row>
+		<Row Tag="LOC_META_80_HEAD">
+			<Text>BUILD CAMPUS</Text>
+		</Row>
+		<Row Tag="LOC_META_80_BODY">
+			<Text>Click the Campus button in the Production Chooser to start building one in this city.</Text>
+		</Row>
+		<Row Tag="LOC_META_81_BODY">
+			<Text>When placing a district, the map changes slightly to indicate ideal locations in which to build it. </Text>
+		</Row>
+		<Row Tag="LOC_META_82_BODY">
+			<Text>This plot has Mountains on two of its edges, each providing +1 [ICON_Science] Science per turn. Placing the Campus here would be ideal.</Text>
+		</Row>
+		<Row Tag="LOC_META_83_BODY">
+			<Text>Click this hex to begin building a Campus here.</Text>
+		</Row>
+		<Row Tag="LOC_META_84_BODY">
+			<Text>Since you have finished the Writing technology, you now must choose what to research next. If you would like a suggestion, Animal Husbandry and Bronze Working are both good choices.</Text>
+		</Row>
+		<Row Tag="LOC_META_85_BODY">
+			<Text>Animal Husbandry will allow you to build the Pasture and Camp improvements in your cities.[NEWLINE][NEWLINE]Bronze Working will help you militarily by unlocking the Encampment district, as well as allow you to train Spearmen.</Text>
+		</Row>
+		<Row Tag="LOC_META_86_BODY">
+			<Text>Some buildings can only be constructed in districts. The Library is a building exclusive to the Campus district. Since we have completed construction on the Campus, we are now able to build a Library on it.</Text>
+		</Row>
+		<Row Tag="LOC_META_87_HEAD">
+			<Text>BUILD LIBRARY</Text>
+		</Row>
+		<Row Tag="LOC_META_87_BODY">
+			<Text>Click the Choose Production button in the lower right to begin building a Library.</Text>
+		</Row>
+		<Row Tag="LOC_META_88_BODY">
+			<Text>Congratulations!![NEWLINE]You have won your first game of Civilization.[NEWLINE][NEWLINE]You are now ready to take on much larger challenges and objectives, explore new worlds, meet new civilizations for the first time, and achieve victory on your terms.</Text>
+		</Row>
+		<Row Tag="LOC_META_89_BODY">
+			<Text>When engaged in a war with another civilization, it is best to have a sufficient number of combat units, both to defend your cities as well as fight abroad.</Text>
+		</Row>
+		<Row Tag="LOC_META_90_BODY">
+			<Text>Sometimes it is necessary to suspend production on a building or district in order to train units to fight the war. To do this, simply change the current production task of the city to the combat unit you wish to create.</Text>
+		</Row>
+		<Row Tag="LOC_META_91_BODY">
+			<Text>When you are satisfied with the size of your military, you can resume production on what was being built previously without losing the progress you made on it.</Text>
+		</Row>
+		<Row Tag="LOC_META_92_BODY">
+			<Text>Engaging in diplomatic relations with other civilizations can be very lucrative. Of course, relations can also go sour. How you interact with other leaders is your choice. Just remember, in the path to victory, you cannot always be everyone’s friend.</Text>
+		</Row>
+		<Row Tag="LOC_META_93a_BODY">
+			<Text>By accumulating [ICON_Culture] Culture, you have just unlocked Code of Laws, which contains your first government: Chiefdom.</Text>
+		</Row>
+		<Row Tag="LOC_META_93b_HEAD">
+			<Text>GOVERNMENT</Text>
+		</Row>
+		<Row Tag="LOC_META_93b_BODY">
+			<Text>To access it, click the Government button.</Text>
+		</Row>
+		<Row Tag="LOC_META_94_BODY">
+			<Text>There are many types of governments in Civilization VI. In addition to various benefits, each government has a number of slots in which you can enact policies.</Text>
+		</Row>
+		<Row Tag="LOC_META_95a_BODY">
+			<Text>The first government available to you is a Chiefdom. It has 2 available slots for policies. The first slot in Chiefdom is for Military policies. The second is for Economic policies.</Text>
+		</Row>
+		<Row Tag="LOC_META_95b_HEAD">
+			<Text>GOVERNMENT POLICIES</Text>
+		</Row>
+		<Row Tag="LOC_META_95b_BODY">
+			<Text>Click the Change Policies button</Text>
+		</Row>
+		<Row Tag="LOC_META_96_BODY">
+			<Text>To slot a policy, click and drag the policy from the right to the appropriate slot in your government on the left.[NEWLINE][NEWLINE]Try that now by adding the Discipline policy to the Military slot, then add the Urban Planning policy to the Economic slot. Click the Confirm Policies button when you are done.</Text>
+		</Row>
+		<Row Tag="LOC_META_97_BODY">
+			<Text>By enacting these policies, your military units will now get a +5 [ICON_Strength] Combat Strength bonus when fighting against Barbarians. Also, your cities receive +1 [ICON_Production] Production per turn, allowing them to train units and construct buildings faster than before.</Text>
+		</Row>
+		<Row Tag="LOC_META_98_BODY">
+			<Text>Much in the same way you research new technologies by generating [ICON_Science] Science in your cities, you unlock civics by generating [ICON_Culture] Culture.[NEWLINE][NEWLINE]You have already unlocked the Code of Laws civic which enabled you to establish your first government.</Text>
+		</Row>
+		<Row Tag="LOC_META_99a_BODY">
+			<Text>Now you need to select a new civic to advance toward.</Text>
+		</Row>
+		<Row Tag="LOC_META_99b_HEAD">
+			<Text>CIVICS TREE</Text>
+		</Row>
+		<Row Tag="LOC_META_99b_BODY">
+			<Text>Open the Civics Tree by clicking the Civics Tree button in the upper left corner of the screen.</Text>
+		</Row>
+		<Row Tag="LOC_META_100_BODY">
+			<Text>Similar to the Technology Tree, the Civics Tree has different choices and paths as you progress through the game.[NEWLINE]For this tutorial, click the Craftsmanship civic to start advancing next.</Text>
+		</Row>
+		<Row Tag="LOC_META_100b_HEAD">
+			<Text>CHOOSE CIVIC</Text>
+		</Row>
+		<Row Tag="LOC_META_100b_BODY">
+			<Text>Select the Craftsmanship civic</Text>
+		</Row>
+    		<Row Tag="LOC_META_100c_HEAD">
+			<Text>Close Tree</Text>
+		</Row>
+		<Row Tag="LOC_META_100c_BODY">
+			<Text>Click to close the Civics Tree</Text>
+		</Row>
+		<Row Tag="LOC_META_101_BODY">
+			<Text>Click Next Turn to continue.</Text>
+		</Row>
+		<Row Tag="LOC_META_102_HEAD">
+			<Text>TRAIN BUILDER</Text>
+		</Row>
+		<Row Tag="LOC_META_102_BODY">
+			<Text>Click Builder to begin training a Builder unit.</Text>
+		</Row>
+		<Row Tag="LOC_META_103_BODY">
+			<Text>The city is the cornerstone of any great civilization. A city’s size is represented by its [ICON_Citizen] Population, indicated to the left of its nameplate.</Text>
+		</Row>
+		<Row Tag="LOC_META_103_OTHER_BODY">
+			<Text>A Slinger unit has finished training in your capital. Slingers are ranged class units, allowing them to attack from distance without engaging in melee combat. This keeps them from taking reciprocal damage during the attack.</Text>
+		</Row>
+		<Row Tag="LOC_META_104_BODY">
+			<Text>Each city also claims the surrounding lands for your exclusive control. These lands are indicated by the colored border surrounding the city. The unique features within your borders will have a profound influence on the potential strengths of each city.</Text>
+		</Row>
+		<Row Tag="LOC_META_104_OTHER_BODY">
+			<Text>Ranged units also tend to have lower defense strength than their melee fighting counterparts, so it is best to keep them close to friendly units of other types for protection.</Text>
+		</Row>
+		<Row Tag="LOC_META_105_BODY">
+			<Text>You must choose how each city in your civilization is to grow and expand over time, improving the land you control and creating new buildings and districts within your borders.</Text>
+		</Row>
+		<Row Tag="LOC_META_105_OTHER_BODY">
+			<Text>As you progress through the game and research new technologies, you will unlock better, stronger, and more advanced units. Building a strong and diverse fighting force is essential in competing against other civilizations, and preserving the safety of your people.</Text>
+		</Row>
+		<Row Tag="LOC_META_WRITING_COMPLETE">
+			<Text>We have just completed research on Writing.</Text>
+		</Row>
+		<Row Tag="LOC_META_POTTERY_COMPLETE">
+			<Text>In addition to [ICON_Food] Food, your people also require [ICON_Amenities] Amenities in their cities. One source of [ICON_Amenities] Amenities are Luxury resources, such as this [ICON_Resource_Coffee] Coffee next to your [ICON_Capital] Capitol. With the Pottery technology complete, it would be a good idea to research Irrigation to enable your Builders to improve Luxury resources, such as the [ICON_Resource_Coffee] Coffee next to our [ICON_Capital] Capital. This will provide [ICON_Amenities] Amenities to our city, increasing its happiness.</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_6_COMPLETE">
+			<Text>You have completed the goal of improving a tile within range of the second city!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_8_COMPLETE">
+			<Text>You have completed the goal of exploring another tribal village!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_9_COMPLETE">
+			<Text>You have completed the goal of growing a city to a population of six!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_10_COMPLETE">
+			<Text>You have completed the goal of building five improvements!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_14_COMPLETE">
+			<Text>You have completed the goal of constructing Walls in your [ICON_Capital] Capital city!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_15_COMPLETE">
+			<Text>You have completed the goal of constructing a Barracks!</Text>
+		</Row>
+		<Row Tag="LOC_META_106_BODY">
+			<Text>Each city generates a variety of yields at the start of every turn. These are obtained from the hexes that the city controls.</Text>
+		</Row>
+		<Row Tag="LOC_META_107_BODY">
+			<Text>Each hex within your city borders can provide a number of yields to help you advance your civilization. [ICON_Food] Food and [ICON_Production] Production are two of these yields.[NEWLINE][NEWLINE] [ICON_Food] Food fuels city growth, increasing its [ICON_Citizen] Population. More [ICON_Food] Food, faster growth.[NEWLINE][NEWLINE]  [ICON_Production] Production is used to build new items, like military units and city upgrades. The more [ICON_Production] Production your city has, the faster you can build things.</Text>
+		</Row>
+		<Row Tag="LOC_META_108_BODY">
+			<Text>However, each hex will need to be worked by your [ICON_Citizen] Population in order to obtain the yield from that hex.[NEWLINE][NEWLINE]Each [ICON_Citizen] Citizen can work 1 hex within your borders.</Text>
+		</Row>
+		<Row Tag="LOC_META_109_BODY">
+			<Text>Growing your city’s [ICON_Citizen] Population is very important in order to take advantage of all the yields from the surrounding lands.</Text>
+		</Row>
+		<Row Tag="LOC_META_110_BODY">
+			<Text>It is now up to you to decide what you would like to produce in this city.[NEWLINE][NEWLINE]Suggestions:[NEWLINE][NEWLINE]- Train a Builder to improve more of the surrounding lands within your borders.[NEWLINE][NEWLINE]- Train a combat unit to expand the size and strength of your military.[NEWLINE][NEWLINE]-Build a Granary to provide additional [ICON_Food] Food for your city as well as more [ICON_Housing] Housing for your [ICON_Citizen] Population.</Text>
+		</Row>
+		<!---->
+		<!--TUTORIAL GOALS TEXT-->
+		<!---->
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_1">
+			<Text>Goals:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_2">
+			<Text>To COMPLETE the tutorial:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_3">
+			<Text>To WIN the tutorial:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_1">
+			<Text>EXPLORE: Explore undiscovered areas the region.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_1">
+			<Text>Use your Scout to find and explore all of the Tribal Villages in the region.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_2">
+			<Text>DEFENSE: Move Warriors back to city.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_2">
+			<Text>Move your Warriors back to the city to defend.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_3">
+			<Text>DEFEND: Keep Warriors inside city.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_3">
+			<Text>Keep your Warriors inside your city to defend it.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_4">
+			<Text>TRAIN SETTLER: Complete training of a Settler unit.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_4">
+			<Text>Complete training of a Settler unit to expand your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_5">
+			<Text>ESTABLISH NEW CITY: Escort Settler to the specified location.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_5">
+			<Text>Escort the Settler with your Warrior to the specified location.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_6">
+			<Text>DEVELOP: Use Builder to improve land surrounding new city.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_6">
+			<Text>Use a Builder to improve the lands surrounding the new city.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_7">
+			<Text>SCIENCE: Construct a Campus in your capital.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_7">
+			<Text>Complete construction of a Campus in your capital.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_8">
+			<Text>EXPLORE: Find and explore all of the Tribal Villages in your region (n / n)</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_9">
+			<Text>EXPAND: Reach a Population of 6 in one of your cities.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_10">
+			<Text>EXPLOIT: Build 5 improvements</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_11">
+			<Text>EXTERMINATE: Eliminate the Barbarian threat from your region and destroy the Barbarian camp.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_12">
+			<Text>Eliminate the other civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_13">
+			<Text>BUILD IMPROVEMENT: Use your Builder unit to construct a 3rd improvement in your city.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_14">
+			<Text>Build the Ancient Walls in your Capital City.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_15">
+			<Text>Build an Encampment District and upgrade it with a Barracks.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_16">
+			<Text>Train five Military units including at least one Archer or Battering Ram. [NOT IMPLEMENTED].</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_17">
+			<Text>TO WIN: Eliminate the other civilization by capturing its Capital.</Text>
+		</Row>
+		<!---->
+		<!--CITY PANEL BUILT-IN ADVISOR MESSAGES-->
+		<!---->
+		<Row Tag="LOC_ADVISOR_CITYPANEL_HOUSING_INTRO">
+			<Text>TO GAIN HOUSING:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_AMENITY_INTRO">
+			<Text>TO GAIN AMENITIES:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CONSTRUCT">
+			<Text>[NEWLINE][NEWLINE]Construct Buildings: {1_Buildings}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_ZONE">
+			<Text>[NEWLINE][NEWLINE]Add Districts: {1_Districts}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_BUILD">
+			<Text>[NEWLINE][NEWLINE]Place Improvements: {1_Improvements}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_IMPROVE_LUXURIES">
+			<Text>[NEWLINE][NEWLINE]Improve Luxury resources.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_RESEARCH">
+			<Text>[NEWLINE][NEWLINE]Research Technology: {1_Techs}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
+			<Text>[NEWLINE][NEWLINE]Unlock Civics: {1_Civics}</Text>
+		</Row>
+		<Row Tag="LOC_META_53_BODY">
+			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders, and abilities that are unlocked by the technology once it is completed. For example, once you have finished researching the Pottery technology, you will be able to construct the Granary building in all of your cities. Your Builders will also gain the ability to harvest Wheat resources near your city. While harvesting a Wheat resource gives you a large amount of [ICON_Food] Food, that resource is removed from the map. In most cases, it is better to nurture a Wheat resource by building a Farm improvement on it instead.</Text>
+		</Row>
+		<Row Tag="LOC_META_167_BODY">
+			<Text>The technological advancement of your people is attained through research.[NEWLINE][NEWLINE]By completing research on technologies you will unlock new ways to exploit the land, new military units, new city upgrades, and much more.</Text>
+		</Row>
+		<Row Tag="LOC_META_111_BODY">
+			<Text>Just as building new units is fueled by [ICON_Production] Production, researching new technologies is fueled by [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_META_112_BODY">
+			<Text>Each city in your empire generates a small amount of [ICON_Science] Science per turn. How quickly your research projects are completed is determined by the total of all the [ICON_Science] Science generated by your cities. [NEWLINE][NEWLINE]The more [ICON_Science] Science you generate, the faster you research new technologies.</Text>
+		</Row>
+		<Row Tag="LOC_META_SELECT_IRRIGATION">
+			<Text>Select Irrigation from the research chooser panel.</Text>
+		</Row>
+    <Row Tag="LOC_META_6_HEAD">
+      <Text>CHOOSE RESEARCH</Text>
+    </Row>
+		<Row Tag="LOC_META_6_BODY">
+			<Text>Click the Choose Research button to open the Research Panel.</Text>
+		</Row>
+		<Row Tag="LOC_META_113_BODY">
+			<Text>For the purposes of this tutorial we have ‘rushed’ the production of this unit. Normally, the production would have taken several more turns to complete.</Text>
+		</Row>
+		<Row Tag="LOC_META_12_BODY">
+			<Text>Click the Choose Production notification to open the city’s Production Menu.</Text>
+		</Row>
+		<Row Tag="LOC_META_15_BODY">
+			<Text>Click on the Warrior unit to select it.</Text>
+		</Row>
+		<Row Tag="LOC_META_114_BODY">
+			<Text>All Tribal Villages will grant a reward when explored by a player. This Tribal Village has granted you a new Scout unit, which has appeared in your city.</Text>
+		</Row>
+		<Row Tag="LOC_META_115_BODY">
+			<Text>Continue exploring the world with your Scout. End turn when its action is complete.</Text>
+		</Row>
+		<Row Tag="LOC_META_116_BODY">
+			<Text>Your civilization will always be researching a technology. Because you just completed Mining, you must now choose what to research next before you can progress to the next turn.</Text>
+		</Row>
+		<Row Tag="LOC_META_117_BODY">
+			<Text>Research has begun on the Pottery technology. End your turn once you have moved your Scout unit.</Text>
+		</Row>
+		<Row Tag="LOC_META_118_BODY">
+			<Text>To win a game of Civilization, you need to defeat all other civilizations in the world. There are multiple ways to achieve this. Most games will also end in the year 2050 or after a set number of turns. If no player has achieved these Victories by then, score will determine the winner. Score is calculated as a general measure of each player’s achievements in all fields of endeavor.</Text>
+		</Row>
+		<Row Tag="LOC_META_119_BODY">
+			<Text>The status of each Victory’s conditions are tracked on the World Rankings panel. [NEWLINE][NEWLINE]Open it now.</Text>
+		</Row>
+		<Row Tag="LOC_META_119a_HEAD">
+			<Text>World Rankings</Text>
+		</Row>
+		<Row Tag="LOC_META_119a_BODY">
+			<Text>Click to open the World Rankings panel</Text>
+		</Row>
+		<Row Tag="LOC_META_120_BODY">
+			<Text>The Overall tab gives you an overview of all types of Victory and your ranking against other players</Text>
+		</Row>
+		<Row Tag="LOC_META_121_BODY">
+			<Text>The other tabs give you more specific detail about each set of rankings. [NEWLINE][NEWLINE]Close the panel when you are ready to proceed.</Text>
+		</Row>
+		<Row Tag="LOC_META_122_BODY">
+			<Text>The rest of this tutorial will help you to achieve your first Domination Victory.[NEWLINE][NEWLINE]The goal of a Domination Victory is for your civilization to be the last to occupy its own [ICON_Capital] Capital city.[NEWLINE][NEWLINE]For this tutorial, that means you will have to use your military to capture the [ICON_Capital] Capital city of your rival, while preventing them from taking yours.[NEWLINE][NEWLINE]How you ultimately achieve this will be up to you. However, we have provided three optional objectives that, if completed, will greatly assist you in achieving this.</Text>
+		</Row>
+		<Row Tag="LOC_META_123_BODY">
+			<Text>If you are unsure about something, or are looking for more information about anything you’ve seen in this tutorial, there’s a good chance you’ll find it in the Civilopedia.</Text>
+		</Row>
+		<Row Tag="LOC_META_64_BODY">
+			<Text>Districts are specific areas of your city dedicated to providing a specific yield. Buildings can be constructed in districts to increase that yield while also providing other benefits for your city.</Text>
+		</Row>
+		<Row Tag="LOC_META_65_BODY">
+			<Text>For example, you have unlocked the {DISTRICT_TYPE} district which is dedicated to providing {YIELD_TYPE} to your civilization. Constructing a {DISTRICT_BUILDING} building in this district increases the {YIELD_TYPE} yield for your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_META_66_BODY">
+			<Text>To zone a district, select it in your city’s production menu as you would a building or a unit. Some districts have rules of where they can be placed, but even more important is that districts can have an even greater benefit if placed in an optimal location.</Text>
+		</Row>
+		<Row Tag="LOC_META_67_BODY">
+			<Text>When you are ready to zone a district, the game will assist you in choosing the best location. Sometimes you might not have a valid spot in your city to place a new district right away. The location may have to be cleared of obstructions, or all of your existing city plots may already have improvements.</Text>
+		</Row>
+		<Row Tag="LOC_META_68_BODY">
+			<Text>Expanding the size of your city is one way to gain more locations for districts, as well as improvements.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_5">
+			<Text>Your Majesty, if I may… Although our scientists would be willing to explore other topics of research, I feel it is best to not distract them until they have completed their current project unless absolutely necessary.</Text>
+		</Row>
+		<Row Tag="LOC_META_69_BODY">
+			<Text>Any research progress on a technology is not lost, so there are cases where changing your research focus is strategically valid. However, it is always better to have a completed technology rather than many incomplete ones.</Text>
+		</Row>
+		<Row Tag="LOC_META_73_BODY">
+			<Text>In Civilization VI, you can get Eureka Moments that boost your technology research through in game achievements. This Eureka Moment was gained by discovering a natural wonder. Other achievements could be winning a battle with a specific unit or constructing a building. Achieving these greatly accelerates your technological progress.</Text>
+		</Row>
+		<Row Tag="LOC_META_127_BODY">
+			<Text>Scouts are ideal for investigating Tribal Villages because they receive experience from it.</Text>
+		</Row>
+		<Row Tag="LOC_META_72_BODY">
+			<Text>Any production progress on an item in the queue is not lost, so there are cases where changing your city’s production focus is strategically valid. However, it is often best to finish what you have started before starting something new.</Text>
+		</Row>
+		<Row Tag="LOC_META_74_BODY">
+			<Text>You might have noticed that your Builder unit disappeared after using its last build ‘charge’. This is because all of its workforce has been expended. You will need to train more Builders as you progress through the game to improve the lands around your cities.</Text>
+		</Row>
+		<Row Tag="LOC_META_75_BODY">
+			<Text>Scouts, unlike other military units, gain experience from exploring Tribal Villages. They can also gain experience from discovering natural wonders in the world. </Text>
+		</Row>
+		<Row Tag="LOC_META_128_BODY">
+			<Text>You may have noticed that your cities have been generating a small amount of [ICON_Faith] Faith each turn.[NEWLINE][NEWLINE][ICON_Faith] Faith is earned over time by certain buildings, districts, and policies.</Text>
+		</Row>
+		<Row Tag="LOC_META_129_BODY">
+			<Text>Now that you’ve earned enough [ICON_Faith] Faith, you are able to take the first step towards founding a Religion by forming a Pantheon, which will provide you with a choice of strategic benefits.</Text>
+		</Row>
+		<Row Tag="LOC_META_129b_HEAD">
+			<Text>Choose Pantheon</Text>
+		</Row>
+		<Row Tag="LOC_META_129b_BODY">
+			<Text>Click the Religion button to open the Religion screen and choose a Pantheon.</Text>
+		</Row>
+		<Row Tag="LOC_META_129c">
+			<Text>There are many Pantheons to choose from with different gameplay effects. Once one is chosen by a player, it is removed from the list of available Pantheons and is exclusive to that player’s religion for the duration of the game. Choose wisely!</Text>
+		</Row>
+		<Row Tag="LOC_META_129d">
+			<Text>Choose a Pantheon, then click the 'Found this Pantheon' button when you are done.</Text>
+		</Row>
+		<Row Tag="LOC_META_130_BODY">
+			<Text>Well done! The next step is to attract a Great Prophet, who will be able to found a Religion. But first, you will need to build a Holy Site district, or enact an appropriate government policy, both of which will earn you Great Prophet Points.</Text>
+		</Row>
+		<Row Tag="LOC_META_131_BODY">
+			<Text>There are a limited number of opportunities to found a Religion. Doing so is optional, but keep in mind that if you do not, you may not have an effective counter against a player who is seeking a Religious Victory by converting your [ICON_Citizen] Citizens.</Text>
+		</Row>
+		<Row Tag="LOC_META_131b_HEAD">
+			<Text>Close Religion</Text>
+		</Row>
+		<Row Tag="LOC_META_132_BODY">
+			<Text>Your [ICON_GreatProphet] Great Prophet has founded a new Religion, and you must customize it by selecting a name, symbol, and selecting two additional religious beliefs that will complement the Pantheon belief you selected previously.</Text>
+		</Row>
+		<Row Tag="LOC_META_133_BODY">
+			<Text>Your new Religion can spread between cities, converting its [ICON_Citizen] Citizens into followers. It is possible for a city to have a mix of several Religions. The Religion with the majority of followers in a city will be the one that imparts its bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_META_134_BODY">
+			<Text>While Religion will slowly spread from city to city organically, you can cause sudden shifts by training Missionary and Apostle units and sending them out to spread your people’s Religion. These units can be obtained by spending [ICON_Faith] Faith to buy them in the Purchase tab of a city’s Production Menu.</Text>
+		</Row>
+		<Row Tag="LOC_META_135_BODY">
+			<Text>Aggressively spreading your Religion is essential if you are targeting a Religious Victory. Even if you are not, it is wise to keep track of how Religion is spreading around the world. Counter it where possible to mitigate the chances of another player claiming Victory this way.</Text>
+		</Row>
+		<Row Tag="LOC_META_136_BODY">
+			<Text>You have gained the opportunity to claim a [ICON_GreatPerson] Great Person for your civilization. [ICON_GreatPerson] Great People provide significant benefits to your civilization based on their field. There are many types of [ICON_GreatPerson] Great People, including artists, engineers, and military leaders.</Text>
+		</Row>
+		<Row Tag="LOC_META_136b_HEAD">
+			<Text>Great People</Text>
+		</Row>
+		<Row Tag="LOC_META_136b_BODY">
+			<Text>Open the [ICON_GreatPerson] Great People panel to claim your [ICON_GreatPerson] Great Person.</Text>
+		</Row>
+		<Row Tag="LOC_META_137_BODY">
+			<Text>This is the [ICON_GreatPerson] Great People panel. It shows all the [ICON_GreatPerson] Great People that are currently available for civilizations to claim, their benefits, and their costs.</Text>
+		</Row>
+		<Row Tag="LOC_META_138_BODY">
+			<Text>Each [ICON_GreatPerson] Great Person has one or more opportunities to activate a special bonus. They will appear as a unit in one of your cities and you must Activate their bonus at a special location on the map. Once they have used all their bonuses, the [ICON_GreatPerson] Great Person will disappear.</Text>
+		</Row>
+		<Row Tag="LOC_META_139_BODY">
+			<Text>A [ICON_GreatPerson] Great Person is earned by saving up enough [ICON_GreatPerson] Great People Points of its type, then spending them to recruit the [ICON_GreatPerson] Great Person to your civilization. These points come primarily from districts and buildings, but can also come from policies and other effects. If you are in a rush, you can spend [ICON_Gold] Gold or [ICON_Faith] Faith to instantly earn the [ICON_GreatPerson] Great Person you want.</Text>
+		</Row>
+		<Row Tag="LOC_META_140_BODY">
+			<Text>You can choose to pass on a [ICON_GreatPerson] Great Person that you don’t want. If you do this, then other players will have the opportunity to claim them, and your choice to pass is not reversible. However, your [ICON_GreatPerson] Great People Points will be saved for a future opportunity.</Text>
+		</Row>
+		<Row Tag="LOC_META_141_BODY">
+			<Text>You’ve just completed a Trader unit. Traders travel between two cities and generate income for their city of origin. </Text>
+		</Row>
+		<Row Tag="LOC_META_142_BODY">
+			<Text>Your civilization can establish a limited number of [ICON_TradeRoute] Trade Routes. You can expand this capacity with Commercial Hub or Harbor districts.</Text>
+		</Row>
+		<Row Tag="LOC_META_142b_HEAD">
+			<Text>Assign Trade Route</Text>
+		</Row>
+		<Row Tag="LOC_META_142b_BODY">
+			<Text>Click the 'Assign Trade Route' unit action.</Text>
+		</Row>
+		<Row Tag="LOC_META_143_BODY">
+			<Text>There are no other cities to trade with right now. Continue to explore the map, or build a Settler and found a new city of your own.</Text>
+		</Row>
+		<Row Tag="LOC_META_144_BODY">
+			<Text>This is the Trade Panel, showing the cities that you can trade with currently. Traders have a limited range, but visiting nearby cities will establish a Trading Post there, allowing them to be used as a bridge to farther destinations.</Text>
+		</Row>
+		<Row Tag="LOC_META_145_BODY">
+			<Text>Depending on the buildings and districts within a foreign destination, you stand to earn yields of [ICON_Science] Science, [ICON_Faith] Faith, [ICON_Culture] Culture, or [ICON_Gold] Gold each turn for a set number of turns. For domestic destinations, you can earn [ICON_Food] Food and [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_META_145b_BODY">
+			<Text>Select the destination of your choice from the list of available cities.</Text>
+		</Row>
+		<Row Tag="LOC_META_145c_BODY">
+			<Text>Click 'Begin Route' to send this Trader on its way to the destination.</Text>
+		</Row>
+		<Row Tag="LOC_META_146_BODY">
+			<Text>This Trader will now travel to the destination and back, generating the relevant yields each turn. Once it has returned, you can choose a new route.</Text>
+		</Row>
+		<Row Tag="LOC_META_147_BODY">
+			<Text>The Trader will also build a Road between the cities as it goes. Units travelling a road generally suffer no terrain [ICON_Movement] Movement penalties.</Text>
+		</Row>
+		<Row Tag="LOC_META_148_BODY">
+			<Text>You have discovered a nearby city-state. These are mini-civilizations that are similar in some ways to another player, but they can only ever have a single city and cannot win the game. By working with your city-state neighbors, you can build lucrative relationships and even gain their support in war.</Text>
+		</Row>
+		<Row Tag="LOC_META_149_BODY">
+			<Text>You can also choose to forcefully assimilate their cities into your empire or raze them to the ground – but they are far more formidable than Barbarians to defeat, and you risk alienating their other allies.</Text>
+		</Row>
+		<Row Tag="LOC_META_150_BODY">
+			<Text>Click the city-state button or click the city-state to open the city state panel.</Text>
+		</Row>
+		<Row Tag="LOC_META_151_BODY">
+			<Text>This is the city-state panel. You can earn Envoys and dispatch them to a city-state. Doing this can earn you progressively better buffs to [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production, [ICON_Gold] Gold, or [ICON_Faith] Faith. Click the name of a city-state in the list.</Text>
+		</Row>
+		<Row Tag="LOC_META_152_BODY">
+			<Text>These are the Quests you can complete for this city-state. This is one way to earn Envoys and improve your friendship with it. You can also earn Envoys by completing certain items in the Civics Tree, and over time through governments and policies.</Text>
+		</Row>
+		<Row Tag="LOC_META_153_BODY">
+			<Text>Your unit is getting close to an enemy city. Attacking cities is usually a difficult and potentially costly undertaking that requires a mix of unit types and a tactical approach.</Text>
+		</Row>
+		<Row Tag="LOC_META_154_BODY">
+			<Text>The city’s defense rating and health bar is shown on its Name Plate. This city has Walls. It will be able to launch a ranged attack from 2 hexes away, and will be highly resistant to melee units.</Text>
+		</Row>
+		<Row Tag="LOC_META_155_BODY">
+			<Text>Certain siege units can improve your chances. Catapults can attack from range and do significant damage to Walls, while the Battering Ram or Siege Tower allows melee units to attack Walls or bypass them, respectively.</Text>
+		</Row>
+		<Row Tag="LOC_META_156_BODY">
+			<Text>You have met the leader of another civilization. In Civilization VI, there will typically be several other civilizations sharing the world map with you. These are controlled by the game AI, and have all the same abilities – and ambitions – that you do.</Text>
+		</Row>
+		<Row Tag="LOC_META_157_BODY">
+			<Text>As you play, you will need to consider how to deal with your neighbors and watch them carefully to improve your understanding of their strategy.</Text>
+		</Row>
+		<Row Tag="LOC_META_158_BODY">
+			<Text>Leaders of civilizations you have met in the game will appear here. The leader icon on the far right represents your civilization. All other leaders will be listed to next to yours.</Text>
+		</Row>
+		<Row Tag="LOC_META_158b_HEAD">
+			<Text>Leader Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_META_158b_BODY">
+			<Text>Click the other civilization leader's icon to access the Diplomacy view.</Text>
+		</Row>
+		<Row Tag="LOC_META_159_BODY">
+			<Text>When you contact another leader, you can take a variety of actions, like exchanging goods, negotiating political treaties, making demands, or declaring war.</Text>
+		</Row>
+		<Row Tag="LOC_META_160_BODY">
+			<Text>You can send a Delegation to improve your ties and expose more information about their [ICON_Capital] Capital city. </Text>
+		</Row>
+		<Row Tag="LOC_META_161_BODY">
+			<Text>Denouncing a rival notifies all other civilizations that you have a bone to pick. This paves the way to war. If you do not make your feelings known, the war you declare will be a Surprise War, inflicting a lasting “Warmonger” reputation on you that may color future dealings with other leaders.</Text>
+		</Row>
+		<Row Tag="LOC_META_162_BODY">
+			<Text>You can also negotiate deals with a leader. This can include trading commodities or political deals like Open Borders or Joint War. Alternatively, you can demand that they deal with you. This will sour your relationship, but they may acquiesce if they are weak or wish to avoid war.</Text>
+		</Row>
+		<Row Tag="LOC_META_163_BODY">
+			<Text>What you know about this leader is summarized here. Be mindful of their Agendas. If you act in opposition to their Agendas, your relationship with them may sour and potentially lead to conflict.</Text>
+		</Row>
+		<Row Tag="LOC_META_164_BODY">
+			<Text>Improving your Access Level to this civilization will expose more detailed information about them, and you’ll be notified when they take certain actions. It's a good idea to improve this as much as possible with the leaders you encounter, or you will be in the dark as to their strategy.</Text>
+		</Row>
+		<Row Tag="LOC_META_165_BODY">
+			<Text>This section explains what the leader thinks about you, and why. If you wish to improve (or sour) your relationship, you’ll find some suggestions here. It may not be possible to avoid doing something that annoys them from time to time, so it can be useful to know how to balance the books.</Text>
+		</Row>
+		<Row Tag="LOC_META_166_BODY">
+			<Text>Diplomacy will become increasingly important as you progress through history. Who your neighbors are and want they want will have a lasting impact on the development of your civilization – and will almost certainly present obstacles in your path to victory.</Text>
+		</Row>
+		<Row Tag="LOC_META_168_BODY">
+			<Text>A City-State is a small civilization that cannot win the game. Establishing good diplomatic relations with them can be very lucrative. This is done by sending Envoys to the City State.</Text>
+		</Row>
+		<Row Tag="LOC_META_169_BODY">
+			<Text>Trader units can be trained in one of your cities. In addition to providing additional [ICON_Gold] Gold and other benefits to your civilization, [ICON_TradeRoute] Trade Routes are essential for building roads between cities.</Text>
+		</Row>
+		<!---->
+		<!--ROCCO LINES-->
+		<!---->		
+		<Row Tag="ADVISOR_LINE_FTUE_1ALT_1">
+			<Text>Welcome Cleopatra. Our people's fate lies in your hands. Great is the responsibility placed upon you. Perhaps I may be of service.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_1ALT_2">
+			<Text>Welcome Gilgamesh. Our people's fate lies in your hands. Great is the responsibility placed upon you. Perhaps I may be of service.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2_ALT">
+			<Text>For too long we have roamed this world without a land to call our own. It is time we put down roots.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_22a">
+		   <Text>Our brave Settlers await your command. We should found our first city here.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_3_ALTV2">
+		   <Text>From the seeds of this small city shall you grow an empire.  But to truly thrive we must first see to the needs of our people.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_23">
+		   <Text>The lands before us offer untold riches and dangers.  You must consider that carefully when choosing their final destination.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_36">
+			<Text>Though small now, our city will continue to grow if you allow it to.  Its fate and that of our people depend upon you.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_37a">
+			<Text>We are fortunate that the land surrounding our city is rich in resources.  Developing it will be key to our survival...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_38">
+			<Text>We are blessed to have such bountiful lands within our borders. Still, a civilization is comprised of people, not just earth.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_46_ALT">
+		   <Text>Such lands will surely draw the attention of the Barbarian raiders plaguing this area. We must prepare to fight back if we are to survive.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_5_ALT_2">
+			<Text>Our city requires Warriors.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_51a">
+			<Text>If our people are to survive in these lands, we must focus their efforts. Only then can we master this world.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_6ALTV_1">
+			<Text>Our people's protection is our utmost concern. Direct your city towards the creation of a Warrior.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_61">
+		   <Text>Training has commenced. Already our people feel more secure.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_62">
+			<Text>Our empire will not be built overnight. We have accomplished all we can this day...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_63">
+			<Text>There are no other matters for you to attend to.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_7ALT">
+			<Text>Our Warriors continue to train. But if we are to be more than the Barbarian tribes we defend against, we must explore other areas of development.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_71">
+			<Text>There are those among us with minds adept at unlocking the world's secrets. We need only guide them.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_8ALT">
+		   <Text>Excellent. As our people's understanding of the earth increases so to will our ability to harness it's riches and increase our production capabilities. We must give them time to do their work.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_81">
+			<Text>There are no more matters requiring your attention today.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_9ALT">
+			<Text>Barbarian raiders approach our city!  We are surely too prize a target for them to ignore.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_92">
+			<Text>We cannot allow these savages to pillage and destroy all we have built. Our Warriors have completed their training. Let us commit them to battle!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_94">
+			<Text>Warriors are the blade with which we will strike down our enemy. They need only your hand to guide them.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_10ALT">
+			<Text>Victory! The Barbarians have learned we are not a people to be trifled with. Still, they will return, and next time I fear they will not take us so lightly.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_12ALT">
+			<Text>We should take advantage of this lull in hostilities. With our Warriors now prepared, we may focus our production capabilities towards the city itself.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_121">
+			<Text>Excellent. The skills these Builders will attain will dramatically improve our civilization.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_13ALT">
+			<Text>The lands surrounding our city are fertile. Yet as of now they lie undeveloped. We must create a workforce if we are to make the most of the resources within our borders.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_131">
+			<Text>We have no more matters that require your attention today.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_14_ALT">
+			<Text>While our Builders train to improve life within our borders we must not ignore the lands beyond them. The only way to truly master this world is to understand it.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_15ALT">
+			<Text>Beyond combat, our Warriors make for ideal explorers in this uncertain and hostile world.  You need only give the word and they shall set forth into the unknown.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_151">
+			<Text>Alone, on foot, the wildlands take a heavy toll on our troops.  Perhaps there is a smoother path…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_153">
+			<Text>Already our Warriors' efforts bear fruit. They have come upon a small Tribal Village.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_154">
+			<Text>This people seem different from the Barbarian tribes we encountered. Perhaps we should make contact instead of combat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_155">
+			<Text>We have attended to all matters necessary today.</Text>
+		</Row>
+		<Row Tag="ADVISOR_FTUE_47_ALT">
+			<Text>Our Warriors stand before the village gates. They await your command to enter.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_16_ALT">
+			<Text>It would seem friendship has its rewards. Our success against the Barbarians has reached this village. Impressed by our culture they wish to rise up against their oppressors and join us in the fight against the horde.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_17_ALT">
+			<Text>Though not skilled in the ways of combat, this tribe possess a great knowledge of the land. Their ability to move through the terrain quickly makes them ideal Scouts. We should put them to good use.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_171">
+			<Text>There may be other like-minded settlements in the lands ahead.  We would be wise to seek them out in the future...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_18_ALT">
+			<Text>We should employ these Scouts with caution. They are excellent explorers but poor warriors. It would be wise for them to avoid battle whenever possible.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_181">
+			<Text>No other matters require your attention today.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_21_ALT">
+			<Text>Exploration may bring many rewards, but let us not forget the safety of our Capital.  We should direct our Warriors home for its protection.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_22_ALT">
+			<Text>Our Scouts await orders. They must explore and teach us about new lands yet undiscovered.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_23_ALT">
+			<Text>There are no further matters to attend to today.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_231">
+			<Text>Our people are hard at work fulfilling your orders.  Let us take this time to further advance our Scouts.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_232">
+			<Text>No other matters require your attention today.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_26_ALT">
+			<Text>Our citizens rejoice at the return of our brave Warriors. Perhaps they should fortify their position to defend against the Barbarian threat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_261">
+			<Text>Excellent, with our Warriors entrenched in their positions our people are secure.  It would be wise to maintain this advantage for as long as possible.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_24_ALT">
+			<Text>While our forces prepare the defense of our city, our best minds have discovered how to extract precious resources from the earth itself. With an abundance of valuable Stone nearby, our Builders may be able to exploit this knowledge when they complete their training.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_241">
+			<Text>Our people delight in the pursuit of knowledge.  We need only direct their efforts and they shall uncover yet another mystery of this world.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_242">
+			<Text>A wise decision. Our people may now uncover new uses for the materials we unearth in our Mines and Quarries.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_243">
+			<Text>But let us not forget the exploration efforts of our Scouts.  There is a whole world before us to uncover.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_19_ALT">
+			<Text>As our Scouts continue to push onwards let us turn inwards to our own Capital. As our city grows, so too does our people's hunger...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_191">
+			<Text>Our Builders now stand ready. Constructing a Farm on fertile lands within our city will increase our yield and better feed our people.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_192">
+			<Text>These Plains possess rich soil. An ideal spot to plant our first crops...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_193">
+			<Text>Excellent. With their stomachs full our people prosper and our population shall only grow...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_194">
+			<Text>But remember, our Builders' strength is not infinite. We would be wise to make the best use of their talents before exhausting them.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_20_ALT">
+			<Text>With their basic needs met, our people now have the capability to construct more elaborate structures. Perhaps a Monument to all they have accomplished will inspire them to evolve even further...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_201">
+			<Text>Excellent, as pride in their own culture grows our people shall be driven to spread our civilization beyond their own borders.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_202">
+			<Text>And follow in the footsteps of our brave Scouts.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_204">
+			<Text>Now that our people are fed, let us turn our Builder's attention elsewhere.  There are valuable resources surrounding our city that have yet to be exploited.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_205">
+			<Text>Direct the efforts of our Builders towards harnessing these valuable materials.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_206">
+			<Text>Excellent. This Stone we extract from this Quarry will only increase our production capabilities.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_207">
+			<Text>It would appear some of our people still require your direction...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_209">
+			<Text>With our Quarry now complete we must turn our Builders’ attention towards additional improvements.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2091">
+			<Text>There is still valuable land within our borders, we must guide their hands carefully.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2092">
+			<Text>Our people still await your command.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_27_ALT">
+			<Text>We are blessed. This Monument stands as symbol of the accomplishments and determination of our people.  Truly they shall now be inspired to push even further into the lands beyond.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_28_ALT">
+			<Text>Perhaps we are now ready to spread our civilization beyond our Capital city. If we do not claim the surrounding territory, others surely will.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_29_ALT">
+			<Text>Excellent, these brave Settlers are ready to carry our culture into the unknown. However, it will take some time before they are prepared for the journey that awaits them.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_292">
+			<Text>There are reports of dangerous raiders roaming the lands nearby.  It would be best to keep these Warriors here, seeing to the safety of our Capital.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_30_ALT">
+			<Text>Our Settlers have finished preparations and await your command. However, the lands before them possess untold dangers.  We must not allow them to go forth without protection...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_301">
+			<Text>Excellent, with our people prepared we must now choose our destination.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_302">
+			<Text>There is an area rich in resources not far from the Capital.  Let us send our Settlers there.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_31_ALT">
+			<Text>Though our Settlers are safe under the protection of our Warriors, our Capital is now defenseless. Without the protection of the military we will most surely become overrun by our enemies.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_311">
+			<Text>Though our Warriors are valiant a proper fighting force must be diversified.  Slingers provide a different style of combat.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_312">
+			<Text>With knowledge comes opportunity. As our people's understanding of this world grows, new paths present themselves to us...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_33_ALT">
+			<Text>Location is critical in founding a new settlement.  We are fortunate to have  discovered such an ideal place.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_331">
+			<Text>Order our people to take root here.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_332">
+			<Text>Well done. Our civilization continues to spread beyond expectation.  In time it may rival even our own Capital.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_34_ALT">
+			<Text>Already this new city yearns to grow.  Its people await your guidance.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_35_ALT">
+			<Text>We have reports of another civilization growing on this continent. It seems we are not the only people competing for control of these lands.</Text>
+		</Row>
+		<!---->
+		<!--EDIT BELOW-->
+		<!---->		
+		<Row Tag="ADVISOR_LINE_2_ALT">
+			<Text>It would seem we have finally tracked the Barbarian raiders plaguing these lands to their source. We must destroy this stronghold or risk future attacks.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_3_ALT">
+			<Text>Still might I advise caution. Though primitive and savage, these Barbarians are fierce warriors and their camp is heavily defended.  To ensure victory we must attack with overwhelming force.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_4_ALT">
+			<Text>Our city continues to prosper.  Already our people thrive and our population grows!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_5_ALT">
+			<Text>Although our scientists would be willing to explore other topics of research, perhaps it is not wise to  distract them from their current work unless absolutely necessary.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_6_ALT">
+			<Text>The task at hand is of critical importance. Might I advise patience in this matter. We should allow our people to continue their work if at all possible.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_7_ALT">
+			<Text>We have spotted another friendly village nearby. Perhaps we should send a Scout to investigate.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_8_ALT2">
+			<Text>A good city can become a great city through careful planning. Deciding where to place a city district is an important decision. Be sure to pick a location best suited for the district to reap the most benefit.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_38_ALT">
+			<Text>Our legacy will one day be recorded beyond the spoken word.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_381">
+			<Text>It appears our Slingers have completed their training. Already the people of our city feel safer...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_382">
+			<Text>As our army continues to diversify and improve, our future grows even more secure.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_383">
+			<Text>With our Slingers training complete, we may now direct our people's efforts to new pursuits.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_384">
+			<Text>Our people still await your command.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_39_ALT">
+			<Text>With Writing we unify our people.  A common written language allows ideas to flourish and our collective knowledge to grow. Were we to provide a place to collect and share this knowledge our people would surely prosper...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_391">
+			<Text>By concentrating like minds and resources into districts we specialize the growth of our city. We must choose the location of these districts carefully in order to reap the most benefit.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_40_ALT">
+			<Text>Already the greatest minds in our civilization eagerly await the completion of this Campus...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_401">
+			<Text>But we must not allow these great thinkers to be idle.  Let us turn their attention elsewhere...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_41_ALT">
+			<Text>Our greatest scholars and scientists already begin to gather at our Campus. Providing them with a Library would further assist them in their pursuits.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_ALT">
+			<Text>Our people have prospered under your guidance.  Truly our civilization has no equal.  Perhaps now is the time for you to prove this to be true.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_2">
+			<Text>The task before us is great, but under your leadership we shall not fail.  As always I stand ready at your side should you require any assistance along the way.  May our civilization truly stand forever.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_3">
+			<Text>We are victorious! You are now ready to take on bigger challenges, explore new worlds, meet new civilizations, and to achieve victory on your own terms.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_42_ALT">
+			<Text>Resources and land are not infinite. It seems we now have competition.  As we do not yet know the true intention of this people, might I suggest we proceed with caution.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_43_ALT">
+			<Text>War is upon us!  Our people are in danger.  We must mobilize an army immediately or risk being conquered.  There is no time for delay!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_44_ALT">
+			<Text>Our people truly thrive under your guidance. But as our civilization grows so too must our leadership.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_441">
+			<Text>We must now enact policies to better steer the growth of our people...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_45_ALT">
+			<Text>Discipline is the heart of any army and is a valuable advantage over the unorganized Barbarian rabble. Urban planning will only make our cities more organized and efficient. I suggest we enact both these policies.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_453">
+			<Text>Though our policies begin to bear fruit our civilization will only continue to grow.  We must plan for the future...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_48">
+			<Text>Our people have looked to the heavens, and begun to wonder if our fortunes may be guided by the hands of a greater power. Who are these great gods, and what blessings might they bestow upon us?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_50_ALT">
+			<Text>Your inspiration is contagious.  Though our civilization achieves greatness under your leadership, one amongst our people truly shines above all others. Under your guidance shall their impact truly reverberate throughout history.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_51_ALT">
+			<Text>Isolation is not the key to prosperity. These traders allow us to reach out to our neighbors. Through trade, we stand to boost our economy, and gain new insights into the mysteries of the world.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_52_ALT">
+			<Text>We have made contact with people more advanced than the Tribal Villagers who have aided us in the past. Should we extend the hand of friendship or look to conquer them?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_WONDER_73">
+			<Text>The beauty and majesty of this world is sometimes enough to inspire our people to new directions of thought. This was a fortunate discovery...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_POP_HUT_1">
+			<Text>Again our brave Scouts prove their worth to our people.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_GENERAL_1">
+			<Text>May I make a suggestion…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_GENERAL_2">
+			<Text>As you wish.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_7_ALT_2">
+			<Text>We have spotted another friendly village nearby. Perhaps we should send a Scout to investigate.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

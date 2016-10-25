@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_OPTIONS_TITLE">
+			<Text>OPTIONS</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
+			<Text>This will reset ALL options to their default values.[NEWLINE][NEWLINE][COLOR_RED]Some changes may not take effect until you restart the application.[ENDCOLOR][NEWLINE][NEWLINE]Reset options?</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
+			<Text>Some changes may not take effect until you restart the application.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
+			<Text>Some changes may not take effect until you restart the current game.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESOLUTION_OK">
+			<Text>Do you want to keep the current resolution settings?</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
+			<Text>OK</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
+			<Text>Yes</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
+			<Text>No</Text>
+		</Row>
+
+		<!-- Option Enums -->
+
+		<Row Tag="LOC_OPTIONS_ENABLED">
+			<Text>Enabled</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_DISABLED">
+			<Text>Disabled</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_MINIMUM">
+			<Text>Minimum</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LOW">
+			<Text>Low</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MEDIUM">
+			<Text>Medium</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HIGH">
+			<Text>High</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_ULTRA">
+			<Text>Ultra</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CUSTOM">
+			<Text>Custom</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_NONE">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_REAL_LIFE">
+			<Text>Match local time</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_X_TURNS">
+			<Text>Every {1_num} turns</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_10_TURNS">
+			<Text>Every 10 turns</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
+			<Text>As eras progress</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_NEVER">
+			<Text>Never</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_ALWAYS">
+			<Text>Always</Text>
+		</Row>
+
+		<!-- Gameplay Panel -->
+
+		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
+			<Text>New to Civilization VI</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
+			<Text>New to Civilization</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
+			<Text>New to turn-based strategy</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
+			<Text>Animated Time of Day:</Text>
+		</Row>
+
+		<!-- Graphics Panel - Option Enums -->
+
+		<Row Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
+			<Text>30 FPS</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
+			<Text>20 FPS</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
+			<Text>60 FPS</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
+			<Text>Windowed</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
+			<Text>Full Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
+			<Text>Borderless Window</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_MSAA_2X">
+			<Text>MSAA 2X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_4X">
+			<Text>MSAA 4X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_8X">
+			<Text>MSAA 8X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_16X">
+			<Text>MSAA 16X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_32X">
+			<Text>MSAA 32X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_FULL">
+			<Text>MSAA Full</Text>
+		</Row>
+		
+		<Row Tag="LOC_OPTIONS_CSAA_2X">
+			<Text>CSAA 2X / 4X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_4X">
+			<Text>CSAA 4X / 8X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_8X">
+			<Text>CSAA 8X / 16X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_16X">
+			<Text>CSAA 16X / 32X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_32X">
+			<Text>CSAA 32X / 64X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_FULL">
+			<Text>CSAA Full</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_EQAA_2X">
+			<Text>EQAA 2X / 4X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_4X">
+			<Text>EQAA 4X / 8X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_8X">
+			<Text>EQAA 8X / 16X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_16X">
+			<Text>EQAA 16X / 32X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_32X">
+			<Text>EQAA 32X / 64X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_FULL">
+			<Text>EQAA Full</Text>
+		</Row>
+			
+		<Row Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
+			<Text>Low (Memory-Optimized)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
+			<Text>Low (Performance-Optimized)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
+			<Text>Medium (Memory-Optimized)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
+			<Text>Medium (Performance-Optimized)</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_REFLECTION_1PASS">
+			<Text>1 Pass</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_REFLECTION_2PASSES">
+			<Text>2 Passes</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_REFLECTION_3PASSES">
+			<Text>3 Passes</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_REFLECTION_4PASSES">
+			<Text>4 Passes</Text>
+		</Row>
+
+		<!-- Graphics Panel - Main -->
+
+		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
+			<Text>GPU Selection:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
+			<Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
+			<Text>Resolution:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
+			<Text>Sets the resolution the game renders at.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
+			<Text>UI Upscaling</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
+			<Text>Increases the size of the user interface.[NEWLINE](Only available at certain resolutions.)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
+			<Text>Window Mode:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
+			<Text>Modifies how the game's window is displayed.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
+			<Text>Performance Impact:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
+			<Text>Changes advanced settings to match the desired performance impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
+			<Text>Memory Impact:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
+			<Text>Changes advanced settings to match the desired memory impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Advanced -->
+
+		<Row Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
+			<Text>Show Advanced Options</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
+			<Text>Hide Advanced Options</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
+			<Text>Advanced Graphics Settings</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
+			<Text>Vertical Sync</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
+			<Text>Prevents visual tearing.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
+			<Text>Frame Limiter:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
+			<Text>Limits the rate at which the game renders.[NEWLINE][NEWLINE]Might increase battery life on portable devices when enabled.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
+			<Text>Anti-Aliasing:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
+			<Text>Smooths out jagged edges.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
+			<Text>High-Resolution Asset Textures</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
+			<Text>Uses high-detail textures for game assets.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
+			<Text>High-Quality Visual Effects:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
+			<Text>Spawns more particle effects.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Lighting -->
+
+		<Row Tag="LOC_OPTIONS_LIGHTING">
+			<Text>Lighting</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
+			<Text>Ambient Occlusion</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
+			<Text>Darkens areas of objects that are less exposed to ambient light.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
+			<Text>Ambient Occlusion Depth Resolution:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
+			<Text>Changes the ambient occlusion detail.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
+			<Text>Ambient Occlusion Render Resolution:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
+			<Text>Changes the ambient occlusion quality.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
+			<Text>Bloom</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
+			<Text>Adds glow to bright lights and reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
+			<Text>Dynamic Lighting</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
+			<Text>Adds light sources other than the sun.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Shadows -->
+
+		<Row Tag="LOC_OPTIONS_SHADOWS">
+			<Text>Shadows</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
+			<Text>Shadows</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
+			<Text>Add dark areas where light is blocked by an object.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
+			<Text>Shadow Resolution:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
+			<Text>Changes the sharpness and detail of shadows.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Overlay -->
+
+		<Row Tag="LOC_OPTIONS_OVERLAY">
+			<Text>Overlay</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT">
+			<Text>Overlay Resolution:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP">
+			<Text>Changes the sharpness and detail of overlays.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
+			<Text>Screen-Space Overlay</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
+			<Text>Draws the overlays on top of everything, not just on top of the terrain.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Terrain -->
+
+		<Row Tag="LOC_OPTIONS_TERRAIN">
+			<Text>Terrain</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
+			<Text>Quality:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
+			<Text>Changes the terrain detail.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and/or [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
+			<Text>High-Resolution Geometry</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
+			<Text>Terrain geometry becomes sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT">
+			<Text>High-Resolution Textures</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP">
+			<Text>Terrain textures become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
+			<Text>High-Quality Shader</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
+			<Text>Changes the terrain lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
+			<Text>High-Detail Clutter</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
+			<Text>Increases the amount of trees and ice chunks.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Water -->
+
+		<Row Tag="LOC_OPTIONS_WATER">
+			<Text>Water</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
+			<Text>High-Resolution Water</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
+			<Text>Water waves and highlights become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
+			<Text>High-Quality Shader</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
+			<Text>Changes the water lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
+			<Text>Reflections:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
+			<Text>Control the quality of water reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Leaders -->
+
+		<Row Tag="LOC_OPTIONS_LEADERS">
+			<Text>Animated Leaders</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
+			<Text>Quality:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
+			<Text>Changes the appearance of leaders.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR] and lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Application Panel -->
+
+		<Row Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
+			<Text>Show Intro Video:</Text>
+		</Row>
+
+		<!-- Interface Panel -->
+
+		<Row Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
+			<Text>Lock Mouse to Window:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
+			<Text>Scroll when Mouse at Edge:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
+			<Text>Clock Format:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_12HOUR">
+			<Text>12-Hour</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_24HOUR">
+			<Text>24-Hour</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
+			<Text>Time of Day behavior:</Text>
+		</Row>
+
+
+		<!-- Hotkeys Panel -->
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
+			<Text>User Interface:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
+			<Text>Toggle Tech Tree</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
+			<Text>Toggle Civics Tree</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
+			<Text>Toggle Government Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
+			<Text>Toggle Religion Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
+			<Text>Toggle Great People Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
+			<Text>Toggle Great Works Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
+			<Text>Toggle Rankings Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
+			<Text>Toggle City-States Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
+			<Text>Toggle Espionage Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
+			<Text>Toggle Trade Routes Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
+			<Text>Open the Civilopedia</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
+			<Text>Toggles visibility of the Tech Tree</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
+			<Text>Toggles visibility of the Civics Tree</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
+			<Text>Toggles visibility of the Government Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
+			<Text>Toggles visibility of the Religion Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
+			<Text>Toggles visibility of the Great People Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
+			<Text>Toggles visibility of the Great Works Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
+			<Text>Toggles visibility of the Rankings Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
+			<Text>Toggles visibility of the City-States Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
+			<Text>Toggles visibility of the Espionage Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
+			<Text>Toggles visibility of the Trade Routes Screen</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
+			<Text>Opens the Civilopedia</Text>
+		</Row>
+
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
+			<Text>Unit Actions:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
+			<Text>Found City</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
+			<Text>Move To</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
+			<Text>Fortify</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
+			<Text>Delete Unit</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
+			<Text>Attack</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
+			<Text>Ranged Attack</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
+			<Text>Automate Exploration</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
+			<Text>Skip Turn</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
+			<Text>Sleep</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
+			<Text>Performs the Found City action if the selected unit is a Settler.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
+			<Text>Performs the Move To action with the selected unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
+			<Text>Fortifies the selected unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
+			<Text>Deletes the selected unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
+			<Text>Performs the Attack action with the selected unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
+			<Text>Performs the Ranged Attack action with the selected unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
+			<Text>Enables auto-explore on the selected unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
+			<Text>The selected unit skips the current turn.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
+			<Text>Performs the Sleep action with the selected unit.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
+			<Text>Global Actions:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
+			<Text>Next Action</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
+			<Text>Toggle Grid</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
+			<Text>In-Game Menu</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
+			<Text>QuickSave</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
+			<Text>QuickLoad</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
+			<Text>Ends the player's turn if possible.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
+			<Text>Toggles a grid overlay over the terrain.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
+			<Text>Brings up the in-game menu.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
+			<Text>Performs a quick save.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
+			<Text>Loads the most recent quick save, if one exists.</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
+			<Text>Online Actions:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
+			<Text>Online Pause</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
+			<Text>Pauses an Online game.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
+			<Text>Lenses:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
+			<Text>Continent</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
+			<Text>Appeal</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
+			<Text>Settler</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
+			<Text>Government</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
+			<Text>Political</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
+			<Text>Toggles the Religion lens.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
+			<Text>Toggles the Continent lens.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
+			<Text>Toggles the Appeal lens.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
+			<Text>Toggles the Settler lens.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP">
+			<Text>Toggles the Government lens.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
+			<Text>Toggles the Political lens.</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_KEY_UNDERSCORE">
+			<Text>_</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_A">
+			<Text>A</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_B">
+			<Text>B</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_C">
+			<Text>C</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_D">
+			<Text>D</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_E">
+			<Text>E</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F">
+			<Text>F</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_G">
+			<Text>G</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_H">
+			<Text>H</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_I">
+			<Text>I</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_J">
+			<Text>J</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_K">
+			<Text>K</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_L">
+			<Text>L</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_M">
+			<Text>M</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_N">
+			<Text>N</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_O">
+			<Text>O</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_P">
+			<Text>P</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_Q">
+			<Text>Q</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_R">
+			<Text>R</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_S">
+			<Text>S</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_T">
+			<Text>T</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_U">
+			<Text>U</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_V">
+			<Text>V</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_W">
+			<Text>W</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_X">
+			<Text>X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_Y">
+			<Text>Y</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_Z">
+			<Text>Z</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_0">
+			<Text>0</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_1">
+			<Text>1</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_2">
+			<Text>2</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_3">
+			<Text>3</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_4">
+			<Text>4</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_5">
+			<Text>5</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_6">
+			<Text>6</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_7">
+			<Text>7</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_8">
+			<Text>8</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_9">
+			<Text>9</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_0">
+			<Text>0 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_1">
+			<Text>1 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_2">
+			<Text>2 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_3">
+			<Text>3 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_4">
+			<Text>4 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_5">
+			<Text>5 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_6">
+			<Text>6 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_7">
+			<Text>7 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_8">
+			<Text>8 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_9">
+			<Text>9 (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
+			<Text>* (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_PLUS">
+			<Text>+ (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_MINUS">
+			<Text>- (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
+			<Text>. (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
+			<Text>/ (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_CENTER">
+			<Text>Center (Number Pad)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F1">
+			<Text>F1</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F2">
+			<Text>F2</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F3">
+			<Text>F3</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F4">
+			<Text>F4</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F5">
+			<Text>F5</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F6">
+			<Text>F6</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F7">
+			<Text>F7</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F8">
+			<Text>F8</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F9">
+			<Text>F9</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F10">
+			<Text>F10</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F11">
+			<Text>F11</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F12">
+			<Text>F12</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F13">
+			<Text>F13</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F14">
+			<Text>F14</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F15">
+			<Text>F15</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F16">
+			<Text>F16</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F17">
+			<Text>F17</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F18">
+			<Text>F18</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F19">
+			<Text>F19</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F20">
+			<Text>F20</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F21">
+			<Text>F21</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F22">
+			<Text>F22</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F23">
+			<Text>F23</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F24">
+			<Text>F24</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_INSERT">
+			<Text>Insert</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_HOME">
+			<Text>Home</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PAGEUP">
+			<Text>Page Up</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_DELETE">
+			<Text>Delete</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_END">
+			<Text>End</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PAGEDOWN">
+			<Text>Page Down</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LEFT">
+			<Text>Left Arrow</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_UP">
+			<Text>Up Arrow</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RIGHT">
+			<Text>Right Arrow</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_DOWN">
+			<Text>Down Arrow</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SEMICOLON">
+			<Text>;</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PLUS">
+			<Text>+</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_COMMA">
+			<Text>,</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MINUS">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PERIOD">
+			<Text>.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SLASH">
+			<Text>/</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_TILDE">
+			<Text>~</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LBRACKET">
+			<Text>[</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_BACKSLASH">
+			<Text>\</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RBRACKET">
+			<Text>]</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_QUOTE">
+			<Text>"</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
+			<Text>Print Scrn</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PAUSE">
+			<Text>Pause</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SPACE">
+			<Text>Space</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_TAB">
+			<Text>Tab</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RETURN">
+			<Text>Return</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_ESCAPE">
+			<Text>Esc</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_BACKSPACE">
+			<Text>Backspace</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_CANCEL">
+			<Text>Cancel</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SHIFT">
+			<Text>Shift</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_CONTROL">
+			<Text>Control</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_ALT">
+			<Text>Alt</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LSHIFT">
+			<Text>Left Shift</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LCONTROL">
+			<Text>Left Control</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LALT">
+			<Text>Left Alt</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RSHIFT">
+			<Text>Right Shift</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RCONTROL">
+			<Text>Right Control</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RALT">
+			<Text>Right Alt</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LBUTTON">
+			<Text>Left Mouse Button</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RBUTTON">
+			<Text>Right Mouse Button</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MBUTTON">
+			<Text>Middle Mouse Button</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_CAPSLOCK">
+			<Text>Caps Lock</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NUMLOCK">
+			<Text>Num Lock</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
+			<Text>Scroll Lock</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LWIN">
+			<Text>Left Win</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RWIN">
+			<Text>Right Win</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_APPS">
+			<Text>Apps</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_DANOMITE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_IGNORE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_A">
+			<Text>Pad A</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_B">
+			<Text>Pad B</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_X">
+			<Text>Pad X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_Y">
+			<Text>Pad Y</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RSHOULDER">
+			<Text>Pad RB</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LSHOULDER">
+			<Text>Pad LB</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTRIGGER">
+			<Text>Pad LT</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTRIGGER">
+			<Text>Pad RT</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_UP">
+			<Text>Pad Dpad Up</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
+			<Text>Pad Dpad Down</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
+			<Text>Pad Dpad Left</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
+			<Text>Pad Dpad Right</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_START">
+			<Text>Pad Start</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_BACK">
+			<Text>Pad Back</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
+			<Text>Pad LStick</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
+			<Text>Pad RStick</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
+			<Text>Mute</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
+			<Text>Vol. Down</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_VOLUME_UP">
+			<Text>Vol. Up</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
+			<Text>Next Track</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
+			<Text>Prev Track</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
+			<Text>Stop</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
+			<Text>Play / Pause</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NUM_KEYS">
+			<Text>Num Keys</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SUBTITLES">
+			<Text>Cinematic Subtitles:</Text>
+		</Row>
+	</FrontEndText>
+</GameData>
+
