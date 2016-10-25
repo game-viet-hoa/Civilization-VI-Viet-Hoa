@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!---->
+		<!-- PROMOTION NAME TEXT -->
+		<!---->
+		<!--Recon-->
+		<Row Tag="LOC_PROMOTION_RANGER_NAME">
+			<Text>Ranger</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ALPINE_NAME">
+			<Text>Alpine</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SENTRY_NAME">
+			<Text>Sentry</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPYGLASS_NAME">
+			<Text>Spyglass</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUERRILLA_NAME">
+			<Text>Guerrilla</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMBUSH_NAME">
+			<Text>Ambush</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAMOUFLAGE_NAME">
+			<Text>Camouflage</Text>
+		</Row>
+		<!--Melee-->
+		<Row Tag="LOC_PROMOTION_BATTLECRY_NAME">
+			<Text>Battlecry</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORTOISE_NAME">
+			<Text>Tortoise</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMMANDO_NAME">
+			<Text>Commando</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMPHIBIOUS_NAME">
+			<Text>Amphibious</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZWEIHANDER_NAME">
+			<Text>Zweihander</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_URBAN_WARFARE_NAME">
+			<Text>Urban Warfare</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_GUARD_NAME">
+			<Text>Elite Guard</Text>
+		</Row>
+		<!--Ranged-->
+		<Row Tag="LOC_PROMOTION_VOLLEY_NAME">
+			<Text>Volley</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GARRISON_NAME">
+			<Text>Garrison</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARROW_STORM_NAME">
+			<Text>Arrow Storm</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INCENDIARIES_NAME">
+			<Text>Incendiaries</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPPRESSION_NAME">
+			<Text>Suppression</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EMPLACEMENT_NAME">
+			<Text>Emplacement</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_MARKSMAN_NAME">
+			<Text>Expert Marksman</Text>
+		</Row>
+		<!--Siege-->
+		<Row Tag="LOC_PROMOTION_GRAPE_SHOT_NAME">
+			<Text>Grape Shot</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CREW_WEAPONS_NAME">
+			<Text>Crew Weapons</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHELLS_NAME">
+			<Text>Shells</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHRAPNEL_NAME">
+			<Text>Shrapnel</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HEAVY_PROJECTILES_2">
+			<Text>Heavy Projectiles 2</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME">
+			<Text>Advanced Rangefinding</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_CREW_NAME">
+			<Text>Expert Crew</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FORWARD_OBSERVERS_NAME">
+			<Text>Forward Observers</Text>
+		</Row>
+		<!--Anti-Cavalry-->
+		<Row Tag="LOC_PROMOTION_ECHELON_NAME">
+			<Text>Echelon</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_THRUST_NAME">
+			<Text>Thrust</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SQUARE_NAME">
+			<Text>Square</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCHILTRON_NAME">
+			<Text>Schiltron</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REDEPLOY_NAME">
+			<Text>Redeploy</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHOKE_POINTS_NAME">
+			<Text>Choke Points</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOLD_THE_LINE_NAME">
+			<Text>Hold the Line</Text>
+		</Row>
+		<!--Light Cavalry-->
+		<Row Tag="LOC_PROMOTION_ESCORT_MOBILITY_NAME">
+			<Text>Escort Mobility</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAPARISON_NAME">
+			<Text>Caparison</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COURSERS_NAME">
+			<Text>Coursers</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEPREDATION_NAME">
+			<Text>Depredation</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME">
+			<Text>Double Envelopment</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPIKING_THE_GUNS_NAME">
+			<Text>Spiking the Guns</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PURSUIT_NAME">
+			<Text>Pursuit</Text>
+		</Row>
+		<!--Heavy Cavalry-->
+		<Row Tag="LOC_PROMOTION_BREAKTHROUGH_NAME">
+			<Text>Breakthrough</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHARGE_NAME">
+			<Text>Charge</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BARDING_NAME">
+			<Text>Barding</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARAUDING_NAME">
+			<Text>Marauding</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROUT_NAME">
+			<Text>Rout</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARMOR_PIERCING_NAME">
+			<Text>Armor Piercing</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REACTIVE_ARMOR_NAME">
+			<Text>Reactive Armor</Text>
+		</Row>
+		<!--Aircraft Fighter-->
+		<Row Tag="LOC_PROMOTION_DOGFIGHTING_NAME">
+			<Text>Dogfighting</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INTERCEPTOR_NAME">
+			<Text>Interceptor</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRAFE_NAME">
+			<Text>Strafe</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GROUND_CREWS_NAME">
+			<Text>Ground Crews</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COCKPIT_ARMOR_NAME">
+			<Text>Cockpit Armor</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TANK_BUSTER_NAME">
+			<Text>Tank Buster</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DROP_TANKS_NAME">
+			<Text>Drop Tanks</Text>
+		</Row>
+		<!--Aircraft Bomber-->
+		<Row Tag="LOC_PROMOTION_BOX_FORMATION_NAME">
+			<Text>Box Formation</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_NAME">
+			<Text>Evasive Maneuvers</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORPEDO_BOMBER_NAME">
+			<Text>Torpedo Bomber</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME">
+			<Text>Close Air Support</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME">
+			<Text>Tactical Maintenance</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LONG_RANGE_NAME">
+			<Text>Long Range</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPERFORTRESS_NAME">
+			<Text>Superfortress</Text>
+		</Row>
+		<!--Naval Melee-->
+		<Row Tag="LOC_PROMOTION_EMBOLON_NAME">
+			<Text>Embolon</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REINFORCED_HULL_NAME">
+			<Text>Reinforced Hull</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HELMSMAN_NAME">
+			<Text>Helmsman</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AUXILIARY_SHIPS_NAME">
+			<Text>Auxiliary Ships</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RUTTER_NAME">
+			<Text>Rutter</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CONVOY_NAME">
+			<Text>Convoy</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CREEPING_ATTACK_NAME">
+			<Text>Creeping Attack</Text>
+		</Row>
+		<!--Naval Ranged-->
+		<Row Tag="LOC_PROMOTION_LINE_OF_BATTLE_NAME">
+			<Text>Line of Battle</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARDMENT_NAME">
+			<Text>Bombardment</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PREPARATORY_FIRE_NAME">
+			<Text>Preparatory Fire</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROLLING_BARRAGE_NAME">
+			<Text>Rolling Barrage</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROXIMITY_FUSES_NAME">
+			<Text>Proximity Fuses</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME">
+			<Text>Coincidence Rangefinding</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPPLY_FLEET_NAME">
+			<Text>Supply Fleet</Text>
+		</Row>
+		<!--Naval Carrier-->
+		<Row Tag="LOC_PROMOTION_FLIGHT_DECK_NAME">
+			<Text>Flight Deck</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HANGAR_DECK_NAME">
+			<Text>Hangar Deck</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FOLDING_WINGS_NAME">
+			<Text>Folding Wings</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUT_PLANES_NAME">
+			<Text>Scout Planes</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_ENGINES_NAME">
+			<Text>Advanced Engines</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DECK_CREWS_NAME">
+			<Text>Deck Crews</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPER_CARRIER_NAME">
+			<Text>Supercarrier</Text>
+		</Row>
+		<!--Naval Raider-->
+		<Row Tag="LOC_PROMOTION_LOOT_NAME">
+			<Text>Loot</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOARDING_NAME">
+			<Text>Boarding</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SWIFT_KEEL_NAME">
+			<Text>Swift Keel</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_OBSERVATION_NAME">
+			<Text>Observation</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SILENT_RUNNING_NAME">
+			<Text>Silent Running</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOMING_TORPEDOES_NAME">
+			<Text>Homing Torpedoes</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WOLFPACK_NAME">
+			<Text>Wolfpack</Text>
+		</Row>
+		<!--Apostles-->
+		<Row Tag="LOC_PROMOTION_ORATOR_NAME">
+			<Text>Orator</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROSELYTIZER_NAME">
+			<Text>Proselytizer</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSLATOR_NAME">
+			<Text>Translator</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PILGRIM_NAME">
+			<Text>Pilgrim</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INDULGENCE_VENDOR_NAME">
+			<Text>Indulgence Vendor</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HEATHEN_CONVERSION_NAME">
+			<Text>Heathen Conversion</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEBATER_NAME">
+			<Text>Debater</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARTYR_NAME">
+			<Text>Martyr</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHAPLAIN_NAME">
+			<Text>Chaplain</Text>
+		</Row>
+		<!--Spy-->
+		<Row Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
+			<Text>Technologist</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_NAME">
+			<Text>Cat Burglar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DEMOLITIONS_NAME">
+			<Text>Demolitions</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CON_ARTIST_NAME">
+			<Text>Con Artist</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME">
+			<Text>Guerilla Leader</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME">
+			<Text>Rocket Scientist</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SEDUCTION_NAME">
+			<Text>Seduction</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DISGUISE_NAME">
+			<Text>Disguise</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LINGUIST_NAME">
+			<Text>Linguist</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_QUARTERMASTER_NAME">
+			<Text>Quartermaster</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ACE_DRIVER_NAME">
+			<Text>Ace Driver</Text>
+		</Row>
+		<!---->
+		<!-- PROMOTION DESCRIPTION TEXT -->
+		<!---->
+		<!--Recon-->
+		<Row Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
+			<Text>[ICON_Movement] Di chuyển nhanh hơn trong Rừng và Rừng nhiệt đới.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ALPINE_DESCRIPTION">
+			<Text>[ICON_Movement] Di chuyển nhanh hơn trên địa hình đồi.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SENTRY_DESCRIPTION">
+			<Text>Có thể nhìn xuyên qua Rừng.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPYGLASS_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUERRILLA_DESCRIPTION">
+			<Text>Có thể di chuyển sau khi tấn công.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMMANDO_DESCRIPTION">
+			<Text>Có thể leo qua tường.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
+			<Text>+20 [ICON_Strength] Sức mạnh trong mọi tính huống.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION">
+			<Text>Chỉ có kẻ địch liền kề mới thấy được đơn vị này.</Text>
+		</Row>
+		<!--Melee-->
+		<Row Tag="LOC_PROMOTION_BATTLECRY_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị cận chiến và đánh xa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORTOISE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ chống đơn vị đánh xa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION">
+			<Text>Không phạt [ICON_Strength] Sức mạnh và [ICON_Movement] Di chuyển khi tấn công trên biển và sông.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZWEIHANDER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị chống kị binh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trong một khu vực.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_GUARD_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt nếu cho phép [ICON_Movement] Di chuyển. Có thể di chuyển sau khi tấn công.</Text>
+		</Row>
+		<!--Ranged-->
+		<Row Tag="LOC_PROMOTION_VOLLEY_DESCRIPTION">
+			<Text>+5 [ICON_Ranged] Sức mạnh đánh xa đấu với đơn vị mặt đất.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiếm một khu vực hoặc Pháo đài.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] Ranged Strength vs. land and đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] Sức mạnh đánh xa đấu với khu vực phòng thủ.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPPRESSION_DESCRIPTION">
+			<Text>Exercise zone of control.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EMPLACEMENT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ đấu với thành phố tấn công.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt nếu đơn bị không di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_CREW_DESCRIPTION">
+			<Text>Có thể tấn công sau khi di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION">
+			<Text>+1 [ICON_Range] Tầm đánh.</Text>
+		</Row>
+		<!--Anti-Cavalry-->
+		<Row Tag="LOC_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh đấu với đơn vị kỵ binh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị cận chiến.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
+			<Text>x2 [ICON_Strength] Sức mạnh khi chiếm cùng ô với đơn vị hỗ trợ.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ đấu với đơn vị cận chiến.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<!--Siege-->
+		<Row Tag="LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHRAPNEL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHELLS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với khu vực phòng thủ.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ trong Rừng, Đồi và Đầm lầy.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Đơn vị lân cận của các loại khác nhau được +10 [ICON_Strength] Sức mạnh đấu với kỵ binh.</Text>
+		</Row>
+		<!--Light Cavalry-->
+		<Row Tag="LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION">
+			<Text>Formation units all inherit escort's [ICON_Movement] Di chuyển speed.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh đấu với chống kỵ binh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh khi tấn công đơn vị dánh xa và công thành.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEPREDATION_DESCRIPTION">
+			<Text>Chi phí cướp bóc chỉ 1 điểm [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION">
+			<Text>2x flanking bonus.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị công thành.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PURSUIT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<!--Heavy Cavalry-->
+		<Row Tag="LOC_PROMOTION_CHARGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với phòng thủ cắm chốt.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BARDING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với tấn công tầm xa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARAUDING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị trong khu vực.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROUT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chống lại các đơn vị bị thiệt hại.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh chống lại đơn vị kỵ binh hạng nặng khác.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ chống lại kỵ binh hạng nặng và chống kỵ binh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt nếu cho phép [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<!--Aircraft Fighter-->
+		<Row Tag="LOC_PROMOTION_DOGFIGHTING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị loại Máy bay chiến đấu.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với phòng không.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INTERCEPTOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị loại bomber.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRAFE_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh đấu với đơn vị không phải là kỵ binh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GROUND_CREWS_DESCRIPTION">
+			<Text>Hồi sức khi tuần tra và deployed.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TANK_BUSTER_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh đấu với đơn vị kỵ binh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DROP_TANKS_DESCRIPTION">
+			<Text>+2 [ICON_Range] tầm đánh.</Text>
+		</Row>
+		<!--Aircraft Bomber-->
+		<Row Tag="LOC_PROMOTION_BOX_FORMATION_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu lại đơn vị loại Máy bay chiến đấu.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với phòng không.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
+			<Text>+12 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất đơn vị mặt đất.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION">
+			<Text>Có thể hồi sức sau khi tấn công.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LONG_RANGE_DESCRIPTION">
+			<Text>+2 [ICON_Range] Tầm đánh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION">
+			<Text>No minimum health requirement to air pillage.</Text>
+		</Row>
+		<!--Naval Melee-->
+		<Row Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ đấu với tấn công tầm xa.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RUTTER_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HELMSMAN_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
+			<Text>Hồi sức bên ngoài lãnh thổ đồng minh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh when in a formation.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION">
+			<Text>+14 [ICON_Strength] Sức mạnh đấu với hải tặc.</Text>
+		</Row>
+		<!--Naval Ranged-->
+		<Row Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
+			<Text>Hồi sức bên ngoài lãnh thổ đồng minh.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với khu vực phòng thủ.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với khu vực phòng thủ.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với tấn công trên trời.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION">
+			<Text>+1 [ICON_Range] tầm đánh.</Text>
+		</Row>
+		<!--Naval Carrier-->
+		<Row Tag="LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION">
+			<Text>+1 slot máy bay.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HANGAR_DECK_DESCRIPTION">
+			<Text>+1 slot máy bay.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION">
+			<Text>+1 slot máy bay.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DECK_CREWS_DESCRIPTION">
+			<Text>Có thể hồi sau khi tấn công.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
+			<Text>Hồi sức bên ngoài lãnh thổ đồng minh.</Text>
+		</Row>
+		<!--Naval Raider-->
+		<Row Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
+			<Text>+50 [ICON_Gold] Vàng từ các tấn công bờ biển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOARDING_DESCRIPTION">
+			<Text>Có [ICON_Gold] Vàng từ chiến thắng hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_OBSERVATION_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
+			<Text>Có thể di chuyển sau khi tấn công.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WOLFPACK_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt.</Text>
+		</Row>
+		<!--Apostle-->
+		<Row Tag="LOC_PROMOTION_ORATOR_DESCRIPTION">
+			<Text>Can spread Religion 2 extra times.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROSELYTIZER_DESCRIPTION">
+			<Text>Religious spread eliminates other Religions in the target city.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
+			<Text>Religious spread is triple strength in cities of other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
+			<Text>Gains 3 extra spreads when moving adjacent to a natural wonder for the first time.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION">
+			<Text>Gain [ICON_Gold] 100 Gold if this unit converts a city to your Religion for the first time.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION">
+			<Text>Can convert all adjacent Barbarians to your side by using a religious charge.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEBATER_DESCRIPTION">
+			<Text>+20 [ICON_Religion] Religious Strength in Theological Combat.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARTYR_DESCRIPTION">
+			<Text>Relic is created if this Apostle dies in Theological Combat.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
+			<Text>Apostle operates as a Medic, providing extra healing to units within 1 tile.</Text>
+		</Row>
+		<!--Spy-->
+		<Row Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">
+			<Text>Ăn cắp công nghệ nếu kinh nghiệm hơn 2 level.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION">
+			<Text>Ăn cắp Thành tựu vĩ đại nếu kinh nghiệm hơn 2 level.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION">
+			<Text>Phá hoại sản xuất nếu kinh nghiệm hơn 2 level.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION">
+			<Text>Siphon Funds as if 2 levels more experienced.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION">
+			<Text>Recruit Partisans as if 2 levels more experienced.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION">
+			<Text>Disrupt Rocketry as if 2 levels more experienced.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION">
+			<Text>Counterspy as if 2 levels more experienced.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION">
+			<Text>Takes no time to establish presence in an enemy city.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION">
+			<Text>Time to complete all missions reduced by 25%.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION">
+			<Text>If this Spy is in home territory, all your Spies operate at +1 level.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION">
+			<Text>If caught on a mission, have a much higher chance of escape (+4 levels).</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

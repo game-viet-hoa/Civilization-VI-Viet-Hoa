@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--RELIGIONS-->
+		<Row Tag="LOC_RELIGION_PANTHEON">
+			<Text>Vị thần</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_BUDDHISM">
+			<Text>Đạo Phật</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CATHOLICISM">
+			<Text>Đạo thiên chúa</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CONFUCIANISM">
+			<Text>Đạo Khổng</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_HINDUISM">
+			<Text>Đạo Hindu</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ISLAM">
+			<Text>Đạo Hồi</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_JUDAISM">
+			<Text>Đạo Do Thái</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ORTHODOXY">
+			<Text>Chính Thống Đông Phương</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_PROTESTANTISM">
+			<Text>Đạo Tin lành</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SHINTO">
+			<Text>Đạo thần Nhật bản</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SIKHISM">
+			<Text>Đạo Sikh</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_TAOISM">
+			<Text>Đạo giáo</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ZOROASTRIANISM">
+			<Text>Đạo Hỏa</Text>
+		</Row>
+		<!--BELIEF CLASSES-->
+		<Row Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
+			<Text>Vị thần</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
+			<Text>Người theo</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
+			<Text>Tôn sùng</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+			<Text>Người sáng lập</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
+			<Text>Người cải thiện</Text>
+		</Row>
+		<!--MISCELLANEOUS-->
+		<Row Tag="LOC_RELIGION_MARTYRED_APOSTLE">
+			<Text>Tử Ðạo</Text>
+		</Row>
+		<!--PANTHEON NAMES-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
+			<Text>Dance of the Aurora</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
+			<Text>Desert Folklore</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PATH_NAME">
+			<Text>Sacred Path</Text>
+		</Row>
+		<!--Pantheon - Amenity Bonuses-->
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
+			<Text>River Goddess</Text>
+		</Row>
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
+			<Text>Monument to the Gods</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
+			<Text>Divine Spark</Text>
+		</Row>
+		<!--Pantheon - Local Feature Bonuses-->
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
+			<Text>Lady of the Reeds and Marshes</Text>
+		</Row>
+		<!--Pantheon - Local Resource Bonuses-->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
+			<Text>God of the Sea</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
+			<Text>God of the Open Sky</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
+			<Text>Goddess of the Hunt</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
+			<Text>Stone Circles</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
+			<Text>Religious Idols</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
+			<Text>God of Craftsmen</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
+			<Text>Goddess of Festivals</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
+			<Text>Oral Tradition</Text>
+		</Row>
+		<!--Pantheon - Military -->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
+			<Text>God of the Forge</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
+			<Text>God of War</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_NAME">
+			<Text>Initiation Rites</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
+			<Text>God of Healing</Text>
+		</Row>
+		<!--Pantheon - General Purpose-->
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
+			<Text>Fertility Rites</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
+			<Text>Religious Settlements</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
+			<Text>Goddess of the Harvest</Text>
+		</Row>
+		<!--2. WORSHIP BELIEFS-->
+		<Row Tag="LOC_BELIEF_CATHEDRAL_NAME">
+			<Text>Cathedral</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_NAME">
+			<Text>Gurdwara</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
+			<Text>Meeting House</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MOSQUE_NAME">
+			<Text>Mosque</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_NAME">
+			<Text>Pagoda</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SYNAGOGUE_NAME">
+			<Text>Synagogue</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WAT_NAME">
+			<Text>Wat</Text>
+		</Row>
+		<!--3. FOLLOWER BELIEFS-->
+		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
+			<Text>Divine Inspiration</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
+			<Text>Feed the World</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
+			<Text>Jesuit Education</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_NAME">
+			<Text>Reliquaries</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
+			<Text>Religious Community</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_NAME">
+			<Text>Work Ethic</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
+			<Text>Zen Meditation</Text>
+		</Row>
+		<!--4. FOUNDER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
+			<Text>Church Property</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
+			<Text>Lay Ministry</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
+			<Text>Papal Primacy</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_NAME">
+			<Text>Pilgrimage</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_NAME">
+			<Text>Stewardship</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_NAME">
+			<Text>Tithe</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
+			<Text>World Church</Text>
+		</Row>
+		<!--5. ENHANCER BELIEFS-->
+		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
+			<Text>Defender of the Faith</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_ORDER_NAME">
+			<Text>Holy Order</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
+			<Text>Itinerant Preachers</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JUST_WAR_NAME">
+			<Text>Crusade</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
+			<Text>Missionary Zeal</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
+			<Text>Monastic Isolation</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCRIPTURE_NAME">
+			<Text>Scripture</Text>
+		</Row>
+		<!--PANTHEON DESCRIPTIONS-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
+			<Text>Khu thành phố thần thánh +1 [ICON_Faith] Lòng tin từ địa hình Đài nguyên gần kề.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
+			<Text>Khu thành phố thần thánh +1 [ICON_Faith] Lòng tin từ địa hình Sa mạc gần kề.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
+			<Text>Khu thành phố thần thánh +1 [ICON_Faith] Lòng tin từ địa hình Rừng nhiệt đới gần kề.</Text>
+		</Row>
+		<!--Pantheon - Amenity Bonuses-->
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi nếu thành phố thần thánh gần kề một dòng sông.</Text>
+		</Row>
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm kỳ quan thời Xa xưa và Cổ đại.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
+			<Text>+1 Vĩ nhân từ thành phố thần thánh (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
+		</Row>
+		<!--Pantheon - Local Feature Bonuses-->
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ from Đầm lầy, Ốc đảo, và Vùng lũ.</Text>
+		</Row>
+		<!--Pantheon - Local Resource Bonuses-->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ Thuyến đánh cá.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh từ Trang trại.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm từ Trại.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
+			<Text>+2 [ICON_Faith] Lòng tin từ Mỏ đá.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
+			<Text>+1 [ICON_Faith] Lòng tin từ đào tài nguyên quý và thưởng.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ đào tài nguyên chiến thuật.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm từ Vườn ươm [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Nhang, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê, và [ICON_RESOURCE_TEA] Trà.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh từ Vườn ươm [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị, and [ICON_RESOURCE_SUGAR] Đường.</Text>
+		</Row>
+		<!--Pantheon - Military -->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
+			<Text>+25% [ICON_Production] Sản phẩm đơn vị quân sự thời Xa xưa và Cổ đại.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
+			<Text>+30 chữa trị trong thành phố thần thánh hoặc bất kỳ ô đất liền kề.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
+			<Text>Thưởng [ICON_Faith] Lòng tin bằng 50% sức mạnh kẻ địch bị giết trong bán kính 8 ô của khu vực thành phố thần thánh.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+			<Text>+50 [ICON_Faith] Lòng tin mỗi khi tiền đồn quân man rợ bị xóa bỏ.</Text>
+		</Row>
+		<!--Pantheon - General Purpose-->
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
+			<Text>Tỉ lệ thành phố tăng trưởng cao hơn 10%.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
+			<Text>Tỉ lệ mở rộng biên giới cao hơn 15%.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
+			<Text>Thu hoặc một tài nguyên hoạc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Lòng tin bằng với số sản lượng khác.</Text>
+		</Row>
+		<!--2. WORSHIP BELIEFS-->
+		<Row Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
+			<Text>Cho phép xây dựng Nhà thờ lớn (+3 [ICON_Faith] Lòng tin, 1 slot nghệ thuật tôn giáo).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
+			<Text>Cho phép xây dựng Thánh đường Sikh (+3 [ICON_Faith] Lòng tin, +2 [ICON_Food] Thực phẩm).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
+			<Text>Cho phép xây dựng Nhà thờ (+3 [ICON_Faith] Lòng tin, +2 [ICON_Production] Sản phẩm).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
+			<Text>Cho phép xây dựng Nhà thờ Hồi giáo (+3 [ICON_Faith] Lòng tin). Truyền giáo và các môn đồ +1 lan rộng.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+			<Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Lòng tin, +1 [ICON_Housing] Nhà ở).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
+			<Text>Cho phép xây dựng Giáo đường (+5 [ICON_Faith] Lòng tin).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WAT_DESCRIPTION">
+			<Text>Cho phép xây dựng Tu viện phật giáo (+3 [ICON_Faith] Lòng tin, +2 [ICON_Science] Khoa học).</Text>
+		</Row>
+		<!--3. FOLLOWER BELIEFS-->
+		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
+			<Text>Tất cả kỳ quan thế giới +4 [ICON_Faith] Lòng tin.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
+			<Text>Miếu và Đền thờ cung cấp [ICON_Food] Thực phẩm bằng to their intrinsic [ICON_Faith] Lòng tin output.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
+			<Text>Có thể mua Khu tri thức và Khu nghệ thuật bằng [ICON_Faith] Lòng tin.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Di tích được x3 cho cả hai [ICON_Faith] Lòng tin và [ICON_Tourism] Du lịch.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
+			<Text>Mỗi Miếu và Đền thờ cung cấp +1 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
+			<Text>+1% [ICON_Production] Sản phẩm cho mỗi người theo đạo.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi trong tất cả thành phố với 2 khu vực.</Text>
+		</Row>
+		<!--4. FOUNDER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng cho mỗi thành phố theo đạo tôn giáo này.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
+			<Text>Mỗi thành phố thần thánh hoặc khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Lòng tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Thưởng các loại từ thành phố tự trị theo đạo tôn giáo của bạn hơn 50%.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
+			<Text>+2 [ICON_Faith] Lòng tin cho mỗi thành phố theo đạo tôn giáo này ở trong nền văm minh khác và các thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
+			<Text>Mỗi khu tri thức hoặc trung tâm thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng cho mỗi 4 người theo đạo tôn giáo này.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh cho mỗi 5 người theo đạo tôn giáo này ở bên trong nền văn minh khác.</Text>
+		</Row>
+		<!--5. ENHANCER BELIEFS-->
+		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở trong biên giới thành phố thân thiện mà có theo đạo tôn giáo này.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
+			<Text>Mua Nhà truyền giáo vào các tông đồ rẻ hơn 30%.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
+			<Text>Tôn giáo lan tới các thành phố với hơn 30%.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
+			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở gần thành phố nước ngoài có theo đạo tôn giáo này.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
+			<Text>Dơn vị tôn giáo bỏ qua điểm phạt [ICON_Movement] Di chuyển trên các địa hình.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
+			<Text>Áp lực tôn giáo không bao giờ giảm do thua trong trận chiến thần học.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
+			<Text>Tôn giáo lan từ các thành phố lân cận mạnh hơn 25%. Thưởng 50% ki nghiên cứu In ấn.</Text>
+		</Row>
+		<!--BELIEF COMBAT BONUSES-->
+		<Row Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>+{1_Value} Phòng thủ của Niềm tin tín ngường</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
+			<Text>+{1_Value} Chiến dịch Tín ngưỡng</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

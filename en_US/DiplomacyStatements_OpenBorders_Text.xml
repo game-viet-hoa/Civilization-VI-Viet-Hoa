@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Tôi cho phép đơn vị của bạn tự do đi lại trong lãnh thổ của tôi.</Text>
+		</Row>
+		
+		<!-- AI rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Tôi không quan tâm vào thời điểm này.</Text>
+		</Row>
+		
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Bạn có cho phép đơn vị của tôi tự do đi lại trong lãnh thổ của bạn?</Text>
+		</Row>
+		
+		<!-- Human accepts AI, AI respones -->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Tuyệt vời!</Text>
+		</Row>
+
+		<!-- Human rejects AI, AI respones -->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Thật không may</Text>
+		</Row>
+
+		<!-- Selections -->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
+			<Text>Tôi không cho phép.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_POSITIVE">
+			<Text>Đơn vị của bạn được chào mừng trong lãnh thổ của chúng tôi.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORGO_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HOJO_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SALADIN_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Tôi đồng ý hòa bình.</Text>
+		</Row>
+
+		<!-- AI refuses human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GANDHI_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HOJO_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PEDRO_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PERICLES_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SALADIN_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Không! Tôi không chấp nhận!</Text>
+		</Row>
+
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Bạn có muốn hòa bình giữa hai chúng ta.</Text>
+		</Row>
+
+		<!-- Human accepts, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Chiến tranh chấm dứt.</Text>
+		</Row>
+
+		<!-- Human rejects, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Tiếp tục chiến tranh.</Text>
+		</Row>
+
+		<!-- Choices -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
+			<Text>Từ chối thỏa thuận hòa bình</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_POSITIVE">
+			<Text>Chấp nhận thỏa thuận hòa bình</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <BaseGameText>
+    <!-- Modifier Object Text - Used in GameCore -->
+    <Row Tag="LOC_MODIFIER_OBJECT_BUILDING">
+      <Text>Building|Buildings</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_CITY">
+      <Text>City|Cities</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_DISTRICT">
+      <Text>District|Districts</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
+      <Text>Government|Governments</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_PLAYER">
+      <Text>Player|Players</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
+      <Text>Player Captured unit|Player Captured units</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_POLICY">
+      <Text>Policy|Policies</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_TEAM">
+      <Text>Team|Teams</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_TECHNOLOGY">
+      <Text>Technology|Technologies</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_UNIT">
+      <Text>Unit|Units</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
+      <Text>Unit Promotion|Unit Promotions</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+  </BaseGameText>
+</GameData>

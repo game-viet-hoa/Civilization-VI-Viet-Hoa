@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- First AI line -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY">
+			<Text>Tôi là Mvemba a Nzinga và rất chào mừng bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Tôi là Catherine. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY">
+			<Text>Tôi là Cleopatra. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY">
+			<Text>Tôi là Holy Roman Emperor Frederick. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY">
+			<Text>Tôi là Mohandas Gandhi. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY">
+			<Text>Tôi là Gilgamesh. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY">
+			<Text>Tôi là Gorgo. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
+			<Text>Tôi là Harald Sigurdsson. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
+			<Text>Tôi là Hojo Tokimune. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY">
+			<Text>Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
+			<Text>Tôi là Pericles. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
+			<Text>Tôi là Tsar Peter. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY">
+			<Text>Tôi là Philip II. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY">
+			<Text>Tôi là Tần Thủy Hoàng. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY">
+			<Text>Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY">
+			<Text>Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY">
+			<Text>Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
+			<Text>Tôi là Imperator Caesar Trajan. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
+			<Text>Tôi là Victoria. Rất vui khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
+			<Text>Chào mừng vị khách. Bạn nên biết rằng bạn đang đứng trước một sự hiện diện vĩ đại!</Text>
+		</Row>
+		<!-- Human Responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_POSITIVE">
+			<Text>Đây là một vinh dự lớn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY">
+			<Text>Chúng tôi sợ quá bận để nán lại trò chuyện.</Text>
+		</Row>
+		<!-- AI invitation to visit nearby City -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PHILIP_II_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
+			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+		</Row>
+		<!-- Human Responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
+			<Text>Chúng tôi rất thích lòng hiếu khách.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT">
+			<Text>Xin lỗi giờ không phải lúc.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_POSITIVE">
+			<Text>Bạn có muốn đến thăm thành phố bên cạnh chúng tôi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY">
+			<Text>Cảm ơn đã giới thiệu, nhưng chúng tôi không có thời gian.</Text>
+		</Row>
+		<!-- AI accepts Human invitation -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
+			<Text>Chúng tôi đồng ý</Text>
+		</Row>
+		<!-- Human responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
+			<Text>Rất vinh dự khi được gặp bạn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE">
+			<Text>Thấy người lạ, tôi quá bận để ở lại trò chuyện.</Text>
+		</Row>
+		<!-- AI invitation to exchange Capital Information -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
+			<Text>Bạn có muốn chúng ta cùng nhau trao đổi các thông tin về thủ đô của mình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
+			<Text>Trao đổi thông tin về thủ đô là ý tưởng tuyệt vời. Nó sẽ giúp phát triển nền văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_INFO">
+			<Text>Xin lỗi, tôi không thể tiết lộ thông tin ngay lúc này.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
