@@ -5,4 +5,4 @@ Bản việt hóa của trò chơi Sid Meier’s Civilization® VI
 
 - Muốn quay về tiếng Anh thì sử dụng thư mục Original.
 
-- Để cả 2 thư mục en_US và Original thì game sẽ sử dụng tiếng Anh.
+- Tránh để cả 2 thư mục en_US và Original cùng chỗ bởi vì game sẽ sử dụng tiếng Anh.
