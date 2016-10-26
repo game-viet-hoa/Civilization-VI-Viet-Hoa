@@ -170,16 +170,16 @@
 			<Text>+10 [ICON_Strength] Combat Strength against anti-cavalry units.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Di chuyển if starting in Desert, Plains, Grassland, or Tundra.</Text>
+			<Text>+1 [ICON_Movement] Movement if starting in Desert, Plains, Grassland, or Tundra.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
-			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Di chuyển. Unlocked by the Missionary Zeal belief.</Text>
+			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Movement. Unlocked by the Missionary Zeal belief.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
 			<Text>Not affected by enemy zone of control.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Di chuyển if starting in Desert, Plains, Grassland, or Tundra.</Text>
+			<Text>+2 [ICON_Movement] Movement if starting in Desert, Plains, Grassland, or Tundra.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
 			<Text>Cannot move and attack in the same turn.</Text>
@@ -242,16 +242,16 @@
 			<Text>Can heal in neutral territory.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
-			<Text>While on a water tile, its [ICON_TradeRoute] Tuyến đường thương mại cannot be plundered by enemy units. Obtained when Suzerain of Lisbon city-state.</Text>
+			<Text>While on a water tile, its [ICON_TradeRoute] Trade Route cannot be plundered by enemy units. Obtained when Suzerain of Lisbon city-state.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
 			<Text>+7 [ICON_Strength]Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Di chuyển if this unit starts in enemy territory.</Text>
+			<Text>+2 [ICON_Movement] Movement if this unit starts in enemy territory.</Text>
 		</Row>
     <Row Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
-      <Text>+1 [ICON_Movement] Di chuyển while in coastal waters.</Text>
+      <Text>+1 [ICON_Movement] Movement while in coastal waters.</Text>
     </Row>
     <Row Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
 			<Text>Can capture defeated enemy naval vessels.</Text>
@@ -275,13 +275,13 @@
 			<Text>-5 [ICON_Strength] Combat Strength to adjacent enemy units.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when defending against ranged units, can see through features, and can move through Woods and Rainforest without [ICON_Movement] Di chuyển penalty.</Text>
+			<Text>+10 [ICON_Strength] Combat Strength when defending against ranged units, can see through features, and can move through Woods and Rainforest without [ICON_Movement] Movement penalty.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Combat Strength when there is an Apostle, Inquisitor, or Missionary in the same hex. If this unit captures a city or is adjacent to a city when it's captured, the city will automatically convert to the Conquistador player's majority Religion.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when on the same continent as the [ICON_Capital] Capital. +10 Tướng quân vĩ đại points for kills.</Text>
+			<Text>+10 [ICON_Strength] Combat Strength when on the same continent as the [ICON_Capital] Capital. +10 Great General points for kills.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Combat Strength if there is at least one Hoplite adjacent.</Text>
@@ -290,7 +290,7 @@
 			<Text>+10 [ICON_Strength] Combat Strength in Ocean combat.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
-			<Text>When defeating an enemy unit, gain [ICON_Culture] Văn minh equal to 50% that unit's base [ICON_Strength] Combat Strength when fighting on your [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
+			<Text>When defeating an enemy unit, gain [ICON_Culture] Culture equal to 50% that unit's base [ICON_Strength] Combat Strength when fighting on your [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
 			<Text>Receives a Combat bonus vs. Fighers, has an extended attack range, and earns more experience from combat.</Text>
@@ -303,7 +303,7 @@
 		</Row>
 		<!-- Combat preview description -->
 		<Row Tag="LOC_COMBAT_DIFFICULTY_SCALING">
-			<Text>+{Amount} thưởng do khó khăn.</Text>
+			<Text>+{Amount} bonus due to difficulty.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
 			<Text>+10 against cavalry</Text>
@@ -315,7 +315,7 @@
 			<Text>+1 MP when start in open terrain.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
-			<Text>All terrain costs 1 [ICON_Movement] Di chuyển.</Text>
+			<Text>All terrain costs 1 [ICON_Movement] Movement.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
 			<Text>Not affected by ZOC.</Text>
@@ -441,7 +441,7 @@
 			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
-			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Di chuyển.</Text>
+			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Movement.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
 			<Text>Ignore movement cost for river crossing.</Text>

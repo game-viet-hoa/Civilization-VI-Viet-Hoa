@@ -12,109 +12,109 @@
 			<Text>What would you like to do, my liege?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
-			<Text>Thiết lập tình hữu nghị</Text>
+			<Text>Declare Friendship</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
-			<Text>Đề xuất hòa bình</Text>
+			<Text>Make Peace</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
-			<Text>[SIZE_16]Yêu cầu đi lại tự do[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Request Open Borders[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
-			<Text>[SIZE_16]Gửi phái đoàn[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Send Delegation[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
-			<Text>[SIZE_16]Đại sứ quán thường trú[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Establish Resident Embassy[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
-			<Text>Tố cáo</Text>
+			<Text>Denounce</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
-			<Text>[SIZE_16]Chiến tranh bất ngờ[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Declare Surprise War[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Declare Formal War[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
-			<Text>[SIZE_16]Tuyên bố thánh chiến[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Declare Holy War[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh giải phóng[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố đồng minh)[NEWLINE]</Text>
+			<Text>[SIZE_16]Declare War of Liberation[NEWLINE][SIZE_12](No warmongering if capture friendly cities)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh chống xâm lược[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố của bạn)[NEWLINE]</Text>
+			<Text>[SIZE_16]Declare War of Reconquest[NEWLINE][SIZE_12](No warmongering if capture your cities)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh bảo kê[NEWLINE][SIZE_12](Không bị phạt nếu phòng thủ thành phố tự trị dồng minh)[NEWLINE]</Text>
+			<Text>[SIZE_16]Declare Protectorate War[NEWLINE][SIZE_12](No warmongering if defend allied city-state)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh thuộc địa[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Declare Colonial War[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh mở rộng lãnh thổ[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Declare War of Territorial Expansion[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
-			<Text>Hình phạt gây chiến: {1_WarmongerLevel}</Text>
+			<Text>Warmonger penalty: {1_WarmongerLevel}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
-			<Text>Giá {1_Cost} [ICON_Gold] Vàng</Text>
+			<Text>Costs {1_Cost} [ICON_Gold] Gold</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
-			<Text>Bạn có chắc muốn đi đến?</Text>
+			<Text>Are you sure you want to go to war?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
-			<Text>Chiến</Text>
+			<Text>Yes</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
-			<Text>Không</Text>
+			<Text>No</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
-			<Text>Tạo thỏa thuận</Text>
+			<Text>Make Deal</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
-			<Text>Tạo yêu cầu</Text>
+			<Text>Make Demand</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_IGNORE">
-			<Text>Từ chối yêu cầu.</Text>
+			<Text>Ignore this Request.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_EXIT">
-			<Text>Tạm biệt</Text>
+			<Text>Goodbye</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
-			<Text>Đề xuất bán đấu giá</Text>
+			<Text>Propose Auction</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_INTRO">
-			<Text>Tôi có thể làm gì cho bạn?</Text>
+			<Text>What can I do for you?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_INTRO_AI">
-			<Text>Bạn nghĩ gì về điều này?</Text>
+			<Text>What do you think of this?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEMAND_INTRO">
-			<Text>Yêu cầu của tôi phải được đáp ứng.</Text>
+			<Text>My demands must be met.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
-			<Text>Xem thỏa thuận</Text>
+			<Text>View Deal</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
-			<Text>Xem yêu cầu</Text>
+			<Text>View Demand</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
-			<Text>Không có sẵn item để yêu cầu.</Text>
+			<Text>No available items to demand.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
-			<Text>Không có sẵn item để thỏa thuận.</Text>
+			<Text>No available items to use in a deal.</Text>
 		</Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
-      <Text>Hứa không gián điệp</Text>
+      <Text>Promise Not to Spy on Me</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
-      <Text>Hứa dân di cư không gần các thành phố của tôi</Text>
+      <Text>Promise Not to Settle Too Near My Cities</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
-      <Text>Hứa không chuyển đôi thành phố</Text>
+      <Text>Promise Not to Convert My Cities</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
-      <Text>Hứa không đào cổ vật</Text>
+      <Text>Promise Not to Dig Up My Artifacts</Text>
     </Row>
 	</BaseGameText>
 </GameData>

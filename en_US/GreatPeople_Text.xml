@@ -4,565 +4,565 @@
 	<BaseGameText>
 		<!-- UI -->
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
-			<Text>Kích hoạt hiệu ứng</Text>
+			<Text>Activated Effect</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
-			<Text>Tạo thành tựu vĩ đại</Text>
+			<Text>Create Great Work</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
-			<Text>Sáng lập tôn giáo</Text>
+			<Text>Found Religion</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
-			<Text>Về hưu</Text>
+			<Text>Retire</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_CHARGES">
-			<Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?lần; other?lần;}</Text>
+			<Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?Charge; other?Charges;}</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
-			<Text>Kích hoạt ở Khu linh thiêng hoặc Bãi đá Stonehenge.</Text>
+			<Text>Activate at a Holy Site district or Stonehenge.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
-			<Text>Kích hoạt ở khu vực hoặc kỳ quan với một slot Thành tựu vĩ đại.</Text>
+			<Text>Activate at a district or wonder with an available Great Work slot.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
-			<Text>Kích hoạt trên ô đất không có chủ sở hữu.</Text>
+			<Text>Activate on a tile that no player owns.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_DOES_NOT_NEED_OWNED_TILE">
-			<Text>Có thể kích hoạt ngay cả trên ô đất bạn không sở hữu.</Text>
+			<Text>May activate even on tiles you do not own.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OWNED_TILE">
-			<Text>Kích hoạt trên ô đất của bạn.</Text>
+			<Text>Activate on a tile you own.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
-			<Text>Kích hoạt bên cạnh đơn vị quân man rợ.</Text>
+			<Text>Activate next to Barbarian units.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
-			<Text>Kích hoạt bên cạnh núi.</Text>
+			<Text>Activate next to a Mountain.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_TO_OWNED_TILE">
-			<Text>Kích hoạt bên cạnh ô đất của bạn.</Text>
+			<Text>Activate next to a tile that you own.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_GREAT_WORK_OBJECT">
-			<Text>Kích hoạt bên trong thành phố với {LOC_GRAMMAR_A_AN_WITH_ICON &lt;&lt; {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}} Thành tự vĩ đại.</Text>
+			<Text>Activate in a city with {LOC_GRAMMAR_A_AN_WITH_ICON &lt;&lt; {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}} great work.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_COMPLETED_DISTRICT">
-			<Text>Kích hoạt tại {1_DistrictName}.</Text>
+			<Text>Activate at a {1_DistrictName} district.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_SPACE_RACE_PROJECT">
-			<Text>Kích hoạt trên dự án Chạy đua vào không gian đang xây dựng.</Text>
+			<Text>Activate on a Space Race project being constructed.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_WONDER">
-			<Text>Kích hoạt trên kỳ quan đang được xây dựng.</Text>
+			<Text>Activate on a wonder being constructed.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT">
-			<Text>Kích hoạt trên một đơn vị quân đội mặt đất.</Text>
+			<Text>Activate on a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
-			<Text>Kích hoạt trên một đơn vị hải quân.</Text>
+			<Text>Activate on a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
-			<Text>Kích hoạt trên một đơn vị không quân.</Text>
+			<Text>Activate on a military air unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
-			<Text>Kích hoạt trên một ô với đơn vị dân sự.</Text>
+			<Text>Activate on a tile with no military unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
-			<Text>Kích hoạt trên hoặc ô bên cạnh {1_FeatureName}.</Text>
+			<Text>Activate on or next to a tile with {1_FeatureName}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
-			<Text>Kích hoạt trên hoặc bên cạnh kỳ quan thiên nhiên.</Text>
+			<Text>Activate on or next to a natural wonder.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION">
-			<Text>Kích hoạt trên đơn vị quân sự mà đó không phải là Trung đội hay Đại đội.</Text>
+			<Text>Activate on a military unit that is not a Corps or an Army.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION">
-			<Text>Kích hoạt trên một đơn vị Trung đội.</Text>
+			<Text>Activate on a Corps military unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
-			<Text>Kích hoạt trên một đơn vị Đại đội.</Text>
+			<Text>Activate on an Army military unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
-			<Text>Kích hoạt trên một tài nguyên quý.</Text>
+			<Text>Activate on a Luxury resource.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ANYWHERE">
-			<Text>Kích hoạt trên ô đất bất kỳ.</Text>
+			<Text>Activate on any tile.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_OPEN_PLAYER_RELIC_SLOT">
-		  <Text>Phải có mở một slot [ICON_GreatWork_Relic] Di tích ở một trong những thành phố của bạn.</Text>
+		  <Text>Must have an open [ICON_GreatWork_Relic] Relic great work slot in one of your cities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MISSING_BUILDING">
-		  <Text>Thành phố phải chưa có kiến trúc {1_BuildingName}.</Text>
+		  <Text>City must not already have the {1_BuildingName} building.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_GOLD_COST">
-			<Text>Chi phí hành động {1_GoldAmount} [ICON_Gold] Vàng.</Text>
+			<Text>Action costs {1_GoldAmount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
-			<Text>Tìm thấy một tôn giáo, và đưa thành phố này làm thành phố thần thánh.</Text>
+			<Text>Founds a Religion, and establishes this city as a Holy City.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
 			<Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
-			<Text>Hiệu ứng nội tại</Text>
+			<Text>Passive Effect</Text>
 		</Row>
 		<!-- Shared by Multiple Classes -->
 		<Row Tag="LOC_GREATPERSON_GOLD">
-			<Text>Gán {Amount} {YieldType} ngay lập tức.</Text>
+			<Text>Gain {Amount} {YieldType} immediately.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
-			<Text>Tự tạo thời khắc [ICON_TechBoosted] cho công nghệ Máy tính.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Computers technology.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
-			<Text>Tự tạo thời khắc [ICON_TechBoosted] cho {Amount} {Amount : plural 1?công nghệ; other?công nghệ;} ngẫu nhiên từ thời Hiện đại.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Modern era.</Text>
 		</Row>
 		<!-- Generals -->
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>+5 [ICON_Strength] Sức mạnh từ Tướng quân vĩ đại.</Text>
+			<Text>+5 [ICON_Strength] Combat Bonus from Great General.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
-			<Text>+5 [ICON_Strength] Sức mạnh từ Đô đốc vĩ đại.</Text>
+			<Text>+5 [ICON_Strength] Combat Bonus from Great Admiral.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Cổ đại và Trung cổ trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Classical and Medieval era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Trung cổ và Phục hưng trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Medieval and Renaissance era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Phục hưng và Công nghiệp trong bán kính 2 ô..</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Renaissance and Industrial era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Công nghiệp và Hiện đại trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Industrial and Modern era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Hiện đại và Nguyên tử trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Modern and Atomic era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Nguyên tử và Thông tin trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Atomic and Information era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Thông tin trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Information era land units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
-			<Text>Điều khiển đơn vị quân man rợ liền kề.</Text>
+			<Text>Converts adjacent Barbarian units to your control.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
-			<Text>Gán 1 level tăng cấp cho một đơn vị quân sự mặt đất.</Text>
+			<Text>Grants 1 promotion level to a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Hiệp sĩ.</Text>
+			<Text>Instantly creates a Knight unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EL_CID_ACTIVE">
-			<Text>Tạo một Trung Đội cho đơn vị quân sự mặt đất.</Text>
+			<Text>Forms a Corps out of a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GENGHIS_KHAN_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +25% EXP cho một đơn vị quân sự mặt đất.</Text>
+			<Text>Grants 1 promotion level and +25% combat experience to a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
-			<Text>Ngay lập tức có đơn vị đánh xa với 1 level tăng cấp.</Text>
+			<Text>Instantly creates a Bombard unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
-			<Text>Tạo một [ICON_GreatWork_Relic] di tích.</Text>
+			<Text>Creates a [ICON_GreatWork_Relic] Relic.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ANA_NZINGA_ACTIVE">
-			<Text>Gán {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_NAPOLEON_BONAPARTE_ACTIVE">
-			<Text>Tạo một Đại đội cho đơn vị quân sự mặt đất</Text>
+			<Text>Forms an Army out of a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RANI_LAKSHMIBAI_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Kỵ binh với 1 level thăng cấp.</Text>
+			<Text>Instantly creates a Cavalry unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
-			<Text>Gán {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOHN_MONASH_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +75% EXP cho một đơn vị quân sự mặt đất.</Text>
+			<Text>Grants 1 promotion level and +75% combat experience to a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
-			<Text>Khu vực trên ô này +1 slot đơn vị không quân.</Text>
+			<Text>District in this tile gains +1 air unit slots.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Bộ binh với 1 level tăng cấp.</Text>
+			<Text>Instantly creates an Infantry unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DWIGHT_EISENHOWER_ACTIVE">
-			<Text>+5% [ICON_Production] Sản phẩm đối với đơn vị quân sự.</Text>
+			<Text>+5% [ICON_Production] Production towards military units.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GEORGY_ZHUKOV_ACTIVE">
-			<Text>+50% cho hỗ trợ thọc sườn cho tất cả đơn vị mặt đất.</Text>
+			<Text>+50% flanking bonus for all land units.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +100% EXP cho một đơn vị quân sự mặt đất.</Text>
+			<Text>Grants 1 promotion level and +100% combat experience to a military land unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Tank với 1 level tăng cấp.</Text>
+			<Text>Instantly creates a Tank unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Chống Tank hiện đại với 1 level tăng cấp.</Text>
+			<Text>Instantly creates a Modern Anti-Tank unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +100% EXP cho một đơn vị quân sự mặt đất.</Text>
+			<Text>Grants 1 promotion level and +100% combat experience to a military land unit.</Text>
 		</Row>
 		<!-- Admirals -->
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Cổ đại và Trung cổ trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Classical and Medieval era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Trung cổ và Phục hưng trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Medieval and Renaissance era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Phục hưng và Công nghiệp trong bán kính 2 ô..</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Renaissance and Industrial era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Công nghiệp và Hiện đại trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Industrial and Modern era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Hiện đại và Nguyên tử trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Modern and Atomic era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Nguyên tử và Thông tin trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Atomic and Information era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
-			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời Thông tin trong bán kính 2 ô.</Text>
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Information era naval units within 2 tiles.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
-			<Text>Gán 1 level tăng cấp cho một đơn vị hải quân.</Text>
+			<Text>Grants 1 promotion level to a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
-			<Text>Tạo một Hải đoàn của một đơn vị hải quân.</Text>
+			<Text>Forms a Fleet out of a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Thuyền mái chèo.</Text>
+			<Text>Instantly creates a Quadrireme unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
-			<Text>Cho phép tất cả đơn vị hải quân di chuyển trên biển mà không cần công nghệ.</Text>
+			<Text>Allows all naval units to move over ocean tiles without the normal technology requirement.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
-			<Text>Gán 50 [ICON_Gold] Vàng (trên tốc độ thường). Đơn vị hải quân có thêm +40% khi cướp [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Gain 50 [ICON_Gold] Gold (on Standard speed). Military units get +40% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ZHENG_HE_ACTIVE">
-			<Text>Gán {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FRANCIS_DRAKE_ACTIVE">
-			<Text>Gán 75 [ICON_Gold] Vàng (trên tốc độ thường). Đơn vị hải quân có thêm +50% khi cướp [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Gain 75 [ICON_Gold] Gold (on Standard speed). Military units get +50% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
-			<Text>Tạo một Hạm đội của một đơn vị hải quân.</Text>
+			<Text>Forms an Armada out of a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Tàu bọc thép với 1 level tăng cấp.</Text>
+			<Text>Instantly creates an Ironclad unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHING_SHIH_ACTIVE">
-			<Text>Gán 100 [ICON_Gold] Vàng (trên tốc độ thường). Đơn vị hải quân có thêm +60% khi cướp [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Gain 100 [ICON_Gold] Gold (on Standard speed). Military units get +60% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
-			<Text>+50% cho hỗ trợ thọc sườn cho tất cả đơn vị hải quân.</Text>
+			<Text>+50% flanking bonus for all naval units.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +50% EXP cho một đơn vị hải quân.</Text>
+			<Text>Grants 1 promotion level and +50% combat experience to a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Tàu chiến với 1 level tăng cấp.</Text>
+			<Text>Instantly creates a Battleship unit with 1 promotion level.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE">
-			<Text>Tích lũy ít 25% Đảo chính.</Text>
+			<Text>Accumulate 25% less war weariness than usual.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +75% EXP cho một đơn vị hải quân.</Text>
+			<Text>Grants 1 promotion level and +75% combat experience to a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
-			<Text>+20% [ICON_Production] Sản phẩm đối với đơn vị lớp Hải tặc.</Text>
+			<Text>+20% [ICON_Production] Production towards units of the Naval Raider promotion class.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRACE_HOPPER_ACTIVE">
-			<Text>Tự có khoảng khắc [ICON_TechBoosted] Eureka cho {Amount} {Amount : plural 1?công nghệ; other?công nghệ;} ngẫu nhiên từ thời Nguyên tử và Thông tin.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Atomic or Information era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +100% EXP cho một đơn vị hải quân.</Text>
+			<Text>Grants 1 promotion level and +100% combat experience to a military naval unit.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
-			<Text>Gán 1 level tăng cấp và +200% EXP cho một đơn vị hải quân.</Text>
+			<Text>Grants 1 promotion level and +200% combat experience to a military naval unit.</Text>
 		</Row>
-		<!-- Engineers --> 
+		<!-- Engineers -->
 		<Row Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
-			<Text>Cho phép xây thêm một khu vực có giới hạn dân số nhiều hơn.</Text>
+			<Text>Lets this city build one more district than the population limit allows.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
-			<Text>Thưởng [ICON_TechBoosted] công nghệ In ấn.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Printing technology.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
-			<Text>Trợ cấp {Amount} [ICON_Production] Sản phẩm đối với kiến trúc kỳ quan.</Text>
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JAMES_OF_ST_GEORGE_ACTIVE">
-			<Text>Ngay lập tức xây tường xa xưa và cổ đại trong thành phố, và trả đủ phí duy trì [ICON_Gold] Vàng/lượt.</Text>
+			<Text>Instantly builds Ancient and Medieval Walls in this city, and provides enough [ICON_Gold] Gold per turn to pay their maintenance.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_RENAISSANCE">
-			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đổi với kiến trúc kỳ quan.</Text>
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_WORKSHOP_CULTURE">
-			<Text>Xưởng +{Amount} [ICON_Culture] Văn minh.</Text>
+			<Text>Workshops provide +{Amount} [ICON_Culture] Culture.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_SMALL">
-			<Text>+{Amount} [ICON_Housing] Nhà ở cho thành phố này.</Text>
+			<Text>+{Amount} [ICON_Housing] Housing for this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_SMALL">
-			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?Tiện nghi; other?Tiện nghi;} cho thành phố này.</Text>
+			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?Amenity; other?Amenities;} for this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INDUSTRIAL">
-			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đối với kiến trúc kỳ quan.</Text>
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
-			<Text>Ngay lập tức xây Nhà máy và Xưởng trong khu vực. Nhà máy +2 [ICON_Production] Sản phẩm.</Text>
+			<Text>Instantly builds a Factory and Workshop in this district. Factories provide +2 [ICON_Production] Production.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
-			<Text>Thành phố này +{Amount} tâm trạng cho mỗi ô đất sở hữu.</Text>
+			<Text>This city provides +{Amount} Appeal to any tiles it owns.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
-			<Text>Các tòa nhà trong khu vực đạt xa hơn {Amount} {Amount : plural 1?ô; other?ô;}.</Text>
+			<Text>This district's regional buildings reach {Amount} {Amount : plural 1?tile; other?tiles;} farther.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
-			<Text>Các kiến trúc trong khu vực này +{Amount} [ICON_Production] Sản phẩm.</Text>
+			<Text>This district's regional buildings provide +{Amount} [ICON_Production] Production.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
-			<Text>+{Amount}% [ICON_Production] Sản phẩm đối với dự án Chạy đua không gian.</Text>
+			<Text>+{Amount}% [ICON_Production] Production towards Space Race projects.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
-			<Text>Thưởng [ICON_TechBoosted] cho công nghệ Tên lửa.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Rocketry technology.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
-			<Text>+{Amount} [ICON_Housing] Nhà ở cho thành phố này.</Text>
+			<Text>+{Amount} [ICON_Housing] Housing for this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_LARGE">
-			<Text>+{Amount} [ICON_Housing] Nhà ở cho thành phố này.</Text>
+			<Text>+{Amount} [ICON_Housing] Housing for this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_LARGE">
-			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?tiện nghi; other?tiện nghi;} cho thành phố này.</Text>
+			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?Amenity; other?Amenities;} for this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE">
-			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đối với dự án Chạy đua không gian.</Text>
+			<Text>Grants {Amount} [ICON_Production] Production towards Space Race project construction.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
-			<Text>Thành phố +{Amount} tâm trạng cho mất kỳ ô đất nào sở hữu.</Text>
+			<Text>This city provides +{Amount} Appeal to any tiles it owns.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
-			<Text>Các kiến trúc trong khu vực này +{Amount} [ICON_Amenities] {Amount : plural 1?tiện nghi; other?tiện nghi;}.</Text>
+			<Text>This district's regional buildings provide +{Amount} [ICON_Amenities] {Amount : plural 1?Amenity; other?Amenities;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
-			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đối với kiến trúc kỳ quan.</Text>
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
 		</Row>
 		<!-- Merchants -->
 		<Row Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
-			<Text>Hỗ trợ {Amount} {Amount : plural 1?sao chép; other?sao chép;}cho tài nguyên quý trên ô đất của [ICON_Capital] Thủ đô.</Text>
+			<Text>Grants {Amount} free {Amount : plural 1?copy; other?copies;} of the Luxury resource on this tile to your [ICON_Capital] Capital city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH_SMALL">
-			<Text>Hỗ trợ {Amount} [ICON_Faith] Lòng tin.</Text>
+			<Text>Gain {Amount} [ICON_Faith] Faith.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PLOT">
-			<Text>Ô đất gần thành phố phụ của bạn nhất sẽ thuộc lãnh thổ.</Text>
+			<Text>Your nearest city annexes this tile into its territory.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_TINY">
-			<Text>Hỗ trợ {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
-			<Text>Tăng [ICON_TradeRoute] Tuyến đường thương mại thêm 1. [ICON_TradeRoute] Tuyến đường thương mại nước ngoài +2 [ICON_Gold] Vàng cho cả 2 thành phố.</Text>
+			<Text>Increases [ICON_TradeRoute] Trade Route capacity by 1. Foreign [ICON_TradeRoute] Trade Routes to this city provide +2 [ICON_Gold] Gold to both cities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MARCO_POLO_ACTIVE">
-			<Text>Thưởng một đơn vị Thương gia trong thành phố này, và tăng [ICON_TradeRoute] Tuyến đường thương mại thêm 1. [ICON_TradeRoute] Tuyến đường thương mại nước ngoài tới thành phố này cung cấp +2 [ICON_Gold] Vàng cho cả 2 thành phố.</Text>
+			<Text>Grants a free Trader unit in this city, and increases [ICON_TradeRoute] Trade Route capacity by 1. Foreign [ICON_TradeRoute] Trade Routes to this city provide +2 [ICON_Gold] Gold to both cities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_TO_INCOMING_FOREIGN_ROUTES">
-			<Text>Thành phố này cung cấp +{Amount} [ICON_Gold] Vàng với [ICON_TradeRoute] Tuyến đường thương mại nước ngoài.</Text>
+			<Text>This city provides +{Amount} [ICON_Gold] Gold to foreign [ICON_TradeRoute] Trade Routes.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_FROM_INCOMING_FOREIGN_ROUTES">
-			<Text>Thành phố này nhận +{Amount} [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại nước ngoài.</Text>
+			<Text>This city receives +{Amount} [ICON_Gold] Gold from foreign [ICON_TradeRoute] Trade Routes.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FREE_TRADER_UNIT">
-			<Text>Thưởng một đơn vị Thương gia miễn phí cho thành phố này.</Text>
+			<Text>Gain a free Trader unit in this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_TRADE_ROUTE_CAPACITY">
-			<Text>Tăng [ICON_TradeRoute] Tuyến đường thương mại thêm {Amount}.</Text>
+			<Text>Increases [ICON_TradeRoute] Trade Route capacity by {Amount}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_SMALL">
-			<Text>Thưởng {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
-			<Text>Thưởng {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
-			<Text>Ngay lập tức xây Ngân hàng hoặc Chợ trong khu vực này. Ngân hàng có 2 slot Thành tựu vĩ đại.</Text>
+			<Text>Instantly builds a Bank and Market in this district. The Bank gets 2 Great Work slots, which can hold anything.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MARKET">
-			<Text>Ngay lập tức xây Chợ trong khu vực này.</Text>
+			<Text>Instantly builds a Market in this district.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BANK">
-			<Text>Ngay lập tức xây Ngân hàng trong khu vực này.</Text>
+			<Text>Instantly builds a Bank in this district.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
-			<Text>Ngân hàng này thêm slot {Amount} Thành tựu vĩ đại và có thể giữ bất kỳ thứ gì ngoại trừ [ICON_GreatWork_Relic] Di tích.</Text>
+			<Text>This Bank gets {Amount} Great Work slots to hold anything except [ICON_GreatWork_Relic] Relics.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_MEDIUM">
-			<Text>Thưởng {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_MEDIUM">
-			<Text>Thưởng {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
-			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới những thành phố của bạn thưởng +{Amount} [ICON_Gold] Vàng cho mỗi khu vực đặc biệt ở đích đến.</Text>
+			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities gain +{Amount} [ICON_Gold] Gold for each specialty district at the destination.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
-			<Text>+1 slot Chính sách kinh tế trong chính phủ bất kỳ.</Text>
+			<Text>+1 Economic policy slot in any government.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_JEANS">
-			<Text>Thưởng {Amount} [ICON_RESOURCE_JEANS] Quần Jean, một tài nguyên quý được sản xuất duy nhất cung cấp +4 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Grants {Amount} [ICON_RESOURCE_JEANS] Jeans, a uniquely manufactured Luxury resource which provides +4 [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_LARGE">
-			<Text>Thưởng {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PERFUME">
-			<Text>Thưởng {Amount} [ICON_RESOURCE_PERFUME] Nước hoa, một tài nguyên quý được sản xuất duy nhất cung cấp +6 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Grants {Amount} [ICON_RESOURCE_PERFUME] Perfume, a uniquely manufactured Luxury resource which provides +6 [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
-			<Text>Thưởng 1 [ICON_RESOURCE_OIL] Dầu, một tài nguyên chiến thuật. [ICON_TradeRoute] Tuyến đường thương mại thưởng +2 [ICON_Gold] Vàng cho mỗi tài nguyên chiến thuật được khai thác ở thành phố đích.</Text>
+			<Text>Grants 1 [ICON_RESOURCE_OIL] Oil, a Strategic resource. Your [ICON_TradeRoute] Trade Routes gain +2 [ICON_Gold] Gold for each Strategic resource improved by the destination city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_OIL">
-			<Text>Thưởng {Amount} [ICON_RESOURCE_OIL] Dầu, một tài nguyên chiến thuật.</Text>
+			<Text>Grants {Amount} [ICON_RESOURCE_OIL] Oil, a Strategic resource.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
-			<Text>[ICON_TradeRoute] Tuyến đường thương mại thưởng +{Amount} [ICON_Gold] Vàng cho mỗi tài nguyên chiến thuật được khai thác bởi thành phố đích đến.</Text>
+			<Text>Your [ICON_TradeRoute] Trade Routes gain +{Amount} [ICON_Gold] Gold for each Strategic resource improved by the destination city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
-			<Text>+{Amount}% tỷ lệ [ICON_Tourism] Du lịch đối với nền văn minh khác mà bạn có [ICON_TradeRoute] Tuyến đường thương mại tới đó.</Text>
+			<Text>+{Amount}% [ICON_Tourism] Tourism rate towards other civilizations you have a [ICON_TradeRoute] Trade Route to.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_COSMETICS">
-			<Text>Thưởng {Amount} [ICON_RESOURCE_COSMETICS] Mỹ phẩm, một tài nguyên quý được sản xuất duy nhất cung cấp +4 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Grants {Amount} [ICON_RESOURCE_COSMETICS] Cosmetics, a uniquely manufactured Luxury resource which provides +4 [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
-			<Text>+{Amount} {Amount : plural 1?level; other?levels;} cho tầm nhìn ngoại giao với tất cả nền văn minh khác.</Text>
+			<Text>+{Amount} {Amount : plural 1?level; other?levels;} of diplomatic visibility with all other civilizations.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_TOYS">
-			<Text>Thưởng {Amount} [ICON_RESOURCE_TOYS] Đồ chơi, một tài nguyên quý được sản xuất duy nhất cung cấp +4 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Grants {Amount} [ICON_RESOURCE_TOYS] Toys, a uniquely manufactured Luxury resource which provides +4 [ICON_Amenities] Amenities.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
-			<Text>Khu công nghiệp cung cấp +{Amount} [ICON_Tourism] Du lịch.</Text>
+			<Text>Industrial Zone districts provide +{Amount} [ICON_Tourism] Tourism.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
-			<Text>Khu tri thức cung cấp +{Amount} [ICON_Tourism] Du lịch.</Text>
+			<Text>Campus districts provide +{Amount} [ICON_Tourism] Tourism.</Text>
 		</Row>
 		<!-- Scientists -->
 		<Row Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Cổ đại hoặc Trung cổ.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Classical or Medieval era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
-			<Text>Mở khóa một nửa công nghệ Toán học và một công nghệ ngẫu nhiên thời Trung cổ.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for Mathematics and 1 random technology from the Medieval era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Medieval era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MATHTECHBOOST">
-			<Text>Mở khóa một nửa công nghệ Toán học.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Mathematics technology.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LIBRARY">
-			<Text>Xây tức thì một thư viện trong thành phố.</Text>
+			<Text>Instantly builds a Library in this district.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LIBRARY_FREE_MAINTENANCE">
-			<Text>+{Amount} [ICON_Gold] Vàng.</Text>
+			<Text>+{Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_UNIVERSITY">
-			<Text>Xây tức thì trường đại học trong thành phố.</Text>
+			<Text>Instantly builds a University in this district.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_UNIVERSITY_FREE_MAINTENANCE">
-			<Text>+{Amount} [ICON_Gold] Vàng.</Text>
+			<Text>+{Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Medieval or Renaissance era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
-			<Text>[ICON_Faith] Lòng tin của Khu vực linh thiêng liền kề thưởng [ICON_Science] Khoa học bằng như vậy.</Text>
+			<Text>This Holy Site district's [ICON_Faith] Faith adjacency bonus provides [ICON_Science] Science as well.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH">
-			<Text>Thưởng {Amount} [ICON_Faith] Lòng tin.</Text>
+			<Text>Gain {Amount} [ICON_Faith] Faith.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
-			<Text>Mở khóa một nửa 2 công nghệ và 1 công dân thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for 2 random technologies and the [ICON_CivicBoosted] Inspiration moment for 1 random civic from the Medieval or Renaissance era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Medieval or Renaissance era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
-			<Text>Mở khóa một nửa 1 công dân thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Triggers the [ICON_CivicBoosted] Inspiration moment for {Amount} random {Amount : plural 1?civic; other?civics;} from the Medieval or Renaissance era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
-			<Text>Thưởng 250 [ICON_Science] Khoa học (ở tốc độ bình thường) cho mỗi Núi liền kề.</Text>
+			<Text>Gain 250 [ICON_Science] Science (on Standard speed) for each adjacent Mountain tile.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB">
-			<Text>Lập tức xây viện nghiên cứu trong khu vực.</Text>
+			<Text>Instantly builds a Research Lab in this district.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
-			<Text>+{Amount} [ICON_Gold] Vàng.</Text>
+			<Text>+{Amount} [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
-			<Text>Lập tức xây trường đại học và thư viện trong khu vực. Các trường đại học cung cấp +2 [ICON_Science] Khoa học.</Text>
+			<Text>Instantly builds a University and Library in this district. Universities provide +2 [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Phục hưng hoặc Công nghiệp.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Renaissance or Industrial era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
-			<Text>Áp dụng {Amount} điểm [ICON_GreatPerson] Vĩ nhân miễn phí đối với tất cả tuyển dụng Vĩ nhân hiện tại và tương lai.</Text>
+			<Text>Applies {Amount} free [ICON_GreatPerson] Great People points towards recruiting all current and future Great People.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
-			<Text>Thưởng 500 [ICON_Science] Khoa học (ở tốc độ thường) cho mỗi kỳ quan thiên nhiên ở đây hoặc liền kề.</Text>
+			<Text>Gain 500 [ICON_Science] Science (on Standard speed) for each natural wonder tile here or adjacent.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
-			<Text>Mở khóa một nửa công nghệ Hóa học và 1 công nghệ từ thời Công nghiệp.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for Chemistry and 1 random technology from the Industrial era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
-			<Text>Mở khóa một nửa công nghệ Máy tính và 1 công nghệ từ thời Hiện đại.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for Computers and 1 random technology from the Modern era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Công nghiệp.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Industrial era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
-			<Text>Mở khóa một nửa công nghệ Hóa học.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Chemistry technology.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
-			<Text>Thư viện +{Amount} [ICON_Science] Khoa học.</Text>
+			<Text>Libraries provide +{Amount} [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_SMALL_SCIENCE">
-			<Text>Các trường đại học +{Amount} [ICON_Science] Khoa học.</Text>
+			<Text>Universities provide +{Amount} [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_BIG_SCIENCE">
-			<Text>Các trường đại học +{Amount} [ICON_Science] Khoa học.</Text>
+			<Text>Universities provide +{Amount} [ICON_Science] Science.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Hiện đại hoặc Nguyên tử.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Modern or Atomic era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_REVEAL_OIL">
-			<Text>Tiết lộ [ICON_RESOURCE_OIL] Dầu mà không cần công nghệ bình thường.</Text>
+			<Text>Reveals [ICON_RESOURCE_OIL] Oil without the normal technology requirement.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Công nghiệp hoặc hiện đại.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Industrial or Modern era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
-			<Text>Thưởng {Amount} [ICON_Science] Khoa học cho mỗi Rừng nhiệt đới ở đây hoặc liền kề.</Text>
+			<Text>Gain {Amount} [ICON_Science] Science for each Rainforest tile here or adjacent.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ARTIFACT_TOURISM_MODIFIER">
-			<Text>[ICON_GreatWork_Artifact] Cổ vật trong tất cả thành phố của bạn tạo ra {ScalingFactor}% [ICON_Tourism] Du lịch bình thường của họ.</Text>
+			<Text>[ICON_GreatWork_Artifact] Artifacts in all your cities generate {ScalingFactor}% of their normal [ICON_Tourism] Tourism.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ARTIFACT_SCIENCE">
-			<Text>Thưởng {Amount} [ICON_Science] Khoa học cho mỗi [ICON_GreatWork_Artifact] Cổ vật trong thành phố này.</Text>
+			<Text>Gain {Amount} [ICON_Science] Science for every [ICON_GreatWork_Artifact] Artifact in this city.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Nguyên tử hoặc Thông tin.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Atomic or Information era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
-			<Text>Mở khóa một nửa công nghệ tất cả công nghệ từ  thời Thông tin.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for all technologies from the Information era.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
-			<Text>Thưởng {Amount} [ICON_Production] Sản phẩm đối với xây dựng dự án Chạy đua không gian.</Text>
+			<Text>Grants {Amount} [ICON_Production] Production towards Space Race project construction.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE">
-			<Text>+{Amount}% [ICON_Production] Sản phẩm đối với dự án Chạy đua không gian.</Text>
+			<Text>+{Amount}% [ICON_Production] Production towards Space Race projects.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ABU_AL_QASIM_AL_ZAHRAWI_ACTIVE">
-			<Text>Đơn vị bị thương có thể hồi +5 HP mỗi lượt.</Text>
+			<Text>Wounded units can heal +5 HP each turn.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

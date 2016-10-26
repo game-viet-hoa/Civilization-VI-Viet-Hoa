@@ -3,73 +3,73 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
-			<Text>Sửa các thiệt hại. Chỉ có thể làm khi thành phố không bị tấn công cách đấy 3 lượt.</Text>
+			<Text>Repair the damage to the outer defenses of this city. Only possible if this city has not been attacked for at least 3 turns.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp [ICON_Gold] Vàng và điểm [ICON_GreatGeneral] Tướng quân vĩ đại.</Text>
+			<Text>District-based project which provides [ICON_Gold] Gold and [ICON_GreatGeneral] Great General points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp [ICON_Gold] Vàng và điểm [ICON_GreatAdmiral] Đô đốc vĩ đại.</Text>
+			<Text>District-based project which provides [ICON_Gold] Gold and [ICON_GreatAdmiral] Great Admiral points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp [ICON_Gold] Vàng và điểm [ICON_GreatEngineer] Kỹ sư vĩ đại.</Text>
+			<Text>District-based project which provides [ICON_Gold] Gold and [ICON_GreatEngineer] Great Engineer points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp lượng lớn [ICON_Gold] Vàng và điểm [ICON_GreatMerchant] Thương gia vĩ đại.</Text>
+			<Text>District-based project which provides a large amount of [ICON_Gold] Gold and [ICON_GreatMerchant] Great Merchant points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp [ICON_Faith] Lòng tin và điểm [ICON_GreatProphet] Nhà tiên tri vĩ đại.</Text>
+			<Text>District-based project which provides [ICON_Faith] Faith and [ICON_GreatProphet] Great Prophet points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp [ICON_Science] Khoa học và điểm [ICON_GreatScientist] Nhà khoa học vĩ đại.</Text>
+			<Text>District-based project which provides [ICON_Science] Science and [ICON_GreatScientist] Great Scientist points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
-			<Text>Dự án khu vực cung cấp [ICON_Culture] Văn minh và chút điểm [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại.</Text>
+			<Text>District-based project which provides [ICON_Culture] Culture and a small amount of [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician points.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Tiện nghi và điểm [ICON_GreatPerson] Vĩ nhân cho [ICON_GreatEngineer] Kỹ sư vĩ đại, [ICON_GreatMerchant] Thương gia vĩ đại, [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại.</Text>
+			<Text>+1 [ICON_Amenities] Amenity and [ICON_GreatPerson] Great Person Points for [ICON_GreatEngineer] Great Engineers, [ICON_GreatMerchant] Great Merchants, [ICON_GreatWriter] Great Writers, [ICON_GreatArtist] Great Artists, and [ICON_GreatMusician] Great Musicians.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
-			<Text>Dự án chạy đua không gian để phóng vệ tinh vào quỹ đạo. Tiết lộ đại lý toàn bản đồ, và đánh dấu bước đi đầu tiền trong Chiến thắng khoa học.</Text>
+			<Text>Space Race project which launches a small satellite into orbit. Reveals the geography of any unexplored corner of the world, and marks the first step towards the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
-			<Text>Dự án chạy đua không gian để phóng tên lửa đáp xuống mặt trăng. Thưởng [ICON_Culture] Văn minh bằng 10 lần [ICON_Science] Khoa học/lượt của bạn, và là bước đi thứ hai trong Chiến thắng Khoa học.</Text>
+			<Text>Space Race project which launches a large rocket to land a human on the moon. Grants a one time [ICON_Culture] Culture bonus equal to 10 times your [ICON_Science] Science per turn, and marks the second step towards the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
-			<Text>Dự án chạy đua không gian để đưa lò phản ứng lên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+			<Text>Space Race project which launches a Reactor module into orbit for the Mars Colony mission. Launching all three modules wins the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
-			<Text>Dự án chạy đua không gian để con người định cư trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+			<Text>Space Race project which launches a Habitation module into orbit for the Mars Colony mission. Launching all three modules wins the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
-			<Text>Dự án chạy đua không gian để trồng thủy canh trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+			<Text>Space Race project which launches a Hydroponics module into orbit for the Mars Colony mission. Launching all three modules wins the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
-			<Text>Cho phép tạo thiết bị hạt nhân.</Text>
+			<Text>Allows for the creation of Nuclear Devices.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
-			<Text>Cho phép tạo thiết bị nhiệt hạch.</Text>
+			<Text>Allows for the creation of Thermonuclear Devices.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
-			<Text>Thêm một thiết bị hạt nhân vào quốc gia. Yêu cầu [ICON_Resource_Uranium] Uranium. Phí duy trì 14 [ICON_Gold] Vàng.</Text>
+			<Text>Adds one Nuclear Device to your nation's inventory. Requires [ICON_Resource_Uranium] Uranium. Maintenance is 14 [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
-			<Text>Thêm một thiết bị nhiệt hạch vào quốc gia. Yêu cầu [ICON_Resource_Uranium] Uranium. Phí duy trì 16 [ICON_Gold] Vàng.</Text>
+			<Text>Adds a Thermonuclear Device to your nation's inventory. Requires [ICON_Resource_Uranium] Uranium. Maintenance is 16 [ICON_Gold] Gold.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
-			<Text>Hoàn tất đưa vệ tinh vào quỹ đạo! Tiết lộ đại lý toàn bản đồ, và đánh dấu bước đi đầu tiền trong Chiến thắng khoa học.</Text>
+			<Text>You've successfully launched a satellite into orbit! Reveals the geography of any unexplored corner of the world, and marks the first step towards the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
-			<Text>Hoàn tất đưa người đáp xuống mặt trăng. Thưởng [ICON_Culture] Văn minh bằng 10 lần [ICON_Science] Khoa học/lượt của bạn, và là bước đi thứ hai trong Chiến thắng Khoa học.</Text>
+			<Text>You successfully land a person on the moon! Grants a one time [ICON_Culture] Culture bonus equal to 10 times your [ICON_Science] Science per turn, and marks the second step towards the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
-			<Text>Hoàn tất lò phản ứng của dự án sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+			<Text>You successfully launch a Reactor module, a key component in your Mars Colony spacecraft. Launching all three modules into orbit completes the spacecraft, and wins the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
-			<Text>Hoàn tất dự án định cư trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+			<Text>You successfully launch a Habitation module, a key component in your Mars Colony spacecraft. Launching all three modules into orbit completes the spacecraft, and wins the Science Victory.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
-			<Text>Hoàn tất thủy cảnh trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+			<Text>You successfully launch a Hydroponics module, a key component in your Mars Colony spacecraft. Launching all three modules into orbit completes the spacecraft, and wins the Science Victory.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

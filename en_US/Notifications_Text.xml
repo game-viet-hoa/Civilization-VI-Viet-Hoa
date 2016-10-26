@@ -4,379 +4,379 @@
 	<BaseGameText>
 		<!--Turn-Blocking Notifications -->
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
-			<Text>Chọn Cổ vật</Text>
+			<Text>Choose Artifact</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
-			<Text>Khai quật thấy một Di tích cổ. Bây giờ chọn một Cổ vật để đưa vào bảo tàng.</Text>
+			<Text>You have excavated an antiquity site. Now choose an artifact to return to your museum.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
-			<Text>Chọn công nghệ</Text>
+			<Text>Choose a Technology</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
-			<Text>Chọn công nghệ để bắt đầu nghiên cứu.</Text>
+			<Text>Choose a new technology to begin research.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
-			<Text>Chọn sản xuất</Text>
+			<Text>Choose Production</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
-			<Text>Sản xuất đã hoàn thành. Hãy chọn mục tiêu tiếp theo.</Text>
+			<Text>Production has completed in this city. Choose what we shall produce next.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
-			<Text>Chọn công dân</Text>
+			<Text>Choose a Civic</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
-			<Text>Chọn công dân để mở khóa.</Text>
+			<Text>Choose a new civic to begin developing.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
-			<Text>Ra lệnh đơn vị</Text>
+			<Text>Command Units</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
-			<Text>Di chuyển hay làm gì đó đơn vị.</Text>
+			<Text>Move a unit or have it perform an operation.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
-			<Text>Xem xét thay đổi chính phủ</Text>
+			<Text>Consider Changing Governments</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
-			<Text>Đã hoàn tất mở khóa chính quyền mới. Cần phải xem xét thay đổi chúng.</Text>
+			<Text>You finished a civic that unlocked a new government. You should consider switching to that form of rule.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
-			<Text>Phá hủy hoặc giữ thành phố</Text>
+			<Text>Raze or Keep City</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
-			<Text>Đã chinh phục được một thành phố. Quyết định xem để giải phóng, phá hủy hay giữ lại thành phố.</Text>
+			<Text>You conquered a city this turn. Decide whether to liberate, raze, or keep it.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
-			<Text>Lấp đầy chính sách</Text>
+			<Text>Fill Policy Slot</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
-			<Text>Chính sách cần được thêm vào chính phủ.</Text>
+			<Text>A policy needs to be added to our government.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
-			<Text>Chọn vị thần</Text>
+			<Text>Choose Pantheon</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
-			<Text>Chọn tôn giáo</Text>
+			<Text>Choose Religion</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
-			<Text>Chọn tín ngưỡng</Text>
+			<Text>Choose Belief</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
-			<Text>Tìm Vĩ nhân</Text>
+			<Text>Claim Great Person</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
-			<Text>Gửi phái đoàn</Text>
+			<Text>Send Envoy</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
-			<Text>Kiếm được một [ICON_Envoy] Phái đoàn, có thể gửi họ sang một thành phố tự trị.</Text>
+			<Text>You have earned an [ICON_Envoy] Envoy, and may send it to a city-state for bonuses.</Text>
 		</Row>
 		<!-- Unit Notifications -->
 		<Row Tag="LOC_NOTIFICATION_UNIT_DIED">
-			<Text>Đơn vị đã chết</Text>
+			<Text>Unit Killed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
-			<Text>Đơn  vị đã giải tán</Text>
+			<Text>Unit Disbanded</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
-			<Text>Lượng [ICON_Gold] Vàng tiêu cực. {1_UnitName} đã giải tán.</Text>
+			<Text>Your [ICON_Gold] Gold balance is negative. Your {1_UnitName} has been disbanded.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
-			<Text>Đơn vị sẵn sàng lên cấp</Text>
+			<Text>Unit available for promotion</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
-			<Text>{1_UnitName} sẵn sàng lên cấp.</Text>
+			<Text>{1_UnitName} unit is available for a promotion.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
-			<Text>Thua!</Text>
+			<Text>Defeated!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
-			<Text>{1_leader} đã thua cuộc.</Text>
+			<Text>{1_leader} has been defeated.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
-			<Text>{1_leader} đã bị đánh bại bởi {2_leader}.</Text>
+			<Text>{1_leader} has been defeated by {2_leader}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
-			<Text>Thua!</Text>
+			<Text>Defeated!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
-			<Text>Một người chơi không rõ đã thua cuộc.</Text>
+			<Text>An unmet player has been defeated.</Text>
 		</Row>
 		<!-- Diplomacy Notifications-->
 		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
-			<Text>Tuyên bố chiến tranh</Text>
+			<Text>Declaration of War</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
-			<Text>{1_leader} đã tuyên chiến {2_leader}.</Text>
+			<Text>{1_leader} has declared war on {2_leader}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
-			<Text>Thương lượng hòa bình</Text>
+			<Text>Negotiated Peace</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
-			<Text>{1_leader} đã làm hòa với {2_leader}.</Text>
+			<Text>{1_leader} has made peace with {2_leader}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
-			<Text>Gặp nền văn minh mới</Text>
+			<Text>You have met a new civilization</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
-			<Text>Thấy một thành phố mới</Text>
+			<Text>You have met a new city-state</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
-			<Text>Bạn gặp {1_leader} của thành phố {2_CivDesc}.</Text>
+			<Text>You have met {1_leader} of the {2_CivDesc}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
-			<Text>{1_leader} cấm tự do đi lại</Text>
+			<Text>{1_leader} Enforces Borders</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
-			<Text>The {1_leader} đã thực thi lệnh. Đơn vị của bạn bên trong đế chế họ bị đẩy ra ngoài biên giới.</Text>
+			<Text>The {1_leader} is now enforcing their borders. Your units inside their empire have been displaced to a tile just outside their lands.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
-			<Text>Hết hạn Tình hữu nghị</Text>
+			<Text>Friendship Expired</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
-			<Text>Tình hữu nghị với {1_leader} đã chấm dứt, nó cần phải gia hạn.</Text>
+			<Text>Your friendship with {1_leader} has run its course and will have to be renewed.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
-			<Text>Hết hạn đồng minh</Text>
+			<Text>Alliance Expired</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
-			<Text>Đồng minh với {1_leader} đã chấm dứt, nó cần phải gia hạn.</Text>
+			<Text>Your alliance with {1_leader} has run its course and will have to be renewed.</Text>
 		</Row>
 		<!-- Espionage Notifications -->
 		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
-			<Text>Chọn đường thoát</Text>
+			<Text>Choose Escape Route</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
-			<Text>Chọn ưu tiên truy đuổi</Text>
+			<Text>Choose Pursuit Priority</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
-			<Text>{1_unitName} của bạn trong thành phố {2_CityName} đã đánh cắp thành công thành tựu vĩ đại "{3_Work}".</Text>
+			<Text>Your agent {1_unitName} in {2_CityName} succeeded in stealing the Great Work "{3_Work}".</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
-			<Text>Đánh cắp thành tựu vĩ đại thành công</Text>
+			<Text>Success Stealing Great Work</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
-			<Text>Gián điệp địch trong {1_CityName} đã đánh cắp thành công thành tựu vĩ đại "{2_Work}".</Text>
+			<Text>An enemy Spy in {1_CityName} succeeded in stealing the Great Work "{2_Work}".</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
-			<Text>Đánh cắp thành tựu vĩ đại </Text>
+			<Text>Enemy Stole Great Work</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
-			<Text>{1_unitName} của bạn phá hoại thành công khu công nghiệp trong thành phố {2_cityName}.</Text>
+			<Text>Your agent {1_unitName} succeeded in sabotaging the Industrial Zone in the city of {2_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
-			<Text>Phá hoại thành công</Text>
+			<Text>Success Sabotaging Production</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
-			<Text>Gián điệp địch phá hoại thành công khu công nghiệp trong thành phố {1_cityName}.</Text>
+			<Text>An enemy Spy succeeded in sabotaging the Industrial Zone in the city of {1_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
-			<Text>Địch phá hoại thành công</Text>
+			<Text>Enemy Spy Sabotaged Production</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
-			<Text>{1_unitName} của bạn đánh cắp thành công {2_Amount} [ICON_Gold] Vàng từ thành phố {3_cityName}.</Text>
+			<Text>Your agent {1_unitName} succeeded in siphoning {2_Amount} [ICON_Gold] Gold from the city of {3_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
-			<Text>Đánh cắp thành công vàng</Text>
+			<Text>Success Siphoning Gold</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
-			<Text>Gián điệp địch đánh cắp thành công {1_Amount} [ICON_Gold] Vàng từ thành phố {2_cityName}.</Text>
+			<Text>An enemy Spy succeeded in siphoning {1_Amount} [ICON_Gold] Gold from the city of {2_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
-			<Text>Địch đánh cắp thành công vàng</Text>
+			<Text>Enemy Spy Siphoning Gold</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
-			<Text>{1_unitName} của bạn trong {2_CityName} đánh cắp thành công công nghệ {3_Tech}.</Text>
+			<Text>Your agent {1_unitName} in {2_CityName} succeeded in stealing the boost to {3_Tech}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
-			<Text>Đánh cắp thành công công nghệ</Text>
+			<Text>Success Stealing Tech Boost</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
-			<Text>Gián điệp địch trong {1_CityName} đánh cắp thành công công nghệ {2_Tech}.</Text>
+			<Text>An enemy Spy in {1_CityName} succeeded in stealing the boost to {2_Tech}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
-			<Text>Địch đánh cắp công nghệ</Text>
+			<Text>Enemy Stole Tech Boost</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
-			<Text>{1_unitName} của bạn trong {2_CityName} đào tạo thành công một quân kháng chiến muốn lấy lại thành phố của họ.</Text>
+			<Text>Your agent {1_unitName} in {2_CityName} succeeded in recruiting partisan forces who want to retake their city.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
-			<Text>Đào tạo thành công quân kháng chiến</Text>
+			<Text>Success Recruiting Partisans</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
-			<Text>Gián điệp địch trong {1_CityName} đào tạo thành công một quân kháng chiến muốn lấy lại thành phố của họ.</Text>
+			<Text>An enemy Spy in {1_CityName} succeeded in recruiting partisan forces that now threaten your city.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
-			<Text>Địch đào tạo thành công quân kháng chiến</Text>
+			<Text>Enemy Recruited Partisans</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
-			<Text>{1_unitName} của bạn cướp phá thành công Trạm không gian trong thành phố {2_cityName}.</Text>
+			<Text>Your agent {1_unitName} succeeded in pillaging the Spaceport in the city of {2_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
-			<Text>Gây rối tên lửa thành công</Text>
+			<Text>Success Disrupting Rocketry</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
-			<Text>Gián điệp địch cướp phá thành công Trạm không gian trong thành phố {1_cityName}.</Text>
+			<Text>An enemy Spy succeeded in pillaging the Spaceport in the city of {1_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
-			<Text>Địch gây rối tên lửa thành công</Text>
+			<Text>Enemy Spy Disrupted Rocketry</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
-			<Text>{1_unitName} của bạn dã có sự hiểu biết từ các hoạt dộng trong {2_CityName}. Gián điệp trong thành phố sẽ hoạt động cao hơn {3_Levels} level cho {4_Turns} lượt.</Text>
+			<Text>Your agent {1_unitName} has acquired sources knowledgeable of the inner workings of {2_CityName}. Your spies in that city will operate at {3_Levels} levels higher for {4_Turns} turns.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
-			<Text>Tăng hiểu biết</Text>
+			<Text>Sources Gained</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
-			<Text>{1_unitName} của bạn hoàn tất do thám trong {2_CityName}.</Text>
+			<Text>Your agent {1_unitName} has finished their time at a listening post in {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
-			<Text>Do thám hoàn tất</Text>
+			<Text>Listening Post Complete</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
-			<Text>{1_unitName} của bạn đã chạy khỏi thành phố {2_CityName} kể từ khi có đế chế mới.</Text>
+			<Text>Your agent {1_unitName} has fled the city of {2_CityName} since a new empire is in power there.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
-			<Text>Gián điệp chạy khỏi thành phố</Text>
+			<Text>Spy Flees City</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
-			<Text>{1_unitName} của bạn thất bại ở nhiệm vụ {2_mission} trong thành phố {3_cityName}.</Text>
+			<Text>Your agent {1_unitName} failed in the {2_mission} mission in the city of {3_cityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
-			<Text>Gián điệp thất bại</Text>
+			<Text>Spy Failed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
-			<Text>{1_unitName} của bạn đã bị bắt ở nhiệm vụ {2_mission} trong thành phố {3_cityName}!</Text>
+			<Text>Your agent {1_unitName} was captured during a {2_mission} mission in the city of {3_cityName}!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
-			<Text>Gián điệp bị bắt</Text>
+			<Text>Spy Captured</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
-			<Text>Một gián điệp {1_civName} đã bị bắt ở nhiệm vụ {2_mission} trong thành phố {3_cityName}!</Text>
+			<Text>A Spy from {1_civName} was captured during a {2_mission} mission in the city of {3_cityName}!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
-			<Text>Gián điệp địch bị bắt</Text>
+			<Text>Enemy Spy Captured</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
-			<Text>{1_unitName} của bạn bị giết ở nhiệm vụ {2_mission} trong thành phố {3_cityName}!</Text>
+			<Text>Your agent {1_unitName} was killed during the {2_mission} mission in the city of {3_cityName}!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
-			<Text>Gián điệp bị giết</Text>
+			<Text>Spy Killed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
-			<Text>Một gián điệp {1_civName} đã bị giết ở nhiệm vụ {2_mission} trong thành phố {3_cityName}. {4_CounterspyAssist}</Text>
+			<Text>A Spy from {1_civName} was killed during the {2_mission} mission in the city of {3_cityName}. {4_CounterspyAssist}</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
-			<Text>Gián điệp địch bị giết</Text>
+			<Text>Enemy Spy Killed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
-			<Text>{1_unitName} của bạn hủy bỏ nhiệm vụ {2_mission} trong thành phố {3_cityName}. Nhiệm vụ không còn hợp lệ.</Text>
+			<Text>Your agent {1_unitName} aborted the {2_mission} mission in the city of {3_cityName}. The mission target is no longer valid.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
-			<Text>Gián điệp hủy bỏ nhiệm vụ</Text>
+			<Text>Spy Mission Aborted</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
-			<Text>Có vai trò trong việc chặn kẻ địch ở nhiệm vụ {1_mission} trong thành phố {2_cityName}, gián điệp {3_unitName} được thăng cấp!</Text>
+			<Text>For the role played in stopping the enemy {1_mission} mission in the city of {2_cityName}, your spy {3_unitName} has been promoted!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
-			<Text>Phản gián tăng cấp</Text>
+			<Text>Counterspy Promoted</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
-			<Text>Phản gián điệp {1_unitName} của bạn là công cụ chiến thắng cho lực lượng an ninh của chúng tôi.</Text>
+			<Text>Your counterspy {1_unitName} was instrumental in this victory for our security forces.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
-			<Text>Gián điẹp {1_unitName} của bạn đã trốn thoát và sẽ trở lại thủ đô sau {2_turns} lượt.</Text>
+			<Text>Your Spy {1_unitName} has eluded capture and will return in your capital in {2_turns} turns.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
-			<Text>Gián điệt trốn thoát</Text>
+			<Text>Spy Escaped</Text>
 		</Row>
 		<!-- City-State Notifications -->
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
-			<Text>Thành phố mới yêu cầu</Text>
+			<Text>New City-State Quest</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
-			<Text>{1_CityStateName} cho bạn yêu cầu mới: {2_QuestName}</Text>
+			<Text>The {1_CityStateName} has given you a new quest: {2_QuestName}</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
-			<Text>Nhiệm vụ thành phố tự trị hoàn thành</Text>
+			<Text>City-State Quest Complete</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
-			<Text>Bạn đã hành thành nhiệm vụ của thành phố tự trị {1_CityStateName} và nhận thưởng: {2_RewardText}.</Text>
+			<Text>You completed a quest for the {1_CityStateName} and earned a reward: {2_RewardText}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
-			<Text>Thưởng cho gặp thành phố mới</Text>
+			<Text>City-State Meeting Bonus</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
-			<Text>Tìm thấy nền văn minh lớn đầu tiên, {1_CityStateName}, bạn có được {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?Phái viên; other?Phái viên;}.</Text>
+			<Text>As the first major civilization to meet the {1_CityStateName}, you have earned {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?Envoy; other?Envoys;} there.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
-			<Text>Thành phố tự trị của bạn dổi chủ</Text>
+			<Text>Suzerain Status Lost</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
-			<Text>Sau khi thay đổi [ICON_Envoy] Phái đoàn, bạn không còn là chủ của {1_CityStateName}.</Text>
+			<Text>After a shift in [ICON_Envoy] Envoys, you are no longer Suzerain of the {1_CityStateName}.</Text>
 		</Row>
 		<!-- Trade Route Notifications -->
 		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
-			<Text>Tuyến đường thương mại đã bị cướp</Text>
+			<Text>Trade Route Plundered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
-			<Text>{1_PlayerName} đã cướp từ thương gia của bạn.</Text>
+			<Text>{1_PlayerName} has plundered your Trader unit.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
-			<Text>{1_PlayerName} đã cướp từ thương gia của bạn. [ICON_TradeRoute] Tuyến đường thương mại từ {2_OriginCityName} tới {3_DestinationCityName} không còn hoạt động.</Text>
+			<Text>{1_PlayerName} has plundered your Trader unit. Your [ICON_TradeRoute] Trade Route from {2_OriginCityName} to {3_DestinationCityName} is no longer active.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
-			<Text>Tạo ra tuyến đường thương mại</Text>
+			<Text>Trading Post Created</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
-			<Text>Hoàn thành tạo một [ICON_TradeRoute] Tuyến đường thương mại có [ICON_TradingPost] điểm thương mại [ICON_TradingPost] cho thành phố {1_CityName} của bạn.</Text>
+			<Text>Completing a [ICON_TradeRoute] Trade Route has created a [ICON_TradingPost] Trading Post for you in the city of {1_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
-			<Text>Tăng số lượng tuyến đường thương mại</Text>
+			<Text>Increased Trade Route Capacity</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
-			<Text>Bạn đã có thể tạo và duy trì thêm [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>You are now able to create and maintain more [ICON_TradeRoute] Trade Routes than before.</Text>
 		</Row>
 		<!-- Economic Notifications -->
 		<Row Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
-			<Text>Cuộc nổi loạn!</Text>
+			<Text>Rebellion!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
-			<Text>Thiếu [ICON_Amenities] Tiện nghi trong {1_CityName} đã làm người dân chống lại chúng ta, tạo {2_NumUnits} đơn vị chống đối.</Text>
+			<Text>The lack of [ICON_Amenities] Amenities in {1_CityName} has caused people to take up arms against us, spawning {2_NumUnits} hostile units.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
-			<Text>Cần thêm Tiện nghi</Text>
+			<Text>Need More Amenities</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
-			<Text>{1_CityName} cần thêm [ICON_Amenities] Tiện nghi để tiếp tục phát triển. Nếu trở nên tồi tệ, mọi người sẽ nổi loạn!</Text>
+			<Text>{1_CityName} needs more [ICON_Amenities] Amenities to keep it productive. If this gets worse, people may rebel against us!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
-			<Text>Cần thêm nhà ở</Text>
+			<Text>Need More Housing</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
-			<Text>{1_CityName} cần thêm [ICON_Housing] Nhà ở để tiếp tục phát triển. Nếu cứ như thế này, chúng ta khó mà gia tăng được [ICON_Citizen] Dân số.</Text>
+			<Text>{1_CityName} needs more [ICON_Housing] Housing to keep growing. If this continues, we will have difficulty gaining new [ICON_Citizen] Citizens.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
-			<Text>Thành phố đói!</Text>
+			<Text>City Starving!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_STARVING_SUMMARY">
-			<Text>{1_CityName} không cung cấp đủ [ICON_Food] Thực phẩm cho dân ăn uống. Nếu tiếp tục, sẽ mất [ICON_Citizen] Dân cư!</Text>
+			<Text>{1_CityName} does not provide enough [ICON_Food] Food for its people to eat. If this continues, it will lose [ICON_Citizen] Citizens!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_MESSAGE">
-			<Text>Thành phố cần thức phẩm</Text>
+			<Text>City Needs Food</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
-			<Text>{1_CityName} không cung cấp đủ [ICON_Food] Thực phẩm cho con người để phát triển. Nên chú trọng [ICON_Food] Thực phẩm cho thành phố.</Text>
+			<Text>{1_CityName} does not provide enough [ICON_Food] Food for its people to grow. Consider focusing your city on [ICON_Food] Food.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
-			<Text>Kho bạc phá sản!</Text>
+			<Text>Treasury Bankrupt!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
-			<Text>Không còn [ICON_Gold] Vàng, và chi phí của chúng tôi cao hơn thu nhập. Nếu tiếp tục, thành phố sẽ mất [ICON_Amenities] Tiện nghi và các đơn vị sẽ rời bỏ chúng tôi!</Text>
+			<Text>We have no [ICON_Gold] Gold left, and our costs are higher than our income. If this continues, our cities will lose [ICON_Amenities] Amenities and our units will desert us!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
-			<Text>Có thể mua với Lòng tin</Text>
+			<Text>Can Purchase With Faith</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
-			<Text>Bạn đã tích lũy đủ [ICON_Faith] Lòng tin để mua {LOC_GRAMMAR_A_AN &lt;&lt; {1_ItemName}}.</Text>
+			<Text>You have accumulated enough [ICON_Faith] Faith to purchase {LOC_GRAMMAR_A_AN &lt;&lt; {1_ItemName}}.</Text>
 		</Row>
 		<!-- Multiplayer Notifications -->
 		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
@@ -444,73 +444,73 @@
 		</Row>
 		<!-- Great Work Notifications -->
 		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
-			<Text>Tạo di tích</Text>
+			<Text>Relic Created</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
-			<Text>[ICON_GreatWork_Relic] Di tích {1_RelicName}0 đã được đặt ở {2_BuildingName} trong thành phố {3_CityName}.</Text>
+			<Text>The [ICON_GreatWork_Relic] Holy Relic {1_RelicName} has been placed in the {2_BuildingName} in {3_CityName}.</Text>
 		</Row>
 		<!-- Discovery Notifications -->
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
-			<Text>Tìm thấy châu lục mới</Text>
+			<Text>New Continent Discovered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
-			<Text>Tìm thấy châu lục mới. Chúng tôi gọi nó là {1_ContinentName}.</Text>
+			<Text>We have discovered a new continent. Our explorer is naming it {1_ContinentName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
-			<Text>ĐÃ KHÁM PHÁ LÀNG BỘ LẠC</Text>
+			<Text>Tribal Village Discovered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
-			<Text>Tìm thấy một ngôi làng thân thiện.</Text>
+			<Text>You have found a village inhabited by a friendly tribe.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
-			<Text>Tìm thấy kỳ quan thiên nhiên</Text>
+			<Text>Natural Wonder Discovered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
-			<Text>Đã tìm thấy kỳ quan thiên nhiên {1_NaturalWonderName}.</Text>
+			<Text>Your explorers have discovered the natural wonder {1_NaturalWonderName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
-			<Text>Tìm thấy tài nguyên</Text>
+			<Text>Resource Discovered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
-			<Text>Đã tìm thấy tài nguyên mới {1_ResourceName}.</Text>
+			<Text>We have discovered a new source of {1_ResourceName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
-			<Text>Quan man rợ tiếp cận</Text>
+			<Text>Barbarians Approach</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
-			<Text>Phát hiện quân man rợ đang tiếp cận thành phố {1_CityName}.</Text>
+			<Text>We have spotted barbarians approaching our city of {1_CityName}.</Text>
 		</Row>
 		<!-- Victory Notifications -->
 		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
-			<Text>Bạn chiếm ưu thế Văn minh</Text>
+			<Text>Your Culture Dominant</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
-			<Text>Thu hút đủ [ICON_Tourism] Du lịch để thống trị Văn minh cho {1_CivName}.</Text>
+			<Text>You have attracted enough [ICON_Tourism] Tourists to make your culture dominant over {1_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
-			<Text>Nước ngoài chiếm ưu thế Văn minh</Text>
+			<Text>Foreign Culture Dominant</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
-			<Text>{1_CivName} đã thu hút đủ [ICON_Tourism] Du lịch để thống trị Văn minh của họ.</Text>
+			<Text>{1_CivName} has attracted enough [ICON_Tourism] Tourists to make their culture dominant over yours.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
-			<Text>Sắp Chiến thắng Văn minh</Text>
+			<Text>Your Culture Victory Imminent</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
-			<Text>Văn minh của bạn nổi trội hơn tất cả. Một chiến thắng văn minh đang tới gần.</Text>
+			<Text>Your culture has become dominant over all but one foreign civilization. A Culture Victory is within your grasp.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
-			<Text>Nước ngoài sắp Chiến thắng Văn minh</Text>
+			<Text>Foreign Culture Victory Imminent</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
-			<Text>{1_CivName} chỉ cần văn hóa nổi trội hơn những người khác thì sẽ đạt được Chiến thắng Văn Minh.</Text>
+			<Text>{1_CivName} only needs their culture to become dominant over one more player to achieve a Culture Victory.</Text>
 		</Row>
 		<!--Future Notifications (not yet implemented)-->
 		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
-			<Text>Biện minh chiến tranh mới</Text>
+			<Text>New Casus Belli Available</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
-			<Text>Bây giờ chúng ta có thể tuyên bố {1_WarType} trên {2_CivName}.</Text>
+			<Text>We now have justification to declare a {1_WarType} on {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
 			<Text>City Range Strike</Text>
@@ -525,217 +525,217 @@
 			<Text>The Encampment outside the city of {1_CityName} can strike at enemy forces.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
-			<Text>Thiết bị hạt nhân phát nổ</Text>
+			<Text>Nuclear Device Detonated</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
-			<Text>Một thiết bị hạt nhân đã kích hoạt bởi {1_CivName} gần thành phố của {2_CityName}.</Text>
+			<Text>A nuclear device has been detonated by {1_CivName} near the city of {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
-			<Text>Thiết bị nhiệt phát nổ</Text>
+			<Text>Thermonuclear Device Detonated</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
-			<Text>Một thiết bị nhiệt hạch đã kích hoạt bởi {1_CivName} gần thành phố của {2_CityName}.</Text>
+			<Text>A devastating thermonuclear device has been detonated by {1_CivName} near the city of {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
-			<Text>Có thể đào tạo gián điệp</Text>
+			<Text>Can Train Spy</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
-			<Text>Bạn có thể đào tạo thêm một gián điệp.</Text>
+			<Text>You can now train an additional Spy.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
-			<Text>Đơn vị đã bị bắt</Text>
+			<Text>Unit Captured</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
-			<Text>{1_UnitType} của bạn đã bị bắt bởi {2_EnemyUnitType} từ {3_CivName}.</Text>
+			<Text>Your {1_UnitType} was captured by a {2_EnemyUnitType} from the {3_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
-			<Text>Đơn vị đã bị tấn công</Text>
+			<Text>Unit Attacked</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
-			<Text>{1_UnitType} của bạn đã bị tấn công bởi {2_CivName}.</Text>
+			<Text>Your {1_UnitType} was attacked by the {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
-			<Text>Hoàn thành kỳ quan</Text>
+			<Text>Wonder Completed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
-			<Text>{1_CivName} đã hoàn hành xây dựng kỳ quan thế giới {2_WonderName}.</Text>
+			<Text>{1_CivName} has finished building the world wonder {2_WonderName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
-			<Text>Bạn đã hoàn thành xây dựng kỳ quan thế giới {1_WonderName}.</Text>
+			<Text>You have finished building the world wonder {1_WonderName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
-			<Text>Người chơi không rõ đã hoàn thành xây dựng kỳ quan thế giới {1_WonderName}.</Text>
+			<Text>An unmet player has finished building the world wonder {1_WonderName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
-			<Text>Thành phố đã bị chiếm</Text>
+			<Text>City Captured</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
-			<Text>Thành phố của {1_CityName} đã bị chiếm bởi {2_CivName}.</Text>
+			<Text>The city of {1_CityName} has been captured by {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
-			<Text>Tường thành đã bị phá</Text>
+			<Text>City Walls Breached</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
-			<Text>Tường thành của thành phố {1_CityName} đã bị phá bở lực lượng từ {2_CivName}.</Text>
+			<Text>The walls of the city of {1_CityName} have been breached by forces from {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
-			<Text>Thủ đô đã bị chiếm</Text>
+			<Text>Capital Captured</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
-			<Text>Thủ đô của {1_CivName} đã bị chiếm bởi {2_CivName}!</Text>
+			<Text>The capital of {1_CivName} has been captured by {2_CivName}!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
-			<Text>Thủ dô đã được đòi lại</Text>
+			<Text>Capital Reclaimed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
-			<Text>{1_CivName} đã đòi lại được thủ đô của họ.</Text>
+			<Text>{1_CivName} has reclaimed their capital.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
-			<Text>Kẻ địch trong biên giới</Text>
+			<Text>Enemy Inside Borders</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
-			<Text>Kẻ địch bị phát hiện trong biên giới gần thành phố {1_CityName}.</Text>
+			<Text>Enemy troops have been spotted inside our borders near the city of {1_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
-			<Text>Tìm thấy Di tích cổ</Text>
+			<Text>Antiquity Site Discovered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
-			<Text>Phát hiện ra một Di tích cổ. Gửi Nhà khảo cổ đến để khai quây Cổ vật.</Text>
+			<Text>You have uncovered a new Antiquity Site. Send an Archaeologist to extract the artifact.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
-			<Text>Tìm thấy Tàu đắm</Text>
+			<Text>Shipwreck Discovered</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
-			<Text>Phát hiện ra Tàu đắm. Khi đã có công dân Di sản văn hóa, hãy gửi Nhà khảo cổ đến để nâng tàu bị đắm.</Text>
+			<Text>You have found the site of an ancient Shipwreck. Once you have achieved the Cultural Heritage civic, send an Archaeologist to raise the sunken artifact.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
-			<Text>Nhận được lời đề nghị</Text>
+			<Text>Counteroffer Received</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
-			<Text>{1_CivName} đã gửi lời đề nghị đến đề xuất thỏa thuận của bạn.</Text>
+			<Text>{1_CivName} has sent a counteroffer to your deal proposal.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
-			<Text>Đề xuất thỏa thuận</Text>
+			<Text>Deal Proposed</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
-			<Text>Nhận được đề xuất thỏa thuận từ {1_CivName}.</Text>
+			<Text>You have received a deal proposal from {1_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
-			<Text>Tố cáo tới bạn hết hạn</Text>
+			<Text>Denunciation of You Expired</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
-			<Text>Tố cáo của bạn bở {1_CivName} đã hết hạn. Họ sẽ tố cáo lại nếu họ muốn chính thức tuyên bố chiến tranh.</Text>
+			<Text>The denunciation of you by {1_CivName} has expired. They will need to reissue it if they want to formally declare war.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
-			<Text>Tố cáo của bạn hết hạn</Text>
+			<Text>Your Denunciation Expired</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
-			<Text>Tố cáo của bạn cho {1_CivName} đã hết hạn và cần phải tố cáo lại nếu bạn muốn chính thức tuyên bố chiến tranh.</Text>
+			<Text>Your denunciation of {1_CivName} has expired and will need to be reissued if you want to formally declare war.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
-			<Text>Hoàn thành lời hứa với bạn</Text>
+			<Text>Promise Fulfilled To You</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
-			<Text>Lời hứa tối bạn bởi {1_CivName}, {2_PromiseType} đã hoàn thành.</Text>
+			<Text>The promise made to you by the {1_CivName} to {2_PromiseType} has been fulfilled.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
-			<Text>Bạn hoàn thành lời hứa</Text>
+			<Text>Your Promise Fulfilled</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
-			<Text>Bạn hứa với thành phố {1_CivName}, {2_PromiseType} đã hoàn thành.</Text>
+			<Text>Your promise to the {1_CivName} to {2_PromiseType} has been fulfilled.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
-			<Text>Thất hứa với bạn</Text>
+			<Text>Promise Broken To You</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
-			<Text>Lời hứa với bạn bởi {1_CivName}, {2_PromiseType} đã bị phá vỡ.</Text>
+			<Text>The promise made to you by the {1_CivName} to {2_PromiseType} has been broken.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
-			<Text>Bạn thất hứa</Text>
+			<Text>Your Promise Broken</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
-			<Text>Bạn hứa với {1_CivName}, {2_PromiseType} đã bị phá vỡ.</Text>
+			<Text>Your promise to the {1_CivName} to {2_PromiseType} has been broken.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
-			<Text>dừng khai quật cổ vật</Text>
+			<Text>stop excavating artifacts</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
-			<Text>di chuyển quân tới biên giới</Text>
+			<Text>move the troops on the border</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
-			<Text>dừng chuyển đổi thành phố</Text>
+			<Text>stop converting cities</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
-			<Text>dừng di dân lân cận</Text>
+			<Text>stop settling nearby</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
-			<Text>dừng gián điệp</Text>
+			<Text>stop spying</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
-			<Text>Thỏa thuận hết hạn</Text>
+			<Text>Deal Expired</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
-			<Text>Thỏa thuận của bạn với {1_CivName} đã hết hạn.</Text>
+			<Text>A deal you made with {1_CivName} has expired.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
-			<Text>Khu vực bị cướp</Text>
+			<Text>District Pillaged</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
-			<Text>{1_DistrictName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>
+			<Text>Your {1_DistrictName} in {2_CityName} has been pillaged by {3_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
-			<Text>Công trình bị cướp</Text>
+			<Text>Improvement Pillaged</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
-			<Text>{1_ImprovementName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>
+			<Text>Your {1_ImprovementName} in {2_CityName} has been pillaged by {3_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
-			<Text>Kiến trúc bị cướp</Text>
+			<Text>Building Pillaged</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
-			<Text>{1_BuildingName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>
+			<Text>Your {1_BuildingName} in {2_CityName} has been pillaged by {3_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
-			<Text>Đường bị cướp</Text>
+			<Text>Road Pillaged</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
-			<Text>Một ô {1_RoadName} gần {2_CityName} đã bị cướp bởi {3_CivName}.</Text>
+			<Text>A tile of {1_RoadName} near {2_CityName} has been pillaged by {3_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
-			<Text>Người chơi hồi sinh</Text>
+			<Text>Player Resurrected</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
-			<Text>{1_civName} đã có được thành phố và đang sống trở lại.</Text>
+			<Text>{1_civName} has regained a city and is alive once again.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
-			<Text>Người chơi bị loại</Text>
+			<Text>Player Eliminated</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
-			<Text>{1_civName} đã bị loại.</Text>
+			<Text>{1_civName} has been eliminated.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
-			<Text>Nâng cấp đường</Text>
+			<Text>Roads Upgraded</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
-			<Text>{1_RoadName} đã mở khóa, nâng cấp tất cả đường trong biên giới của bạn ({2_MovementCost} [ICON_Movement] Di chuyển bất kể địa hình nào).</Text>
+			<Text>{1_RoadName} is unlocked, upgrading all Roads in your territory ({2_MovementCost} [ICON_Movement] Movement {2_MovementCost : plural 1?point; other?points;} regardless of terrain).</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
-			<Text>Đơn vị tôn giáo đầu tiên</Text>
+			<Text>First Religious Unit</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
-			<Text>Do nhiệt tình thu hút người dân nên đã sáng lập ra tôn giáo mới, bạn nhận được {1_UnitName} đầu tiên miễn phí. Sử dụng [ICON_Faith] Lòng tin để mua thêm trong tương lai.</Text>
+			<Text>Due to the fervor gripping your people at the founding of a new religion, you have received your first {1_UnitName} for free. Use [ICON_Faith] Faith to buy ones in the future.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
-			<Text>Gián điệp đầu tiên</Text>
+			<Text>First Spy</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
-			<Text>Do phấn khích trên mạng mới gián điệp mới của bạn, bạn nhận được {1_UnitName} đầu tiên miễn phí. Khi bạn mở khóa công trình nhiều hơn, đào tạo họ trong thành phố của bạn.</Text>
+			<Text>Due to the excitement over your new spy network, you have received your first {1_UnitName} for free. When you unlock the ability to construct more, train them in your cities.</Text>
 		</Row>
     <Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
-      <Text>Thành phố bị bao vây</Text>
+      <Text>City Sieged</Text>
     </Row>
     <Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
-      <Text>{1_CityName} đang bị vây hãm. Thành phố sẽ không được chữa lành dến khi hết bao vây.</Text>
+      <Text>{1_CityName} is under siege. Until opposing units do not have Zone of Control over all the hexes around your city it will not heal.</Text>
     </Row>
 	</BaseGameText>
 </GameData>

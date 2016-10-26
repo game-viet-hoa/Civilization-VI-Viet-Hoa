@@ -18,85 +18,85 @@
 			<Text>Attack with your city!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
-			<Text>Trong khi phòng thủ, {2_UnitName} ({5_Num} damage) của bạn đã giết chết {4_EnemyUnitName}!</Text>
+			<Text>While defending, your {2_UnitName} ({5_Num} damage) killed {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
-			<Text>Trong khi phòng thủ, Thành phố {2_CityName} ({5_Num} damage) của bạn đã giết chết {4_EnemyUnitName}!</Text>
+			<Text>While defending, your City of {2_CityName} ({5_Num} damage) killed {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
-			<Text>Thành phố {1_CityName} của bạn đã bị chiếm bởi {2_UnitName}!</Text>
+			<Text>Your City of {1_CityName} was captured by an enemy {2_UnitName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
-			<Text>{1_UnitName} ({2_Num} damage) của bạn đã chiếm thành phố {3_CityName} của kẻ địch!</Text>
+			<Text>Your {1_UnitName} ({2_Num} damage) captured the enemy City of {3_CityName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
-			<Text>{1_UnitName} của bạn đã bắt được {2_UnitName}!</Text>
+			<Text>Your {1_UnitName} captured an enemy {2_UnitName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
-			<Text>{1_UnitName} của bạn đã bị bắt bởi {2_UnitName}!</Text>
+			<Text>Your {1_UnitName} was captured by an enemy {2_UnitName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
-			<Text>{1_UnitName} ({2_Num} damage) của bạn đã tiêu diệt {3_UnitName}!</Text>
+			<Text>Your {1_UnitName} ({2_Num} damage) destroyed an enemy {3_UnitName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
-			<Text>{1_UnitName} của bạn đã chết khi tất công {2_EnUName} ({3_Num} damage)!</Text>
+			<Text>Your {1_UnitName} died attacking an enemy {2_EnUName} ({3_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
-			<Text>{1_UnitName} của bạn died attacking the enemy City of {2_EnUName} ({3_Num} damage)!</Text>
+			<Text>Your {1_UnitName} died attacking the enemy City of {2_EnUName} ({3_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
-			<Text>{1_UnitName} ({2_Num} damage) của bạn tấn công {3_EnUName} ({4_Num} damage)!</Text>
+			<Text>Your {1_UnitName} ({2_Num} damage) attacked an enemy {3_EnUName} ({4_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
-			<Text>{1_UnitName} ({2_Num} damage) của bạn tấn công thành phố {3_CityName} ({4_Num} damage) của kẻ địch!</Text>
+			<Text>Your {1_UnitName} ({2_Num} damage) attacked the enemy City of {3_CityName} ({4_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
-			<Text>{1_UnitName} của chúng ta đã rút lui khỏi kẻ địch tấn công cận chiến.</Text>
+			<Text>Our {1_UnitName} has withdrawn from enemy melee attack.</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
-			<Text>{1_UnitName} ({2_Num} damage) của bạn đã bị tấn công bởi {3_EnUName} ({4_Num} damage)!</Text>
+			<Text>Your {1_UnitName} ({2_Num} damage) was attacked by an enemy {3_EnUName} ({4_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>Trong khi phòng thủ, {2_UnitName} của đã bị phá hủy bởi {4_EnemyUnitName} ({5_Num} damage)!</Text>
+			<Text>While defending, your {2_UnitName} was destroyed by {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} ({5_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
-			<Text>{1_UnitName} của bạn oanh tạc {2_EnUName} gây {3_Num} damage!</Text>
+			<Text>Your {1_UnitName} strafed an enemy {2_EnUName} causing {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
-			<Text>{1_UnitName} của bạn đánh xa {2_EnUName} gây {3_Num} damage!</Text>
+			<Text>Your {1_UnitName} bombed an enemy {2_EnUName} causing {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
-			<Text>{1_UnitName} của bạn bị {2_EnUName} oanh tạch nhận {3_Num} damage!</Text>
+			<Text>Your {1_UnitName} was strafed by an enemy {2_EnUName} taking {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
-			<Text>{1_UnitName} của bạn đánh xa {2_EnUName} gây {3_Num} damage!</Text>
+			<Text>Your {1_UnitName} bombarded an enemy {2_EnUName} causing {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
-			<Text>{1_UnitName} của bạn bị {2_EnUName} đánh xa nhận {3_Num} damage!</Text>
+			<Text>Your {1_UnitName} was bombarded by an enemy {2_EnUName} taking {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
-			<Text>{1_UnitName} của bạn sống sót sau khi đánh chặn vũ khí hạt nhân, nhận {2_Num} damage từ {4_EnemyUnitName} gây {5_Num} damage!</Text>
+			<Text>Your {1_UnitName} survived a WMD intercept, taking {2_Num} damage from {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} and dealing {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_FAILED">
-			<Text>{1_UnitName} của bạn đã thất bại trong việc đánh chặn vũ khí hạt nhân bởi gây {2_Num} damage từ {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
+			<Text>Your {1_UnitName} failed to intercept a WMD attack by dealing {2_Num} damage to {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} and taking {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_FAILED_DUE_TO_INTERCEPT">
-			<Text>{1_UnitName} của bạn thất bại trong việc triển khai vũ khí hạt nhân. Nó đã bị chặn lại, nhận {2_Num} damage từ {4_EnemyUnitName} và gây {5_Num} damage!</Text>
+			<Text>Your {1_UnitName} failed to deploy a WMD. It was intercepted, taking {2_Num} damage from {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} and dealing {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_SUCCEEDED">
-			<Text>{1_UnitName} của bạn đã đánh chặn thành công vũ khí hạt nhân bởi gây {2_Num} damage từ {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
+			<Text>Your {1_UnitName} intercepted a WMD attack by dealing {2_Num} damage to {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} and taking {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
-			<Text>Trong khi phòng thủ, {1_UnitName} của bạn bị phá hủy bởi {2_EnUName} ({3_Num} damage)!</Text>
+			<Text>While defending, your {1_UnitName} was destroyed by a disguised {2_EnUName} ({3_Num} damage)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
-			<Text>{1_UnitName} của bạn tấn công {2_Name} của kẻ địch gây {3_Num} damage!</Text>
+			<Text>Your {1_UnitName} attacked an enemy {2_Name} causing {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
-			<Text>{1_Name} của bạn bị tấn công bởi {2_EnUName} nhận {3_Num} damage!</Text>
+			<Text>Your {1_Name} was attacked by an enemy {2_EnUName} taking {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
-			<Text>{1_UnitName} của bạn attacked an enemy {2_Name} ({3_Num} {2_Name} damage, {4_Num} defense damage)</Text>
+			<Text>Your {1_UnitName} attacked an enemy {2_Name} ({3_Num} {2_Name} damage, {4_Num} defense damage)</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
 			<Text>Your {1_Name} was attacked by an enemy {2_EnUName} ({3_Num} {2_Name} damage, {4_Num} defense damage)</Text>
@@ -117,16 +117,16 @@
 			<Text>Plunder from your pillaging has healed your {1_Name}.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_CULTURE">
-			<Text>You received {1_Num} [ICON_Culture] Văn minh in plunder from your pillaging.</Text>
+			<Text>You received {1_Num} [ICON_Culture] Culture in plunder from your pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_FAITH">
-			<Text>You received {1_Num} [ICON_Faith] Lòng tin in plunder from your pillaging.</Text>
+			<Text>You received {1_Num} [ICON_Faith] Faith in plunder from your pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_GOLD">
-			<Text>You received {1_Num} [ICON_Gold] Vàng in plunder from your pillaging.</Text>
+			<Text>You received {1_Num} [ICON_Gold] Gold in plunder from your pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_SCIENCE">
-			<Text>You received {1_Num} [ICON_Science] Khoa học in plunder from your pillaging.</Text>
+			<Text>You received {1_Num} [ICON_Science] Science in plunder from your pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_KILL_CULTURE">
 			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
