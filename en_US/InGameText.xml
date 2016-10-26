@@ -3110,16 +3110,16 @@
 		</Row>
 		<!-- ==================== Calendar Text ==================== -->
 		<Row Tag="LOC_TIME_AD">
-			<Text>{1_Date: number #} TCN</Text>
-		</Row>
-		<Row Tag="LOC_TIME_AD_SAVE">
-			<Text>{2} TCN-{1_Date}</Text>
-		</Row>
-		<Row Tag="LOC_TIME_BC">
 			<Text>{1_Date: number #} SCN</Text>
 		</Row>
-		<Row Tag="LOC_TIME_BC_SAVE">
+		<Row Tag="LOC_TIME_AD_SAVE">
 			<Text>{2} SCN-{1_Date}</Text>
+		</Row>
+		<Row Tag="LOC_TIME_BC">
+			<Text>{1_Date: number #} TCN</Text>
+		</Row>
+		<Row Tag="LOC_TIME_BC_SAVE">
+			<Text>{2} TCN-{1_Date}</Text>
 		</Row>
 		<Row Tag="LOC_TIME_MONTH">
 			<Text>{1_Date},{2_Month}</Text>
