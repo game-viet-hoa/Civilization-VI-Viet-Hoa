@@ -8,5 +8,5 @@ Bản việt hóa của trò chơi Sid Meier’s Civilization® VI
 - Tránh để cả 2 thư mục en_US và Original cùng chỗ bởi vì game sẽ sử dụng tiếng Anh.
 
 Thảo luận tại:
-https://vozforums.com/showthread.php?p=102471110
-https://www.facebook.com/groups/1245814878810301/
+- https://vozforums.com/showthread.php?p=102471110
+- https://www.facebook.com/groups/1245814878810301/
