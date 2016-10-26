@@ -943,25 +943,25 @@
 			<Text>By enacting these policies, your military units will now get a +5 [ICON_Strength] Combat Strength bonus when fighting against Barbarians. Also, your cities receive +1 [ICON_Production] Sản phẩm per turn, allowing them to train units and construct buildings faster than before.</Text>
 		</Row>
 		<Row Tag="LOC_META_98_BODY">
-			<Text>Phần lớn, bạn tạo ra công nghệ mới bằng [ICON_Science] Khoa học, mở khóa Công Dân bằng [ICON_Culture] Văn minh.[NEWLINE][NEWLINE]Bạn đã có PHÁP LUẬT trong CÔNG DÂN để thiết lập chính sách đầu tiên cho thành phố</Text>
+			<Text>Phần lớn, bạn tạo ra công nghệ mới bằng [ICON_Science] Khoa học, mở khóa Hành chính bằng [ICON_Culture] Văn minh.[NEWLINE][NEWLINE]Bạn đã có PHÁP LUẬT trong HÀNH CHÍNH để thiết lập chính sách đầu tiên cho thành phố</Text>
 		</Row>
 		<Row Tag="LOC_META_99a_BODY">
-			<Text>Bây giờ cần lựa chọn Công Dân mới.</Text>
+			<Text>Bây giờ cần lựa chọn Hành chính mới.</Text>
 		</Row>
 		<Row Tag="LOC_META_99b_HEAD">
-			<Text>CÂY CÔNG DÂN</Text>
+			<Text>CÂY HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_META_99b_BODY">
-			<Text>Mở cây công dân.</Text>
+			<Text>Mở cây Hành chính.</Text>
 		</Row>
 		<Row Tag="LOC_META_100_BODY">
-			<Text>Tương tự cây công nghệ, cây công dân có các lựa chọn khác nhau. Đối với hướng dẫn này, hãy chọn KHÉO LÉO để tiếp tục.</Text>
+			<Text>Tương tự cây công nghệ, cây Hành chính có các lựa chọn khác nhau. Đối với hướng dẫn này, hãy chọn KHÉO LÉO để tiếp tục.</Text>
 		</Row>
 		<Row Tag="LOC_META_100b_HEAD">
-			<Text>CHỌN CÔNG DÂN</Text>
+			<Text>CHỌN HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_META_100b_BODY">
-			<Text>Lựa chọn công dân KHÉO LÉO</Text>
+			<Text>Lựa chọn hành chính KHÉO LÉO</Text>
 		</Row>
     		<Row Tag="LOC_META_100c_HEAD">
 			<Text>Đóng</Text>
@@ -1144,7 +1144,7 @@
 			<Text>[NEWLINE][NEWLINE]Nghiên cứu công nghệ: {1_Techs}</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
-			<Text>[NEWLINE][NEWLINE]Mở khóa công dân: {1_Civics}</Text>
+			<Text>[NEWLINE][NEWLINE]Mở khóa hành chính: {1_Civics}</Text>
 		</Row>
 		<Row Tag="LOC_META_53_BODY">
 			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders, and abilities that are unlocked by the technology once it is completed. For example, once you have finished researching the Pottery technology, you will be able to construct the Granary building in all of your cities. Your Builders will also gain the ability to harvest Wheat resources near your city. While harvesting a Wheat resource gives you a large amount of [ICON_Food] Thực phẩm, that resource is removed from the map. In most cases, it is better to nurture a Wheat resource by building a Farm improvement on it instead.</Text>

@@ -228,7 +228,7 @@
 			<Text>Đơn vị cẩu đá thời Cổ đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
-			<Text>Đơn vị ném bom thời Phục hưng, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Hỏa pháo thời Phục hưng, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
 			<Text>Đơn vị tên lửa thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
@@ -247,7 +247,7 @@
 			<Text>Đơn vị hỗ trợ thời Công nghiệp. Có thể chữa lành các đơn vị lân cận.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
-			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị ném bom liền kề.</Text>
+			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị Hỏa pháo liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
 			<Text>Đơn vị hỗ trợ thời Trung cổ. Yêu cầu Kho vũ khí đển sản xuất. Có thể xây Đường, Pháo đài, và Đường băng.</Text>
@@ -395,7 +395,7 @@
 			<Text>Không quân thời hiện đại thay thế chiến đấu cơ của Mỹ. +5 tấn công khi đánh với máy bay chiến đấu, có +2 tầm chiến đấu, và +50% EXP.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
-			<Text>Đơn vị thời hiện đại thay thế Tàu chiến của Brazil. Mạnh hơn tàu chiến. Mở khóa bởi Chủ nghĩa dân tộc.</Text>
+			<Text>Đơn vị thời hiện đại thay thế Chiến Hạm của Brazil. Mạnh hơn Chiến Hạm. Mở khóa bởi Chủ nghĩa dân tộc.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

@@ -46,7 +46,7 @@
 			<Text>Không thể di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_CIVIC">
-			<Text>Công dân không chính xác để chọn.</Text>
+			<Text>Hành chính không chính xác để chọn.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_GOVERNMENT">
 			<Text>Chính phủ không chính xác để chọn.</Text>
@@ -325,7 +325,7 @@
 			<Text>CHỌN TÍN NGƯỠNG</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_CIVIC">
-			<Text>CHỌN CÔNG DÂN</Text>
+			<Text>CHỌN HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_ORDERS">
 			<Text>Đơn vị cần hành động</Text>
@@ -373,13 +373,13 @@
 			<Text>Cần chọn công nghệ nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_CIVIC_TOOLTIP">
-			<Text>Còn chọn công dân để mở khóa.</Text>
+			<Text>Còn chọn Hành chính để mở khóa.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_FILL_CIVIC_SLOT_TOOLTIP">
 			<Text>Một chính sách đã lỗi thời và cần được thay thế.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CONSIDER_GOVERNMENT_CHANGE_TOOLTIP">
-			<Text>Công dân hoàn thành mở khóa chính phủ mới. Hãy xem xét thay đổi trong lượt này.</Text>
+			<Text>Hành chính hoàn thành mở khóa chính phủ mới. Hãy xem xét thay đổi trong lượt này.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CONSIDER_RAZE_CITY_TOOLTIP">
 			<Text>Chinh phục một thành phố trong lượt này. Quyết định san phẳng hay giữ lại.</Text>
@@ -818,7 +818,7 @@
 			<Text>Yêu cầu: {1_Tech} công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_CIVIC">
-			<Text>Yêu cầu: {1_Civic} công dân</Text>
+			<Text>Yêu cầu: {1_Civic} hành chính</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_ADJACENT_SAME_UNIT">
 			<Text>Yêu cầu đơn vị liền kề cùng loại.</Text>
@@ -925,16 +925,16 @@
 			<Text>Tiện nghi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_TOOLTIP">
-			<Text>Tìm nghi được tính {1_Amenitiy} cho {2_Citizens} Công dân / {3_DivideValue}</Text>
+			<Text>Tiện nghi được tính {1_Amenitiy} cho {2_Citizens} Công dân / {3_DivideValue}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_CIVICS">
-			<Text>{1_Num} = Tiện nghi từ công dân[NEWLINE]</Text>
+			<Text>{1_Num} = Tiện nghi từ hành chính[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_ENTERTAINMENT">
 			<Text>{1_Num} = Tiện nghi từ giải trí[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_CIVICS">
-			<Text>Tiện nghi từ công dân:</Text>
+			<Text>Tiện nghi từ hành chính:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_ENTERTAINMENT">
 			<Text>Tiện nghi từ giải trí:</Text>
@@ -1042,7 +1042,7 @@
 			<Text>Nhà ở</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
-			<Text>Nước {1_Water}, Kiến trúc {2_Buildings}, Công trình {3_Improvements}, Vùng ngoại ô {4_Districts}, Công dân {5_Civics}</Text>
+			<Text>Nước {1_Water}, Kiến trúc {2_Buildings}, Công trình {3_Improvements}, Vùng ngoại ô {4_Districts}, Hành chính {5_Civics}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
 			<Text>Nhà ở thủ đô</Text>
@@ -1051,7 +1051,7 @@
 			<Text>Nhà ở từ kiến trúc:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_CIVICS">
-			<Text>Nhà ở từ công dân:</Text>
+			<Text>Nhà ở từ hành chính:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_DISTRICTS">
 			<Text>Nhà ở từ khu vực:</Text>
@@ -1255,7 +1255,7 @@
 			<Text>{1_Turns : plural 1? {1_Turns} lượt; other?{1_Turns} lượt;} nữa công dân mới ra đời.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_LOST">
-			<Text>{1_Turns : plural 1? {1_Turns} lượt; other?{1_Turns} lượt;} nữa một dân cư bị mất</Text>
+			<Text>{1_Turns : plural 1? {1_Turns} lượt; other?{1_Turns} lượt;} nữa một công dân bị mất</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_TO_COMPLETE">
 			<Text>{1_Turns : plural 1? lượt; other? lượt;} để hoàn thành.</Text>
@@ -1770,10 +1770,10 @@
 			<Text>Thay đổi NGHIÊN CỨU</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHANGE_CIVICS">
-			<Text>Thay đổi CÔNG DÂN</Text>
+			<Text>Thay đổi HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHOOSE_CIVIC">
-			<Text>Chọn CÔNG DÂN</Text>
+			<Text>Chọn HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_HUD_RESEARCH_TURNS">
 			<Text>Lượt:</Text>
@@ -1890,13 +1890,13 @@
 			<Text>Dân làng chia sẽ một bí mật công nghệ.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_WONDER">
-			<Text>Trong khi thám hiểm thế giới, bạn đã phát hiện ra công dân chưa biết đến từ những người bạn.</Text>
+			<Text>Trong khi thám hiểm thế giới, bạn đã phát hiện ra Hành chính chưa biết đến từ những người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
-			<Text>Vĩ nhân đã mở khóa một công dân.</Text>
+			<Text>Vĩ nhân đã mở khóa một Hành chính.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_COMPLETE">
-			<Text>Công dân {1_techString} vừa mở khóa!</Text>
+			<Text>Hành chính {1_techString} vừa mở khóa!</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_ADVANCED">
 			<Text>Bạn đã đẩy nhanh quá trình mở khóa {1_techString}.</Text>
@@ -2027,7 +2027,7 @@
 			<Text>Bảng nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_HIDE_CIVICS_PANEL">
-			<Text>Bảng công dân</Text>
+			<Text>Bảng hành chính</Text>
 		</Row>
 		<Row Tag="LOC_HIDE_CHAT_PANEL">
 			<Text>Khung Chat</Text>
@@ -2036,7 +2036,7 @@
 			<Text>Khung Chat ([ICON_New]{1_Number})</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_TRACKER_CHOOSE_CIVIC">
-			<Text>Chọn công dân</Text>
+			<Text>Chọn hành chính</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_TRACKER_CHOOSE_RESEARCH">
 			<Text>Nghiên cứu</Text>
@@ -2062,20 +2062,20 @@
 			<Text>Vừa hoàn thành</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_CHOOSER_CHOOSE_NEW_CIVIC">
-			<Text>Chọn công dân mới</Text>
+			<Text>Chọn Hành chính mới</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_CHOOSER_CHOOSE_CIVIC">
-			<Text>Chọn công dân</Text>
+			<Text>Chọn Hành chính</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_CHOOSER_OPEN_CIVICS_TREE">
-			<Text>Mở cây công dân</Text>
+			<Text>Mở cây Hành chính</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_CHOOSER_TURNS">
 			<Text>Lượt:</Text>
 		</Row>
 		<!-- ==================== Civics Tree ==================== -->
 		<Row Tag="LOC_CIVICS_TREE_HEADER">
-			<Text>CÔNG DÂN</Text>
+			<Text>HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_AVAILABLE">
 			<Text>Khả dụng</Text>
@@ -2235,7 +2235,7 @@
 			<Text>Xem chính sách</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_CIVIC_REQUIRED">
-			<Text>Mở khóa khi công dân {1_CivicName} hoàn tất.</Text>
+			<Text>Mở khóa khi hành chính {1_CivicName} hoàn tất.</Text>
 		</Row>
     <Row Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
       <Text>Không có slot Chính sách đặc biệt cho chính phủ.</Text>
@@ -2395,7 +2395,7 @@
 			<Text>Căn cứ với {1_Amount} slot cho máy bay.</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_PLANT_REQUIRES_CIVIC">
-			<Text>Yêu cầu công dân: {1_Civic}</Text>
+			<Text>Yêu cầu hình chính: {1_Civic}</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
 			<Text>Di chuyển</Text>
@@ -3788,7 +3788,7 @@
 		</Row>
 		<!-- ==================== Scoring Categories ==================== -->
 		<Row Tag="LOC_CATEGORY_CIVICS_NAME">
-			<Text>Công dân</Text>
+			<Text>Hành chính</Text>
 		</Row>
 		<Row Tag="LOC_CATEGORY_CULTURE_NAME">
 			<Text>Văn minh</Text>
@@ -3834,7 +3834,7 @@
 			<Text>NGHIÊN CỨU HOÀN THÀNH</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_COMPLETE_CIVIC_COMPLETE">
-			<Text>MỞ KHÓA CÔNG DÂN</Text>
+			<Text>MỞ KHÓA HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_COMPLETE_TECH_BUTTON">
 			<Text>Tiếp tục</Text>
@@ -3843,7 +3843,7 @@
 			<Text>Tiếp tục</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_CIVIC">
-			<Text>Mở khóa bởi công dân ({1_Amount}):</Text>
+			<Text>Mở khóa bởi hành chính ({1_Amount}):</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_TECH">
 			<Text>Mở khóa bởi công nghệ ({1_Amount}):</Text>
@@ -4269,7 +4269,7 @@
 			<Text>[ICON_ThemeBonus_Active][COLOR:ResCultureLabelCS]THEMED[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_THEME_BONUS_PROGRESS">
-			<Text>[ICON_ThemeBonus]Theming({1_current}/{2_total})</Text>
+			<Text>[ICON_ThemeBonus]Chủ đề trưng bày({1_current}/{2_total})</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TOURISM">
 			<Text>Tourism</Text>
@@ -4604,7 +4604,7 @@
 			<Text>CÂY CÔNG NGHỆ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CIVICSTREE_TOOLTIP">
-			<Text>CÂY CÔNG DÂN</Text>
+			<Text>CÂY HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_HUD_RELIGION_TOOLTIP">
 			<Text>TÔN GIÁO</Text>

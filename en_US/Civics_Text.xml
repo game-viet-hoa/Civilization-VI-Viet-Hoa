@@ -848,10 +848,10 @@
 		</Row>
 		<!-- Temporary UI -->
 		<Row Tag="LOC_CIVIC_STARTED">
-			<Text>Tiến trình đã bắt đầu đối với công dân: {1_CivicName}</Text>
+			<Text>Tiến trình đã bắt đầu đối với Hành chính: {1_CivicName}</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_COMPLETE">
-			<Text>Công dân hoàn thành: {1_CivicName}</Text>
+			<Text>Hành chính hoàn thành: {1_CivicName}</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
