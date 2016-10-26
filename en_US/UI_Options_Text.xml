@@ -29,29 +29,29 @@
 		<!-- Option Enums -->
 
 		<Row Tag="LOC_OPTIONS_ENABLED">
-			<Text>Enabled</Text>
+			<Text>Bật</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_DISABLED">
-			<Text>Disabled</Text>
+			<Text>Tắt</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_MINIMUM">
-			<Text>Minimum</Text>
+			<Text>Tối thiểu</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LOW">
-			<Text>Low</Text>
+			<Text>Thấp</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MEDIUM">
-			<Text>Medium</Text>
+			<Text>Trung bình</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HIGH">
-			<Text>High</Text>
+			<Text>Cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_ULTRA">
-			<Text>Ultra</Text>
+			<Text>Rất cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CUSTOM">
-			<Text>Custom</Text>
+			<Text>Tùy chỉnh</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_NONE">
 			<Text>None</Text>
@@ -60,10 +60,10 @@
 			<Text>Match local time</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_X_TURNS">
-			<Text>Every {1_num} turns</Text>
+			<Text>Mỗi {1_num} lượt</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_10_TURNS">
-			<Text>Every 10 turns</Text>
+			<Text>Mỗi 10 lượt</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
 			<Text>As eras progress</Text>
@@ -78,10 +78,10 @@
 		<!-- Gameplay Panel -->
 
 		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
-			<Text>New to Civilization VI</Text>
+			<Text>Mới từ Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
-			<Text>New to Civilization</Text>
+			<Text>Mới từ Civilization</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
 			<Text>New to turn-based strategy</Text>
@@ -103,13 +103,13 @@
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
-			<Text>Windowed</Text>
+			<Text>Cửa sổ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
-			<Text>Full Screen</Text>
+			<Text>Toàn màn hình</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
-			<Text>Borderless Window</Text>
+			<Text>Không viền</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_MSAA_2X">
@@ -543,7 +543,7 @@
 			<Text>Fortify</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
-			<Text>Delete Unit</Text>
+			<Text>Xóa đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
 			<Text>Attack</Text>
@@ -552,7 +552,7 @@
 			<Text>Ranged Attack</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
-			<Text>Automate Exploration</Text>
+			<Text>Tự khám phá</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
 			<Text>Skip Turn</Text>

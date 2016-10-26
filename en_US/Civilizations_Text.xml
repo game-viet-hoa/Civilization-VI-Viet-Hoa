@@ -4,61 +4,61 @@
 	<BaseGameText>
 		<!-- Empire Names-->
 		<Row Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
-			<Text>American Empire</Text>
+			<Text>Đế chế Mỹ</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
-			<Text>Arabian Empire</Text>
+			<Text>Đế chế Ả Rập</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
-			<Text>Barbarians</Text>
+			<Text>Đế chế quân man rợ</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
-			<Text>Brazilian Empire</Text>
+			<Text>Đế chế Brazil</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
-			<Text>Chinese Empire</Text>
+			<Text>Đế chế Trung Quốc</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
-			<Text>Egyptian Empire</Text>
+			<Text>Đế chế Ai Cập</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
-			<Text>English Empire</Text>
+			<Text>Đế chế Anh</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
-			<Text>French Empire</Text>
+			<Text>Đế chế Pháp</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
-			<Text>German Empire</Text>
+			<Text>Đế chế Đức</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
-			<Text>Greek Empire</Text>
+			<Text>Đế chế Hy Lạp</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
-			<Text>Indian Empire</Text>
+			<Text>Đế chế Ấn Độ</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
-			<Text>Japanese Empire</Text>
+			<Text>Đế chế Nhật Bản</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
-			<Text>Empire of Kongo</Text>
+			<Text>Đế chế Congo</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
-			<Text>Norwegian Empire</Text>
+			<Text>Đế chế Na Uy</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
-			<Text>Roman Empire</Text>
+			<Text>Đế chế La Mã</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
-			<Text>Russian Empire</Text>
+			<Text>Đế chế Nga</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
-			<Text>Scythian Empire</Text>
+			<Text>Đế chế Scythia</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
-			<Text>Spanish Empire</Text>
+			<Text>Đế chế Tây Ban Nha</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
-			<Text>Sumerian Empire</Text>
+			<Text>Đế chế Sumerian</Text>
 		</Row>
 		<!-- City-State Empire Names-->
 		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
@@ -276,143 +276,143 @@
 		</Row>
 		<!-- Civ Traits-->
 		<Row Tag="LOC_TRAIT_PLACEHOLDER">
-			<Text>[PLACEHOLDER] No unique ability implemented</Text>
+			<Text>[PLACEHOLDER] Không có thuộc tính đặc biệt</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
 			<Text>Amazon</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
-			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts. Rainforest tiles provide +1 [ICON_Housing] Housing for Neighborhoods built adjacent to them.</Text>
+			<Text>Rừng nhiệt đới +1 cho khu tri thức, trung tâm thương mại, khu linh thiêng và khu nghệ thuật liền kề. Rừng nhiệt đới +1 [ICON_Housing] Nhà ở cho Vùng ngoại ô xây liền kề chúng.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
 			<Text>Dynastic Cycle</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
-			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 60% of civics and technologies instead of 50%.</Text>
+			<Text>Thưởng [ICON_TechBoosted] Công nghệ và [ICON_CivicBoosted] Công dân thêm 60% thay vì 50%.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
 			<Text>Inexpensive Builders</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
-			<Text>Train Builders in half the usual time.</Text>
+			<Text>Đào tạo Thợ Xây mất một nửa thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
-			<Text>Meiji Restoration</Text>
+			<Text>Cải cách Minh Trị</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
-			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district.</Text>
+			<Text>Tất cả khu vực được thưởng khi liền kề với khu vực khác.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
-			<Text>British Museum</Text>
+			<Text>Bảo tàng Anh</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
-			<Text>Each Archaeological Museum holds 6 [ICON_GreatWork_Artifact] Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 [ICON_GreatWork_Artifact] Artifacts.</Text>
+			<Text>Mỗi Nhà khảo cổ giữ 6 [ICON_GreatWork_Artifact] Cổ vật thay vì 3 và có thể hỗ trợ 2 Nhà khảo cổ cùng một lúc. Bảo tàng khảo cổ sẽ tự động đề tài khi có 6 [ICON_GreatWork_Artifact] Cổ vật.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
 			<Text>People of the Steppe</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
-			<Text>Receive a second light cavalry unit or Saka Horse Archer each time you train a light cavalry unit or Saka Horse Archer.</Text>
+			<Text>Nhận một đơn vị kỵ binh hạng nhẹ thứ hai hoặc Tiễn mã Saka mỗi khi đào tạo kỵ binh hạng nhẹ hoặc Tiễn mã Saka.</Text>
 		</Row>
 		<Row Tag="LOC_BONUS_AGAINST_BARBS_NAME">
 			<Text>Savage</Text>
 		</Row>
 		<Row Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
-			<Text>Bonus against Barbarians.</Text>
+			<Text>Thưởng chống lại quân man rợ.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
-			<Text>Epic Quests</Text>
+			<Text>Nhiệm vụ hoành tráng</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
-			<Text>When you capture a Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy city-state units.</Text>
+			<Text>Khi chiếm được tiền đồn quân man rợ, nhận một làng bộ lạc ngoài viện được [ICON_Gold] Vàng. Trả một nửa phí để điều khiển quân đội thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
 			<Text>Iteru</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production towards districts and wonders if placed next to a River. Floodplains do not block placement of districts and wonders.</Text>
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan và khu vực nếu đặt gần sông. Vùng lũ không chặn vị trí của khu vực và kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
 			<Text>Plato's Republic</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
-			<Text>One extra Wildcard policy slot in any government.</Text>
+			<Text>Một slot chính sách đặc biệt trong chính phủ bất kỳ.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
 			<Text>Mother Russia</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
-			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra.</Text>
+			<Text>Thêm lãnh thổ khi thành lập một thành phố. +1 [ICON_Faith] Lòng tin và +1 [ICON_Production] Sản phẩm từ Đài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
 			<Text>The Last Prophet</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
-			<Text>Automatically receive the final Great Prophet when the next-to-last one is claimed (if you have not earned a Great Prophet already). +1 [ICON_Science] Science for each foreign city following Arabia's Religion.</Text>
+			<Text>Tự động nhận Vĩ nhân cuối cùng khi người gần cuối được tuyển dụng (nếu bạn không có sẵn một Vĩ nhân). +1 [ICON_Science] Khoa học cho mỗi thành phố nước ngoài theo tôn giáo của Ả Rập.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
 			<Text>Nkisi</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
-			<Text>+2 [ICON_Food] Food, +2 [ICON_Production] Production, and +4 [ICON_Gold] Gold from each [ICON_GreatWork_Relic] Relic, [ICON_GreatWork_Artifact] Artifact, and Sculpture [ICON_GreatWork_Sculpture] Great Work of Art in addition to the usual [ICON_Culture] Culture. Receive double [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, [ICON_GreatMusician] Great Musician, and [ICON_GreatMerchant] Great Merchant points. Palace has slots for 5 Great Works.</Text>
+			<Text>+2 [ICON_Food] Thực phẩm, +2 [ICON_Production] Sản phẩm và +4 [ICON_Gold] Vàng từ mỗi [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật và Điêu khắc [ICON_GreatWork_Sculpture] Tác phẩm nghệ thuật ngoài [ICON_Culture] Văn minh. x2 điểm [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, [ICON_GreatMusician] Nhạc sĩ vĩ đại và [ICON_GreatMerchant] Thương gia vĩ đại. Cung điện có slot cho 5 thành tựu vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
 			<Text>Treasure Fleet</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
-			<Text>May build Fleets and Armadas earlier than usual (Mercantilism). [ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities.</Text>
+			<Text>Có thể xây dựng Fleets và Armadas sớm hơn (Chủ nghĩa trọng thương). [ICON_TradeRoute] Tuyến đường thương mại giữa nhiều châu lục nhận thưởng [ICON_Gold] Vàng cho mỗi lộ trình với nền văn minh khác, thưởng [ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm cho lộ trình giữa các thành phố của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
 			<Text>Founding Fathers</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
-			<Text>Earn all government legacy bonuses in half the usual time.</Text>
+			<Text>Kiếm được tất cả kế thừa chính phủ hơn một nửa thời gian so với bình thường.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
 			<Text>Dharma</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
-			<Text>Receives Follower Belief bonuses in a city from each Religion that has at least 1 follower.</Text>
+			<Text>Nhận thưởng người theo tín ngưỡng trong một thành phố từ mỗi tôn giáo mà có ít nhất một người theo.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
 			<Text>Grand Tour</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
-			<Text>+20% [ICON_Production] Production toward Medieval, Renaissance, and Industrial era wonders. [ICON_Tourism] Tourism from wonders of any era is doubled.</Text>
+			<Text>+20% [ICON_Production] Sản phẩm đối với kỳ quan thời Trung cổ, Phục hưng và Công nghiệp. [ICON_Tourism] Du lịch từ kỳ quan ở bất kỳ thời đại nào đều được x2.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
 			<Text>Free Imperial Cities</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
-			<Text>Each city can build one more district than usual (exceeding the normal limit based on [ICON_Citizen] Population).</Text>
+			<Text>Mỗi thành phố có thể xây thêm một khu vực hơn bình thường (vượt giá giới hạn bình thường dựa trên [ICON_Citizen] Dân số).</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
-			<Text>All Roads Lead to Rome</Text>
+			<Text>Con đường nào cũng dẫn đến La Mã</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
-			<Text>All cities you found or conquer start with a Trading Post. If in [ICON_TradeRoute] Trade Route range of your [ICON_Capital] Capital, they also start with a road to it. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities.</Text>
+			<Text>Tất cả thành phố bạn thành lập hoặc chinh phục bắt đầu với một điểm thưởng mại. Nếu [ICON_TradeRoute] Tuyến đường thương mại trong tầm [ICON_Capital] Thủ đô, hõ cũng bắt đầu với một con đường đến đó. [ICON_TradeRoute] Tuyến đường thương mại của bạn +1 [ICON_Gold] Vàng cho mỗi lần đi qua diểm thương mại của thành phố bạn.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
 			<Text>Knarr</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
-			<Text>Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology. Naval melee units heal in neutral territory. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+			<Text>Các đơn vị có được khả năng đi vào ô đại dương sau khi nghiên cứu công nghệ Đóng tàu. Đơn vị hải quân cận chiến được hồi sức trên lãnh thổ trung lập. Đơn vị bỏ phạt [ICON_Movement] Di chuyển cho đón trả.</Text>
 		</Row>
 		<!-- Civilization Info -->
 		<Row Tag="LOC_CIVINFO_LOCATION">
-			<Text>Location</Text>
+			<Text>Vị trí</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_SIZE">
-			<Text>Size</Text>
+			<Text>Kích thước</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_POPULATION">
-			<Text>Population</Text>
+			<Text>Dân số</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_CAPITAL">
-			<Text>Capital</Text>
+			<Text>Thủ đô</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AMERICA_LOCATION">
-			<Text>North America</Text>
+			<Text>Bắc Mỹ</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AMERICA_SIZE">
 			<Text>Roughly 3.8 million square miles (9.6 million square kilometers)</Text>
@@ -734,7 +734,7 @@
 			<Text>Brazilian unique district: Street Carnival</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
-			<Text>English unique district: Royal Navy Dockyard</Text>
+			<Text>English unique district: Xưởng đóng tàu hải quân Hoàng gia</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

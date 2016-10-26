@@ -4,71 +4,71 @@
 	<BaseGameText>
 		<!-- Promotion Class Names -->
 		<Row Tag="LOC_PROMOTION_CLASS_RECON_NAME">
-			<Text>Recon</Text>
+			<Text>Dò đường</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
-			<Text>Melee</Text>
+			<Text>Cận chiến</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
-			<Text>Ranged</Text>
+			<Text>Đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
-			<Text>Siege</Text>
+			<Text>Bao vây</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
-			<Text>Anti Cavalry</Text>
+			<Text>Chống Kỵ binh</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
-			<Text>Light Cavalry</Text>
+			<Text>Kỵ binh hạng nhẹ</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
-			<Text>Heavy Cavalry</Text>
+			<Text>Kỵ binh hạng nặng</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
-			<Text>Air Fighter</Text>
+			<Text>Máy bay chiến đấu</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
-			<Text>Air Bomber</Text>
+			<Text>Máy bay ném bom</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
-			<Text>Naval Melee</Text>
+			<Text>Hải quân cận chiến</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
-			<Text>Naval Ranged</Text>
+			<Text>Hải quân đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
-			<Text>Naval Carrier</Text>
+			<Text>Tàu sân bay</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
-			<Text>Naval Raider</Text>
+			<Text>Hải tặc</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
-			<Text>Religious Apostle</Text>
+			<Text>Tông đồng tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
-			<Text>Religious Inquisitor</Text>
+			<Text>Điều tra tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
-			<Text>Support</Text>
+			<Text>Hỗ trợ</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_SPY_NAME">
-			<Text>Espionage</Text>
+			<Text>Gián điệp</Text>
 		</Row>
 		<!-- Formation Class Names -->
 		<Row Tag="LOC_FORMATION_CLASS_AIR_NAME">
-			<Text>Air Combat</Text>
+			<Text>Không quân</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
-			<Text>Civilian</Text>
+			<Text>Thường dân</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
-			<Text>Land Combat</Text>
+			<Text>Quân đội mặt đất</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
-			<Text>Naval Combat</Text>
+			<Text>Hải quân</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
-			<Text>Support</Text>
+			<Text>Hỗ trợ</Text>
 		</Row>
 		<!-- Damage Message -->
 		<Row Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
@@ -86,7 +86,7 @@
 			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
-			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*PROMOTION AVAILABLE*[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*THĂNG CHỨC*[ENDCOLOR]</Text>
 		</Row>
 		<!-- Production Yield Message -->
 		<Row Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
@@ -108,294 +108,294 @@
 		</Row>
 		<!-- Civilian-->
 		<Row Tag="LOC_UNIT_SETTLER_DESCRIPTION">
-			<Text>May create new cities. Reduces city's [ICON_Citizen] Population by 1 when completed.</Text>
+			<Text>Có thể tạo thành phố mới. Mỗi thành phố mới sẽ cho 1 [ICON_Citizen] Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BUILDER_DESCRIPTION">
-			<Text>May create tile improvements or remove features like Woods or Rainforest. Builders can be used 3 times. This can be increased through policies or wonders like the Pyramids.</Text>
+			<Text>Có thể xây công trình, cải tạo đất như phá Rừng hoặc Rừng nhiệt đới. Chỉ sử dụng được 3 lần. Có thể tăng số lần thông qua chính sách hoặc hoặc kỳ quan như Kim tự pháp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRADER_DESCRIPTION">
-			<Text>May make and maintain a single [ICON_TradeRoute] Trade Route. Automatically creates Roads as it travels.</Text>
+			<Text>Có thể tạo một [ICON_TradeRoute] Tuyến đường thương mại. Tự động tạo đường tại lộ trình nó đi qua.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
-			<Text>May convert [ICON_Citizen] Citizens to their Religion. May not initiate theological combat with units of other Religions (but can defend).</Text>
+			<Text>Có thể đổi tôn giáo của [ICON_Citizen] Dân cư. Không thể tạo chiến tranh thần thánh hoặc với đơn vị có tôn giáo khác (nhưng có thể phòng thủ).</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
-			<Text>May convert [ICON_Citizen] Citizens to their Religion and initiate theological combat with units of other Religions.</Text>
+			<Text>Có thể đổi tôn giáo của [ICON_Citizen] Dân cư và chiến đấu với đơn vị có tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
-			<Text>May eliminate the presence of other Religions in their territory, and initiate theological combat with units of other Religions.</Text>
+			<Text>Có thể loại bỏ tôn giáo khác bên trong lãnh thổ mình, và có thể tạo chiến tránh với tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
-			<Text>Find and extract [ICON_GreatWork_Artifact] Artifacts from [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Sites to be displayed in their home city's Museum.</Text>
+			<Text>Tìm và khai quật [ICON_GreatWork_Artifact] Cổ vật từ [ICON_RESOURCE_ANTIQUITY_SITE] Khu di tích cổ để trưng bày trong Bảo tàng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPY_DESCRIPTION">
-			<Text>Performs secret missions in foreign cities and protects your cities from enemy Spies.</Text>
+			<Text>Có thể thực hiện nhiệm vụ bí ở nước ngoài và bảo vệ thành phố mình khỏi Gián điệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
-			<Text>A late-game civilian who can create a single National Park to attract [ICON_Tourism] Tourists. Must be purchased with [ICON_Faith] Faith.</Text>
+			<Text>Cuối game có thể tạo duy nhất một Công viên quốc gia để thu hút [ICON_Tourism] Du lịch. Phải mua bằng [ICON_Faith] Lòng tin.</Text>
 		</Row>
 		<!-- Great People-->
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
-			<Text>Each [ICON_GreatGeneral] Great General has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatGeneral] Tướng quân vĩ đại có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
-			<Text>Each [ICON_GreatAdmiral] Great Admiral has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatAdmiral] Đô đốc vĩ đại có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
-			<Text>Each [ICON_GreatEngineer] Great Engineer has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatEngineer] Kỹ sư vĩ đại có thuộc tính đặc biệt khi được kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
-			<Text>Each [ICON_GreatMerchant] Great Merchant has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatMerchant] Thương gia vĩ đại có thuộc tính đặc biệt khi được kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
-			<Text>Great [ICON_GreatProphet] Prophets can found a Religion when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>[ICON_GreatProphet] Nhà tiên tri vĩ đại có thể Sáng lập tôn giáo khi được kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
-			<Text>Each [ICON_GreatScientist] Great Scientist has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatScientist] Nhà khoa học vĩ đại có thuộc tính đặc biệt khi được kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
-			<Text>Each [ICON_GreatWriter] Great Writer generates a [ICON_GreatWork_Writing] Great Work of Writing when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatWriter] Nhà văn vĩ đại tạo ra một [ICON_GreatWork_Writing] Tác phẩm văn học khi được kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
-			<Text>Each [ICON_GreatArtist] Great Artist generates a [ICON_GreatWork_Landscape] Great Work of Art when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatArtist] Họa sĩ vĩ đại tạo ra một [ICON_GreatWork_Landscape] Tác phẩm nghệ thuật khi được kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
-			<Text>Each [ICON_GreatMusician] Great Musician generates a [ICON_GreatWork_Music] Great Work of Music when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+			<Text>Mỗi [ICON_GreatMusician] Nhạc sĩ vĩ đại tạo ra một [ICON_GreatWork_Music] Tác phẩm âm nhạc khi được kích hoạt.</Text>
 		</Row>
 		<!-- Recon-->
 		<Row Tag="LOC_UNIT_SCOUT_DESCRIPTION">
-			<Text>Fast-moving Ancient era recon unit.</Text>
+			<Text>Đơn vị di chuyển nhanh thời xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RANGER_DESCRIPTION">
-			<Text>Fast-moving Industrial era recon unit.</Text>
+			<Text>Đơn vị di chuyển nhanh thời công nghệ.</Text>
 		</Row>
 		<!-- Melee-->
 		<Row Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
-			<Text>Weak Ancient era melee unit.</Text>
+			<Text>Quân cận chiến thời cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
-			<Text>Ancient era melee unit that's effective against mounted units.</Text>
+			<Text>Đơn vị cận chiến thời Xa xưa có hiệu quả khi chống lại đơn vị có gắn kết.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
-			<Text>Strong Classical era melee unit.</Text>
+			<Text>Đơn vị cận chiến mạnh mẽ thời Cổ điện.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
-			<Text>Medieval era melee unit that's strong against mounted units.</Text>
+			<Text>Đơn vị cận chiến mạnh mẽ thời Trung cổ có hiệu quả khi chống lại đơn vị có gắn kết.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
-			<Text>Renaissance era melee unit.</Text>
+			<Text>Đơn vị cận chiến thời Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
-			<Text>Modern era melee unit.</Text>
+			<Text>Đơn vị cận chiến thời Hiện đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
-			<Text>Information era melee unit.</Text>
+			<Text>Đơn vị cận chiến thời Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
-			<Text>Modern era counter to cavalry class units.</Text>
+			<Text>Đơn vị chống kỵ binh thời Hiện đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
-			<Text>Information era counter to cavalry class units.</Text>
+			<Text>Đơn vị chống kỵ binh thời Thông tin.</Text>
 		</Row>
 		<!-- Ranged-->
 		<Row Tag="LOC_UNIT_SLINGER_DESCRIPTION">
-			<Text>Weak Ancient era ranged unit. Better on attack than defense.</Text>
+			<Text>Đơn vị đánh xa yếu thời Cổ đại. Tấn công tốt hơn phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHER_DESCRIPTION">
-			<Text>First Ancient era ranged unit with a [ICON_Range] Range of 2.</Text>
+			<Text>Đơn vị đánh xa đầu tiên thời Cổ đại với tầm đánh 2 [ICON_Range].</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
-			<Text>Medieval era ranged unit.</Text>
+			<Text>Đơn vị đánh xa thời Trung cổ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
-			<Text>Industrial era ranged unit.</Text>
+			<Text>Đơn vị đánh xa thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Atomic era ranged unit.</Text>
+			<Text>Đơn vị đánh xa thời Nguyên tử.</Text>
 		</Row>
 		<!-- Light Cavalry-->
 		<Row Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
-			<Text>Fast-moving Classical era light cavalry unit.</Text>
+			<Text>Kỵ binh hạng nhẹ di chuyển danh thời Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
-			<Text>Fast-moving Industrial era light cavalry unit.</Text>
+			<Text>Kỵ binh hạng nhẹ di chuyển danh thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
-			<Text>Fast-moving Atomic era light cavalry unit.</Text>
+			<Text>Kỵ binh hạng nhẹ di chuyển danh thời Nguyên tử.</Text>
 		</Row>
 		<!-- Siege-->
 		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
-			<Text>Classical era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+			<Text>Đơn vị cẩu đá thời Cổ đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
-			<Text>Renaissance era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+			<Text>Đơn vị ném bom thời Phục hưng, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
-			<Text>Modern era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+			<Text>Đơn vị tên lửa thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
-			<Text>Information era bombard unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.</Text>
+			<Text>Đơn vị tên lửa thời Thông tin, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<!-- Support-->
 		<Row Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
-			<Text>Ancient era support unit. When adjacent to a city, attacking melee units do full damage to the city's Walls.</Text>
+			<Text>Đơn vị hỗ trợ thời Cổ đại. Khi tiếp cận thành phố, tấn công để gây thiệt hại cho tường thành.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
-			<Text>Classical era support unit. When adjacent to a city, attacking melee units ignore Walls and immediately assault the city.</Text>
+			<Text>Đơn vị hỗ trợ thời Cổ đại. Khi tiếp cận thành phố, đơn vị sẽ bỏ qua tường thành và đánh luôn thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MEDIC_DESCRIPTION">
-			<Text>Industrial era support unit. Can heal adjacent units.</Text>
+			<Text>Đơn vị hỗ trợ thời Công nghiệp. Có thể chữa lành các đơn vị lân cận.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
-			<Text>Modern era support unit. Adds +1 [ICON_Range] Range to adjacent bombard strength units.</Text>
+			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị ném bom liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
-			<Text>Medieval era support unit. Requires an Armory to produce. Can construct Roads, Forts, and Airstrip improvements.</Text>
+			<Text>Đơn vị hỗ trợ thời Trung cổ. Yêu cầu Kho vũ khí đển sản xuất. Có thể xây Đường, Pháo đài, và Đường băng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
-			<Text>Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
+			<Text>Đơn vị phòng không thời Nguyên tử. Cho phép tấn công trên trời với 1 ô từ vũ khí.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
-			<Text>Information era anti-air support unit. Provides cover from air and nuclear attacks up to 1 hex away from the weapon.</Text>
+			<Text>Đơn vị phòng không thời Thông tin. Cung cấp tấn công trên trời và hạt nhân với 1 ô từ vũ khí.</Text>
 		</Row>
 		<!-- Heavy Cavalry -->
 		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
-			<Text>Hard-hitting, Ancient era heavy cavalry unit. Gains 1 bonus [ICON_Movement] Movement if it begins a turn on a flat tile with no Woods, Rainforest, or Hills.</Text>
+			<Text>Cứng cáp, Đơn vị kỵ binh hạng nặng thời Xa xưa. Cho 1 [ICON_Movement] Di chuyển nếu đi liên tục trên địa hình phẳng không có Rừng, Rừng nhiệt đới, hay đồi.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
-			<Text>Hard-hitting, Medieval era heavy cavalry unit.</Text>
+			<Text>Cứng cáp, Đơn vị kỵ binh hạng nặng thời Trung cổ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
-			<Text>Information era heavy cavalry unit that is fast and strong.</Text>
+			<Text>Đơn vị kỵ binh hạng nặng thời Thông tin nhanh và mạnh.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TANK_DESCRIPTION">
-			<Text>Fast-moving Modern era heavy cavalry unit that ignores zone of control.</Text>
+			<Text>Đơn vị kỵ binh hạng nặng nhanh mà không bỏ qua kiểm soát khu vực.</Text>
 		</Row>
 		<!--Naval-->
 		<Row Tag="LOC_UNIT_GALLEY_DESCRIPTION">
-			<Text>Ancient era melee naval combat unit. Can only operate on Coastal waters until Cartography is researched.</Text>
+			<Text>Đơn vị hải quân cận chiến thời xa xưa. Chỉ có thể hoạt động trên bờ biền đến khi Vẽ bản đồ được nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
-			<Text>Classical era ranged naval unit. Can only operate on Coastal waters until Cartography is researched.</Text>
+			<Text>Đơn vị hải quân cận chiến thời cổ đại. Chỉ có thể hoạt động trên bờ biền đến khi Vẽ bản đồ được nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
-			<Text>Fast Renaissance era exploration melee naval unit.</Text>
+			<Text>Đơn vị hải quân thám hiểm nhanh cận chiến thời Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
-			<Text>Powerful Industrial era armored melee naval unit.</Text>
+			<Text>Đơn vị hải quân cận chiến bọc thép mạnh mẽ thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
-			<Text>Highly advanced Information era ranged raiding naval unit that can be armed with nuclear weapons. Cannot be seen unless adjacent to it.</Text>
+			<Text>Đơn vị tàu ngầm tiên tiến có thể được trang bị vũ khí hạt nhân thời thông tin. Không thể phát hiện khi cách xa hơn 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
-			<Text>Modern era ranged raiding naval unit. Cannot be seen unless adjacent to it.</Text>
+			<Text>Đơn vị tàu ngầm thời Hiện đại. Không thể phát hiện khi cách xa hơn 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
-			<Text>Renaissance era ranged naval unit with the ability to coastal raid. Cannot be seen unless adjacent to it.</Text>
+			<Text>Dơn vị hải quân đánh xa với khả năng tấn công bờ biển thời Phục hưng. Không thể phát hiện khi cách xa hơn 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
-			<Text>Renaissance era ranged naval unit.</Text>
+			<Text>Dơn vị hải quân đánh xa thời Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
-			<Text>Atomic era melee naval unit that can transport air units.</Text>
+			<Text>Đơn vị tàu sân bay có thể vận chuyển máy bay thời Nguyên tử.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
-			<Text>Modern era naval ranged unit. Provides cover from air and nuclear attacks up to 1 tile away.</Text>
+			<Text>Đơn vị hải quân đánh xa thời Hiện đại. Có thể tấn công không trung và hạt nhân lên tới 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
-			<Text>Strongest ranged naval unit, available in the Information era.</Text>
+			<Text>Đơn vị hải quân đánh xa mạnh nhất, có sẵn ở thời Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
-			<Text>Strongest melee naval unit. Reveals submarines within sight range.</Text>
+			<Text>Đơn vị hải quân cận chiến mạnh mẽ nhất. Thấy tàu ngầm trong phạm vi tầm nhìn.</Text>
 		</Row>
 		<!--Air Units-->
 		<Row Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
-			<Text>First air combat unit, available in the Modern era.</Text>
+			<Text>Đơn vị máy bay chiến đấu đầu tiên, có sẵn ở thời Hiện đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
-			<Text>Atomic era Biplane upgrade.</Text>
+			<Text>Máy bay chiến đấu thời Nguyên tử.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBER_DESCRIPTION">
-			<Text>First bomber unit, available in the Atomic era.</Text>
+			<Text>Đơn vị Bomber đầu tiên, có sẵn ở thời Nguyên tử.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
-			<Text>Information era Fighter upgrade.</Text>
+			<Text>Chiến cơ phản lực thời Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
-			<Text>Information era Bomber upgrade.</Text>
+			<Text>Bomber phản lực thời Thông tin.</Text>
 		</Row>
 		<!-- Unique Units-->
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
-			<Text>Ancient era primitive horseback warrior.</Text>
+			<Text>Chiến binh cưỡi ngựa thời Xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Ancient era primitive horseback archer.</Text>
+			<Text>Cung thủ cưỡi ngựa thời Xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
-			<Text>Ancient era primitive naval melee combat unit.</Text>
+			<Text>Hải quân cận chiến nguyên thủy thời Xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
-			<Text>Egyptian unique Ancient era ranged unit that replaces the Heavy Chariot. 4 [ICON_Movement] Movement when starting in open terrain.</Text>
+			<Text>Tiễn mã Egypt thời xa xưa thay thế cho Chiến xa hạng nặng. 4 [ICON_Movement] Di chuyển khi bắt đầu trên đại hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
-			<Text>Greek unique Ancient era unit that replaces the Spearman. +10 [ICON_Strength] Combat Strength if there is at least one adjacent Hoplite unit.</Text>
+			<Text>Lính xiên Greek thời xa xưa thay thế cho Lính giáo. +10 [ICON_Strength] Sức mạnh khi có ít nhất một Lính xiên liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Scythian unique Classical era unit. Ranged unit with 4 [ICON_Movement] Movement with a [ICON_Range] Range of 1.</Text>
+			<Text>Tiễn mã Saka là đơn vị đặc biệt thời cổ đại. 4 [ICON_Movement] Di chuyển và tầm đánh 1 [ICON_Range].</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
-			<Text>Sumerian unique Ancient era unit. Stronger than all other starting units. No penalties against anti-cavalry units. 4 [ICON_Movement] Movement if this unit starts in open terrain.</Text>
+			<Text>Chiến xa Summer là đơn vị đặc biệt thời xa xưa. Mạnh hơn tất cả đơn vị cùng cấp khác. Không bị phạt khi gặp chống kỵ binh. 4 [ICON_Movement] Di chuyển nếu bắt đầu ở địa hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
-			<Text>English unique Industrial era unit when Victoria is their leader. +10 [ICON_Strength] Combat Strength when fighting on a continent other that your capital's. No disembark cost.</Text>
+			<Text>Lính áo đỏ được Victoria lĩnh đạo thời công nghiệp. +10 [ICON_Strength] Sức mạnh khi chiến đấu ở châu lục khác châu lục có thủ đô. Không chi phí đón trả.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
-			<Text>American unique Modern era unit when Teddy Roosevelt is their leader. [ICON_Culture] Culture is earned from kills on their [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills. Lower maintenance cost.</Text>
+			<Text>Kị binh tình nguyện được Teddy Roosevelt lãnh đạo thời Hiện đại. Kiếm được [ICON_Culture] Văn minh từ việc giết kẻ địch đên châu lục chứa [ICON_Capital] Thủ đô. +10 [ICON_Strength] Sức mạnh khi đấu trên đồi. Phí duy trì thấp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
-			<Text>Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.</Text>
+			<Text>Quân đoàn La Mã là đơn vị cận chiến đặc biệt thời Cổ đại thay thế Kiếm sĩ. Có thể xây Pháo đài La Mã.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
-			<Text>Japanese unique Medieval era melee unit. Does not suffer combat penalties when damaged.</Text>
+			<Text>Đơn vị cận chiến đặc biệt thời Trung cổ của Nhật Bản. Không bị mất sức mạnh khi bị thương.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
-			<Text>Norwegian unique Medieval era unit. 4 [ICON_Movement] Movement if this unit starts in enemy territory. +7 [ICON_Strength] Combat Strength when attacking and -7 [ICON_Strength] Combat Strength when defending.</Text>
+			<Text>Đơn vị đặc biệt thời Trung cổ của Na Uy. 4 [ICON_Movement] Di chuyển nếu bắt đầu trong lãnh thổ địch. +7 [ICON_Strength] Sức mạnh khi tấn công và -7 [ICON_Strength] Sức mạnh khi phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
-			<Text>Norwegian unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability. 4 [ICON_Movement] Movement while in coastal waters.</Text>
+			<Text>Đơn vị hải quân thời xa xưa của Na Uy thay thế Thuyền buồm. Có thể cướp bóc ven biển địch và bắt cóc dân. 4 [ICON_Movement] Di chuyển khi trong vòng bờ biển.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
-			<Text>Chinese unique Medieval era unit. Ranged unit with a [ICON_Range] Range of 1 and high combat strength.</Text>
+			<Text>Đơn vị trung cổ dặc biệt của Trung Quốc. Tầm đánh 1 [ICON_Range] và sức mạnh cao.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Spanish unique Renaissance era unit that replaces the Musketman. +10 [ICON_Strength] Combat Strength when there is a Missionary, Inquisitor, or Apostle in the same hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's Religion as the dominant Religion.</Text>
+			<Text>Đợn vị thời phục hưng thay thế Súng trường của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Điều tra tôn giáo, hoặc Thiên chúa khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt Kẻ chinh phục thành ưu thế tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
-			<Text>Russian unique Industrial era unit that replaces Cavalry. Stronger than Cavalry, and gains +5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory. Can move after attacking if [ICON_Movement] Movement points remain.</Text>
+			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
-			<Text>Indian unique Classical era unit that replaces the Horseman. -5 [ICON_Strength] Combat Strength for all adjacent enemy units.</Text>
+			<Text>Đơn vị thời Cổ đại thay thế Kỵ sĩ của Ấn Độ. -5 [ICON_Strength] Sức mạnh cho tất cả kẻ địch liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
-			<Text>Kongo unique Classical era unit that replaces the Swordsman. +10 [ICON_Strength] Combat Strength when defending against ranged attacks. Can move and see through Woods and Rainforest.</Text>
+			<Text>Đơn vị thời cổ đại thay thế Kiếm sĩ của Kongo. +10 [ICON_Strength] Sức mạnh khi đang phòng thủ chống lại tấn công tầm xa. Có thể di chuyển và nhìn xuyên qua Rừng và Rừng nhiệt đới.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
-			<Text>Arabian unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.</Text>
+			<Text>ĐƠn vị thời trung cổ thay thế Hiệp sĩ của Ả Rập. Hồi sức ở cuối mỗi lượt, kể cả sau khi di chuyển hoặc tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
-			<Text>English unique Renaissance era naval unit that replaces the Privateer. Can capture enemy ships. Cannot be seen unless adjacent to it.</Text>
+			<Text>Hải quân thời phục hưng thay thế Thuyền chiến tư nhân của Anh. Cả thế bắt tàu địch. Không thể nhìn thấy trừ khi đứng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
-			<Text>French unique Industrial era melee unit. +10 [ICON_Strength] Combat Strength when fighting on your capital's continent. [ICON_GreatGeneral] Great General points for killing units.</Text>
+			<Text>Đơn vị cận chiến thời công nghiệp của Pháp. +10 [ICON_Strength] Sức mạnh khi chiến đấu trong châu lục chứa thủ đô. Điểm [ICON_GreatGeneral] Tướng quân vĩ đại cho việc giết kẻ dịch.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
-			<Text>German unique Modern era naval unit that replaces the Submarine. Cheaper to produce, +1 Sight, and +10 [ICON_Strength] Combat Strength when fighting on Ocean tiles. Able to reveal other stealthed units.</Text>
+			<Text>Hải quân thời hiện đại thay thế tàu ngầm của Đức. Sản xuất rẻ hơn, +1 Tìm nhìn, và +10 [ICON_Strength] Sức mạnh khi chiến đấu trên đại dương. Có thể nhìn thấy đơn vị tàng hình khác.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>American unique Modern era air unit that replaces the Fighter.  Gains +5 attack against fighter aircraft, has +2 flight range, and gains +50% experience.</Text>
+			<Text>Không quân thời hiện đại thay thế chiến đấu cơ của Mỹ. +5 tấn công khi đánh với máy bay chiến đấu, có +2 tầm chiến đấu, và +50% EXP.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
-			<Text>Brazilian unique Modern era unit that replaces the Battleship. Stronger than the Battleship. Unlocked by Nationalism.</Text>
+			<Text>Đơn vị thời hiện đại thay thế Tàu chiến của Brazil. Mạnh hơn tàu chiến. Mở khóa bởi Chủ nghĩa dân tộc.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

@@ -3,442 +3,442 @@
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<BaseGameText>
 		<Row Tag="LOC_TECH_POTTERY_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_WHEAT] Wheat and [ICON_RESOURCE_RICE] Rice.</Text>
+			<Text>Cho phép thu hoạch [ICON_RESOURCE_WHEAT] Lúa mì và [ICON_RESOURCE_RICE] Gạo.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_CATTLE] Cattle and [ICON_RESOURCE_SHEEP] Sheep.</Text>
+			<Text>Cho phép thu hoạch [ICON_RESOURCE_CATTLE] Gia súc và [ICON_RESOURCE_SHEEP] Cừu.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MINING_DESCRIPTION">
-			<Text>Allows chopping of Woods, and harvesting of [ICON_RESOURCE_Copper] Copper.</Text>
+			<Text>Cho phép chặt Rừng và thu hoạch [ICON_RESOURCE_Copper] Đồng.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SAILING_DESCRIPTION">
-			<Text>Allows Builders to embark.</Text>
+			<Text>THỢ XÂY tham gia.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Allows clearing of Marsh.</Text>
+			<Text>Cho phép loại bỏ đầm lầy.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MASONRY_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_STONE] Stone.</Text>
+			<Text>Cho phép thu hoạch [ICON_RESOURCE_STONE] Đá.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
-			<Text>Allows chopping of Rainforest. Reveals [ICON_RESOURCE_IRON] Iron.</Text>
+			<Text>Cho phép chặt rừng nhiệt đới. Mở khóa [ICON_RESOURCE_IRON] Sắt.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
-			<Text>Allows all land units to embark.</Text>
+			<Text>Cho phép tất cả đơn vị mặt đất tham gia.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
-			<Text>Allows Traders to embark, and allows harvesting of [ICON_RESOURCE_FISH] Fish.</Text>
+			<Text>Thương nhân tham gia, cho phép khai khác [ICON_RESOURCE_FISH] Cá.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement for all naval units.</Text>
+			<Text>+1 [ICON_Movement] Di chuyển cho đơn vị hải quân.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production to the Mine improvement.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cải thiện khai thác.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CASTLES_DESCRIPTION">
-			<Text>Bonus [ICON_Culture] Culture for the Great Wall improvement for adjacency. Gain the ability to construct a Spy if playing as Catherine de Medici.</Text>
+			<Text>Tăng [ICON_Culture] Văn minh để tối ưu Vạn lý trường thành. Có thể xây dựng Gián điệp nếu chơi Catherine de Medici.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from the Fishing Boat improvement. All naval and embarked units can navigate Ocean tiles. +1 [ICON_Movement] Movement for embarked units.</Text>
+			<Text>+1 [ICON_Gold] Vàng từ việc cả tiến tàu đánh cá. Tất cả tàu có thể đi lại trên biển. +1 [ICON_Movement] Di chuyển cho đơn vị tàu.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BANKING_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from the Quarry improvement.</Text>
+			<Text>+1 [ICON_Gold] Vàng từ việc tối ưu mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_PRINTING_DESCRIPTION">
-			<Text>Provides one more level of diplomatic visibility on all other civilizations. All [ICON_Tourism] Tourism yields from [ICON_GreatWork_Writing] Great Works of Writing are doubled.</Text>
+			<Text>Cung cấp tầm nhìn ngoại giao của tất cả nền văn minh khác. Tất cả [ICON_Tourism] Du lịch từ [ICON_GreatWork_Writing] Tác phẩm văn học được x2.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production to the Mine improvement.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cho Đào Tài Nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
-			<Text>Allows Research Agreement diplomatic action. +1 [ICON_Food] Food from the Plantation improvement.</Text>
+			<Text>Cho phép hành động Thỏa thuận hiệp ước. +1 [ICON_Food] Thực phẩm cho Vườn ươm.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SANITATION_DESCRIPTION">
-			<Text>Stepwell improvements receive +1 [ICON_Housing] Housing.</Text>
+			<Text>Giếng Stepwell nhận +1 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Movement for embarked units.</Text>
+			<Text>+2 [ICON_Movement] Di chuyển cho đơn vị đổ bộ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FLIGHT_DESCRIPTION">
-			<Text>Bonus [ICON_Tourism] Tourism to all improvements that provide [ICON_Culture] Culture.</Text>
+			<Text>Thưởng [ICON_Tourism] Du lịch cho các công trình cung cấp [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
-			<Text>Upgrades Farm improvements to Mechanized Agriculture. +1 [ICON_Food] Food Adjacency bonus for every Farm improvement they are adjacent to.</Text>
+			<Text>Nâng cấp Nông trường thành Nông nghiệp máy móc. +1 [ICON_Food] Thực phẩm cho mỗi ô liền kề Nông trường.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from the Lumber Mill improvement.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cho Xưởng gỗ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement for embarked units.</Text>
+			<Text>+1 [ICON_Movement] Di chuyển cho đơn vị đổ bộ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from the Quarry improvement.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cho Mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_PLASTICS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Food to Fishing Boats.</Text>
+			<Text>+1 [ICON_Food] Thực phẩm cho Thuyền đánh cá.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
-			<Text>Grants the ability to construct an additional Spy. All [ICON_Tourism] Tourism yields are doubled.</Text>
+			<Text>Thêm khả năng xây dựng gián điệp. Tất cả [ICON_Tourism] Du lịch được x2.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold to Camps.</Text>
+			<Text>+1 [ICON_Gold] Vàng cho Trại.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production to Pastures.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cho Trang trại.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
-			<Text>Can be completed multiple times, increasing your points towards the Score Victory.</Text>
+			<Text>Có thể hoàn thành nhiều lần, giúp tăng điểm để giành chiến tắng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SAILING">
-			<Text>Found a city on the Coast.</Text>
+			<Text>Dựng thành phố cạnh bờ biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
-			<Text>Find a natural wonder.</Text>
+			<Text>Tìm thấy kì quan thiên nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_IRRIGATION">
-			<Text>Farm a resource.</Text>
+			<Text>Canh tác một nguồn tài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ARCHERY">
-			<Text>Kill a unit with a Slinger.</Text>
+			<Text>Giết một đơn vị Bắn ná.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_WRITING">
-			<Text>Meet another civilization.</Text>
+			<Text>Gặp nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MASONRY">
-			<Text>Build a Quarry.</Text>
+			<Text>Xây mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
-			<Text>Kill 3 Barbarians.</Text>
+			<Text>Giết 3 quân man rợ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
-			<Text>Mine a resource.</Text>
+			<Text>Đào một nguồn tài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
-			<Text>Improve 2 sea resources.</Text>
+			<Text>Xây để khai thác 2 tài nguyên biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CURRENCY">
-			<Text>Make a [ICON_TradeRoute] Trade Route.</Text>
+			<Text>Tạo [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
-			<Text>Build a Pasture.</Text>
+			<Text>Xây Trang trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
-			<Text>Build an Iron Mine.</Text>
+			<Text>Xây Đào Sắt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
-			<Text>Own 2 Galleys.</Text>
+			<Text>Sở hữu 2 Thuyền buồm.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
-			<Text>Build 3 different specialty districts.</Text>
+			<Text>Xây 3 khu vực khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
-			<Text>Build a Water Mill.</Text>
+			<Text>Xây Cối xay nước.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ENGINEERING">
-			<Text>Build Ancient Walls.</Text>
+			<Text>Xây Tường xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
-			<Text>Kill a unit with a Spearman.</Text>
+			<Text>Giết một đơn vị với Lính giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Build 3 Mines.</Text>
+			<Text>Xây 3 Đào Tài Nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STIRRUPS">
-			<Text>Have the Feudalism civic.</Text>
+			<Text>Có công dân Chế độ phong kiến.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MACHINERY">
-			<Text>Own 3 Archers.</Text>
+			<Text>Sở hữu 3 Cung tên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_EDUCATION">
-			<Text>Earn a Great Scientist.</Text>
+			<Text>Kiếm được Nhà khoa học vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
-			<Text>Build an Aqueduct.</Text>
+			<Text>Xây Aqueduct.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
-			<Text>Have a government with 6 policy slots.</Text>
+			<Text>Có một chính phủ với 6 ô chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
-			<Text>Build 2 Harbors.</Text>
+			<Text>Xây 2 Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Build a Lumber Mill.</Text>
+			<Text>Xây Xưởng gỗ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>Have the Guilds civic.</Text>
+			<Text>Có cong dân Liên đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
-			<Text>Build an Armory.</Text>
+			<Text>Xây Kho vũ khí.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_PRINTING">
-			<Text>Build 2 Universities.</Text>
+			<Text>Xây 2 Trường đại học.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
-			<Text>Kill a unit with a Musketman.</Text>
+			<Text>Giết một đơn vị với Súng trường.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
-			<Text>Build a University adjacent to a Mountain.</Text>
+			<Text>Xây Trường đại học gần núi.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
-			<Text>Own 2 Crossbowman.</Text>
+			<Text>Sở hữu 2 Nỏ tên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
-			<Text>Own 2 Bombards.</Text>
+			<Text>Sở hữu 2 Ném Bom.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
-			<Text>Build 3 Workshops.</Text>
+			<Text>Xây 3 Xưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
-			<Text>Have The Enlightenment civic.</Text>
+			<Text>Có công dân Sáng tỏ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_BALLISTICS">
-			<Text>Have 2 Forts in your territory.</Text>
+			<Text>Có 2 Pháo đài trong lãnh thổ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
-			<Text>Kill a unit with a Knight.</Text>
+			<Text>Giết một đơn vị với Hiệp sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
-			<Text>Build 2 Shipyards.</Text>
+			<Text>Xây 2 Xưởng đóng tàu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SANITATION">
-			<Text>Build 2 Neighborhoods.</Text>
+			<Text>Xây 2 Vùng ngoại ô.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ECONOMICS">
-			<Text>Build 2 Banks.</Text>
+			<Text>Xây 2 Ngân hàng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Build a Niter Mine.</Text>
+			<Text>Xây Đào đá tiêu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_FLIGHT">
-			<Text>Build an Industrial era or later wonder.</Text>
+			<Text>Xây kỳ quan từ thời đại Công nghiệp trở đi.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
-			<Text>Own 3 Musketman.</Text>
+			<Text>Có 3 Súng trường.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Build a Coal Mine.</Text>
+			<Text>Xây Đào than đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
-			<Text>Own 3 Privateers.</Text>
+			<Text>Có 3 Thuyền chiến tư nhân.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_RADIO">
-			<Text>Build a National Park.</Text>
+			<Text>Xây công viên quốc gia.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
-			<Text>Complete a Research Agreement.</Text>
+			<Text>Hoàn thành Thỏa thuận hiệp ước.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_COMBUSTION">
-			<Text>Extract an Artifact.</Text>
+			<Text>Lấy được một Cổ vật.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
-			<Text>Build 3 Biplanes.</Text>
+			<Text>Xây 3 Máy bay hai tầng cánh.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
-			<Text>Build 2 Power Plants.</Text>
+			<Text>Xây 2 Nhà máy điện.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Build an Airstrip.</Text>
+			<Text>Xây Đường băng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_PLASTICS">
-			<Text>Build an Oil Well.</Text>
+			<Text>Xây Giếng dầu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
-			<Text>Have a government with 8 policy slots.</Text>
+			<Text>Có chính phủ với 8 ô chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
-			<Text>Build 2 Aerodromes.</Text>
+			<Text>Xây 2 Khu hàng không.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
-			<Text>Build 2 Broadcast Centers.</Text>
+			<Text>Xây 2 Đài phát thanh.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
-			<Text>Kill a Fighter.</Text>
+			<Text>Giết một Chiến đấu cơ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_COMPOSITES">
-			<Text>Own 3 Tanks.</Text>
+			<Text>Có 3 Tank.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ROBOTICS">
-			<Text>Have the Globalization civic.</Text>
+			<Text>Có công dân Toàn cầu hóa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
-			<Text>Build an Aluminium Mine.</Text>
+			<Text>Xây Đào Nhôm.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
-			<Text>Boost through Great Scientist or Spy.</Text>
+			<Text>Thưởng thông qua Nhà khoa học vĩ đại hoặc Gián điệp.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
-			<Text>Gaining a city on the Coast has given your civilization insight into navigating the waves.</Text>
+			<Text>Dựng thành phố cạnh bờ biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
-			<Text>Discovering a natural wonder has inspired your people with the majesty of the universe.</Text>
+			<Text>Tìm thấy kì quan thiên nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
-			<Text>Farming a resource has given you an appreciation of the importance of irrigating your crops.</Text>
+			<Text>Canh tác một nguồn tài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
-			<Text>After finally killing an enemy with a Slinger, you long for a stronger ranged weapon.</Text>
+			<Text>Giết một đơn vị Bắn ná.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
-			<Text>After meeting another civilization you see the need for new ways to communicate.</Text>
+			<Text>Gặp nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
-			<Text>Quarrying a resource has given you the raw materials you need to employ masons.</Text>
+			<Text>Xây mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
-			<Text>Your fights with Barbarians highlight the need for stronger weaponry.</Text>
+			<Text>Giết 3 quân man rợ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
-			<Text>Your mining operations have given you the ability to create an axle. Will the wheel follow?</Text>
+			<Text>Đào một nguồn tài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
-			<Text>Your fishermen are learning how to guide their travels based on studying the night sky.</Text>
+			<Text>Xây để khai thác 2 tài nguyên biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
-			<Text>Your [ICON_TradeRoute] Trade Route directly exchanges goods, but a medium of exchange would make trade more flexible.</Text>
+			<Text>Tạo [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
-			<Text>With animals now domesticated into Pastures, it is time to learn to ride.</Text>
+			<Text>Xây Trang trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
-			<Text>Access to a steady source of Iron has enabled you to build better weapons and stronger armor.</Text>
+			<Text>Xây Đào Sắt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
-			<Text>Constructing a squadron of Galleys has taught you much about building larger ships.</Text>
+			<Text>Sở hữu 2 Thuyền buồm.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
-			<Text>Your district planners have worked out the basics of geometry. Maybe a full mathematical system will follow soon?</Text>
+			<Text>Xây 3 khu vực khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
-			<Text>Work on the Water Mill has taught your workers much about construction practices.</Text>
+			<Text>Xây Cối xay nước.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
-			<Text>Completing walls around your city demonstrated the principles of engineering needed for Aqueducts and Catapults.</Text>
+			<Text>Xây Tường xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
-			<Text>Your spearmen are proving effective, but now your opponents are stronger and faster. Perhaps a longer weapon is needed?</Text>
+			<Text>Giết một đơn vị với Lính giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
-			<Text>With raw materials now coming in from a wide variety of mines, the need to better teach new craftsmen to use them is essential.</Text>
+			<Text>Xây 3 Đào Tài Nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
-			<Text>The feudal lords in your realm want a champion to defend their lands. Perhaps mounting an armored warrior will do the trick?</Text>
+			<Text>Có công dân Chế độ phong kiến.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
-			<Text>You look to machinery to improve the performance of your sizable contingent of ranged troops.</Text>
+			<Text>Sở hữu 3 Cung tên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
-			<Text>The teachings from your Great Scientist have inspired a renewed interest in learning in your realm.</Text>
+			<Text>Kiếm được Nhà khoa học vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
-			<Text>Your military leaders carefully followed the progress on your aqueduct. They see new ways to use these engineering skills.</Text>
+			<Text>Xây Aqueduct.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
-			<Text>Our new government’s defense minister suggests that we might want to build impressive defenses to protect our bustling capital.</Text>
+			<Text>Có một chính phủ với 6 ô chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
-			<Text>With so many ships leaving the harbors of your empire you long to document your explorations.</Text>
+			<Text>Xây 2 Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
-			<Text>Now that you have a ready supply of standardized boards, your shipping industry will soon take off.</Text>
+			<Text>Xây Xưởng gỗ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
-			<Text>Your emerging guilds have plans that require a large influx of gold. Perhaps we can find a way to let them take out a loan?</Text>
+			<Text>Có cong dân Liên đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
-			<Text>Your men at the armory are fashioning a new weapon that will devastate opponents.</Text>
+			<Text>Xây Kho vũ khí.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
-			<Text>Out of necessity your scholars are devising methods for quickly copying books.</Text>
+			<Text>Xây 2 Trường đại học.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
-			<Text>The success of your Musketmen on land has spurred a new idea: what if we upgrade to gunpowder weaponry at sea?</Text>
+			<Text>Giết một đơn vị với Súng trường.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
-			<Text>Your scientists are hiking into the mountains for a sharper view of the heavens. Maybe a permanent facility would help?</Text>
+			<Text>Xây Trường đại học gần núi.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
-			<Text>With so many Crossbowmen in the field, we’ve had a lot of practice studying ranged weapons.</Text>
+			<Text>Sở hữu 2 Nỏ tên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
-			<Text>After creating bombards you realize that castles are not impregnable – you need a stauncher defense!.</Text>
+			<Text>Sở hữu 2 Ném Bom.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
-			<Text>The busy workshops of your empire hint at greatness to come. Is an Industrial Revolution about to commence?</Text>
+			<Text>Xây 3 Xưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
-			<Text>The dawning of an age of enlightenment in our realm has sparked a serious discourse on our scientific methods.</Text>
+			<Text>Có công dân Sáng tỏ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
-			<Text>Your cities have been protected by multiple fortifications, what if they could be defended by cannons?</Text>
+			<Text>Có 2 Pháo đài trong lãnh thổ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
-			<Text>Your valiant Knight has vanquished his foe. Let us learn from this victory and become students of military affairs.</Text>
+			<Text>Giết một đơn vị với Hiệp sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
-			<Text>Let us apply our industrial acumen to your newly-constructed shipyards. Steam-powered naval vessels could rule the seas.</Text>
+			<Text>Xây 2 Xưởng đóng tàu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
-			<Text>With the introduction of neighborhoods, our cities are growing larger than ever before.  Developing a sanitation plan is crucial.</Text>
+			<Text>Xây 2 Vùng ngoại ô.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
-			<Text>The power of your banks in on the rise.  It is time to formally study the forces that are shaping your national economy.</Text>
+			<Text>Xây 2 Ngân hàng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
-			<Text>With a source of niter, your firearms industry is switching into top gear. The next step will be to improve our accuracy.</Text>
+			<Text>Xây Đào đá tiêu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
-			<Text>Having completed a modern wonder, our engineers are sure they can tackle anything. What, are they thinking of flying next?</Text>
+			<Text>Xây kỳ quan từ thời đại Công nghiệp trở đi.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
-			<Text>Your armament makers are tired of having to hand craft so many muskets.  Perhaps some standardization would help?</Text>
+			<Text>Có 3 Súng trường.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Your coal-powered blast furnaces should soon allow us to produce the finest-grade steel.</Text>
+			<Text>Xây Đào than đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
-			<Text>Your crafty privateers are intrigued by the discovery of electric current. Could they use this to create stealthy propulsion?</Text>
+			<Text>Có 3 Thuyền chiến tư nhân.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
-			<Text>Your new national park needs visitors. Perhaps a new form of communications will help advertise it?</Text>
+			<Text>Xây công viên quốc gia.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
-			<Text>Joining forces with other nations has started a chain reaction of scientific advances.  Will the next push be in chemistry?</Text>
+			<Text>Hoàn thành Thỏa thuận hiệp ước.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
-			<Text>Your archaeologist has noticed petroleum seeping out of the rocks. Perhaps your geologists would like to take a look?</Text>
+			<Text>Lấy được một Cổ vật.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
-			<Text>Your extensive experience with biplanes has led to several aeronautic breakthroughs.</Text>
+			<Text>Xây 3 Máy bay hai tầng cánh.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
-			<Text>Development of new power plants has spurred on industrial advances that could help your armament production.</Text>
+			<Text>Xây 2 Nhà máy điện.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
-			<Text>Now that you know how to build portable airstrips on land, why not try one at sea?</Text>
+			<Text>Xây Đường băng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
-			<Text>Having a source of petrochemicals should lead to many advances. Its plasticity is of particular interest.</Text>
+			<Text>Xây Giếng dầu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
-			<Text>A modern government comes with a lot of bureaucracy. Developing ways to efficiently track data will be a huge help.</Text>
+			<Text>Có chính phủ với 8 ô chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
-			<Text>With facilities for aircrafts in multiple cities, your aeronautic industry is taking off.</Text>
+			<Text>Xây 2 Khu hàng không.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
-			<Text>With your pioneers in radio and television leading the way, you’ve grown adept at transmitting data quickly.</Text>
+			<Text>Xây 2 Đài phát thanh.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
-			<Text>Your military has defeated an enemy plane. Now it is time to have the best defense against enemy aircraft.</Text>
+			<Text>Giết một Chiến đấu cơ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
-			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
+			<Text>Có 3 Tank.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
-			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+			<Text>Có công dân Toàn cầu hóa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
-			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+			<Text>Xây Đào Nhôm.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

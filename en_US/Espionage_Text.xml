@@ -48,7 +48,7 @@
 			<Text>pillaging all buildings in the Industrial Zone district</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_SIPHON_REWARD">
-			<Text>the city's [ICON_Gold] Gold output over next {1_Num} turns</Text>
+			<Text>the city's [ICON_Gold] Vàng output over next {1_Num} turns</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ROCKETRY_REWARD">
 			<Text>pillaging of the enemy Spaceport district</Text>
@@ -269,58 +269,58 @@
 		</Row>
 		<!-- ==================== EspionageOverview ==================== -->
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_HEADER">
-			<Text>Operatives</Text>
+			<Text>Đặc vụ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_SUBHEADER">
-			<Text>OPERATIVES ({1_NumberOfSpies}/{2_SpyCapacity})</Text>
+			<Text>ĐẶC VỤ ({1_NumberOfSpies}/{2_SpyCapacity})</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_AWAITING_ASSIGNMENT">
-			<Text>Awaiting Assignment...</Text>
+			<Text>Đang chờ nhiệm vụ...</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_MORE_TURNS">
-			<Text>{1_RemainingTurns} more {1_RemainingTurns : plural 1?turn; other?turns;}</Text>
+			<Text>còn {1_RemainingTurns} lượt</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_HEADER">
-			<Text>City Activity</Text>
+			<Text>Hoạt động thành phố</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_SUBHEADER">
-			<Text>CITY ACTIVITY</Text>
+			<Text>HOẠT ĐỘNG THÀNH PHỐ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY">
-			<Text>City</Text>
+			<Text>Thành phố</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_TRANSIT_TO">
-			<Text>In Transit To {1_DestinationName}</Text>
+			<Text>Trong chuyến đi đến {1_DestinationName}</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED">
-			<Text>Captured by</Text>
+			<Text>Bị bắt bởi</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_ASK_FOR_TRADE">
-			<Text>Ask For Trade</Text>
+			<Text>Đàm phán thả người</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_TRAVELING">
-			<Text>Traveling</Text>
+			<Text>Đang đi</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_NO_GREAT_WORK_TO_STEAL">
-			<Text>No Great Work to steal</Text>
+			<Text>Không có thành tựu vĩ đại để đánh cắp</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_NO_TECH_BOOST_TO_STEAL">
-			<Text>No Tech Boost to steal</Text>
+			<Text>Không có công nghệ để đánh cắp</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_HEADER">
-			<Text>Mission History</Text>
+			<Text>Lịch sử nhiệm vụ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_SUBHEADER">
-			<Text>MISSION HISTORY</Text>
+			<Text>LỊCH SỬ NHIỆM VỤ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES">
-			<Text>CAPTURED SPIES:</Text>
+			<Text>GIÁM ĐIỆP BỊ BẮT:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_OFFER_TRADE">
 			<Text>Offer Trade</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_VIEW_CITY">
-			<Text>View this city on the map.</Text>
+			<Text>Xem thành phố này.</Text>
 		</Row>
 		<!-- ==================== Speculative text for temporary Captured Spies tab (which would become part of Mission History) ==================== -->
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_HEADER">

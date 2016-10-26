@@ -3,18 +3,18 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY">
-			<Text>Making demands will get you nowhere.</Text>
+			<Text>Tôi không tuân thủ yêu cầu này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY">
-			<Text>I will comply.</Text>
+			<Text>Tôi sẽ tuân thủ.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY">
-			<Text>You are wise in accepting my demands.</Text>
+			<Text>Bạn rất không ngoan trong việc chấp nhận yêu cầu của tôi.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY">
-			<Text>I may have to resort to other means to have my demands met!</Text>
+			<Text>Tôi cần phải có những biện pháp hỗ trợ khác!</Text>
 		</Row>
 
 	</BaseGameText>

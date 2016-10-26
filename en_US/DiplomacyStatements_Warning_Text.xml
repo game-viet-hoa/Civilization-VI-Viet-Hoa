@@ -4,186 +4,186 @@
 	<BaseGameText>
 		<!-- AI responses -->
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>My sincerest apologies! I didn't notice your city was so close.</Text>
+			<Text>Thật xin lỗi! Tôi không thấy thành phố của bạn ở gần.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>My people need land. Who are you to say that they cannot have it?</Text>
+			<Text>Người của tôi cần đất. Bạn là ai mà nói rằng họ không thể có được nó?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
-			<Text>Your people settle too close! You should consider seeking land elsewhere.</Text>
+			<Text>Dân di cư của bạn quá gần! Bạn nên cân nhắc tìm kiếm vùng đất khác.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Thank you.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>If you cannot respect our lands, then I will not respect you.</Text>
+			<Text>Nếu bạn không tôn trọng vùng đất của tôi, tôi sẽ không tôn trọng bạn.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Apologies, we were just looking for some Barbarians to hassle.</Text>
+			<Text>Xin lỗi, chúng tôi chỉ đang tìm kiếm quân man rợ gây rắc rối.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>I like marching my troops around, it shows how powerful I am if you get my drift.</Text>
+			<Text>Tôi thích diễu hành quân đội xung quanh, nó cho thấy sức mạnh của tôi như thế nào.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Yes, you're right. I regret that I had to resort to such tactics. It won't happen again.</Text>
+			<Text>Vâng bạn nói đúng. Tôi rất tiếc phải nhờ đến công việc này. Nó sẽ không xảy ra lần nữa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Hah! What makes you think I would make that kind of promise?</Text>
+			<Text>Hah! Thứ gì khiến bạn nghĩ tôi sẽ giữ lời hứa?</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
-		  <Text>I hadn't realized that you laid claim to these lands. It was a simple mistake.</Text>
+		  <Text>Tôi không nhận ra rằng bạn đã đặt yêu cầu cho vùng đất này. Đây chỉ là một sai lầm nhỏ.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
-		  <Text>The mysteries of the past are free to everyone. You cannot claim them!</Text>
+		  <Text>Bí ẩn của quá khứ đều miễn phí cho mọi người. Bạn không thể yêu cầu họ!</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
-		  <Text>Though I will respect your wishes, I am disappointed that you cannot see the error of your ways.</Text>
+		  <Text>Mặc dù tôn trọng ước muốn của bạn, tôi thất vọng rằng bạn không thể nhìn thấy những sai lầm của chính mình.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
-		  <Text>No, no. This is for the best. You will see, I assure you.</Text>
+		  <Text>Không, không. Đây là cách tốt nhất. Tôi đảm bảo bạn sẽ thấy.</Text>
 		</Row>
     
     <!-- AI warns player -->
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
-			<Text>Your troops tread too close to my borders. I hope it's just to view our picturesque countryside.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
-			<Text>Your army is at our doorstep. Do you think we are blind? Move them, or we will be forced to action.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Do you think to intimidate us with force? That will not go well for you, at all.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
-			<Text>Like the Eye of Ra, I see all. Did you think I would not notice your army at my borders? I would suggest you move them.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
-			<Text>If you think we are blind to your army, you are naive. Move them away from Germany, or suffer the consequences.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
-			<Text>Please, friend, move your soldiers from my borders. They make a peaceful man like me nervous.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
-			<Text>Gilgamesh will tear your army apart with his own hands if you do not move them.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
-			<Text>Move your army from our borders or we will move them for you.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
-			<Text>I don’t remember asking to see your troops, are you that hungry for war?</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
-			<Text>Do not show your blade unless you mean to strike. Move your soldiers from our lands.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
-			<Text>Your troops tread too close to my borders. I hope it's just to view our picturesque countryside.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
-			<Text>If you are trying to intimidate us with your army, it’s not working. Move them, or face the consequences.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
-			<Text>Your military threatens my very borders… do you expect me to sit here and do nothing?</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
-			<Text>Do not presume you can keep your soldiers on my borders without repercussions. Move them at once.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
-			<Text>Your army has relinquished any advantage of surprise. Withdraw your forces, and rethink your strategy.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
-			<Text>I would be blind to not see your army in front of me. Please, move them from our borders, unless… you anticipate war?</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
-			<Text>You march your troops so close to our borders that I am beginning to question your integrity.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
-			<Text>Your troops tread too close to my borders. I hope it's just to view our picturesque countryside.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
-			<Text>Your soldiers are only a few steps from being invaders. Move them from our borders at once!</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
-			<Text>Your army is not welcome at our borders. Remove them at once.</Text>
+			<Text>Quân đội của bạn tiến gần lãnh thổ của tôi. Làm ơn di chuyển họ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Thank you.</Text>
+			<Text>Cảm ơn.</Text>
 		</Row>
 
     <Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
-      <Text>I should have known you'd stoop so low as to use espionage against me. Remove your spies at once!</Text>
+      <Text>Tôi biết rằng bạn thật xấu hổ khi sử dụng gián điệp chống lại tôi. Hãy loại bỏ gián điệp của bạn!</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-      <Text>Thank you.</Text>
+      <Text>Cảm ơn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-      <Text>I will remember this insult. You can be sure of that!</Text>
+      <Text>Tôi sẽ nhớ sự sỉ nhục này!</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
-      <Text>Our cultural history is not yours to plunder. It is time for you to leave our lands!</Text>
+      <Text>Nền văn hóa của chúng tôi không phải để cướp bóc. Hãy ra khỏi vùng đất của chúng tôi!</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-      <Text>Thank you.</Text>
+      <Text>Cảm ơn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-      <Text>If you cannot respect our lands, then I will not respect you.</Text>
+      <Text>Nếu bạn không thể tôn trọng vùng đất của tôi, tôi sẽ không tôn trọng bạn.</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
-      <Text>Your proselytizers are not welcome among my people. I must ask that you remove them immediately.</Text>
+      <Text>Tôn giáo khác không được chào đón. Tôi yêu cầu loại bỏ ngay lập tức.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-      <Text>Thank you.</Text>
+      <Text>Cảm ơn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-      <Text>I assure you there will be consequences for this - if not now, then later.</Text>
+      <Text>Tôi đảm bảo sẽ có hậu quả cho việc này, không bây giờ thì lúc khác.</Text>
     </Row>
 
     <!-- Human Choices -->
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
-			<Text>My people will settle where they please!</Text>
+			<Text>Dân di cư của tôi sẽ làm những gì họ muốn!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
-			<Text>Apologies, I will look elsewhere in the future.</Text>
+			<Text>Xin lỗi, tôi sẽ tìm nơi khác.</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
-			<Text>You were right to worry (Declare War)!</Text>
+			<Text>Đúng là phải lo lăng (Tuyên bố chiến tranh)!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
-			<Text>My troops are merely passing by.</Text>
+			<Text>Quân đội của tôi chỉ đi ngang qua.</Text>
 		</Row>
 
     <Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
-      <Text>I cannot promise that.</Text>
+      <Text>Tôi không thể hứa.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
-      <Text>I apologize, I will cease these operations at once.</Text>
+      <Text>Tôi xin lỗi, tôi sẽ chấm dứt các hoạt động.</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
-      <Text>You cannot lay claim to history. I will dig where I please.</Text>
+      <Text>Bạn không thể thay đổi chủ quyền lịch sử. Tôi sẽ đào những gì tôi muốn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
-      <Text>Apologies, I will move my Archaeologists elsewhere.</Text>
+      <Text>Xin lỗi, tôi sẽ chuyển nhà khảo cổ đi nơi khác.</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
-      <Text>If it is God's will that your people believe in our ways, who am I to stop it?</Text>
+      <Text>Nếu đó là ý của chúa thì làm sao tôi dám chống lại?</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
-      <Text>I'm sorry, I thought my people would be welcome. I was mistaken.</Text>
+      <Text>Tôi xin lỗi, tôi nghĩ mọi người chào đón tôi. Tôi đã nhầm.</Text>
     </Row>
     
     <!-- Confirmation of War -->
     <Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
-      <Text>Making this move will start a war with {1_CivName}!</Text>
+      <Text>Động thái này sẽ bắt đầu chiến tranh với {1_CivName}!</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
-      <Text>Are you sure you want to do this?</Text>
+      <Text>Bạn có chắc muốn làm điều này?</Text>
     </Row>
 	</BaseGameText>
 </GameData>

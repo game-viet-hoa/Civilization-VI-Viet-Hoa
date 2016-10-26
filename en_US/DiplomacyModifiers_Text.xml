@@ -5,100 +5,100 @@
 		<!-- TEMPORARY KLUDGE: DO NOT USE ".", "'", or "-" punctuation in this file until DiplomacyActionView.lua has been updated to have a more robust string parsing algorithm! -->
 		<!-- Standard modifiers -->
 		<Row Tag="LOC_DIPLO_MODIFIER_ALLY">
-			<Text>Ally</Text>
+			<Text>Đồng minh</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DEMAND">
-			<Text>We made a demand of them</Text>
+			<Text>Chúng tôi đã thực hiện một yêu cầu của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_JOINT_WAR">
-			<Text>We fought a joint war together</Text>
+			<Text>Chúng ta đã chiến đấu với nhau</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
-			<Text>We converted their religious city</Text>
+			<Text>Chúng tôi đã chuyển đổi tôn giáo của thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED">
-			<Text>We occupy one of their cities</Text>
+			<Text>Chúng tôi chiếm một trong những thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED_FRIEND">
-			<Text>We occupy a city belonging to their friend or ally</Text>
+			<Text>Chúng tôi chiếm một trong những thành phố hữu nghị hoặc đồng minh với họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_CITY">
-			<Text>We liberated a city</Text>
+			<Text>Chúng tôi giải phóng một thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_MY_CITY">
-			<Text>We liberated one of their cities</Text>
+			<Text>Chúng tôi giải phóng một trong những thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_RAZED_MY_CITY">
-			<Text>We razed one of their cities</Text>
+			<Text>Chúng tôi san bằng một trong những thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_FRIEND">
-			<Text>Declared a surprise war on a friend</Text>
+			<Text>Tuyên bố chiến tranh bất ngờ với một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_FRIEND">
-			<Text>Denounced a friend</Text>
+			<Text>Lên án một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_FRIEND">
-			<Text>Declared friendship with a friend</Text>
+			<Text>Tuyên bố tình hữu nghị với một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_FRIEND">
-			<Text>Declared an alliance with a friend</Text>
+			<Text>Tuyên bố liên minh với một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_ENEMY">
-			<Text>Declared a surprise war on an enemy</Text>
+			<Text>Tuyên bố chiến tranh bất ngờ với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_ENEMY">
-			<Text>Denounced an enemy</Text>
+			<Text>Lên án kẻ thù</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_ENEMY">
-			<Text>Declared friendship with an enemy</Text>
+			<Text>Tuyên bố tình hữu nghị với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_ALLIED_WITH_ENEMY">
-			<Text>Declared an alliance with an enemy</Text>
+			<Text>Tuyên bố đồng minh với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIEND">
-			<Text>Declared Friend</Text>
+			<Text>Tuyên bố tính hữu nghị</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT">
-			<Text>Defensive Pact</Text>
+			<Text>Hiệp ước phòng thủ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DELEGATION">
-			<Text>We sent them a delegation</Text>
+			<Text>Gửi tới họ một phái đoàn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED">
-			<Text>We denounced them</Text>
+			<Text>Chúng tôi lên án họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_HAD_FRIENDLY_MEETING">
-			<Text>Friendly meeting</Text>
+			<Text>Gặp mặt tình hữu nghị</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_NEAR_BORDER_WARNING">
-			<Text>We had troops on their border</Text>
+			<Text>Chúng tôi có quân gần biên giới của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SETTLED_NEAR_BORDER_WARNING">
-			<Text>We settled too near their border</Text>
+			<Text>Dân di cư của chúng tôi gần biên giới của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_RELIGION">
-			<Text>They are following our religion</Text>
+			<Text>Họ đang theo tôn giáo của chúng tôi</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_STOP_SPYING_ON_ME_WARNING">
-			<Text>We were caught spying on them</Text>
+			<Text>Chúng ta bị bát khi đang gián điệp họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_STOP_DIGGING_UP_ARTIFACTS_WARNING">
-			<Text>We were caught digging up artifacts in their territory</Text>
+			<Text>Chúng tôi đã bị bắt khi đào cổ vật trong lãnh thổ của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PROMISE">
-			<Text>We broke a diplomatic promise we made to them</Text>
+			<Text>Chúng tôi phá vỡ một lời hứa ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PROMISE">
-			<Text>We kept a diplomatic promise we made to them</Text>
+			<Text>Chúng tôi thực hiện lời hứa ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_NO_PROMISE">
-			<Text>We decided to not make a diplomatic promise to them</Text>
+			<Text>Chúng tôi quyết định không làm một ngoại giao với họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
-			<Text>Open borders</Text>
+			<Text>Tự do đi lại</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
-			<Text>We established a resident embassy there</Text>
+			<Text>Chúng tôi thành lập đại sứ quán thường trú</Text>
 		</Row>
 		<!-- Historical agenda modifiers -->
 		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
