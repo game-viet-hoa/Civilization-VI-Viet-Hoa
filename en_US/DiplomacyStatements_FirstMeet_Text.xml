@@ -68,32 +68,32 @@
 			<Text>Đây là một vinh dự lớn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY">
-			<Text>Chúng tôi sợ quá bận để nán lại trò chuyện.</Text>
+			<Text>Ta sợ quá bận để nán lại trò chuyện với ngài.</Text>
 		</Row>
 		<!-- AI invitation to visit nearby City -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Trước khi tiếp tục, hãy cùng ta đến kính viếng nước láng giềng. Sau đó thì chúng ta có thể thưởng thức món gà Moambé.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Ngài sẽ không thể sống nếu như không có thức ăn và đồ uống thật ngon. Và nếu như ngài muốn thì ta cũng có thể hướng dẫn ngài cách sử dụng nĩa sao cho phù hợp.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Cạnh chúng ta có một nước láng giềng, ngài có muốn viếng thăm hay không? Ta rất thích được giới thiệu với ngài về bàn game của chúng ta, Senet.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Với cương vị là quốc vương của Đế Chế La Mã thần thoại, ta chào mừng ngài đến với vương quốc của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Đến với thành phố cạnh bên, chúng ta có thể được nghe một khúc Trí Thức Thi của nhà thơ Veedic, và có thể còn sẽ được học hỏi thêm nhiều điều nữa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Nếu ngài muốn thì có thể thấy niềm tự hào của người Sumer đang ở trước mắt ngài: Một nền nghệ thuật và khoa học truyền thống lâu đời, Ziggurats vĩ đại!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Thành phố của chúng tôi ở gần đây. Ngài có muốn ghé thăm và nếm thử món nước súp đen tinh khiết của chúng tôi không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Nói cho ta biết bằng hữu: Ngài có muốn ghé thăm thành phố gần nhất của chúng tôi? Tuy nó không có điện Bilskirnir nhưng đổi lại nó cũng rất đẹp.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
 			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
@@ -133,84 +133,84 @@
 		</Row>
 		<!-- Human Responses -->
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
-			<Text>Chúng tôi rất thích lòng hiếu khách.</Text>
+			<Text>Chúng tôi rất mến lòng kính khách của các ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT">
-			<Text>Xin lỗi giờ không phải lúc.</Text>
+			<Text>Xin lỗi , nhưng giờ không phải lúc.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_POSITIVE">
-			<Text>Bạn có muốn đến thăm thành phố bên cạnh chúng tôi?</Text>
+			<Text>Ngài có thích ghé thăm thành phố gần bên và thử lòng mến khách của chúng chúng tôi chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY">
-			<Text>Cảm ơn đã giới thiệu, nhưng chúng tôi không có thời gian.</Text>
+			<Text>Cảm ơn vì đã giới thiệu , nhưng dường như chúng ta không đủ thời gian cho những thứ vui vẻ.</Text>
 		</Row>
 		<!-- AI accepts Human invitation -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Bằng tất cả sự kính trọng. Thật là vinh dự khi được chiêm ngưỡng thành phố đang phát triển của bạn thật gần.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Vâng, vâng. Thật là tốt cho chúng tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Bằng tất cả sự kính trọng. Thật là vinh dự khi được chiêm ngưỡng thành phố đang phát triển của bạn thật gần.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Rất vui lòng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Cảm ơn, bằng hữu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Cảm ơn, bằng hữu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Vâng, chúng tôi rất sẵn lòng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Rất vui lòng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Cám ơn, bằng hữu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Cám ơn, bằng hữu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Vâng. Với tất cả lòng biết ơn của tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Thay mặt cho người dân, đồng ý.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Vâng, rất tốt.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Cầu mong các Vị Thần phù hộ ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Việc này có thể chấp nhận được.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Một lời đề nghị hấp dẫn. Cầu thánh Allah phù hộ cho người.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Ta không thể từ chối được.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Rất tốt.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Điều này chấp nhận được.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
-			<Text>Chúng tôi đồng ý</Text>
+			<Text>Chúng tôi thấy hài lòng với điều này.</Text>
 		</Row>
 		<!-- Human responses -->
 		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
-			<Text>Rất vinh dự khi được gặp bạn.</Text>
+			<Text>Thật là vinh dự khi được gặp ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE">
-			<Text>Thấy người lạ, tôi quá bận để ở lại trò chuyện.</Text>
+			<Text>Hân hạnh được gặp, người lạ mặt. Nhưng ta e là rất bận để ở lại và nói chuyện.</Text>
 		</Row>
 		<!-- AI invitation to exchange Capital Information -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">

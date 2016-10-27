@@ -9,22 +9,22 @@
 			<Text>Welcome to the Civilopedia for Sid Meier's Civilization VI! Here you will find detailed descriptions of all aspects of the game. Clicking on the tabs on the top edge of the screen will take you to the various major sections of the Civilopedia. The Navigation Bar on the left side of the screen will display the various entries within a section. Click on an entry to go directly there.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITIES_NAME">
-			<Text>Cities</Text>
+			<Text>Thành phố</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_PARA_1">
 			<Text>Cities are vital to your civilization's success. They allow you to build units, buildings, and wonders. They allow you to research new technologies and gather wealth. You cannot win without powerful, well-situated cities.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_TITLE">
-			<Text>How to Build Cities</Text>
+			<Text>Các tạo thành phố mới</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_PARA_1">
 			<Text>Cities are constructed by Settler units. If the Settler is in a location where a city can be constructed, the "Found City" action button will appear. Click on the button and the Settler will disappear, to be replaced by the new city.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_TITLE">
-			<Text>Where to Construct Cities</Text>
+			<Text>Thành phố xây dựng ở đâu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
 			<Text>Cities should be constructed in locations with plenty of [ICON_Food] Thực phẩm and [ICON_Production] Sản phẩm and with access to Strategic, Luxury, and Bonus resources. It is often a good idea to build a city on a River or coastal hex, as sources of water are very important to a growing [ICON_Citizen] Dân số. Cities constructed on Hills gain a defensive bonus, making it harder for enemies to capture them.</Text>
@@ -33,7 +33,7 @@
 			<Text>With a Settler selected, ideal city locations will be shown on the map with an icon. Additionally, every Settler after your first will show the Settler Lens, giving you an idea of where on the map will provide the best source of water for your city, and indicating unavailable tiles.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_TITLE">
-			<Text>Growth</Text>
+			<Text>Phát triển</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
 			<Text>Your city will grow, or add more [ICON_Citizen] Citizens, with surplus [ICON_Food] Thực phẩm. Any amount of [ICON_Food] Thực phẩm over the total consumption of a city's [ICON_Citizen] Citizens, 2 per, is considered surplus, and is added as progress towards a new [ICON_Citizen] Citizen.</Text>
@@ -45,7 +45,7 @@
 			<Text>A city will stagnate and not grow if it does not have surplus [ICON_Food] Thực phẩm. If it makes less [ICON_Food] Thực phẩm than its [ICON_Citizen] Citizens consume, the city will starve and slowly lose [ICON_Citizen] Dân số until it is able to support itself again.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
-			<Text>Food</Text>
+			<Text>Thức ăn</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
 			<Text>A city requires 2 [ICON_Food] Thực phẩm per [ICON_Citizen] Citizen (another term for "[ICON_Citizen] Dân số") per turn to avoid starvation. A city acquires [ICON_Food] Thực phẩm (as well as other yields) by assigning its [ICON_Citizen] Citizens to "work" the land around the city. The city can work any tile within 3 spaces of the city that is also within the civilization's borders, provided as well that it is not being worked by another city. Cities cannot work tiles occupied by wonders.</Text>
@@ -54,7 +54,7 @@
 			<Text>Left to its own devices, the city will assign as many [ICON_Citizen] Citizens as needed to acquire its [ICON_Food] Thực phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_TITLE">
-			<Text>Housing</Text>
+			<Text>Nhà ở</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_1">
 			<Text>[ICON_Housing] Nhà ở is a representation of the maximum amount of [ICON_Citizen] Citizens or [ICON_Citizen] Dân số you can have in each city. The base source of [ICON_Housing] Nhà ở is a water source.</Text>
@@ -66,7 +66,7 @@
 			<Text>Each Farm, Pasture, Plantation, or Camp supports a small amount of [ICON_Citizen] Dân số — 1 [ICON_Housing] Nhà ở for every 2 such improvements. Supporting rural [ICON_Citizen] Dân số in this fashion will allow for slightly larger [ICON_Citizen] Dân sốs prior to the Industrial Era, when the Neighborhood district becomes available.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_TITLE">
-			<Text>Water</Text>
+			<Text>Nước</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_1">
 			<Text>Placing your city near a water source should be one of your first decisions in any game. The presence of a good water source will immediately set the initial [ICON_Housing] Nhà ở level of a city. A city not adjacent to any water will have a max [ICON_Citizen] Dân số of 2 at the start. A city on the coast will have a max [ICON_Citizen] Dân số of 3. And a city adjacent to a River, Lake, or Oasis will have a max [ICON_Citizen] Dân số of 5.</Text>
@@ -75,7 +75,7 @@
 			<Text>The fresh water status of a city may be upgraded by adding an Aqueduct tile next to the City Center. Aqueducts may only be placed in tiles that are adjacent to a River, Lake, or Mountain that is also adjacent to the City Center.  Completion of the Aqueduct district raises the city’s [ICON_Housing] Nhà ở from water by 2 or up to 6, whichever is larger—so 7 if adjacent to River, Lake or Oasis, or 6 otherwise.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_TITLE">
-			<Text>Districts</Text>
+			<Text>Khu vực</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
 			<Text>In Civilization VI, buildings are no longer trapped in your City Center, but may sprawl across your territory as part of districts. The map is more important than ever as you are faced with important strategic placement decisions. Campuses and Holy Site’s alike receive special boosts from placement near Mountains, but only the former also benefits from a nearby source of Rainforest. Specialty districts, such as the Campus or Commercial Hub, will have a [ICON_Citizen] Dân số requirement. The Neighborhood and Aqueduct are not affected by this requirement.</Text>
@@ -87,7 +87,7 @@
 			<Text>Districts may be placed on top of features such as Woods or Rainforest if you have the technology to remove those features, but for a longer construction time.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
-			<Text>Neighborhoods and Appeal</Text>
+			<Text>Vùng ngoại ô và tâm trạng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_1">
 			<Text>Neighborhoods are a special district that allows a city to house more [ICON_Citizen] Dân số and is affected by Appeal. The term “Appeal” is used to describe a special form of adjacency bonus that just applies to Neighborhoods, and also will affect Culture Victory’s [ICON_Tourism] Du lịch system through National Parks and Seaside Resorts.</Text>
@@ -135,19 +135,19 @@
 			<Text>-1: Each adjacent pillaged tile</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_TITLE">
-			<Text>Buildings</Text>
+			<Text>Kiến trúc</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_PARA_1">
 			<Text>After your district has been built, you may now begin populating it with buildings. Buildings can be built through the Production Menu similarly to how you build your district. Some buildings have prerequisites, such as other buildings or technology requirements; these buildings will not be visible in your Production Menu. You may notice that you have some buildings available to build before you place any districts, such as the Monument. These buildings reside in the City Center.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_TITLE">
-			<Text>Wonders</Text>
+			<Text>Kỳ quan</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_1">
 			<Text>Wonders are a special type of building that fills an entire hex and has a significant impact on gameplay. When you select one to build from the Production Menu, you will enter the placement lens, just like you would for building a district. Most wonders have specific placement requirements, and the lens will highlight which tiles are available, and all wonders must be built within 3 tiles of a City Center. For more information on each wonder, see the Wonders section of the Civilopedia.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_TITLE">
-			<Text>The Palace</Text>
+			<Text>Cung điện</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_PARA_1">
 			<Text>The Palace is a special building. Part building, part wonder, the Palace automatically appears in the first city you build, which makes that city the [ICON_Capital] Capital of your empire. The Palace provides a small amount of [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, [ICON_Gold] Vàng, and [ICON_Culture] Văn minh to your civilization. If your [ICON_Capital] Capital is captured by another civilization and you still have other cities under your control, the Palace will automatically transfer to another city, which will become your new [ICON_Capital] Capital.</Text>

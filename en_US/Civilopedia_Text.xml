@@ -5,176 +5,176 @@
 
 		<!-- Sections -->
 		<Row Tag="LOC_PEDIA_CONCEPTS_TITLE">
-			<Text>Concepts</Text>
+			<Text>Các khái niệm</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
-			<Text>Major Civilizations</Text>
+			<Text>Nền văn minh chính</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_TITLE">
-			<Text>Leaders</Text>
+			<Text>Người lãnh đạo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CITYSTATES_TITLE">
-			<Text>City-States</Text>
+			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_DISTRICTS_TITLE">
-			<Text>Districts</Text>
+			<Text>Khu vực</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_BUILDINGS_TITLE">
-			<Text>Buildings</Text>
+			<Text>Kiến trúc</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_TITLE">
-			<Text>Wonders and Projects</Text>
+			<Text>Kỳ quan và dự án</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_TITLE">
-			<Text>Units</Text>
+			<Text>Đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
-			<Text>Unit Promotions</Text>
+			<Text>Huân chương</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
-			<Text>VĨ NHÂN</Text>
+			<Text>Vĩ nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
-			<Text>Technologies</Text>
+			<Text>Công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVICS_TITLE">
-			<Text>Civics</Text>
+			<Text>Hành chính</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
-			<Text>Governments and Policies</Text>
+			<Text>Chính phủ và chính sách</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RELIGIONS_TITLE">
-			<Text>Religions</Text>
+			<Text>Tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_FEATURES_TITLE">
-			<Text>Terrains and Features</Text>
+			<Text>Địa hình và tính chất</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RESOURCES_TITLE">
-			<Text>Resources</Text>
+			<Text>Tài nguyên</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
-			<Text>Improvements and Routes</Text>
+			<Text>Công trình và tuyến đường</Text>
 		</Row>
 
 		<!-- Common page text -->
 		<Row Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>		
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
 			<Text>Basic Concepts</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
-			<Text>Getting Started</Text>
+			<Text>Bắt đầu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
-			<Text>Historical Context</Text>
+			<Text>Hoàn cảnh lịch sử</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
-			<Text>Summary</Text>
+			<Text>Sơ lược</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
-			<Text>Detailed Approach</Text>
+			<Text>Hướng phát triển</Text>
 		</Row>
 
     <!-- Common chapter header -->
     <Row Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
-      <Text>Introduction</Text>
+      <Text>Giới thiệu</Text>
     </Row>
 
     <!-- Page group text>-->
 		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
-			<Text>Cultural</Text>
+			<Text>Văn hóa</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
-			<Text>Industrial</Text>
+			<Text>Công nghiệp</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
-			<Text>Militaristic</Text>
+			<Text>Quân sự</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
-			<Text>Religious</Text>
+			<Text>Tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
-			<Text>Scientific</Text>
+			<Text>Khoa học</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
-			<Text>Trade</Text>
+			<Text>Thương mại</Text>
 		</Row>
 
 
 		<Row Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
-			<Text>Terrains</Text>
+			<Text>Địa hình</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
-			<Text>Features</Text>
+			<Text>Tính chất</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
-			<Text>Natural Wonders</Text>
+			<Text>Kỳ quan thiên nhiên</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
-			<Text>Governments</Text>
+			<Text>Chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
-			<Text>Military Policies</Text>
+			<Text>Chính sách quân sự</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
-			<Text>Economic Policies</Text>
+			<Text>Chính sách kinh tế</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
-			<Text>Diplomatic Policies</Text>
+			<Text>Chính sách ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
-			<Text>Great Person Policies</Text>
+			<Text>Chính sách vĩ nhân</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
-			<Text>Improvements</Text>
+			<Text>Công trình</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
-			<Text>Routes</Text>
+			<Text>Đường</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
-			<Text>Historic Religions</Text>
+			<Text>Lịch sử tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
-			<Text>Pantheon Beliefs</Text>
+			<Text>Tín ngưỡng vị thần</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
-			<Text>Worship Beliefs</Text>
+			<Text>Tín ngưỡng tôn thờ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
-			<Text>Follower Beliefs</Text>
+			<Text>Tín ngưỡng người theo đạo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
-			<Text>Founder Beliefs</Text>
+			<Text>Tín ngưỡng người sáng lập</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
-			<Text>Enhancer Beliefs</Text>
+			<Text>Tín ngưỡng nâng cao</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
-			<Text>Bonus</Text>
+			<Text>Thưởng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
-			<Text>Luxury</Text>
+			<Text>Quý</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
-			<Text>Strategic</Text>
+			<Text>Chiến thuật</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
-			<Text>Artifact</Text>
+			<Text>Cổ vật</Text>
 		</Row>
 
 		<Row Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
-			<Text>Wonders</Text>
+			<Text>Kỳ quan</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
-			<Text>Projects</Text>
+			<Text>Dự án</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
-			<Text>Unit Abilities</Text>
+			<Text>Thuộc tính đơn vị</Text>
 		</Row>	
 
 	</BaseGameText>
