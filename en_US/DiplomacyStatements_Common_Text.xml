@@ -5,11 +5,11 @@
 		<Row Tag="LOC_DIPLO_PERSON_CLEO">
 			<Text>Cleopatra of Egypt</Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_GREETING_CLEO">
-			<Text>Greetings travler. You should know that you stand in the presence of greatness.</Text>
+		
+			<Text></Text>
 		</Row>
-		<Row Tag="LOC_DIPLO_ADVISOR_READY">
-			<Text>What would you like to do, my liege?</Text>
+		
+			<Text></Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
 			<Text>Thiết lập tình hữu nghị</Text>
@@ -60,7 +60,7 @@
 			<Text>Giá {1_Cost} [ICON_Gold] Vàng</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
-			<Text>Bạn có chắc muốn đi đến?</Text>
+			<Text>Ngài có chắc muốn đi đến chiến tranh?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
 			<Text>Chiến</Text>
@@ -84,13 +84,13 @@
 			<Text>Đề xuất bán đấu giá</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_INTRO">
-			<Text>Tôi có thể làm gì cho bạn?</Text>
+			<Text>Ta có thể làm gì cho ngài?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_INTRO_AI">
-			<Text>Bạn nghĩ gì về điều này?</Text>
+			<Text>Ngài nghĩ gì về điều này?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEMAND_INTRO">
-			<Text>Yêu cầu của tôi phải được đáp ứng.</Text>
+			<Text>Yêu cầu của ta phải được đáp ứng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
 			<Text>Xem thỏa thuận</Text>
@@ -108,10 +108,10 @@
       <Text>Hứa không gián điệp</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
-      <Text>Hứa dân di cư không gần các thành phố của tôi</Text>
+      <Text>Hứa dân di cư không gần các thành phố của ta</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
-      <Text>Hứa không chuyển đôi thành phố</Text>
+      <Text>Hứa không chuyển đôi tôn giáo thành phố</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
       <Text>Hứa không đào cổ vật</Text>

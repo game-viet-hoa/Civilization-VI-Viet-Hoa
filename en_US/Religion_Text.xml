@@ -10,7 +10,7 @@
 			<Text>Đạo Phật</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_CATHOLICISM">
-			<Text>Đạo thiên chúa</Text>
+			<Text>Công giáo</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_CONFUCIANISM">
 			<Text>Đạo Khổng</Text>
@@ -47,7 +47,7 @@
 			<Text>Vị thần</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
-			<Text>Người theo</Text>
+			<Text>Tín đồ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
 			<Text>Tôn sùng</Text>
@@ -339,7 +339,7 @@
 			<Text>Mỗi Miếu và Đền thờ cung cấp +1 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
-			<Text>+1% [ICON_Production] Sản phẩm cho mỗi người theo đạo.</Text>
+			<Text>+1% [ICON_Production] Sản phẩm cho mỗi tín đồ.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Tiện nghi trong tất cả thành phố với 2 khu vực.</Text>
@@ -361,10 +361,10 @@
 			<Text>Mỗi khu tri thức hoặc trung tâm thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_TITHE_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Vàng cho mỗi 4 người theo đạo tôn giáo này.</Text>
+			<Text>+1 [ICON_Gold] Vàng cho mỗi 4 tín đồ theo tôn giáo này.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Văn minh cho mỗi 5 người theo đạo tôn giáo này ở bên trong nền văn minh khác.</Text>
+			<Text>+1 [ICON_Culture] Văn minh cho mỗi 5 tín đồ theo tôn giáo này ở bên trong nền văn minh khác.</Text>
 		</Row>
 		<!--5. ENHANCER BELIEFS-->
 		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">

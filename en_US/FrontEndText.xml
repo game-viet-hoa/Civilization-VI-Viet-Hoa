@@ -246,7 +246,7 @@
 			<Text>Tên mạng[NEWLINE]Đây là tên sẽ xuất hiện cho người chơi khác thấy.</Text>
 		</Row>
 		<Row Tag="LOC_NUMBER_OF_CIVILIZATIONS">
-			<Text>Number of Civilizations</Text>
+			<Text>Số nền văn minh</Text>
 		</Row>
     <Row Tag="LOC_PLAYERS">
       <Text>Người chơi</Text>
@@ -428,13 +428,13 @@
 			<Text>LOCAL NETWORK GAMES</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
-			<Text>Unknown</Text>
+			<Text>Không rõ</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_TRUE">
-			<Text>True</Text>
+			<Text>Đúng</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_FALSE">
-			<Text>False</Text>
+			<Text>Sai</Text>
 		</Row>
 		<!-- Cloud Game Screen -->
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
@@ -447,10 +447,10 @@
 			<Text>Host</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
-			<Text>Join</Text>
+			<Text>Tham gia</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
-			<Text>Start</Text>
+			<Text>Bắt đầu</Text>
 		</Row>
     <!-- Options -->
     <Row Tag="LOC_CONFIRM_KEY_BINDING">
@@ -523,7 +523,7 @@
       <Text>Số tự động lưu được giữ:</Text>
     </Row>
     <Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-      <Text>Steam Controller cấu hình trong Steam.  The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
+      <Text>Steam Controller cấu hình trong Steam. The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
     </Row>
     <Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
       <Text>Phím chính</Text>
@@ -601,7 +601,7 @@
 			<Text>Kick người chơi</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STAGING_ROOM">
-			<Text>Staging Room</Text>
+			<Text>Phòng chờ</Text>
 		</Row>
 		<Row Tag="LOC_READY_BUTTON">
 			<Text>Sẵn sàng</Text>
@@ -620,7 +620,7 @@
 			<Text>[COLOR:StagingStatus_Invalid]Kích thước bản đô không hợp lệ[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
-			<Text>This player slot is invalid for this map size.  Swap to a valid player slot.</Text>
+			<Text>Slot người chơi này không hợp lệ với kích thước bản đồ. Hoàn đổi cho người chơi có slot hợp lệ.</Text>
 		</Row>		
 		<!-- Multiplayer Status Strings END -->
 		<Row Tag="LOC_JOIN">
@@ -630,37 +630,37 @@
 			<Text>Mở</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_OPEN_TT">
-			<Text>Open slots can be occupied by joining players.</Text>
+			<Text>Slot mở có thể bị chiếm bởi người chơi đang tham gia.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMANREQ">
-			<Text>Human Required</Text>
+			<Text>Yêu cầu người</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMANREQ_TT">
-			<Text>Human Required slots require a human player before the game can start.</Text>
+			<Text>Slot yêu cầu người chơi trước khi game có thể bắt đầu.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_HOST">
 			<Text>[ICON_Host] Host</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_PLAYER">
-			<Text>Player</Text>
+			<Text>Người chơi</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_COMPUTER">
-			<Text>Computer</Text>
+			<Text>Máy tính</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_OPEN">
-			<Text>Open</Text>
+			<Text>Mở</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_AI">
-			<Text>AI</Text>
+			<Text>Máy tính</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_AI_TT">
-			<Text>AI Player</Text>
+			<Text>Máy tính</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_CLOSED">
-			<Text>Closed</Text>
+			<Text>Đóng</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_CLOSED_TT">
-			<Text>Closed slots can not be used by players.</Text>
+			<Text>SLot đóng không thể sử dụng bởi người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMAN">
 			<Text>Human</Text>
@@ -669,13 +669,13 @@
 			<Text>Human Player</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
-			<Text>None</Text>
+			<Text>Không</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
 			<Text>{1_Num}</Text>
 		</Row>
 		<Row Tag="LOC_CREATE_NEW_TEAM">
-			<Text>New</Text>
+			<Text>Mới</Text>
 		</Row>
     <Row Tag="LOC_MULTIPLAYER_TEAM_HEADER">
       <Text>Team</Text>
@@ -684,68 +684,68 @@
       <Text>Độ khó</Text>
     </Row>
     <Row Tag="LOC_MULTIPLAYER_READY_HEADER">
-      <Text>Ready?</Text>
+      <Text>Sẵn sàng?</Text>
     </Row>
     <Row Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
-      <Text>Civilization and Leader</Text>
+      <Text>Nền văn minh và lãnh đạo</Text>
     </Row>
 		<Row Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
-			<Text>Game Starting</Text>
+			<Text>Game đang bắt đầu</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
-			<Text>Player</Text>
+			<Text>Người chơi</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
-			<Text>Password</Text>
+			<Text>Mật khẩu</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
-			<Text>Retype</Text>
+			<Text>Gõ lại</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
-			<Text>Match</Text>
+			<Text>Trùng</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
-			<Text>Passwords Don't Match.</Text>
+			<Text>Mật khẩu không trùng.</Text>
 		</Row>
 		<!-- Staging Room Ready Button-->
 		<Row Tag="LOC_READY_UNSUPPORTED">
-			<Text>Unsupported.</Text>
+			<Text>Không hỗ trợ.</Text>
 		</Row>
 		<Row Tag="LOC_READY_UNSUPPORTED_TT">
-			<Text>Unsupported amount of players.</Text>
+			<Text>Không hỗ trợ người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
-			<Text>Invalid Teams</Text>
+			<Text>Team không hợp lệ</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
-			<Text>Cannot start game. All civilizations are on the same team.</Text>
+			<Text>Không thể bắt đầu. Tất cả nền văn minh chung một team.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
-			<Text>Cannot start game. Players are joining the game.</Text>
+			<Text>Không thể bắt đầu. Người chơi đang vào phòng.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
-			<Text>Map Size Issue</Text>
+			<Text>Kích thước bản đồ có vấn đề</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
-			<Text>Can not start game. A player is in an invalid player slot for the current map size. The current map only supports {1_number} players.</Text>
+			<Text>Không thể bắt đầu. Hiện tại bản đồ chỉ hỗ trợ {1_number} người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
-			<Text>Not Enough Players</Text>
+			<Text>Không đủ người chơi</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
-			<Text>Can not start game.  Two players are required to start.</Text>
+			<Text>Không thể bắt đầu. Yêu cầu hai người chơi để bắt đầu.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
-			<Text>Players Joining Game</Text>
+			<Text>Người chơi đang kết nối</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
-			<Text>Waiting for players joining into the game.</Text>
+			<Text>Đang chờ người chơi kết nối vào game.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
-			<Text>Player Missing Mods</Text>
+			<Text>Người chơi thiếu Mod</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
-			<Text>Waiting on players who do not have the mods required for this game.</Text>
+			<Text>Đang chờ người chơi thiếu Mod cho game này.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
 			<Text>Password Mismatch</Text>
@@ -1008,13 +1008,13 @@
 			<Text>Turn Timer</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURN_TIMER_TIME">
-			<Text>Turn Time</Text>
+			<Text>Thời gian mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
 			<Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURNPHASE_TYPE">
-			<Text>Turn Mode</Text>
+			<Text>Chế độ lượt</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURNPHASE_DESC">
 			<Text>Turn mode used by human controlled players in multiplayer.</Text>
@@ -1029,7 +1029,7 @@
 			<Text>Số tạo bản đồ ngẫu nhiên</Text>
 		</Row>
 		<Row Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
-			<Text>The random seed for map generation.</Text>
+			<Text>Số tạo bản đồ ngẫu nhiên</Text>
 		</Row>
 		<Row Tag="LOC_MAP_WORLD_AGE_NAME">
 			<Text>Tuổi thế giới</Text>
@@ -1139,10 +1139,10 @@
 			<Text>Rất nhiều đảo nhỏ với một vài đảo lớn</Text>
 		</Row>
 		<Row Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
-			<Text>Diện tích đất lớn như một châu lục.</Text>
+			<Text>Diện tích đất lớn như một lục địa.</Text>
 		</Row>
 		<Row Tag="LOC_MAP_FRACTAL_DESCRIPTION">
-			<Text>Không thể đoán trước với một hay nhiều châu lục.</Text>
+			<Text>Không thể đoán trước với một hay nhiều lục địa.</Text>
 		</Row>
 		<Row Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
 			<Text>Một đại dương lớn ở trung tâm.</Text>
@@ -1177,22 +1177,22 @@
 		</Row>
 		<!-- Turn Timer Settings -->
 		<Row Tag="LOC_TURNTIMER_NONE">
-			<Text>No Turn Timer</Text>
+			<Text>Không ràng buộc</Text>
 		</Row>
 		<Row Tag="LOC_TURNTIMER_NONE_DESC">
-			<Text>Players take turns without time constraints.</Text>
+			<Text>Người chơi thay phiên nhau mà không ràng buộc thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_TURNTIMER_DYNAMIC">
-			<Text>Dynamic Turn Timer</Text>
+			<Text>Thời gian biến động</Text>
 		</Row>
 		<Row Tag="LOC_TURNTIMER_DYNAMIC_DESC">
-			<Text>Turn time is dynamically scaled based on the number of cities and units in play.</Text>
+			<Text>Thời gian cho mỗi lượt tỷ lệ với tổng số thành phố và đơn vị của người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_TURNTIMER_STANDARD">
-			<Text>Standard Turn Timer</Text>
+			<Text>Ràng buộc</Text>
 		</Row>
 		<Row Tag="LOC_TURNTIMER_STANDARD_DESC">
-			<Text>Turn time is based on the Turn Time option (in seconds).</Text>
+			<Text>Thời gian cho mỗi lượt (tính bằng giây).</Text>
 		</Row>
 		<!-- Turn Mode Settings -->
 		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS">
@@ -1328,7 +1328,7 @@
 			<Text>Đang tải...</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_DISTRICT_BUILDING">
-			<Text>{1_DistrictName} District Building</Text>
+			<Text>{1_DistrictName}</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_UNIQUE_BUILDING">
 			<Text>Kiến trúc đặc biệt</Text>
@@ -1349,37 +1349,37 @@
 			<Text>Bắt đầu</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_CONTINUE_GAME">
-			<Text>Continue Game</Text>
+			<Text>Tiếp tục</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
-			<Text>It is up to you to lead your people to glory by building a civilization that will stand the test of time.</Text>
+			<Text>Điều đó phụ thuộc vào bạn để dẫn dắt người dắt người dân của mình đến vinh quang thông qua việc xây dựng một nền văn minh sẽ đứng vững trước thử thách của thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-			<Text>Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader – use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses.  Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.</Text>
+			<Text>Anh hùng Frederick, đức vua của người Đức, nhiệm vụ của bạn là xây dựng các tiểu bang độc lập xung quanh đế quốc của bạn. Bạn được phù hộ để trở thành một nhà lãnh đạo quân sự vĩ đại - dùng những kỹ năng đó để các thành phố dưới sự ảnh hưởng của bạn phát triển thành các cường quốc về thương mại và công nghiệp. Chắc chắn sau này các thi sĩ sẽ hát về một Frederick hùng mạnh với bộ râu đỏ, Hoàng đế La Mã Thần Thánh vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
-			<Text>It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.</Text>
+			<Text>Việc này nằm trong tay bạn, Catherine de Medici, dùng những món quà về tri thức và nghệ thuật của bạn và thống nhất người dân. Hãy chỉ đạo kỹ lưỡng để vượt qua những thời điểm khó khăn này, Hoàng Thái Hậu của nước Pháp. Bạn sẽ xây dựng những kỳ quan vĩ đại, thu hút khách du lịch từ khắp nơi trên Trái Đất. Với nhận thức sắc sảo của bạn về mọi thứ, những thứ nhìn thấy được và cả những thứ đang ẩn mình trong bóng tối, đế quốc của bạn chắc chắn sẽ đứng vững trước thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
-			<Text>There will be those who underestimate you, but you are cunning and full of tricks, Queen Cleopatra. Your charm will establish indestructible alliances with the strongest leaders of the world. Keep your friends close by your side and you will find yourself untouchable, with the glory of Egypt primed to win over the world.</Text>
+			<Text>Sẽ có những kẻ đánh giá thấp bạn, nhưng bạn rất tinh ranh và đầy những mưu mẹo, Nữ Hoàng Cleopatra. Sự quyến rũ của bạn sẽ thành lập những liên minh bền vững với những người lãnh đạo mạnh mẽ nhất trên thế giới. Giữ bằng hữu của mình sát bên cạnh và bạn sẽ thấy mình không thể bị động đến, cùng với vinh quang của Ai Cập cổ kính để chiến thắng cả thế giới.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
-			<Text>Be kind, Gandhi Bapu, and you will find yourself surrounded by true friends. Keep the Indian people safe, guarding them with magnificent elephant warriors. Your faith will guide you to peace and harmony. Keep your mind open, and be the change you want to see in the world.</Text>
+			<Text>Hãy tỏ ra tử tế, Gandhi Bapu, và bạn sẽ thấy bản thân mình được bao quanh bởi những người bạn chân thật. Giữ cho những người Ấn Độ được an toàn, bảo vệ họ bằng những chiến binh cưỡi voi hào hoa. Lòng tin của bạn sẽ dẫn đường bạn đến hòa bình và sự hòa hợp. Giữ cho đầu óc luôn tỉnh táo, và hãy trở thành sự thay đổi mà bạn muốn thấy trong thế giới.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
-			<Text>Much rests upon your shoulders, King Gilgamesh. Your own people, and many people of the world, look to you as leader. But you are more than a mere man, and the weight of the world will never cause you to waver. Encourage the people of Sumer to settle the fertile lands along rivers, and be sure to choose your allies carefully - for there will be many vying for a piece of your strength. Venture forth, for it is time to begin your epic tale.</Text>
+			<Text>Rất nhiều thứ đè nặng trên vai bạn, Vua Gilgamesh. Người dân của bạn, và rất nhiều người dân trên thế giới, xem bạn như là một người lãnh đạo. Nhưng bạn còn hơn cả chỉ là một người đàn ông, và gánh nặng của thế giới sẽ không bao giờ khiến bạn lung lay. Khích lệ người dân của Sumer định cư trên những mảnh đất màu mỡ dọc con sông, và hãy chắc chắn rằng bạn chọn đồng minh kỹ lưỡng - vì sẽ có rất nhiều cuộc tranh đua để giành lấy một phần sức mạnh của bạn. Hãy mạo hiểm vì đây là lúc để bắt đầu câu chuyện sử thi của mình.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
-			<Text>Gorgo, Queen of Sparta; glory to you and your loyal hoplite armies! Greece savors the blessings from Ares that every victory brings. And your people applaud your thoughtful governance and cultural marvels. Stand proud, for the legacy of Greece, and of your achievements, will be told over and over again for generations.</Text>
+			<Text>Gorgo, Nữ Hoàng của Sparta; vinh quang thuộc về bạn và đội quân trung thành của bạn! Hy Lạp được ban phước lành rằng sẽ có tất cả chiến thắng từ Ares. Và người dân của bạn tán thưởng sự thống lĩnh chu đáo và nền văn hóa kỳ diệu của bạn. Tự hào đi, vì di sản của Hy Lạp, và những thành tựu của bạn, sẽ được lưu truyền từ thế hệ này sang thế hệ khác.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
-			<Text>All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore.  May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.</Text>
+			<Text>Tất cả mọi người đều lo sợ khi các con tàu của bạn tiếp cận, Vua Harald của xứ Norway, Tiếng Sét của phương Bắc. Các con tàu lớn của bạn thống trị những con sóng, luôn sẵn sàng để thả những đội quân Berserker trên những bờ biển không ngờ đến. Cầu cho Odin ban phước cho vương quốc của bạn và cầu cho các thi sĩ luôn hát về những chiến thắng của những chiến binh hùng mạnh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HOJO">
-			<Text>The great wave of Buddhism follows you, Shikken of Japan, Hojo Tokimune. Your people truly understand what it is to practice balance, and even your finest samurai will be well-learned and spiritually apt. Be strong, embrace the divine wind, and you will reach enlightenment.</Text>
+			<Text>Làn sóng lớn của Phật giáo luôn theo sát bạn, Lãnh Chúa của Nhật Bản, Hojo Tokimune. Người dân của bạn thật sự hiểu thế nào là luyện tập một cách cân bằng, và ngay cả những Samurai giỏi nhất của bạn cũng là người có học vấn và có năng khiếu. Hãy mạnh mẽ lên, vượt qua bão tố, và bạn sẽ được giác ngộ.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
-			<Text>Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease.  Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.</Text>
+			<Text>Đất Mẹ ban cho bạn rất nhiều món quà, Vua Mvemba a Nzinga. Người dân của bạn biết rõ từng khu rừng nhỏ và từng khu rừng nhiệt đới dày đặc như là nhà của họ vậy, và băng qua chúng một cách dễ dàng. Điều tuyệt vời là những món quà đến từ các du khách từ những mảnh đất xa xôi. Giữ cho đầu óc tỉnh táo, vì nguồn cảm hứng của thế giới bao la sẽ giúp cho người dân của bạn tạo ra những nghệ thuật quyền lực và uy nghi.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRO">
 			<Text>Your people look to you, Emperor Pedro II, to lead Brazil onto the world stage. Use your reputation as a patron of artists, scientists, and engineers to draw the greatest minds to our fertile home. For it is in the lush rainforests, teeming with life, that your people thrive. Watch them in the Carnival as they dance the samba in celebration of your great feats, Pedro the Magnanimous.</Text>
@@ -1412,40 +1412,40 @@
 			<Text>Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_ANCIENT_DESCRIPTION">
-			<Text>Từ những rung động đầu tiên ở dưới nước cho đến những sinh vật thời kỳ đồ đá. Con người thực hiện những bước đi đầu tiên và bắt đầu cuộc tìm kiếm lớn nhất..</Text>
+			<Text>Từ những bước chuyển mình đầu tiên của sự sống dưới đáy biển sâu...cho đến những con quái vật khổng lồ của thời đổ đá...đến khi con người đi những bước thẳng mình đầu tiên, bạn đã đi rất xa. Và bây giờ sứ mệnh vĩ đại của bạn đã bắt đầu: từ thuở hoang sơ của nền văn minh nhân loại tiến về phía những vì sao.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
-			<Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
+			<Text>Từ những bước đầu khiêm tốn, bạn đã cho thấy sự phát triển đáng ghi nhận. Hãy bỏ lại đồng thau để đến với sắt thép, cai trị với ngựa và kiếm. Những vì tinh tú trên bầu trời đã bắt đầu lộ ra những bí mật, một bộ sưu tập của thiên đàng, thứ sẽ chắp cánh cho trái tim của chúng ta và dìu dắt ta đến những bờ biển mới lạ.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
-			<Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.</Text>
+			<Text>Bạn đã xây dựng những thành phố vĩ đại từ đá, chứng kiến những đế quốc sơ khai trỗi dậy và lụi tàn. Sớm thôi, bạn sẽ đứng dưới những ngọn tháp, sánh vai với những hiệp sĩ can đảm của bạn. Đó là nơi mà câu chuyện về người dân của bạn sẽ được viết nên. Cũng giống như một cậu bé học nghề tập múa kiếm, bạn cũng sẽ trưởng thành hơn để hiểu vị trí của bạn trên thế giới này.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
-			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
+			<Text>Những thế lực mới lên tiếng, từ những thùng súng trường đến những bông hoa lửa trên bầu trời. Ngay cả những từ ngữ tưởng chừng như im lặng trên những ấn phẩm mới in cũng chứa đựng những sự thay đổi to lớn. Thế giới của chúng ta, từng một thời bao la và huyền bí, đã trở nên nhỏ hơn và thân thuộc hơn. Tuy vậy, luôn luôn có những câu hỏi cần giải đáp, niềm tin sẽ được thử thách, và bản sắc dân tộc sẽ được hình thành.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
-			<Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
+			<Text>Tiếng gầm chắc nịch của máy móc, mùi hương chua chát của khói, tầm nhìn khuất sau lớp tro và muội than - đây là những dấu hiệu của sự chuyển giao thời đại. Sức quyến rũ của các bước tiến khoa học và văn hóa chính là động cơ chèo lái vương quốc của bạn tiến về phía trước. Giờ đây, thử thách của bạn là duy trì sự cân bằng yếu ớt giữa trái đất và con người, giữa hòa bình và chiến tranh.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_MODERN_DESCRIPTION">
-			<Text>In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>
+			<Text>Từ thuở xa xưa, huyền thoại về những người biết bay đã được cất lên. Và ngày nay, bạn đang tiến gần đến việc biến những huyền thoại đó thành sự thật. Với đường bay và những phương tiện giao thông liên lạc mới, bạn có thể tạo ra một thới giới nhỏ và gần gũi. Nhưng cái giá phải trả ra sao? Những tư tưởng ganh đua của chúng ta về việc làm thế nào để thống trị và làm thế nào để sống đang tiềm ẩn nguy cơ mang đến sự xung đột trên toàn cầu. Bạn phải chọn con đường bạn cho là đúng đắn để vượt qua tiếng vang nổi dậy của tư tưởng hùng biện.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_ATOMIC_DESCRIPTION">
-			<Text>New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>
+			<Text>Những biên giới khám phá mới làm giàu tri thức của chúng ta, từ những nguyên tử tí hon đến sự choáng ngợp ngoài vũ trụ. Những bí ẩn trước kia bị phớt lờ đã gần hơn bao giờ hết để làm sáng tỏ những bí mật sâu thẳm nhất, vượt qua những gì chúng ta có thể chứng kiến dưới con mắt trần tục. Bạn sẽ chọn cách sử dụng kiến thức này ra sao, và đẩy lùi bóng đêm sâu thẳm mà chúng ta chưa từng chạm trán.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_INFORMATION_DESCRIPTION">
-			<Text>A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>
+			<Text>Thế giới thông tin nằm trong lòng bàn tay của bạn, những mạng lưới dành cho việc liên lạc chớp nhoáng mở rộng địa cầu. Tuy nhiên một tầm nhìn chung cho tương lai của chúng ta chưa bao giờ được xây dựng. Chúng ta ganh đua về công nghệ, văn hóa, và chính trị. Chúng ta có những vũ khí hủy diệt có thể phá hủy hành tinh của chúng ta. Hãy dẫn dắt chúng ta cẩn thận, nhưng mạnh dạn, và xây dựng một cộng đồng toàn cầu để đứng vững trong những ngày tháng sắp tới.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DISABLE">
-			<Text>Disable advisor.</Text>
+			<Text>Tắt cố vấn</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
-			<Text>New to turn-based strategy.</Text>
+			<Text>Mời từ chiến thuật theo lượt.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV">
-			<Text>New to Civilization</Text>
+			<Text>Mới từ Civilization</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
-			<Text>New to Civilization VI</Text>
+			<Text>Mới từ Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_LIMIT_TURNS_NAME">
 			<Text>Giới hạn lượt</Text>
@@ -1484,7 +1484,7 @@
 			<Text>Tải từ Save đã có.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_PLAY_NOW_TT">
-			<Text>Chơi với châu lục nhỏ và người lãnh đạo ngẫu nhiên.</Text>
+			<Text>Chơi với lục địa nhỏ và người lãnh đạo ngẫu nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_CREATE_GAME_TT">
 			<Text>Tạo game mới với tùy chọn của chính bạn.</Text>

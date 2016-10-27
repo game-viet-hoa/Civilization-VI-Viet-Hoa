@@ -451,10 +451,10 @@
 		</Row>
 		<!-- Discovery Notifications -->
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
-			<Text>Tìm thấy châu lục mới</Text>
+			<Text>Tìm thấy lục địa mới</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
-			<Text>Tìm thấy châu lục mới. Chúng tôi gọi nó là {1_ContinentName}.</Text>
+			<Text>Tìm thấy lục địa mới. Chúng tôi gọi nó là {1_ContinentName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
 			<Text>ĐÃ KHÁM PHÁ LÀNG BỘ LẠC</Text>
@@ -663,7 +663,7 @@
 			<Text>di chuyển quân tới biên giới</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
-			<Text>dừng chuyển đổi thành phố</Text>
+			<Text>dừng cải giáo thành phố</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
 			<Text>dừng di dân lân cận</Text>

@@ -1719,7 +1719,7 @@
 			<Text>Tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CONTINENT_LENS">
-			<Text>Châu lục</Text>
+			<Text>Lục địa</Text>
 		</Row>
 		<Row Tag="LOC_HUD_APPEAL_LENS">
 			<Text>Hấp dẫn</Text>
@@ -1740,7 +1740,7 @@
 			<Text>Hiển thị sự phân bố tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CONTINENT_LENS_TOOLTIP">
-			<Text>Hiển thị phạm vi địa lý của mỗi châu lục.</Text>
+			<Text>Hiển thị phạm vi địa lý của mỗi lục địa.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_APPEAL_LENS_TOOLTIP">
 			<Text>Hiển thị sự hấp dẫn của mỗi ô.</Text>
@@ -2877,7 +2877,7 @@
 			<Text>Chiến tranh bất ngời với một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DENOUNCED_FRIEND">
-			<Text>Lên án một người bạn</Text>
+			<Text>Lăng mạ một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_FRIENDHIP_With_FRIEND">
 			<Text>Tuyên bố tình hữu nghị với một người bạn</Text>
@@ -2889,7 +2889,7 @@
 			<Text>Chiến tranh bất ngời với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DENOUNCED_ENEMY">
-			<Text>Lên án kẻ địch</Text>
+			<Text>Lăng mạ kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_FRIENDSHIP_WITH_ENEMY">
 			<Text>Tuyên bố tình hữu nghị với kẻ địch</Text>
@@ -2988,10 +2988,10 @@
 			<Text>Thay đổi phòng thủ: {1_Amount}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_CONTINENT_NONE">
-			<Text>Châu lục: không</Text>
+			<Text>Lục địa: không</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_CONTINENT">
-			<Text>Châu lục: {1_Name}</Text>
+			<Text>Lục địa: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLAYER_ID">
 			<Text>Người chơi {1_PlayerId}</Text>
@@ -3362,7 +3362,7 @@
 			<Text>Thành phố:</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_FOLLOWERS">
-			<Text>Người theo:</Text>
+			<Text>Tín đồ:</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CITIES_PANTHEON_BELIEF">
 			<Text>Tín ngưỡng của vị thần:</Text>

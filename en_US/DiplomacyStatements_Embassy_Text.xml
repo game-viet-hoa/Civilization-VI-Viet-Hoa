@@ -4,17 +4,17 @@
 	<BaseGameText>
 		<!-- AI accepts from human -->
 		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY">
-			<Text>Chúng tôi rất vui khi cho phép bạn xây dựng đại sứ quán tại thủ đô.</Text>
+			<Text>Ta rất vui khi cho phép ngài xây dựng đại sứ quán tại thủ đô.</Text>
 		</Row>
 		
 		<!-- AI rejects from human -->
 		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY">
-			<Text>Tạm thời tôi không quan tâm.</Text>
+			<Text>Tạm thời ta không quan tâm.</Text>
 		</Row>
 
 		<!-- AI requests from human -->
 		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY">
-			<Text>Bạn có cho phép đại sứ quán ở trong thủ đô của bạn?</Text>
+			<Text>Ngài có cho phép xây dựng đại sứ quán ở trong thủ đô?</Text>
 		</Row>
 
 		<!-- Human accepts AI, AI responds -->
@@ -29,10 +29,10 @@
 
 		<!-- Choices -->
 		<Row Tag="LOC_DIPLO_EMBASSY_CHOICE_NEGATIVE">
-			<Text>Thủ đô chúng tôi tạm thời không chấp nhận những cư dân mới tại thời điểm này.</Text>
+			<Text>Thủ đô của ta tạm thời không chấp nhận những cư dân mới tại thời điểm này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_EMBASSY_CHOICE_POSITIVE">
-			<Text>Đại sứ quán của bạn được chào đón trong thủ đô của chúng tôi.</Text>
+			<Text>Đại sứ quán của ngài được chào đón trong thủ đô của ta.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

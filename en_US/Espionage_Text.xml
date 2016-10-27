@@ -173,7 +173,7 @@
 			<Text>CANCEL</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGECHOOSER_CHOOSE_MISSION">
-			<Text>CHOOSE MISSION</Text>
+			<Text>CHỌN NHIỆM VỤ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGECHOOSER_GAIN_SOURCES_ACTIVE">
 			<Text>Gain Sources Active! ({1_Turns}[Icon_Turn])</Text>
@@ -331,22 +331,22 @@
 		</Row>
 		<!-- ==================== UnitPanel - Espionage ==================== -->
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_LOCATED_IN">
-			<Text>Located in</Text>
+			<Text>Đặt ở</Text>
 		</Row>
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_MORE_TURNS">
-			<Text>{1_RemainingTurns} more {1_RemainingTurns : plural 1?turn; other?turns;}</Text>
+			<Text>Còn {1_RemainingTurns} lượt</Text>
 		</Row>
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_AWAITING_ASSIGNMENT">
-			<Text>Awaiting Assignment...</Text>
+			<Text>Đang chờ chuyển...</Text>
 		</Row>
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_SPY_RANK">
 			<Text>{1_RankName} (Level {2_RankLevel})</Text>
 		</Row>
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_CANCEL_MISSION">
-			<Text>Cancel Mission</Text>
+			<Text>Hủy nhiệm vụ</Text>
 		</Row>
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_CHOOSE_MISSION">
-			<Text>Choose Mission</Text>
+			<Text>Chọn nhiệm vuj</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
