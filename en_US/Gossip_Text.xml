@@ -156,7 +156,7 @@
 			<Text>{1_CivName} lăng mạ {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_EMBASSY">
-			<Text>đại sứ quá mới trong thủ đô {1_CivName} mà đến từ {2_CivName}.</Text>
+			<Text>đại sứ quá mới trong Thủ Đô {1_CivName} mà đến từ {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_ERA_CHANGED">
 			<Text>{1_CivName} đã chuyển từ thời {2_OldEra} sang {3_NewEra}.</Text>
@@ -246,10 +246,10 @@
 			<Text>{1_CivName} bị đánh cắp vàng trong {2_CityName} bởi gián điệp không rõ.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_DETECTED">
-			<Text>{1_CivName} bị đánh cắp công nghệ {2_CityName} bởi gián điệp từ {3_SpyPlayer}.</Text>
+			<Text>{1_CivName} bị đánh cắp thúc dẩy công nghệ {2_CityName} bởi gián điệp từ {3_SpyPlayer}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_UNDETECTED">
-			<Text>{1_CivName} had technology plans stolen in {2_CityName} bởi gián điệp không rõ.</Text>
+			<Text>{1_CivName} bị đánh cắp thúc dẩy công nghệ {2_CityName} bởi gián điệp không rõ.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_TRADE_DEAL">
 			<Text>{1_CivName} giao dịch thương mại với {2_CivName}.</Text>

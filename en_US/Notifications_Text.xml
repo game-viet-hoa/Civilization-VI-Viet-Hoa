@@ -184,16 +184,16 @@
 			<Text>Địch đánh cắp thành công vàng</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
-			<Text>{1_unitName} của bạn trong {2_CityName} đánh cắp thành công công nghệ {3_Tech}.</Text>
+			<Text>{1_unitName} của bạn trong {2_CityName} đánh cắp thành công thúc đẩy công nghệ {3_Tech}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
-			<Text>Đánh cắp thành công công nghệ</Text>
+			<Text>Đánh cắp thành công thúc đẩy công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
-			<Text>Gián điệp địch trong {1_CityName} đánh cắp thành công công nghệ {2_Tech}.</Text>
+			<Text>Gián điệp địch trong {1_CityName} đánh cắp thành công thúc đẩy công nghệ {2_Tech}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
-			<Text>Địch đánh cắp công nghệ</Text>
+			<Text>Địch đánh cắp thúc đẩy công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
 			<Text>{1_unitName} của bạn trong {2_CityName} đào tạo thành công một quân kháng chiến muốn lấy lại thành phố của họ.</Text>
@@ -283,7 +283,7 @@
 			<Text>Phản gián điệp {1_unitName} của bạn là công cụ chiến thắng cho lực lượng an ninh của chúng tôi.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
-			<Text>Gián điẹp {1_unitName} của bạn đã trốn thoát và sẽ trở lại thủ đô sau {2_turns} lượt.</Text>
+			<Text>Gián điẹp {1_unitName} của bạn đã trốn thoát và sẽ trở lại Thủ Đô sau {2_turns} lượt.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
 			<Text>Gián điệt trốn thoát</Text>
@@ -579,16 +579,16 @@
 			<Text>Tường thành của thành phố {1_CityName} đã bị phá bở lực lượng từ {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
-			<Text>Thủ đô đã bị chiếm</Text>
+			<Text>Thủ Đô đã bị chiếm</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
-			<Text>Thủ đô của {1_CivName} đã bị chiếm bởi {2_CivName}!</Text>
+			<Text>Thủ Đô của {1_CivName} đã bị chiếm bởi {2_CivName}!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
 			<Text>Thủ dô đã được đòi lại</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
-			<Text>{1_CivName} đã đòi lại được thủ đô của họ.</Text>
+			<Text>{1_CivName} đã đòi lại được Thủ Đô của họ.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
 			<Text>Kẻ địch trong biên giới</Text>

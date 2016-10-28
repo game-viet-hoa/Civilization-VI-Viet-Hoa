@@ -1045,7 +1045,7 @@
 			<Text>Nước {1_Water}, Kiến trúc {2_Buildings}, Công trình {3_Improvements}, Vùng ngoại ô {4_Districts}, Hành chính {5_Civics}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
-			<Text>Nhà ở thủ đô</Text>
+			<Text>Nhà ở Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_BUILDINGS">
 			<Text>Nhà ở từ kiến trúc:</Text>
@@ -1078,7 +1078,7 @@
 			<Text>trong {1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_IS_CAPITAL">
-			<Text>Đây là thủ đô.</Text>
+			<Text>Đây là Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_LEAVE_CITY_VIEW">
 			<Text>Leave City View</Text>
@@ -1288,10 +1288,10 @@
 			<Text>None produced</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YIELD_FOCUSING">
-			<Text>Focusing Citizens on {1_YieldName}.</Text>
+			<Text>Toàn dân tập trung vào {1_YieldName}.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YIELD_IGNORING">
-			<Text>Citizens ignoring {1_YieldName}.</Text>
+			<Text>Dân từ chối {1_YieldName}.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YOU">
 			<Text>Bạn</Text>
@@ -1855,13 +1855,13 @@
 		</Row>
 		<!-- Boost Text -->
 		<Row Tag="LOC_BOOST_TO_BOOST">
-			<Text>Để tăng:</Text>
+			<Text>Để thúc đẩy:</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_BOOSTED">
-			<Text>ĐÃ TĂNG:</Text>
+			<Text>ĐÃ THÚC ĐẨY:</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_BOOSTED_POPUP">
-			<Text>ĐÃ TĂNG</Text>
+			<Text>ĐÃ THÚC ĐẨY</Text>
 		</Row>
 		<!-- Tech Boost Text -->
 		<Row Tag="LOC_TECH_BOOST_GOODYHUT">
@@ -2476,7 +2476,7 @@
 			<Text>Bòn rút ngân quỹ</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_SPY_STEAL_TECH_BOOST_DESCRIPTION">
-			<Text>Ăn cắp công nghệ</Text>
+			<Text>Ăn cắp thúc đẩy công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_SPY_TRAVEL_NEW_CITY_DESCRIPTION">
 			<Text>Đi tới thành phố mới</Text>
@@ -2793,10 +2793,10 @@
 			<Text>[ICON_Movement] Di chuyển: {1_Movement}</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CAN_BE_BOOSTED">
-			<Text>[COLOR:Green]Có thể TĂNG[ENDCOLOR]</Text>
+			<Text>[COLOR:Green]Có thể THÚC ĐẨY[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_TECH_HAS_BEEN_BOOSTED">
-			<Text>[COLOR:Civ6Blue]ĐÃ TĂNG[ENDCOLOR]</Text>
+			<Text>[COLOR:Civ6Blue]ĐÃ THÚC ĐẨY[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_UNLOCKS">
 			<Text>Mở khóa:</Text>
@@ -3198,7 +3198,7 @@
 			<Text>NỀN VĂN MINH</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_CAPITAL_HEADER">
-			<Text>THỦ ĐÔ</Text>
+			<Text>Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_GOVERNMENT_HEADER">
 			<Text>CHÍNH QUYỀN</Text>
@@ -3691,10 +3691,10 @@
 			<Text>Has original [ICON_Capital] Capital.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]THỐNG TRỊ[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ đô của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
+			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]THỐNG TRỊ[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ Đô của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_SUMMARY">
-			<Text>Đã chiếm {1_NumCaptured : plural 1?{1_NumCaptured} Thủ đô; other?{1_NumCaptured} Thủ đô;}</Text>
+			<Text>Đã chiếm {1_NumCaptured : plural 1?{1_NumCaptured} Thủ Đô; other?{1_NumCaptured} Thủ Đô;}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_RELIGION_CIVS_CONVERTED">
 			<Text>Tôn giáo đã chuyển đổi</Text>
@@ -4004,10 +4004,10 @@
 			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TURNS_WAR">
-			<Text>Currently at war.[NEWLINE](Peace possible in {1_Turns} {1_Turns:plural 1?turn; other?turns;}.)</Text>
+			<Text>Hiện tại đang chiến trang.[NEWLINE](Hòa bình có thể trong {1_Turns} lượt.)</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TURNS_PEACE">
-			<Text>Recently was at war.[NEWLINE](Declaring war is possible in {1_Turns} {1_Turns:plural 1?turn; other?turns;}.)</Text>
+			<Text>Gần đây có chiến trang.[NEWLINE](Có thể tuyên bố chiến tranh trong {1_Turns} lượt.)</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TYPE">
 			<Text>Loại:</Text>
@@ -4086,22 +4086,22 @@
 			<Text>hoặc tuyển dụng tức thì với:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PASS_DETAILS">
-			<Text>If you do not wish to recruit this [ICON_GreatPerson] Great Person, and would rather save your [ICON_GreatPerson] Great Person points for a future opportunity, you can choose to pass. Passing costs {1_RejectCost} [ICON_GreatPerson] Great Person points and cannot be undone. The points spent will apply as a discount to the [ICON_GreatPerson] Great Person, allowing other players to acquire it for less points.</Text>
+			<Text>Nếu bạn không muốn tuyển dụng [ICON_GreatPerson] Vĩ Nhân này, và để có thể tiết kiệm điểm [ICON_GreatPerson] Vĩ Nhân cho tương lai, bạn có thể chọn Bỏ Qua. Passing costs {1_RejectCost} [ICON_GreatPerson] Great Person points and cannot be undone. The points spent will apply as a discount to the [ICON_GreatPerson] Great Person, allowing other players to acquire it for less points.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_DETAILS">
-			<Text>You can spend {1_FaithCost} [ICON_Faith] Lòng tin on patronage and your current [ICON_GreatPerson] Great Person points to immediately earn this [ICON_GreatPerson] Great Person. The amount of [ICON_Faith] Lòng tin needed is based on the difference between the number of points you have and the points needed to recruit the [ICON_GreatPerson] Great Person normally.[NEWLINE][NEWLINE]You cannot perform this action if you or another player already has enough points to recruit the [ICON_GreatPerson] Great Person, or if you have previously passed over the [ICON_GreatPerson] Great Person.</Text>
+			<Text>Bạn có thể bỏ {1_FaithCost} [ICON_Faith] Lòng tin để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Faith] Lòng tin cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để tuyển dụng [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để tuyển dụng [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_DETAILS">
-			<Text>You can spend {1_GoldCost} [ICON_Gold] Vàng on patronage and your current [ICON_GreatPerson] Great Person points to immediately earn this [ICON_GreatPerson] Great Person. The amount of [ICON_Gold] Vàng needed is based on the difference between the number of points you have and the points needed to recruit the [ICON_GreatPerson] Great Person normally.[NEWLINE][NEWLINE]You cannot perform this action if you or another player already has enough points to recruit the [ICON_GreatPerson] Great Person, or if you have previously passed over the [ICON_GreatPerson] Great Person.</Text>
+			<Text>Bạn có thể bỏ {1_GoldCost} [ICON_Gold] Vàng để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Gold] Vàng cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để tuyển dụng [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để tuyển dụng [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUIT_DETAILS">
-			<Text>You have accumulated enough [ICON_GreatPerson] Great Person points of this type to meet its cost, and can now spend {1_RecruitCost} points to recruit this [ICON_GreatPerson] Great Person, immediately spawning it in your [ICON_Capital] Capital, or for the Đô đốc vĩ đại, your nearest coastal city.</Text>
+			<Text>Bạn đã tích lũy đủ điểm [ICON_GreatPerson] Vĩ nhân của loại này. Và bây giờ có thể sử dụng {1_RecruitCost} điểm để tuyển dụng [ICON_GreatPerson] Vĩ nhân này, ngay lập tức người sẽ xuất hiện trong [ICON_Capital] Thủ Đô của bạn, hoặc Đô đốc vĩ đại sẽ ở thành phố ven biển gần nhất.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_POINT_DETAILS">
-			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} {1_PointsPerTurn : plural 1?point; other?points;} per [ICON_Turn] Turn.[NEWLINE][NEWLINE]Points come primarily from districts and buildings, but can also come from world wonders and policies.</Text>
+			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} điểm cho mỗi [ICON_Turn] lượt.[NEWLINE][NEWLINE]Điểm có được chủ yếu từ khu vực và kiến trúc, nhưng cũng có thể từ kỳ quan thế giới và chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON">
-			<Text>Cannot Recruit</Text>
+			<Text>Không thể tuyển dụng</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_ALREADY_EARNED_MAXIMUM">
 			<Text>You have already earned the maximum allowed number of this type of Great Person.</Text>
@@ -4113,7 +4113,7 @@
 			<Text>Another civilization has an active claim on this Great Person.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_ALREADY_REJECTED">
-			<Text>You have already chosen to Pass on this Great Person.</Text>
+			<Text>Bạn đã chọn Bỏ Qua Vĩ Nhân này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_DISALLOWED_BY_CIV_TRAIT">
 			<Text>Your civilization trait ({1_TraitName}) prevents you from earning this [ICON_GreatPerson] Great Person.</Text>
@@ -4749,7 +4749,7 @@
 			<Text>Đói</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURIES_AND_BONUSES">
-			<Text>Xa xỉ và tiền thưởng</Text>
+			<Text>Xa xỉ và thưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURY_RESOURCES_AND_BONUSES">
 			<Text>Luxury Resources and bonuses</Text>
@@ -5051,10 +5051,10 @@
 			<Text>{Value : number +#.#;-#.#} from {1_ProjectName}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_TRADE_UI_SELECT_TEXT">
-			<Text>Select items from your inventory to propose a trade.</Text>
+			<Text>Chọn những thứ trong kho của bạn để đề xuất giao dịch.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_TRADE_UI_SELECT_THEIR_TEXT">
-			<Text>Select items from their inventory to propose a trade.</Text>
+			<Text>Chọn những thứ trong kho của họ để đề xuất giao dịch.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ANOTHER_DEAL_WITH_PLAYER_PENDING">
 			<Text>Another deal with this player is pending.</Text>

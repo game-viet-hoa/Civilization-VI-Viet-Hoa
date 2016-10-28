@@ -3,37 +3,37 @@
 	<BaseGameText>
 		<!-- Ruleset -->
 		<Row Tag="LOC_RELIGIOUS_COMBAT_RULESET_TITLE">
-			<Text>Hallowed Ground</Text>
+			<Text>Vùng đất Thiêng</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIOUS_COMBAT_RULESET_TEASER">
-			<Text>Battle for holy domination in this religion-focused scenario set in the Medieval Era. Lasts until the Industial Era.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Holy Victory - Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]First Holy Site grants a free Great Prophet.</Text>
+			<Text>Chiến đấu để thống trị đạo giáo trong một màn chơi tập trung vào tôn giáo được bắt đầu trong thời đại Trung cổ. Kéo dài đến thời đại Công Nghiệp.[NEWLINE]Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chiến Thắng Thần Thánh - Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)[NEWLINE]Thay đổi cách chơi[NEWLINE][ICON_Bullet]Khu linh thiêng đầu tiên ban cho một nhà Tiên tri vĩ đại.</Text>
 		</Row>
 		<!-- Victories  -->
 		<Row Tag="LOC_RELIGIOUS_COMBAT_VICTORY_TITLE">
-			<Text>Holy Victory</Text>
+			<Text>Chiến Thắng Thần Thánh</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIOUS_COMBAT_VICTORY_DESC">
-			<Text>Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)</Text>
+			<Text>Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)</Text>
 		</Row>	
 		
 		<!-- Mod Package Text -->
 		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_TITLE">
-			<Text>Multiplayer Scenario: Hallowed Ground</Text>
+			<Text>Màn chơi dành cho đa người chơi: Vùng đất Thiêng</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_TEASER">
-			<Text>Battle for holy domination in this religion-focused scenario set in the Medieval Era.  Lasts until the Industial Era.</Text>
+			<Text>Chiến đấu để thống trị đạo giáo trong một màn chơi tập trung vào tôn giáo được bắt đầu trong thời đại Trung cổ. Kéo dài đến thời đại Công Nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_DESCRIPTION">
-			<Text>Victory Conditions[NEWLINE]Holy Victory - Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)</Text>
+			<Text>Điều kiện chiến thắng[NEWLINE]Chiến Thắng Thần Thánh - Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_AUTHORS">
 			<Text>Firaxis</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_RELIGIOUS_HAVE_MOST_FOLLOWERS_PROGRESS">
-			<Text>Religious Followers {NumFollowers} {StatusIcon}</Text>
+			<Text>Tín Đồ Sùng Đạo {NumFollowers} {StatusIcon}</Text>
 		</Row>
 		<Row Tag="LOC_RC_GAME_ERA_LIMIT_REACHED_PROGRESS">
-			<Text>Reached Industrial Era {StatusIcon}</Text>
+			<Text>Đã đạt đến Thời Đại Công Nghiệp {StatusIcon}</Text>
 		</Row>	
 
 	</BaseGameText>

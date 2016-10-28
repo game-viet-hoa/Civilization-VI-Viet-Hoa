@@ -110,10 +110,10 @@
 			<Text>Gán {Amount} {YieldType} ngay lập tức.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
-			<Text>Tự tạo thời khắc [ICON_TechBoosted] cho công nghệ Máy tính.</Text>
+			<Text>Thúc đẩy công nghệ Máy tính.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
-			<Text>Tự tạo thời khắc [ICON_TechBoosted] cho {Amount} {Amount : plural 1?công nghệ; other?công nghệ;} ngẫu nhiên từ thời Hiện đại.</Text>
+			<Text>Thúc đẩy cho {Amount} {Amount : plural 1?công nghệ; other?công nghệ;} ngẫu nhiên từ thời Hiện đại.</Text>
 		</Row>
 		<!-- Generals -->
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
@@ -287,7 +287,7 @@
 			<Text>Cho phép xây thêm một khu vực có giới hạn dân số nhiều hơn.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
-			<Text>Thưởng [ICON_TechBoosted] công nghệ In ấn.</Text>
+			<Text>Thúc đẩy [ICON_TechBoosted] công nghệ In ấn.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
 			<Text>Trợ cấp {Amount} [ICON_Production] Sản phẩm đối với kiến trúc kỳ quan.</Text>
@@ -326,7 +326,7 @@
 			<Text>+{Amount}% [ICON_Production] Sản phẩm đối với dự án Chạy đua không gian.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
-			<Text>Thưởng [ICON_TechBoosted] cho công nghệ Tên lửa.</Text>
+			<Text>Thúc đẩy công nghệ Tên lửa.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
 			<Text>+{Amount} [ICON_Housing] Nhà ở cho thành phố này.</Text>
@@ -351,7 +351,7 @@
 		</Row>
 		<!-- Merchants -->
 		<Row Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
-			<Text>Hỗ trợ {Amount} {Amount : plural 1?sao chép; other?sao chép;}cho tài nguyên quý trên ô đất của [ICON_Capital] Thủ đô.</Text>
+			<Text>Hỗ trợ {Amount} {Amount : plural 1?sao chép; other?sao chép;}cho tài nguyên quý trên ô đất của [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH_SMALL">
 			<Text>Hỗ trợ {Amount} [ICON_Faith] Lòng tin.</Text>
@@ -448,16 +448,16 @@
 		</Row>
 		<!-- Scientists -->
 		<Row Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Cổ đại hoặc Trung cổ.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Cổ đại hoặc Trung cổ.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
-			<Text>Mở khóa một nửa công nghệ Toán học và một công nghệ ngẫu nhiên thời Trung cổ.</Text>
+			<Text>Thúc đẩy công nghệ Toán học và một công nghệ ngẫu nhiên thời Trung cổ.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MATHTECHBOOST">
-			<Text>Mở khóa một nửa công nghệ Toán học.</Text>
+			<Text>Thúc đẩy công nghệ Toán học.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LIBRARY">
 			<Text>Xây tức thì một thư viện trong thành phố.</Text>
@@ -472,7 +472,7 @@
 			<Text>+{Amount} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
 			<Text>[ICON_Faith] Lòng tin của Khu vực linh thiêng liền kề thưởng [ICON_Science] Khoa học bằng như vậy.</Text>
@@ -481,13 +481,13 @@
 			<Text>Thưởng {Amount} [ICON_Faith] Lòng tin.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
-			<Text>Mở khóa một nửa 2 công nghệ và 1 Hành chính thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Thúc đẩy 2 công nghệ và 1 Hành chính thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
-			<Text>Mở khóa một nửa 1 Hành chính thuộc thời Trung cổ hoặc Phục hưng.</Text>
+			<Text>Thúc đẩy 1 Hành chính thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
 			<Text>Thưởng 250 [ICON_Science] Khoa học (ở tốc độ bình thường) cho mỗi Núi liền kề.</Text>
@@ -502,7 +502,7 @@
 			<Text>Lập tức xây trường đại học và thư viện trong khu vực. Các trường đại học cung cấp +2 [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Phục hưng hoặc Công nghiệp.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Phục hưng hoặc Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
 			<Text>Áp dụng {Amount} điểm [ICON_GreatPerson] Vĩ nhân miễn phí đối với tất cả tuyển dụng Vĩ nhân hiện tại và tương lai.</Text>
@@ -511,16 +511,16 @@
 			<Text>Thưởng 500 [ICON_Science] Khoa học (ở tốc độ thường) cho mỗi kỳ quan thiên nhiên ở đây hoặc liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
-			<Text>Mở khóa một nửa công nghệ Hóa học và 1 công nghệ từ thời Công nghiệp.</Text>
+			<Text>Thúc đẩy công nghệ Hóa học và 1 công nghệ từ thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
-			<Text>Mở khóa một nửa công nghệ Máy tính và 1 công nghệ từ thời Hiện đại.</Text>
+			<Text>Thúc đẩy công nghệ Máy tính và 1 công nghệ từ thời Hiện đại.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Công nghiệp.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
-			<Text>Mở khóa một nửa công nghệ Hóa học.</Text>
+			<Text>Thúc đẩy công nghệ Hóa học.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
 			<Text>Thư viện +{Amount} [ICON_Science] Khoa học.</Text>
@@ -532,13 +532,13 @@
 			<Text>Các trường đại học +{Amount} [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Hiện đại hoặc Nguyên tử.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Hiện đại hoặc Nguyên tử.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_REVEAL_OIL">
 			<Text>Tiết lộ [ICON_RESOURCE_OIL] Dầu mà không cần công nghệ bình thường.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Công nghiệp hoặc hiện đại.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Công nghiệp hoặc hiện đại.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
 			<Text>Thưởng {Amount} [ICON_Science] Khoa học cho mỗi Rừng nhiệt đới ở đây hoặc liền kề.</Text>
@@ -550,10 +550,10 @@
 			<Text>Thưởng {Amount} [ICON_Science] Khoa học cho mỗi [ICON_GreatWork_Artifact] Cổ vật trong thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
-			<Text>Mở khóa một nửa {Amount} công nghệ ngẫu nhiên thuộc thời Nguyên tử hoặc Thông tin.</Text>
+			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Nguyên tử hoặc Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
-			<Text>Mở khóa một nửa công nghệ tất cả công nghệ từ  thời Thông tin.</Text>
+			<Text>Thúc đẩy công nghệ tất cả công nghệ từ  thời Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
 			<Text>Thưởng {Amount} [ICON_Production] Sản phẩm đối với xây dựng dự án Chạy đua không gian.</Text>

@@ -200,7 +200,7 @@
 			<Text>Khi đặt một thành phố mới thì các thành phố này cũng phát triển theo.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
-			<Text>Trong Civilization VI, bạn có thể có được khoảnh khắc Eureka giúp tăng một nửa công nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
+			<Text>Trong Civilization VI, bạn có thể có được khoảnh khắc Eureka giúp thúc đẩy công nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
 		</Row>
 		
 		
@@ -778,7 +778,7 @@
 			<Text>Bắt đầu di chuyển tới điểm chỉ định. Nếu vùng đất chưa được khám phá thì DO THÁM có thể giúp họ.</Text>
 		</Row>
 		<Row Tag="LOC_META_45a_BODY">
-			<Text>Trong Civilization, một người chơi mất tất cả thành phố sẽ thua cuộc. Cho nên bảo vệ thành phố rất là quan trọng, nhất là [ICON_Capital] THỦ ĐÔ.</Text>
+			<Text>Trong Civilization, một người chơi mất tất cả thành phố sẽ thua cuộc. Cho nên bảo vệ thành phố rất là quan trọng, nhất là [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_META_45_HEAD">
 			<Text>ĐÀO TẠO BẮN NÁ</Text>
@@ -1015,7 +1015,7 @@
 			<Text>You have completed the goal of building five improvements!</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_14_COMPLETE">
-			<Text>Đã hoàn thành mục tiêu xây Tường trong [ICON_Capital] Thủ đô!</Text>
+			<Text>Đã hoàn thành mục tiêu xây Tường trong [ICON_Capital] Thủ Đô!</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_15_COMPLETE">
 			<Text>Đã hoàn thành mục tiêu xây Trại lính!</Text>
@@ -1108,7 +1108,7 @@
 			<Text>XÂY DỰNG: Sử dụng lượt cuối để xây dựng một công trình cho thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_14">
-			<Text>Xây tường xa xưa trong Thủ đô.</Text>
+			<Text>Xây tường xa xưa trong Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_15">
 			<Text>Xây khu quân sự và nâng cấp nó với kiến trúc Trại lính.</Text>
@@ -1117,7 +1117,7 @@
 			<Text>Train five Military units including at least one Archer or Battering Ram. [NOT IMPLEMENTED].</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOAL_17">
-			<Text>ĐỂ CHIẾN THẮNG: Hạ gục nền văn minh khác bằng cách chiếm lấy thủ đô.</Text>
+			<Text>ĐỂ CHIẾN THẮNG: Hạ gục nền văn minh khác bằng cách chiếm lấy Thủ Đô.</Text>
 		</Row>
 		<!---->
 		<!--CITY PANEL BUILT-IN ADVISOR MESSAGES-->
@@ -1234,7 +1234,7 @@
 			<Text>Any research progress on a technology is not lost, so there are cases where changing your research focus is strategically valid. However, it is always better to have a completed technology rather than many incomplete ones.</Text>
 		</Row>
 		<Row Tag="LOC_META_73_BODY">
-			<Text>Trong Civilization VI, bạn có thể có được khoảnh khắc Eureka giúp tăng một nửa công nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
+			<Text>Trong Civilization VI, bạn có thể có được khoảnh khắc Eureka giúp thúc đẩy công nghệ khoa học nào đó. Khoảnh khắc Eureka này được gán cho việc tìm thấy một kỳ quan thiên nhiên. Các khoảnh khắc khác sẽ kiếm được trong một công việc cụ thể nhất định, như đào tạo đơn vị, xây dựng kiến trúc.</Text>
 		</Row>
 		<Row Tag="LOC_META_127_BODY">
 			<Text>Scouts are ideal for investigating Tribal Villages because they receive experience from it.</Text>
@@ -1630,7 +1630,7 @@
 			<Text>Hoàn hảo. Hãy chọn điểm đến cho chúng tôi.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_302">
-			<Text>Có một khu vực giàu tài nguyên không xa THỦ ĐÔ. Hay đưa DÂN DI CƯ tới đó.</Text>
+			<Text>Có một khu vực giàu tài nguyên không xa Thủ Đô. Hay đưa DÂN DI CƯ tới đó.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_31_ALT">
 			<Text>...</Text>
@@ -1648,7 +1648,7 @@
 			<Text>Đưa người vào cắm rễ ở đây.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_332">
-			<Text>Rất tốt. Nền văn minh tiếp tục lan rộng. Thậm chí nó có thể cạnh tranh với cả THỦ ĐÔ của chúng ta.</Text>
+			<Text>Rất tốt. Nền văn minh tiếp tục lan rộng. Thậm chí nó có thể cạnh tranh với cả Thủ Đô của chúng ta.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_34_ALT">
 			<Text>Thành phố khao khát được phát triển. Người dân đang chờ đợi sự hướng dẫn của bạn.</Text>

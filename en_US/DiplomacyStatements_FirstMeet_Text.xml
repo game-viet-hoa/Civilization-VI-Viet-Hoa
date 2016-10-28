@@ -55,7 +55,7 @@
 			<Text>Tương quan giữa chúng ta, đều cần biết là : nếu phản bội , máu sẽ phải trả bằng máu! Nhưng...nếu ngài là bằng hữu chân chính của ta, chúng ta sẽ hòa bình chung sống đấy nhé.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
-			<Text>Hé, người xa lạ. Ta là hoàng đế họ Caesar ở La Mã, Trajan. Ngươi là ai ? những thổ địa nào là của ngươi? (giọng hống hách)</Text>
+			<Text>Hé, người xa lạ. Ta là hoàng đế họ Caesar ở La Mã, Trajan. Ngươi là ai? Những thổ địa nào là của ngươi?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
 			<Text>Ngài khỏe. Mượn ân điển của thượng đế, ta là Victoria, trở thành nữ vương của Anh quốc cùng Ai Len. Ta dám nói, rất nhanh toàn bộ đế chế đó đều là của ta.</Text>
@@ -96,13 +96,13 @@
 			<Text>Nói cho ta biết bằng hữu: Ngài có muốn ghé thăm thành phố gần nhất của chúng tôi? Tuy nó không có điện Bilskirnir nhưng đổi lại nó cũng rất đẹp.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
-			<Text>Trịnh trọng mời bạn tới thăm thành phố của chúng tôi.</Text>
+			<Text>Ta sẽ rất vinh dự nếu ngài tới thị trấn gần nhất của ta. Ngài có thích Sứa Aemono không? Có?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
 			<Text>Hãy đến Brasil! Ngài có biết cách để nhảy một điệu Samba không? Chẳng có vấn đề gì cả, ngài vẫn sẽ được tận hưởng lễ hội thật vui vẻ bất kể có biết hay không.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
-			<Text>Ngài có quan tâm đến việc đến ghé thăm thủ đô gần nhất của chúng tôi hay không? Chúng ta có thể bàn việc chính trị sau khi thưởng thức xong một màn văn nghệ.</Text>
+			<Text>Ngài có quan tâm đến việc đến ghé thăm Thủ Đô gần nhất của chúng tôi hay không? Chúng ta có thể bàn việc chính trị sau khi thưởng thức xong một màn văn nghệ.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
 			<Text>Đến đây nào, hãy để ta cho ngài thấy thành phố cạnh bên. Sau đó chúng ta có thể tham gia buổi khiêu vũ trong một ngôi nhà ở vùng ngoại ô xinh đẹp.</Text>
@@ -170,10 +170,10 @@
 			<Text>Rất vui lòng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
-			<Text>Cám ơn, bằng hữu.</Text>
+			<Text>Cảm ơn, bằng hữu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
-			<Text>Cám ơn, bằng hữu.</Text>
+			<Text>Cảm ơn, bằng hữu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
 			<Text>Vâng. Với tất cả lòng biết ơn của tôi.</Text>
@@ -214,67 +214,67 @@
 		</Row>
 		<!-- AI invitation to exchange Capital Information -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
-			<Text>Không ai trong chúng ta có thủ đô ở gần nhau cả, nhưng có lẽ chúng ta nên đánh dấu lãnh thổ của cả hai trên bản đồ của nhau?</Text>
+			<Text>Không ai trong chúng ta có Thủ Đô ở gần nhau cả, nhưng có lẽ chúng ta nên đánh dấu lãnh thổ của cả hai trên bản đồ của nhau?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
-			<Text>Hãy để chúng ta trao đổi thông tin như là trí tuệ. Kể ta nghe về thủ đô của ngài. Nó có phải là một thành phố linh thiêng không?</Text>
+			<Text>Hãy để chúng ta trao đổi thông tin như là trí tuệ. Kể ta nghe về Thủ Đô của ngài. Nó có phải là một thành phố linh thiêng không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Ta bị say đắm với kiến trúc. Nói cho ta nghe, thủ đô của ngài có những mái vòm khải hoàn, hay các tòa tháp bằng sắt khổng lồ vậy?</Text>
+			<Text>Ta bị say đắm với kiến trúc. Nói cho ta nghe, Thủ Đô của ngài có những mái vòm khải hoàn, hay các tòa tháp bằng sắt khổng lồ vậy?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
-			<Text>Alexandria là nơi trị vì của các Pharaoh, quê hương của ta. Ta có thể kể cho ngài nhiều hơn nếu ngài kể cho ta về thủ đô của ngài.</Text>
+			<Text>Alexandria là nơi trị vì của các Pharaoh, quê hương của ta. Ta có thể kể cho ngài nhiều hơn nếu ngài kể cho ta về Thủ Đô của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
-			<Text>Ta có thể cho ngài xem thủ đô tuyệt vời của ta nếu như ngài kể cho ta biết làm thế nào thủ đô của ngài có thể so sánh với vị trí quyền lực của nước Đức.</Text>
+			<Text>Ta có thể cho ngài xem Thủ Đô tuyệt vời của ta nếu như ngài kể cho ta biết làm thế nào Thủ Đô của ngài có thể so sánh với vị trí quyền lực của nước Đức.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
-			<Text>Ta rất thích du lịch, có lẽ một ngày nào đó ta sẽ đến thăm thủ đô của ngài. Nó có xa không? Ngài sẽ kể cho ta nghe về nó chứ?</Text>
+			<Text>Ta rất thích du lịch, có lẽ một ngày nào đó ta sẽ đến thăm Thủ Đô của ngài. Nó có xa không? Ngài sẽ kể cho ta nghe về nó chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
-			<Text>Không ai có thể vượt qua những bức tường của Uruk mà không có sự cho phép của ta, nhưng ta sẽ kể cho ngài nghe về nó, nếu ngài kể cho ta nghe về thủ đô của ngài.</Text>
+			<Text>Không ai có thể vượt qua những bức tường của Uruk mà không có sự cho phép của ta, nhưng ta sẽ kể cho ngài nghe về nó, nếu ngài kể cho ta nghe về Thủ Đô của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
-			<Text>Thủ đô của ngài như thế nào? Kể cho ta nghe, và ta sẽ kể ngài nghe về Sparta.</Text>
+			<Text>Thủ Đô của ngài như thế nào? Kể cho ta nghe, và ta sẽ kể ngài nghe về Sparta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
-			<Text>Ta đã đi du lịch những nơi rất xa và rộng lớn, nhưng ta chưa bao giờ thấy thủ đô của ngài. Kể ta nghe về nó đi.</Text>
+			<Text>Ta đã đi du lịch những nơi rất xa và rộng lớn, nhưng ta chưa bao giờ thấy Thủ Đô của ngài. Kể ta nghe về nó đi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
-			<Text>Ta muốn trao đổi thông tin về thủ đô của chúng ta. Thủ đô của ta giống như Miền Đất Thanh Tịnh. Của ngài như thế nào?</Text>
+			<Text>Ta muốn trao đổi thông tin về Thủ Đô của chúng ta. Thủ Đô của ta giống như Miền Đất Thanh Tịnh. Của ngài như thế nào?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
-			<Text>Chúng ta hãy trao đổi những phép lịch sự một cách ngoại giao. Kể ta nghe về thủ đô của ngài, và ta sẽ kể cho ngài thủ đô của ta.</Text>
+			<Text>Chúng ta hãy trao đổi những phép lịch sự một cách ngoại giao. Kể ta nghe về Thủ Đô của ngài, và ta sẽ kể cho ngài Thủ Đô của ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
-			<Text>Athens là một thủ phủ huy hoàng. Thủ đô của ngài như thế nào? Đến đây, hãy trao đổi thông tin với nhau.</Text>
+			<Text>Athens là một thủ phủ huy hoàng. Thủ Đô của ngài như thế nào? Đến đây, hãy trao đổi thông tin với nhau.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
-			<Text>Ngài có muốn trao đổi thông tin về thủ đô của chúng ta không? Thủ đô của ta là biểu tượng của phát triển, nhưng ta không biết của ngài như thế nào.</Text>
+			<Text>Ngài có muốn trao đổi thông tin về Thủ Đô của chúng ta không? Thủ Đô của ta là biểu tượng của phát triển, nhưng ta không biết của ngài như thế nào.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
-			<Text>Ngài có muốn nghe về thủ đô của ta không? Madrid là thành phố đẹp nhất trong những thành phố. Thủ đô của ngài cũng đẹp như vậy chứ?</Text>
+			<Text>Ngài có muốn nghe về Thủ Đô của ta không? Madrid là thành phố đẹp nhất trong những thành phố. Thủ Đô của ngài cũng đẹp như vậy chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
-			<Text>Ngài đã chiêm ngưỡng sự lộng lẫy của thủ đô chúng ta. Thủ đô của ngài có vĩ đại được bằng một nửa của ta?</Text>
+			<Text>Ngài đã chiêm ngưỡng sự lộng lẫy của Thủ Đô chúng ta. Thủ Đô của ngài có vĩ đại được bằng một nửa của ta?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
-			<Text>Đến đây, hãy để chúng ta trao đổi thông tin về thủ đô của nhau. Ta muốn nghe ngài kể về người dân của ngài, và ta sẽ hạnh phúc kể về những người dân của ta.</Text>
+			<Text>Đến đây, hãy để chúng ta trao đổi thông tin về Thủ Đô của nhau. Ta muốn nghe ngài kể về người dân của ngài, và ta sẽ hạnh phúc kể về những người dân của ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
-			<Text>Ta muốn trao đổi thông tin vể thủ đô của nhau; thúc đẩy thương mại tự do giữa các quốc gia của chúng ta, và đó là tất cả.</Text>
+			<Text>Ta muốn trao đổi thông tin vể Thủ Đô của nhau; thúc đẩy thương mại tự do giữa các quốc gia của chúng ta, và đó là tất cả.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
-			<Text>Vâng, người của ta là dân du mục, nhưng ta vẫn có một thủ đô tráng lệ, còn ngài thì sao?</Text>
+			<Text>Vâng, người của ta là dân du mục, nhưng ta vẫn có một Thủ Đô tráng lệ, còn ngài thì sao?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
-			<Text>Kể ta nghe về thủ đô của ngài. Có phải nó được tìm thấy bởi những người Trojan bị lưu lạc? Hoặc trẻ em thì được nuôi dưỡng bởi các con sói phải không?</Text>
+			<Text>Kể ta nghe về Thủ Đô của ngài. Có phải nó được tìm thấy bởi những người Trojan bị lưu lạc? Hoặc trẻ em thì được nuôi dưỡng bởi các con sói phải không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
-			<Text>Với sự thú vị trong mối quan hệ chính trị của chúng ta, ta muốn biết thêm về thủ đô của ngài...tất nhiên là chỉ trao đổi thông tin.</Text>
+			<Text>Với sự thú vị trong mối quan hệ chính trị của chúng ta, ta muốn biết thêm về Thủ Đô của ngài...tất nhiên là chỉ trao đổi thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
-			<Text>Trao đổi thông tin về thủ đô của chúng ta là một ý tưởng tuyệt vời. Nó sẽ thúc đẩy quá trình giao thương.</Text>
+			<Text>Trao đổi thông tin về Thủ Đô của chúng ta là một ý tưởng tuyệt vời. Nó sẽ thúc đẩy quá trình giao thương.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_INFO">
 			<Text>Xin lỗi, ta không thể chia sẻ thông tin đó vào lúc này.</Text>

@@ -334,7 +334,7 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Science] Khoa học cho [ICON_Capital] Thủ đô của bạn.</Text>
+			<Text>+2 [ICON_Science] Khoa học cho [ICON_Capital] Thủ Đô của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Science] Khoa học cho mỗi Khu tri thức.</Text>
@@ -349,7 +349,7 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Lòng tin cho [ICON_Capital] Thủ đô của bạn.</Text>
+			<Text>+2 [ICON_Faith] Lòng tin cho [ICON_Capital] Thủ Đô của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Faith] Lòng tin cho mỗi Khu linh thiêng.</Text>
@@ -364,7 +364,7 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Vàng cho [ICON_Capital] Thủ đô của bạn.</Text>
+			<Text>+4 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+4 [ICON_Gold] Vàng cho mỗi trung tâm thương mại.</Text>
@@ -379,7 +379,7 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Culture] Văn minh cho [ICON_Capital] Thủ đô của bạn.</Text>
+			<Text>+2 [ICON_Culture] Văn minh cho [ICON_Capital] Thủ Đô của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Culture] Văn minh cho mỗi khu nghệ thuật.</Text>
@@ -394,7 +394,7 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Sản phẩm khi sản xuất đơn vị trong [ICON_Capital] Thủ đô.</Text>
+			<Text>+2 [ICON_Production] Sản phẩm khi sản xuất đơn vị trong [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] Sản phẩm cho mỗi đơn vị khi sản xuất trong khu quân sự.</Text>
@@ -409,7 +409,7 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Sản phẩm khi sản xuất kỳ quan, kiến trúc, khuc vực bên trong [ICON_Capital] Thủ đô.</Text>
+			<Text>+2 [ICON_Production] Sản phẩm khi sản xuất kỳ quan, kiến trúc, khuc vực bên trong [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] Sản phẩm cho mỗi kỳ quan, kiến trúc, khuc vực sản xuất bên trong khu công nghiệp.</Text>
@@ -523,7 +523,7 @@
 			<Text>Thưởng cho chủ Seoul</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
-			<Text>Khi bước sang thời đại mới, thưởng ngẫu nhiên 1 [ICON_TechBoosted] công nghệ của thời đại này.</Text>
+			<Text>Khi bước sang thời đại mới, thúc đẩy ngẫu nhiên 1 [ICON_TechBoosted] công nghệ của thời đại này.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
 			<Text>Thưởng cho chủ Stockholm</Text>
@@ -547,7 +547,7 @@
 			<Text>Thưởng cho chủ Vilnius</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
-			<Text>Khi bước sang thời đại mới, thưởng ngẫu nhiên 1 [ICON_CivicBoosted] Hành chính.</Text>
+			<Text>Khi bước sang thời đại mới, thúc đẩy ngẫu nhiên 1 [ICON_CivicBoosted] Hành chính.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
 			<Text>Thưởng cho chủ Yerevan</Text>

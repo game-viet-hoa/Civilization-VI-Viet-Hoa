@@ -10,7 +10,7 @@
 			<Text>Đạo Phật</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_CATHOLICISM">
-			<Text>Công giáo</Text>
+			<Text>Công Giáo</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_CONFUCIANISM">
 			<Text>Đạo Khổng</Text>
@@ -25,22 +25,22 @@
 			<Text>Đạo Do Thái</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_ORTHODOXY">
-			<Text>Chính Thống Đông Phương</Text>
+			<Text>Chính thống giáo Đông Phương</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_PROTESTANTISM">
-			<Text>Đạo Tin lành</Text>
+			<Text>Đạo Tin Lành</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_SHINTO">
-			<Text>Đạo thần Nhật bản</Text>
+			<Text>Đạo Thần Nhật Bản</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_SIKHISM">
 			<Text>Đạo Sikh</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_TAOISM">
-			<Text>Đạo giáo</Text>
+			<Text>Đạo Giáo</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_ZOROASTRIANISM">
-			<Text>Đạo Hỏa</Text>
+			<Text>Hỏa Giáo</Text>
 		</Row>
 		<!--BELIEF CLASSES-->
 		<Row Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
@@ -50,7 +50,7 @@
 			<Text>Tín đồ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
-			<Text>Tôn sùng</Text>
+			<Text>Thờ phụng</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
 			<Text>Người sáng lập</Text>
@@ -66,164 +66,164 @@
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
 		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
-			<Text>Dance of the Aurora</Text>
+			<Text>Vũ Điệu Của Bình Minh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
-			<Text>Desert Folklore</Text>
+			<Text>Sa Mạc Folklore</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SACRED_PATH_NAME">
-			<Text>Sacred Path</Text>
+			<Text>Thánh Đạo</Text>
 		</Row>
 		<!--Pantheon - Amenity Bonuses-->
 		<Row Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
-			<Text>River Goddess</Text>
+			<Text>Nữ Thần Sông</Text>
 		</Row>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
-			<Text>Monument to the Gods</Text>
+			<Text>Đài Kỉ Niệm Các Vị Thần</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
-			<Text>Divine Spark</Text>
+			<Text>Ánh Chớp Thần Thánh</Text>
 		</Row>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
-			<Text>Lady of the Reeds and Marshes</Text>
+			<Text>Nữ Thần Đầm Lầy</Text>
 		</Row>
 		<!--Pantheon - Local Resource Bonuses-->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
-			<Text>God of the Sea</Text>
+			<Text>Hải Thần</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
-			<Text>God of the Open Sky</Text>
+			<Text>Thần Không Trung</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
-			<Text>Goddess of the Hunt</Text>
+			<Text>Nữ Thần Săn Bắn</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
-			<Text>Stone Circles</Text>
+			<Text>Viên Thạch</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
-			<Text>Religious Idols</Text>
+			<Text>Biểu Tượng Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
-			<Text>God of Craftsmen</Text>
+			<Text>Thần Kỹ Nghệ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
-			<Text>Goddess of Festivals</Text>
+			<Text>Nữ Thần Lễ Hội</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
-			<Text>Oral Tradition</Text>
+			<Text>Truyền Thống Được Truyền Miệng</Text>
 		</Row>
 		<!--Pantheon - Military -->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
-			<Text>God of the Forge</Text>
+			<Text>Thần Rèn</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
-			<Text>God of War</Text>
+			<Text>Thần Chiến Tranh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INITIATION_RITES_NAME">
-			<Text>Initiation Rites</Text>
+			<Text>Nghi Thức Truyền Thụ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
-			<Text>God of Healing</Text>
+			<Text>Thần Hồi Phục</Text>
 		</Row>
 		<!--Pantheon - General Purpose-->
 		<Row Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
-			<Text>Fertility Rites</Text>
+			<Text>Nghi Thức Sản Sinh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
-			<Text>Religious Settlements</Text>
+			<Text>Tín Ngưỡng Thuộc Địa</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
-			<Text>Goddess of the Harvest</Text>
+			<Text>Nữ Thần Vụ Mùa</Text>
 		</Row>
 		<!--2. WORSHIP BELIEFS-->
 		<Row Tag="LOC_BELIEF_CATHEDRAL_NAME">
-			<Text>Cathedral</Text>
+			<Text>Thánh Đường</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GURDWARA_NAME">
-			<Text>Gurdwara</Text>
+			<Text>Thánh Đường Sikh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
-			<Text>Meeting House</Text>
+			<Text>Nhà Thờ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MOSQUE_NAME">
-			<Text>Mosque</Text>
+			<Text>Nhà Thờ Hồi giáo</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAGODA_NAME">
-			<Text>Pagoda</Text>
+			<Text>Chùa</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SYNAGOGUE_NAME">
-			<Text>Synagogue</Text>
+			<Text>Giáo Đường Do Thái</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WAT_NAME">
-			<Text>Wat</Text>
+			<Text>Tu Viện Phật Giáo</Text>
 		</Row>
 		<!--3. FOLLOWER BELIEFS-->
 		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
-			<Text>Divine Inspiration</Text>
+			<Text>Cảm Hứng Từ Thần Thánh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
-			<Text>Feed the World</Text>
+			<Text>Nuôi Dưỡng Thế Giới</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
-			<Text>Jesuit Education</Text>
+			<Text>Lời Dạy Từ Tông Đồ Của Chúa</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIQUARIES_NAME">
-			<Text>Reliquaries</Text>
+			<Text>Hòm Thánh Tích</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
-			<Text>Religious Community</Text>
+			<Text>Cộng Đồng Tín Ngưỡng</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WORK_ETHIC_NAME">
-			<Text>Work Ethic</Text>
+			<Text>Việc Luân Lý</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
-			<Text>Zen Meditation</Text>
+			<Text>Thiền Viện</Text>
 		</Row>
 		<!--4. FOUNDER BELIEFS-->
 		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
-			<Text>Church Property</Text>
+			<Text>Tài Sản Của Thánh Đường</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
-			<Text>Lay Ministry</Text>
+			<Text>Thánh Chức Không Chuyên</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
-			<Text>Papal Primacy</Text>
+			<Text>Quyền Lực Của Giáo Hoàng</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PILGRIMAGE_NAME">
-			<Text>Pilgrimage</Text>
+			<Text>Hành Lễ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_STEWARDSHIP_NAME">
-			<Text>Stewardship</Text>
+			<Text>Quản Lý</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_TITHE_NAME">
-			<Text>Tithe</Text>
+			<Text>Thuế Thập Phân</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
-			<Text>World Church</Text>
+			<Text>Thánh Đường Thế Giới</Text>
 		</Row>
 		<!--5. ENHANCER BELIEFS-->
 		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
-			<Text>Defender of the Faith</Text>
+			<Text>Người Bảo Vệ Tín Ngưỡng</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_HOLY_ORDER_NAME">
-			<Text>Holy Order</Text>
+			<Text>Hội Thánh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
-			<Text>Itinerant Preachers</Text>
+			<Text>Người Thuyết Giảng Lữ Hành</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_JUST_WAR_NAME">
-			<Text>Crusade</Text>
+			<Text>Thập Tự Chinh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
-			<Text>Missionary Zeal</Text>
+			<Text>Người Truyền Giáo Nhiệt Huyết</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
-			<Text>Monastic Isolation</Text>
+			<Text>Tu Viện Biệt Lập</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCRIPTURE_NAME">
-			<Text>Scripture</Text>
+			<Text>Lời Kinh Thánh</Text>
 		</Row>
 		<!--PANTHEON DESCRIPTIONS-->
 		<!--1. PANTHEON BELIEFS-->
@@ -386,7 +386,7 @@
 			<Text>Áp lực tôn giáo không bao giờ giảm do thua trong trận chiến thần học.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
-			<Text>Tôn giáo lan từ các thành phố lân cận mạnh hơn 25%. Thưởng 50% ki nghiên cứu In ấn.</Text>
+			<Text>Tôn giáo lan từ các thành phố lân cận mạnh hơn 25%. Thúc đẩy 50% thúc đẩy công nghệ In ấn.</Text>
 		</Row>
 		<!--BELIEF COMBAT BONUSES-->
 		<Row Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">

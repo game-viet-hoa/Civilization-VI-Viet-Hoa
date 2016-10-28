@@ -2,7 +2,7 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
-			<Text>Tlatoani Montezuma, keep your eagle warriors happy and fed, and they will forever fight for your cause. As your Aztec empire unfurls across the land, you will never want for people to raise your walls, for you will be blessed with new, loyal workers as you conquer those around you. Go forth; Huitzilopochtli calls.</Text>
+			<Text>Tlatoani Montezuma, hãy giữ những chiến binh đại bàng của bạn thật vui vẻ và ấm no, và họ sẽ mãi mãi chiến đấu vì mục tiêu của bạn. Khi Đế chế Aztec của bạn giương cờ tung hoành thiên hạ, bạn sẽ không bao giờ muốn người của mình phải dè chừng phòng thủ, vì bạn sẽ luôn được ban phước với những công nhân mới, trung thành khi bạn chinh phục những người xung quanh. Hãy tiến về phía trước; Huitzilopochtli vẫy gọi.</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_1">
 			<Text>Acamapichtli</Text>
@@ -222,22 +222,22 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_LOCATION">
-			<Text>North America</Text>
+			<Text>Bắc Mỹ </Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_SIZE">
-			<Text>Est. 117.5 thousand square miles (304 thousand square km)</Text>
+			<Text>Ước tính 117.5 ngàn dặm vuông (304 ngàn km vuông)</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_POPULATION">
-			<Text>Est. 5.1 million at greatest extent</Text>
+			<Text>Ước tính 5.1 triệu ở đỉnh cao</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_CAPITAL">
 			<Text>Tenochtitlan</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
-			<Text>Aztec unique building: Tlachtli</Text>
+			<Text>Kiến trúc đặc biệt của Aztec: Sân bóng Tlachtli</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
-			<Text>Aztec unique unit: Eagle Warrior</Text>
+			<Text>Đơn vị đặc biệt của Aztec: Chiến binh đại bàng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
 			<Text>When Hernando Cortes and his band of ne’er-do-wells arrived, the Aztec Empire was still in its childhood, having come into existence (more-or-less) around 1428 AD. Although the Excan Tlahtoloyan (Aztec Empire) lasted only one hundred years, it was an eventful one hundred years.</Text>
@@ -336,100 +336,100 @@
 			<Text>One of the two elite class of infantry (the other being the Jaguar Warriors) in the Aztec army, the Eagle Warriors were the bravest young men of noble birth and/or those who had taken the most prisoners in battle. Like the Jaguars, the Eagles used the atlatl, bow, spear and macuahuitl (wooden swords set with obsidian shards); unlike the Jaguars, the Eagles decorated their armor with eagle feathers and wore a headdress shaped like the head of an eagle with the beak wide open. And they had a hilltop temple in Malinalco. Upon taking 20 prisoners – intact enough to serve as human sacrifice – a young warrior was eligible to become an Eagle Warrior, no doubt making his family very proud. Until the Spanish arrived with their cannons, muskets, and horses, the Eagle and Jaguar warriors were the toughest bullies on the Mesoamerican block.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>You are no friend to the Aztecatl. You must earn this honor.</Text>
+			<Text>Ngài không phải là bạn bè của người Aztecatl. Ngài phải chiếm được vinh dự này trước.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
-			<Text>Montezuma sees your luxuries that he does not have as a ripe target for attack</Text>
+			<Text>Montezuma coi những gia tài quý của ngài mà hắn ta không có là một mục tiêu chín muồi để tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
-			<Text>Montezuma is happy you have controlled the same luxuries that he has</Text>
+			<Text>Montezuma vui mừng vì ngài cũng chỉ có những tài nguyên quý mà ông ta có.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>My heart turns white with your offer. Let us celebrate our friendship.</Text>
+			<Text>Trái tìm của ta nhẹ nhõm với lời đề nghị của ngài. Hãy để ta ăn mừng tình bạn của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Let us be joined in friendship against the evils of this world.</Text>
+			<Text>Hãy cùng liên kết trong tình hữu nghị chống lại quỷ dữ của thế giới này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Thank you.</Text>
+			<Text>Cảm ơn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>You test my patience…</Text>
+			<Text>Ngài kiểm tra sự kiên nhẫn của ta...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>Your soldiers will die on the battlefield or upon an altar. It makes no difference to Huitzilopochtli.</Text>
+			<Text>Chiến binh của ngươi sẽ hi sinh trên chiến trường hoặc trên bàn thờ. Chẳng có gì khác nhau đối với Huitzilopochtli.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Now we will see if you are cowards or warriors!</Text>
+			<Text>Giờ thì để xem ngươi là kẻ hèn nhát hay là một chiến binh!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Huitzilopochtli forgive our weakness… my weakness. I was not strong enough to serve you.</Text>
+			<Text>Huitzilopochtli đã tha thứ cho sự yếu đuối của chúng ta...sự yếu đuối của bản thân. Ta đã không đủ dũng cảm để phục vụ ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>We will house your delegation in a place of honor. Your gifts are a kind tribute.</Text>
+			<Text>Ta sẽ tiếp đãi phái đoàn của ngài ở một nơi đầy trang trọng. Những món quà của đều là những lễ vật tốt bụng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>Not today.</Text>
+			<Text>Không phải hôm nay.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Gifts of maize and chocolate are brought to you by my delegation. We offer them to you.</Text>
+			<Text>Những món quà gồm bắp ngô và socola đã được phái đoàn của ta mang đến. Ta xin tặng nó cho ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>Those who are afraid speak loudest. You fear us.</Text>
+			<Text>Những kẻ sợ hãi nói to nhất. Ngươi sợ bọn ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>You are a poison to this world. You are evil! (Denounces You).</Text>
+			<Text>Ngươi là thứ độc dược đối với thế giới này. Ngươi là quỷ dữ! (Lăng mạ bạn).</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
-			<Text>I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?</Text>
+			<Text>Ta là chúa tể cáu kỉnh của Tenochtitlan. Một tlatoani. Ai đang đứng trước ta? Một chiến binh hay một tên hèn nhát?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
-			<Text>It is an honor to meet you. I invite you to our nearby city, you could test your skill at Ollamaliztli.</Text>
+			<Text>Thật là một vinh dự khi được gặp ngài. Ta mời ngài đến với thành phố lân cận của ta, ngài có thể phô diễn kĩ năng ở Ollamaliztli.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MONTEZUMA_ANY">
-			<Text>It is settled.</Text>
+			<Text>Nó đã được giải quyết.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
-			<Text>Tenochtitlan is closest to Huitzilopochtli; now, tell me of your capital!</Text>
+			<Text>Tenochtitlan là nơi gần Huitzliopochtli nhất, nào, nói cho ta nghe về Thủ Đô của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
-			<Text>What do you want???</Text>
+			<Text>Ngài muốn gì?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
-			<Text>We have more in common, than not. You follow Tlacaelel’s words.</Text>
+			<Text>Chúng ta có nhiều điểm chung. Ngài phải nghe theo lời Tlacaelel.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
-			<Text>(You have no Luxuries he wants)</Text>
+			<Text>(Bạn không có món đồ xa xỉ mà ông ấy muốn.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
-			<Text>You have much that I do not!  Do you want to see your people taken as slaves?</Text>
+			<Text>Ngài có nhiều hơn những gì ta có! Ngài có muốn thấy người của mình bị bắt làm nô lệ không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
-			<Text>(You have a Luxury he wants.)</Text>
+			<Text>(Bạn có món đồ xa xỉ mà ông ấy muốn.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Would you like to form an alliance?</Text>
+			<Text>Ngài có muốn thành lập một liên minh?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
-			<Text>This war has greatly pleased the gods. Let us now celebrate.</Text>
+			<Text>Cuộc chiến tranh này đã làm cho các vị thần hài lòng. Bây giờ chúng ta cùng ăn mừng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
-			<Text>I do not accept.</Text>
+			<Text>Ta không đồng ý.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Come, let us return to our homes and gather our strength for the next conflict.</Text>
+			<Text>Đến đây nào, cùng về nhà và chuẩn bị lực lượng cho cuộc chiến sắp tới.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>We have nothing to fear from your military. You may pass.</Text>
+			<Text>Ta không có việc gì phải sợ quân đội của ngài. Ngài có thể đi qua.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>You may not pass through the Empire of Huitzilopochtli. It is closed to you.</Text>
+			<Text>Ngài không thể tiến qua Vương quốc của Huitzliopochtli. Ngài bị cấm cửa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Let us pass through your lands! Huitzilopochtli commands it!</Text>
+			<Text>Hãy để ta qua vùng đất của ngài! Huitzilopochti ra lệnh cho nó!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
-			<Text>You cannot surprise the Empire. We see your attack. We will strike first if you do not move them away.</Text>
+			<Text>Ngươi không thể làm Đế chế bất ngờ. Ta thấy cuộc tấn công của ngươi. Chúng ta sẽ đánh trước nếu ngươi không biến đi chỗ khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
 			<Text>For over 2700 years the Mesoamericans played their traditional “ballgame” – Ollamaliztli in Nahuatl – in (not surprisingly) “ball courts.” Somewhat similar in play to team racquetball, these “sporting events” had significant ritual overtones, given that the losers (and sometimes the winners) were often sacrificed after the game, usually by decapitation. Explicit depictions of human sacrifice after a game can be found in many Mayan ball courts such as those at El Tajin and at Chichen Itza. Although the sport had somewhat different rules in different places and different times, it spread throughout Mesoamerica, as far south as Nicaragua and north as Arizona. Built in a pattern that changed little over two-and-a-half millennia, the ball courts were stone constructs of a long, narrow playing field between high sloped walls with open-ended (later enclosed) wider goal areas. Painted and decorated, these stadiums were the epitome of the Mesoamerican civilization … until the Spanish showed up and introduced the natives to other games.</Text>

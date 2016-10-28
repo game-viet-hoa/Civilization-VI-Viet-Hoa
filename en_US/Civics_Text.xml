@@ -49,7 +49,7 @@
 			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
-			<Text>Có thể xây Nông trường trên Đồi Đồng cỏ và Đồi Đồng bằng. Mở khóa Phòng thủ đô thị, cho tất cả thành phố tự động củng cố 200 Sức mạnh và khả năng đánh xa.</Text>
+			<Text>Có thể xây Nông trường trên Đồi Đồng cỏ và Đồi Đồng bằng. Mở khóa Phòng Thủ Đô thị, cho tất cả thành phố tự động củng cố 200 Sức mạnh và khả năng đánh xa.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
 			<Text>Khả năng xây thêm một Gián điệp. Cho phép hai đơn vị nhất định ghép lại trở thành Trung đội hoặc Hải đoàn. Cho phép sử dụng lý do biện minh chiến tranh: Chiến tranh thuộc địa.</Text>
@@ -428,7 +428,7 @@
 			<Text>Không có thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
-			<Text>Thủ đô được +1 cho tất cả sản lượng.</Text>
+			<Text>Thủ Đô được +1 cho tất cả sản lượng.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
 			<Text>Tất cả lính cận chiến được +4 [ICON_Strength] Sức mạnh.</Text>
@@ -561,10 +561,10 @@
 			<Text>+4 [ICON_Food] Thực phẩm từ [ICON_TradeRoute] Tuyến đường thương mại trong nước.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
-			<Text>+15% gia tăng dân số cho thành phố không cùng lục địa với [ICON_Capital] Thủ đô gốc.</Text>
+			<Text>+15% gia tăng dân số cho thành phố không cùng lục địa với [ICON_Capital] Thủ Đô gốc.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
-			<Text>+25% [ICON_Gold] Vàng cho thành phố không cùng lục địa với [ICON_Capital] Thủ đô gốc.</Text>
+			<Text>+25% [ICON_Gold] Vàng cho thành phố không cùng lục địa với [ICON_Capital] Thủ Đô gốc.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
 			<Text>+50% [ICON_Production] Sản phẩm từ Dân di cư.</Text>
@@ -618,7 +618,7 @@
 			<Text>+2 [ICON_GreatArtist] Họa sĩ vĩ đại mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Lòng tin và +1 [ICON_Gold] Vàng cho [ICON_Capital] Thủ đô.</Text>
+			<Text>+1 [ICON_Faith] Lòng tin và +1 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm kỳ quan thời đại Trung cổ và Phục hưng.</Text>
@@ -735,7 +735,7 @@
 			<Text>+4 [ICON_GreatScientist] Nhà khoa học vĩ đại mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
-			<Text>Gián điệp ăn cắp một công nghệ cao mà không bị phát hiện sẽ được thưởng.</Text>
+			<Text>Gián điệp ăn cắp một thúc đẩy công nghệ cao mà không bị phát hiện sẽ được thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
 			<Text>+50% [ICON_Tourism] Du lịch cho các nền văn mình mà bạn có [ICON_TradeRoute] Tuyến đường thương mại.</Text>
