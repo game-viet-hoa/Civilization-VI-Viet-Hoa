@@ -9,5 +9,4 @@ Bản việt hóa của trò chơi Sid Meier’s Civilization® VI
 
 
 Thảo luận tại:
-- https://vozforums.com/showthread.php?p=102471110
 - https://www.facebook.com/groups/1245814878810301/
