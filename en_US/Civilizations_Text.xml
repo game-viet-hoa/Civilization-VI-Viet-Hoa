@@ -10,7 +10,7 @@
 			<Text>Đế chế Ả Rập</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
-			<Text>Đế chế quân man rợ</Text>
+			<Text>Đế chế quân man di</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
 			<Text>Đế chế Brazil</Text>
@@ -300,7 +300,7 @@
 			<Text>Cải cách Minh Trị</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
-			<Text>Tất cả khu vực được thưởng khi liền kề với khu vực khác.</Text>
+			<Text>Tất cả Đặc Khu được thưởng khi liền kề với Đặc Khu khác.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
 			<Text>Bảo tàng Anh</Text>
@@ -318,19 +318,19 @@
 			<Text>Savage</Text>
 		</Row>
 		<Row Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
-			<Text>Thưởng chống lại quân man rợ.</Text>
+			<Text>Thưởng chống lại quân man di.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
 			<Text>Nhiệm vụ hoành tráng</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
-			<Text>Khi chiếm được tiền đồn quân man rợ, nhận một làng bộ lạc ngoài viện được [ICON_Gold] Vàng. Trả một nửa phí để điều khiển quân đội thành phố tự trị.</Text>
+			<Text>Khi chiếm được tiền đồn quân man di, nhận một làng thổ dân ngoài viện được [ICON_Gold] Vàng. Trả một nửa phí để điều khiển quân đội thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
 			<Text>Iteru</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
-			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan và khu vực nếu đặt gần sông. Vùng lũ không chặn vị trí của khu vực và kỳ quan.</Text>
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan và Đặc Khu nếu đặt gần sông. Vùng lũ không chặn vị trí của Đặc Khu và kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
 			<Text>Plato's Republic</Text>
@@ -384,7 +384,7 @@
 			<Text>Free Imperial Cities</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
-			<Text>Mỗi thành phố có thể xây thêm một khu vực hơn bình thường (vượt giá giới hạn bình thường dựa trên [ICON_Citizen] Dân số).</Text>
+			<Text>Mỗi thành phố có thể xây thêm một Đặc Khu hơn bình thường (vượt giá giới hạn bình thường dựa trên [ICON_Citizen] Dân số).</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
 			<Text>Con đường nào cũng dẫn đến La Mã</Text>

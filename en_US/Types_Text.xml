@@ -4,7 +4,7 @@
 	<BaseGameText>
 		<!-- Types -->
     <Row Tag="LOC_BELIEF_NAME">
-      <Text>Niềm tin</Text>
+      <Text>Tín ngưỡng</Text>
     </Row>
 		<Row Tag="LOC_BUILDING_NAME">
 			<Text>Kiến trúc</Text>
@@ -16,10 +16,10 @@
 			<Text>Hành chính</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NAME">
-			<Text>Khu vực</Text>
+			<Text>Đặc Khu</Text>
 		</Row>
     <Row Tag="LOC_DISTRICT_NAME_REPLACES">
-      <Text>Khu vực (thay thế {1_DistrictName})</Text>
+      <Text>Đặc Khu (thay thế {1_DistrictName})</Text>
     </Row>
 		<Row Tag="LOC_ERA_NAME">
 			<Text>Thời đại</Text>
@@ -66,7 +66,7 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_ALHAMBRA_NAME">
-			<Text>Lâu đài Alhambra</Text>
+			<Text>Pháo đài Alhambra</Text>
       <Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_AMPHITHEATER_NAME">
@@ -109,7 +109,7 @@
 			<Text>Tường trung cổ</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CATHEDRAL_NAME">
-			<Text>Nhà thờ lớn</Text>
+			<Text>Thánh đường</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_NAME">
 			<Text>Di tích Chichen Itza</Text>
@@ -141,21 +141,21 @@
 			<Text>Nhà máy</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FILM_STUDIO_NAME">
-			<Text>Trường quay</Text>
+			<Text>Phim trường</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_NAME">
-			<Text>Cố Cung</Text>
+			<Text>Tử Cấm Thành</Text>
       <Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_GRANARY_NAME">
 			<Text>Kho thóc</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_NAME">
-			<Text>Thư viện lớn</Text>
+			<Text>Thư viện Alexandria</Text>
       <Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_NAME">
-			<Text>Ngọn hải đăng lớn</Text>
+			<Text>Hải đăng Alexandria</Text>
       <Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_NAME">
@@ -186,7 +186,7 @@
 			<Text>Thư viện</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LIGHTHOUSE_NAME">
-			<Text>Ngọn hải đăng</Text>
+			<Text>Hải đăng</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MADRASA_NAME">
 			<Text>Trường Hồi giáo</Text>
@@ -199,7 +199,7 @@
 			<Text>Chợ</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MEDIUM_ROCKET_NAME">
-			<Text>Medium Rocket</Text>
+			<Text>Tên lửa cỡ trung</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MEETING_HOUSE_NAME">
 			<Text>Nhà thờ</Text>
@@ -212,7 +212,7 @@
       <Gender>Masculine:no_article</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_MONUMENT_NAME">
-			<Text>Đài kỷ niệm</Text>
+			<Text>Đài tưởng niệm</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MOSQUE_NAME">
 			<Text>Nhà thờ Hồi giáo</Text>
@@ -276,7 +276,7 @@
 			<Text>Miếu</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SMALL_ROCKET_NAME">
-			<Text>Small Rocket</Text>
+			<Text>Tên lửa cỡ nhỏ</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STABLE_NAME">
 			<Text>Chuồng ngựa</Text>
@@ -288,7 +288,7 @@
 			<Text>Tường phục hưng</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STAVE_CHURCH_NAME">
-			<Text>Nhà thờ gỗ</Text>
+			<Text>Nhà thờ Stave</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STOCK_EXCHANGE_NAME">
 			<Text>Sàn giao dịch</Text>
@@ -333,13 +333,13 @@
 		</Row>
 		<!--Civics -->
 		<Row Tag="LOC_CIVIC_CODE_OF_LAWS_NAME">
-			<Text>Pháp luật</Text>
+			<Text>Tư pháp</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CRAFTSMANSHIP_NAME">
-			<Text>Khéo léo</Text>
+			<Text>Lành nghề</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_NAME">
-			<Text>Ngoại thương</Text>
+			<Text>Thông thương</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_NAME">
 			<Text>Truyền thống quân sự</Text>
@@ -369,7 +369,7 @@
 			<Text>Chiến thuật phòng thủ</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_RECORDED_HISTORY_NAME">
-			<Text>Ghi vào lịch sử</Text>
+			<Text>Lịch sử được ghi chép</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_THEOLOGY_NAME">
 			<Text>Thần học</Text>
@@ -393,7 +393,7 @@
 			<Text>Liên đoàn</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_NAME">
-			<Text>Thiêng liêng</Text>
+			<Text>Quyền lực thiêng liêng</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_EXPLORATION_NAME">
 			<Text>Thám hiểm</Text>
@@ -411,13 +411,13 @@
 			<Text>Chủ nghĩa trọng thương</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_NAME">
-			<Text>Sáng tỏ</Text>
+			<Text>Sự giác ngộ</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_COLONIALISM_NAME">
 			<Text>Chủ nghĩa thực dân</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_NAME">
-			<Text>Kỹ thuật xây dựng</Text>
+			<Text>Kỹ thuật dân dụng</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATIONALISM_NAME">
 			<Text>Chủ nghĩa dân tộc</Text>
@@ -426,7 +426,7 @@
 			<Text>Opera và ba lê</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_NAME">
-			<Text>Lịch sử tự nhiên</Text>
+			<Text>Bác vật học</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_URBANIZATION_NAME">
 			<Text>Đô thị hóa</Text>
@@ -438,7 +438,7 @@
 			<Text>Bảo tồn</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MASS_MEDIA_NAME">
-			<Text>Truyền thông dại chúng</Text>
+			<Text>Truyền thông đại chúng</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MOBILIZATION_NAME">
 			<Text>Cơ động</Text>
@@ -459,7 +459,7 @@
 			<Text>Chế độ chuyên chế</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CLASS_STRUGGLE_NAME">
-			<Text>Biểu tình</Text>
+			<Text>Đấu tranh giai cấp</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_COLD_WAR_NAME">
 			<Text>Chiến tranh lạnh</Text>
@@ -471,7 +471,7 @@
 			<Text>Di sản văn hóa</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_NAME">
-			<Text>Triển khai nhanh</Text>
+			<Text>Dàn quân thần tốc</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SPACE_RACE_NAME">
 			<Text>Chạy đua không gian</Text>
@@ -490,7 +490,7 @@
 			<Text>Ả Rập</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
-			<Text>Barbarians</Text>
+			<Text>Man Di</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRAZIL_NAME">
 			<Text>Brazil</Text>
@@ -618,7 +618,7 @@
 			<Text>Châu Phi</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_AMASIA_DESCRIPTION">
-			<Text>Amasia</Text>
+			<Text>Siêu lục địa Á-Mỹ</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_AMERICA_DESCRIPTION">
 			<Text>Châu Mỹ</Text>
@@ -627,13 +627,13 @@
 			<Text>Châu Nam Cực</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ARCTICA_DESCRIPTION">
-			<Text>Arctica</Text>
+			<Text>Bắc Cực</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ASIA_DESCRIPTION">
 			<Text>Châu Á</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ASIAMERICA_DESCRIPTION">
-			<Text>Asiamerica</Text>
+			<Text>Á-Mỹ</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ATLANTICA_DESCRIPTION">
 			<Text>Atlantica</Text>
@@ -720,7 +720,7 @@
 			<Text>Siberia</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
-			<Text>Terra Australis</Text>
+			<Text>Úc Địa</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_UR_DESCRIPTION">
 			<Text>Ur</Text>
@@ -732,7 +732,7 @@
 			<Text>Vendian</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ZEALANDIA_DESCRIPTION">
-			<Text>Zealandia</Text>
+			<Text>Tây Lan</Text>
 		</Row>
 		<!--Diplomatic States-->
 		<Row Tag="LOC_DIPLO_STATE_ALLIED_NAME">
@@ -754,7 +754,7 @@
 			<Text>Phản đối</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_WAR_NAME">
-			<Text>Trong chiến tranh</Text>
+			<Text>Trong thời chiến</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_NO_INFLUENCE_NAME">
 			<Text>Không ảnh hưởng</Text>
@@ -766,7 +766,7 @@
 			<Text>Ảnh hưởng lớn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_WAR_WITH_MINOR_NAME">
-			<Text>Trong chiến tranh</Text>
+			<Text>Trong thời chiến</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_AWARE_NAME">
 			<Text>Chúng tôi biết họ là ai</Text>
@@ -778,7 +778,7 @@
 			<Text>Họ bảo vệ chúng tôi</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_WAR_WITH_MAJOR_NAME">
-			<Text>Trong chiến tranh</Text>
+			<Text>Trong thời chiến</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_MINOR_MINOR_NAME">
 			<Text>Tôi đã thấy bạn</Text>
@@ -971,16 +971,16 @@
 			<Text>Biển Chết</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_EVEREST_NAME">
-			<Text>Núi Everest</Text>
+			<Text>Đỉnh Everest</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_GALAPAGOS_NAME">
 			<Text>Quần đảo Galápagos</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_GRAND_CANYON">
-			<Text>Đại vực Grand Canyon</Text>
+			<Text>Hẻm núi lớn</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_KILIMANJARO_NAME">
-			<Text>Núi Kilimanjaro</Text>
+			<Text>Đỉnh Kilimanjaro</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_PANTANAL_NAME">
 			<Text>Khu bảo tồn Pantanal</Text>
@@ -1566,10 +1566,10 @@
 			<Text>Thủ lĩnh</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_AUTOCRACY_NAME">
-			<Text>Chế độ chuyên quyền</Text>
+			<Text>Độc tài</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_OLIGARCHY_NAME">
-			<Text>Chính trị đầu xỏ</Text>
+			<Text>Thiểu số chính trị</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_CLASSICAL_REPUBLIC_NAME">
 			<Text>Cộng hòa Cổ đại</Text>
@@ -1594,10 +1594,10 @@
 		</Row>
 		<!-- Happinesses-->
 		<Row Tag="LOC_HAPPINESS_REVOLT_NAME">
-			<Text>Nổi loạn</Text>
+			<Text>Bạo Động</Text>
 		</Row>
 		<Row Tag="LOC_HAPPINESS_UNREST_NAME">
-			<Text>Lo âu</Text>
+			<Text>Bất ổn</Text>
 		</Row>
 		<Row Tag="LOC_HAPPINESS_UNHAPPY_NAME">
 			<Text>Không hạnh phúc</Text>
@@ -1616,10 +1616,10 @@
 		</Row>
 		<!-- Improvements -->
 		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
-			<Text>Tiền đồn quân man rợ</Text>
+			<Text>Tiền đồn quân man di</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_GOODY_HUT_NAME">
-			<Text>Làng bộ lạc</Text>
+			<Text>Làng thổ dân</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_FARM_NAME">
 			<Text>Nông trường</Text>
@@ -1652,7 +1652,7 @@
 			<Text>Giàn khoan dầu</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_NAME">
-			<Text>Khu nghỉ dưỡng</Text>
+			<Text>Khu nghỉ dưỡng ven biển</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_FORT_NAME">
 			<Text>Pháo đài</Text>
@@ -1692,7 +1692,7 @@
 		</Row>
 		<!-- Policies-->
 		<Row Tag="LOC_POLICY_AESTHETICS_NAME">
-			<Text>Tính thẩm mỹ</Text>
+			<Text>Mỹ Thuật</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_AGOGE_NAME">
 			<Text>Đào tạo nam giới</Text>
@@ -1707,10 +1707,10 @@
 			<Text>Nhà khách thương gia</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CHARISMATIC_LEADER_NAME">
-			<Text>Lãnh đạo lôi cuốn</Text>
+			<Text>Lãnh đạo uy tín</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CHIVALRY_NAME">
-			<Text>Tinh thần thượng võ</Text>
+			<Text>Tinh thần Hào Hiệp</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_NAME">
 			<Text>Hoạt động tập thể</Text>
@@ -1719,10 +1719,10 @@
 			<Text>Tập thể hóa</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_NAME">
-			<Text>Dân văn phòng</Text>
+			<Text>Cơ quan thuộc địa</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIAL_TAXES_NAME">
-			<Text>Thuế cá nhân</Text>
+			<Text>Thuế thuộc địa</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIZATION_NAME">
 			<Text>Thuộc địa hóa</Text>
@@ -1734,7 +1734,7 @@
 			<Text>Ngăn chặn</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CORVEE_NAME">
-			<Text>Việc nặng nhọc</Text>
+			<Text>Lao động khổ sai</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CRAFTSMEN_NAME">
 			<Text>Thợ thủ công</Text>
@@ -1746,10 +1746,10 @@
 			<Text>Bảo vệ tổ quốc</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_NAME">
-			<Text>Đoàn ngoại giao</Text>
+			<Text>Liên minh ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_DISCIPLINE_NAME">
-			<Text>Kỷ luật</Text>
+			<Text>Kỷ cương</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ECOMMERCE_NAME">
 			<Text>Thương mại điện tử</Text>
@@ -1770,7 +1770,7 @@
 			<Text>Kế hoạch 5 năm</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FREE_MARKET_NAME">
-			<Text>Chợ tự do</Text>
+			<Text>Thị trường tự do</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FRESCOES_NAME">
 			<Text>Bích họa</Text>
@@ -1791,7 +1791,7 @@
 			<Text>Tàu chiến ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_HERITAGE_TOURISM_NAME">
-			<Text>Di sản du lịch</Text>
+			<Text>Du lịch di sản</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ILKUM_NAME">
 			<Text>Thời bình</Text>
@@ -1812,7 +1812,7 @@
 			<Text>Hải phận quốc tế</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_INVENTION_NAME">
-			<Text>Sáng chế</Text>
+			<Text>Phát minh</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LAISSEZ_FAIRE_NAME">
 			<Text>Tự do kinh tế</Text>
@@ -1830,10 +1830,10 @@
 			<Text>Chiến tranh chớp nhoáng</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LIMES_NAME">
-			<Text>Limes</Text>
+			<Text>Thành phố Limes</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LITERARY_TRADITION_NAME">
-			<Text>Truyến bá văn học</Text>
+			<Text>Truyền thống văn học</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LOGISTICS_NAME">
 			<Text>Hậu cần</Text>
@@ -1848,7 +1848,7 @@
 			<Text>Công nghiệp hàng hải</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MARKET_ECONOMY_NAME">
-			<Text>Chợ kinh tế</Text>
+			<Text>Thị trường kinh tế</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MARTIAL_LAW_NAME">
 			<Text>Thiết quân luật</Text>
@@ -1863,7 +1863,7 @@
 			<Text>Trọng dụng nhân tài</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MILITARY_FIRST_NAME">
-			<Text>Quân sự đầu tiên</Text>
+			<Text>Ưu tiên quân sự</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MILITARY_ORGANIZATION_NAME">
 			<Text>Tổ chức quân sự</Text>
@@ -1875,7 +1875,7 @@
 			<Text>Bản sắc dân tộc</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATIVE_CONQUEST_NAME">
-			<Text>Native Conquest</Text>
+			<Text>Chinh phục bản địa</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATURAL_PHILOSOPHY_NAME">
 			<Text>Khoa học tự nhiên</Text>
@@ -1938,7 +1938,7 @@
 			<Text>Thuộc hạ</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_REVELATION_NAME">
-			<Text>Soi sáng</Text>
+			<Text>Khải Huyền</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SACK_NAME">
 			<Text>Cướp bóc</Text>
@@ -1989,7 +1989,7 @@
 			<Text>Thương mại ba bên</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TOTAL_WAR_NAME">
-			<Text>Tổng chiến tranh</Text>
+			<Text>Chiến tranh tổng lực</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_URBAN_PLANNING_NAME">
 			<Text>Quy hoạch đô thị</Text>
@@ -1998,7 +1998,7 @@
 			<Text>Cựu chiến binh</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_WARS_OF_RELIGION_NAME">
-			<Text>Chiến tranh tôn giáo</Text>
+			<Text>Thánh chiến</Text>
 		</Row>
 		<!-- Projects-->
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_NAME">
@@ -2014,10 +2014,10 @@
 			<Text>Vận tải biển</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_NAME">
-			<Text>Khu công nghệ hậu cầu</Text>
+			<Text>Khu công nghiệp hậu cần</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_SHORT_NAME">
-			<Text>Khu công nghệ hậu cầu</Text>
+			<Text>Khu công nghiệp hậu cần</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_NAME">
 			<Text>Đầu tư thị trường thương mại</Text>
@@ -2026,10 +2026,10 @@
 			<Text>Đầu tư thị trường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_NAME">
-			<Text>Cầu nguyện linh thiêng</Text>
+			<Text>Lễ cầu kinh</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_SHORT_NAME">
-			<Text>Cầu nguyện linh thiêng</Text>
+			<Text>Lễ cầu kinh</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_NAME">
 			<Text>Tài trợ nghiên cứu tri thức</Text>
@@ -2111,19 +2111,19 @@
 		</Row>
 		<!-- Quests-->
 		<Row Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_NAME">
-			<Text>Cải giáo tôn giáo</Text>
+			<Text>Cải Giáo</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_NAME">
 			<Text>Gửi [ICON_TradeRoute] Tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME">
-			<Text>Phá hủy 5 tiền đồn quân man rợ</Text>
+			<Text>Phá hủy tiền đồn quân man rợ trong phạm vi 5 ô</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_NAME">
 			<Text>Đào tạo đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_NAME">
-			<Text>Xây dựng khu vực</Text>
+			<Text>Xây dựng Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_NAME">
 			<Text>Thúc đẩy công nghệ</Text>
@@ -2204,7 +2204,7 @@
 			<Text>Thạch cao</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_INCENSE_NAME">
-			<Text>Nhang</Text>
+			<Text>Trầm hương</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_IVORY_NAME">
 			<Text>Ngà voi</Text>
@@ -2240,7 +2240,7 @@
 			<Text>Trà</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_TRUFFLES_NAME">
-			<Text>Nấm</Text>
+			<Text>Nấm cục</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_TOBACCO_NAME">
 			<Text>Thuốc lá</Text>
@@ -2283,7 +2283,7 @@
 			<Text>Sắt</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_NITER_NAME">
-			<Text>Đá tiêu</Text>
+			<Text>Diêm Tiêu</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_OIL_NAME">
 			<Text>Dầu</Text>
@@ -2358,7 +2358,7 @@
 			<Text>Thiên văn học</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BALLISTICS_NAME">
-			<Text>Đạn dược</Text>
+			<Text>Đạn đạo</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BANKING_NAME">
 			<Text>Ngân hàng</Text>
@@ -2376,7 +2376,7 @@
 			<Text>Hóa học</Text>
 		</Row>
 		<Row Tag="LOC_TECH_COMBINED_ARMS_NAME">
-			<Text>Quân đội tích hợp</Text>
+			<Text>Binh chủng hợp thành</Text>
 		</Row>
 		<Row Tag="LOC_TECH_COMBUSTION_NAME">
 			<Text>Đốt cháy</Text>
@@ -2403,7 +2403,7 @@
 			<Text>Điện</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ENGINEERING_NAME">
-			<Text>Kĩ sư</Text>
+			<Text>Kỹ thuật</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FLIGHT_NAME">
 			<Text>Máy bay</Text>
@@ -2430,7 +2430,7 @@
 			<Text>Luyện sắt</Text>
 		</Row>
 		<Row Tag="LOC_TECH_IRRIGATION_NAME">
-			<Text>Tưới đất</Text>
+			<Text>Tưới tiêu</Text>
 		</Row>
 		<Row Tag="LOC_TECH_LASERS_NAME">
 			<Text>Lasers</Text>
@@ -2493,13 +2493,13 @@
 			<Text>bộ phận thay thế</Text>
 		</Row>
 		<Row Tag="LOC_TECH_RIFLING_NAME">
-			<Text>Rãnh nòng súng</Text>
+			<Text>Súng trường</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ROBOTICS_NAME">
 			<Text>Robot</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ROCKETRY_NAME">
-			<Text>Tên lửa</Text>
+			<Text>Phản lực học</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SAILING_NAME">
 			<Text>Thuyền buồm</Text>
@@ -2541,7 +2541,7 @@
 			<Text>Bánh xe</Text>
 		</Row>
 		<Row Tag="LOC_TECH_WRITING_NAME">
-			<Text>Viết</Text>
+			<Text>Viết Lách</Text>
 		</Row>
 		<!-- Terrain -->
 		<Row Tag="LOC_TERRAIN_COAST_NAME">
@@ -2624,20 +2624,20 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_AT_CREW_NAME">
-			<Text>Chống Tank</Text>
+			<Text>Chống Tăng</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_NAME">
-			<Text>Quân man rợ cưỡi ngựa</Text>
+			<Text>Kỵ binh quân man di</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_NAME">
-			<Text>Tiễn mã quân man rợ</Text>
+			<Text>Tiễn mã quân man di</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_GALLEY_NAME">
-			<Text>Thuyền quân man rợ</Text>
+			<Text>Thuyền quân man di</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTERING_RAM_NAME">
-			<Text>Công thành</Text>
+			<Text>Xe phá cổng</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTLESHIP_NAME">
 			<Text>Chiến hạm</Text>
@@ -2652,13 +2652,13 @@
 			<Text>Bomber</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_NAME">
-			<Text>Hỏa pháo</Text>
+			<Text>Đại Pháo</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CARAVEL_NAME">
 			<Text>Thuyền buồn nhỏ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CATAPULT_NAME">
-			<Text>Cẩu đá</Text>
+			<Text>Máy Bắn Đá</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CAVALRY_NAME">
 			<Text>Kỵ binh</Text>
@@ -2682,16 +2682,16 @@
 			<Text>Thuyền buồm</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_CLASS_GENERAL_NAME">
-			<Text>Tướng quân vĩ đại</Text>
+			<Text>Đại Tướng Quân</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_NAME">
-			<Text>Tướng quân vĩ đại</Text>
+			<Text>Đại Tướng Quân</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_CLASS_ADMIRAL_NAME">
-			<Text>Đô đốc vĩ đại</Text>
+			<Text>Đại Đô Đốc</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_NAME">
-			<Text>Đô đốc vĩ đại</Text>
+			<Text>Đại Đô Đốc</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_CLASS_ENGINEER_NAME">
 			<Text>Kỹ sư vĩ đại</Text>
@@ -2749,7 +2749,7 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_INQUISITOR_NAME">
-			<Text>Điều tra tôn giáo</Text>
+			<Text>Điều Tra Giáo</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_IRONCLAD_NAME">
@@ -2769,10 +2769,10 @@
 			<Text>Súng máy</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MECHANIZED_INFANTRY_NAME">
-			<Text>Bộ binh cơ khí hóa</Text>
+			<Text>Bộ binh cơ giới</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MEDIC_NAME">
-			<Text>Bác sĩ</Text>
+			<Text>Quân y</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_NAME">
 			<Text>Kĩ sư quân đội</Text>
@@ -2784,13 +2784,13 @@
 			<Text>Nhà truyền giáo</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MODERN_AT_NAME">
-			<Text>Chống Tank hiện đại</Text>
+			<Text>Chống Tăng hiện đại</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MODERN_ARMOR_NAME">
-			<Text>Tank hiện đại</Text>
+			<Text>Tăng hiện đại</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MUSKETMAN_NAME">
-			<Text>Súng trường</Text>
+			<Text>Lính Hỏa Mai</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NATURALIST_NAME">
 			<Text>Nhà tự nhiên học</Text>
@@ -2803,7 +2803,7 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_PIKEMAN_NAME">
-			<Text>Lính rìu</Text>
+			<Text>Lính dùng thương</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PRIVATEER_NAME">
 			<Text>Tàu cướp biển</Text>
@@ -2812,13 +2812,13 @@
 			<Text>Thuyền mái chèo</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RANGER_NAME">
-			<Text>Lính cảnh</Text>
+			<Text>Vệ binh</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
 			<Text>Tên lửa hạng nhẹ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOBILE_SAM_NAME">
-			<Text>Tank phòng không</Text>
+			<Text>Tên lửa phòng không cơ động</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCOUT_NAME">
 			<Text>Trinh sát</Text>
@@ -2845,7 +2845,7 @@
 			<Text>Kiếm sĩ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TANK_NAME">
-			<Text>Tank</Text>
+			<Text>Xe Tăng</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRADER_NAME">
 			<Text>Thương gia</Text>
@@ -2854,7 +2854,7 @@
 			<Text>Chiến binh</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
-			<Text>Tiễn mã Egypt</Text>
+			<Text>Tiễn mã Ai Cập</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREEK_HOPLITE_NAME">
 			<Text>Lính xiên Greek</Text>
@@ -2869,13 +2869,13 @@
 			<Text>Kị binh tình nguyện</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Lính áo đỏ</Text>
+			<Text>Lính áo đỏ Anh</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_NAME">
 			<Text>Kẻ chinh phục</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROMAN_LEGION_NAME">
-			<Text>Quân đoàn La Mã</Text>
+			<Text>Lính Lê Dương La Mã</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_NAME">
 			<Text>Samurai</Text>
@@ -2884,10 +2884,10 @@
 			<Text>Kẻ điên Na Uy</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Thuyền dài Na Uy</Text>
+			<Text>Thuyền dài Viking</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
-			<Text>Ngạo hổ tàng long</Text>
+			<Text>Ngọa Hổ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_NAME">
 			<Text>Lính Cossack</Text>
@@ -2911,7 +2911,7 @@
 			<Text>Tàu ngầm U-Boat Đức</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AMERICAN_P51_NAME">
-			<Text>Tiêm kích Mỹ</Text>
+			<Text>Phi Cơ Ngựa Hoang P-51</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
 			<Text>Tàu Minas Geraes</Text>

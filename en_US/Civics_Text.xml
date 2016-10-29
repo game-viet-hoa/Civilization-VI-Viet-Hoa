@@ -101,10 +101,10 @@
 			<Text>Khám phá lục địa thứ hai.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
-			<Text>Đánh bại một tiền đồn quân man rợ.</Text>
+			<Text>Đánh bại một tiền đồn quân man di.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
-			<Text>Xây một khu vực bất kỳ</Text>
+			<Text>Xây một Đặc Khu bất kỳ</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
 			<Text>Một thành phố đạt 6 dân số.</Text>
@@ -173,7 +173,7 @@
 			<Text>Kiếm được 3 vĩ nhân.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
-			<Text>Xây 7 khu vực khác nhau.</Text>
+			<Text>Xây 7 Đặc Khu khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_NATIONALISM">
 			<Text>Tuyên bố chiến tranh bằng cách viện cớ.</Text>
@@ -194,7 +194,7 @@
 			<Text>Xây 2 Pháo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CONSERVATION">
-			<Text>Có khu vực láng giếng bằng Phúc thẩm ngoạn mục.</Text>
+			<Text>Có Vùng Ngoại Ô có tâm trạng Ngây ngất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
 			<Text>Có 3 Trung đội trong quân đội.</Text>
@@ -246,10 +246,10 @@
 			<Text>Khám phá lục địa thứ hai.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
-			<Text>Đánh bại một tiền đồn quân man rợ.</Text>
+			<Text>Đánh bại một tiền đồn quân man di.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
-			<Text>Xây một khu vực bất kỳ</Text>
+			<Text>Xây một Đặc Khu bất kỳ</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
 			<Text>Một thành phố đạt 6 dân số.</Text>
@@ -318,7 +318,7 @@
 			<Text>Kiếm được 3 vĩ nhân.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
-			<Text>Xây 7 khu vực khác nhau.</Text>
+			<Text>Xây 7 Đặc Khu khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
 			<Text>Tuyên bố chiến tranh bằng cách viện cớ.</Text>
@@ -339,7 +339,7 @@
 			<Text>Xây 2 Pháo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
-			<Text>Có khu vực láng giếng bằng Phúc thẩm ngoạn mục.</Text>
+			<Text>Có Vùng Ngoại Ô có tâm trạng Ngây ngất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
 			<Text>Có 3 Quân đoàn trong quân đội.</Text>
@@ -434,7 +434,7 @@
 			<Text>Tất cả lính cận chiến được +4 [ICON_Strength] Sức mạnh.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
-			<Text>Tất cả thành phố với một khu vực được +1 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Tất cả thành phố với một Đặc Khu được +1 [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
 			<Text>+2 [ICON_Housing] Nhà ở cho bất kỳ thành phố có Tường Trung cổ.</Text>
@@ -482,7 +482,7 @@
 			<Text>Thưởng tất cả Sản phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
-			<Text>Thêm sản lượng từ các khu vực.</Text>
+			<Text>Thêm sản lượng từ các Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
 			<Text>Không có thưởng.</Text>
@@ -512,7 +512,7 @@
 			<Text>Tưởng tất cả [ICON_Production] Sản phẩm (10%, cộng 1% cho mỗi 20 lượt trên tốc độ trung bình).</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
-			<Text>Thưởng sản lượng cho khu vực (30%, cộng 1% cho mỗi 10 lượt trên tốc độ trung bình).</Text>
+			<Text>Thưởng sản lượng cho Đặc Khu (30%, cộng 1% cho mỗi 10 lượt trên tốc độ trung bình).</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
 			<Text>Không còn {1_policyName} có thể đặt cho chính phủ này.</Text>
@@ -534,7 +534,7 @@
 			<Text>Placeholder.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
-			<Text>Thưởng +100% khu vực liền kề Khu nghệ thuật.</Text>
+			<Text>Thưởng +100% Đặc Khu liền kề Khu nghệ thuật.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_AGOGE_DESCRIPTION">
 			<Text>Thưởng +50% [ICON_Production] Sản phẩm cho đơn vị cận chiến và đánh xa thời Xa xưa và Cổ đại.</Text>
@@ -591,7 +591,7 @@
 			<Text>[ICON_Envoy] Phái đoàn đầu tiên gửi đến mỗi thành phố tự trị được tính là hai.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Sức mạnh khi đấu với quân man rợ.</Text>
+			<Text>+5 [ICON_Strength] Sức mạnh khi đấu với quân man di.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
 			<Text>+5 [ICON_Production] Sản phẩm và +10 [ICON_Gold] Vàng [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
@@ -642,7 +642,7 @@
 			<Text>+2 [ICON_GreatScientist] Nhà khoa học vĩ đại mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_INSULAE_DESCRIPTION">
-			<Text>+1 [ICON_Housing] Nhà ở trong tất cả thành vố với ít nhất 2 khu vực.</Text>
+			<Text>+1 [ICON_Housing] Nhà ở trong tất cả thành phố với ít nhất 2 Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm cho dự án Chạy đua vào không gian nếu một thành phố có Học viện quân sự hoặc Hải cảng.</Text>
@@ -666,7 +666,7 @@
 			<Text>Giảm giá duy trì đơn vị 2 [ICON_Gold] Vàng mỗi lượt, mỗi đơn vị.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Tiện nghi cho tất cả thành phố với ít nhất 2 khu vực.</Text>
+			<Text>+1 [ICON_Amenities] Tiện nghi cho tất cả thành phố với ít nhất 2 Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
 			<Text>+100% [ICON_Production] Sản phẩm cho Kỵ binh hạng nặng và nhẹ thời đại Hiện đại, Nguyên tử và Thông tin.</Text>
@@ -696,19 +696,19 @@
 			<Text>Giảm 25% Đảo chính.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
-			<Text>+2 [ICON_Housing] Nhà ở trong tất cả thành phố có ít nhất 3 khu vực.</Text>
+			<Text>+2 [ICON_Housing] Nhà ở trong tất cả thành phố có ít nhất 3 Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
 			<Text>+1 [ICON_Gold] Vàng cho mỗi [ICON_Envoy] Phái đoàn ở thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
-			<Text>Thành phố +1 [ICON_Culture] Văn minh cho mỗi khu vực nó xây dựng.</Text>
+			<Text>Thành phố +1 [ICON_Culture] Văn minh cho mỗi Đặc Khu nó xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
 			<Text>+50% [ICON_Production] Sản phẩm cho đơn vị cận chiến và đánh xa thời đại Nguyên tử và Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
-			<Text>+4 [ICON_GreatGeneral] Tướng quân vĩ đại mỗi lượt.</Text>
+			<Text>+4 [ICON_GreatGeneral] Đại Tướng Quân mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
 			<Text>Học viện quân sự và Hải cảng sinh ra +1 [ICON_Science] Khoa học.</Text>
@@ -726,10 +726,10 @@
 			<Text>+100% khu liền kề Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatAdmiral] Đô đốc vĩ đại mỗi lượt.</Text>
+			<Text>+2 [ICON_GreatAdmiral] Đại Đô Đốc mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
-			<Text>+4 [ICON_Housing] Nhà ở, +2 [ICON_Amenities] Tiện nghi, -8 [ICON_Gold] Vàng cho tất cả thành cố có ít nhất 3 khu vực.</Text>
+			<Text>+4 [ICON_Housing] Nhà ở, +2 [ICON_Amenities] Tiện nghi, -8 [ICON_Gold] Vàng cho tất cả thành cố có ít nhất 3 Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
 			<Text>+4 [ICON_GreatScientist] Nhà khoa học vĩ đại mỗi lượt.</Text>
@@ -783,7 +783,7 @@
 			<Text>+2 [ICON_GreatProphet] Nhà tiên tri vĩ đại mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SACK_DESCRIPTION">
-			<Text>Sản lượng nhân đôi khi cướp bóc khu vực.</Text>
+			<Text>Sản lượng nhân đôi khi cướp bóc Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
 			<Text>x3 [ICON_Tourism] Du lịch từ [ICON_GreatWork_Music] Tác phẩm âm nhạc.</Text>
@@ -807,7 +807,7 @@
 			<Text>+50 [ICON_Production] Sản phẩm cho đơn vị hải quân thời Hiện đại và tất cả Tàu sân bay.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
-			<Text>+2 [ICON_GreatGeneral] Tướng quân vĩ đại mỗi lượt.</Text>
+			<Text>+2 [ICON_GreatGeneral] Đại Tướng Quân mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SURVEY_DESCRIPTION">
 			<Text>x2 EXP cho đơn vị trinh sát.</Text>
@@ -844,7 +844,7 @@
 		</Row>
 		<!-- Preview Text -->
 		<Row Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
-			<Text>+4 Chính trị đầu xỏ</Text>
+			<Text>+4 Thiểu số chính trị</Text>
 		</Row>
 		<!-- Temporary UI -->
 		<Row Tag="LOC_CIVIC_STARTED">

@@ -469,7 +469,7 @@
 			<Text>Thưởng cho chủ Jerusalem</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
-			<Text>Tự động cải giáo tôn giáo được sáng lập, và tạo sức ép đối với tôn giáo nếu có thành phố thần thánh.</Text>
+			<Text>Tự động Cải Giáo được sáng lập, và tạo sức ép đối với tôn giáo nếu có thành phố thần thánh.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KABUL_NAME">
 			<Text>Thưởng cho chủ Kabul</Text>
@@ -487,7 +487,7 @@
 			<Text>Thưởng cho chủ Kumasi</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
-			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới thành phố tự trị bất kỳ +2 [ICON_Culture] Văn minh và +1 [ICON_Gold] Vàng cho mỗi khu vực đặc biệt trong thành phố gốc.</Text>
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới thành phố tự trị bất kỳ +2 [ICON_Culture] Văn minh và +1 [ICON_Gold] Vàng cho mỗi Đặc Khu đặc biệt trong thành phố gốc.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
 			<Text>Thưởng cho chủ La Venta</Text>
@@ -511,7 +511,7 @@
 			<Text>Thưởng cho chủ Nan Madol</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
-			<Text>Khu vực trên hoặc cạnh bờ biển +2 [ICON_Culture] Văn minh.</Text>
+			<Text>Đặc Khu trên hoặc cạnh bờ biển +2 [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
 			<Text>Thưởng cho chủ Preslav</Text>
@@ -529,7 +529,7 @@
 			<Text>Thưởng cho chủ Stockholm</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
-			<Text>Các khu vực +1 điểm [ICON_GreatPerson] Vĩ nhân cho mỗi loại ([ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại cho khu nghệ thuật).</Text>
+			<Text>Các Đặc Khu +1 điểm [ICON_GreatPerson] Vĩ nhân cho mỗi loại ([ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại cho khu nghệ thuật).</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
 			<Text>Thưởng cho chủ Toronto</Text>
@@ -642,7 +642,7 @@
 			<Text>Đơn vị mặt đất +5 [ICON_Strength] Sức mạnh trong ô đất liền kề bờ biển; đơn vị hải quân +5 [ICON_Strength] Sức mạnh trong ô nước cạn. Xây Khu quân sự, Khu linh thiêng, và Khu nghệ thuật giảm một nửa thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
-			<Text>Điều tra tôn giáo có thể Remove Heresy thêm một lần. Đơn vị chiến đâu có thưởng +4 [ICON_Strength] Sức mạnh khi chống lại người chơi có tôn giáo khác.</Text>
+			<Text>Điều Tra Giáo có thể Remove Heresy thêm một lần. Đơn vị chiến đâu có thưởng +4 [ICON_Strength] Sức mạnh khi chống lại người chơi có tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
 			<Text>Nhận thêm [ICON_Science] Khoa học hoặc [ICON_Culture] Văn minh từ [ICON_TradeRoute] Tuyến đường thương mại tới các nền văn minh hơn đối với Nga (+1 mỗi 3 công nghệ hoặc hành chính phía trước).</Text>
@@ -651,7 +651,7 @@
 			<Text>Thêm slot Chính sách quân sự. +7 [ICON_Strength] Sức mạnh khi tấn công thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
-			<Text>Tất cả thành phố được tìm thấy hoặc chinh phục ở một lục địa khác lục địa nhà thì nhận một đơn vị cận chiến miễn phí. Nhận được Lính áo đỏ đặc biệt khi công nghệ Khoa học quân sự đã được nghiên cứu.</Text>
+			<Text>Tất cả thành phố được tìm thấy hoặc chinh phục ở một lục địa khác lục địa nhà thì nhận một đơn vị cận chiến miễn phí. Nhận được Lính áo đỏ Anh đặc biệt khi công nghệ Khoa học quân sự đã được nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
 			<Text>Nhà thờ tôn giáo có thể được mua bởi bất kỳ với chơi chỉ với giá bằng 1/10 [ICON_Faith] Lòng tin. Kiến trúc nhà thờ tăng 10% cho [ICON_Science] Khoa học, [ICON_Faith] Lòng tin và [ICON_Culture] Văn minh cho các thành phố của Ả Rập.</Text>
@@ -660,7 +660,7 @@
 			<Text>Có thể không thể xây Khu linh thiêng, Nhà tiên tri vĩ đại, hoặc sáng lập tôn giáo. Tất cả tín ngưỡng của bất kỳ tôn giáo mà chính nó thành lập trong đa số của thành phố. Nhận một Thiên chúa mỗi khi anh ấy hoàn tất Khu Mbanza hoặc Khu nghệ thuật (của các thành phố đa số tôn giáo).</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
-			<Text>Đơn vị +5 [ICON_Strength] Sức mạnh trên lục địa nhà của họ. +1 tâm trạng cho tất cả ô đất trong thành phố với Công viên quốc gia. Có được Kị binh tình nguyện khi họ nghiên cứu công nghệ Rãnh nòng súng.</Text>
+			<Text>Đơn vị +5 [ICON_Strength] Sức mạnh trên lục địa nhà của họ. +1 tâm trạng cho tất cả ô đất trong thành phố với Công viên quốc gia. Có được Kị binh tình nguyện khi họ nghiên cứu công nghệ Súng Trường.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
 			<Text>+5 [ICON_Faith] Lòng tin cho mỗi nền văn minh (bao gồm Ấn Độ) họ gặp mà đã thành lập một tôn giáo và hiện tại không trong chiến tranh. Nền văn minh đối lập nhận được x2 mệt mỏi chiến tránh khi chống lại Gandhi.</Text>
@@ -675,7 +675,7 @@
 			<Text>Có 1 level của [ICON_VisLimited] Tầm nhìn ngoại giao tốt hơn bình thường với mỗi nền văn minh mà cô ấy gặp. Nhận khả năng xây thêm một Gián điệp với công nghệ Thành trì.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
-			<Text>Các thành phố bắt đầu với thêm một kiến trúc trong thành phố trung tâm. (Bắt đầu với một kiến trúc Đài kỷ niệm trong thời đại Cổ xưa).</Text>
+			<Text>Các thành phố bắt đầu với thêm một kiến trúc trong thành phố trung tâm. (Bắt đầu với một kiến trúc Đài tưởng niệm trong thời đại Cổ xưa).</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
 			<Text>Tất cả đơn vị +5 [ICON_Strength] Sức mạnh khi tấn công với đơn vị bị thương. Khi họ đánh bại một đơn vị thì được hồi sức lên tới 50 điểm.</Text>

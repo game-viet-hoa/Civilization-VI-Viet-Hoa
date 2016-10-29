@@ -80,7 +80,7 @@
 		</Row>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
-			<Text>Đài Kỉ Niệm Các Vị Thần</Text>
+			<Text>Đài tưởng niệm Các Vị Thần</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
 			<Text>Ánh Chớp Thần Thánh</Text>
@@ -272,7 +272,7 @@
 			<Text>+1 [ICON_Production] Sản phẩm từ đào tài nguyên chiến thuật.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Thực phẩm từ Vườn ươm [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Nhang, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê, và [ICON_RESOURCE_TEA] Trà.</Text>
+			<Text>+1 [ICON_Food] Thực phẩm từ Vườn ươm [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Trầm Hương, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê, và [ICON_RESOURCE_TEA] Trà.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
 			<Text>+1 [ICON_Culture] Văn minh từ Vườn ươm [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị, and [ICON_RESOURCE_SUGAR] Đường.</Text>
@@ -285,10 +285,10 @@
 			<Text>+30 chữa trị trong thành phố thần thánh hoặc bất kỳ ô đất liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Thưởng [ICON_Faith] Lòng tin bằng 50% sức mạnh kẻ địch bị giết trong bán kính 8 ô của khu vực thành phố thần thánh.</Text>
+			<Text>Thưởng [ICON_Faith] Lòng tin bằng 50% sức mạnh kẻ địch bị giết trong bán kính 8 ô của Đặc Khu thành phố thần thánh.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
-			<Text>+50 [ICON_Faith] Lòng tin mỗi khi tiền đồn quân man rợ bị xóa bỏ.</Text>
+			<Text>+50 [ICON_Faith] Lòng tin mỗi khi tiền đồn quân man di bị xóa bỏ.</Text>
 		</Row>
 		<!--Pantheon - General Purpose-->
 		<Row Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
@@ -302,7 +302,7 @@
 		</Row>
 		<!--2. WORSHIP BELIEFS-->
 		<Row Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
-			<Text>Cho phép xây dựng Nhà thờ lớn (+3 [ICON_Faith] Lòng tin, 1 slot nghệ thuật tôn giáo).</Text>
+			<Text>Cho phép xây dựng Thánh đường (+3 [ICON_Faith] Lòng tin, 1 slot nghệ thuật tôn giáo).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
 			<Text>Cho phép xây dựng Thánh đường Sikh (+3 [ICON_Faith] Lòng tin, +2 [ICON_Food] Thực phẩm).</Text>
@@ -342,7 +342,7 @@
 			<Text>+1% [ICON_Production] Sản phẩm cho mỗi tín đồ.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Tiện nghi trong tất cả thành phố với 2 khu vực.</Text>
+			<Text>+1 [ICON_Amenities] Tiện nghi trong tất cả thành phố với 2 Đặc Khu.</Text>
 		</Row>
 		<!--4. FOUNDER BELIEFS-->
 		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">

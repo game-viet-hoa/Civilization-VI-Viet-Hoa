@@ -337,7 +337,7 @@
 		</Row>
 		<!-- Economic Notifications -->
 		<Row Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
-			<Text>Cuộc nổi loạn!</Text>
+			<Text>Cuộc bạo động!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
 			<Text>Thiếu [ICON_Amenities] Tiện nghi trong {1_CityName} đã làm người dân chống lại chúng ta, tạo {2_NumUnits} đơn vị chống đối.</Text>
@@ -457,7 +457,7 @@
 			<Text>Tìm thấy lục địa mới. Chúng tôi gọi nó là {1_ContinentName}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
-			<Text>ĐÃ KHÁM PHÁ LÀNG BỘ LẠC</Text>
+			<Text>ĐÃ KHÁM PHÁ Làng THỔ DÂN</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
 			<Text>Tìm thấy một ngôi làng thân thiện.</Text>
@@ -478,7 +478,7 @@
 			<Text>Quan man rợ tiếp cận</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
-			<Text>Phát hiện quân man rợ đang tiếp cận thành phố {1_CityName}.</Text>
+			<Text>Phát hiện quân man di đang tiếp cận thành phố {1_CityName}.</Text>
 		</Row>
 		<!-- Victory Notifications -->
 		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
@@ -678,7 +678,7 @@
 			<Text>Thỏa thuận của bạn với {1_CivName} đã hết hạn.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
-			<Text>Khu vực bị cướp</Text>
+			<Text>Đặc Khu bị cướp</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
 			<Text>{1_DistrictName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>

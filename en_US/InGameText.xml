@@ -94,7 +94,7 @@
 			<Text>Nguy hiểm</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIANS_HAVE_LEARNED_OF_YOUR_PRESENCE">
-			<Text>Quân man rợ đã biết được sự hiện diện của bạn.</Text>
+			<Text>Quân man di đã biết được sự hiện diện của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_NOT_RECOMMENDED">
 			<Text>Không đề xuất</Text>
@@ -632,7 +632,7 @@
 			<Text>+{1_Value} Phòng thủ sông</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_BONUS_VS_BARBARIANS">
-			<Text>+{1_Value} Lợi thế với quân man rợ</Text>
+			<Text>+{1_Value} Lợi thế với quân man di</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_FRIENDLY_TERRITORY_BONUS">
 			<Text>+{1_Value} Lãnh thổ đồng minh</Text>
@@ -671,7 +671,7 @@
 			<Text>+{1_Value} Cung điện</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_STRENGTH_BONUS">
-			<Text>+{1_Value} từ khu vực</Text>
+			<Text>+{1_Value} từ Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_ENVOY_STRENGTH_BONUS">
 			<Text>+{1_Value} từ ảnh hưởng bên ngoài</Text>
@@ -689,7 +689,7 @@
 			<Text>[COLOR_RED]{1_Value}[ENDCOLOR] Đơn vị bị thương</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DAMAGED_DISTRICT_DESC">
-			<Text>[COLOR_RED]{1_Value} Khu vực thiệt hại[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Value} Đặc Khu thiệt hại[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
 			<Text>+{1 Value} thưởng tấn công tầm xa</Text>
@@ -827,7 +827,7 @@
 			<Text>Không còn điểm di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_NEAR_GOODY_HUT">
-			<Text>Quá gần làng bộ lạc</Text>
+			<Text>Quá gần làng thổ dân</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_FORMATION">
 			<Text>In formation with other units</Text>
@@ -846,7 +846,7 @@
 			<Text>Thành phố tấn công tầm xa</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_DISTRICT_RANGE_STRIKE">
-			<Text>Khu vực tấn công tầm xa</Text>
+			<Text>Đặc Khu tấn công tầm xa</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_FOOD_SURPLUS">
 			<Text>{1_Food} surplus [ICON_Food] Thực phẩm.</Text>
@@ -855,13 +855,13 @@
 			<Text>Sức mạnh phòng thủ thành phố</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_DISTRICT_DEFENSE_STRENGTH">
-			<Text>Sức mạnh phòng thủ khu vực: {1_DefenseValue}</Text>
+			<Text>Sức mạnh phòng thủ Đặc Khu: {1_DefenseValue}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_GARRISON_HITPOINTS">
 			<Text>Trạng thái thành phố: {1_Health}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_DISTRICT_HITPOINTS">
-			<Text>Trạng thái khu vực: {1_Health}</Text>
+			<Text>Trạng thái Đặc Khu: {1_Health}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_OUTER_DEFENSE_HITPOINTS">
 			<Text>Trạng thái tường thành: {1_Health}</Text>
@@ -898,7 +898,7 @@
 			<Text>Dân cư, tiện nghi và nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OVERVIEW_BUILDINGS_TOOLTIP">
-			<Text>Khu vực, kiến trúc, kỳ quan và thương mại.</Text>
+			<Text>Đặc Khu, kiến trúc, kỳ quan và thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OVERVIEW_RELIGION_TOOLTIP">
 			<Text>Tín ngưỡng và tôn giáo.</Text>
@@ -979,7 +979,7 @@
 			<Text>Kiến trúc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_BUILDINGS_AND_DISTRICTS">
-			<Text>Kiến trúc và khu vực</Text>
+			<Text>Kiến trúc và Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_CHANGE_PRODUCTION">
 			<Text>Thay đổi Sản phẩm</Text>
@@ -1012,7 +1012,7 @@
 			<Text>Tùy chọn</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_DISTRICTS_CONSTRUCTED">
-			<Text>{1_Turns : plural 1?Khu vực; other?Khu vực;} đã xây dựng</Text>
+			<Text>{1_Turns : plural 1?Đặc Khu; other?Đặc Khu;} đã xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_DOMINANT_RELIGION">
 			<Text>Tôn giáo chiếm ưu thế</Text>
@@ -1054,7 +1054,7 @@
 			<Text>Nhà ở từ hành chính:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_DISTRICTS">
-			<Text>Nhà ở từ khu vực:</Text>
+			<Text>Nhà ở từ Đặc Khu:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_IMPROVEMENTS">
 			<Text>Nhà ở từ công trình:</Text>
@@ -1150,7 +1150,7 @@
 			<Text>Gia tăng dân số chậm hơn {1_Pct}%.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_POSSIBLE">
-			<Text> khu vực có thể</Text>
+			<Text> Đặc Khu có thể</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PRODUCTION_QUEUE">
 			<Text>Hàng chờ sản xuất</Text>
@@ -1270,13 +1270,13 @@
 			<Text>{1_Turns : plural 1? lượt; other? lượt;} nữa bị mất</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_DISTRICT_BUILT_TT">
-			<Text>Khu vực này đã được hoàn thành.</Text>
+			<Text>Đặc Khu này đã được hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_UNASSIGNED_CITIZENS">
 			<Text>Unassigned Citizens</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_VIEW_DISTRICT_ADJACENT_BONUSES">
-			<Text>Xem sản lượng khu vực liền kề.</Text>
+			<Text>Xem sản lượng Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_WONDERS">
 			<Text>Kỳ quan</Text>
@@ -1325,28 +1325,28 @@
 			<Text>Không có vị trí thích hợp để đặt công trình này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_DISTRICT">
-			<Text>Kiến trúc này yêu cầu khu vực {1_District}}.</Text>
+			<Text>Kiến trúc này yêu cầu Đặc Khu {1_District}}.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
 			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}}.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
-			<Text>Khu vực bị chiếm bởi kẻ địch.</Text>
+			<Text>Đặc Khu bị chiếm bởi kẻ địch.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_PILLAGED">
-			<Text>Khu vực yêu cầu bị thiệt hại.</Text>
+			<Text>Đặc Khu yêu cầu bị thiệt hại.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_CONTAMINATED">
-			<Text>Khu vực yêu cầu bị ô nhiễm.</Text>
+			<Text>Đặc Khu yêu cầu bị ô nhiễm.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_OCCUPIED_BY_ENEMY">
-			<Text>Khu vực bị chiếm bởi kẻ địch.</Text>
+			<Text>Đặc Khu bị chiếm bởi kẻ địch.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW_SHORT">
 			<Text>Yêu cầu tối thiểu {1_Population} [ICON_Citizen] Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
-			<Text>Thành phố cần phát triển lớn {1_Population} dân số để có thể xây dựng khu vực.</Text>
+			<Text>Thành phố cần phát triển lớn {1_Population} dân số để có thể xây dựng Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_NO_SUITABLE_LOCATION">
 			<Text>Không có vị trí thích hợp.</Text>
@@ -1361,7 +1361,7 @@
 			<Text>Một phần xây dựng {1_District} trong {2_CityName} phải được hoàn thành (hoặc phá hủy) trước khi bạn có thể bắt đầu {3_District} khác.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_CONFIRM_POPUP">
-			<Text>Bạn muốn xây khu vực ở đây?</Text>
+			<Text>Bạn muốn xây Đặc Khu ở đây?</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">
 			<Text>Bạn muốn xây {1_DistrictName} ở đây?</Text>
@@ -1403,22 +1403,22 @@
 			<Text>Đơn vị này yêu cầu {1_District}.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_DESTROYED">
-			<Text>Khu vực yêu cầu để đào tạo bị thiệt hại.</Text>
+			<Text>Đặc Khu yêu cầu để đào tạo bị thiệt hại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_DESTROYED">
-			<Text>Khu vực yêu cầu để đào tạo bị thiệt hại.</Text>
+			<Text>Đặc Khu yêu cầu để đào tạo bị thiệt hại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_CONTAMINATED">
-			<Text>Khu vực yêu cầu để đào tạo bị ô nhiễm.</Text>
+			<Text>Đặc Khu yêu cầu để đào tạo bị ô nhiễm.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_CONTAMINATED">
-			<Text>Các khu vực yêu cầu để đào tạo bị ô nhiễm.</Text>
+			<Text>Các Đặc Khu yêu cầu để đào tạo bị ô nhiễm.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_OCCUPIED_BY_ENEMY">
-			<Text>Khu vực yêu cầu để đào tạo bị kẻ địch chiếm giữ.</Text>
+			<Text>Đặc Khu yêu cầu để đào tạo bị kẻ địch chiếm giữ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_OCCUPIED_BY_ENEMY">
-			<Text>Cáckhu vực yêu cầu để đào tạo bị kẻ địch chiếm giữ.</Text>
+			<Text>Các Đặc Khu yêu cầu để đào tạo bị kẻ địch chiếm giữ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_NO_EMPTY_AIR_SLOTS">
 			<Text>Tất cả thành phố này đã hết chỗ chứa máy bay.</Text>
@@ -1578,7 +1578,7 @@
 			<Text>{1_LostGoldRate} từ việc duy trì kiến trúc</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_DISTRICTS">
-			<Text>{1_LostGoldRate} từ việc duy trì khu vực</Text>
+			<Text>{1_LostGoldRate} từ việc duy trì Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_UNITS">
 			<Text>{1_LostGoldRate} từ việc duy trì đơn vị</Text>
@@ -1815,10 +1815,10 @@
 			<Text>Đóng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_DISTRICTS_BUILDINGS">
-			<Text>Khu vực và kiến trúc</Text>
+			<Text>Đặc Khu và kiến trúc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_DISTRICTS">
-			<Text>Khu vực</Text>
+			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_BUILDINGS">
 			<Text>Kiến trúc</Text>
@@ -2093,7 +2093,7 @@
 			<Text>Chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_DISTRICT">
-			<Text>Khu vực</Text>
+			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_WONDER">
 			<Text>Kỳ quan</Text>
@@ -2254,7 +2254,7 @@
     </Row>
 		<!-- ==================== Unit Operations ==================== -->
 		<Row Tag="LOC_UNITOPERATION_BUILD_DISTRICT">
-			<Text>Xây khu vực</Text>
+			<Text>Xây Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_CAMPUS">
 			<Text>Xây khu tri thức</Text>
@@ -2290,7 +2290,7 @@
 			<Text>Loại bỏ ô nhiễm</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CONVERT_BARBARIANS_DESCRIPTION">
-			<Text>Chuyển quân man rợ</Text>
+			<Text>Chuyển quân man di</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_DISEMBARK_DESCRIPTION">
 			<Text>Lên bờ</Text>
@@ -2572,7 +2572,7 @@
 			<Text>Phải dựa trên {1_DistrictName} đã hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_NO_GREATWORK_SLOT">
-			<Text>Phải có khu vực hoặc kỳ quan với slot trống phù hợp với từng loại thành tựu vĩ đại.</Text>
+			<Text>Phải có Đặc Khu hoặc kỳ quan với slot trống phù hợp với từng loại thành tựu vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_INSUFFICIENT_GOLD">
 			<Text>Yêu cầu thêm {1_GoldAmount} [ICON_Gold] Vàng để kích hoạt.</Text>
@@ -2608,7 +2608,7 @@
 			<Text>Phải trên ô đất với một đơn vị hải quân.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_BARBARIAN_UNIT">
-			<Text>Phải cạnh đơn vị quân man rợ.</Text>
+			<Text>Phải cạnh đơn vị quân man di.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_UNIT_WITH_MILITARY_FORMATION">
 			<Text>Phải trên ô đất với một đơn vị quân sự (trung đội, hạm đội...)</Text>
@@ -2694,7 +2694,7 @@
 			<Text>Duy trì: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BUILDING_DISTRICT_COPY">
-			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} của khu vực liền kề khu vực này.</Text>
+			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} của Đặc Khu liền kề Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BUILDING_REQUIRES">
 			<Text>Yêu cầu:</Text>
@@ -2721,7 +2721,7 @@
 			<Text>Phải gần {1_ResourceName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BUILDING_MUTUALLY_EXCLUSIVE_WITH">
-			<Text>Không thể xây trong cùng khu vực có {1_BuildingName}</Text>
+			<Text>Không thể xây trong cùng Đặc Khu có {1_BuildingName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_ADJACENT_RIVER">
 			<Text>Phải gần sông</Text>
@@ -2817,7 +2817,7 @@
 			<Text>Kiến trúc: {1_BuildingName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_UNLOCKS_DISTRICT">
-			<Text>Khu vực: {1_DistrictName}</Text>
+			<Text>Đặc Khu: {1_DistrictName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_UNLOCKS_IMPROVEMENT">
 			<Text>Công trình: {1_ImprovementName}</Text>
@@ -3076,7 +3076,7 @@
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Religious] slot Tác phẩm tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
-			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} của khu vực liền kề khu vực này.</Text>
+			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} của Đặc Khu liền kề Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} cho mỗi một {5_AdjacentObject} liền kề.</Text>
@@ -3091,7 +3091,7 @@
 			<Text>Trở nên lỗi thời với {1_TechOrCivicName}.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_DISTRICT">
-			<Text>khu vực</Text>
+			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE">
 			<Text>tài nguyên</Text>
@@ -4086,7 +4086,7 @@
 			<Text>hoặc tuyển dụng tức thì với:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PASS_DETAILS">
-			<Text>Nếu bạn không muốn tuyển dụng [ICON_GreatPerson] Vĩ Nhân này, và để có thể tiết kiệm điểm [ICON_GreatPerson] Vĩ Nhân cho tương lai, bạn có thể chọn Bỏ Qua. Passing costs {1_RejectCost} [ICON_GreatPerson] Great Person points and cannot be undone. The points spent will apply as a discount to the [ICON_GreatPerson] Great Person, allowing other players to acquire it for less points.</Text>
+			<Text>Nếu bạn không muốn tuyển dụng [ICON_GreatPerson] Vĩ Nhân này, và để có thể tiết kiệm điểm [ICON_GreatPerson] Vĩ Nhân cho tương lai, bạn có thể chọn Bỏ Qua. Giá {1_RejectCost} điểm [ICON_GreatPerson] Vĩ Nhân và không thể hoàn tác. Những điểm đã được sử dụng sẽ trở thành một phiếu giảm giá cho [ICON_GreatPerson] Vĩ Nhân, cho phép những người chơi khác mua họ với ít điểm hơn.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_DETAILS">
 			<Text>Bạn có thể bỏ {1_FaithCost} [ICON_Faith] Lòng tin để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Faith] Lòng tin cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để tuyển dụng [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để tuyển dụng [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
@@ -4095,10 +4095,10 @@
 			<Text>Bạn có thể bỏ {1_GoldCost} [ICON_Gold] Vàng để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Gold] Vàng cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để tuyển dụng [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để tuyển dụng [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUIT_DETAILS">
-			<Text>Bạn đã tích lũy đủ điểm [ICON_GreatPerson] Vĩ nhân của loại này. Và bây giờ có thể sử dụng {1_RecruitCost} điểm để tuyển dụng [ICON_GreatPerson] Vĩ nhân này, ngay lập tức người sẽ xuất hiện trong [ICON_Capital] Thủ Đô của bạn, hoặc Đô đốc vĩ đại sẽ ở thành phố ven biển gần nhất.</Text>
+			<Text>Bạn đã tích lũy đủ điểm [ICON_GreatPerson] Vĩ nhân của loại này. Và bây giờ có thể sử dụng {1_RecruitCost} điểm để tuyển dụng [ICON_GreatPerson] Vĩ nhân này, ngay lập tức người sẽ xuất hiện trong [ICON_Capital] Thủ Đô của bạn, hoặc Đại Đô Đốc sẽ ở thành phố ven biển gần nhất.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_POINT_DETAILS">
-			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} điểm cho mỗi [ICON_Turn] lượt.[NEWLINE][NEWLINE]Điểm có được chủ yếu từ khu vực và kiến trúc, nhưng cũng có thể từ kỳ quan thế giới và chính sách.</Text>
+			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} điểm cho mỗi [ICON_Turn] lượt.[NEWLINE][NEWLINE]Điểm có được chủ yếu từ Đặc Khu và kiến trúc, nhưng cũng có thể từ kỳ quan thế giới và chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON">
 			<Text>Không thể tuyển dụng</Text>
@@ -4107,7 +4107,7 @@
 			<Text>You have already earned the maximum allowed number of this type of Great Person.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_NO_VALID_SPAWN_SEA">
-			<Text>You must have a coastal city center or a Harbor district in order to spawn a Đô đốc vĩ đại.</Text>
+			<Text>You must have a coastal city center or a Harbor district in order to spawn a Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_CLAIMED_BY_OTHER">
 			<Text>Another civilization has an active claim on this Great Person.</Text>
@@ -4939,7 +4939,7 @@
 			<Text>{Value : number -#.#;+#.#} từ {1_CityName}</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_DISTRICTS">
-			<Text>{Value : number -#.#;+#.#} từ Khu vực</Text>
+			<Text>{Value : number -#.#;+#.#} từ Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_DISTRICT">
 			<Text>{Value : number -#.#;+#.#} từ {1_DistrictName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?district; other?districts;})</Text>

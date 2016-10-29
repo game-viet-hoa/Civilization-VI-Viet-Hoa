@@ -75,7 +75,7 @@
 			<Text>The fresh water status of a city may be upgraded by adding an Aqueduct tile next to the City Center. Aqueducts may only be placed in tiles that are adjacent to a River, Lake, or Mountain that is also adjacent to the City Center.  Completion of the Aqueduct district raises the city’s [ICON_Housing] Nhà ở from water by 2 or up to 6, whichever is larger—so 7 if adjacent to River, Lake or Oasis, or 6 otherwise.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_TITLE">
-			<Text>Khu vực</Text>
+			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
 			<Text>In Civilization VI, buildings are no longer trapped in your City Center, but may sprawl across your territory as part of districts. The map is more important than ever as you are faced with important strategic placement decisions. Campuses and Holy Site’s alike receive special boosts from placement near Mountains, but only the former also benefits from a nearby source of Rainforest. Specialty districts, such as the Campus or Commercial Hub, will have a [ICON_Citizen] Dân số requirement. The Neighborhood and Aqueduct are not affected by this requirement.</Text>
@@ -333,7 +333,7 @@
 			<Text>In combining your military might with the right force organization of combined arms, leadership, and intuitive use of terrain you can have the power to destroy your enemies armies, no matter how big or small, advanced or not. Using terrain to your advantage, you can position your forces on Hills, in Rainforests or Woods, and across Rivers from your enemy to ensure a distinct defensive advantage. Looking at the enemies movements across terrain as they approach you can also help you better understand what their battle plan is or where they look to strike.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Tướng quân vĩ đại will ensure victory!</Text>
+			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Đại Tướng Quân will ensure victory!</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
 			<Text>Experience and Promotions</Text>
@@ -855,7 +855,7 @@
 			<Text>Introduction</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Great People are the artists, merchants, engineers, scientists, generals, and admirals who can, singlehandedly, change the course of a civilization. There are nine types of [ICON_GreatPerson] Great People: [ICON_GreatArtist] Họa sĩ vĩ đạis, [ICON_GreatWriter] Nhà văn vĩ đạis, [ICON_GreatMusician] Nhạc sĩ vĩ đạis, [ICON_GreatEngineer] Kỹ sư vĩ đạis, [ICON_GreatMerchant] Thương gia vĩ đạis, [ICON_GreatScientist] Nhà khoa học vĩ đạis, [ICON_GreatProphet] Nhà tiên tri vĩ đại, [ICON_GreatAdmiral] Đô đốc vĩ đạis, and [ICON_GreatGeneral] Tướng quân vĩ đạis.</Text>
+			<Text>[ICON_GreatPerson] Great People are the artists, merchants, engineers, scientists, generals, and admirals who can, singlehandedly, change the course of a civilization. There are nine types of [ICON_GreatPerson] Great People: [ICON_GreatArtist] Họa sĩ vĩ đạis, [ICON_GreatWriter] Nhà văn vĩ đạis, [ICON_GreatMusician] Nhạc sĩ vĩ đạis, [ICON_GreatEngineer] Kỹ sư vĩ đạis, [ICON_GreatMerchant] Thương gia vĩ đạis, [ICON_GreatScientist] Nhà khoa học vĩ đạis, [ICON_GreatProphet] Nhà tiên tri vĩ đại, [ICON_GreatAdmiral] Đại Đô Đốcs, and [ICON_GreatGeneral] Đại Tướng Quâns.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Earning Great People</Text>
@@ -873,7 +873,7 @@
 			<Text>Each [ICON_GreatPerson] Great Person individual has a different effect, inspired by history. Most effects are strongly linked to a particular era of play, and are not optimal for use outside of that time. The effects fall into two broad categories, "birth" effects and "action" effects.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
-			<Text>A Birth Effect happens as soon as the [ICON_GreatPerson] Great Person is spawned on the map, and do not need to be activated. These are mostly used for Tướng quân vĩ đạis and Đô đốc vĩ đạis.</Text>
+			<Text>A Birth Effect happens as soon as the [ICON_GreatPerson] Great Person is spawned on the map, and do not need to be activated. These are mostly used for Đại Tướng Quâns and Đại Đô Đốcs.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_3">
 			<Text>An Action Effect must be activated by the [ICON_GreatPerson] Great Person by using a “charge” at a certain location. The number of charges, the type of location needed, and the effect activated will vary based on the individual. Most individuals only have 1 charge and can only activate at a district matching its type (ex. most [ICON_GreatScientist] Nhà khoa học vĩ đạis have 1 charge and must use it at a Campus). Like other charge-based units, the individual will disappear when all charges are depleted.</Text>

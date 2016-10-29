@@ -30,7 +30,7 @@
 			<Text>Chinh phục thành phố</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_CONSTRUCT_DISTRICT">
-			<Text>Khu vực hoàn thành</Text>
+			<Text>Đặc Khu hoàn thành</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_CULTURVATE_CIVIC">
 			<Text>Hành chính hoàn thành</Text>
@@ -111,7 +111,7 @@
 			<Text>{1_CivName} đang đối mặt với cuộc xâm lược man rợ tại {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
-			<Text>{1_CivName} nghe nói rằng tắm nắng ở khu nghỉ dưỡng bên ngoài {2_CityName} là rất tốt.</Text>
+			<Text>{1_CivName} nghe nói rằng tắm nắng ở Khu nghỉ dưỡng ven biển bên ngoài {2_CityName} là rất tốt.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CHANGE_GOVERNMENT">
 			<Text>{1_CivName} đã chuyển chính phủ sang {2_Government}.</Text>

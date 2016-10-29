@@ -46,7 +46,7 @@
 			<Text>Tông đồng tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
-			<Text>Điều tra tôn giáo</Text>
+			<Text>Điều Tra Giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
 			<Text>Hỗ trợ</Text>
@@ -136,10 +136,10 @@
 		</Row>
 		<!-- Great People-->
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
-			<Text>Mỗi [ICON_GreatGeneral] Tướng quân vĩ đại có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
+			<Text>Mỗi [ICON_GreatGeneral] Đại Tướng Quân có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
-			<Text>Mỗi [ICON_GreatAdmiral] Đô đốc vĩ đại có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
+			<Text>Mỗi [ICON_GreatAdmiral] Đại Đô Đốc có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
 			<Text>Mỗi [ICON_GreatEngineer] Kỹ sư vĩ đại có thuộc tính đặc biệt khi được kích hoạt.</Text>
@@ -225,10 +225,10 @@
 		</Row>
 		<!-- Siege-->
 		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
-			<Text>Đơn vị cẩu đá thời Cổ đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Máy Bắn Đá thời Cổ đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
-			<Text>Đơn vị Hỏa pháo thời Phục hưng, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Đại Pháo thời Phục hưng, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
 			<Text>Đơn vị tên lửa thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
@@ -247,7 +247,7 @@
 			<Text>Đơn vị hỗ trợ thời Công nghiệp. Có thể chữa lành các đơn vị lân cận.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
-			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị Hỏa pháo liền kề.</Text>
+			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị Đại Pháo liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
 			<Text>Đơn vị hỗ trợ thời Trung cổ. Yêu cầu Kho vũ khí đển sản xuất. Có thể xây Đường, Pháo đài, và Đường băng.</Text>
@@ -335,7 +335,7 @@
 			<Text>Hải quân cận chiến nguyên thủy thời Xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
-			<Text>Tiễn mã Egypt thời xa xưa thay thế cho Chiến xa hạng nặng. 4 [ICON_Movement] Di chuyển khi bắt đầu trên đại hình mở.</Text>
+			<Text>Tiễn mã Ai Cập thời xa xưa thay thế cho Chiến xa hạng nặng. 4 [ICON_Movement] Di chuyển khi bắt đầu trên đại hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
 			<Text>Lính xiên Greek thời xa xưa thay thế cho Lính giáo. +10 [ICON_Strength] Sức mạnh khi có ít nhất một Lính xiên liền kề.</Text>
@@ -347,13 +347,13 @@
 			<Text>Chiến xa Summer là đơn vị đặc biệt thời xa xưa. Mạnh hơn tất cả đơn vị cùng cấp khác. Không bị phạt khi gặp chống kỵ binh. 4 [ICON_Movement] Di chuyển nếu bắt đầu ở địa hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
-			<Text>Lính áo đỏ được Victoria lĩnh đạo thời công nghiệp. +10 [ICON_Strength] Sức mạnh khi chiến đấu ở lục địa khác lục địa có Thủ Đô. Không chi phí đón trả.</Text>
+			<Text>Lính áo đỏ Anh được Victoria lĩnh đạo thời công nghiệp. +10 [ICON_Strength] Sức mạnh khi chiến đấu ở lục địa khác lục địa có Thủ Đô. Không chi phí đón trả.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
 			<Text>Kị binh tình nguyện được Teddy Roosevelt lãnh đạo thời Hiện đại. Kiếm được [ICON_Culture] Văn minh từ việc giết kẻ địch đến lục địa chứa [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi đấu trên đồi. Phí duy trì thấp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
-			<Text>Quân đoàn La Mã là đơn vị cận chiến đặc biệt thời Cổ đại thay thế Kiếm sĩ. Có thể xây Pháo đài La Mã.</Text>
+			<Text>Lính Lê Dương La Mã là đơn vị cận chiến đặc biệt thời Cổ đại thay thế Kiếm sĩ. Có thể xây Pháo đài La Mã.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
 			<Text>Đơn vị cận chiến đặc biệt thời Trung cổ của Nhật Bản. Không bị mất sức mạnh khi bị thương.</Text>
@@ -368,7 +368,7 @@
 			<Text>Đơn vị trung cổ dặc biệt của Trung Hoa. Tầm đánh 1 [ICON_Range] và sức mạnh cao.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Đợn vị thời phục hưng thay thế Súng trường của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Điều tra tôn giáo, hoặc Thiên chúa khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt Kẻ chinh phục thành ưu thế tôn giáo.</Text>
+			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Điều tra tôn giáo, hoặc Thiên chúa khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt Kẻ chinh phục thành ưu thế tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
 			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>
@@ -386,7 +386,7 @@
 			<Text>Hải quân thời phục hưng thay thế Thuyền chiến tư nhân của Anh. Cả thế bắt tàu địch. Không thể nhìn thấy trừ khi đứng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
-			<Text>Đơn vị cận chiến thời công nghiệp của Pháp. +10 [ICON_Strength] Sức mạnh khi chiến đấu trong lục địa chứa Thủ Đô. Điểm [ICON_GreatGeneral] Tướng quân vĩ đại cho việc giết kẻ dịch.</Text>
+			<Text>Đơn vị cận chiến thời công nghiệp của Pháp. +10 [ICON_Strength] Sức mạnh khi chiến đấu trong lục địa chứa Thủ Đô. Điểm [ICON_GreatGeneral] Đại Tướng Quân cho việc giết kẻ dịch.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
 			<Text>Hải quân thời hiện đại thay thế tàu ngầm của Đức. Sản xuất rẻ hơn, +1 Tìm nhìn, và +10 [ICON_Strength] Sức mạnh khi chiến đấu trên đại dương. Có thể nhìn thấy đơn vị tàng hình khác.</Text>

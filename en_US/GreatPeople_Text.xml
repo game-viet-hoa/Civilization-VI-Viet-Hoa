@@ -22,7 +22,7 @@
 			<Text>Kích hoạt ở Khu linh thiêng hoặc Bãi đá Stonehenge.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
-			<Text>Kích hoạt ở khu vực hoặc kỳ quan với một slot Thành tựu vĩ đại.</Text>
+			<Text>Kích hoạt ở Đặc Khu hoặc kỳ quan với một slot Thành tựu vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
 			<Text>Kích hoạt trên ô đất không có chủ sở hữu.</Text>
@@ -34,7 +34,7 @@
 			<Text>Kích hoạt trên ô đất của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
-			<Text>Kích hoạt bên cạnh đơn vị quân man rợ.</Text>
+			<Text>Kích hoạt bên cạnh đơn vị quân man di.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
 			<Text>Kích hoạt bên cạnh núi.</Text>
@@ -117,10 +117,10 @@
 		</Row>
 		<!-- Generals -->
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>+5 [ICON_Strength] Sức mạnh từ Tướng quân vĩ đại.</Text>
+			<Text>+5 [ICON_Strength] Sức mạnh từ Đại Tướng Quân.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
-			<Text>+5 [ICON_Strength] Sức mạnh từ Đô đốc vĩ đại.</Text>
+			<Text>+5 [ICON_Strength] Sức mạnh từ Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
 			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Cổ đại và Trung cổ trong bán kính 2 ô.</Text>
@@ -144,7 +144,7 @@
 			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Thông tin trong bán kính 2 ô.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
-			<Text>Điều khiển đơn vị quân man rợ liền kề.</Text>
+			<Text>Điều khiển đơn vị quân man di liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
 			<Text>Gán 1 level tăng cấp cho một đơn vị quân sự mặt đất.</Text>
@@ -180,7 +180,7 @@
 			<Text>Gán 1 level tăng cấp và +75% EXP cho một đơn vị quân sự mặt đất.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
-			<Text>Khu vực trên ô này +1 slot đơn vị không quân.</Text>
+			<Text>Đặc Khu trên ô này +1 slot đơn vị không quân.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
 			<Text>Ngay lập tức có đơn vị Bộ binh với 1 level tăng cấp.</Text>
@@ -195,10 +195,10 @@
 			<Text>Gán 1 level tăng cấp và +100% EXP cho một đơn vị quân sự mặt đất.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Tank với 1 level tăng cấp.</Text>
+			<Text>Ngay lập tức có đơn vị Xe Tăng với 1 level tăng cấp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Chống Tank hiện đại với 1 level tăng cấp.</Text>
+			<Text>Ngay lập tức có đơn vị Chống Tăng hiện đại với 1 level tăng cấp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
 			<Text>Gán 1 level tăng cấp và +100% EXP cho một đơn vị quân sự mặt đất.</Text>
@@ -284,7 +284,7 @@
 		</Row>
 		<!-- Engineers --> 
 		<Row Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
-			<Text>Cho phép xây thêm một khu vực có giới hạn dân số nhiều hơn.</Text>
+			<Text>Cho phép xây thêm một Đặc Khu có giới hạn dân số nhiều hơn.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
 			<Text>Thúc đẩy [ICON_TechBoosted] công nghệ In ấn.</Text>
@@ -311,22 +311,22 @@
 			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đối với kiến trúc kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
-			<Text>Ngay lập tức xây Nhà máy và Xưởng trong khu vực. Nhà máy +2 [ICON_Production] Sản phẩm.</Text>
+			<Text>Ngay lập tức xây Nhà máy và Xưởng trong Đặc Khu. Nhà máy +2 [ICON_Production] Sản phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
 			<Text>Thành phố này +{Amount} tâm trạng cho mỗi ô đất sở hữu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
-			<Text>Các tòa nhà trong khu vực đạt xa hơn {Amount} {Amount : plural 1?ô; other?ô;}.</Text>
+			<Text>Các tòa nhà trong Đặc Khu đạt xa hơn {Amount} {Amount : plural 1?ô; other?ô;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
-			<Text>Các kiến trúc trong khu vực này +{Amount} [ICON_Production] Sản phẩm.</Text>
+			<Text>Các kiến trúc trong Đặc Khu này +{Amount} [ICON_Production] Sản phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
 			<Text>+{Amount}% [ICON_Production] Sản phẩm đối với dự án Chạy đua không gian.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
-			<Text>Thúc đẩy công nghệ Tên lửa.</Text>
+			<Text>Thúc đẩy công nghệ Phản lực học.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
 			<Text>+{Amount} [ICON_Housing] Nhà ở cho thành phố này.</Text>
@@ -344,7 +344,7 @@
 			<Text>Thành phố +{Amount} tâm trạng cho mất kỳ ô đất nào sở hữu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
-			<Text>Các kiến trúc trong khu vực này +{Amount} [ICON_Amenities] {Amount : plural 1?tiện nghi; other?tiện nghi;}.</Text>
+			<Text>Các kiến trúc trong Đặc Khu này +{Amount} [ICON_Amenities] {Amount : plural 1?tiện nghi; other?tiện nghi;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
 			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đối với kiến trúc kỳ quan.</Text>
@@ -387,13 +387,13 @@
 			<Text>Thưởng {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
-			<Text>Ngay lập tức xây Ngân hàng hoặc Chợ trong khu vực này. Ngân hàng có 2 slot Thành tựu vĩ đại.</Text>
+			<Text>Ngay lập tức xây Ngân hàng hoặc Chợ trong Đặc Khu này. Ngân hàng có 2 slot Thành tựu vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MARKET">
-			<Text>Ngay lập tức xây Chợ trong khu vực này.</Text>
+			<Text>Ngay lập tức xây Chợ trong Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BANK">
-			<Text>Ngay lập tức xây Ngân hàng trong khu vực này.</Text>
+			<Text>Ngay lập tức xây Ngân hàng trong Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
 			<Text>Ngân hàng này thêm slot {Amount} Thành tựu vĩ đại và có thể giữ bất kỳ thứ gì ngoại trừ [ICON_GreatWork_Relic] Di tích.</Text>
@@ -405,7 +405,7 @@
 			<Text>Thưởng {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
-			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới những thành phố của bạn thưởng +{Amount} [ICON_Gold] Vàng cho mỗi khu vực đặc biệt ở đích đến.</Text>
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới những thành phố của bạn thưởng +{Amount} [ICON_Gold] Vàng cho mỗi Đặc Khu đặc biệt ở đích đến.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
 			<Text>+1 slot Chính sách kinh tế trong chính phủ bất kỳ.</Text>
@@ -475,7 +475,7 @@
 			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
-			<Text>[ICON_Faith] Lòng tin của Khu vực linh thiêng liền kề thưởng [ICON_Science] Khoa học bằng như vậy.</Text>
+			<Text>[ICON_Faith] Lòng tin của Khu linh thiêng liền kề thưởng [ICON_Science] Khoa học bằng như vậy.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH">
 			<Text>Thưởng {Amount} [ICON_Faith] Lòng tin.</Text>
@@ -493,13 +493,13 @@
 			<Text>Thưởng 250 [ICON_Science] Khoa học (ở tốc độ bình thường) cho mỗi Núi liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB">
-			<Text>Lập tức xây viện nghiên cứu trong khu vực.</Text>
+			<Text>Lập tức xây viện nghiên cứu trong Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
 			<Text>+{Amount} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
-			<Text>Lập tức xây trường đại học và thư viện trong khu vực. Các trường đại học cung cấp +2 [ICON_Science] Khoa học.</Text>
+			<Text>Lập tức xây trường đại học và thư viện trong Đặc Khu. Các trường đại học cung cấp +2 [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
 			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Phục hưng hoặc Công nghiệp.</Text>

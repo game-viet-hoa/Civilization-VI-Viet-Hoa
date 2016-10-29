@@ -3,13 +3,13 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
-			<Text>+50% EXP cho tất cả đơn vị không quân được đào tạo trong thành phố này. +2 slot đơn vị không quân trong khu hàng không. Cho phép chuyển đổi vị trí các đơn vị mặt đất và không quân giữa các Khung hàng không với nhau sau khi mở khóa Hành chính Triển khai nhanh.</Text>
+			<Text>+50% EXP cho tất cả đơn vị không quân được đào tạo trong thành phố này. +2 slot đơn vị không quân trong Khu Hàng Không. Cho phép chuyển đổi vị trí các đơn vị mặt đất và không quân giữa các Khung Hàng Không với nhau sau khi mở khóa Hành Chính Dàn Quân Thần Tốc.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
 			<Text>+25% EXP cho tất cả đơn vị mặt đất được đào tạo trong thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
-			<Text>+25% EXP cho tất cả đơn vị cận chiến và đánh xa được đào tạo trong thành phố này.[NEWLINE][NEWLINE]Có thể không xây được trong Khu quân sự đã có Chuồng ngựa.</Text>
+			<Text>+25% EXP cho tất cả đơn vị cận chiến và đánh xa được đào tạo trong thành phố này.[NEWLINE][NEWLINE]Có thể không xây được trong Khu Quân Sự đã có Chuồng Ngựa.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
 			<Text>Giúp tăng phòng thủ chống tấn công từ bên ngoài.</Text>
@@ -103,7 +103,7 @@
 			<Text>+1 [ICON_TradeRoute] Tuyến đường thương mại. Thưởng một thương gia. Phải xây trên bờ biển gần đất liền và Khu hải cảng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
-			<Text>[ICON_Tourism] Du lịch đầu ra từ [ICON_GreatWork_Relic] Di tích và thành phố thần thánh không bị giảm bởi các nền văn minh khác đã nghiên cứu Hành chính Sáng tỏ. x2 [ICON_Tourism] Du lịch đầu ra khu nghỉ dưỡng của nền văn minh mình. Phải xây trên đồi.</Text>
+			<Text>[ICON_Tourism] Du lịch đầu ra từ [ICON_GreatWork_Relic] Di tích và thành phố thần thánh không bị giảm bởi các nền văn minh khác đã nghiên cứu Hành chính Sáng tỏ. x2 [ICON_Tourism] Du lịch đầu ra Khu nghỉ dưỡng ven biển của nền văn minh mình. Phải xây trên đồi.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
 			<Text>Tất cả ô đất trong nền văn minh của bạn được +2 tâm trạng. Phải xây trên địa hình phẳng gần thành phố trung tâm.</Text>
@@ -118,7 +118,7 @@
 			<Text>Thúc đẩy cho tất cả công nghệ thời Xa xưa và Cổ Đại. Phải xây trên địa hình phẳng gần khu tri thức có thư viện.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân[NEWLINE][NEWLINE]Phải xây trên bờ biển gần đất liền và khu hải cảng có Ngọn hải đăng.</Text>
+			<Text>+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân[NEWLINE][NEWLINE]Phải xây trên bờ biển gần đất liền và khu hải cảng có Hải đăng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] Tuyến đường thương mại[NEWLINE][NEWLINE][ICON_TradeRoute] Tuyến đường thương mại của bạn từ thành phố này +2 [ICON_Gold] Vàng cho mỗi tài nguyên thưởng trong lãnh thổ thành phố đó. Phải xây cạnh trung tâm thương mại có chợ và cạnh [ICON_RESOURCE_CATTLE] Sữa bò.</Text>
@@ -139,7 +139,7 @@
 			<Text>Tất cả Thiên chúa có thêm khả năng hi sinh (Tạo di tích nếu chết trong chiến tranh thần thánh). Phải xây trên vùng lũ hoặc Đầm lầy.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
-			<Text>Mua vĩ nhân giảm giá 25% [ICON_Faith] Lòng tin. Khu vực trong thành phố này +2 [ICON_GreatPerson] Vĩ nhân cho mỗi loại (ví dụ [ICON_GreatWriter] Nhà văn vĩ đại cho khu nghệ thuật). Phải xây trên đồi.</Text>
+			<Text>Mua vĩ nhân giảm giá 25% [ICON_Faith] Lòng tin. Đặc Khu trong thành phố này +2 [ICON_GreatPerson] Vĩ nhân cho mỗi loại (ví dụ [ICON_GreatWriter] Nhà văn vĩ đại cho khu nghệ thuật). Phải xây trên đồi.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
 			<Text>+20% [ICON_Science] Khoa học trong thành phố này, và thưởng 2 công nghệ ngẫu nhiên khi hoàn tất. Phải xây trên Đồng cỏ hoặc Đồng bằng gần khu tri thức có trường đại học.</Text>

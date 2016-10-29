@@ -4,10 +4,10 @@
 	<BaseGameText>
 		<!--Improvements Description-->
 		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
-			<Text>Tạo thêm tiền đồn quân man rợ. Nhận thêm [ICON_Gold] Vàng nếu nó bị phá hủy.</Text>
+			<Text>Tạo thêm tiền đồn quân man di. Nhận thêm [ICON_Gold] Vàng nếu nó bị phá hủy.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
-			<Text>Thợ xây đã có thể xây Khu nghỉ dưỡng.[NEWLINE][NEWLINE]x2 tâm trạng cho ô đất trong [ICON_Tourism] Du lịch. Chỉ có thể xây trên Bờ biển sa mạc, Bờ biển Bờ biển đồng bằng, hoặc Bờ biển đồng cỏ. Minimum Appeal of Breathtaking.</Text>
+			<Text>Thợ xây đã có thể xây Khu nghỉ dưỡng ven biển.[NEWLINE][NEWLINE]x2 tâm trạng cho ô đất trong [ICON_Tourism] Du lịch. Chỉ có thể xây trên Bờ biển sa mạc, Bờ biển Bờ biển đồng bằng, hoặc Bờ biển đồng cỏ. Minimum Appeal of Breathtaking.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
 			<Text>Thợ xây đã có thể xây Nông trường.[NEWLINE][NEWLINE]+1 [ICON_Food] Thực phẩm. Chỉ có thể xây trên Đồng bằng hoặc Đồng cỏ.[NEWLINE][NEWLINE]Xây các Nông trường gần nhau được thưởng Nhà ở.</Text>
@@ -28,7 +28,7 @@
 			<Text>Thợ xây đã có thể xây Vườn ươm.[NEWLINE][NEWLINE]+1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_COFFEE] Cà phê, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị, [ICON_RESOURCE_SUGAR] Đường, [ICON_RESOURCE_TEA] Trà, [ICON_RESOURCE_TOBACCO] Thuốc lá, hoặc [ICON_RESOURCE_WINE] Rượu.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý, thành phố có thể sử dụng tài nguyên này.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
-			<Text>Thợ xây đã có thể xây Trại.[NEWLINE][NEWLINE]+1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_FURS] Lông thú, [ICON_RESOURCE_IVORY] Ngà voi, [ICON_RESOURCE_DEER] Hươu, hoặc [ICON_RESOURCE_TRUFFLES] Nấm.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý như [ICON_RESOURCE_FURS] Lông thú, [ICON_RESOURCE_TRUFFLES] Nấm, hoặc [ICON_RESOURCE_IVORY] Ngà voi, thành phố có thể sử dụng tài nguyên này.</Text>
+			<Text>Thợ xây đã có thể xây Trại.[NEWLINE][NEWLINE]+1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_FURS] Lông thú, [ICON_RESOURCE_IVORY] Ngà voi, [ICON_RESOURCE_DEER] Hươu, hoặc [ICON_RESOURCE_TRUFFLES] Nấm cục.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý như [ICON_RESOURCE_FURS] Lông thú, [ICON_RESOURCE_TRUFFLES] Nấm cục, hoặc [ICON_RESOURCE_IVORY] Ngà voi, thành phố có thể sử dụng tài nguyên này.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
 			<Text>Thợ xây đã có thể xây Xưởng gỗ.[NEWLINE][NEWLINE]+1 [ICON_Production] Sản phẩm. +1 [ICON_Production] Sản phẩm nếu gần sông. Chỉ có thể xây trên Rừng.</Text>
@@ -53,7 +53,7 @@
 			<Text>Thợ xây mở khóa Đầu Colossal.[NEWLINE][NEWLINE]+2 [ICON_Faith] Lòng tin. +1 [ICON_Faith] Lòng tin cho 2 Rừng nhiệt đới hoặc Rừng liền kề. Không thể xây trên Tuyết hoặc Đồi Tuyết.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
-			<Text>Thợ xây mở khóa Vạn Lý Trường Thành.[NEWLINE][NEWLINE]Tăng điểm [ICON_Strength] Phòng thủ. Thưởng [ICON_Gold] Vàng nếu gần khu vực khác. Thêm [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch cũng như thông qua Cây Công nghệ cho khu vực liền kè. Phải xây một đường dọc theo biên giới.</Text>
+			<Text>Thợ xây mở khóa Vạn Lý Trường Thành.[NEWLINE][NEWLINE]Tăng điểm [ICON_Strength] Phòng thủ. Thưởng [ICON_Gold] Vàng nếu gần Đặc Khu khác. Thêm [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch cũng như thông qua Cây Công nghệ cho Đặc Khu liền kè. Phải xây một đường dọc theo biên giới.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
 			<Text>Thợ xây đã có thể xây Nấm mồ, kiến trúc đặc biệt của Scythia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Lòng tin. +1 [ICON_Gold] Vàng. +1 [ICON_Faith] Lòng tin cho mỗi Trang trại liền kề. Không thể xây trên đồi.</Text>
@@ -62,7 +62,7 @@
 			<Text>Thợ xây đã có thể xây Mission, kiến trúc đặc biệt của Tây Ban Nha.[NEWLINE][NEWLINE]+1 [ICON_Faith] Lòng tin. +2 [ICON_Faith] Lòng tin nếu vùng đất khác lục địa có [ICON_Capital] Thủ Đô của bạn. +1 [ICON_Science] Khoa học nếu xây gần Khu tri thức.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
-			<Text>Mở quá Quân đoàn La Mã xể xây Pháo đài La Mã, kiến trúc đặc biệt của La Mã.[NEWLINE][NEWLINE]Đơn vị chiếm giữ nhận +4 [ICON_Strength] Phòng thủ, và tự động gán 2 lượt cho Cắm chốt.</Text>
+			<Text>Mở quá Lính Lê Dương La Mã xể xây Pháo đài La Mã, kiến trúc đặc biệt của La Mã.[NEWLINE][NEWLINE]Đơn vị chiếm giữ nhận +4 [ICON_Strength] Phòng thủ, và tự động gán 2 lượt cho Cắm chốt.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
 			<Text>Thợ xây đã có thể xây Nhân sư, kiến trúc đặc biệt của Ai Cập.[NEWLINE][NEWLINE]+1 [ICON_Faith] Lòng tin và +1 [ICON_Culture] Văn minh. +2 [ICON_Faith] Lòng tin nếu gần kỳ quan. Chỉ có thể xây một Nhân sư. Có thể xây trên Vùng lũ.</Text>
