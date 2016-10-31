@@ -48,7 +48,7 @@
 			<Text>Cung cấp tầm nhìn ngoại giao của tất cả nền văn minh khác. Tất cả [ICON_Tourism] Du lịch từ [ICON_GreatWork_Writing] Tác phẩm văn học được x2.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Production] Sản phẩm cho Đào Tài Nguyên.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cho Mỏ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
 			<Text>Cho phép hành động Thỏa thuận hiệp ước. +1 [ICON_Food] Thực phẩm cho Vườn ươm.</Text>
@@ -123,7 +123,7 @@
 			<Text>Xây Trang trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
-			<Text>Xây Đào Sắt.</Text>
+			<Text>Xây Mỏ Sắt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
 			<Text>Sở hữu 2 Thuyền buồm.</Text>
@@ -141,7 +141,7 @@
 			<Text>Giết một đơn vị với Lính giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Xây 3 Đào Tài Nguyên.</Text>
+			<Text>Xây 3 Mỏ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STIRRUPS">
 			<Text>Có Hành chính Chế độ phong kiến.</Text>
@@ -165,7 +165,7 @@
 			<Text>Xây Xưởng gỗ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>Có cong dân Liên đoàn.</Text>
+			<Text>Có Hành Chính Thương Đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
 			<Text>Xây Kho vũ khí.</Text>
@@ -207,7 +207,7 @@
 			<Text>Xây 2 Ngân hàng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Xây Đào Diêm Tiêu.</Text>
+			<Text>Xây Mỏ Diêm Tiêu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_FLIGHT">
 			<Text>Xây kỳ quan từ thời đại Công nghiệp trở đi.</Text>
@@ -216,7 +216,7 @@
 			<Text>Có 3 Lính Hỏa Mai.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Xây Đào than đá.</Text>
+			<Text>Xây Mỏ than đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
 			<Text>Có 3 Thuyền chiến tư nhân.</Text>
@@ -261,7 +261,7 @@
 			<Text>Có Hành chính Toàn cầu hóa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
-			<Text>Xây Đào Nhôm.</Text>
+			<Text>Xây Mỏ Nhôm.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
 			<Text>Thưởng thúc đẩy thông qua Nhà khoa học vĩ đại hoặc Gián điệp.</Text>
@@ -300,7 +300,7 @@
 			<Text>Xây Trang trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
-			<Text>Xây Đào Sắt.</Text>
+			<Text>Xây Mỏ Sắt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
 			<Text>Sở hữu 2 Thuyền buồm.</Text>
@@ -318,7 +318,7 @@
 			<Text>Giết một đơn vị với Lính giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
-			<Text>Xây 3 Đào Tài Nguyên.</Text>
+			<Text>Xây 3 Mỏ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
 			<Text>Có Hành chính Chế độ phong kiến.</Text>
@@ -342,7 +342,7 @@
 			<Text>Xây Xưởng gỗ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
-			<Text>Có cong dân Liên đoàn.</Text>
+			<Text>Có Hành Chính Thương Đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
 			<Text>Xây Kho vũ khí.</Text>
@@ -384,7 +384,7 @@
 			<Text>Xây 2 Ngân hàng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
-			<Text>Xây Đào Diêm Tiêu.</Text>
+			<Text>Xây Mỏ Diêm Tiêu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
 			<Text>Xây kỳ quan từ thời đại Công nghiệp trở đi.</Text>
@@ -393,7 +393,7 @@
 			<Text>Có 3 Lính Hỏa Mai.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Xây Đào than đá.</Text>
+			<Text>Xây Mỏ than đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
 			<Text>Có 3 Thuyền chiến tư nhân.</Text>
@@ -438,7 +438,7 @@
 			<Text>Có Hành chính Toàn cầu hóa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
-			<Text>Xây Đào Nhôm.</Text>
+			<Text>Xây Mỏ Nhôm.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

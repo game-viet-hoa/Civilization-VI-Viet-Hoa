@@ -123,7 +123,7 @@
       <Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_NAME">
-			<Text>Tượng chúa Kitô</Text>
+			<Text>Tượng Chúa Kitô Cứu Thế</Text>
       <Gender>Masculine:no_article</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
@@ -339,7 +339,7 @@
 			<Text>Lành nghề</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_NAME">
-			<Text>Thông thương</Text>
+			<Text>Ngoại thương</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_NAME">
 			<Text>Truyền thống quân sự</Text>
@@ -390,7 +390,7 @@
 			<Text>Hội chợ trung cổ</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_GUILDS_NAME">
-			<Text>Liên đoàn</Text>
+			<Text>Thương Đoàn</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_NAME">
 			<Text>Quyền lực thiêng liêng</Text>
@@ -471,7 +471,7 @@
 			<Text>Di sản văn hóa</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_NAME">
-			<Text>Dàn quân thần tốc</Text>
+			<Text>Hành quân thần tốc</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SPACE_RACE_NAME">
 			<Text>Chạy đua không gian</Text>
@@ -899,13 +899,13 @@
 		</Row>
 		<!-- Map Scripts -->
 		<Row Tag="LOC_MAP_CONTINENTS">
-			<Text>Continents</Text>
+			<Text>Lục địa</Text>
 		</Row>
 		<Row Tag="LOC_MAP_FRACTAL">
 			<Text>Fractal</Text>
 		</Row>
 		<Row Tag="LOC_MAP_INLANDSEA">
-			<Text>Inland Sea</Text>
+			<Text>Nội hải</Text>
 		</Row>
 		<Row Tag="LOC_MAP_ISLAND_PLATES">
 			<Text>Island Plates</Text>
@@ -914,7 +914,7 @@
 			<Text>Pangaea</Text>
 		</Row>
 		<Row Tag="LOC_MAP_SHUFFLE">
-			<Text>Shuffle</Text>
+			<Text>Trộn lẫn</Text>
 		</Row>
 		<!-- Map Sizes -->
 		<Row Tag="LOC_MAP_SIZE">
@@ -1625,7 +1625,7 @@
 			<Text>Nông trường</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_MINE_NAME">
-			<Text>Đào Tài Nguyên</Text>
+			<Text>Mỏ</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_QUARRY_NAME">
 			<Text>Mỏ đá</Text>
@@ -1878,7 +1878,7 @@
 			<Text>Chinh phục bản địa</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATURAL_PHILOSOPHY_NAME">
-			<Text>Khoa học tự nhiên</Text>
+			<Text>Triết học tự nhiên</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_NAME">
 			<Text>Cơ sở hạ tầng hải quân</Text>
@@ -1896,7 +1896,7 @@
 			<Text>Gián điệp hạt nhân</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ONLINE_COMMUNITIES_NAME">
-			<Text>Cộng đồng trực tuyến</Text>
+			<Text>Cộng đồng mạng</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PATRIOTIC_WAR_NAME">
 			<Text>Chiến tranh vệ quốc</Text>
@@ -1929,7 +1929,7 @@
 			<Text>Chủ nghĩa duy lý</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RELIGIOUS_ORDERS_NAME">
-			<Text>Trật tự tôn giáo</Text>
+			<Text>Giáo hội</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_NAME">
 			<Text>Quản lý tài nguyên</Text>
@@ -2340,10 +2340,10 @@
 		</Row>
 		<!-- Techs -->
 		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_NAME">
-			<Text>Đạn nâng cao</Text>
+			<Text>Đạn đạo tiên tiến</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_NAME">
-			<Text>Máy bay nâng cao</Text>
+			<Text>Hàng không tiên tiến</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_NAME">
 			<Text>Chăn nuôi</Text>
@@ -2364,7 +2364,7 @@
 			<Text>Ngân hàng</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BRONZE_WORKING_NAME">
-			<Text>Đồng đỏ</Text>
+			<Text>Đồ Đồng</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CARTOGRAPHY_NAME">
 			<Text>Vẽ bản đồ</Text>
@@ -2608,7 +2608,7 @@
 			<Gender>masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_APOSTLE_NAME">
-			<Text>Thiên chúa</Text>
+			<Text>Tông Đồ</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_NAME">
@@ -2749,7 +2749,7 @@
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_INQUISITOR_NAME">
-			<Text>Điều Tra Giáo</Text>
+			<Text>Thẩm Giáo</Text>
 			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_IRONCLAD_NAME">
@@ -2818,7 +2818,7 @@
 			<Text>Tên lửa hạng nhẹ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOBILE_SAM_NAME">
-			<Text>Tên lửa phòng không cơ động</Text>
+			<Text>Tên lửa đất đối không</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCOUT_NAME">
 			<Text>Trinh sát</Text>
@@ -2893,7 +2893,7 @@
 			<Text>Lính Cossack</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INDIAN_VARU_NAME">
-			<Text>Varu</Text>
+			<Text>Voi Ấn Độ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARABIAN_MAMLUK_NAME">
 			<Text>Chiến binh Mamluk Ả Rập</Text>
@@ -2928,7 +2928,7 @@
 			<Text>Văn minh</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_FAITH_NAME">
-			<Text>Lòng tin</Text>
+			<Text>Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_YIELD_FOOD_NAME">
 			<Text>Thực phẩm</Text>

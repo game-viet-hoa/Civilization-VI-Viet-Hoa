@@ -48,7 +48,7 @@
 			<Text>Tôn giáo đãn sáng lập</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
-			<Text>Vĩ nhân đã tuyển dụng</Text>
+			<Text>Vĩ nhân đã chiêu mộ</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_MAKE_DOW">
 			<Text>Tuyên bố chiến tranh</Text>
@@ -72,7 +72,7 @@
       <Text>Xây dựng vũ khí hủy diệt hàng loạt</Text>
     </Row>
 		<Row Tag="LOC_GOSSIPDESC_WMD_STRIKE">
-			<Text>Đánh chặn vũ khí hủy diệt hàng loạt</Text>
+			<Text>Tấn công vũ khí hủy diệt hàng loạt</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_WONDER_STARTED">
 			<Text>Kỳ quan đã bắt đầu</Text>
@@ -228,10 +228,10 @@
 			<Text>{1_CivName} có thành tựu vĩ đại trong {2_CityName} bị lấy cắp bởi gián điệp không rõ.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_DETECTED">
-			<Text>{1_CivName} có quân kháng chiến trong {2_CityName} được đào tạo bởi gián điệp {3_SpyPlayer}.</Text>
+			<Text>{1_CivName} có lính du kích trong {2_CityName} được đào tạo bởi gián điệp {3_SpyPlayer}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_UNDETECTED">
-			<Text>{1_CivName} có quân kháng chiến trong {2_CityName} được đào tạo bởi gián điệp không rõ.</Text>
+			<Text>{1_CivName} có lính du kích trong {2_CityName} được đào tạo bởi gián điệp không rõ.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_DETECTED">
 			<Text>{1_CivName} có khu công nghiệp trong {2_CityName} bị phá hoại bởi gián điệp từ {3_SpyPlayer}.</Text>

@@ -67,7 +67,7 @@
 			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công viên quốc gia và mua Nhà tự nhiên học với [ICON_Faith] Lòng tin. Cho phép Thợ xây chặt Rừng (tăng trưởng nhì). Rừng lâu năm chưa được loại bỏ sẽ cho +1 tâm trạng.</Text>
+			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công viên quốc gia và mua Nhà tự nhiên học với [ICON_Faith] Đức Tin. Cho phép Thợ xây chặt Rừng (tăng trưởng nhì). Rừng lâu năm chưa được loại bỏ sẽ cho +1 Sức Hấp Dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Cho phép hình thành hiệp ước phòng thủ. Cho phép 3 đơn vị nhất định hợp lại thành quân đội hoặc hạm đội. Cho phép sử dụng biện minh chiến tranh: Chiến tranh mở rộng lãnh thổ.</Text>
@@ -194,7 +194,7 @@
 			<Text>Xây 2 Pháo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CONSERVATION">
-			<Text>Có Vùng Ngoại Ô có tâm trạng Ngây ngất.</Text>
+			<Text>Có Vùng Ngoại Ô có Sức Hấp Dẫn Ngây ngất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
 			<Text>Có 3 Trung đội trong quân đội.</Text>
@@ -339,7 +339,7 @@
 			<Text>Xây 2 Pháo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
-			<Text>Có Vùng Ngoại Ô có tâm trạng Ngây ngất.</Text>
+			<Text>Có Vùng Ngoại Ô có Sức Hấp Dẫn Ngây ngất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
 			<Text>Có 3 Quân đoàn trong quân đội.</Text>
@@ -440,7 +440,7 @@
 			<Text>+2 [ICON_Housing] Nhà ở cho bất kỳ thành phố có Tường Trung cổ.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
-			<Text>Có thể mua lính mặt đất với Lòng tin. Tất cả đơn vị +5 [ICON_Religion] Sức mạnh tôn giáo trong chiến đấu thần học.</Text>
+			<Text>Có thể mua lính mặt đất với Đức Tin. Tất cả đơn vị +5 [ICON_Religion] Sức mạnh tôn giáo trong chiến đấu thần học.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
 			<Text>+2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
@@ -470,7 +470,7 @@
 			<Text>Thưởng điểm cho Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
-			<Text>Giảm giá khi mua bằng Lòng tin.</Text>
+			<Text>Giảm giá khi mua bằng Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
 			<Text>Giảm giá khi mua bằng Vàng.</Text>
@@ -500,7 +500,7 @@
 			<Text>Thưởng [ICON_Envoy] Phái đoàn (20%, cộng 1% cho mỗi 10 lượt trên tốc độ trung bình).</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
-			<Text>Giảm giá mua bằng [ICON_Faith] Lòng tin (15%, cộng 1% cho mỗi 15 lượt trên tốc độ trung bình).</Text>
+			<Text>Giảm giá mua bằng [ICON_Faith] Đức Tin (15%, cộng 1% cho mỗi 15 lượt trên tốc độ trung bình).</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
 			<Text>Giảm giá mua bằng [ICON_Gold] Vàng (15%, cộng 1% cho mỗi 15 lượt trên tốc độ trung bình).</Text>
@@ -618,7 +618,7 @@
 			<Text>+2 [ICON_GreatArtist] Họa sĩ vĩ đại mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Lòng tin và +1 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô.</Text>
+			<Text>+1 [ICON_Faith] Đức Tin và +1 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm kỳ quan thời đại Trung cổ và Phục hưng.</Text>
@@ -756,13 +756,13 @@
 			<Text>Giảm 25% Đảo chính.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
-			<Text>Nhận 50 [ICON_Gold] Vàng mỗi tâm trạng của ô khi thay thế Nông trường với Vùng ngoại ô.</Text>
+			<Text>Nhận 50 [ICON_Gold] Vàng mỗi Sức Hấp Dẫn của ô khi thay thế Nông trường với Vùng ngoại ô.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
 			<Text>+30% [ICON_Production] Sản phẩm đối với Thợ Xây, và Thợ Xây mới đào tạo được thêm 2 công trình.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RAJ_DESCRIPTION">
-			<Text>+2 [ICON_Science] Khoa học, [ICON_Culture] Văn minh, [ICON_Faith] Lòng tin, và [ICON_Gold] Vàng cho mỗi thành phố tự trị của bạn.</Text>
+			<Text>+2 [ICON_Science] Khoa học, [ICON_Culture] Văn minh, [ICON_Faith] Đức Tin, và [ICON_Gold] Vàng cho mỗi thành phố tự trị của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RAID_DESCRIPTION">
 			<Text>Sản lượng thu được gấp đôi cho Cướp bóc.</Text>
@@ -795,7 +795,7 @@
 			<Text>THỢ XÂY mới đào tạo tăng thêm 2 công trình.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>x2 [ICON_Faith] Lòng tin từ Khu linh thiêng.</Text>
+			<Text>x2 [ICON_Faith] Đức Tin từ Khu linh thiêng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm kỳ quan từ thời đại Công nghiệp trở đi.</Text>
@@ -831,7 +831,7 @@
 			<Text>+2 [ICON_GreatMerchant] Thương gia vĩ đại mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Vàng và +1 [ICON_Faith] Lòng tin cho tất cả [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>+4 [ICON_Gold] Vàng và +1 [ICON_Faith] Đức Tin cho tất cả [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
 			<Text>+1 [ICON_Production] Sản phẩm cho toàn thành phố.</Text>

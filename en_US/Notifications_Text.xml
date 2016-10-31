@@ -196,16 +196,16 @@
 			<Text>Địch đánh cắp thúc đẩy công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
-			<Text>{1_unitName} của bạn trong {2_CityName} đào tạo thành công một quân kháng chiến muốn lấy lại thành phố của họ.</Text>
+			<Text>{1_unitName} của bạn trong {2_CityName} đào tạo thành công một lính du kích muốn lấy lại thành phố của họ.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
-			<Text>Đào tạo thành công quân kháng chiến</Text>
+			<Text>Đào tạo thành công lính du kích</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
-			<Text>Gián điệp địch trong {1_CityName} đào tạo thành công một quân kháng chiến muốn lấy lại thành phố của họ.</Text>
+			<Text>Gián điệp địch trong {1_CityName} đào tạo thành công một lính du kích muốn lấy lại thành phố của họ.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
-			<Text>Địch đào tạo thành công quân kháng chiến</Text>
+			<Text>Địch đào tạo thành công lính du kích</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
 			<Text>{1_unitName} của bạn cướp phá thành công Trạm không gian trong thành phố {2_cityName}.</Text>
@@ -373,10 +373,10 @@
 			<Text>Không còn [ICON_Gold] Vàng, và chi phí của chúng tôi cao hơn thu nhập. Nếu tiếp tục, thành phố sẽ mất [ICON_Amenities] Tiện nghi và các đơn vị sẽ rời bỏ chúng tôi!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
-			<Text>Có thể mua với Lòng tin</Text>
+			<Text>Có thể mua với Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
-			<Text>Bạn đã tích lũy đủ [ICON_Faith] Lòng tin để mua {LOC_GRAMMAR_A_AN &lt;&lt; {1_ItemName}}.</Text>
+			<Text>Bạn đã tích lũy đủ [ICON_Faith] Đức Tin để mua {LOC_GRAMMAR_A_AN &lt;&lt; {1_ItemName}}.</Text>
 		</Row>
 		<!-- Multiplayer Notifications -->
 		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
@@ -723,7 +723,7 @@
 			<Text>Đơn vị tôn giáo đầu tiên</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
-			<Text>Do nhiệt tình thu hút người dân nên đã sáng lập ra tôn giáo mới, bạn nhận được {1_UnitName} đầu tiên miễn phí. Sử dụng [ICON_Faith] Lòng tin để mua thêm trong tương lai.</Text>
+			<Text>Do nhiệt tình thu hút người dân nên đã sáng lập ra tôn giáo mới, bạn nhận được {1_UnitName} đầu tiên miễn phí. Sử dụng [ICON_Faith] Đức Tin để mua thêm trong tương lai.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
 			<Text>Gián điệp đầu tiên</Text>

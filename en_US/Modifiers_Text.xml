@@ -3,47 +3,47 @@
   <BaseGameText>
     <!-- Modifier Object Text - Used in GameCore -->
     <Row Tag="LOC_MODIFIER_OBJECT_BUILDING">
-      <Text>Building|Buildings</Text>
+      <Text>K?n Trúc|Các K?n Trúc</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_CITY">
-      <Text>City|Cities</Text>
+      <Text>Thành Ph?|Các Thành Ph?</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_DISTRICT">
-      <Text>District|Districts</Text>
+      <Text>Ð?c Khu |Các Ð?c Khu</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
-      <Text>Government|Governments</Text>
+      <Text>Chính Ph?|Các Chính Ph?</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_PLAYER">
-      <Text>Player|Players</Text>
+      <Text>Ng?i Choi|Nh?u Ng?i Choi</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
-      <Text>Player Captured unit|Player Captured units</Text>
+      <Text>Ng?i Choi dã b?t don v?|Ng?i Choi dã b?t don v?</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_POLICY">
-      <Text>Policy|Policies</Text>
+      <Text>Chính Sách|Các Chính Sách</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_TEAM">
-      <Text>Team|Teams</Text>
+      <Text>Ð?i|Các Ð?i</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_TECHNOLOGY">
-      <Text>Technology|Technologies</Text>
+      <Text>Công Ngh?|Các Công Ngh?</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_UNIT">
-      <Text>Unit|Units</Text>
+      <Text>Ðon V?|Các Ðon V?</Text>
       <Plurality>1|2</Plurality>
     </Row>
     <Row Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
-      <Text>Unit Promotion|Unit Promotions</Text>
+      <Text>Huân Chuong Ðon V?|Huân Chuong Ðon V?</Text>
       <Plurality>1|2</Plurality>
     </Row>
   </BaseGameText>

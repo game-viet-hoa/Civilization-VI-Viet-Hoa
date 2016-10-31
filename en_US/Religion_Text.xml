@@ -229,24 +229,24 @@
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
 		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
-			<Text>Khu thành phố thần thánh +1 [ICON_Faith] Lòng tin từ địa hình Đài nguyên gần kề.</Text>
+			<Text>Khu Thành Phố Thánh +1 [ICON_Faith] Đức Tin từ địa hình Đài nguyên gần kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
-			<Text>Khu thành phố thần thánh +1 [ICON_Faith] Lòng tin từ địa hình Sa mạc gần kề.</Text>
+			<Text>Khu Thành Phố Thánh +1 [ICON_Faith] Đức Tin từ địa hình Sa mạc gần kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
-			<Text>Khu thành phố thần thánh +1 [ICON_Faith] Lòng tin từ địa hình Rừng nhiệt đới gần kề.</Text>
+			<Text>Khu Thành Phố Thánh +1 [ICON_Faith] Đức Tin từ địa hình Rừng nhiệt đới gần kề.</Text>
 		</Row>
 		<!--Pantheon - Amenity Bonuses-->
 		<Row Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Tiện nghi nếu thành phố thần thánh gần kề một dòng sông.</Text>
+			<Text>+1 [ICON_Amenities] Tiện nghi nếu Thành Phố Thánh gần kề một dòng sông.</Text>
 		</Row>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm kỳ quan thời Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
-			<Text>+1 Vĩ nhân từ thành phố thần thánh (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
+			<Text>+1 Vĩ nhân từ Thành Phố Thánh (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
 		</Row>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
@@ -263,10 +263,10 @@
 			<Text>+1 [ICON_Food] Thực phẩm từ Trại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
-			<Text>+2 [ICON_Faith] Lòng tin từ Mỏ đá.</Text>
+			<Text>+2 [ICON_Faith] Đức Tin từ Mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Lòng tin từ đào tài nguyên quý và thưởng.</Text>
+			<Text>+1 [ICON_Faith] Đức Tin từ đào tài nguyên quý và thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
 			<Text>+1 [ICON_Production] Sản phẩm từ đào tài nguyên chiến thuật.</Text>
@@ -282,13 +282,13 @@
 			<Text>+25% [ICON_Production] Sản phẩm đơn vị quân sự thời Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
-			<Text>+30 chữa trị trong thành phố thần thánh hoặc bất kỳ ô đất liền kề.</Text>
+			<Text>+30 chữa trị trong Thành Phố Thánh hoặc bất kỳ ô đất liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Thưởng [ICON_Faith] Lòng tin bằng 50% sức mạnh kẻ địch bị giết trong bán kính 8 ô của Đặc Khu thành phố thần thánh.</Text>
+			<Text>Thưởng [ICON_Faith] Đức Tin bằng 50% sức mạnh kẻ địch bị giết trong bán kính 8 ô của Đặc Khu Thành Phố Thánh.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
-			<Text>+50 [ICON_Faith] Lòng tin mỗi khi tiền đồn quân man di bị xóa bỏ.</Text>
+			<Text>+50 [ICON_Faith] Đức Tin mỗi khi tiền đồn quân man di bị xóa bỏ.</Text>
 		</Row>
 		<!--Pantheon - General Purpose-->
 		<Row Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
@@ -298,42 +298,42 @@
 			<Text>Tỉ lệ mở rộng biên giới cao hơn 15%.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
-			<Text>Thu hoặc một tài nguyên hoạc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Lòng tin bằng với số sản lượng khác.</Text>
+			<Text>Thu hoặc một tài nguyên hoạc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Đức Tin bằng với số sản lượng khác.</Text>
 		</Row>
 		<!--2. WORSHIP BELIEFS-->
 		<Row Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
-			<Text>Cho phép xây dựng Thánh đường (+3 [ICON_Faith] Lòng tin, 1 slot nghệ thuật tôn giáo).</Text>
+			<Text>Cho phép xây dựng Thánh đường (+3 [ICON_Faith] Đức Tin, 1 slot nghệ thuật tôn giáo).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
-			<Text>Cho phép xây dựng Thánh đường Sikh (+3 [ICON_Faith] Lòng tin, +2 [ICON_Food] Thực phẩm).</Text>
+			<Text>Cho phép xây dựng Thánh đường Sikh (+3 [ICON_Faith] Đức Tin, +2 [ICON_Food] Thực phẩm).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
-			<Text>Cho phép xây dựng Nhà thờ (+3 [ICON_Faith] Lòng tin, +2 [ICON_Production] Sản phẩm).</Text>
+			<Text>Cho phép xây dựng Nhà thờ (+3 [ICON_Faith] Đức Tin, +2 [ICON_Production] Sản phẩm).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
-			<Text>Cho phép xây dựng Nhà thờ Hồi giáo (+3 [ICON_Faith] Lòng tin). Truyền giáo và các môn đồ +1 lan rộng.</Text>
+			<Text>Cho phép xây dựng Nhà thờ Hồi giáo (+3 [ICON_Faith] Đức Tin). Truyền giáo và các môn đồ +1 lan rộng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
-			<Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Lòng tin, +1 [ICON_Housing] Nhà ở).</Text>
+			<Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Đức Tin, +1 [ICON_Housing] Nhà ở).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
-			<Text>Cho phép xây dựng Giáo đường (+5 [ICON_Faith] Lòng tin).</Text>
+			<Text>Cho phép xây dựng Giáo đường (+5 [ICON_Faith] Đức Tin).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WAT_DESCRIPTION">
-			<Text>Cho phép xây dựng Tu viện phật giáo (+3 [ICON_Faith] Lòng tin, +2 [ICON_Science] Khoa học).</Text>
+			<Text>Cho phép xây dựng Tu viện phật giáo (+3 [ICON_Faith] Đức Tin, +2 [ICON_Science] Khoa học).</Text>
 		</Row>
 		<!--3. FOLLOWER BELIEFS-->
 		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
-			<Text>Tất cả kỳ quan thế giới +4 [ICON_Faith] Lòng tin.</Text>
+			<Text>Tất cả kỳ quan thế giới +4 [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
-			<Text>Miếu và Đền thờ cung cấp [ICON_Food] Thực phẩm bằng to their intrinsic [ICON_Faith] Lòng tin output.</Text>
+			<Text>Miếu và Đền thờ cung cấp [ICON_Food] Thực phẩm bằng to their intrinsic [ICON_Faith] Đức Tin output.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
-			<Text>Có thể mua Khu tri thức và Khu nghệ thuật bằng [ICON_Faith] Lòng tin.</Text>
+			<Text>Có thể mua Khu tri thức và Khu nghệ thuật bằng [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
-			<Text>[ICON_GreatWork_Relic] Di tích được x3 cho cả hai [ICON_Faith] Lòng tin và [ICON_Tourism] Du lịch.</Text>
+			<Text>[ICON_GreatWork_Relic] Di tích được x3 cho cả hai [ICON_Faith] Đức Tin và [ICON_Tourism] Du lịch.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Mỗi Miếu và Đền thờ cung cấp +1 [ICON_Housing] Nhà ở.</Text>
@@ -349,13 +349,13 @@
 			<Text>+2 [ICON_Gold] Vàng cho mỗi thành phố theo đạo tôn giáo này.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
-			<Text>Mỗi thành phố thần thánh hoặc khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Lòng tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
+			<Text>Mỗi Thành Phố Thánh hoặc khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
 			<Text>Thưởng các loại từ thành phố tự trị theo đạo tôn giáo của bạn hơn 50%.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
-			<Text>+2 [ICON_Faith] Lòng tin cho mỗi thành phố theo đạo tôn giáo này ở trong nền văm minh khác và các thành phố tự trị.</Text>
+			<Text>+2 [ICON_Faith] Đức Tin cho mỗi thành phố theo đạo tôn giáo này ở trong nền văm minh khác và các thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
 			<Text>Mỗi khu tri thức hoặc trung tâm thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>

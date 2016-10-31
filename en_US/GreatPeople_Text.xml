@@ -97,7 +97,7 @@
 			<Text>Chi phí hành động {1_GoldAmount} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
-			<Text>Sáng lập một tôn giáo, và đưa thành phố này làm thành phố thần thánh.</Text>
+			<Text>Sáng lập một tôn giáo, và đưa thành phố này làm Thành Phố Thánh.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
 			<Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
@@ -314,7 +314,7 @@
 			<Text>Ngay lập tức xây Nhà máy và Xưởng trong Đặc Khu. Nhà máy +2 [ICON_Production] Sản phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
-			<Text>Thành phố này +{Amount} tâm trạng cho mỗi ô đất sở hữu.</Text>
+			<Text>Thành phố này +{Amount} Sức Hấp Dẫn cho mỗi ô đất sở hữu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
 			<Text>Các tòa nhà trong Đặc Khu đạt xa hơn {Amount} {Amount : plural 1?ô; other?ô;}.</Text>
@@ -341,7 +341,7 @@
 			<Text>Hỗ trợ {Amount} [ICON_Production] Sản phẩm đối với dự án Chạy đua không gian.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
-			<Text>Thành phố +{Amount} tâm trạng cho mất kỳ ô đất nào sở hữu.</Text>
+			<Text>Thành phố +{Amount} Sức Hấp Dẫn cho mất kỳ ô đất nào sở hữu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
 			<Text>Các kiến trúc trong Đặc Khu này +{Amount} [ICON_Amenities] {Amount : plural 1?tiện nghi; other?tiện nghi;}.</Text>
@@ -354,7 +354,7 @@
 			<Text>Hỗ trợ {Amount} {Amount : plural 1?sao chép; other?sao chép;}cho tài nguyên quý trên ô đất của [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH_SMALL">
-			<Text>Hỗ trợ {Amount} [ICON_Faith] Lòng tin.</Text>
+			<Text>Hỗ trợ {Amount} [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PLOT">
 			<Text>Ô đất gần thành phố phụ của bạn nhất sẽ thuộc lãnh thổ.</Text>
@@ -475,10 +475,10 @@
 			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
-			<Text>[ICON_Faith] Lòng tin của Khu linh thiêng liền kề thưởng [ICON_Science] Khoa học bằng như vậy.</Text>
+			<Text>[ICON_Faith] Đức Tin của Khu linh thiêng liền kề thưởng [ICON_Science] Khoa học bằng như vậy.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH">
-			<Text>Thưởng {Amount} [ICON_Faith] Lòng tin.</Text>
+			<Text>Thưởng {Amount} [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
 			<Text>Thúc đẩy 2 công nghệ và 1 Hành chính thuộc thời Trung cổ hoặc Phục hưng.</Text>
@@ -505,7 +505,7 @@
 			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Phục hưng hoặc Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
-			<Text>Áp dụng {Amount} điểm [ICON_GreatPerson] Vĩ nhân miễn phí đối với tất cả tuyển dụng Vĩ nhân hiện tại và tương lai.</Text>
+			<Text>Áp dụng {Amount} điểm [ICON_GreatPerson] Vĩ nhân miễn phí đối với tất cả chiêu mộ Vĩ nhân hiện tại và tương lai.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
 			<Text>Thưởng 500 [ICON_Science] Khoa học (ở tốc độ thường) cho mỗi kỳ quan thiên nhiên ở đây hoặc liền kề.</Text>

@@ -75,16 +75,16 @@
 			<Text>{1_UnitName} của bạn bị {2_EnUName} đánh xa nhận {3_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
-			<Text>{1_UnitName} của bạn sống sót sau khi đánh chặn vũ khí hạt nhân, nhận {2_Num} damage từ {4_EnemyUnitName} gây {5_Num} damage!</Text>
+			<Text>{1_UnitName} của bạn sống sót sau khi tấn công vũ khí hạt nhân, nhận {2_Num} damage từ {4_EnemyUnitName} gây {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_FAILED">
-			<Text>{1_UnitName} của bạn đã thất bại trong việc đánh chặn vũ khí hạt nhân bởi gây {2_Num} damage từ {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
+			<Text>{1_UnitName} của bạn đã thất bại trong việc tấn công vũ khí hạt nhân bởi gây {2_Num} damage từ {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_FAILED_DUE_TO_INTERCEPT">
 			<Text>{1_UnitName} của bạn thất bại trong việc triển khai vũ khí hạt nhân. Nó đã bị chặn lại, nhận {2_Num} damage từ {4_EnemyUnitName} và gây {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_SUCCEEDED">
-			<Text>{1_UnitName} của bạn đã đánh chặn thành công vũ khí hạt nhân bởi gây {2_Num} damage từ {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
+			<Text>{1_UnitName} của bạn đã tấn công thành công vũ khí hạt nhân bởi gây {2_Num} damage từ {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
 		</Row>
 		<Row Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
 			<Text>Trong khi phòng thủ, {1_UnitName} của bạn bị phá hủy bởi {2_EnUName} ({3_Num} damage)!</Text>
@@ -120,7 +120,7 @@
 			<Text>You received {1_Num} [ICON_Culture] Văn minh in plunder from your pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_FAITH">
-			<Text>You received {1_Num} [ICON_Faith] Lòng tin in plunder from your pillaging.</Text>
+			<Text>You received {1_Num} [ICON_Faith] Đức Tin in plunder from your pillaging.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_GOLD">
 			<Text>You received {1_Num} [ICON_Gold] Vàng in plunder from your pillaging.</Text>

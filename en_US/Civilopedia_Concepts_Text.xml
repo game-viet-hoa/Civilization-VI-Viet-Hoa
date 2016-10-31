@@ -87,7 +87,7 @@
 			<Text>Districts may be placed on top of features such as Woods or Rainforest if you have the technology to remove those features, but for a longer construction time.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
-			<Text>Vùng ngoại ô và tâm trạng</Text>
+			<Text>Vùng Ngoại Ô và Sức Hấp Dẫn</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_1">
 			<Text>Neighborhoods are a special district that allows a city to house more [ICON_Citizen] Dân số and is affected by Appeal. The term “Appeal” is used to describe a special form of adjacency bonus that just applies to Neighborhoods, and also will affect Culture Victory’s [ICON_Tourism] Du lịch system through National Parks and Seaside Resorts.</Text>
@@ -222,7 +222,7 @@
 			<Text>Tribal Villages</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Tribal Villages are less civilized than other civilizations, but are friendly nonetheless. Visiting tribal villages provide a random benefit to the civilization of the unit that first enters their tile. The village disappears after its gifts have been claimed. Gifts include survivors, such as Builders or Traders, technology or technology boosts, military units, [ICON_Faith] Lòng tin, [ICON_Gold] Vàng, [ICON_GreatWork_Relic] Relics or civic boosts.</Text>
+			<Text>Tribal Villages are less civilized than other civilizations, but are friendly nonetheless. Visiting tribal villages provide a random benefit to the civilization of the unit that first enters their tile. The village disappears after its gifts have been claimed. Gifts include survivors, such as Builders or Traders, technology or technology boosts, military units, [ICON_Faith] Đức Tin, [ICON_Gold] Vàng, [ICON_GreatWork_Relic] Relics or civic boosts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_TITLE">
 			<Text>Barbarians</Text>
@@ -378,10 +378,10 @@
 			<Text>Both improvements and buildings in districts without garrisons can be pillaged. This action renders them inoperable and awards the pillaging unit with some form of "plunder."  </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_2">
-			<Text>Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district (see below). Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the [ICON_Production] Sản phẩm cost of initial construction of that building.)[NEWLINE]Pillaging a Campus awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Holy Site awards [ICON_Faith] Lòng tin.[NEWLINE]Pillaging a Commercial Hub awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Theater Square awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging a Harbor district awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Industrial Zone awards [ICON_Science] Khoa học.[NEWLINE]Pillaging an Aerodrome awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Aqueduct awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Spaceport awards [ICON_Science] Khoa học.</Text>
+			<Text>Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district (see below). Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the [ICON_Production] Sản phẩm cost of initial construction of that building.)[NEWLINE]Pillaging a Campus awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Holy Site awards [ICON_Faith] Đức Tin.[NEWLINE]Pillaging a Commercial Hub awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Theater Square awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging a Harbor district awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Industrial Zone awards [ICON_Science] Khoa học.[NEWLINE]Pillaging an Aerodrome awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Aqueduct awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Spaceport awards [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_3">
-			<Text>Pillaging an improvement will take 3 Movement Points, or all your movement (if you have [ICON_Movement] Di chuyển Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).[NEWLINE]Pillaging a Farm awards healing.[NEWLINE]Pillaging a Mine awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Quarry awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging Fishing Boats awards healing.[NEWLINE]Pillaging a Pasture awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Plantation awards [ICON_Faith] Lòng tin.[NEWLINE]Pillaging a Camp awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Lumber Mill awards [ICON_Science] Khoa học.[NEWLINE]</Text>
+			<Text>Pillaging an improvement will take 3 Movement Points, or all your movement (if you have [ICON_Movement] Di chuyển Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).[NEWLINE]Pillaging a Farm awards healing.[NEWLINE]Pillaging a Mine awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Quarry awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging Fishing Boats awards healing.[NEWLINE]Pillaging a Pasture awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Plantation awards [ICON_Faith] Đức Tin.[NEWLINE]Pillaging a Camp awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Lumber Mill awards [ICON_Science] Khoa học.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MOVEMENT_NAME">
 			<Text>Unit Movement</Text>
@@ -513,13 +513,13 @@
 			<Text>Earning Faith</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_PARA_1">
-			<Text>ICON_Faith] Lòng tin is the currency of Religion and can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Holy Site district and its buildings. Look through the Civilopedia to find sources of [ICON_Faith] Lòng tin.</Text>
+			<Text>[ICON_Faith] Đức Tin is the currency of Religion and can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Holy Site district and its buildings. Look through the Civilopedia to find sources of [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_TITLE">
 			<Text>Pantheons</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Once you accumulate enough [ICON_Faith] Lòng tin, you’ll be prompted to found a Pantheon, a precursor to the full-blown Religions to be founded later. Choosing which Pantheon to found depends on your short- and long-term goals for your civilization. After earning a Pantheon, you are well on your way to establishing your Religion. Unlike a full Religion, a Pantheon you choose will be unique to your civilization, and cannot spread outside your borders, or be displaced. </Text>
+			<Text>Once you accumulate enough [ICON_Faith] Đức Tin, you’ll be prompted to found a Pantheon, a precursor to the full-blown Religions to be founded later. Choosing which Pantheon to found depends on your short- and long-term goals for your civilization. After earning a Pantheon, you are well on your way to establishing your Religion. Unlike a full Religion, a Pantheon you choose will be unique to your civilization, and cannot spread outside your borders, or be displaced. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_TITLE">
 			<Text>Nhà tiên tri vĩ đại</Text>
@@ -537,22 +537,22 @@
 			<Text>You can then use the Evangelize Belief action on Apostles to add additional beliefs to your Religion. You can have a total of 4 beliefs in a Religion.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_3">
-			<Text>Follower beliefs provide some kind of yield or other inherent bonus. This applies to all cities and civilizations that follow that Religion.[NEWLINE][NEWLINE]Founder beliefs provide a bonus that relies on the number of followers it has. Followers are citizens that follow that religion in all cities, regardless of whether or not that Religion is predominant in a city. This bonus is applied only to the civilization that founded that Religion.[NEWLINE][NEWLINE]Worship beliefs grant a unique type of building that can be built in Holy Sites, or purchased there with [ICON_Faith] Lòng tin. Every Worship building has different benefits.[NEWLINE][NEWLINE]Enhancer beliefs help spread the religion by making its natural religious pressure stronger or by making Missionaries and Apostles cheaper.</Text>
+			<Text>Follower beliefs provide some kind of yield or other inherent bonus. This applies to all cities and civilizations that follow that Religion.[NEWLINE][NEWLINE]Founder beliefs provide a bonus that relies on the number of followers it has. Followers are citizens that follow that religion in all cities, regardless of whether or not that Religion is predominant in a city. This bonus is applied only to the civilization that founded that Religion.[NEWLINE][NEWLINE]Worship beliefs grant a unique type of building that can be built in Holy Sites, or purchased there with [ICON_Faith] Đức Tin. Every Worship building has different benefits.[NEWLINE][NEWLINE]Enhancer beliefs help spread the religion by making its natural religious pressure stronger or by making Missionaries and Apostles cheaper.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_TITLE">
 			<Text>Religious Units and Pressure</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_1">
-			<Text>There are three types of Religious units: Missionaries, Apostles, and Inquisitors. Religious units may be purchased through your city with [ICON_Faith] Lòng tin and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.[NEWLINE][NEWLINE]If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.</Text>
+			<Text>There are three types of Religious units: Missionaries, Apostles, and Inquisitors. Religious units may be purchased through your city with [ICON_Faith] Đức Tin and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.[NEWLINE][NEWLINE]If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_2">
-			<Text>Missionaries may be purchased with [ICON_Faith] Lòng tin in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.</Text>
+			<Text>Missionaries may be purchased with [ICON_Faith] Đức Tin in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_3">
-			<Text>Apostles may be purchased with [ICON_Faith] Lòng tin in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.[NEWLINE][NEWLINE]Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.</Text>
+			<Text>Apostles may be purchased with [ICON_Faith] Đức Tin in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.[NEWLINE][NEWLINE]Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
-			<Text>Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors in cities that follow the religion of the Apostle that launched the Inquisition with [ICON_Faith] Lòng tin. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a city. They may also engage in theological combat against other Religious units.</Text>
+			<Text>Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors in cities that follow the religion of the Apostle that launched the Inquisition with [ICON_Faith] Đức Tin. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a city. They may also engage in theological combat against other Religious units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
 			<Text>Theological Combat</Text>
@@ -714,7 +714,7 @@
 			<Text>A trade city-state can provide [ICON_Gold] Vàng to your civilization.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_3">
-			<Text>A Religious city-state can provide [ICON_Faith] Lòng tin to your civilization </Text>
+			<Text>A Religious city-state can provide [ICON_Faith] Đức Tin to your civilization </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_4">
 			<Text>A militaristic city-state can provide [ICON_Production] Sản phẩm toward producing units.</Text>
@@ -798,7 +798,7 @@
 			<Text>Yields</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
-			<Text>A [ICON_TradeRoute] Tuyến đường thương mại provides yields based on where it goes and what path it takes. The districts within a destination city will determine the types of yields provided to the origin city. For example, trading with a city with a Holy Site will provide [ICON_Faith] Lòng tin, and trading with a city with a Theater Square district will provide [ICON_Culture] Văn minh.</Text>
+			<Text>A [ICON_TradeRoute] Tuyến đường thương mại provides yields based on where it goes and what path it takes. The districts within a destination city will determine the types of yields provided to the origin city. For example, trading with a city with a Holy Site will provide [ICON_Faith] Đức Tin, and trading with a city with a Theater Square district will provide [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
 			<Text>Governments and Policies</Text>
@@ -810,10 +810,10 @@
 			<Text>Governments allow you to customize your civilization to match your play style by offering different combinations of slots to elect different types of policies, as well as offering distinct bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Lòng tin and offers a discount on [ICON_Faith] Lòng tin purchases when active.</Text>
+			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Đức Tin and offers a discount on [ICON_Faith] Đức Tin purchases when active.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Lòng tin discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
+			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Đức Tin discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
 			<Text>Policies</Text>
@@ -978,7 +978,7 @@
 			<Text>National Parks</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Naturalists may be purchased in your city with [ICON_Faith] Lòng tin after researching the Conservation civic, and can be used to designate National Parks. Creating a National Park consumes the Naturalist unit.</Text>
+			<Text>Naturalists may be purchased in your city with [ICON_Faith] Đức Tin after researching the Conservation civic, and can be used to designate National Parks. Creating a National Park consumes the Naturalist unit.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_2">
 			<Text>National Parks can be built on a cluster of any four contiguous hexes that meet the following requirements:[NEWLINE]The tiles must be natural wonders, Mountains, or a tile with an Appeal of Charming or better.[NEWLINE]	All four of the tiles must be owned by the same city.[NEWLINE]The tiles must form a diamond shape.[NEWLINE]	No tile can have an improvement or district on it.</Text>

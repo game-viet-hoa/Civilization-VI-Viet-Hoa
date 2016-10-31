@@ -19,7 +19,7 @@
 			<Text>Bắt đầu</Text>
 		</Row>
 		<Row Tag="LOC_OK">
-			<Text>Ok</Text>
+			<Text>OK</Text>
 		</Row>
 		<Row Tag="LOC_CANCEL">
 			<Text>Hủy</Text>
@@ -46,25 +46,25 @@
 			<Text>Không thể di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_CIVIC">
-			<Text>Hành chính không chính xác để chọn.</Text>
+			<Text>Hành Chính không chính xác để chọn.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_GOVERNMENT">
-			<Text>Chính phủ không chính xác để chọn.</Text>
+			<Text>Chính Phủ không chính xác để chọn.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_GREAT_PERSON">
-			<Text>Vĩ nhân không chính xác để chọn.</Text>
+			<Text>Vĩ Nhân không chính xác để chọn.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_PLOT">
-			<Text>Đó là âm mưu không chính xác.</Text>
+			<Text>Đó là ô đất không chính xác.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_POLICY">
-			<Text>Chính sách không chính xác để chọn.</Text>
+			<Text>Chính Sách không chính xác để chọn.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_TECHNOLOGY">
-			<Text>Công nghệ không chính xác để chọn.</Text>
+			<Text>Công Nghệ không chính xác để chọn.</Text>
 		</Row>
 		<Row Tag="LOC_THIS_IS_THE_PLOT">
-			<Text>Đây là âm mưu.</Text>
+			<Text>Đây là ô đất..</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_NORTH">
 			<Text>Bắc</Text>
@@ -121,34 +121,34 @@
 			<Text>Chọn ít hơn {1_amount}.</Text>
 		</Row>
 		<Row Tag="LOC_SELECT_POST_THIS_MOMENT_IN_TIME">
-			<Text>Post this moment in time.</Text>
+			<Text>Đăng thời điểm này đúng lúc.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_CLICK">
 			<Text>Click</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_DOUBLE_CLICK">
-			<Text>Double-Click</Text>
+			<Text>Click Đúp</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_LEFT_CLICK">
-			<Text>Left-Click</Text>
+			<Text>Click Trái</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_RIGHT_CLICK">
-			<Text>Right-Click</Text>
+			<Text>Click Phải</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_MIDDLE_CLICK">
-			<Text>Middle-Click</Text>
+			<Text>Click Giữa</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_TOUCH">
-			<Text>Touch</Text>
+			<Text>Chạm</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_TAP">
-			<Text>Tap</Text>
+			<Text>Gõ</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_HOLD">
 			<Text>Giữ</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_Double_TAP">
-			<Text>Double-Tap</Text>
+			<Text>Gõ Đúp</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_TWO_FINGER_HOLD">
 			<Text>Two Finger Hold</Text>
@@ -172,13 +172,13 @@
 			<Text>Click</Text>
 		</Row>
 		<Row Tag="LOC_UI_RIGHT_CLICK">
-			<Text>Right Click</Text>
+			<Text>Click Phải</Text>
 		</Row>
 		<Row Tag="LOC_UI_LEFT_CLICK">
-			<Text>Left Click</Text>
+			<Text>Click Trái</Text>
 		</Row>
 		<Row Tag="LOC_UI_MIDDLE_CLICK">
-			<Text>Middle Click</Text>
+			<Text>Click Giữa</Text>
 		</Row>
 		<Row Tag="LOC_UI_TO_COMPLETE">
 			<Text>{1_input} để hoàn thành.</Text>
@@ -203,10 +203,10 @@
 			<Text>MENU</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RESTART">
-			<Text>Restart</Text>
+			<Text>Bắt đầu lại</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RESTART_TOOLTIP">
-			<Text>Restart với bản đồ mới.</Text>
+			<Text>Bắt đầu lại với bản đồ mới.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUICK_SAVE">
 			<Text>Lưu Game nhanh</Text>
@@ -230,7 +230,7 @@
 			<Text>Tùy chọn</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_OPTIONS_TOOLTIP">
-			<Text>Tùy chọn đồ họa, âm thanh...</Text>
+			<Text>Tùy chọn đồ họa, âm thanh, gán phím...</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_GAME_SETTINGS">
 			<Text>Cài đặt Game</Text>
@@ -260,7 +260,7 @@
 			<Text>Quay lại</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RETURN_TO_GAME_TOOLTIP">
-			<Text>Quay lại!</Text>
+			<Text>Chỉ một lượt nữa!</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_EXIT_WARNING">
 			<Text>Có chắc muốn thoát?</Text>
@@ -289,10 +289,10 @@
 			<Text>Tự động di chuyển theo thứ tự</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_AUTOPLAY_ACTIVE">
-			<Text>Kích hoạt AutoPlay</Text>
+			<Text>Kích hoạt tự chơi</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_AUTOPLAY_ACTIVE_TOOLTIP">
-			<Text>Người chơi không thể tác động trong khi AutoPlay.</Text>
+			<Text>Người chơi không thể tác động trong khi tự chơi.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ARTIFACT_PLAYER">
 			<Text>CHỌN CỔ VẬT</Text>
@@ -301,7 +301,7 @@
 			<Text>THÀNH PHỐ TẤN CÔNG TẦM XA</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_DRAGNET_PRIORITY">
-			<Text>CHOOSE PURSUIT PRIORITY</Text>
+			<Text>CHỌN MỤC ĐÍCH ƯU TIÊN</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ESCAPE_ROUTE">
 			<Text>CHỌN LỘ TRÌNH TRỐN THOÁT</Text>
@@ -328,7 +328,7 @@
 			<Text>CHỌN HÀNH CHÍNH</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_ORDERS">
-			<Text>Đơn vị cần hành động</Text>
+			<Text>ĐƠN VỊ CẦN HÀNH ĐỘNG</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_ORDERS_TOOLTIP">
 			<Text>Đơn vị cần hành động.</Text>
@@ -340,7 +340,7 @@
 			<Text>CHỌN TÔN GIÁO</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_RESEARCH">
-			<Text>NGHIÊN CỨU</Text>
+			<Text>CHỌN NGHIÊN CỨU</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_PLEASE_WAIT">
 			<Text>VUI LÒNG CHỜ</Text>
@@ -358,7 +358,7 @@
 			<Text>DI CHUYỂN ĐƠN VỊ ĐÃ GỘP</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_STACKED_UNIT_TOOLTIP">
-			<Text>Một đơn vị đã gộp.</Text>
+			<Text>Một đơn vị đã gộp phải được di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_GIVE_INFLUENCE_TOKEN">
 			<Text>GỬI PHÁI ĐOÀN</Text>
@@ -370,37 +370,37 @@
 			<Text>{1_Name} (Indefinite)</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_RESEARCH_TOOLTIP">
-			<Text>Cần chọn công nghệ nghiên cứu.</Text>
+			<Text>Cần chọn Công Nghệ để nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_CIVIC_TOOLTIP">
-			<Text>Còn chọn Hành chính để mở khóa.</Text>
+			<Text>Cần chọn Hành Chính để mở khóa.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_FILL_CIVIC_SLOT_TOOLTIP">
-			<Text>Một chính sách đã lỗi thời và cần được thay thế.</Text>
+			<Text>Một Chính Sách đã lỗi thời và cần được thay thế.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CONSIDER_GOVERNMENT_CHANGE_TOOLTIP">
-			<Text>Hành chính hoàn thành mở khóa chính phủ mới. Hãy xem xét thay đổi trong lượt này.</Text>
+			<Text>Hành Chính hoàn thành mở khóa Chính Phủ mới. Hãy xem xét thay đổi trong lượt này.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CONSIDER_RAZE_CITY_TOOLTIP">
-			<Text>Chinh phục một thành phố trong lượt này. Quyết định san phẳng hay giữ lại.</Text>
+			<Text>Chinh phục một thành phố trong lượt này. Quyết định San Phẳng hay Giữ Lại.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_PANTHEON_TOOLTIP">
-			<Text>Cần chọn một Vị thần cho mọi người.</Text>
+			<Text>Cần chọn một Vị Thần cho mọi người.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_RELIGION_TOOLTIP">
-			<Text>Bạn cần lựa chọn tôn giáo cho người của bạn.</Text>
+			<Text>Bạn cần lựa chọn Tôn Giáo cho người của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CLAIM_GREAT_PERSON_TOOLTIP">
-			<Text>Có được một Vĩ nhân và bạn có thể chấp nhận tuyển dụng hoặc bỏ quay họ.</Text>
+			<Text>Có được một Vĩ Nhân và bạn có thể chấp nhận chiêu mộ hoặc bỏ qua họ.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ESCAPE_ROUTE_TOOLTIP">
-			<Text>Gián điệp của bạn đã bị phát hiện! Cảnh sát địa phương đang truy lùng. Chọn một đường trốn thoát.</Text>
+			<Text>Gián Điệp của bạn đã bị phát hiện! Cảnh Sát Địa Phương đang truy lùng. Chọn một đường trốn thoát.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_DRAGNET_PRIORITY_TOOLTIP">
-			<Text>Gián điệp địch đã bị phát hiện! Chặn lối thoát với lực lượng cảnh sát địa phương của bạn.</Text>
+			<Text>Gián Điệp địch đã bị phát hiện! Chặn lối thoát với lực lượng Cảnh Sát Địa Phương của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ARTIFACT_PLAYER_TOOLTIP">
-			<Text>Nhà khảo cổ cần phải quyết định [ICON_GreatWork_Artifact] Cổ vật khi trở về Bảo tàng ở nhà.</Text>
+			<Text>Nhà Khảo Cổ cần phải quyết định [ICON_GreatWork_Artifact] Cổ Vật cho nền văn minh khi anh ấy muốn quay về Bảo Tàng ở quê hương.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CITY_RANGED_ATTACK_TOOLTIP">
 			<Text>Thành phố của bạn có thể thực hiện tấn công tầm xa.</Text>
@@ -430,29 +430,29 @@
 			<Text>BỎ QUA DI CHUYỂN ĐƠN VỊ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_UNIT_MOVES_TOOLTIP">
-			<Text>Đơn vị còn có thể [ICON_Movement] Di chuyển. Click để kết thúc lượt của bạn ngay.</Text>
+			<Text>Đơn vị còn còn có điểm [ICON_Movement] Di chuyển. Click để kết thúc lượt của bạn ngay.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING">
 			<Text>ĐƠN VỊ CÓ DI CHUYỂN</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING_TOOLTIP">
-			<Text>Đơn vị còn có thể [ICON_Movement] Di chuyển.</Text>
+			<Text>Đơn vị của bạn còn có thể [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_GIVE_INFLUENCE_TOKEN_TOOLTIP">
-			<Text>Kiếm được một [ICON_Envoy] Phái đoàn, và có thể gửi họ sang thành phố tự trị để nhận thưởng.</Text>
+			<Text>Kiếm được một [ICON_Envoy] Phái Đoàn, và có thể gửi họ sang thành phố tự trị để nhận thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NO_AVAILABLE_WARHEADS">
 			<Text>Không có đầu đạn.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_UNIT_CANNOT_ATTACK_DUE_TO_DAMAGE">
-			<Text>Đơn vị đã quá yếu để tấn công</Text>
+			<Text>Đơn vị bị thương quá nặng để có thể chiến đấu.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CITY_CANNOT_ATTACK_DUE_TO_DAMAGE">
 			<Text>Thành phố đã quá thiệt hại để tấn công.</Text>
 		</Row>
 		<!-- ==================== Unit Panel (and some combat preview) ==================== -->
 		<Row Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_DELETE">
-			<Text>Bạn có chắc muốn xóa bỏ {1_UnitName} khỏi game?</Text>
+			<Text>Bạn có chắc muốn loại bỏ {1_UnitName} khỏi game?</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_NUKE">
 			<Text>Bạn có chắc muốn phóng đầu đạn hạt nhân?</Text>
@@ -470,7 +470,7 @@
 			<Text>KIẾN TRÚC</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_SPREADS">
-			<Text>Spreads</Text>
+			<Text>Truyền Đạo</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_ACTIONS">
 			<Text>Hành động</Text>
@@ -488,7 +488,7 @@
 			<Text>Tầm xa: {1} ({2: plural 1?{2} ô; other?{2} ô;})</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_MOVES">
-			<Text>{1_Moves : plural 1?di chuyển; other?di;}</Text>
+			<Text>{1_Moves : plural 1?di chuyển; other?di chuyển;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_ATTACK_RANGE">
 			<Text>Phạm vi tấn công</Text>
@@ -509,7 +509,7 @@
 			<Text>Sức mạnh đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_BOMBARD_STRENGTH">
-			<Text>Sức mạnh đánh xa</Text>
+			<Text>Sức mạnh pháo</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_CORPS_SUFFIX">
 			<Text>Trung đội [ICON_Corps]</Text>
@@ -569,7 +569,7 @@
 			<Text>Thảm bại</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_CITY_DAMAGE">
-			<Text>Tổng thiệt hại thành phố</Text>
+			<Text>Thành phố thiệt hại hoàn toàn</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_CITY_DAMAGE">
 			<Text>Thành phố thiệt hại lớn</Text>
@@ -578,7 +578,7 @@
 			<Text>Thành phố thiệt hại nhỏ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_WALL_DAMAGE">
-			<Text>Tổng thiệt hại tường thành</Text>
+			<Text>Tường thành thiệt hại hoàn toàn</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_WALL_DAMAGE">
 			<Text>Tường thành thiệt hại lớn</Text>
@@ -593,16 +593,16 @@
 			<Text>Chọn thành phố gốc...</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_CHOOSE_PROMOTION_TEXT">
-			<Text>Huân chương</Text>
+			<Text>Chọn Huân Chương</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_TRADE_ROUTE_NAME">
 			<Text>{1_OriginName} tới {2_DestinationName}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_LAND_ROUTE_RANGE">
-			<Text>Lộ trình trên đất</Text>
+			<Text>Lộ trình đất</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_SEA_ROUTE_RANGE">
-			<Text>Lộ trình trên biển</Text>
+			<Text>Lộ trình biển</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_YES">
 			<Text>Có</Text>
@@ -620,7 +620,7 @@
 			<Text>+{1_Value} Địa hình thuận lợi</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DEFENSIVE_IMPROVEMENT_BONUS_DESC">
-			<Text>+{1_Value} Phòng thủ công trình</Text>
+			<Text>+{1_Value} Phòng thủ tường thành</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_TERRAIN_PENALTY">
 			<Text>[COLOR_RED]{1_Value} Địa hình không thuận lợi[ENDCOLOR]</Text>
@@ -635,10 +635,10 @@
 			<Text>+{1_Value} Lợi thế với quân man di</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_FRIENDLY_TERRITORY_BONUS">
-			<Text>+{1_Value} Lãnh thổ đồng minh</Text>
+			<Text>+{1_Value} Vùng đất thân thiện</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_FORTIFIED_DEFENSE_DESC">
-			<Text>+{1_Value} Phòng thủ cắm chốt</Text>
+			<Text>+{1_Value} Phòng thủ khi Cố Thủ</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_UNITS_DESC">
 			<Text>-{1_Value} Kém hiệu quả với đơn vị</Text>
@@ -650,7 +650,7 @@
 			<Text>+{1_Value} Thưởng thọc sườn</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_LUXURY_ATTACK_BONUS_DESC">
-			<Text>+{1_Value} Thưởng mỗi tấn công sang trọng</Text>
+			<Text>+{1_Value} Thưởng mỗi tấn công vào tài nguyên quý</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_WALLS_BONUS">
 			<Text>+{1_Value} Phòng thủ tường thành</Text>
@@ -665,7 +665,7 @@
 			<Text>+{1_Value} Phòng thủ Tường phục hưng</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_GARRISONED_UNIT_BONUS">
-			<Text>+{1_Value} Garrisoned {2_Unit}</Text>
+			<Text>+{1_Value} {2_Unit} đóng quân</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_PALACE_BONUS">
 			<Text>+{1_Value} Cung điện</Text>
@@ -701,7 +701,7 @@
 			<Text>[COLOR_RED]Phòng thủ đơn vị phòng không[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DAMAGE_FROM_INTERCEPTOR">
-			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] do thiệt hại từ đánh chặn</Text>
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] do thiệt hại từ tấn công</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DAMAGE_FROM_ANTI_AIR">
 			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] do thiệt hại từ phòng không</Text>
@@ -759,13 +759,13 @@
 			<Text>Không hoạt động</Text>
 		</Row>
 		<Row Tag="LOC_UNITFLAG_ARCHAEOLOGY_HOME_CITY">
-			<Text>Home City: {1_CityName}</Text>
+			<Text>Thành phố quê hương: {1_CityName}</Text>
 		</Row>
 		<Row Tag="LOC_UNITFLAG_ARCHAEOLOGY_ARTIFACT">
 			<Text>Cổ vật: {1_ArtifactName} ({2_PlayerName})</Text>
 		</Row>
 		<Row Tag="LOC_UNITFLAG_LEVY_ACTIVE">
-			<Text>Levied from {1_PlayerName} ({2_TurnsRemaining} [ICON_Turn] {2_TurnsRemaining : plural 1?Turn; other?Turns;} remaining)</Text>
+			<Text>Tuyển quân từ {1_PlayerName} (còn {2_TurnsRemaining} [ICON_Turn] {2_TurnsRemaining : plural 1?lượt; other?lượt;})</Text>
 		</Row>
 		<!-- ==================== Generic Popup Defaults ==================== -->
 		<Row Tag="LOC_GENERIC_POPUP_ARE_YOU_SURE">
@@ -792,51 +792,51 @@
 		</Row>
 		<!-- ==================== Plot Info ==================== -->
 		<Row Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
-			<Text>Cần thêm {1_num} [ICON_Gold].</Text>
+			<Text>Cần thêm {1_num} [ICON_Gold] để mua ô đất này.</Text>
 		</Row>
 		<Row Tag="LOC_PLOTINFO_SWAP_TILE_OWNER">
 			<Text>Hoán đổi</Text>
 		</Row>
 		<Row Tag="LOC_PLOTINFO_SWAP_TILE_OWNER_TOOLTIP">
-			<Text>Claim this tile to be worked by this city, instead of your other city.[NEWLINE][NEWLINE]Ownership cannot be swapped if the tile has a district, a wonder, or is next to the other city's center tile.</Text>
+			<Text>Giữ cho ô đất được làm việc bởi thành phố này, thay vì thành phố khác của bạn.[NEWLINE][NEWLINE]Quyền sở hữu không thể hoán đổi nếu ô đất đã có Đặc Khu, Kì Quan hoặc ô đất kế bên là thành phố trung tâm.</Text>
 		</Row>
 		<!-- ==================== Player Change Popup ==================== -->
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
 			<Text>'s Turn</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
-			<Text>Start Turn</Text>
+			<Text>Bắt Đầu Lượt</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_SAVE_GAME">
-			<Text>Save Game</Text>
+			<Text>Lưu Game</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_PASSWORD">
-			<Text>Password</Text>
+			<Text>Mật khẩu</Text>
 		</Row>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
-			<Text>Yêu cầu: {1_Tech} công nghệ</Text>
+			<Text>Yêu cầu: {1_Tech} Công Nghệ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_CIVIC">
-			<Text>Yêu cầu: {1_Civic} hành chính</Text>
+			<Text>Yêu cầu: {1_Civic} Hành Chính</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_ADJACENT_SAME_UNIT">
 			<Text>Yêu cầu đơn vị liền kề cùng loại.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_PILLAGE_REQUIRES_MOVEMENT">
-			<Text>Không còn điểm di chuyển.</Text>
+			<Text>Không còn đủ điểm di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_NEAR_GOODY_HUT">
 			<Text>Quá gần làng thổ dân</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_FORMATION">
-			<Text>In formation with other units</Text>
+			<Text>Trong đoàn hộ tống với đơn vị khác</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_DANGER">
 			<Text>Nguy hiểm</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_PROMOTION_AVAILABLE">
-			<Text>Thăng chức</Text>
+			<Text>Huân chương khả dụng</Text>
 		</Row>
 		<!-- ==================== City Banner ==================== -->
 		<Row Tag="LOC_CITY_BANNER_AERODROME_AIRCRAFT_STATIONED">
@@ -849,7 +849,7 @@
 			<Text>Đặc Khu tấn công tầm xa</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_FOOD_SURPLUS">
-			<Text>{1_Food} surplus [ICON_Food] Thực phẩm.</Text>
+			<Text>Dư {1_Food} [ICON_Food] Thực phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_GARRISON_DEFENSE_STRENGTH">
 			<Text>Sức mạnh phòng thủ thành phố</Text>
@@ -867,22 +867,22 @@
 			<Text>Trạng thái tường thành: {1_Health}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_NUCLEAR_STRIKE_CAPABLE">
-			<Text>Khả năng đánh chặn hạt nhân</Text>
+			<Text>Tấn công hạt nhân</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_NO_PRODUCTION">
 			<Text>Hiện tại không sản xuất gì</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_POPULATION">
-			<Text>[ICON_Citizen] Dân số</Text>
+			<Text>[ICON_Citizen] Dân Số</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_PRODUCING">
 			<Text>Sản xuất: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_THERMONUCLEAR_STRIKE_CAPABLE">
-			<Text>Khả năng đánh chặn nhiệt hạch</Text>
+			<Text>Tấn công nhiệt hạch</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_TURNS_STARVATION">
-			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa thiếu ắn.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa thiếu ăn.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_TURNS_GROWTH">
 			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa ra đời.</Text>
@@ -895,16 +895,16 @@
 		</Row>
 		<!-- ==================== City Panel ==================== -->
 		<Row Tag="LOC_HUD_CITY_OVERVIEW_CITIZENS_TOOLTIP">
-			<Text>Dân cư, tiện nghi và nhà ở.</Text>
+			<Text>Dân Cư, Tiện Nghi và Nhà Ở.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OVERVIEW_BUILDINGS_TOOLTIP">
-			<Text>Đặc Khu, kiến trúc, kỳ quan và thương mại.</Text>
+			<Text>Đặc Khu, Kiến Trúc, Kỳ Quan và Thương Mại.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OVERVIEW_RELIGION_TOOLTIP">
-			<Text>Tín ngưỡng và tôn giáo.</Text>
+			<Text>Tín Ngưỡng Vị Thần và Tôn Giáo.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_DETAILS">
-			<Text>THÔNG TIN THÀNH PHỐ</Text>
+			<Text>Chi tiết thành phố</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_ADVISOR_TRY_BUILDING">
 			<Text>Thử xây kiến trúc {1_Thing}.</Text>
@@ -916,52 +916,52 @@
 			<Text>Thêm vào hàng chờ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_ADVISOR_TRY_IMPROVING">
-			<Text>Cây công trình quanh thành phố dể có được tiện nghi.</Text>
+			<Text>Cây công trình quanh thành phố của bạn dể có được Tiện Nghi.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_ALL_YIELDS">
 			<Text>Phi thực phẩm</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES">
-			<Text>Tiện nghi</Text>
+			<Text>Tiện Nghi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_TOOLTIP">
-			<Text>Tiện nghi được tính {1_Amenitiy} cho {2_Citizens} Công dân / {3_DivideValue}</Text>
+			<Text>Tiện Nghi được tính {1_Amenitiy} cho {2_Citizens} Công dân / {3_DivideValue}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_CIVICS">
-			<Text>{1_Num} = Tiện nghi từ hành chính[NEWLINE]</Text>
+			<Text>{1_Num} = Tiện Nghi từ Hành Chính[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_ENTERTAINMENT">
-			<Text>{1_Num} = Tiện nghi từ giải trí[NEWLINE]</Text>
+			<Text>{1_Num} = Tiện Nghi từ Giải Trí[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_CIVICS">
-			<Text>Tiện nghi từ hành chính:</Text>
+			<Text>Tiện Nghi từ Hành Chính:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_ENTERTAINMENT">
-			<Text>Tiện nghi từ giải trí:</Text>
+			<Text>Tiện Nghi từ Giải Trí:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_GREAT_PEOPLE">
-			<Text>Tiện nghi từ vĩ nhân:</Text>
+			<Text>Tiện Nghi từ Vĩ Nhân:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_LUXURIES">
-			<Text>Tiện nghi từ tài nguyên quý:</Text>
+			<Text>Tiện Nghi từ Tài Nguyên Quý:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_RELIGION">
-			<Text>Tiện nghi từ tôn giáo:</Text>
+			<Text>Tiện Nghi từ Tôn Giáo:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_NATIONAL_PARKS">
-			<Text>Tiện nghi từ công viên quốc gia:</Text>
+			<Text>Tiện Nghi từ Công Viên Quốc Gia:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_STARTING_ERA">
-			<Text>Tiện nghi từ thời đại bắt đầu:</Text>
+			<Text>Tiện Nghi từ thời đại bắt đầu:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_WAR_WEARINESS">
 			<Text>Tiện nghi từ chiến tranh dai dẳng:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_BANKRUPTCY">
-			<Text>Tiện nghi từ phá sản:</Text>
+			<Text>Tiện Nghi từ phá sản:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_LUXURIES">
-			<Text>{1_Num} = Tiện nghi từ tài nguyên quý[NEWLINE]</Text>
+			<Text>{1_Num} = Tiện Nghi từ Tài Nguyên Quý[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_REQUIRED">
 			<Text>{1_Num} = YÊU CẦU TIỆN NGHI[NEWLINE][NEWLINE]</Text>
@@ -970,22 +970,22 @@
 			<Text>{1_Num} = TỔNG TIỆN NGHI[NEWLINE][NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITY">
-			<Text>{1_Amenity : plural 1? tiện nghi; other? tiện nghi;}</Text>
+			<Text>{1_Amenity : plural 1? Tiện Nghi; other? Tiện Nghi;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_BORDER_EXPANSION">
 			<Text>Mở rộng biên giới trong {1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_BUILDINGS">
-			<Text>Kiến trúc</Text>
+			<Text>Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_BUILDINGS_AND_DISTRICTS">
-			<Text>Kiến trúc và Đặc Khu</Text>
+			<Text>Kiến Trúc và Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_CHANGE_PRODUCTION">
 			<Text>Thay đổi Sản phẩm</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_CITIZEN">
-			<Text>dân cư</Text>
+			<Text>Dân cư</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_CITIZENS">
 			<Text>Dân số</Text>
@@ -1003,7 +1003,7 @@
 			<Text>Đã hoàn thành trong</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_CULTURE_PER_TURN">
-			<Text>{1_Culture} Văn minh/lượt</Text>
+			<Text>{1_Culture} Văn Minh/lượt</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_CURRENT_FOCUS">
 			<Text>Trọng tâm hiện tại</Text>
@@ -1015,19 +1015,19 @@
 			<Text>{1_Turns : plural 1?Đặc Khu; other?Đặc Khu;} đã xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_DOMINANT_RELIGION">
-			<Text>Tôn giáo chiếm ưu thế</Text>
+			<Text>Tôn Giáo chiếm ưu thế</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_FOOD_CONSUMPTION">
-			<Text>Tiêu thụ thực phẩm</Text>
+			<Text>Tiêu thụ Thực Phẩm</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_FOOD_PER_TURN">
-			<Text>Thực phẩm/lượt</Text>
+			<Text>Thực Phẩm/lượt</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_FOR">
 			<Text>cho</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_GROWTH_FOOD_PER_TURN">
-			<Text>Thực phẩm tăng trưởng/lượt</Text>
+			<Text>Thực Phẩm tăng trưởng/lượt</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_GROWTH_IN">
 			<Text>Tăng trong</Text>
@@ -1036,43 +1036,43 @@
 			<Text>Chiếm đóng: không tăng trưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HAPPINESS_GROWTH_BONUS">
-			<Text>Thưởng tiện nghi tăng trưởng</Text>
+			<Text>Thưởng Tiện Nghi tăng trưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING">
-			<Text>Nhà ở</Text>
+			<Text>Nhà Ở</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
-			<Text>Nước {1_Water}, Kiến trúc {2_Buildings}, Công trình {3_Improvements}, Vùng ngoại ô {4_Districts}, Hành chính {5_Civics}</Text>
+			<Text>Nước {1_Water}, Kiến Trúc {2_Buildings}, Công Trình {3_Improvements}, Vùng Ngoại Ô {4_Districts}, Hành Chính {5_Civics}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
-			<Text>Nhà ở Thủ Đô</Text>
+			<Text>Nhà Ở Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_BUILDINGS">
-			<Text>Nhà ở từ kiến trúc:</Text>
+			<Text>Nhà Ở từ Kiến Trúc:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_CIVICS">
-			<Text>Nhà ở từ hành chính:</Text>
+			<Text>Nhà Ở từ Hành Chính:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_DISTRICTS">
-			<Text>Nhà ở từ Đặc Khu:</Text>
+			<Text>Nhà Ở từ Đặc Khu:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_IMPROVEMENTS">
-			<Text>Nhà ở từ công trình:</Text>
+			<Text>Nhà Ở từ Công Trình:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_WATER">
-			<Text>Nhà ở từ nước:</Text>
+			<Text>Nhà Ở từ nước:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_GREAT_PEOPLE">
-			<Text>Nhà ở từ vĩ nhân:</Text>
+			<Text>Nhà Ở từ vĩ nhân:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_STARTING_ERA">
-			<Text>Nhà ở từ thời kỳ bắt đầu:</Text>
+			<Text>Nhà Ở từ thời kỳ bắt đầu:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_MULTIPLIER">
-			<Text>Hệ số nhà ở</Text>
+			<Text>Hệ số Nhà Ở</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OCCUPATION_MULTIPLIER">
-			<Text>Hệ số chiếm thành phố</Text>
+			<Text>Hệ số thành phố bị chiếm giữ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_IN_TURNS">
 			<Text>trong {1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;}</Text>
@@ -1081,7 +1081,7 @@
 			<Text>Đây là Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_LEAVE_CITY_VIEW">
-			<Text>Leave City View</Text>
+			<Text>Thoát Chi Tiết Thành Phố</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_LOSS_IN">
 			<Text>Mất trong</Text>
@@ -1090,7 +1090,7 @@
 			<Text>Tối đa sản lượng đặc biệt trong thành phố</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_MANAGE_CITIZENS">
-			<Text>Quản lý dân</Text>
+			<Text>Quản lý dân cư</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TOGGLE_OVERVIEW">
 			<Text>Chi tiết thành phố</Text>
@@ -1099,13 +1099,13 @@
 			<Text>Mua item bằng [ICON_Gold] Vàng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PURCHASE_WITH_FAITH">
-			<Text>Mua item bằng [ICON_Faith] Lòng tin</Text>
+			<Text>Mua item bằng [ICON_Faith] Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_LAUNCH_ICBM">
 			<Text>Phóng tên lửa xuyên lục địa</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_MODIFIED_GROWTH_FOOD_PER_TURN">
-			<Text>Thực phẩm biến đỗi/lượt</Text>
+			<Text>Thực phẩm biến đổi/lượt</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OF">
 			<Text>cho</Text>
@@ -1120,10 +1120,10 @@
 			<Text>Không có điểm thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_NO_TRADING_POSTS">
-			<Text>Không có điểm thương mại.</Text>
+			<Text>Không có điểm thương mại được xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_NO_WONDERS">
-			<Text>Không có kỳ quan.</Text>
+			<Text>Không có kỳ quan được xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OTHER_GROWTH_BONUSES">
 			<Text>Thưởng tăng trưởng khác</Text>
@@ -1132,7 +1132,7 @@
 			<Text>Chủ nhân: {1_Owner}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PANTHEONBELIEF_EXPLANATION">
-			<Text>Tín ngưỡng vị thần là tín ngưỡng cốt lõi để giữ tất cả thành phố trong nền văn minh của bạn.</Text>
+			<Text>Tín Ngưỡng Vị Thần là Tín Ngưỡng cốt lõi để giữ tất cả thành phố trong nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_POPULATION">
 			<Text>Dân số</Text>
@@ -1150,7 +1150,7 @@
 			<Text>Gia tăng dân số chậm hơn {1_Pct}%.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_POSSIBLE">
-			<Text> Đặc Khu có thể</Text>
+			<Text>Có thể</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PRODUCTION_QUEUE">
 			<Text>Hàng chờ sản xuất</Text>
@@ -1162,34 +1162,34 @@
 			<Text>Mua Item trong thành phố</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PURCHASE_NEW_PLOT">
-			<Text>Mua ô mới: </Text>
+			<Text>Mua ô đất mới: </Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PURCHASE_TILE">
 			<Text>Mua ô đất</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_QUEUE">
-			<Text>Queue</Text>
+			<Text>Hàng chờ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RECALL_ALL_CITIZENS">
-			<Text>Recall all Citizens</Text>
+			<Text>Triệu tập lại toàn bộ công dân</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RELIGION">
-			<Text>Tôn giáo</Text>
+			<Text>Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RELIGION_NO_CITIZENS">
-			<Text>Không có tôn giáo trong thành phố tại thời điểm này.</Text>
+			<Text>Không có Tôn Giáo trong thành phố tại thời điểm này.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
-			<Text>Tôn giáo</Text>
+			<Text>Tôn Giáo Công Dân</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS_NUMBER">
-			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? Công dân; other?Công dân;}</Text>
+			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? Công Dân; other?Công Dân;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_REQUIRED">
 			<Text>đòi hỏi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_REQUIRED_AMENITIES">
-			<Text>Đòi hỏi tiện nghi</Text>
+			<Text>Đòi hỏi Tiện Nghi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_STARVING">
 			<Text>Đói</Text>
@@ -1231,22 +1231,22 @@
 			<Text>Tổng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TOTAL_AMENITIES">
-			<Text>Tổng tiện nghi</Text>
+			<Text>Tổng Tiện Nghi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TOTAL_FOOD_DEFICIT">
-			<Text>Tổng thâm hụt thực phẩm</Text>
+			<Text>Tổng thâm hụt Thực Phẩm</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TOTAL_FOOD_SURPLUS">
-			<Text>Tổng thực phẩm dư</Text>
+			<Text>Tổng Thực Phẩm dư</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TOTAL_HOUSING">
-			<Text>Tổng nhà ở</Text>
+			<Text>Tổng Nhà Ở</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TRADING_POSTS">
 			<Text>Điểm thương mại</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_GROWTH_VALUE">
-			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa ra đời</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa tăng trưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GROWTH">
 			<Text>{1_Turns : plural 1? lượt; other? lượt;} nữa mở rộng biên giới</Text>
@@ -1261,10 +1261,10 @@
 			<Text>{1_Turns : plural 1? lượt; other? lượt;} để hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_COMPLETED">
-			<Text>{1_Turns : plural 1? lượt; other? lượt;} để hoàn thành</Text>
+			<Text>{1_Turns : plural 1? lượt; other? lượt;} đến khi hoàn thành</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_GROWTH">
-			<Text>{1_Turns : plural 1? lượt; other? lượt;} nữa ra đời</Text>
+			<Text>{1_Turns : plural 1? lượt; other? lượt;} nữa tăng trưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_LOSS">
 			<Text>{1_Turns : plural 1? lượt; other? lượt;} nữa bị mất</Text>
@@ -1279,13 +1279,13 @@
 			<Text>Xem sản lượng Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_WONDERS">
-			<Text>Kỳ quan</Text>
+			<Text>Kỳ Quan</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YIELD_CITIZENS">
 			<Text>Lượng {1_YieldName} sản xuất bởi dân.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YIELD_NOTHING">
-			<Text>None produced</Text>
+			<Text>Không sản xuất</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YIELD_FOCUSING">
 			<Text>Toàn dân tập trung vào {1_YieldName}.</Text>
@@ -1297,22 +1297,22 @@
 			<Text>Bạn</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PANTHEON_TT">
-			<Text>Vị thần: {1_PantheonName}</Text>
+			<Text>Vị Thần: {1_PantheonName}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_YOUR_PANTHEON_BELIEF">
-			<Text>Tín ngưỡng vị thần của bạn</Text>
+			<Text>Tín Ngưỡng Vị Thần của bạn</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MINIMAP_TOOLTIP">
 			<Text>Click để chuyển Camera.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_BELIEF_TOOLTIP">
-			<Text>Đã mở khóa một tín ngưỡng cho tôn giáo của bạn.</Text>
+			<Text>Đã mở khóa một Tín Ngưỡng mới cho Tôn Giáo của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MINIMAP_EXPAND_TOOLTIP">
-			<Text>Hiện minimap.</Text>
+			<Text>Hiện Minimap.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MINIMAP_COLLAPSE_TOOLTIP">
-			<Text>Ẩn minimap.</Text>
+			<Text>Ẩn Minimap.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHAT_EXPAND_TOOLTIP">
 			<Text>Mở khung chat.</Text>
@@ -1325,10 +1325,10 @@
 			<Text>Không có vị trí thích hợp để đặt công trình này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_DISTRICT">
-			<Text>Kiến trúc này yêu cầu Đặc Khu {1_District}}.</Text>
+			<Text>Kiến trúc này yêu cầu Đặc Khu {1_District}.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
-			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}}.</Text>
+			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
 			<Text>Đặc Khu bị chiếm bởi kẻ địch.</Text>
@@ -1340,19 +1340,19 @@
 			<Text>Đặc Khu yêu cầu bị ô nhiễm.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_OCCUPIED_BY_ENEMY">
-			<Text>Đặc Khu bị chiếm bởi kẻ địch.</Text>
+			<Text>Đặc Khu yêu cầu bị chiếm bởi kẻ địch.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW_SHORT">
 			<Text>Yêu cầu tối thiểu {1_Population} [ICON_Citizen] Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
-			<Text>Thành phố cần phát triển lớn {1_Population} dân số để có thể xây dựng Đặc Khu.</Text>
+			<Text>Thành phố cần có {1_Population} dân số để có thể xây dựng Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_NO_SUITABLE_LOCATION">
-			<Text>Không có vị trí thích hợp.</Text>
+			<Text>Không có vị trí thích hợp cho Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_LOCATION_IS_CONTAMINATED">
-			<Text>Không có vị trí thích hợp.</Text>
+			<Text>Không có vị trí thích hợp cho Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_REPAIR_LOCATION_CONTAMINATED">
 			<Text>Bị ô nhiễm, không thể sửa.</Text>
@@ -1382,13 +1382,13 @@
 			<Text>Sẽ mất thêm {1_ExtraTurnsUntilComplete} lượt để hoàn thành (chi phí thêm {2_ExtraProductionCost} [ICON_Production] Sản phẩm).</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_WILL_CHANGE_TILE_OWNERSHIP">
-			<Text>Sẽ chuyển chủ ở hữu ô đâu từ {1_CityName} sang thành phố này.</Text>
+			<Text>Sẽ chuyển chủ ở hữu ô đất từ {1_CityName} sang thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_NEIGHBORHOOD_TOOLTIP">
-			<Text>Sẽ thêm {1_Housing} [ICON_Housing] Nhà ở dựa trên tâm trạng {2_AppealName}</Text>
+			<Text>Sẽ thêm {1_Housing} [ICON_Housing] Nhà Ở dựa trên Sức Hấp Dẫn {2_AppealName}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_NEED_MILITARY_ACADEMY">
-			<Text>Trung đội và Đại đội yêu cầu một Học viện quân sự để hoàn thành.</Text>
+			<Text>Trung Đội và Đại Đội yêu cầu một Học Viện Quân Sự để hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_FULL_TRADE_ROUTE_CAPACITY">
 			<Text>Nền văn minh của bạn cần thêm [ICON_TradeRoute] Tuyến đường thương mại.</Text>
@@ -1397,7 +1397,7 @@
 			<Text>Nền văn minh của bạn cần {2_AmountNeededWithoutDistrict} {1_ResourceName} để đào tạo loại đơn vị này. Nếu thành phố này có {4_DistrictName}, bạn chỉ cần {3_AmountNeededWithDistrict} {1_ResourceName}.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_SUPPLY">
-			<Text>{1_Resource} không cung cấp đủ. Mỗi đơn vị còn sống hoặc trong sản xuất sử dụng 1, và mỗi tài nguyên trong nước hoặc nhập khẩu trong bất kỳ thành phố nào cung cấp 4.</Text>
+			<Text>{1_Resource} không cung cấp đủ. Mỗi đơn vị còn sống hoặc trong sản xuất sử dụng 1, và mỗi tài nguyên trong nước hoặc nhập khẩu trong bất kỳ thành phố nào sẽ cung cấp 4.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_DISTRICT">
 			<Text>Đơn vị này yêu cầu {1_District}.</Text>
@@ -1421,16 +1421,16 @@
 			<Text>Các Đặc Khu yêu cầu để đào tạo bị kẻ địch chiếm giữ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_NO_EMPTY_AIR_SLOTS">
-			<Text>Tất cả thành phố này đã hết chỗ chứa máy bay.</Text>
+			<Text>Thành phố này hết chỗ chứa cho máy bay.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_POPULATION">
 			<Text>Thành phố này cần ít nhất {1_PopulationNeeded} [ICON_Citizen] Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_INSUFFICIENT_FUNDS">
-			<Text>Không đủ [ICON_Gold] Vàng trong ngân quỹ để mua.</Text>
+			<Text>Không đủ [ICON_Gold] Vàng trong ngân quỹ để mua thứ này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_INSUFFICIENT_FAITH">
-			<Text>Không đủ [ICON_Faith] Lòng tin để mua.</Text>
+			<Text>Không đủ [ICON_Faith] Đức Tin để mua thứ này.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_UNIT_STACK_ILLEGAL">
 			<Text>Quá nhiều đơn vị cùng loại trong vị trí này.</Text>
@@ -1465,7 +1465,7 @@
 		</Row>
 		<!-- ==================== Leader Screen ==================== -->
 		<Row Tag="LOC_LEADER_SCREEN_GREETING">
-			<Text>Cuối cùng cũng gặp được bạn! Tin đồn đã lan xa.</Text>
+			<Text>Ah, Cuối cùng cũng gặp được ngài! Tin đồn đã lan xa và rộng.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCREEN_DECLARE_WAR">
 			<Text>Chuẩn bị cho chiến tranh!</Text>
@@ -1475,16 +1475,16 @@
 		</Row>
 		<!-- ==================== Leader Viewer (Full Debug) ==================== -->
 		<Row Tag="LOC_LEADER_VIEWER_DEBUG_RENDER_STYLE">
-			<Text>Rendering Style 1</Text>
+			<Text>Kiểu Rendering 1</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_VIEWER_DEBUG_RESET">
-			<Text>Reset</Text>
+			<Text>Đặt lại</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_VIEWER_DEBUG_APPLY">
-			<Text>Apply</Text>
+			<Text>Áp dụng</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_VIEWER_DEBUG_PREVIOUS">
-			<Text>Previous</Text>
+			<Text>Trước</Text>
 		</Row>
 		<!-- ==================== Benchmark System ==================== -->
 		<Row Tag="LOC_BENCHMARK_TITLE">
@@ -1525,10 +1525,10 @@
 			<Text>Đơn vị bị bắt giữ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CAPTURED">
-			<Text>Để một đơn vị yếu như vậy mà không có bảo vệ không phải là lựa chọn khôn ngoan.[NEWLINE][NEWLINE]Đơn vị của bạn đã bị bắt bởi {1_Civ}.</Text>
+			<Text>Để một đơn vị yếu như vậy mà không có bảo vệ không phải là lựa chọn khôn ngoan.[NEWLINE][NEWLINE]Đơn vị của ngài đã bị bắt bởi {1_Civ}.</Text>
 		</Row>
 		<Row Tag="LOC_CAPTURE_UNIT">
-			<Text>Một đơn vị yếu đã bị bạn bắt được.[NEWLINE][NEWLINE]Bạn bắt được đơn vị từ {1_civ}. </Text>
+			<Text>Một đơn vị yếu đã bị ngài bắt được.[NEWLINE][NEWLINE]Ngài bắt được đơn vị từ {1_civ}. </Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CAPTURE_OK">
 			<Text>OK</Text>
@@ -1544,26 +1544,26 @@
 			<Text>Bị loại!</Text>
 		</Row>
 		<Row Tag="LOC_UI_DEFEAT_ANOTHER_PLAYER">
-			<Text>Người chơi khác chiến thắng</Text>
+			<Text>Người chơi khác chiến thắng.</Text>
 		</Row>
 		<Row Tag="LOC_UI_VICTORY_OK">
-			<Text>Menu chính</Text>
+			<Text>Menu Chính</Text>
 		</Row>
 		<Row Tag="LOC_UI_VICTORY">
-			<Text>Hết giờ</Text>
+			<Text>Hết Giờ</Text>
 		</Row>
 		<Row Tag="LOC_UI_END_GAME_DEMO">
-			<Text>Than ôi, thời gian của bạn với Sid Meier's Civilization 6 sắp kết thúc. Đừng lo, bạn có thể bắt đầu lại lần nữa!</Text>
+			<Text>Than ôi, thời gian của ngài với Sid Meier's Civilization 6 sắp kết thúc. Đừng lo, ngài có thể bắt đầu lại lần nữa!</Text>
 		</Row>
 		<!-- ==================== Top Panel ==================== -->
 		<Row Tag="LOC_TOP_PANEL_SCIENCE">
-			<Text>Khoa học</Text>
+			<Text>Khoa Học</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD">
 			<Text>Vàng</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_TREASURY">
-			<Text>Ngân quỹ hiện tại</Text>
+			<Text>Ngân Quỹ Hiện Tại</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_NET">
 			<Text>{1_NetGoldRate} [ICON_Gold] Vàng mỗi [ICON_Turn] lượt</Text>
@@ -1575,7 +1575,7 @@
 			<Text>Chi phí: {1_LostGoldRate} [ICON_Gold] Vàng mỗi [ICON_Turn] lượt</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_BUILDINGS">
-			<Text>{1_LostGoldRate} từ việc duy trì kiến trúc</Text>
+			<Text>{1_LostGoldRate} từ việc duy trì Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_DISTRICTS">
 			<Text>{1_LostGoldRate} từ việc duy trì Đặc Khu</Text>
@@ -1584,19 +1584,19 @@
 			<Text>{1_LostGoldRate} từ việc duy trì đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_WMDS">
-			<Text>{1_LostGoldRate} từ việc duy trì vũ khí hạt nhân</Text>
+			<Text>{1_LostGoldRate} từ việc duy trì vũ khí hủy diệt hàng loạt</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_HOSTILE_SPIES">
 			<Text>{1_LostGoldRate} từ hoạt động chống gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_CULTURE">
-			<Text>Văn minh</Text>
+			<Text>Văn Minh</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_SCIENCE_YIELD">
-			<Text>[ICON_Turn] Khoa học trên mỗi lượt</Text>
+			<Text>[ICON_Turn] Khoa Học trên mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_CULTURE_YIELD">
-			<Text>[ICON_Turn] Văn minh trên mỗi lượt</Text>
+			<Text>[ICON_Turn] Văn Minh trên mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_YIELD">
 			<Text>[ICON_Turn] Vàng trên mỗi lượt</Text>
@@ -1605,19 +1605,19 @@
 			<Text>Thu nhập: {1: number +#.#;-#.#} [ICON_Gold]</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_GOLD_EXPENSE">
-			<Text>Chi tiêu: {1: number +#.#;-#.#} [ICON_Gold]</Text>
+			<Text>Chi Tiêu: {1: number +#.#;-#.#} [ICON_Gold]</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_TOURISM">
-			<Text>Du lịch</Text>
+			<Text>Du Lịch</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_FAITH">
-			<Text>Lòng tin</Text>
+			<Text>Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_FAITH_BALANCE">
-			<Text>Lòng tin hiện tại</Text>
+			<Text>Đức Tin hiện tại</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_FAITH_YIELD">
-			<Text>[ICON_Turn] Lòng tin mỗi lượt</Text>
+			<Text>[ICON_Turn] Đức Tin mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_TRADE_ROUTES">
 			<Text>Tuyến đường thương mại</Text>
@@ -1632,7 +1632,7 @@
 			<Text>Trung tâm thương mại và khu hải cảng là nguồn chính tạo ra [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_INFLUENCE">
-			<Text>Phái đoàn</Text>
+			<Text>Phái Đoàn</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_BALANCE">
 			<Text>{1_InfluencePointsBalance} {1_InfluencePointsBalance : plural 1?điểm; other?điểm;} ảnh hưởng</Text>
@@ -1659,7 +1659,7 @@
 			<Text>TRỢ GIÚP</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_HELP_TOOLTIP">
-			<Text>Mở Civilopedia.</Text>
+			<Text>Mở Bách Khoa Toàn Thư Civilopedia.</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_CURRENT_DATE">
 			<Text>2100 AD</Text>
@@ -1668,7 +1668,7 @@
 			<Text>Lượt</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_TOOLTIP_DESCRIPTION">
-			<Text>Mô tả ngắn gọc</Text>
+			<Text>Mô tả ngắn gọn</Text>
 		</Row>
 		<Row Tag="LOC_HUD_GOVT_FREE_CHANGES">
 			<Text>Phí thay đổi chính phủ và chính sách lần này là miễn phí</Text>
@@ -1680,13 +1680,13 @@
 			<Text>Thu nhỏ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MAP_PIN_LIST">
-			<Text>Gin bản đồ</Text>
+			<Text>Gim bản đồ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MAP_TOGGLE_MAP_PIN_LIST">
-			<Text>Gin bản đồ</Text>
+			<Text>Gim bản đồ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MAP_PLACE_MAP_PIN">
-			<Text>Thêm</Text>
+			<Text>Thêm gim</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MAP_PLACE_MAP_PIN_TT">
 			<Text>Click vào ô để gim vị trí đó.</Text>
@@ -1701,13 +1701,13 @@
 			<Text>Hiển thị biểu tượng tài nguyên</Text>
 		</Row>
 		<Row Tag="LOC_HUD_TOGGLE_YIELD_ICONS">
-			<Text>Hiển thị tài nguyên đất</Text>
+			<Text>Hiển thị biểu tượng sản lượng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MAP_SHOW_RESOURCES">
 			<Text>Hiển thị biểu tượng tài nguyên</Text>
 		</Row>
 		<Row Tag="LOC_HUD_MAP_SHOW_YIELDS">
-			<Text>Hiển thị tài nguyên đất</Text>
+			<Text>Hiển thị biểu tượng sản lượng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_TOGGLE_STRATEGY_VIEW">
 			<Text>Góc nhìn chiến thuật</Text>
@@ -1752,7 +1752,7 @@
 			<Text>Hiện thị sự phân bố chính phủ.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_OWNER_LENS_TOOLTIP">
-			<Text>Hiển thị người chủ của mỗi ô.</Text>
+			<Text>Hiển thị người chủ của mỗi ô đất.</Text>
 		</Row>
     <Row Tag="LOC_HUD_TOURISM_LENS_TOOLTIP">
       <Text>Hiển thị số khách du lịch trong mỗi ô.</Text>
@@ -1764,16 +1764,16 @@
 			<Text>Bật</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHOOSE_RESEARCH">
-			<Text>Nghiên cứu</Text>
+			<Text>Chọn Nghiên Cứu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHANGE_RESEARCH">
-			<Text>Thay đổi NGHIÊN CỨU</Text>
+			<Text>Thay đổi Nghiên Cứu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHANGE_CIVICS">
-			<Text>Thay đổi HÀNH CHÍNH</Text>
+			<Text>Thay đổi Hành Chính</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CHOOSE_CIVIC">
-			<Text>Chọn HÀNH CHÍNH</Text>
+			<Text>Chọn Hành Chính</Text>
 		</Row>
 		<Row Tag="LOC_HUD_RESEARCH_TURNS">
 			<Text>Lượt:</Text>
@@ -1803,7 +1803,7 @@
 			<Text>[ICON_FaithLarge]Mua</Text>
 		</Row>
 		<Row Tag="LOC_PRODPANEL_PURCHASE_FAITH_NO_CONTENT">
-			<Text>Không có Item để mua bằng [ICON_Faith]Lòng tin tại thời điểm này.</Text>
+			<Text>Không có Item để mua bằng [ICON_Faith]Đức Tin tại thời điểm này.</Text>
 		</Row>
 		<Row Tag="LOC_PRODPANEL_PURCHASE_GOLD">
 			<Text>[ICON_GoldLarge]Mua</Text>
@@ -1815,16 +1815,16 @@
 			<Text>Đóng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_DISTRICTS_BUILDINGS">
-			<Text>Đặc Khu và kiến trúc</Text>
+			<Text>Đặc Khu và Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_DISTRICTS">
 			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_BUILDINGS">
-			<Text>Kiến trúc</Text>
+			<Text>Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_PROJECTS">
-			<Text>Dự án</Text>
+			<Text>Dự Án</Text>
 		</Row>
 		<Row Tag="LOC_HUD_POPUP_CIVIC_BOOST_UNLOCKED">
 			<Text>Cảm hứng!</Text>
@@ -1836,7 +1836,7 @@
 			<Text>Một kỳ quan thế giới đã được tạo!</Text>
 		</Row>
 		<Row Tag="LOC_HUD_POPUP_WORLD_WONDER_FINISHED">
-			<Text>Nền văn minh của bạn hoàn thành việc xây dựng [NEWLINE]{1_BuildingName}</Text>
+			<Text>Nền văn minh của ngài hoàn thành việc xây dựng [NEWLINE]{1_BuildingName}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_POPUP_WORLD_WONDER_ANOTHER_PLAYER">
 			<Text>{1_buildingName}[NEWLINE]đã được xây dựng bởi {2_OwnerName}.</Text>
@@ -1848,14 +1848,14 @@
 			<Text>Dự án chạy đua không gian đã hoàn thành!</Text>
 		</Row>
 		<Row Tag="LOC_HUD_POPUP_PROJECT_CREATED_BY_OTHER">
-			<Text>{1_CivName} đến gần với Chiến thắng Khoa học.</Text>
+			<Text>{1_CivName} đến gần với Chiến thắng Khoa Học.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_POPUP_PROJECT_CREATED_BY_UNKNOWN">
-			<Text>Một người chơi không rõ đến gần với Chiến thắng Khoa học.</Text>
+			<Text>Một người chơi không rõ đến gần với Chiến thắng Khoa Học.</Text>
 		</Row>
 		<!-- Boost Text -->
 		<Row Tag="LOC_BOOST_TO_BOOST">
-			<Text>Để thúc đẩy:</Text>
+			<Text>Để Thúc Đẩy:</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_BOOSTED">
 			<Text>ĐÃ THÚC ĐẨY:</Text>
@@ -1868,16 +1868,16 @@
 			<Text>Dân làng chia sẽ một bí mật công nghệ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_WONDER">
-			<Text>Trong khi thám hiểm thế giới, bạn đã phát hiện ra trí tuệ khoa học chưa biết đến từ những người bạn.</Text>
+			<Text>Trong khi thám hiểm thế giới, ngài đã phát hiện ra trí tuệ khoa học chưa biết đến từ những người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_GREAT_PERSON">
-			<Text>Vĩ nhân đã mở khóa một ý tưởng khoa học.</Text>
+			<Text>Sự khéo léo của Vĩ Nhân đã mở khóa một ý tưởng khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_ESPIONAGE">
-			<Text>Gián điệp đã ăn cắp công nghệ bí mật từ Khu tri thức của nước ngoài.</Text>
+			<Text>Gián Điệp đã ăn cắp công nghệ bí mật từ Khu Tri Thức của nước ngoài.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_RESEARCH_AGREEMENT">
-			<Text>Thỏa thuận hiệp ước đã đưa ra một đột phá khoa học.</Text>
+			<Text>Thỏa thuận hiệp ước của ngài đã đưa ra một đột phá khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>Nghiên cứu {1_techString} vừa hoàn tất!</Text>
@@ -1887,19 +1887,19 @@
 		</Row>
 		<!-- Civic Boost Text -->
 		<Row Tag="LOC_CIVIC_BOOST_GOODYHUT">
-			<Text>Dân làng chia sẽ một bí mật công nghệ.</Text>
+			<Text>Dân làng chia sẽ một bí mật về tổ chức hành chính.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_WONDER">
-			<Text>Trong khi thám hiểm thế giới, bạn đã phát hiện ra Hành chính chưa biết đến từ những người bạn.</Text>
+			<Text>Trong khi thám hiểm thế giới, ngài đã phát hiện ra Hành Chính chưa biết đến từ những người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
-			<Text>Vĩ nhân đã mở khóa một Hành chính.</Text>
+			<Text>Vĩ Nhân đã mở khóa một Hành Chính.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_COMPLETE">
-			<Text>Hành chính {1_techString} vừa mở khóa!</Text>
+			<Text>Hành Chính {1_techString} vừa mở khóa!</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_ADVANCED">
-			<Text>Bạn đã đẩy nhanh quá trình mở khóa {1_techString}.</Text>
+			<Text>Ngài đã đẩy nhanh quá trình mở khóa {1_techString}.</Text>
 		</Row>
 		<!-- Era Desciptions -->
 		<Row Tag="LOC_GAME_ERA_DESC">
@@ -1981,40 +1981,40 @@
 			<Text>Đề xuất</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_FOOD">
-			<Text>Thực phẩm</Text>
+			<Text>Thực Phẩm</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_SCIENCE">
-			<Text>Khoa học</Text>
+			<Text>Khoa Học</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_PRODUCTION">
-			<Text>Sản phẩm</Text>
+			<Text>Sản Phẩm</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_CULTURE">
-			<Text>Văn minh</Text>
+			<Text>Văn Minh</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_GOLD">
 			<Text>Vàng</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_FAITH">
-			<Text>Lòng tin</Text>
+			<Text>Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_HOUSING">
-			<Text>Nhà ở</Text>
+			<Text>Nhà Ở</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_AMENITIES">
-			<Text>Tiện nghi</Text>
+			<Text>Tiện Nghi</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_HEALTH">
-			<Text>Sức khỏe</Text>
+			<Text>Sức Khỏe</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_UNITS">
-			<Text>Đơn vị</Text>
+			<Text>Đơn Vị</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_IMPROVEMENTS">
-			<Text>Công trình</Text>
+			<Text>Công Trình</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FILTER_WONDERS">
-			<Text>Kỳ quan</Text>
+			<Text>Kỳ Quan</Text>
 		</Row>
 		<!-- ==================== World Tracker ==================== -->
 		<Row Tag="LOC_WORLD_TRACKER_EMPTY">
@@ -2024,10 +2024,10 @@
 			<Text>Theo dõi thế giới</Text>
 		</Row>
 		<Row Tag="LOC_HIDE_RESEARCH_PANEL">
-			<Text>Bảng nghiên cứu</Text>
+			<Text>Bảng Nghiên Cứu</Text>
 		</Row>
 		<Row Tag="LOC_HIDE_CIVICS_PANEL">
-			<Text>Bảng hành chính</Text>
+			<Text>Bảng Hành Chính</Text>
 		</Row>
 		<Row Tag="LOC_HIDE_CHAT_PANEL">
 			<Text>Khung Chat</Text>
@@ -2036,10 +2036,10 @@
 			<Text>Khung Chat ([ICON_New]{1_Number})</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_TRACKER_CHOOSE_CIVIC">
-			<Text>Chọn hành chính</Text>
+			<Text>Chọn Hành Chính</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_TRACKER_CHOOSE_RESEARCH">
-			<Text>Nghiên cứu</Text>
+			<Text>Chọn Nghiên Cứu</Text>
 		</Row>
 		<!-- ==================== Research Chooser ==================== -->
 		<Row Tag="LOC_RESEARCH_CHOOSER_JUST_COMPLETED">
@@ -2052,7 +2052,7 @@
 			<Text>Mở cây công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_CHOOSER_CHOOSE_RESEARCH">
-			<Text>Nghiên cứu</Text>
+			<Text>Chọn Nghiên Cứu</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_CHOOSER_TURNS">
 			<Text>Lượt:</Text>
@@ -2090,22 +2090,22 @@
 			<Text>Hoàn thành</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_GOVERNMENT">
-			<Text>Chính phủ</Text>
+			<Text>Chính Phủ</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_DISTRICT">
 			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_WONDER">
-			<Text>Kỳ quan</Text>
+			<Text>Kỳ Quan</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_UNIT">
-			<Text>Đơn vị</Text>
+			<Text>Đơn Vị</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_BUILDING">
-			<Text>Kiến trúc</Text>
+			<Text>Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_AGREEMENT">
-			<Text>Thỏa thuận</Text>
+			<Text>Thỏa Thuận</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_ABILITY">
 			<Text>Ability</Text>
@@ -2130,7 +2130,7 @@
 			<Text>{1_Civic} mở khóa lượt này!</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_CONFIRM_GOVERNMENT">
-			<Text>Bạn nhiệt tình thử hình thức chính phủ mới. Xác nhận chuyển?</Text>
+			<Text>Ngài nhiệt tình thử hình thức chính phủ mới. Xác nhận chuyển?</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_CONFIRM_ANARCHY">
 			<Text>Đã từng thứ {1_GovernmentName} từ trước, người dân sẽ cảnh giác với sự trở lại của chính phủ này. Thay đổi này sẽ đưa quốc gia rơi vào hỗn loạn trong {2_Turns} lượt.[NEWLINE]Xác nhận chuyển?</Text>
@@ -2139,7 +2139,7 @@
 			<Text>Xác nhận chính sách</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_POPUP_PROMPT_POLICIES_CLOSE">
-			<Text>Bạn có chắc muốn đóng?[NEWLINE]Chính sách thay đổi không được xác nhận!</Text>
+			<Text>Ngài có chắc muốn đóng?[NEWLINE]Chính sách thay đổi không được xác nhận!</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_POPUP_PROMPT_POLICIES_CONFIRM">
 			<Text>Đây là chính sách sẽ được thiết đặt?</Text>
@@ -2193,7 +2193,7 @@
 			<Text>Chính phủ của tôi</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_NEED_GOLD">
-			<Text>Bạn cần {1_Gold} [ICON_GoldLarge] Vàng</Text>
+			<Text>Ngài cần {1_Gold} [ICON_GoldLarge] Vàng</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_NEW_POLICY">
 			<Text>Chính sách mới</Text>
@@ -2238,59 +2238,59 @@
 			<Text>Mở khóa khi hành chính {1_CivicName} hoàn tất.</Text>
 		</Row>
     <Row Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
-      <Text>Không có slot Chính sách đặc biệt cho chính phủ.</Text>
+      <Text>Không có slot Chính sách đặc biệt được cung cấp bởi chính phủ này.</Text>
     </Row>
     <Row Tag="LOC_GOVT_NO_MILITARY_SLOTS">
-      <Text>Hiện tại không có chính sách quân sự nào</Text>
+      <Text>Không có slot chính sách quân sự được cung cấp bởi chính phủ này.</Text>
     </Row>
     <Row Tag="LOC_GOVT_NO_DIPLOMACY_SLOTS">
-      <Text>Hiện tại không có chính sách ngoại giao nào.</Text>
+      <Text>Không có slot chính sách ngoại giao được cung cấp bởi chính phủ này.</Text>
     </Row>
     <Row Tag="LOC_GOVT_NO_ECONOMIC_SLOTS">
-      <Text>Hiện tại không có chính sách kinh tế nào</Text>
+      <Text>Không có slot chính sách kinh tế được cung cấp bởi chính phủ này.</Text>
     </Row>
     <Row Tag="LOC_GOVT_NO_LEGACY_BONUS">
-      <Text>Thưởng kế thừa là những lợi ích mà có được từ các hệ thống chính phủ khác nhau. Nó chỉ phần thưởng được tích lũy theo thời gian.</Text>
+      <Text>Thưởng kế thừa là những lợi ích đã học hỏi được từ các hệ thống chính phủ khác nhau. Nó là phần thưởng được tích lũy theo thời gian.</Text>
     </Row>
 		<!-- ==================== Unit Operations ==================== -->
 		<Row Tag="LOC_UNITOPERATION_BUILD_DISTRICT">
 			<Text>Xây Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_CAMPUS">
-			<Text>Xây khu tri thức</Text>
+			<Text>Xây Khu Tri Thức</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_HOLY_SITE">
-			<Text>Xây khu linh thiêng</Text>
+			<Text>Xây Khu Linh Thiêng</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_ENCAMPMENT">
-			<Text>Xây khu quân sự</Text>
+			<Text>Xây Khu Quân Sự</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_ENTERTAINMENT_COMPLEX">
-			<Text>Xây khu giải trí</Text>
+			<Text>Xây Khu Giải Trí</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_THEATER_DISTRICT">
-			<Text>Xây khu nghệ thuật</Text>
+			<Text>Xây khu Nghệ Thuật</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_HARBOR">
-			<Text>Xây khu hải cảng</Text>
+			<Text>Xây Khu Hải Cảng</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_AIR_ATTACK_DESCRIPTION">
-			<Text>Tấn công</Text>
+			<Text>Tấn công trên không</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_AUTOMATE_EXPLORE_DESCRIPTION">
 			<Text>Tự khám phá</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_IMPROVEMENT_DESCRIPTION">
-			<Text>Xây công trình</Text>
+			<Text>Xây Công Trình</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_ROUTE_DESCRIPTION">
-			<Text>Xây đường</Text>
+			<Text>Xây Đường</Text>
 		</Row>
 		<Row Tag="ICON_UNITOPERATION_CLEAR_CONTAMINATION_DESCRIPTION">
 			<Text>Loại bỏ ô nhiễm</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CONVERT_BARBARIANS_DESCRIPTION">
-			<Text>Chuyển quân man di</Text>
+			<Text>Cải tạo quân man di</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_DISEMBARK_DESCRIPTION">
 			<Text>Lên bờ</Text>
@@ -2299,16 +2299,16 @@
 			<Text>Dàn trận</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_DESIGNATE_PARK_DESCRIPTION">
-			<Text>Chỉ định Công viên quốc gia</Text>
+			<Text>Chỉ định Công Viên Quốc Gia</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_DONATE_MUSEUM_DESCRIPTION">
-			<Text>Quyên góp cho bảo tàng</Text>
+			<Text>Quyên góp cho Bảo Tàng</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_EMBARK_DESCRIPTION">
 			<Text>Lên tàu</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_EVANGELIZE_BELIEF_DESCRIPTION">
-			<Text>Truyền bá tín ngưỡng</Text>
+			<Text>Truyền Đạo tín ngưỡng</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_EXCAVATE_DESCRIPTION">
 			<Text>Đào cổ vật</Text>
@@ -2326,19 +2326,19 @@
 			<Text>Bạn phải sáng lập một tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_NEED_HOME_MUSEUM">
-			<Text>{1_ArtifactName} phải trở về Bảo tàng trong {2_CityName}.</Text>
+			<Text>{1_ArtifactName} phải trở về Bảo Tàng trong {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_FOUND_RELIGION_INVALID_LOCATION">
-			<Text>Phải trên khu	linh thiêng hoặc Bãi đá Stonehenge.</Text>
+			<Text>Phải trên Khu	Linh Thiêng hoặc Bãi đá Stonehenge.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_HARVEST_RESOURCE_DESCRIPTION">
-			<Text>Thu hoạch tài nguyên</Text>
+			<Text>Thu hoạch Tài Nguyên</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_LAUNCH_INQUISITION_DESCRIPTION">
-			<Text>Điều tra</Text>
+			<Text>Thẩm Tra</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_HARVEST_REQUIRES_TECH">
-			<Text>Yêu cầu công nghệ: {1_Tech}</Text>
+			<Text>Yêu cầu Công Nghệ: {1_Tech}</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_HARVEST_REMOVES_RESOURCE">
 			<Text>Loại bỏ tài nguyên {1_Resource} từ ô đất.</Text>
@@ -2353,7 +2353,7 @@
 			<Text>Sản lượng {1_Amount} [ICON_Food] {2_Resource}</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_REMOVE_FEATURE_REMOVES_FEATURE">
-			<Text>Sản lượng {1_Feature} from the plot.</Text>
+			<Text>Sản lượng {1_Feature} từ ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_CULTURE_AMOUNT">
 			<Text>Sản lượng {1_Amount} [ICON_Culture] {2_Yield}</Text>
@@ -2380,10 +2380,10 @@
 			<Text>+{1_Amount} {2_Icon} {3_YieldType}</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_BUILD_IMPROVEMENT_HOUSING">
-			<Text>Cung cấp {1_Amount:number #.#} [ICON_Housing] Nhà ở</Text>
+			<Text>Cung cấp {1_Amount:number #.#} [ICON_Housing] Nhà Ở</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_BUILD_IMPROVEMENT_YIELD_FROM_APPEAL">
-			<Text>Vị trí hấp dẫn +{1_Amount} {2_Icon} {3_YieldType}</Text>
+			<Text>Vị trí hấp dẫn cung cấp +{1_Amount} {2_Icon} {3_YieldType}</Text>
 		</Row>
 		<Row Tag="LOC_OPERATION_BUILD_IMPROVEMENT_GRANT_DEFENSE">
 			<Text>+{1_Value} [ICON_Strength] sức mạnh phòng thủ cho đơn vị chiếm đóng</Text>
@@ -2398,13 +2398,13 @@
 			<Text>Yêu cầu hình chính: {1_Civic}</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
-			<Text>Di chuyển</Text>
+			<Text>Di chuyển tới</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_MOVE_TO_UNIT_DESCRIPTION">
 			<Text>Chuyển tới đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_WMD_STRIKE_DESCRIPTION">
-			<Text>WMD Strike</Text>
+			<Text>Tấn công vũ khí hủy diệt hoàng loạt</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_COASTAL_RAID">
 			<Text>Tấn công bờ biển</Text>
@@ -2419,7 +2419,7 @@
 			<Text>Trồng cây</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_RANGE_ATTACK_DESCRIPTION">
-			<Text>Tấn công tầm xa</Text>
+			<Text>Tấn công từ xa</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_REBASE_DESCRIPTION">
 			<Text>Đặt lại Base</Text>
@@ -2449,7 +2449,7 @@
 			<Text>Tuyến đường tới</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_SPREAD_RELIGION_DESCRIPTION">
-			<Text>Truyền bá tôn giáo</Text>
+			<Text>Truyền Đạo tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_SPY_COUNTERSPY_DESCRIPTION">
 			<Text>Phản gián</Text>
@@ -2467,7 +2467,7 @@
 			<Text>Nội gián</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_SPY_RECRUIT_PARTISANS_DESCRIPTION">
-			<Text>Đào tạo quân kháng chiến</Text>
+			<Text>Đào tạo lính du kích</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_SPY_SABOTAGE_PRODUCTION_DESCRIPTION">
 			<Text>Phá hoại sản phẩm</Text>
@@ -2497,13 +2497,13 @@
 			<Text>Phải trong vùng đất thân thiện.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_APOSTLE_REQUIRED_CHARGES">
-			<Text>Phải có 2 lần truyền bá.</Text>
+			<Text>Phải còn có 2 lần Truyền Đạo.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_ACCESS">
 			<Text>Nền văn minh của bạn cần {2_AmountNeeded} {1_ResourceName} để nâng cấp loại đơn vị này.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_SUPPLY">
-			<Text>{1_Resource} không cung cấp đủ. Mỗi đơn vị còn sống hoặc trong sản xuất sử dụng 1, và mỗi tài nguyên trong nước hoặc nhập khẩu trong bất kỳ thành phố nào cung cấp 4.</Text>
+			<Text>{1_Resource} không cung cấp đủ. Mỗi đơn vị còn sống hoặc trong sản xuất sử dụng 1, và mỗi tài nguyên trong nước hoặc nhập khẩu trong bất kỳ thành phố nào đều cung cấp 4.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_WAIT_FOR_DESCRIPTION">
 			<Text>Báo động</Text>
@@ -2515,10 +2515,10 @@
 			<Text>Ngủ</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_FORTIFY_DESCRIPTION">
-			<Text>Cắm chốt</Text>
+			<Text>Cố Thủ</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_HEAL_DESCRIPTION">
-			<Text>Cắm chốt đến khi khỏe lại</Text>
+			<Text>Cố thủ đến khi khỏe lại</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_MAKE_TRADE_ROUTE_DESCRIPTION">
 			<Text>Tạo tuyến đường thương mại</Text>
@@ -2527,13 +2527,13 @@
 			<Text>Chuyển tới thành phố khác</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CANNOT_HEAL_OUTSIDE_FRIENDLY_TERRITORY">
-			<Text>Không thể hồi sức bên ngoài lãnh thổ thân thiện</Text>
+			<Text>Không thể hồi sức bên ngoài vùng đất thân thiện</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CANNOT_HEAL_IN_ENEMY_TERRITORY">
 			<Text>{LOC_UNITOPERATION_CANNOT_HEAL_OUTSIDE_FRIENDLY_TERRITORY}</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CANNOT_DESIGNATE_PARK">
-			<Text>Phải là một Công viên quốc gia hợp lệ.</Text>
+			<Text>Phải là một Công Viên Quốc Gia hợp lệ.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_WAKE_DESCRIPTION">
 			<Text>Thức dậy</Text>
@@ -2551,7 +2551,7 @@
 			<Text>Hủy lệnh</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_STOP_AUTOMATION_DESCRIPTION">
-			<Text>Hủy đơn hàng</Text>
+			<Text>Hủy trình tự</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_DELETE_DESCRIPTION">
 			<Text>Xóa đơn vị</Text>
@@ -2566,7 +2566,7 @@
 			<Text>Thoát đoàn hộ tống</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_DESCRIPTION">
-			<Text>Kích hoạt vĩ nhân</Text>
+			<Text>Kích hoạt Vĩ Nhân</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_INVALID_DISTRICT">
 			<Text>Phải dựa trên {1_DistrictName} đã hoàn thành.</Text>
@@ -2587,7 +2587,7 @@
 			<Text>Phải trên ô đất liền kề ô bạn sở hữu.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_INCOMPLETE_SPACE_RACE_PROJECT">
-			<Text>Phải trên ô đất thuộc sở hữu thành phố phải được sản xuất dự án Chạy đua không gian.</Text>
+			<Text>Phải trên ô đất thuộc sở hữu thành phố đang sản xuất dự án Chạy đua không gian.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_VISIBLE_LUXURY">
 			<Text>Phải trên ô đất có tài nguyên quý.</Text>
@@ -2626,10 +2626,10 @@
 			<Text>Phải gần núi.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_OR_ADJACENT_NATURAL_WONDER">
-			<Text>Phải trên hoặc gần một tài nguyên thiên nhiên.</Text>
+			<Text>Phải trên hoặc gần một kỳ quan thiên nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_OR_ADJACENT_FEATURE_TYPE">
-			<Text>Phải gần ô {1_FeatureTypeName}.</Text>
+			<Text>Phải trên hoặc gần ô đất loại {1_FeatureTypeName}.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_CITY_GREAT_WORK_OBJECT_TYPE">
 			<Text>Phải trong thành phố với {1_GreatWorkObjectTypeName} Thành tựu vĩ đại.</Text>
@@ -2644,22 +2644,22 @@
 			<Text>Phải trong thành phố không có {1_BuildingName}.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_DISTRICT_PRODUCTION_DESCRIPTION">
-			<Text>Thêm sản phẩm cho thành phố.</Text>
+			<Text>Thêm sản phẩm cho Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FORM_CORPS_DESCRIPTION">
-			<Text>Thành lập Trung đội</Text>
+			<Text>Thành lập Trung Đội</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FORM_ARMY_DESCRIPTION">
-			<Text>Thành lập Đại đội</Text>
+			<Text>Thành lập Đại Đội</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FORM_FLEET_DESCRIPTION">
-			<Text>Thành lập Hải đoàn</Text>
+			<Text>Thành lập Hải Đoàn</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FORM_ARMADA_DESCRIPTION">
-			<Text>Thành lập Hạm đội</Text>
+			<Text>Thành lập Hạm Đội</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_AIRLIFT_DESCRIPTION">
-			<Text>Vận chuyển</Text>
+			<Text>Không Vận</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_PLUNDER_TRADE_ROUTE_DESCRIPTION">
 			<Text>Cướp [ICON_TradeRoute] Tuyến đường thương mại</Text>
@@ -2684,7 +2684,7 @@
 		</Row>
 		<!-- ==================== National Park Text ==================== -->
 		<Row Tag="LOC_NATIONAL_PARK_NAME">
-			<Text>Công viên quốc gia {1_name}</Text>
+			<Text>Công Viên Quốc Gia {1_name}</Text>
 		</Row>
 		<!-- ==================== ToolTip Text ==================== -->
 		<Row Tag="LOC_TOOLTIP_BASE_COST">
@@ -2694,7 +2694,7 @@
 			<Text>Duy trì: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BUILDING_DISTRICT_COPY">
-			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} của Đặc Khu liền kề Đặc Khu này.</Text>
+			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} liền kề Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BUILDING_REQUIRES">
 			<Text>Yêu cầu:</Text>
@@ -2739,10 +2739,10 @@
 			<Text>Không thể xây trên hồ</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_RELIGION">
-			<Text>Phải tạo ra một tôn giáo</Text>
+			<Text>Phải sáng lập một tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_EXTRA_REGIONAL_RANGE">
-			<Text>+{1_Amount} tile range from modifiers</Text>
+			<Text>+{1_Amount} tầm xa ô từ thay đổi</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_INHERENT_BONUS">
 			<Text>Thưởng vốn có</Text>
@@ -2760,16 +2760,16 @@
 			<Text>CHÍNH PHỦ</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_AMENITIES_WHILE_ACTIVE">
-			<Text>+{1_Amenities} Tiện nghi cho thành phố này trong khi làm việc.</Text>
+			<Text>+{1_Amenities} Tiện Nghi cho thành phố này trong khi làm việc.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_YIELD_CONVERSIONS">
 			<Text>Kiếm {1_YieldFontIcon} {2_YieldName} cho nền văn minh của bạn bằng với {3_ConversionPercent}% của bất kỳ [ICON_Production] Sản phẩm đóng góp vào dự án này.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_GREAT_PERSON_POINTS">
-			<Text>Kiếm {1_IconString} {2_GreatPersonClassName} điểm sau khi hoàn thành</Text>
+			<Text>Kiếm {1_IconString} {2_GreatPersonClassName} điểm sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_GREAT_PERSON_POINTS_SPECIFIC">
-			<Text>Kiếm {3_PointsAmount} {1_IconString} {2_GreatPersonClassName} điểm sau khi hoàn thành</Text>
+			<Text>Kiếm {3_PointsAmount} {1_IconString} {2_GreatPersonClassName} điểm sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTE_MOVEMENT_COST">
 			<Text>[ICON_Movement] Phí di chuyển: {1_MovementCost}</Text>
@@ -2778,7 +2778,7 @@
 			<Text>Tạo cầu trên sông.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PROMOTION_CLASS">
-			<Text>Dạng: {1_PromotionClassName}</Text>
+			<Text>Dạng Huân Chương: {1_PromotionClassName}</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_COMBAT_STRENGTH">
 			<Text>[ICON_Strength] Sức mạnh cận chiến: {1_Combat}</Text>
@@ -2787,7 +2787,7 @@
 			<Text>[ICON_Ranged] Đánh xa: {1_RangedCombat} (Tầm xa [ICON_Range] {2_Range})</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_STRENGTH">
-			<Text>[ICON_Bombard] Đánh xa: {1_Bombard} (Tầm xa [ICON_Range] {2_Range})</Text>
+			<Text>[ICON_Bombard] Sức mạnh pháo: {1_Bombard} (Tầm xa [ICON_Range] {2_Range})</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOVEMENT">
 			<Text>[ICON_Movement] Di chuyển: {1_Movement}</Text>
@@ -2832,7 +2832,7 @@
 			<Text>Mở khóa tài nguyên {1_ResourceName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_UNLOCKS_ROUTE">
-			<Text>Nâng cấp đường thành {1_RouteName}</Text>
+			<Text>Nâng cấp đường lên {1_RouteName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL">
 			<Text>{diplomaticReason} {diplomaticValue}</Text>
@@ -2856,10 +2856,10 @@
 			<Text>Năm hòa bình</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ARCHAEOLOGY">
-			<Text>Gửi Nhà khảo cổ tới vùng đất của họ</Text>
+			<Text>Gửi Nhà Khảo Cổ tới vùng đất của họ</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ESPIONAGE">
-			<Text>Gián điệp họ</Text>
+			<Text>Gián Điệp họ</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ENVIRONMENT">
 			<Text>Ảnh hưởng của bạn đối với chính phủ</Text>
@@ -2874,7 +2874,7 @@
 			<Text>Giữ lời hứa ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_SURPRISE_WAR_ON_FRIEND">
-			<Text>Chiến tranh bất ngời với một người bạn</Text>
+			<Text>Chiến tranh bất ngờ với một người bạn</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DENOUNCED_FRIEND">
 			<Text>Lăng mạ một người bạn</Text>
@@ -2898,7 +2898,7 @@
 			<Text>Đồng minh với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PROMISE">
-			<Text>Từ chối không ngoại giao với họ</Text>
+			<Text>Từ chối không thực hiện lời hứa ngoại giao với họ</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ONE_SIDED_TRADES">
 			<Text>Giao thương thuận lợi với họ</Text>
@@ -2919,13 +2919,13 @@
 			<Text>Tôn trọng lực lượng hải quân hùng hậu</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AYYUBID_DYNASTY">
-			<Text>Tôn trọng kiến trúc tôn giáo</Text>
+			<Text>Tôn trọng kiến trúc tôn giáo của anh ấy</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BLACK_QUEEN">
-			<Text>Tôn trọng người phải đối hoạt động gián điệp</Text>
+			<Text>Tôn trọng người phản đối hoạt động gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BUSHIDO">
-			<Text>Respects adding Faith/Culture to strong military</Text>
+			<Text>Tôn trọng thêm Đức Tin/Văn Minh trước quân sự quá mạnh</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_PARANOID">
 			<Text>Sợ nền văn minh đe dọa</Text>
@@ -2937,7 +2937,7 @@
 			<Text>Tôn trọng đế quốc có lãnh thổ rộng lớn</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BACKSTAB_AVERSE">
-			<Text>You are not a backstabber</Text>
+			<Text>Bạn không phải là một kẻ đâm lén</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WITH_SHIELD_OR_ON_IT_POSITIVE">
 			<Text>Vui mừng khi thấy bạn chiến tranh dai dẳng</Text>
@@ -2979,7 +2979,7 @@
 			<Text>Đề xuất công trình: {1_ImprovementName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SETTLEMENT_RECOMMENDATION">
-			<Text>Khuyến cáo đặt thành phố</Text>
+			<Text>Vị trí khuyến cáo đặt thành phố</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_MOVEMENT_COST">
 			<Text>Phí di chuyển: {1_Amount}</Text>
@@ -3021,7 +3021,7 @@
 			<Text>Ghê tởm</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_APPEAL">
-			<Text>Tâm trạng: {1_AppealDesc} ({2_AppealValue})</Text>
+			<Text>Sức Hấp Dẫn: {1_AppealDesc} ({2_AppealValue})</Text>
 		</Row>
 		<!-- ==================== Trait Text ==================== -->
 		<Row Tag="LOC_TYPE_TRAIT_YIELD">
@@ -3037,7 +3037,7 @@
 			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] Nhà ở</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_AIRSLOTS">
-			<Text>Sức chứa: {1_Amount}</Text>
+			<Text>Sức chứa máy bay: {1_Amount}</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_CITIZENSLOTS">
 			<Text>Sức chứa công dân: {1_Amount}</Text>
@@ -3052,7 +3052,7 @@
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_Citizen] Dân cư</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_OUTER_DEFENSE">
-			<Text>{1_Amount: number +#,###;-#,###} Phòng thủ bên ngoài</Text>
+			<Text>{1_Amount: number +#,###;-#,###} Phòng thủ tường thành</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_GREAT_PERSON_POINTS">
 			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_GreatPersonClassName}/lượt.</Text>
@@ -3067,7 +3067,7 @@
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Music] slot Tác phẩm âm nhạc</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_GREAT_WORKS_RELIC_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Relic] slot Tác phẩm di tích</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Relic] slot Di tích</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_GREAT_WORKS_ARTIFACT_SLOTS">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Artifact] slot cổ vật</Text>
@@ -3076,7 +3076,7 @@
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Religious] slot Tác phẩm tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
-			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} của Đặc Khu liền kề Đặc Khu này.</Text>
+			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} liền kề Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} cho mỗi một {5_AdjacentObject} liền kề.</Text>
@@ -3177,22 +3177,22 @@
 		</Row>
 		<!-- ==================== Diplomacy Text ==================== -->
 		<Row Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS">
-			<Text>[COLOR_Grey]{1} Hidden {2_Agendas : plural 2?agenda; other?agendas;}</Text>
+			<Text>[COLOR_Grey]{1} Chương trình nghị sự ẩn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT">
-			<Text>Reach Access Level [ICON_VisSecret] OPEN in order to see hidden agendas.</Text>
+			<Text>Mức độ truy cập [ICON_VisSecret] MỞ để xem Chương trình nghị sự ẩn.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR">
-			<Text>Your mother was a hamster and your father smelt of elderberries. [NEWLINE] We are now at war.</Text>
+			<Text>Mẹ ngươi là một con chuột và cha ngươi có mùi Cây cơm cháy.[NEWLINE] Chúng ta bây giờ đang trong chiến trang.</Text>
 		</Row>
 		<Row Tag="LOC_REFUSE_PEACE">
-			<Text>To the last, I grapple with thee; [NEWLINE]From Hell's heart, I stab at thee;[NEWLINE]For hate's sake, I spit my last breath at thee.[NEWLINE]In other words, no.</Text>
+			<Text>Đến cuối cùng thì, ta đánh nhau với ngươi; [NEWLINE]Từ dưới Địa Ngục, ta đâm vào ngươi;[NEWLINE]Vì căm ghét, ta phun hơi thở cuối cùng của ta vào ngươi. [NEWLINE]Nói một cách khác, không.</Text>
 		</Row>
 		<Row Tag="LOC_ACCEPT_WAR">
-			<Text>Molon Labe.</Text>
+			<Text>Thích thì chiến.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_PANEL_HEADER">
-			<Text>Foreign Relations for {1_CivName}</Text>
+			<Text>Quan hệ đối ngoại với {1_CivName}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_CIV_HEADER">
 			<Text>NỀN VĂN MINH</Text>
@@ -3207,56 +3207,56 @@
 			<Text>TRẠNG THÁI MỐI QUAN HỆ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_VISIBILITY_HEADER">
-			<Text>ACCESS LEVEL</Text>
+			<Text>MỨC ĐỘ TRUY CẬP</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_SCORE_HEADER">
 			<Text>ĐIỂM</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_AT_WAR">
-			<Text>[COLOR_RED]At War![ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Chiến Tranh![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_AT_PEACE">
-			<Text>At Peace</Text>
+			<Text>Hòa Bình</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_AT_WAR_TURNS">
-			<Text>[COLOR_RED]At War![ENDCOLOR] (peace possible in {1_Turns} turns)</Text>
+			<Text>[COLOR_RED]Chiến Tranh![ENDCOLOR] (Hòa bình có thể trong {1_Turns} lượt)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_AT_PEACE_TURNS">
-			<Text>At Peace (war possible in {1_Turns} turns)</Text>
+			<Text>Hòa Bình (Chiến tranh có thể trong {1_Turns} lượt)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_UNMET_PLAYER">
 			<Text>Người chơi không rõ</Text>
 		</Row>
 		<!-- ==================== ChooseArtifactPopup ==================== -->
 		<Row Tag="LOC_CHOOSE_ARTIFACT_HEADER">
-			<Text>CHOOSE ARTIFACT</Text>
+			<Text>CHỌN CỔ VẬT</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE_HEADER">
-			<Text>ARTIFACT FOUND</Text>
+			<Text>TÌM THẤY CỔ VẬT</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_NO_TYPE">
-			<Text>Your Archaeologist {1_UnitName} has uncovered signs of an ancient conflict between {2_ActingCiv} and {3_TargetCiv}.</Text>
+			<Text>Nhà Khảo Cổ {1_UnitName} đã phát hiện ra dấu hiệu của sự xung đột giữa {2_ActingCiv} và {3_TargetCiv}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_GOODY_HUT">
-			<Text>Your Archaeologist {1_UnitName} has uncovered signs of an ancient tribal village encountered by {2_ActingCiv}.</Text>
+			<Text>Nhà Khảo Cổ {1_UnitName} đã phát hiện ra dấu hiệu của làng thổ dân xa xưa được khám phá bởi {2_ActingCiv}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_BARBARIAN_CAMP">
-			<Text>Your Archaeologist {1_UnitName} has found the remains of a barbarian camp dispersed by {2_ActingCiv}.</Text>
+			<Text>Nhà Khảo Cổ {1_UnitName} đã tìm thấy hài cốt của quân man di bị đánh bại bởi {2_ActingCiv}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_BATTLE_FOUGHT">
-			<Text>Your Archaeologist {1_UnitName} has discovered an ancient battlefield littered with items from {2_ActingCiv} and {3_TargetCiv}.</Text>
+			<Text>Nhà Khảo Cổ {1_UnitName} đã khám phá ra một chiến trường xa xưa rải rác với các món đồ từ {2_ActingCiv} và {3_TargetCiv}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_SHIP_SUNK">
-			<Text>Your Archaeologist {1_UnitName} has found a wreck left by a naval battle between {2_ActingCiv} and {3_TargetCiv}.</Text>
+			<Text>Nhà Khảo Cổ {1_UnitName} đã tìm thấy một tàu đám của trận chiến hải quân giữa {2_ActingCiv} và {3_TargetCiv}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_ERA_STRING">
-			<Text>The discovery appears to have been buried since the {1_EraName}.</Text>
+			<Text>Phát hiện này dường như được chôn từ thời {1_EraName}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_MAKE_CHOICE">
-			<Text>CHOOSE which nation's artifact to uncover from this site.</Text>
+			<Text>CHỌN cổ vật quốc gia được khám phá từ vùng đất này.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE">
-			<Text>After some study, it's been determined that this [ICON_GreatWork_Artifact] Artifact is from {1_ActingCiv}.</Text>
+			<Text>Sau khi nghiên cứu, nó được xác định là [ICON_GreatWork_Artifact] Cổ vật từ {1_ActingCiv}.</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_ARTIFACT_OK_BUTTON">
 			<Text>OK</Text>
@@ -3266,40 +3266,40 @@
 			<Text>Tôn giáo cho {1_CivName}</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_MY_RELIGION">
-			<Text>[COLOR_LIGHTBLUE]MY RELIGION:[ENDCOLOR]   {1_ReligionName}</Text>
+			<Text>[COLOR_LIGHTBLUE]TÔN GIÁO CỦA TÔI:[ENDCOLOR]   {1_ReligionName}</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NO_RELIGION">
 			<Text>không có tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_PANTHEON_LABEL">
-			<Text>[COLOR_LIGHTBLUE]PANTHEON BELIEF:[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]TÍN NGƯỠNG VỊ THẦN:[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_BELIEF_LABEL">
-			<Text>[COLOR_LIGHTBLUE]FULL RELIGION BELIEFS:[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]TÍN NGƯỠNG TÔN GIÁO ĐẦY ĐỦ:[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_LABEL">
-			<Text>[COLOR_LIGHTBLUE]NEXT STEP:[ENDCOLOR]  {1_NextStepText}</Text>
+			<Text>[COLOR_LIGHTBLUE]BƯỚC TIẾP:[ENDCOLOR]  {1_NextStepText}</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_FOUND_PANTHEON">
-			<Text>Tích lũy {1_Number} [ICON_Faith] Lòng tin để tìm thấy một vị thần.</Text>
+			<Text>Tích lũy {1_Number} [ICON_Faith] Đức Tin để tìm thấy một vị thần.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_CHOOSE_PANTHEON">
-			<Text>Choose your Pantheon Belief.</Text>
+			<Text>Chọn tín ngưỡng của vị thần.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_SELECT_BELIEF">
-			<Text>Choose a new Belief to add to your Religion.</Text>
+			<Text>Chọn tín ngưỡng mới thêm vào tôn giáo của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_EARN_PROPHET">
-			<Text>Kiếm một Vĩ nhân để bắt đầu một tôn giáo đầy đủ (có thêm 2 tín ngưỡng).</Text>
+			<Text>Kiếm một Vĩ Nhân để bắt đầu một tôn giáo đầy đủ (có thêm 2 tín ngưỡng).</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_USE_PROPHET">
-			<Text>Move your Prophet next to a friendly Holy Site or Stonehenge and select the Found Religion action.</Text>
+			<Text>Di chuyển Nhà Tiên Tri tới Khu Linh Thiêng hoặc Bãi đá Stonehenge và chọn Sáng Lập Tôn Giáo.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_EVANGELIZE_BELIEF">
-			<Text>Purchase an Apostle and have them take the Evangelize action to add another Belief.</Text>
+			<Text>Mua một Tông Đồ và thực hiện Truyền Đạo tín ngưỡng để thêm một tín ngưỡng khác.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_NONE">
-			<Text>None.  Your Religion is fully developed.</Text>
+			<Text>Không. Tôn giáo của bạn đã được phát triển đầy đủ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_TITLE">
 			<Text>Tôn giáo</Text>
@@ -3338,19 +3338,19 @@
 			<Text>Tôn giáo chiếm ưu thế trong {1_DominantCities} thành phố</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOLY_CITY">
-			<Text>Thành phố thần thánh: {1_HolyCity}</Text>
+			<Text>Thành Phố Thánh: {1_HolyCity}</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOLY_CITY_NONE">
-			<Text>Thành phố thần thánh: Đã chinh phục, người sáng lập đã bị loại bỏ.</Text>
+			<Text>Thành Phố Thánh: Đã chinh phục, người sáng lập đã bị loại bỏ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CITY_NAME">
 			<Text>{1_CityName} ({2_OwnerName})</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CITY_SORT_TYPE_PRESENT">
-			<Text>Thành phố có tôn giáo</Text>
+			<Text>Các thành phố có chứa tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CITY_SORT_TYPE_FOLLOWING">
-			<Text>Thành phố đang theo tôn giáo</Text>
+			<Text>Các thành phố đang theo tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_LOCKED_BELIEF">
 			<Text>Tín ngưỡng đã khóa</Text>
@@ -3368,7 +3368,7 @@
 			<Text>Tín ngưỡng của vị thần:</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_LOCKED_BELIEF_DESCRIPTION">
-			<Text>Use an Apostle to evangelize a new belief.</Text>
+			<Text>Sửa dụng Tông Đồ Truyền Đạo Tín Ngưỡng để có tín ngưỡng mới.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CHOOSING_PANTHEON">
 			<Text>Chọn vị thần</Text>
@@ -3377,7 +3377,7 @@
 			<Text>Chọn tín ngưỡng vị thần:</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CHOOSE_A_BELIEF">
-			<Text>Chọn tín ngưỡn:</Text>
+			<Text>Chọn tín ngưỡng:</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CHOOSE_RELIGION_BELIEF">
 			<Text>Chọn tín ngưỡng tôn giáo của bạn:</Text>
@@ -3407,55 +3407,55 @@
 			<Text>Sáng lập một tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_FOUNDING_RELIGION_INSTRUCTIONS">
-			<Text>(Choose a Religion from history, or choose a name and icon for a Religion of your own.)</Text>
+			<Text>(Chọn một Tôn Giáo từ lịch sử, hoặc chọn tên và biểu tượng cho Tôn Giáo của bạn.)</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_NO_RELIGION_CHOSEN">
-			<Text>None Chosen</Text>
+			<Text>Không chọn</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CHOOSE_RELIGION">
-			<Text>Choose a name and icon:</Text>
+			<Text>Chọn tên và biểu tượng:</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CHOOSE_RELIGION_NAME">
-			<Text>Set Religion Name</Text>
+			<Text>Đặt tên Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_REQUIRES_NAME">
-			<Text>Requires Name</Text>
+			<Text>Yêu Cầu Tên</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CONFIRM_RELIGION">
-			<Text>Confirm</Text>
+			<Text>Xác nhận</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_CUSTOM">
-			<Text>Custom Religion</Text>
+			<Text>Tôn Giáo Tùy Chọn</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_BUTTON">
 			<Text>Tuyên chiến!</Text>
 		</Row>
 		<Row Tag="LOC_MAKE_PEACE_BUTTON">
-			<Text>Make Peace</Text>
+			<Text>Hòa Bình</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_NUM_FOLLOWERS_TT">
-			<Text>{1_ReligionName}: {2_NumFollowers} followers.</Text>
+			<Text>{1_ReligionName}: {2_NumFollowers} tín đồ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOLY_SITE_BONUS_TT">
-			<Text>{1_BonusAmount} Faith produced by this district.</Text>
+			<Text>{1_BonusAmount} Đức Tin được sản xuất bởi Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_APOSTLE_TT">
-			<Text>You must have a Temple in a Holy Site district to purchase Apostles.</Text>
+			<Text>Phải có Đền Thờ trong Khu Linh Thiêng để mua Tông Đồ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_MISSIONARY_TT">
-			<Text>You must have a Shrine in a Holy Site district to purchase Missionaries.</Text>
+			<Text>Phải có Miếu trong Khu Linh Thiêng để mua Nhà Truyền Giáo.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_INQUISITOR_TT">
-			<Text>This religion must have spent an Apostle to Launch Inquisition before purchasing Inquisitors. They are then purchased in a city with a Temple.</Text>
+			<Text>Nền tôn giáo này chúng ta cần dành ra một Tông Đồ đề Thẩm Tra tôn giáo trước khi mua các Thẩm Giáo. Cần phải có một Đền Thờ trong thành phố để mua được họ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_APOSTLE_TT">
-			<Text>Apostles may convert [ICON_Citizen] Citizens to their Religion and initiate theological combat with units of other Religions.</Text>
+			<Text>Tông Đồ có thể cải giáo [ICON_Citizen] Dân Cư sang Tôn Giáo của họ và bắt đầu chiến tranh thần thánh với đơn vị của tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_MISSIONARY_TT">
-			<Text>Missionaries may convert [ICON_Citizen] Citizens to their Religion. May not initiate theological combat with units of other Religions (but can defend).</Text>
+			<Text>Nhà truyền giáo có thể cải giáo [ICON_Citizen] Dân Cư sang tôn giáo của họ. Có thể không bắt đầu được chiến tranh thần thánh với đơn vị của tôn giáo khác (nhưng có thể phòng thủ).</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_INQUISITOR_TT">
-			<Text>Inquisitors may eliminate the presence of other Religions in their territory, and initiate theological combat with units of other Religions.</Text>
+			<Text>Thẩm Giáo có thể loại bỏ sự hiện diện của tôn giáo khác trong lãnh thổ của mình, và có thể bắt đầu chiến tranh thần thánh với đơn vị thuộc tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_UNKNOWN_CITY">
 			<Text>Thành phố lạ</Text>
@@ -3498,13 +3498,13 @@
 			<Text>Chọn tuyến đường.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_PRODUCE_TRADE_UNIT">
-			<Text>Produce a Trader unit to use this Route.</Text>
+			<Text>Đào tạo một Thương Gia để sử dụng Tuyến đường.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_CITY_STATES">
 			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_UNUSED_ROUTES">
-			<Text>Unused Routes</Text>
+			<Text>Tuyến đường không sử dụng</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TO">
 			<Text>tới</Text>
@@ -3516,10 +3516,10 @@
 			<Text>({1_ActiveRoutes}/{2_RouteCapacity} [Icon_TradeRouteLarge])</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_TRADE_POST_ESTABLISHED">
-			<Text>Điểm thương mại được thành lập với thành phố này</Text>
+			<Text>Điểm thương mại được thành lập với thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_NO_TRADE_POST">
-			<Text>Không có điểm thương mại được thành lập với thành phố này</Text>
+			<Text>Không có điểm thương mại được thành lập với thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_TOTAL_ROUTE_TURNS">
 			<Text>Tổng số lượt để hoàn tất lộ trình này.</Text>
@@ -3528,16 +3528,16 @@
 			<Text>Tầm nhìn ngoại giao tăng bởi [ICON_TradeRoute] Tuyến đường thương mại với nền văn minh này.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_NO_DIPLOMATIC_VIS_BONUS">
-			<Text>Establish a [ICON_TradeRoute] Tuyến đường thương mại to increase diplomatic visibility with this civilization.</Text>
+			<Text>Thiết lập môt [ICON_TradeRoute] Tuyến đường thương mại để tăng tầm nhìn ngoại giao với nền văn minh này.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_TOURISM_BONUS">
-			<Text>Thưởng [ICON_Tourism] Du lịch do [ICON_TradeRoute] Tuyến đường thương mại với nền văn minh này.</Text>
+			<Text>Thưởng [ICON_Tourism] Du lịch do có [ICON_TradeRoute] Tuyến đường thương mại với nền văn minh này.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_NO_TOURISM_BONUS">
-			<Text>Establish a [ICON_TradeRoute] Tuyến đường thương mại to get [ICON_Tourism] Du lịch bonus with this civilization.</Text>
+			<Text>Thiết lập một [ICON_TradeRoute] Tuyến đường thương mại để nhận thưởng [ICON_Tourism] Du lịch với nền văn minh này.</Text>
 		</Row>
 		<Row Tag="LOC_TRADE_OVERVIEW_TOOLTIP_RELIGIOUS_INFLUENCE">
-			<Text>{1_Influencer} will exert {2_ReligionName} influence on {3_Influenced}.</Text>
+			<Text>{1_Influencer} sẽ đưa {2_ReligionName} ảnh hưởng vào {3_Influenced}.</Text>
 		</Row>
 		<!-- ==================== World Rankings Rundown ==================== -->
 		<Row Tag="LOC_WORLD_RANKINGS_TITLE">
@@ -3595,16 +3595,16 @@
 			<Text>Điểm: {1_Num}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_CITIES_FOLLOWING_RELIGION">
-			<Text>Converted Cities: {1_Num}</Text>
+			<Text>Thành phố đã cải giáo: {1_Num}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_FAITH_RATE">
-			<Text>ICON_Faith] Lòng tin per turn: {1_Num}</Text>
+			<Text>[ICON_Faith] Đức Tin/lượt: {1_Num}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
-			<Text>Chiến thắng [COLOR:NeutralCS]ĐIỂM[ENDCOLOR] xảy ra khi không có bất kỳ nền văn mình nào đạt được chiến thắng khác ở cuối trò chơi. Trong trường hợp này, nền văn minh có tổng [COLOR:NeutralCS]ĐIỂM[ENDCOLOR] cao nhất sẽ thắng!</Text>
+			<Text>Chiến thắng [COLOR:NeutralCS]ĐIỂM[ENDCOLOR] xảy ra khi không có bất kỳ nền văn mình nào đạt được chiến thắng khác ở cuối trò chơi. Trong trường hợp này, nền văn minh có tổng [COLOR:NeutralCS]ĐIỂM[ENDCOLOR] cao nhất sẽ chiến thắng!</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResScienceLabelCS]KHOA HỌC[ENDCOLOR] victory, bạn phải hoàn thành 3 cột mốc quan trọng:</Text>
+			<Text>Để chiến thắng [COLOR:ResScienceLabelCS]KHOA HỌC[ENDCOLOR], bạn phải hoàn thành 3 cột mốc quan trọng:</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_1">
 			<Text>Phóng vệ tinh.</Text>
@@ -3631,7 +3631,7 @@
 			<Text>Làm sao để thu hút Du lịch tới nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURISM_DETAILS">
-			<Text>Your ability to attract [COLOR:ResCultureLabelCS]VISITING TOURISTS[ENDCOLOR] to your civilization is a function of the difference between your own [ICON_Culture] Văn minh production, and that of the civilization whose [COLOR:ResCultureLabelCS]DOMESTIC TOURIST[ENDCOLOR] you are attempting to attract.</Text>
+			<Text>Khả năng thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] của bạn đến với nền văn minh là một công thức được tính bởi hiệu số của sản lượng [ICON_Culture] Văn minh của bạn với số lượng [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] của nền văn minh mà bạn đang cố gắng thu hút.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY_DETAILS">
 			<Text>Để chiến thắng [COLOR:ResCultureLabelCS]VĂN MINH[ENDCOLOR], bạn phải thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] bằng cách tạo ra lượng lớn [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch. Chiến thắng có được khi bạn thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI [ENDCOLOR] tới nền văn minh của bạn nhiều hơn [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] ở nhà của các nền văn minh khác.</Text>
@@ -3643,10 +3643,10 @@
 			<Text>[COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] những người bạn đã thu hút được từ [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] của các nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_WHAT_IS_VICTORY">
-			<Text>What is a Culture Victory?</Text>
+			<Text>Chiến Thắng Văn Minh là gì?</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_ATTRACT_TOURISTS">
-			<Text>How to attract Tourists to your civilization.</Text>
+			<Text>Cách thu hút Du Khách với nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_DOMESTIC_TOURISTS">
 			<Text>Du lịch trong nước</Text>
@@ -3658,37 +3658,37 @@
 			<Text>Đang ghé thăm</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_DOMESTIC_TOURISTS_TOOLTIP">
-			<Text>This column indicates how many of this civilization's tourists are still vacationing within their own borders.</Text>
+			<Text>Cột này cho thấy có bao nhiêu khách du lịch của nền văn minh này đang nghỉ mát bên trong biên giới của mình.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_OUR_VISITORS_FROM_TOOLTIP">
-			<Text>This column shows how many tourists from this civilization are currently visiting us.</Text>
+			<Text>Cột này cho thấy có bao nhiêu khác du lịch của nền văn minh này đang ghé thăm chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_VISITING_TOURISTS_TOOLTIP">
-			<Text>This column shows the total number of visiting tourists attracted to our civ out of the current total we need to achieve a Culture Victory.</Text>
+			<Text>Cột này cho thấy tổng số các khác du lịch đã thu hút được và tổng số cần phải đạt được để có Chiến Thắng Văn Minh.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_HEADER">
 			<Text>[ICON_Tourism] Du lịch: {1_Current} (current)[NEWLINE][ICON_Tourism] Du lịch: {2_LifetimeTourism} (lifetime)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_TRADE_ROUTE">
-			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Du lịch Boosted +{2_Percent}% for Trade Route</Text>
+			<Text>{1_Tooltip}[NEWLINE]Thưởng tất cả [ICON_Tourism] Du lịch +{2_Percent}% do tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_OPEN_BORDERS">
-			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Du lịch Boosted +{2_Percent}% for Open Borders</Text>
+			<Text>{1_Tooltip}[NEWLINE]Thưởng tất cả [ICON_Tourism] Du lịch +{2_Percent}% do Tự Do Đi Lại</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_GOVERNMENT">
-			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Du lịch Reduced {2_Percent}% for Different Governments</Text>
+			<Text>{1_Tooltip}[NEWLINE]Thưởng tất cả [ICON_Tourism] Du lịch giảm {2_Percent}% do khác chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_REDUCED_RELIGION1">
-			<Text>{1_Tooltip}[NEWLINE]Religious [ICON_Tourism] Du lịch Reduced {2_Percent}% for Enlightenment</Text>
+			<Text>{1_Tooltip}[NEWLINE][ICON_Tourism] Du lịch tôn giáo giảm {2_Percent}% do Sự Giác Ngộ</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_REDUCED_RELIGION2">
-			<Text>{1_Tooltip}[NEWLINE]Religious [ICON_Tourism] Du lịch Reduced {2_Percent}% for Different Religions</Text>
+			<Text>{1_Tooltip}[NEWLINE][ICON_Tourism] Du lịch tôn giáo giảm {2_Percent}% do khác tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_PROGRESS">
 			<Text>Tiến độ thống trị</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_HAS_ORIGINAL_CAPITAL">
-			<Text>Has original [ICON_Capital] Capital.</Text>
+			<Text>Có tổng [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
 			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]THỐNG TRỊ[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ Đô của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
@@ -3697,7 +3697,7 @@
 			<Text>Đã chiếm {1_NumCaptured : plural 1?{1_NumCaptured} Thủ Đô; other?{1_NumCaptured} Thủ Đô;}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_RELIGION_CIVS_CONVERTED">
-			<Text>Tôn giáo đã chuyển đổi</Text>
+			<Text>Tôn giáo đã cải giáo</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_RELIGION_DETAILS">
 			<Text>Để chiến thắng [COLOR:ResFaithLabelCS]TÔN GIÁO[ENDCOLOR], tôn giáo của bạn phải chiếm [COLOR:ResFaithLabelCS]ƯU THẾ[ENDCOLOR] hơn mỗi nền văn minh khác trong game.[NEWLINE][NEWLINE]Một tôn giáo được coi là [COLOR:ResFaithLabelCS]ƯU THÉ[ENDCOLOR] khi có hơn 50% cư dân đi theo đạo này ở trong mỗi nền văn minh.</Text>
@@ -3718,25 +3718,25 @@
 			<Text>Bạn đang dẫn đầu</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_DETAILS">
-			<Text>You are leading with {1_Details}</Text>
+			<Text>Bạn đang dẫn đầu với {1_Details}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_OTHER_SIMPLE">
 			<Text>{1_CivName} dẫn đầu</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_OTHER_DETAILS">
-			<Text>{1_CivName} leading with {2_Details}</Text>
+			<Text>{1_CivName} dẫn đầu với {2_Details}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_SIMPLE">
 			<Text>Bạn đang đứng thứ {1_Place}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_DETAILS">
-			<Text>You are in {1_Place} place with {2_Details}</Text>
+			<Text>Bạn đang đứng thứ {1_Place} với {2_Details}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_POSITION_SIMPLE">
-			<Text>You are in position {1_Place}</Text>
+			<Text>Bạn đang đứng thứ {1_Place}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_POSITION_DETAILS">
-			<Text>You are in position {1_Place} with {2_Details}</Text>
+			<Text>Bạn đang đứng thứ {1_Place} với {2_Details}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_1_PLACE">
 			<Text>nhất</Text>
@@ -3784,7 +3784,7 @@
 			<Text>[COLOR:131,147,158,255]Người chơi không rõ[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_REQUIREMENTS_LABEL">
-			<Text>Requirements</Text>
+			<Text>Yêu cầu</Text>
 		</Row>
 		<!-- ==================== Scoring Categories ==================== -->
 		<Row Tag="LOC_CATEGORY_CIVICS_NAME">
@@ -3850,7 +3850,7 @@
 		</Row>
 		<!-- ==================== City State Partial SCreen ==================== -->
 		<Row Tag="LOC_CITY_STATES_ADD_AN_ENVOY">
-			<Text>Add an [ICON_Envoy] Phái đoàn between your civilization and this city-state.</Text>
+			<Text>Thêm một [ICON_Envoy] Phái đoàn giữa nền văn minh của bạn và thành phố tự trị này.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_AVAILABLE_QUESTS">
 			<Text>Nhiệm vụ khả dụng:</Text>
@@ -3865,13 +3865,13 @@
 			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_CIVILIZATIONS">
-			<Text>{1_Value} {1_Value:plural 1?Civilization; other?Civilizations;}</Text>
+			<Text>{1_Value} {1_Value:plural 1?Nền văn minh; other?Nền văn minh;}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_CONFIRM_PLACEMENT">
-			<Text>Confirm Placement</Text>
+			<Text>Xác nhận gửi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_CURRENTLY_AT_WAR">
-			<Text>You declared war against this city-state.</Text>
+			<Text>Bạn tuyên bố chiến tranh với thành phố tự trị này.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_DECLARE_WAR_BUTTON">
 			<Text>TUYÊN CHIẾN</Text>
@@ -3886,13 +3886,13 @@
 			<Text>Chủ các thành phố tự trị có thể dùng {1_GoldCost} [ICON_Gold] Vàng để tạm thời điều khiển tất cả đơn vị quân đội của họ. Họ sẽ trở lại sau {2_TurnLimit} [ICON_Turn] lượt, hoặc có người chủ khác.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_MILITARY_ALREADY_LEVIED">
-			<Text>You have already levied the military of this city-state.</Text>
+			<Text>Bạn đã tuyển quân đội của thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_DESTROYED">
-			<Text>Destroyed</Text>
+			<Text>Đã phá hủy.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_DESTROYED_LONG">
-			<Text>This city-state has been destroyed.</Text>
+			<Text>Thành phố tự trị này đã bị phá hủy.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_DIPLO_AWARE">
 			<Text>Thành phố này nhận thức được sự tồn tại nền văn minh của bạn.</Text>
@@ -3907,7 +3907,7 @@
 			<Text>Bạn đang có chiến tranh với thành phố tự trị này. Bạn không nhận được bất kỳ thưởng nào trong khi còn chiến tranh, nhưng nếu bạn không phải là kẻ xâm lược thì bạn vẫn có thể gửi Phái đoàn để thống trị lòng trung thành.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_DISTRICT_QUEST">
-			<Text>District Quest</Text>
+			<Text>Nhiệm Vụ Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_ENVOYS">
 			<Text>Phái đoàn</Text>
@@ -3919,7 +3919,7 @@
 			<Text>Phái đoàn đã gửi:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_ENVOYS_SENT_ICON">
-			<Text>Envoys [ICON_Envoy] Sent:</Text>
+			<Text>Phái đoàn [ICON_Envoy] đã gửi:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_INFLUENCED_BY">
 			<Text>Chịu ảnh hưởng bởi:</Text>
@@ -3928,7 +3928,7 @@
 			<Text>Xem thành phố tự trị trên trên bản đồ.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_MAKE_PEACE">
-			<Text>Make Peace</Text>
+			<Text>Hòa Bình</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_NUMBER_ENVOYS">
 			<Text>[ICON_Envoy]{1_NumEnvoys} Phái đoàn</Text>
@@ -3940,50 +3940,50 @@
 			<Text>Bạn chưa gặp một thành phố tự trị nào.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_OF">
-			<Text>Of</Text>
+			<Text>của</Text>
 		</Row>
 		<!-- Appears on 2nd of 3 lines. e.g., "City State Of Toronto" -->
 		<Row Tag="LOC_CITY_STATES_OVERVIEW">
 			<Text>Tổng quan</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_PATRON">
-			<Text>Patron:</Text>
+			<Text>Chủ:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_PATRON_BONUS">
-			<Text>Patronage to {1_CityStateName} Bonus:</Text>
+			<Text>Thưởng cho chủ của {1_CityStateName}:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_QUESTS">
 			<Text>Nhiệm vụ:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_REMOVE_AN_ENVOY">
-			<Text>Remove a proposed [ICON_Envoy] Phái đoàn between your civilization and this city-state.</Text>
+			<Text>Loại bỏ một [ICON_Envoy] Phái đoàn giữa nền văn minh của bạn và thành phố tự trị này.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_REPORT">
 			<Text>Báo cáo</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_REWARD">
-			<Text>Reward:</Text>
+			<Text>Nhận thưởng:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SCIENCE_BONUS">
-			<Text>Science Bonus {1_num}</Text>
+			<Text>Thưởng Khoa Học {1_num}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SCIENTIFIC_QUEST">
-			<Text>Scientific Quest</Text>
+			<Text>Nhiệm Vụ Khoa Học</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SEND_AN_ENVOY">
-			<Text>Send an Envoy</Text>
+			<Text>Gửi Phái Đoàn</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SEND_ENVOY_AMOUNT">
 			<Text> ( {1_EnvoyNum}[ICON_Envoy] ) </Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SEND_ENVOYS">
-			<Text>Send {1_EnvoyNum:plural 1?Envoy; other?Envoys;}</Text>
+			<Text>Gửi {1_EnvoyNum:plural 1?Phái Đoàn; other?Phái Đoàn;}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN">
 			<Text>Chủ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_BONUSES">
-			<Text>Suzerain Bonuses</Text>
+			<Text>Thưởng cho chủ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_ENVOYS">
 			<Text>3 [ICON_Envoy] Phái đoàn, và nhiều hơn bất kỳ nhiều văn minh khác:</Text>
@@ -4004,10 +4004,10 @@
 			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TURNS_WAR">
-			<Text>Hiện tại đang chiến trang.[NEWLINE](Hòa bình có thể trong {1_Turns} lượt.)</Text>
+			<Text>Hiện tại đang chiến tranh.[NEWLINE](Hòa bình có thể trong {1_Turns} lượt.)</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TURNS_PEACE">
-			<Text>Gần đây có chiến trang.[NEWLINE](Có thể tuyên bố chiến tranh trong {1_Turns} lượt.)</Text>
+			<Text>Gần đây có chiến tranh.[NEWLINE](Có thể tuyên bố chiến tranh trong {1_Turns} lượt.)</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TYPE">
 			<Text>Loại:</Text>
@@ -4044,7 +4044,7 @@
 			<Text>Thuộc tính:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_ALL_POSSIBLE_CHOSEN">
-			<Text>Tất cả cá nhân dạng này đã được tìm thấy.</Text>
+			<Text>Tất cả cá nhân dạng này đã được chiêu mộ.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_BACK">
 			<Text>Quay lại</Text>
@@ -4053,82 +4053,82 @@
 			<Text>Tiểu sử</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CLAIMED">
-			<Text>This Great Person has already been claimed!</Text>
+			<Text>Vĩ Nhân này đã được chiêu mộ!</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CONTRIBUTES_GREAT_WORK">
-			<Text>Contributes Great Work:</Text>
+			<Text>Đóng góp thành tựu vĩ đại:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_EARN_DATE">
 			<Text>Ngày kiếm được:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_EXCESS_POINTS">
-			<Text>Excess Points</Text>
+			<Text>Điểm Thừa</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_GREAT_PERSON">
 			<Text>Vĩ nhân:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_NONE_AVAILABLE">
-			<Text>None Available</Text>
+			<Text>Không Có Sẵn</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PASS">
 			<Text>BỎ QUA</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUIT">
-			<Text>TUYỂN DỤNG</Text>
+			<Text>CHIÊU MỘ</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUITED_BY">
-			<Text>Được tuyển dụng bởi:</Text>
+			<Text>Được chiêu mộ bởi:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUIT_PROGRESS">
-			<Text>Quà trình tuyển dụng:</Text>
+			<Text>Quà trình chiêu mộ:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_OR_RECRUIT_WITH_PATRONAGE">
-			<Text>hoặc tuyển dụng tức thì với:</Text>
+			<Text>hoặc chiêu mộ tức thì với:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PASS_DETAILS">
-			<Text>Nếu bạn không muốn tuyển dụng [ICON_GreatPerson] Vĩ Nhân này, và để có thể tiết kiệm điểm [ICON_GreatPerson] Vĩ Nhân cho tương lai, bạn có thể chọn Bỏ Qua. Giá {1_RejectCost} điểm [ICON_GreatPerson] Vĩ Nhân và không thể hoàn tác. Những điểm đã được sử dụng sẽ trở thành một phiếu giảm giá cho [ICON_GreatPerson] Vĩ Nhân, cho phép những người chơi khác mua họ với ít điểm hơn.</Text>
+			<Text>Nếu bạn không muốn chiêu mộ [ICON_GreatPerson] Vĩ Nhân này, và để có thể tiết kiệm điểm [ICON_GreatPerson] Vĩ Nhân cho tương lai, bạn có thể chọn Bỏ Qua. Giá {1_RejectCost} điểm [ICON_GreatPerson] Vĩ Nhân và không thể hoàn tác. Những điểm đã được sử dụng sẽ trở thành một phiếu giảm giá cho [ICON_GreatPerson] Vĩ Nhân, cho phép những người chơi khác mua họ với ít điểm hơn.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_DETAILS">
-			<Text>Bạn có thể bỏ {1_FaithCost} [ICON_Faith] Lòng tin để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Faith] Lòng tin cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để tuyển dụng [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để tuyển dụng [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
+			<Text>Bạn có thể bỏ {1_FaithCost} [ICON_Faith] Đức Tin để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Faith] Đức Tin cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để chiêu mộ [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để chiêu mộ [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_DETAILS">
-			<Text>Bạn có thể bỏ {1_GoldCost} [ICON_Gold] Vàng để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Gold] Vàng cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để tuyển dụng [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để tuyển dụng [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
+			<Text>Bạn có thể bỏ {1_GoldCost} [ICON_Gold] Vàng để mua và ngay lập tức có được [ICON_GreatPerson] Vĩ Nhân này. Lượng [ICON_Gold] Vàng cần thiết được tính dựa trên sự khác biệt giữa điểm bạn có và điểm cần có để chiêu mộ [ICON_GreatPerson] Vĩ nhân.[NEWLINE][NEWLINE]Bạn không thể mua được nếu bạn hoặc người chơi khác đã có đủ điểm để chiêu mộ [ICON_GreatPerson] Vĩ Nhân, hoặc nếu trước đó bạn bỏ qua [ICON_GreatPerson] Vĩ Nhân.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUIT_DETAILS">
-			<Text>Bạn đã tích lũy đủ điểm [ICON_GreatPerson] Vĩ nhân của loại này. Và bây giờ có thể sử dụng {1_RecruitCost} điểm để tuyển dụng [ICON_GreatPerson] Vĩ nhân này, ngay lập tức người sẽ xuất hiện trong [ICON_Capital] Thủ Đô của bạn, hoặc Đại Đô Đốc sẽ ở thành phố ven biển gần nhất.</Text>
+			<Text>Bạn đã tích lũy đủ điểm [ICON_GreatPerson] Vĩ nhân của loại này. Và bây giờ có thể sử dụng {1_RecruitCost} điểm để chiêu mộ [ICON_GreatPerson] Vĩ nhân này, ngay lập tức người sẽ xuất hiện trong [ICON_Capital] Thủ Đô của bạn, hoặc Đại Đô Đốc sẽ ở thành phố ven biển gần nhất.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_POINT_DETAILS">
 			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} điểm cho mỗi [ICON_Turn] lượt.[NEWLINE][NEWLINE]Điểm có được chủ yếu từ Đặc Khu và kiến trúc, nhưng cũng có thể từ kỳ quan thế giới và chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON">
-			<Text>Không thể tuyển dụng</Text>
+			<Text>Không thể chiêu mộ</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_ALREADY_EARNED_MAXIMUM">
-			<Text>You have already earned the maximum allowed number of this type of Great Person.</Text>
+			<Text>Bạn đã chiêu mộ quá số tối đa cho phép của loại Vĩ Nhân này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_NO_VALID_SPAWN_SEA">
-			<Text>You must have a coastal city center or a Harbor district in order to spawn a Đại Đô Đốc.</Text>
+			<Text>Bạn phải có thành phố ven biển hoặc khu hải cảng để xuất hiện Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_CLAIMED_BY_OTHER">
-			<Text>Another civilization has an active claim on this Great Person.</Text>
+			<Text>Nền văn minh khác đã chiêu mộ Vĩ Nhân này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_ALREADY_REJECTED">
 			<Text>Bạn đã chọn Bỏ Qua Vĩ Nhân này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_DISALLOWED_BY_CIV_TRAIT">
-			<Text>Your civilization trait ({1_TraitName}) prevents you from earning this [ICON_GreatPerson] Great Person.</Text>
+			<Text>Nền văn minh của bạn có đặc điểm ({1_TraitName}) ngăn không cho phép có được [ICON_GreatPerson] Vĩ Nhân này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_DISALLOWED_BY_LEADER_TRAIT">
-			<Text>Your leader trait ({1_TraitName}) prevents you from earning this [ICON_GreatPerson] Great Person.</Text>
+			<Text>Người lãnh đạo của bạn có đặc điểm ({1_TraitName}) ngăn không cho phép có được [ICON_GreatPerson] Vĩ Nhân này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUITMENT_HISTORY">
-			<Text>Lịch sử tuyển dụng</Text>
+			<Text>Lịch sử chiêu mộ</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_TAB_GREAT_PEOPLE">
 			<Text>VĨ NHÂN</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_TAB_PREVIOUSLY_RECRUITED">
-			<Text>Tuyển dụng trước đó</Text>
+			<Text>Chiêu mộ trước đó</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_TITLE">
 			<Text>VĨ NHÂN</Text>
@@ -4140,55 +4140,55 @@
 			<Text>Thành tựu vĩ đại đã được tạo</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_YOU">
-			<Text>You</Text>
+			<Text>Bạn</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_UNKNOWN">
 			<Text>Người chơi không rõ</Text>
 		</Row>
 		<!-- ==================== Chat Panel Text ==================== -->
 		<Row Tag="LOC_DIPLO_TO_ALL">
-			<Text>To All</Text>
+			<Text>Tới Tất Cả</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_TO_TEAM">
-			<Text>To Team</Text>
+			<Text>Tới Team</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_TO_SELF">
-			<Text>To Self</Text>
+			<Text>Tới Bản Thân</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_TO_PLAYER">
-			<Text>To {1_player}</Text>
+			<Text>Tới {1_player}</Text>
 		</Row>
 		<Row Tag="LOC_SHOW_PLAYER_LIST">
-			<Text>Show Player List</Text>
+			<Text>Hiển thị danh sách người chơi</Text>
 		</Row>
 		<Row Tag="LOC_GAME_HOST">
 			<Text>Host</Text>
 		</Row>
 		<Row Tag="PLAYERACTION_KICKPLAYER">
-			<Text>Kick Player</Text>
+			<Text>Kick người chơi</Text>
 		</Row>
 		<Row Tag="PLAYERACTION_KICKPLAYER_TOOLTIP">
-			<Text>Kick this player from the game.</Text>
+			<Text>Kick người chơi này ra khỏi game.</Text>
 		</Row>
 		<Row Tag="PLAYERACTION_FRIENDREQUEST">
-			<Text>Friend Player</Text>
+			<Text>Kết bạn người chơi</Text>
 		</Row>
 		<Row Tag="PLAYERACTION_FRIENDREQUEST_TOOLTIP">
-			<Text>Add this player as a friend on Steam.</Text>
+			<Text>Thêm người chơi này thành Bạn trên Steam.</Text>
 		</Row>
 		<!-- ==================== Map Pin List Panel Text ==================== -->
 		<Row Tag="LOC_MAP_PIN_DEFAULT_NAME">
-			<Text>Unnamed Pin {1_number}</Text>
+			<Text>Gim không tên {1_number}</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PIN_LIST_PLAYER_PIN_TOOLTIP">
-			<Text>Left click to look at pin.  Right click to edit pin.</Text>
+			<Text>Click trái để xem điểm gim. Click phải để chỉnh sửa gim.</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PIN_LIST_REMOTE_PIN_TOOLTIP">
-			<Text>Left click to look at pin.</Text>
+			<Text>Click trái để xem điểm gim.</Text>
 		</Row>
 		<!-- ==================== Pause Panel Text ==================== -->
 		<Row Tag="LOC_GAME_PAUSED_BY">
-			<Text>Game Paused by {1_PlayerName}</Text>
+			<Text>Game bị dừng bởi {1_PlayerName}</Text>
 		</Row>
 		<!-- ==================== Turn Phase Text ==================== -->
 		<Row Tag="LOC_STRATEGIC_PHASE">
@@ -4198,10 +4198,10 @@
 			<Text>Movement Phase</Text>
 		</Row>
 		<Row Tag="LOC_YOUR_TURN_BANNER">
-			<Text>Your Turn!</Text>
+			<Text>Lượt của bạn!</Text>
 		</Row>
 		<Row Tag="LOC_WAITING_ON_YOU_BANNER">
-			<Text>The game is waiting on you!</Text>
+			<Text>Game đang chờ bạn!</Text>
 		</Row>
 		<!-- ==================== Turn Timer Text ==================== -->
 		<Row Tag="LOC_KEY_TIME_DAYS_HOURS">
@@ -4229,35 +4229,35 @@
 			<Text>~{1_number: number #} s</Text>
 		</Row>
 		<Row Tag="LOC_KEY_YOUR_TURN_TIME_TOOLTIP">
-			<Text>Time remaining for your turn</Text>
+			<Text>Thời gian còn lại đến lượt của bạn</Text>
 		</Row>
 		<Row Tag="LOC_KEY_ESTIMATED_TIME_TIL_YOUR_TURN_TIME_TOOLTIP">
-			<Text>Estimated time until your next turn. Game desynchronization or players with slower machines can affect this estimate.</Text>
+			<Text>Dự tính thời gian đến lượt của bạn. Game không đồng bộ hóa hoặc các người chơi có máy cùi sẽ ảnh hưởng đến kết quả này.</Text>
 		</Row>
 		<Row Tag="LOC_KEY_ESTIMATED_TIME_ELAPSED_TOOLTIP">
-			<Text>Estimated time has elapsed. This can occur due to game desynchronization or players with slower machines. Please wait.</Text>
+			<Text>Thời gian dự kiến đã trôi qua. Điều này có thể xảy ra do game không đồng bộ hóa hoặc máy người chơi cùi. Vui lòng chờ.</Text>
 		</Row>
 		<!-- ==================== Great Works Overview =================== -->
 		<Row Tag="LOC_GREAT_WORKS">
-			<Text>THÀNH TỰ VĨ ĐẠI</Text>
+			<Text>Thành Tựu Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_SCREEN_TITLE">
-			<Text>GREAT WORKS</Text>
+			<Text>THÀNH TỰU VĨ ĐẠI</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ORGANIZE_GREAT_WORKS">
-			<Text>ORGANIZE GREAT WORKS</Text>
+			<Text>TỔ CHỨC THÀNH TỰU VĨ ĐẠI</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_PLACING">
-			<Text>PLACING</Text>
+			<Text>ĐẶT</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_VIEW_GALLERY">
-			<Text>View Gallery</Text>
+			<Text>Xem Thư Viện</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_VIEW_GREAT_WORK">
-			<Text>View Great Work</Text>
+			<Text>Xem Thành Tựu Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TRADE_GREAT_WORK">
-			<Text>Trade Great Work</Text>
+			<Text>Trao Đổi Thành Tựu Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_DISPLAY_SPACES">
 			<Text>KHÔNG GIAN TRƯNG BÀY</Text>
@@ -4266,155 +4266,155 @@
 			<Text>CUNG CẤP:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_THEMED_BONUS">
-			<Text>[ICON_ThemeBonus_Active][COLOR:ResCultureLabelCS]THEMED[ENDCOLOR]</Text>
+			<Text>[ICON_ThemeBonus_Active][COLOR:ResCultureLabelCS]CHỦ ĐỀ[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_THEME_BONUS_PROGRESS">
 			<Text>[ICON_ThemeBonus]Chủ đề trưng bày({1_current}/{2_total})</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Du lịch</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_NEW_GREAT_WORK">
-			<Text>YOUR CIVILIZATION HAS PRODUCED A GREAT WORK!</Text>
+			<Text>NỀN VĂN MINH CỦA BẠN ĐÃ TẠO RA MỘT THÀNH TỰU VĨ ĐẠI!</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_VIEW_GREAT_WORKS">
-			<Text>View Great Works</Text>
+			<Text>Xem Thành Tựu Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_BACK_TO_GREAT_WORKS">
-			<Text>Back to Great Works</Text>
+			<Text>Trở về Thành Tựu Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_CREATED_BY">
-			<Text>Được tạo bởi {1_creator}</Text>
+			<Text>Tạo bởi {1_creator}</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_CREATED_TIME">
 			<Text>{1_type}, {2_date}</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_CREATED_PLACE">
-			<Text>Displayed in the {1_building}, {2_city}</Text>
+			<Text>Trưng bày ở {1_building}, {2_city}</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TOOLTIP">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides {5_providing} per turn.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Tạo bởi {3_author}[NEWLINE]Năm {4_date}[NEWLINE]Cung cấp {5_providing} mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TOOLTIP_THEMABLE">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides {5_providing} per turn when not themed.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Tạo bởi {3_author}[NEWLINE]Năm {4_date}[NEWLINE]Cung cấp {5_providing} mỗi lượt khi không có chủ đề.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TOOLTIP_DUPLICATE">
-			<Text>Provides 1 [ICON_Culture] Văn minh 1 [ICON_Tourism] Du lịch per turn when authored by an artist who already has art displayed here.</Text>
+			<Text>Cung cấp 1 [ICON_Culture] Văn minh 1 [ICON_Tourism] Du lịch mỗi lượt khi sản phẩm của vĩ nhân đã được trưng bày ở đây.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ARTIFACT_TOOLTIP">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Found in {4_date}[NEWLINE]Provides {5_providing} per turn.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Tạo bởi {3_author}[NEWLINE]Năm {4_date}[NEWLINE]Cung cấp {5_providing} mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ARTIFACT_TOOLTIP_THEMABLE">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Found in {4_date}[NEWLINE]Provides {5_providing} per turn when not themed.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Tạo bởi {3_author}[NEWLINE]Năm {4_date}[NEWLINE]Cung cấp {5_providing} mỗi lượt khi không có chủ đề.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_EMPTY_TOOLTIP">
-			<Text>This slot can display Great Works of type:[NEWLINE]{1_works}</Text>
+			<Text>Slot trưng bày Thành Tựu Vĩ Đại này là loại:[NEWLINE]{1_works}</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_MISMATCHED_THEME">
-			<Text>This {1_type} does not match the theme for this Museum. Add {2_type} from unique Họa sĩ vĩ đạis to receive the bonus.</Text>
+			<Text>{1_type} này không phù hợp với chủ đề trưng bày trong Bảo Tàng này. Thêm {2_type} từ Họa sĩ vĩ đại độc nhất để nhận thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_MISMATCHED_ERA">
-			<Text>This {1_type} does not match the era for this Museum. Add {2_type} from unique civilizations to receive the bonus.</Text>
+			<Text>{1_type} này không phù hợp thời đại để trưng bày trong Bảo Tàng này. Thêm {2_type} từ nền văn minh độc nhất để nhận thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_DUPLICATE_ARTIFACT_CIVS">
-			<Text>This building contains two or more Great Works created by {1_player}. Add {2_type} from unique civilizations to receive the bonus.</Text>
+			<Text>Kiến trúc này chứa hai hoặc nhiều hơn Thành Tựu Vĩ Đại được tạo bởi {1_player}. Thêm {2_type} từ nền văn minh độc nhất để nhận thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
-			<Text>This {1_type} is establishing the theme for this museum.</Text>
+			<Text>{1_type} được thiếp lập là chủ đề cho Bảo Tàng này.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_THEME_DUAL">
-			<Text>{1_type} matching the theme for this Museum. Add one more work of this type to receive the theming bonus.</Text>
+			<Text>{1_type} phù hợp với Chủ Đề của Bảo Tàng này. Thêm thành tựu của loại này để nhận thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_THEME_DUPLICATE_ARTIST">
-			<Text>{1_type} matches the theme, but this Museum already has a Great Work from this artist. Add Great Works of the same theme, but from unique artists to receive the bonus.</Text>
+			<Text>{1_type} cùng chủ đề, nhưng Bảo Tàng đã trưng bày một thành tựu của Vĩ Nhân này. Thêm Thành Tựu Vĩ Đại cùng chủ đề nhưng khác VĨ Nhân để nhận thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_MATCHED_THEME">
-			<Text>[COLOR:ResCultureLabelCS]{1_building} is now themed. [ICON_Culture] Văn minh and [ICON_Tourism] Du lịch are doubled.[ENDCOLOR]</Text>
+			<Text>[COLOR:ResCultureLabelCS]{1_building} đã có Chủ Đề. [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch được x2.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_LOCKED_FROM_MOVE">
-			<Text>Moved into this slot recently. Cannot be moved again for another {1_Turns} turns.</Text>
+			<Text>Đã di chuyển tới slot trước đây. Không thể di chuyển lại sau {1_Turns} lươt.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ARTIFACT_LOCKED_FROM_MOVE">
-			<Text>Artifacts may only be moved from full Archaeological Museums (those with no empty slots).</Text>
+			<Text>Cổ Vật chỉ có thể di chuyển từ Bảo Tàng Khảo Cổ Học đã đầy (không còn slot trống).</Text>
 		</Row>
 		<!-- ==================== GreatWorkObjectTypes ==================== -->
 		<Row Tag="LOC_GREATWORKOBJECT_SCULPTURE">
-			<Text>[ICON_GreatWork_Sculpture] Sculpture</Text>
+			<Text>[ICON_GreatWork_Sculpture] Điêu Khắc</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_PORTRAIT">
-			<Text>[ICON_GreatWork_Portrait] Portrait</Text>
+			<Text>[ICON_GreatWork_Portrait] Chân Dung</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_LANDSCAPE">
-			<Text>[ICON_GreatWork_Landscape] Landscape</Text>
+			<Text>[ICON_GreatWork_Landscape] Phong Cảnh</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_RELIGIOUS">
-			<Text>[ICON_GreatWork_Religious] Religious</Text>
+			<Text>[ICON_GreatWork_Religious] Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT">
-			<Text>[ICON_GreatWork_Artifact] Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_ANCIENT">
-			<Text>[ICON_GreatWork_Artifact] Ancient Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Xa Xưa</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_CLASSICAL">
-			<Text>[ICON_GreatWork_Artifact] Classical Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Cổ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_MEDIEVAL">
-			<Text>[ICON_GreatWork_Artifact] Medieval Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Trung Cổ</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_RENAISSANCE">
-			<Text>[ICON_GreatWork_Artifact] Renaissance Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Phục Hưng</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_INDUSTRIAL">
-			<Text>[ICON_GreatWork_Artifact] Industrial Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Công Nghiệp</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_WRITING">
-			<Text>[ICON_GreatWork_Writing] Tác phẩm văn học</Text>
+			<Text>[ICON_GreatWork_Writing] Văn Học</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_MUSIC">
-			<Text>[ICON_GreatWork_Music] Music</Text>
+			<Text>[ICON_GreatWork_Music] Âm Nhạc</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_RELIC">
-			<Text>[ICON_GreatWork_Relic] Relic</Text>
+			<Text>[ICON_GreatWork_Relic] Di Tích</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_SCULPTURE_PLURAL">
-			<Text>[ICON_GreatWork_Sculpture] Sculptures</Text>
+			<Text>[ICON_GreatWork_Sculpture] Điêu Khắc</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_PORTRAIT_PLURAL">
-			<Text>[ICON_GreatWork_Portrait] Portraits</Text>
+			<Text>[ICON_GreatWork_Portrait] Chân Dung</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_LANDSCAPE_PLURAL">
-			<Text>[ICON_GreatWork_Landscape] Landscapes</Text>
+			<Text>[ICON_GreatWork_Landscape] Phong Cảnh</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_RELIGIOUS_PLURAL">
-			<Text>[ICON_GreatWork_Religious] Religious Relics</Text>
+			<Text>[ICON_GreatWork_Religious] Di Tích Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_ANCIENT_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Ancient Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Xa Xưa</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_CLASSICAL_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Classical Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Cổ Đại</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_MEDIEVAL_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Medieval Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Trung Cổ</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_RENAISSANCE_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Renaissance Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Phục Hưng</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_INDUSTRIAL_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Industrial Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Cổ Vật Công Nghiệp</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_WRITING_PLURAL">
-			<Text>[ICON_GreatWork_Writing] Writing</Text>
+			<Text>[ICON_GreatWork_Writing] Văn Học</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_MUSIC_PLURAL">
-			<Text>[ICON_GreatWork_Music] Music</Text>
+			<Text>[ICON_GreatWork_Music] Âm Nhạc</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORKOBJECT_RELIC_PLURAL">
-			<Text>[ICON_GreatWork_Relic] Relics</Text>
+			<Text>[ICON_GreatWork_Relic] Di Tích</Text>
 		</Row>
 		<!-- ==================== TradeRouteChooser ==================== -->
 		<Row Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
@@ -4424,7 +4424,7 @@
 			<Text>{1_City} nhận:</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_TO_DESTINATION">
-			<Text>{1_City} TO...</Text>
+			<Text>{1_City} TỚI...</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_FILTER_SHOWROUTES">
 			<Text>Hiển thị lộ trình</Text>
@@ -4436,102 +4436,102 @@
 			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_SELECT_DESTINATION">
-			<Text>Select a Trade Route Destination.</Text>
+			<Text>Chọn Đích của Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_NO_TRADE_ROUTES">
-			<Text>No Available Trade Route Destinations.</Text>
+			<Text>Không có Đích khả dụng của Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_ALL_ROUTES_BUSY">
-			<Text>All available Trade Routes are in use.</Text>
+			<Text>Tất cả Tuyến đường thương mại khả dụng đã được sử dụng.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_NO_BENEFITS_FROM_ROUTE">
 			<Text>Không có lợi ích từ tuyến đường.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_DISTRICTS">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from Districts in {4_CityName}.</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} từ Đặc Khu trong {4_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TRADING_POSTS">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from your [ICON_TradingPost] Trading Posts along the path.</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} từ [ICON_TradingPost] Điểm Thương Mại dọc theo tuyến đường.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_BONUSES">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from other bonuses.</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} từ thưởng khác.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} total</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} tổng</Text>
 		</Row>
 		<!-- ==================== DeclareWarPopup ==================== -->
 		<Row Tag="LOC_DECLARE_WAR_HEADER">
 			<Text>TUYÊN CHIẾN</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_ADVISOR_TEXT">
-			<Text>Before you declare war, you may wish to consider the consequences.</Text>
+			<Text>Trước khi bạn tuyên chiến, bạn có thể muốn xem xét các hậu quả.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
 			<Text>Hình phạt chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_WAR_TYPE">
-			<Text>War type: {1_WarType}</Text>
+			<Text>Loại chiến tranh: {1_WarType}</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
 			<Text>Hình phạt chiến tranh: {1_WarmongerLevel}</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_HEADING">
-			<Text>Defensive Pacts Triggered</Text>
+			<Text>Hiệp Ước Phòng Thủ đã được kích hoạt</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_NUM_DEFENSIVE_PACTS">
-			<Text>{1_NumPacts} defensive pact(s) will be triggered.</Text>
+			<Text>{1_NumPacts} Hiệp Ước Phòng Thủ sẽ được kích hoạt.
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_TOOLTIP">
-			<Text>Civilization that you will also go to war with:</Text>
+			<Text>Nền văn minh này chúng ta sẽ đi đến chiến tranh với:</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_CITY_STATE_HEADING">
-			<Text>City-State Effects</Text>
+			<Text>Ảnh hưởng thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_NUM_CITY_STATES">
-			<Text>{1_NumCS} city-state(s) will go to war against you.</Text>
+			<Text>{1_NumCS} thành phố tự trị sẽ đi đến chiến tranh với bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_CITY_STATES_TOOLTIP">
-			<Text>City-State Yields Lost:</Text>
+			<Text>Sản lượng thành phố tự trị mất:</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_TRADE_ROUTE_HEADING">
-			<Text>Trade Route Effects</Text>
+			<Text>Ảnh hưởng tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_MY_TRADE_ROUTES_LOST">
-			<Text>{1_NumTraders} outgoing trader(s) will be eliminated.</Text>
+			<Text>{1_NumTraders} thương nhân gửi đi sẽ bị loại bỏ.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_TRADE_ROUTES_TO_ME_LOST">
-			<Text>{1_NumRoutes} incoming trade route(s) will be lost.</Text>
+			<Text>{1_NumRoutes} tuyến đường thương mại đến sẽ bị mất.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_TRADE_ROUTE_TOOLTIP">
-			<Text>Trade Route Yields Lost:</Text>
+			<Text>Sản lượng tuyến đường thương mại mất:</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_DEALS_HEADING">
-			<Text>Deals Terminated</Text>
+			<Text>Chấm dứt thỏa thuận</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_NUM_DEALS_LOST">
-			<Text>{1_NumDeals} deals will be terminated.</Text>
+			<Text>{1_NumDeals} thỏa thuận sẽ bị chấm dứt.</Text>
 		</Row>
 		<Row Tag="LOC_DECLARE_WAR_DEALS_TOOLTIP">
-			<Text>Deals Lost:</Text>
+			<Text>Thỏa thuận mất:</Text>
 		</Row>
 		<!-- ==================== Victory Status Text ==================== -->
 		<Row Tag="LOC_VICTORYSTATUS_PANEL_HEADER">
-			<Text>Victory Status</Text>
+			<Text>Trạng Thái Chiến Thắng</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_CULTURE_PANEL_HEADER">
-			<Text>Culture Victory</Text>
+			<Text>Chiến Thắng Văn Minh</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_SCIENCE_PANEL_HEADER">
-			<Text>Science Victory</Text>
+			<Text>Chiến Thắng Khoa Học</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_DOMINATION_PANEL_HEADER">
-			<Text>Domination Victory</Text>
+			<Text>Chiến Thắng Thống Trị</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_RELIGION_PANEL_HEADER">
-			<Text>Religious Victory</Text>
+			<Text>Chiến Thắng Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_PERCENT_HEADER">
-			<Text>PERCENT OF WIN</Text>
+			<Text>% của chiến thắng</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_CULTURE_TOURISTS_NEEDED">
 			<Text>Du khách cần để chiến thắng văn minh: {1_Percent}</Text>
@@ -4540,10 +4540,10 @@
 			<Text>Du khách</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_CULTURE_LIFETIMECULTURE_HEADER">
-			<Text>LIFETIME CULTURE</Text>
+			<Text>DÒNG ĐỜI VĂN HÓA</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_CULTURE_STAYCATIONERS_HEADER">
-			<Text>STAYCATIONERS</Text>
+			<Text>DU LỊCH TRONG NƯỚC</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_CULTURE_TOURISM_HEADER">
 			<Text>DU KHÁCH</Text>
@@ -4552,29 +4552,29 @@
 			<Text>DU KHÁCH</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_SCIENCE_EARTH_SATELLITE_HEADER">
-			<Text>SATELLITE</Text>
+			<Text>VỆ TINH</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_SCIENCE_SPACEPORTS_HEADER">
-			<Text>SPACEPORTS</Text>
+			<Text>TRẠM KHÔNG GIAN</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_SCIENCE_MOON_LANDING_HEADER">
-			<Text>MOON</Text>
+			<Text>MẶT TRĂNG</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_SCIENCE_MARS_COLONY_HEADER">
-			<Text>MARS</Text>
+			<Text>SAO HỎA</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_RELIGION_NONE">
-			<Text>none</Text>
+			<Text>không</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_RELIGION_FOUNDED_HEADER">
-			<Text>RELIGION FOUNDED</Text>
+			<Text>SÁNG LẬP TÔN GIÁO</Text>
 		</Row>
 		<Row Tag="LOC_VICTORYSTATUS_RELIGION_PREDOMINANT_HEADER">
-			<Text>PREDOMINANT RELIGION</Text>
+			<Text>TÔN GIÁO CHIẾM ƯU THẾ</Text>
 		</Row>
 		<!-- Multiplayer Last Remaining Player Popup -->
 		<Row Tag="TXT_KEY_MP_LAST_PLAYER">
-			<Text>You are the last remaining human player in the game.</Text>
+			<Text>Bạn là người chơi cuối cùng còn lại trong game.</Text>
 		</Row>
 		<Row Tag="LOC_PARTIALSCREEN_CITYSTATES_TOOLTIP">
 			<Text>THÀNH PHỐ TỰ TRỊ</Text>
@@ -4598,7 +4598,7 @@
 			<Text>GIÁN ĐIỆP</Text>
 		</Row>
 		<Row Tag="LOC_HUD_TRADEROUTES_TOOLTIP">
-			<Text>Outgoing [ICON_TradeRoute] Tuyến đường thương mại (active / capacity)</Text>
+			<Text>Đi ra [ICON_TradeRoute] Tuyến đường thương mại (hoạt động / tổng)</Text>
 		</Row>
 		<Row Tag="LOC_HUD_TECHTREE_TOOLTIP">
 			<Text>CÂY CÔNG NGHỆ</Text>
@@ -4623,7 +4623,7 @@
 			<Text>BÁO CÁO</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_CITY_STATE_BONUS">
-			<Text>City State Bonus</Text>
+			<Text>Thưởng Thành Phố Tự Trị</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_COLLAPSE">
 			<Text>Thu nhỏ</Text>
@@ -4632,7 +4632,7 @@
 			<Text>Thu nhỏ tất cả</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_COLLAPSE_SECTION">
-			<Text>Collapse Section</Text>
+			<Text>Thu nhỏ mục</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_CONTROL">
 			<Text>Kiểm soát</Text>
@@ -4644,19 +4644,19 @@
 			<Text>Mở rộng tất cả</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_EXPAND_SECTION">
-			<Text>Expand Section</Text>
+			<Text>Mở rộng mục</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FROM_AMENITIES">
 			<Text>{1_amount} từ tiện nghi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FROM_MODIFIERS">
-			<Text>{1_amount} from modifiers</Text>
+			<Text>{1_amount} từ thay đổi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FROM_AMENITIES_MODIFIERS_TILE">
-			<Text>{1_amount} from amenities, modifiers, and tiles</Text>
+			<Text>{1_amount} từ tiện nghi, thay đổi, và các ô đất</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FROM_OTHER">
-			<Text>{1_amount} from other</Text>
+			<Text>{1_amount} từ các thứ khác</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FROM_POPULATION">
 			<Text>{1_amount} từ sản phẩm</Text>
@@ -4674,7 +4674,7 @@
 			<Text>Vàng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_FAITH">
-			<Text>Lòng tin</Text>
+			<Text>Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_SCIENCE">
 			<Text>Khoa học</Text>
@@ -4692,13 +4692,13 @@
 			<Text>Nền văn minh</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_DURATION">
-			<Text>Duration</Text>
+			<Text>Thời Gian</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_TAXES">
-			<Text>Taxes</Text>
+			<Text>Thuế</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_EXPENSES">
-			<Text>Expenses</Text>
+			<Text>Chi Phí</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_POPULATION">
 			<Text>Dân số</Text>
@@ -4734,7 +4734,7 @@
 			<Text>Bị bao vây</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_STATUS_RAZED">
-			<Text>Razed</Text>
+			<Text>San phẳng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_STATUS_NORMAL">
 			<Text>Bình thường</Text>
@@ -4752,16 +4752,16 @@
 			<Text>Xa xỉ và thưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURY_RESOURCES_AND_BONUSES">
-			<Text>Luxury Resources and bonuses</Text>
+			<Text>Tài nguyên quý và thưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_NEEDED">
-			<Text>{1_amount} / {2_max} needed.</Text>
+			<Text>{1_amount} / {2_max} cần thiết.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_NET_PER_TURN">
 			<Text>Lãi trên mỗi lượt:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_PER_TURN">
-			<Text>{1_Yield} Per Turn</Text>
+			<Text>{1_Yield} mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_ROW_BUILDING_EXPENSES">
 			<Text>Chi phí xây dựng</Text>
@@ -4773,10 +4773,10 @@
 			<Text>Ưu đãi ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_ROW_PROJECT_EXPENSES">
-			<Text>Project Expenses</Text>
+			<Text>Chi Phí Dự Án</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_ROW_UNIT_EXPENSES">
-			<Text>Unit Expenses</Text>
+			<Text>Chi Phí Đơn Vị</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_SOURCES">
 			<Text>Tào nguyên</Text>
@@ -4809,37 +4809,37 @@
 			<Text>Tổng:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE">
-			<Text>Trade</Text>
+			<Text>Thương Mại</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
-			<Text>Imported</Text>
+			<Text>Nhập Khẩu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_EXPORTED">
-			<Text>Exported</Text>
+			<Text>Xuất Khẩu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_OWNED">
-			<Text>Owned</Text>
+			<Text>Chủ</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_WITH">
-			<Text>Trade with {1_leader}</Text>
+			<Text>Giao dịch với {1_leader}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TREASURY">
 			<Text>Kho bạc:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TURNS">
-			<Text>{1_Turns : plural 1? turn; other? turns;}</Text>
+			<Text>{1_Turns : plural 1? lượt; other? lượt;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
 			<Text>Xem báo cáo</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_WORKED_LAND">
-			<Text>Worked Land</Text>
+			<Text>Đất làm việc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_WORKED_PLOTS">
-			<Text>Worked Plots</Text>
+			<Text>Các ô đất làm việc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_WORKED_TILES">
-			<Text>Worked Tiles</Text>
+			<Text>Các ô đất làm việc</Text>
 		</Row>
 		<!-- Player Yields ToolTips -->
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_ANARCHY">
@@ -4852,7 +4852,7 @@
 			<Text>{Value : number +#.#;-#.#} từ {1_CityName}</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_BELIEFS">
-			<Text>{Value : number +#.#;-#.#} from tín ngưỡng</Text>
+			<Text>{Value : number +#.#;-#.#} từ tín ngưỡng</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_TOKENS">
 			<Text>{Value : number +#.#;-#.#} từ [ICON_Envoy] Phái đoàn</Text>
@@ -4927,10 +4927,10 @@
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
-			<Text>{Value : number -#.#;+#.#} từ Kiến trúc</Text>
+			<Text>{Value : number -#.#;+#.#} từ Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDING">
-			<Text>{Value : number -#.#;+#.#} từ {1_BuildingName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?building; other?buildings;})</Text>
+			<Text>{Value : number -#.#;+#.#} từ {1_BuildingName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?Kiến Trúc; other?Kiến Trúc;})</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_CITIES">
 			<Text>{Value : number -#.#;+#.#} từ thành phố</Text>
@@ -4942,22 +4942,22 @@
 			<Text>{Value : number -#.#;+#.#} từ Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_DISTRICT">
-			<Text>{Value : number -#.#;+#.#} từ {1_DistrictName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?district; other?districts;})</Text>
+			<Text>{Value : number -#.#;+#.#} từ {1_DistrictName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?Đặc Khu; other?Đặc Khu;})</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_UNITS">
 			<Text>{Value : number -#.#;+#.#} từ đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_UNIT">
-			<Text>{Value : number -#.#;+#.#} từ {1_UnitName}  (({2_Maintenance} [ICON_Gold] - {3_Discount} [ICON_Gold]) * {4_Count} {4_Count : plural 1?unit; other?units;})</Text>
+			<Text>{Value : number -#.#;+#.#} từ {1_UnitName}  (({2_Maintenance} [ICON_Gold] - {3_Discount} [ICON_Gold]) * {4_Count} {4_Count : plural 1?đơn vị; other?đơn vị;})</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_WMDS">
-			<Text>{Value : number -#.#;+#.#} từ vũ khí hạt nhân</Text>
+			<Text>{Value : number -#.#;+#.#} từ vũ khí hủy diệt hàng loạt</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_WMD">
 			<Text>{Value : number -#.#;+#.#} từ {1_WMDName}.</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_ANARCHY">
-			<Text>Không có Lòng tin do hỗn loạn.</Text>
+			<Text>Không có Đức Tin do hỗn loạn.</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_CITIES">
 			<Text>{Value : number +#.#;-#.#} từ thành phố</Text>
@@ -4994,61 +4994,61 @@
 			<Text>{Value : number +#.#;-#.#} từ {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_NUM_DISTRICTS_TOOLTIP">
-			<Text>{Value: number + #.#;-#.# } from having {1_Num : plural 1?{1} district; other?{1} districts;}.</Text>
+			<Text>{Value: number + #.#;-#.# } do có {1_Num : plural 1?{1} Đặc Khu; other?{1} Đặc Khu;}.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_HAPPINESS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Amenities</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ Tiện Nghi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_OCCUPATION_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Occupation</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ Chiếm Đóng</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_MODIFIERS_FROM_GAMEEFFECTS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Modifiers</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ ảnh hưởng thay đổi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_GAMEEFFECTS_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Modifiers</Text>
+			<Text>{Value : number +#.#;-#.#} từ ảnh hưởng thay đổi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_MODIFIER_GAMEEFFECTS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Modifiers</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ ảnh hưởng thay đổi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_UNIT_PRODUCTION_BONUS">
-			<Text>{Value : number +#.#;-#.#} towards units</Text>
+			<Text>{Value : number +#.#;-#.#} đối với các đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_BUILDING_PRODUCTION_BONUS">
-			<Text>{Value : number +#.#;-#.#} towards buildings</Text>
+			<Text>{Value : number +#.#;-#.#} đối với các Kiến Trúc</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_DISTRICT_PRODUCTION_BONUS">
-			<Text>{Value : number +#.#;-#.#} towards districts</Text>
+			<Text>{Value : number +#.#;-#.#} đối với các Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_GREATWORKS_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from GreatWorks</Text>
+			<Text>{Value : number +#.#;-#.#} từ các Thành Tựu Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_RELIGIOUS_BUILDINGS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Religious Building Yield</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ sản lượng kiến trúc tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_RELIGIOUS_FOLLOWERS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from having {1} Religious Followers</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ việc có {1} Tín Đồ Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_PASSING_TRADE_ROUTES_TOOLTIP">
-			<Text>{Value : number +#.##;-#.##} from Foreign Routes Passing Through</Text>
+			<Text>{Value : number +#.##;-#.##} từ tuyến đường nước ngoài băng qua</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_INCOMING_TRADE_ROUTES_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Incoming Trade Routes</Text>
+			<Text>{Value : number +#.#;-#.#} từ tuyến đường thương mại đến</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_OUTGOING_TRADE_ROUTES_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Outgoing Trade Routes</Text>
+			<Text>{Value : number +#.#;-#.#} từ tuyến đường thương mại đi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_DISTRICTS_SUMMARY_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Districts</Text>
+			<Text>{Value : number +#.#;-#.#} từ các Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_POPULATION_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Population</Text>
+			<Text>{Value : number +#.#;-#.#} từ Dân Số</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_TILES_SUMMARY_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Worked Tiles</Text>
+			<Text>{Value : number +#.#;-#.#} từ các ô đất làm việc</Text>
 		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_PROJECT_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from {1_ProjectName}</Text>
+			<Text>{Value : number +#.#;-#.#} từ {1_ProjectName}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_TRADE_UI_SELECT_TEXT">
 			<Text>Chọn những thứ trong kho của bạn để đề xuất giao dịch.</Text>
@@ -5057,31 +5057,31 @@
 			<Text>Chọn những thứ trong kho của họ để đề xuất giao dịch.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ANOTHER_DEAL_WITH_PLAYER_PENDING">
-			<Text>Another deal with this player is pending.</Text>
+			<Text>Thỏa thuận khác với người chơi này đang chờ.</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_WORKED_TEXT">
 			<Text>[NEWLINE]Làm việc bởi {1_Citizens} [ICON_Citizen] {1_Citizens : plural 1?Dân cư; other?Dân cư;}.</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_CONTAMINATED_TEXT">
-			<Text>[COLOR:Civ6Red]CONTAMINATED: {1_Fallout} turns[ENDCOLOR]</Text>
+			<Text>[COLOR:Civ6Red]Ô NHIỄM: {1_Fallout} lượt[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_BUILDINGS_TEXT">
 			<Text>Kiến trúc: </Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_PILLAGED_TEXT">
-			<Text>(Pillaged)</Text>
+			<Text>(Đã cướp)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_ADJACENCY_TEXT">
-			<Text>(Adjacency Bonus)</Text>
+			<Text>(Thưởng liền kề)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_IMPASSABLE_TEXT">
-			<Text>Impassable</Text>
+			<Text>Không thể đi qua</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_CONSTRUCTION_TEXT">
-			<Text>(Under Construction)</Text>
+			<Text>(Đang Xây Dựng)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_WONDER_TEXT">
-			<Text>Wonder:[NEWLINE]</Text>
+			<Text>Kỳ Quan:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_WOODS_OLD_GROWTH">
 			<Text>(old-growth)</Text>
@@ -5090,7 +5090,7 @@
 			<Text>(second-growth)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
-			<Text>Press the desired keyboard or mouse button you wish to bind.  To cancel, click the Cancel button or press Escape.  To clear the binding, click the Clear button.</Text>
+			<Text>Nhấn phím hoặc chuột để gán chắc năng bạn mong muốn. Để hủy, click Hủy hoặc nhấn ESC. Để xóa bỏ gán phím, click nút Loại Bỏ.</Text>
 		</Row>
 		<Row Tag="LOC_WORLDTRACKER_ENABLE_TEXT">
 			<Text>Hiện hoặc ẩn Theo Dõi Thế Giới.</Text>
@@ -5099,16 +5099,16 @@
 			<Text>Bật/tắt Theo Dõi Thế Giới</Text>
 		</Row>
 		<Row Tag="LOC_PRODUCTION_HIDE_DESCRIPTION">
-			<Text>There is no content to display. Uncheck &quot;Hide Unavailable Items&quot; to see the list.</Text>
+			<Text>Không có nội dung hiển thị ở đây. Bỏ chọn &quot;Ẩn Item Không Khả Dụng&quot; để thấy danh sách.</Text>
 		</Row>
 		<Row Tag="LOC_PRODUCTION_HIDE_NAME">
-			<Text>Hide Unavailable Items</Text>
+			<Text>Ẩn Item Không Khả Dụng</Text>
 		</Row>
 		<Row Tag="LOC_PRODUCTION_PURCHASE_GOLD_TEXT">
 			<Text>{1_Turns} [ICON_Gold] Vàng</Text>
 		</Row>
 		<Row Tag="LOC_PRODUCTION_PURCHASE_FAITH_TEXT">
-			<Text>{1_Turns} [ICON_Faith] Lòng tin</Text>
+			<Text>{1_Turns} [ICON_Faith] Đức Tin</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_DRAG_POLICY_TEXT">
 			<Text>Kéo và thả chính sách vào đây.</Text>
@@ -5117,10 +5117,10 @@
 			<Text>Bật bảng chính sách</Text>
 		</Row>
 		<Row Tag="LOC_DEFEAT_DEFAULT_NAME">
-			<Text>Defeat</Text>
+			<Text>Thua cuộc</Text>
 		</Row>
 		<Row Tag="LOC_DEFEAT_DEFAULT_TEXT">
-			<Text>You have been defeated.</Text>
+			<Text>Bạn đã thua cuộc.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_TEXT">
 			<Text>From our humble beginnings ages ago have you forged a civilization that has withstood time itself. Though countless civilizations rise and fall around us, we do not just survive. We prosper.</Text>
@@ -5138,7 +5138,7 @@
 			<Text>There are those who quibble whether power necessitates the will to use it. Whether violence begets only more violence. These questions are irrelevant. You, Great Leader, made it so.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DEFAULT_TEXT">
-			<Text>Everyone else has lost... Therefore you've won!</Text>
+			<Text>Mọi người khác đều đã thua... Vì vậy bạn đã chiến thắng!</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_LEGACY_TOOLTIP">
 			<Text>Legacy bonuses are based on how long a government was active within your empire. When you switch to a new government, the Legacy bonus earned from the previous government remains with your civilization.</Text>
@@ -5148,65 +5148,65 @@
 			<Text>{1_Title}[NEWLINE][NEWLINE]{2_TourismInfo}</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_TITLE">
-			<Text>{1_Title:upper}[NEWLINE][NEWLINE]Visiting Tourists: {2_TouristCount}</Text>
+			<Text>{1_Title:upper}[NEWLINE][NEWLINE]Du khách đang ghé thăm: {2_TouristCount}</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_WONDER_TOOLTIP">
-			<Text>Travelers from near and far are coming to see this wonder.[NEWLINE]</Text>
+			<Text>Du khách gần xa đang đến để xem Kỳ Quan này.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_DISTRICT_TOOLTIP">
-			<Text>Tourists are arriving to see the sights in this district.[NEWLINE]</Text>
+			<Text>Du khách đang đế để xem điểm tham quan trong Đặc Khu này.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_HOLY_CITY_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Holy City for the religion of {2_ReligionName} provides +{3_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Thành Phố Thấn Thánh của {2_ReligionName} cung cấp +{3_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Tourism added by Great People: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Du khách được thêm bởi Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Tourism from Great Works in {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Du khách từ Thành Tựu Vĩ Đại trong {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_WONDER_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Tourism added by this Wonder: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Du khách thêm bởi Kỳ Quan này: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_ERA_TOOLTIP">
 			<Text>{1_TourismInfo}[NEWLINE]+{2_Percent}% [ICON_Tourism] Du lịch against civs who reached the {3_Era}:[NEWLINE]{4_CivList}[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_NO_CIVS_ELIGIBLE">
-			<Text>No civilizations this advanced.</Text>
+			<Text>Các nền văn minh này không tiến bộ.</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_PARK_TOOLTIP">
-			<Text>Visitors are making their way to the National Park to enjoy its natural beauty.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>Du khách đến Công Viên Quốc Gia để thưởng thức vẻ đẹp tự nhiên của nó.[NEWLINE]Tạo ra +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_IMPROVEMENT_CULTURE_TOOLTIP">
-			<Text>Travelers are arriving from afar to see your civilization's unique structures.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>Du khách từ xa đến để xem các kiến trúc độc đáo của nền văn minh.[NEWLINE]Tạo ra +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_IMPROVEMENT_APPEAL_TOOLTIP">
-			<Text>Vacationers are relaxing along the shore at your Seaside Resort.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>Du khách được thư giãn dọc theo bãi biễn từ Khu nghỉ dưỡng ven biển của bạn.[NEWLINE]Tạo ra +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_IMPROVEMENT_OTHER_TOOLTIP">
-			<Text>Tourists are arriving to see your nation's fascinating improvements.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>Du khách đang đến để xem các công trình hấp dẫn của quốc gia bạn.[NEWLINE]Tạo ra +{1_CurrentTourists} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_INFO_TOOLTIP">
-			<Text>{1_TourismInfo}[NEWLINE]Lifetime Accumulation: {2_LifetimeCount} [ICON_Tourism] Du lịch</Text>
+			<Text>{1_TourismInfo}[NEWLINE]Số du khách tích lũy được đến giờ:: {2_LifetimeCount} [ICON_Tourism] Du lịch</Text>
 		</Row>
 		<!-- Launch WMD/ICBM confirm dialogs -->
 		<Row Tag="LOC_LAUNCH_ICBM_DIALOG_ARE_YOU_SURE">
-			<Text>Commence launch sequence?</Text>
+			<Text>Bắt đầu quá trình phóng?</Text>
 		</Row>
 		<Row Tag="LOC_LAUNCH_ICBM_DIALOG_LAUNCH">
-			<Text>Fire!</Text>
+			<Text>Phóng!</Text>
 		</Row>
 		<Row Tag="LOC_LAUNCH_ICBM_DIALOG_CANCEL">
-			<Text>Stand down</Text>
+			<Text>Bình tĩnh</Text>
 		</Row>
 		<Row Tag="LOC_LAUNCH_WMD_DIALOG_ARE_YOU_SURE">
-			<Text>Commence bombing mission?</Text>
+			<Text>Bắt đầu tấn công?</Text>
 		</Row>
 		<Row Tag="LOC_LAUNCH_WMD_DIALOG_LAUNCH">
-			<Text>Proceed!</Text>
+			<Text>Tấn công!</Text>
 		</Row>
 		<Row Tag="LOC_LAUNCH_WMD_DIALOG_CANCEL">
-			<Text>Stand down</Text>
+			<Text>Bình tĩnh</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

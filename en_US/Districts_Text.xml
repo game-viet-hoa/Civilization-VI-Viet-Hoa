@@ -15,7 +15,7 @@
 			<Text>Một khu trong thành phố để tôn thờ.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề: Thưởng nhiều [ICON_Faith] Lòng tin cho kỳ quan thiên nhiên liền kề. Thưởng [ICON_Faith] Lòng tin cho mỗi Núi liền kề. Thưởng ít [ICON_Faith] Lòng tin cho mỗi Đặc Khu lân cận và Rừng chưa cải tạo.</Text>
+			<Text>Liền kề: Thưởng nhiều [ICON_Faith] Đức Tin cho kỳ quan thiên nhiên liền kề. Thưởng [ICON_Faith] Đức Tin cho mỗi Núi liền kề. Thưởng ít [ICON_Faith] Đức Tin cho mỗi Đặc Khu lân cận và Rừng chưa cải tạo.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
 			<Text>Một Đặc Khu trong thành phố cho quân sự.</Text>
@@ -36,13 +36,13 @@
 			<Text>Liền kề: Thưởng [ICON_Gold] Vàng cho mỗi tài nguyên biển liền kề. Thưởng ít [ICON_Gold] Vàng cho Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NEIGHBORHOOD_DESCRIPTION">
-			<Text>Đặc Khu trong thành phố cung cấp Nhà ở dựa trên tâm trạng ô đất:[NEWLINE]Ngây ngất: +6 [ICON_Housing] Nhà ở.[NEWLINE]Đẹp: +5 [ICON_Housing] Nhà ở.[NEWLINE]Trung bình: +4 [ICON_Housing] Nhà ở.[NEWLINE]Không hấp dẫn: +3 [ICON_Housing] Nhà ở.[NEWLINE]Ghê tởm: +2 [ICON_Housing] Nhà ở.</Text>
+			<Text>Đặc Khu trong thành phố cung cấp Nhà ở dựa trên Sức Hấp Dẫn ô đất:[NEWLINE]Ngây ngất: +6 [ICON_Housing] Nhà ở.[NEWLINE]Đẹp: +5 [ICON_Housing] Nhà ở.[NEWLINE]Trung bình: +4 [ICON_Housing] Nhà ở.[NEWLINE]Không hấp dẫn: +3 [ICON_Housing] Nhà ở.[NEWLINE]Ghê tởm: +2 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
 			<Text>Một khu công nghiệp trong thành phố của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề:  Thưởng [ICON_Production] Sản phẩm cho mỗi Đào Tài Nguyên hoặc Mỏ Đá liền kề. Thưởng ít [ICON_Production] Sản phẩm cho mỗi Đặc Khu liền kề.</Text>
+			<Text>Liền kề:  Thưởng [ICON_Production] Sản phẩm cho mỗi Mỏ hoặc Mỏ Đá liền kề. Thưởng ít [ICON_Production] Sản phẩm cho mỗi Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
 			<Text>Đặc Khu trong thành phố phục vụ thương mại.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại</Text>
@@ -117,7 +117,7 @@
 			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_CULTURE">
 			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
@@ -132,43 +132,43 @@
 			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?kỳ quan thiên nhiên; other?kỳ quan thiên nhiên;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?kỳ quan thiên nhiên; other?kỳ quan thiên nhiên;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH1">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH2">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH3">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH4">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH5">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Rừng; other?Rừng;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ Đặc Khu liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ Đặc Khu liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_TUNDRA_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Đài nguyên; other?Đài nguyên;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Đài nguyên; other?Đài nguyên;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DESERT_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Sa mạc; other?Sa mạc;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Sa mạc; other?Sa mạc;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Lòng tin từ {1_Num : plural 1?Rừng; other?Rừng;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_RIVER_GOLD">
 			<Text>+{1_num} [ICON_Gold] Vàng từ sông liền kề.</Text>
@@ -204,7 +204,7 @@
 			<Text>+{1_num} [ICON_Culture] Văn minh từ thành phố trung tâm liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MINE_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Đào Tài Nguyên; other?Đào Tài Nguyên;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Mỏ; other?Mỏ;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
 			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?mỏ đá; other?mỏ đá;}.</Text>

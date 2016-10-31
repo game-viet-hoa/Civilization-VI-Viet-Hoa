@@ -8,91 +8,91 @@
 		
 		<!-- String needed for MY2K but not (yet) provided by the server system... -->
 		<Row Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
-			<Text>Sign up for my2K</Text>
+			<Text>Đăng ký my2K</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
-		  <Text>To sign up for my2K, please enter a valid email address in the field below. A verification email will be sent to this address for sign-up confirmation.</Text>
+		  <Text>Để đăng ký my2K, làm ơn nhập địa chỉ email hợp lệ vào ô bên dưới. Một Email xác thực sẽ được gửi đến địa chỉ này để hoàn tất việc xác nhận.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
-			<Text>Logout</Text>
+			<Text>Đăng xuất</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
-			<Text>Do you wish to log out?</Text>
+			<Text>Bạn có muốn đăng xuất?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_YES">
-			<Text>Yes</Text>
+			<Text>Có</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_NO">
-			<Text>No</Text>
+			<Text>Không</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
-		  <Text>Login</Text>
+		  <Text>Đăng nhập</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_OK">
 		  <Text>OK</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
-		  <Text>Cancel</Text>
+		  <Text>Hủy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_READ">
-		  <Text>Read</Text>
+		  <Text>Đọc</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
-		  <Text>Create New User</Text>
+		  <Text>Tạo Người Dùng Mới</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
-		  <Text>Sign-Up</Text>
+		  <Text>Đăng Ký</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
 		  <Text>Connection Issue</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
-		  <Text>A connection to Civilization VI could not be established. Civilization VI features may not be accessible.</Text>
+		  <Text>Một kết nối tới Civilization VI không được thiết lập. Các tính năng của Civilization VI sẽ không thể sử dụng được.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MOTD">
-		  <Text>Incoming Transmission</Text>
+		  <Text>Truyền đến</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
-			<Text>Welcome Back!</Text>
+			<Text>Chào mừng trở lại!</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
-			<Text>Signed in.</Text>
+			<Text>Đã đăng nhập.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
-			<Text>Silent Login Notification</Text>
+			<Text>Thông báo đăng nhập im lặng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
-			<Text>You need to manually log into my2K.</Text>
+			<Text>Bạn cần đăng nhập thủ công vào m2K.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
-			<Text>Connection Restored</Text>
+			<Text>Kết nối được khôi phục</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
-			<Text>Link to Existing Account</Text>
+			<Text>Liên kết tới tài khoàn đang tồn tại</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
-			<Text>Platform account is already linked to a My2K account.</Text>
+			<Text>Tài khoản gốc đã được liên kết tới tài khoản My2K.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
-			<Text>Unable to link platform account to My2K account.</Text>
+			<Text>Không thể liên kết tài khoản gốc tới tài khoản My2K.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
-			<Text>Unlink Account</Text>
+			<Text>Hủy liên kết tài khoản</Text>
 		</Row>
     <Row Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
       <Text>Liên kết tài khoản</Text>
     </Row>
 		<Row Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
-			<Text>Are you sure you want to unlink my2k? You can manage your account or review the legal and privacy policies online at www.2k.com.</Text>
+			<Text>Bạn có chắc muốn hủy liên kết my2k? Bạn có thể quản lý tài khoản hoặc xem xét các chính sách riêng tư và phát luật tại www.2k.com.</Text>
 		</Row>
     <Row Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
       <Text>Offline</Text>
     </Row>
     <Row Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
-      <Text>Linked - Online</Text>
+      <Text>Đã liên kết - Online</Text>
     </Row>
     <Row Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
-      <Text>Linked - Offline</Text>
+      <Text>Đã liên kết - Offline</Text>
     </Row>
 
   </FrontEndText>

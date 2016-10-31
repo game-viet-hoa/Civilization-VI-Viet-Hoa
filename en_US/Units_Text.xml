@@ -46,7 +46,7 @@
 			<Text>Tông đồng tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
-			<Text>Điều Tra Giáo</Text>
+			<Text>Thẩm Giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
 			<Text>Hỗ trợ</Text>
@@ -132,7 +132,7 @@
 			<Text>Có thể thực hiện nhiệm vụ bí ở nước ngoài và bảo vệ thành phố mình khỏi Gián điệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
-			<Text>Cuối game có thể tạo duy nhất một Công viên quốc gia để thu hút [ICON_Tourism] Du lịch. Phải mua bằng [ICON_Faith] Lòng tin.</Text>
+			<Text>Cuối game có thể tạo duy nhất một Công viên quốc gia để thu hút [ICON_Tourism] Du lịch. Phải mua bằng [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<!-- Great People-->
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
@@ -368,7 +368,7 @@
 			<Text>Đơn vị trung cổ dặc biệt của Trung Hoa. Tầm đánh 1 [ICON_Range] và sức mạnh cao.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Điều tra tôn giáo, hoặc Thiên chúa khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt Kẻ chinh phục thành ưu thế tôn giáo.</Text>
+			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Thẩm Giáo, hoặc Tông Đồ khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt Kẻ chinh phục thành ưu thế tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
 			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>
