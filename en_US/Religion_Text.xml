@@ -229,28 +229,28 @@
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
 		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
-			<Text>Khu Thành Phố Thánh +1 [ICON_Faith] Đức Tin từ địa hình Đài nguyên gần kề.</Text>
+			<Text>Khu linh thiêng +1 [ICON_Faith] Đức Tin từ Đài nguyên gần kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
-			<Text>Khu Thành Phố Thánh +1 [ICON_Faith] Đức Tin từ địa hình Sa mạc gần kề.</Text>
+			<Text>Khu linh thiêng +1 [ICON_Faith] Đức Tin từ địa hình Sa mạc gần kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
-			<Text>Khu Thành Phố Thánh +1 [ICON_Faith] Đức Tin từ địa hình Rừng nhiệt đới gần kề.</Text>
+			<Text>Khu linh thiêng +1 [ICON_Faith] Đức Tin từ địa hình Rừng nhiệt đới gần kề.</Text>
 		</Row>
 		<!--Pantheon - Amenity Bonuses-->
 		<Row Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Tiện nghi nếu Thành Phố Thánh gần kề một dòng sông.</Text>
+			<Text>+1 [ICON_Amenities] Tiện nghi cho các thành phố nếu Khu linh thiêng gần kề một dòng sông.</Text>
 		</Row>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
-			<Text>+15% [ICON_Production] Sản phẩm kỳ quan thời Xa xưa và Cổ đại.</Text>
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan thời Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
-			<Text>+1 Vĩ nhân từ Thành Phố Thánh (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
+			<Text>+1 điểm Vĩ nhân từ Khu linh thiêng (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
 		</Row>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
-			<Text>+1 [ICON_Production] Sản phẩm từ from Đầm lầy, Ốc đảo, và Vùng lũ.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm từ from Đầm lầy, Ốc đảo và Vùng lũ.</Text>
 		</Row>
 		<!--Pantheon - Local Resource Bonuses-->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
@@ -266,26 +266,26 @@
 			<Text>+2 [ICON_Faith] Đức Tin từ Mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Đức Tin từ đào tài nguyên quý và thưởng.</Text>
+			<Text>+1 [ICON_Faith] Đức Tin từ Mỏ tài nguyên quý và thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
-			<Text>+1 [ICON_Production] Sản phẩm từ đào tài nguyên chiến thuật.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm từ Mỏ tài nguyên chiến thuật.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Thực phẩm từ Vườn ươm [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Trầm Hương, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê, và [ICON_RESOURCE_TEA] Trà.</Text>
+			<Text>+1 [ICON_Food] Thực phẩm từ Vườn ươm [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Trầm Hương, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê và [ICON_RESOURCE_TEA] Trà.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Văn minh từ Vườn ươm [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị, and [ICON_RESOURCE_SUGAR] Đường.</Text>
+			<Text>+1 [ICON_Culture] Văn minh từ Vườn ươm [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị và [ICON_RESOURCE_SUGAR] Đường.</Text>
 		</Row>
 		<!--Pantheon - Military -->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
-			<Text>+25% [ICON_Production] Sản phẩm đơn vị quân sự thời Xa xưa và Cổ đại.</Text>
+			<Text>+25% [ICON_Production] Sản phẩm đối với đơn vị quân sự thời Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
-			<Text>+30 chữa trị trong Thành Phố Thánh hoặc bất kỳ ô đất liền kề.</Text>
+			<Text>+30 chữa trị trong Khu linh thiêng hoặc bất kỳ ô đất liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Thưởng [ICON_Faith] Đức Tin bằng 50% sức mạnh kẻ địch bị giết trong bán kính 8 ô của Đặc Khu Thành Phố Thánh.</Text>
+			<Text>Thưởng [ICON_Faith] Đức Tin bằng 50% sức mạnh kẻ địch bị giết trong vòng 8 ô của Khu linh thiêng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
 			<Text>+50 [ICON_Faith] Đức Tin mỗi khi tiền đồn quân man di bị xóa bỏ.</Text>
@@ -298,7 +298,7 @@
 			<Text>Tỉ lệ mở rộng biên giới cao hơn 15%.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
-			<Text>Thu hoặc một tài nguyên hoạc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Đức Tin bằng với số sản lượng khác.</Text>
+			<Text>Thu hoặc một tài nguyên hoặc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Đức Tin bằng với số sản lượng khác.</Text>
 		</Row>
 		<!--2. WORSHIP BELIEFS-->
 		<Row Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
@@ -311,7 +311,7 @@
 			<Text>Cho phép xây dựng Nhà thờ (+3 [ICON_Faith] Đức Tin, +2 [ICON_Production] Sản phẩm).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
-			<Text>Cho phép xây dựng Nhà thờ Hồi giáo (+3 [ICON_Faith] Đức Tin). Truyền giáo và các môn đồ +1 lan rộng.</Text>
+			<Text>Cho phép xây dựng Nhà thờ Hồi giáo (+3 [ICON_Faith] Đức Tin). Các Nhà truyền giáo và Tông đồ +1 Truyền Đạo.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
 			<Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Đức Tin, +1 [ICON_Housing] Nhà ở).</Text>
@@ -333,7 +333,7 @@
 			<Text>Có thể mua Khu tri thức và Khu nghệ thuật bằng [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
-			<Text>[ICON_GreatWork_Relic] Di tích được x3 cho cả hai [ICON_Faith] Đức Tin và [ICON_Tourism] Du lịch.</Text>
+			<Text>[ICON_GreatWork_Relic] Di tích được x3 sản lượng cho cả hai [ICON_Faith] Đức Tin và [ICON_Tourism] Du lịch.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Mỗi Miếu và Đền thờ cung cấp +1 [ICON_Housing] Nhà ở.</Text>
@@ -349,7 +349,7 @@
 			<Text>+2 [ICON_Gold] Vàng cho mỗi thành phố theo đạo tôn giáo này.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
-			<Text>Mỗi Thành Phố Thánh hoặc khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
+			<Text>Mỗi Khu linh thiêng hoặc Khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
 			<Text>Thưởng các loại từ thành phố tự trị theo đạo tôn giáo của bạn hơn 50%.</Text>
@@ -371,26 +371,26 @@
 			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở trong biên giới thành phố thân thiện mà có theo đạo tôn giáo này.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
-			<Text>Mua Nhà truyền giáo vào các tông đồ rẻ hơn 30%.</Text>
+			<Text>Mua Các Nhà truyền giáo và Tông đồ rẻ hơn 30%.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
-			<Text>Tôn giáo lan tới các thành phố với hơn 30%.</Text>
+			<Text>Truyền Đạo Tôn giáo tới các thành phố đi xa hơn 30%.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
 			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở gần thành phố nước ngoài có theo đạo tôn giáo này.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
-			<Text>Dơn vị tôn giáo bỏ qua điểm phạt [ICON_Movement] Di chuyển trên các địa hình.</Text>
+			<Text>Đơn vị tôn giáo bỏ qua điểm phạt [ICON_Movement] Di chuyển trên các địa hình.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
 			<Text>Áp lực tôn giáo không bao giờ giảm do thua trong trận chiến thần học.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
-			<Text>Tôn giáo lan từ các thành phố lân cận mạnh hơn 25%. Thúc đẩy 50% thúc đẩy công nghệ In ấn.</Text>
+			<Text>Truyền đạo Tôn giáo từ các thành phố lân cận mạnh hơn 25%. Thúc đẩy 50% thúc đẩy công nghệ In ấn.</Text>
 		</Row>
 		<!--BELIEF COMBAT BONUSES-->
 		<Row Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
-			<Text>+{1_Value} Phòng thủ của Niềm tin tín ngường</Text>
+			<Text>+{1_Value} Phòng thủ của Niềm tin tín ngưỡng</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
 			<Text>+{1_Value} Chiến dịch Tín ngưỡng</Text>

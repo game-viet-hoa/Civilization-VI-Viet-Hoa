@@ -8,28 +8,28 @@
 			<Text>Đồng minh</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DEMAND">
-			<Text>Chúng tôi đã thực hiện một yêu cầu của họ</Text>
+			<Text>Chúng ta đã thực hiện một yêu cầu của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_JOINT_WAR">
-			<Text>Chúng ta đã chiến đấu với nhau</Text>
+			<Text>Chúng ta chiến đấu chung với nhau trong một cuộc chiến.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
-			<Text>Chúng tôi đã Cải Giáo thành phố</Text>
+			<Text>Chúng ta đã Cải Giáo thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED">
-			<Text>Chúng tôi chiếm một trong những thành phố của họ</Text>
+			<Text>Chúng ta chiếm một trong những thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED_FRIEND">
-			<Text>Chúng tôi chiếm một trong những thành phố hữu nghị hoặc đồng minh với họ</Text>
+			<Text>Chúng ta chiếm một trong những thành phố hữu nghị hoặc đồng minh với họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_CITY">
-			<Text>Chúng tôi giải phóng một thành phố</Text>
+			<Text>Chúng ta giải phóng một thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_MY_CITY">
-			<Text>Chúng tôi giải phóng một trong những thành phố của họ</Text>
+			<Text>Chúng ta giải phóng một trong những thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_RAZED_MY_CITY">
-			<Text>Chúng tôi san bằng một trong những thành phố của họ</Text>
+			<Text>Chúng ta san bằng một trong những thành phố của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_FRIEND">
 			<Text>Tuyên bố chiến tranh bất ngờ với một người bạn</Text>
@@ -47,7 +47,7 @@
 			<Text>Tuyên bố chiến tranh bất ngờ với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_ENEMY">
-			<Text>Lăng mạ kẻ thù</Text>
+			<Text>Lăng mạ kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_ENEMY">
 			<Text>Tuyên bố tình hữu nghị với kẻ địch</Text>
@@ -56,7 +56,7 @@
 			<Text>Tuyên bố đồng minh với kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIEND">
-			<Text>Tuyên bố tính hữu nghị</Text>
+			<Text>Tuyên bố bạn bè</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT">
 			<Text>Hiệp ước phòng thủ</Text>
@@ -65,122 +65,122 @@
 			<Text>Gửi tới họ một phái đoàn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED">
-			<Text>Chúng tôi lăng mạ họ</Text>
+			<Text>Chúng ta lăng mạ họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_HAD_FRIENDLY_MEETING">
 			<Text>Gặp mặt tình hữu nghị</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_NEAR_BORDER_WARNING">
-			<Text>Chúng tôi có quân gần biên giới của họ</Text>
+			<Text>Chúng ta có quân đội trên biên giới của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SETTLED_NEAR_BORDER_WARNING">
-			<Text>Dân di cư của chúng tôi gần biên giới của họ</Text>
+			<Text>Dân di cư của chúng ta gần biên giới của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_RELIGION">
-			<Text>Họ đang theo tôn giáo của chúng tôi</Text>
+			<Text>Họ đang theo tôn giáo của chúng ta</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_STOP_SPYING_ON_ME_WARNING">
-			<Text>Chúng ta bị bát khi đang gián điệp họ</Text>
+			<Text>Chúng ta bị bắt khi đang gián điệp họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_STOP_DIGGING_UP_ARTIFACTS_WARNING">
-			<Text>Chúng tôi đã bị bắt khi đào cổ vật trong lãnh thổ của họ</Text>
+			<Text>Chúng ta đã bị bắt khi đào cổ vật trong lãnh thổ của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PROMISE">
-			<Text>Chúng tôi phá vỡ một lời hứa ngoại giao</Text>
+			<Text>Chúng ta phá vỡ một lời hứa ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PROMISE">
-			<Text>Chúng tôi thực hiện lời hứa ngoại giao</Text>
+			<Text>Chúng ta thực hiện lời hứa ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_NO_PROMISE">
-			<Text>Chúng tôi quyết định không làm một ngoại giao với họ</Text>
+			<Text>Chúng ta từ chối thực hiện lời hứa ngoại giao với họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
 			<Text>Tự do đi lại</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
-			<Text>Chúng tôi thành lập đại sứ quán thường trú</Text>
+			<Text>Chúng ta thành lập đại sứ quán thường trú</Text>
 		</Row>
 		<!-- Historical agenda modifiers -->
 		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
-			<Text>Gilgamesh likes Declared Friends</Text>
+			<Text>Gilgamesh thích tuyên bố bạn bè</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
-			<Text>Gilgamesh hates it when you denounce his friends</Text>
+			<Text>Gilgamesh ghét khi bạn lăng mạ bạn của ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
-			<Text>Tomyris likes Declared Friend</Text>
+			<Text>Tomyris thích tuyên bố bạn bè</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_SURPRISE_WAR">
-			<Text>Tomyris dislikes people who declare surprise wars</Text>
+			<Text>Tomyris ghét những ai tuyên bố chiến tranh bất ngờ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LAGGING">
-			<Text>Pedro is pleased with your lack of great people</Text>
+			<Text>Pedro hài lòng khi biết bạn đang thiếu thốn Vĩ Nhân</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LEADING">
-			<Text>Pedro is upset that you have more great people than him</Text>
+			<Text>Pedro buồn vì bạn có có nhiều Vĩ Nhân hơn ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LAGGING">
-			<Text>Peter is disappointed you have little science and culture</Text>
+			<Text>Peter thất vọng vì bạn có nền khoa học và văn hóa lạc hậu</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LEADING">
-			<Text>Peter is pleased with your Science and Culture</Text>
+			<Text>Peter hài lòng với nền khoa học và văn hóa của bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT">
-			<Text>Gorgo wants to see you fight or knows you paid for peace</Text>
+			<Text>Gorgo muốn thấy bạn chiến đấu hoặc cống nạp để đổi lấy hòa bình</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED">
-			<Text>Gorgo wants to see you fight</Text>
+			<Text>Gorgo muốn thấy bạn chiến đấu</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE">
-			<Text>Gorgo knows you paid for peace</Text>
+			<Text>Gorgo biết rằng bạn sẽ cống nạp để đổi lấy hòa bình</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING">
-			<Text>Qin is pleased with your lack of wonders</Text>
+			<Text>Qin có vẻ hài lòng vì bạn thiếu các kì quan</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
-			<Text>Qin is upset that you have more wonders than him</Text>
+			<Text>Qin buồn vì bạn có nhiều kì quan hơn ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_NOT_WARMONGER">
-			<Text>Gandhi is pleased that you have been keeping the peace</Text>
+			<Text>Gandhi hài lòng vì bạn đã giữ hòa bình</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_WARMONGER">
-			<Text>Gandhi is upset with your warmongering</Text>
+			<Text>Gandhi không vui vì hành động gây chiến của bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_SAME">
-			<Text>Philip is happy you share a religion</Text>
+			<Text>Philip vui mừng khi bạn chia sẻ tín ngưỡng</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_ENCROACHING">
-			<Text>Philip is furious your religion is present in his empire</Text>
+			<Text>Philip rất tức giận khi thấy tín ngưỡng của ta trong đế chế của ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DELIAN_NOT_COMPETING">
-			<Text>Pericles is happy you are not competing over city states</Text>
+			<Text>Pericles hài lòng vì bạn không tranh giành thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DELIAN_COMPETING">
-			<Text>Pericles is angry you are recruiting his city states</Text>
+			<Text>Pericles tức giận vì bạn đang dụ dỗ các thành phố tự trị của ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DISCIPLE_RECEIVED">
-			<Text>Mvemba is delighted you brought your religion to him</Text>
+			<Text>Mvemba vui mừng vì bạn đã truyền bá tín ngưỡng của bạn cho ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
-			<Text>Mvemba is disappointed your religion is not in his lands</Text>
+			<Text>Mvemba thất vọng vì tín ngưỡng của bạn không được truyền bá trên khu vực của ông ấy</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
-			<Text>Barbarossa is pleased you are staying away from city states</Text>
+			<Text>Barbarossa hài lòng vì bạn không động đến thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
-			<Text>Barbarossa is angered that you have been controlling city states</Text>
+			<Text>Barbarossa tức giận vì bạn đang điều khiển thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">
-			<Text>Victoria is pleased you share the same home continent</Text>
+			<Text>Victoria hài lòng vì bạn chia sẻ lục địa này</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SUN_SETS_NEW_CONTINENT">
-			<Text>Victoria wants to expand to a continent you occupy</Text>
+			<Text>Victoria muốn xâm lấn vào lục địa của bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_ATTACKED">
-			<Text>Teddy hates attacks on civs based on his continent</Text>
+			<Text>Teddy không thích những cuộc tấn công vào người dân vùng đất của hắn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_PEACEFUL">
-			<Text>Teddy likes peaceful civs on his continent</Text>
+			<Text>Teddy muốn người dân của hắn được hòa bình</Text>
 		</Row>
 		<!-- Random agendas -->
 		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LAGGING">

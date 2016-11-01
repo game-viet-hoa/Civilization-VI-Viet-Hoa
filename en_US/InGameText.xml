@@ -1273,7 +1273,7 @@
 			<Text>Đặc Khu này đã được hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_UNASSIGNED_CITIZENS">
-			<Text>Unassigned Citizens</Text>
+			<Text>Trục xuất công dân</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_VIEW_DISTRICT_ADJACENT_BONUSES">
 			<Text>Xem sản lượng Đặc Khu liền kề.</Text>
@@ -1877,7 +1877,7 @@
 			<Text>Gián Điệp đã ăn cắp công nghệ bí mật từ Khu Tri Thức của nước ngoài.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_RESEARCH_AGREEMENT">
-			<Text>Thỏa thuận hiệp ước của ngài đã đưa ra một đột phá khoa học.</Text>
+			<Text>Hiệp ước nghiên cứu của ngài đã đưa ra một đột phá khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>Nghiên cứu {1_techString} vừa hoàn tất!</Text>
@@ -2178,7 +2178,7 @@
 			<Text>Đặc biệt</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_GOVERNMENT">
-			<Text>Chính quyền</Text>
+			<Text>Chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_HERITAGE_BONUSES">
 			<Text>Phần thưởng kế thừa</Text>
@@ -3201,7 +3201,7 @@
 			<Text>Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_GOVERNMENT_HEADER">
-			<Text>CHÍNH QUYỀN</Text>
+			<Text>CHÍNH PHỦ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_RELATION_HEADER">
 			<Text>TRẠNG THÁI MỐI QUAN HỆ</Text>
@@ -4836,7 +4836,7 @@
 			<Text>Đất làm việc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_WORKED_PLOTS">
-			<Text>Các ô đất làm việc</Text>
+			<Text>Các vị trí làm việcc</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_WORKED_TILES">
 			<Text>Các ô đất làm việc</Text>
@@ -5084,10 +5084,10 @@
 			<Text>Kỳ Quan:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_WOODS_OLD_GROWTH">
-			<Text>(old-growth)</Text>
+			<Text>(Rừng nguyên sinh)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_WOODS_SECONDARY">
-			<Text>(second-growth)</Text>
+			<Text>(Rừng cải tạo)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
 			<Text>Nhấn phím hoặc chuột để gán chắc năng bạn mong muốn. Để hủy, click Hủy hoặc nhấn ESC. Để xóa bỏ gán phím, click nút Loại Bỏ.</Text>

@@ -6,16 +6,16 @@
 			<Text>Đây là thành phố trung tâm.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION">
-			<Text>Một khu tri thức.</Text>
+			<Text>Một đặc khu trong thành phố cho các nỗ lực khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề: Thưởng 1 [ICON_Science] Khoa học cho mỗi Núi liền kề. Thưởng ít [ICON_Science] Khoa học cho ô đất và rừng nhiệt đới liền kề.</Text>
+			<Text>Liền kề: Thưởng 1 [ICON_Science] Khoa học cho mỗi Núi liền kề. Thưởng ít [ICON_Science] Khoa học cho Đặc khu và rừng nhiệt đới liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION">
 			<Text>Một khu trong thành phố để tôn thờ.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề: Thưởng nhiều [ICON_Faith] Đức Tin cho kỳ quan thiên nhiên liền kề. Thưởng [ICON_Faith] Đức Tin cho mỗi Núi liền kề. Thưởng ít [ICON_Faith] Đức Tin cho mỗi Đặc Khu lân cận và Rừng chưa cải tạo.</Text>
+			<Text>Liền kề: Thưởng nhiều [ICON_Faith] Đức Tin cho kỳ quan thiên nhiên liền kề. Thưởng [ICON_Faith] Đức Tin cho mỗi Núi liền kề. Thưởng ít [ICON_Faith] Đức Tin cho mỗi Đặc Khu và Rừng không cải tạo liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
 			<Text>Một Đặc Khu trong thành phố cho quân sự.</Text>
@@ -27,10 +27,10 @@
 			<Text>Một Đặc Khu nghệ thuật.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề:  Thưởng [ICON_Culture] Văn minh cho mỗi kỳ quan liền kề. Thưởng ít [ICON_Culture] Văn minh cho mỗi Đặc Khu liền kề.</Text>
+			<Text>Liền kề: Thưởng [ICON_Culture] Văn minh cho mỗi kỳ quan liền kề. Thưởng ít [ICON_Culture] Văn minh cho mỗi Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
-			<Text>Một Đặc Khu cho hoạt động biển. Loại bỏ điểm phạt [ICON_Movement] Di chuyển đi lại từ ô đất này. Phải xây trên bờ biển hoăc hồ gần đất.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại Thủ Đô</Text>
+			<Text>Một Đặc Khu cho hoạt động biển. Loại bỏ điểm phạt [ICON_Movement] Di chuyển lên tàu và xuống tàu từ ô đất này. Phải xây trên bờ biển hoặc hồ gần kề đất.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề: Thưởng [ICON_Gold] Vàng cho mỗi tài nguyên biển liền kề. Thưởng ít [ICON_Gold] Vàng cho Đặc Khu liền kề.</Text>
@@ -39,7 +39,7 @@
 			<Text>Đặc Khu trong thành phố cung cấp Nhà ở dựa trên Sức Hấp Dẫn ô đất:[NEWLINE]Ngây ngất: +6 [ICON_Housing] Nhà ở.[NEWLINE]Đẹp: +5 [ICON_Housing] Nhà ở.[NEWLINE]Trung bình: +4 [ICON_Housing] Nhà ở.[NEWLINE]Không hấp dẫn: +3 [ICON_Housing] Nhà ở.[NEWLINE]Ghê tởm: +2 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
-			<Text>Một khu công nghiệp trong thành phố của bạn.</Text>
+			<Text>Một đặc khu trong thành phố dành cho hoạt động công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề:  Thưởng [ICON_Production] Sản phẩm cho mỗi Mỏ hoặc Mỏ Đá liền kề. Thưởng ít [ICON_Production] Sản phẩm cho mỗi Đặc Khu liền kề.</Text>
@@ -48,13 +48,13 @@
 			<Text>Đặc Khu trong thành phố phục vụ thương mại.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề:  Thưởng nhiều [ICON_Gold] Vàng cho mỗi khu hải cảng liền kề, hoặc ô đất có chứa sông. Thưởng ít [ICON_Gold] Vàng cho mỗi Đặc Khu liền kề.</Text>
+			<Text>Liền kề: Thưởng nhiều [ICON_Gold] Vàng cho mỗi khu hải cảng liền kề, hoặc ô đất có chứa sông. Thưởng ít [ICON_Gold] Vàng cho mỗi Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
-			<Text>Đặc Khu này cung cấp nước sạch từ Sông, Hồ, Ốc đảo và Núi liền kề. Các thành phố chưa có nước sạch sẽ có 6 [ICON_Housing] Nhà ở. Các thành phố đã có nước sạch sẽ có +2 [ICON_Housing] Nhà ở. Phải xây gần thành phố trung tâm.</Text>
+			<Text>Đặc Khu này cung cấp nước sạch từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước sạch sẽ có 6 [ICON_Housing] Nhà ở. Các thành phố đã có nước sạch sẽ có +2 [ICON_Housing] Nhà ở. Phải xây gần thành phố trung tâm.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
-			<Text>Một Đặc Khu cho phép xây dựng máy bay. Không thể xây trên đồi.</Text>
+			<Text>Một Đặc Khu cho phép xây dựng và chứa máy bay. Không thể xây trên đồi.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION">
 			<Text>Là Đặc Khu yêu cầu để xây dựng dự án Chiến thắng Khoa Học. Bao gồm Phóng vệ tinh từ trái đất, Đáp xuống mặt trăng, Nhà ở trên sao Hỏa, Thực vật trên sao Hỏa, và Lò phản ứng trên sao Hỏa. Không thể xây trên đồi.</Text>
@@ -63,10 +63,10 @@
 			<Text>Đặc Khu đặc biệt của Hy Lạp. Thay thế khu nghệ thuật.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
-			<Text>Liền kề:  Thưởng [ICON_Culture] Văn minh cho thành phố trung tâm. Thưởng [ICON_Culture] Văn minh cho mỗi kỳ quan và Đặc Khu liền kề. Chỉ có thể xây trên đồi.</Text>
+			<Text>Liền kề: Thưởng [ICON_Culture] Văn minh cho thành phố trung tâm liền kề. Thưởng [ICON_Culture] Văn minh cho mỗi kỳ quan và Đặc Khu liền kề. Chỉ có thể xây trên đồi.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BATH_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của La Mã. Thay thế Khu thủy lợi.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nước sạch từ Sông, Hồ, Ốc đảo, hoặc Núi liền kề. Các thành phố chưa có nước sạch sẽ có 6 [ICON_Housing] Nhà ở. Các thành phố đã có nước sạch sẽ có +2 [ICON_Housing] Nhà ở. Phải xây cạnh thành phố trung tâm. Trong cả hai trường hợp, Nhà tắm La Mã đều thưởng thêm +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Đặc Khu đặc biệt của La Mã cho phát triển thành phố. Thay thế Khu thủy lợi.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nước sạch từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước sạch sẽ có 6 [ICON_Housing] Nhà ở. Các thành phố đã có nước sạch sẽ có +2 [ICON_Housing] Nhà ở. Phải xây cạnh thành phố trung tâm. Trong cả hai trường hợp, Nhà tắm La Mã đều thưởng thêm +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
 			<Text>Đặc Khu đặc biệt của Đức cho hoạt động công nghiệp. Thay thế khu công nghiệp.</Text>
@@ -81,10 +81,10 @@
 			<Text>Đặc Khu đặc biệt của Kongo chỉ có thể xây ở Rừng nhiệt đới hoặc Rừng. Thay thế Vùng ngoại ô nhưng có sớm hơn. +5 [ICON_Housing] Nhà ở , +2 [ICON_Food] Thực phẩm, và +4 [ICON_Gold] Vàng, regardless of Appeal.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Brazil. Thay thế khu giải trí, và +2 [ICON_Amenities] Tiện nghi. Cũng mở hóa dự án Lễ hội, cho phép +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loại điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành.</Text>
+			<Text>Đặc Khu đặc biệt của Brazil. Thay thế khu giải trí, và +2 [ICON_Amenities] Tiện nghi. Cũng mở hóa dự án Lễ hội Carnival, cho phép +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loại điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Anh cho hoạt động hải quân. Thay thế Khu hải cảng. Loại bỏ điểm phạt [ICON_Movement] Di chuyển khi đi lại từ ô này. Phải xây trên bờ biển hoặc đất gần hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân được xây dựng ở xưởng[NEWLINE]+2 [ICON_Gold] Vàng khi xây trên lục địa khác[NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại</Text>
+			<Text>Đặc Khu đặc biệt của Anh cho hoạt động hải quân. Thay thế Khu hải cảng. Loại bỏ điểm phạt [ICON_Movement] Di chuyển khi lên tàu và xuống tàu từ ô này. Phải xây trên bờ biển hoặc đất gần hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân được xây dựng ở xưởng[NEWLINE]+2 [ICON_Gold] Vàng khi xây trên lục địa khác[NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề:  Thưởng [ICON_Gold] Vàng cho mỗi tài nguyên biển liền kề. Thưởng ít [ICON_Gold] Vàng cho Đặc Khu liền kề.</Text>
@@ -126,10 +126,10 @@
 			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
 			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?kỳ quan thiên nhiên; other?kỳ quan thiên nhiên;} liền kề.</Text>
@@ -150,7 +150,7 @@
 			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
 			<Text>+{1_num} [ICON_Faith] Đức Tin từ Đặc Khu liền kề.</Text>
@@ -168,7 +168,7 @@
 			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_RIVER_GOLD">
 			<Text>+{1_num} [ICON_Gold] Vàng từ sông liền kề.</Text>
@@ -180,10 +180,10 @@
 			<Text>+{1_num} [ICON_Gold] Vàng từ Xưởng đóng tàu hải quân Hoàng gia liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_GOLD">
-			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
-			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
 			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?tài nguyên biển; other?tài nguyên biển;} liền kề.</Text>
@@ -192,28 +192,28 @@
 			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Kỳ quan; other?Kỳ quan;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
-			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn minh từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
 			<Text>+{1_num} [ICON_Culture] Văn minh từ thành phố trung tâm liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MINE_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Mỏ; other?Mỏ;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Mỏ; other?Mỏ;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?mỏ đá; other?mỏ đá;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?mỏ đá; other?mỏ đá;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?Đặc Khu; other?Đặc Khu;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
 			<Text>+{1_num} [ICON_Production] Sản phẩm từ trung tâm thương lại liền kề.</Text>
@@ -222,19 +222,19 @@
 			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?tài nguyên; other?tài nguyên;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
-			<Text>[COLOR_RED]Công trình sẽ được gỡ bỏ khi xây Đặc Khu. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Công trình sẽ được gỡ bỏ khi xây Đặc Khu.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_FEATURE_TECH">
-			<Text>[COLOR_RED]Cần {1_TechName} để loại bỏ {2_FeatureName} cho việc xây Đặc Khu ở đây. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Cần {1_TechName} để loại bỏ {2_FeatureName} cho việc xây Đặc Khu ở đây.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_OK_REMOVE_FEATURE">
-			<Text>[COLOR_RED]Đặt Đặc Khu ở đây sẽ loại bỏ {1_FeatureName}. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Đặt Đặc Khu ở đây sẽ loại bỏ {1_FeatureName}.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_HARVEST_TECH">
-			<Text>[COLOR_RED]Cần {1_TechName} để loại bỏ tài nguyên {2_ResourceName} cho việc xây Đặc Khu ở đây. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Cần {1_TechName} để loại bỏ tài nguyên {2_ResourceName} cho việc xây Đặc Khu ở đây.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_OK_HARVEST_RESOURCE">
-			<Text>[COLOR_RED]Đặt Đặc Khu ở đây sẽ loại bỏ tài nguyên {1_ResourceName}. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Đặt Đặc Khu ở đây sẽ loại bỏ tài nguyên {1_ResourceName}.[ENDCOLOR]</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

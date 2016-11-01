@@ -4,7 +4,7 @@
 	<BaseGameText>
 		<!-- Promotion Class Names -->
 		<Row Tag="LOC_PROMOTION_CLASS_RECON_NAME">
-			<Text>Dò đường</Text>
+			<Text>Trinh sát</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
 			<Text>Cận chiến</Text>
@@ -13,7 +13,7 @@
 			<Text>Đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
-			<Text>Pháo binh</Text>
+			<Text>Công thành</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
 			<Text>Chống Kỵ binh</Text>
@@ -43,7 +43,7 @@
 			<Text>Hải tặc</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
-			<Text>Tông đồng tôn giáo</Text>
+			<Text>Tông đồ tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
 			<Text>Thẩm Giáo</Text>
@@ -86,7 +86,7 @@
 			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
-			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*THĂNG CHỨC*[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*HUÂN CHƯƠNG*[ENDCOLOR]</Text>
 		</Row>
 		<!-- Production Yield Message -->
 		<Row Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
@@ -108,7 +108,7 @@
 		</Row>
 		<!-- Civilian-->
 		<Row Tag="LOC_UNIT_SETTLER_DESCRIPTION">
-			<Text>Có thể tạo thành phố mới. Mỗi thành phố mới sẽ cho 1 [ICON_Citizen] Dân số.</Text>
+			<Text>Có thể tạo thành phố mới. Mỗi thành phố mới sẽ cho 1 [ICON_Citizen] Dân số khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BUILDER_DESCRIPTION">
 			<Text>Có thể xây công trình, cải tạo đất như phá Rừng hoặc Rừng nhiệt đới. Chỉ sử dụng được 3 lần. Có thể tăng số lần thông qua chính sách hoặc hoặc kỳ quan như Kim tự pháp.</Text>
@@ -120,26 +120,26 @@
 			<Text>Có thể đổi tôn giáo của [ICON_Citizen] Dân cư. Không thể tạo chiến tranh thần thánh hoặc với đơn vị có tôn giáo khác (nhưng có thể phòng thủ).</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
-			<Text>Có thể đổi tôn giáo của [ICON_Citizen] Dân cư và chiến đấu với đơn vị có tôn giáo khác.</Text>
+			<Text>Có thể đổi tôn giáo của [ICON_Citizen] Dân cư và chiến đấu thần học với đơn vị có tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
-			<Text>Có thể loại bỏ tôn giáo khác bên trong lãnh thổ mình, và có thể tạo chiến tránh với tôn giáo khác.</Text>
+			<Text>Có thể loại bỏ tôn giáo khác bên trong lãnh thổ họ, và chiến đấu thần học với đơn vị có tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
 			<Text>Tìm và khai quật [ICON_GreatWork_Artifact] Cổ vật từ [ICON_RESOURCE_ANTIQUITY_SITE] Khu di tích cổ để trưng bày trong Bảo tàng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPY_DESCRIPTION">
-			<Text>Có thể thực hiện nhiệm vụ bí ở nước ngoài và bảo vệ thành phố mình khỏi Gián điệp.</Text>
+			<Text>Có thể thực hiện nhiệm vụ bí ở nước ngoài và bảo vệ thành phố của bạn khỏi Gián điệp địch.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
-			<Text>Cuối game có thể tạo duy nhất một Công viên quốc gia để thu hút [ICON_Tourism] Du lịch. Phải mua bằng [ICON_Faith] Đức Tin.</Text>
+			<Text>Người cuối game có thể tạo một Công viên quốc gia để thu hút [ICON_Tourism] Du lịch. Phải mua bằng [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<!-- Great People-->
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
-			<Text>Mỗi [ICON_GreatGeneral] Đại Tướng Quân có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
+			<Text>Mỗi [ICON_GreatGeneral] Đại Tướng Quân có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và tạo ra ảnh hưởng khi "Về hưu".</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
-			<Text>Mỗi [ICON_GreatAdmiral] Đại Đô Đốc có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và sức ảnh hưởng.</Text>
+			<Text>Mỗi [ICON_GreatAdmiral] Đại Đô Đốc có thuộc tính đặc biệt, bao gồm hiệu ứng nội tại và tạo ra ảnh hưởng khi "Về hưu".</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
 			<Text>Mỗi [ICON_GreatEngineer] Kỹ sư vĩ đại có thuộc tính đặc biệt khi được kích hoạt.</Text>
@@ -171,13 +171,13 @@
 		</Row>
 		<!-- Melee-->
 		<Row Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
-			<Text>Quân cận chiến thời cổ đại.</Text>
+			<Text>Quân cận chiến thời Xa xưa.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
 			<Text>Đơn vị cận chiến thời Xa xưa có hiệu quả khi chống lại đơn vị có gắn kết.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
-			<Text>Đơn vị cận chiến mạnh mẽ thời Cổ điện.</Text>
+			<Text>Đơn vị cận chiến mạnh mẽ thời Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
 			<Text>Đơn vị cận chiến mạnh mẽ thời Trung cổ có hiệu quả khi chống lại đơn vị có gắn kết.</Text>
@@ -199,10 +199,10 @@
 		</Row>
 		<!-- Ranged-->
 		<Row Tag="LOC_UNIT_SLINGER_DESCRIPTION">
-			<Text>Đơn vị đánh xa yếu thời Cổ đại. Tấn công tốt hơn phòng thủ.</Text>
+			<Text>Đơn vị đánh xa yếu thời Xa xưa. Tấn công tốt hơn phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHER_DESCRIPTION">
-			<Text>Đơn vị đánh xa đầu tiên thời Cổ đại với tầm đánh 2 [ICON_Range].</Text>
+			<Text>Đơn vị đánh xa đầu tiên thời Xa xưa với tầm đánh 2 [ICON_Range].</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
 			<Text>Đơn vị đánh xa thời Trung cổ.</Text>
@@ -215,30 +215,30 @@
 		</Row>
 		<!-- Light Cavalry-->
 		<Row Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
-			<Text>Kỵ binh hạng nhẹ di chuyển danh thời Cổ đại.</Text>
+			<Text>Kỵ binh hạng nhẹ di chuyển nhanh thời Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
-			<Text>Kỵ binh hạng nhẹ di chuyển danh thời Công nghiệp.</Text>
+			<Text>Kỵ binh hạng nhẹ di chuyển nhanh thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
-			<Text>Kỵ binh hạng nhẹ di chuyển danh thời Nguyên tử.</Text>
+			<Text>Kỵ binh hạng nhẹ di chuyển nhanh thời Nguyên tử.</Text>
 		</Row>
 		<!-- Siege-->
 		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
-			<Text>Đơn vị Máy Bắn Đá thời Cổ đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Máy Bắn Đá thời Cổ đại, lý tưởng để tấn công các thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi có được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
-			<Text>Đơn vị Đại Pháo thời Phục hưng, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Đại Pháo thời Phục hưng, lý tưởng để tấn công các thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi có được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
-			<Text>Đơn vị tên lửa thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Đại bác thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
-			<Text>Đơn vị tên lửa thời Thông tin, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Tên lửa hạng nhẹ thời Thông tin, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi có được huân chương Expert Crew.</Text>
 		</Row>
 		<!-- Support-->
 		<Row Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
-			<Text>Đơn vị hỗ trợ thời Cổ đại. Khi tiếp cận thành phố, tấn công để gây thiệt hại cho tường thành.</Text>
+			<Text>Đơn vị hỗ trợ thời Xa xưa. Khi tiếp cận thành phố, tấn công để gây thiệt hại cho tường thành.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
 			<Text>Đơn vị hỗ trợ thời Cổ đại. Khi tiếp cận thành phố, đơn vị sẽ bỏ qua tường thành và đánh luôn thành phố.</Text>
@@ -247,16 +247,16 @@
 			<Text>Đơn vị hỗ trợ thời Công nghiệp. Có thể chữa lành các đơn vị lân cận.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
-			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị Đại Pháo liền kề.</Text>
+			<Text>Đơn vị hỗ trợ thời Hiện đại. Thêm +1 [ICON_Range] Tầm đánh cho đơn vị pháo liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
-			<Text>Đơn vị hỗ trợ thời Trung cổ. Yêu cầu Kho vũ khí đển sản xuất. Có thể xây Đường, Pháo đài, và Đường băng.</Text>
+			<Text>Đơn vị hỗ trợ thời Trung cổ. Yêu cầu Kho vũ khí để sản xuất. Có thể xây Đường, Pháo đài, và Đường băng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
-			<Text>Đơn vị phòng không thời Nguyên tử. Cho phép tấn công trên trời với 1 ô từ vũ khí.</Text>
+			<Text>Đơn vị phòng không thời Nguyên tử. Cho phép tấn công trên trời lên tới 1 ô từ vũ khí.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
-			<Text>Đơn vị phòng không thời Thông tin. Cung cấp tấn công trên trời và hạt nhân với 1 ô từ vũ khí.</Text>
+			<Text>Đơn vị phòng không thời Thông tin. Cho phép tấn công trên trời và hạt nhân lên tới 1 ô từ vũ khí.</Text>
 		</Row>
 		<!-- Heavy Cavalry -->
 		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
@@ -269,29 +269,29 @@
 			<Text>Đơn vị kỵ binh hạng nặng thời Thông tin nhanh và mạnh.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TANK_DESCRIPTION">
-			<Text>Đơn vị kỵ binh hạng nặng nhanh mà không bỏ qua kiểm soát khu vực.</Text>
+			<Text>Đơn vị kỵ binh hạng nặng nhanh mà vẫn bỏ qua kiểm soát khu vực.</Text>
 		</Row>
 		<!--Naval-->
 		<Row Tag="LOC_UNIT_GALLEY_DESCRIPTION">
-			<Text>Đơn vị hải quân cận chiến thời xa xưa. Chỉ có thể hoạt động trên bờ biền đến khi Vẽ bản đồ được nghiên cứu.</Text>
+			<Text>Đơn vị hải quân cận chiến thời xa xưa. Chỉ có thể hoạt động trên bờ biển đến khi Vẽ bản đồ được nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
-			<Text>Đơn vị hải quân cận chiến thời cổ đại. Chỉ có thể hoạt động trên bờ biền đến khi Vẽ bản đồ được nghiên cứu.</Text>
+			<Text>Đơn vị hải quân cận chiến thời cổ đại. Chỉ có thể hoạt động trên bờ biển đến khi Vẽ bản đồ được nghiên cứu.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
-			<Text>Đơn vị hải quân thám hiểm nhanh cận chiến thời Phục hưng.</Text>
+			<Text>Đơn vị hải quân cận chiến thám hiểm nhanh thời Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
 			<Text>Đơn vị hải quân cận chiến bọc thép mạnh mẽ thời Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
-			<Text>Đơn vị tàu ngầm tiên tiến có thể được trang bị vũ khí hạt nhân thời thông tin. Không thể phát hiện khi cách xa hơn 1 ô.</Text>
+			<Text>Đơn vị tàu ngầm tiên tiến có thể được trang bị vũ khí hạt nhân thời thông tin. Không thể phát hiện nếu cách xa hơn 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
-			<Text>Đơn vị tàu ngầm thời Hiện đại. Không thể phát hiện khi cách xa hơn 1 ô.</Text>
+			<Text>Đơn vị tàu ngầm thời Hiện đại. Không thể phát hiện nếu cách xa hơn 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
-			<Text>Dơn vị hải quân đánh xa với khả năng tấn công bờ biển thời Phục hưng. Không thể phát hiện khi cách xa hơn 1 ô.</Text>
+			<Text>Đơn vị hải quân đánh xa với khả năng tấn công bờ biển thời Phục hưng. Không thể phát hiện nếu cách xa hơn 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
 			<Text>Dơn vị hải quân đánh xa thời Phục hưng.</Text>
@@ -338,7 +338,7 @@
 			<Text>Tiễn mã Ai Cập thời xa xưa thay thế cho Chiến xa hạng nặng. 4 [ICON_Movement] Di chuyển khi bắt đầu trên đại hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
-			<Text>Lính xiên Greek thời xa xưa thay thế cho Lính giáo. +10 [ICON_Strength] Sức mạnh khi có ít nhất một Lính xiên liền kề.</Text>
+			<Text>Lính xiên Hy Lạp thời xa xưa thay thế cho Lính giáo. +10 [ICON_Strength] Sức mạnh khi có ít nhất một Lính xiên liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
 			<Text>Tiễn mã Saka là đơn vị đặc biệt thời cổ đại. 4 [ICON_Movement] Di chuyển và tầm đánh 1 [ICON_Range].</Text>
@@ -347,10 +347,10 @@
 			<Text>Chiến xa Summer là đơn vị đặc biệt thời xa xưa. Mạnh hơn tất cả đơn vị cùng cấp khác. Không bị phạt khi gặp chống kỵ binh. 4 [ICON_Movement] Di chuyển nếu bắt đầu ở địa hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
-			<Text>Lính áo đỏ Anh được Victoria lĩnh đạo thời công nghiệp. +10 [ICON_Strength] Sức mạnh khi chiến đấu ở lục địa khác lục địa có Thủ Đô. Không chi phí đón trả.</Text>
+			<Text>Lính áo đỏ Anh được Victoria lĩnh đạo thời công nghiệp. +10 [ICON_Strength] Sức mạnh khi chiến đấu ở lục địa khác lục địa có Thủ Đô. Không chi phí xuống tàu.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
-			<Text>Kị binh tình nguyện được Teddy Roosevelt lãnh đạo thời Hiện đại. Kiếm được [ICON_Culture] Văn minh từ việc giết kẻ địch đến lục địa chứa [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi đấu trên đồi. Phí duy trì thấp.</Text>
+			<Text>Kị binh tình nguyện được Teddy Roosevelt lãnh đạo thời Hiện đại. Kiếm được [ICON_Culture] Văn minh từ việc giết kẻ địch trên lục địa chứa [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi đấu trên đồi. Phí duy trì thấp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
 			<Text>Lính Lê Dương La Mã là đơn vị cận chiến đặc biệt thời Cổ đại thay thế Kiếm sĩ. Có thể xây Pháo đài La Mã.</Text>
@@ -362,13 +362,13 @@
 			<Text>Đơn vị đặc biệt thời Trung cổ của Na Uy. 4 [ICON_Movement] Di chuyển nếu bắt đầu trong lãnh thổ địch. +7 [ICON_Strength] Sức mạnh khi tấn công và -7 [ICON_Strength] Sức mạnh khi phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
-			<Text>Đơn vị hải quân thời xa xưa của Na Uy thay thế Thuyền buồm. Có thể cướp bóc ven biển địch và bắt cóc dân. 4 [ICON_Movement] Di chuyển khi trong vòng bờ biển.</Text>
+			<Text>Đơn vị hải quân thời xa xưa của Na Uy thay thế Thuyền buồm. Có thể cướp bóc ven biển địch và bắt cóc dân. 4 [ICON_Movement] Di chuyển khi trong vùng bờ biển.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
-			<Text>Đơn vị trung cổ dặc biệt của Trung Hoa. Tầm đánh 1 [ICON_Range] và sức mạnh cao.</Text>
+			<Text>Đơn vị Trung cổ đặc biệt của Trung Hoa. Tầm đánh 1 [ICON_Range] và sức mạnh cao.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Thẩm Giáo, hoặc Tông Đồ khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt Kẻ chinh phục thành ưu thế tôn giáo.</Text>
+			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Thẩm Giáo, hoặc Tông Đồ khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt tôn giáo của Kẻ chinh phục thành tôn giáo chiếm ưu thế.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
 			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>
@@ -383,7 +383,7 @@
 			<Text>Đơn vị thời trung cổ thay thế Hiệp sĩ của Ả Rập. Hồi sức ở cuối mỗi lượt, kể cả sau khi di chuyển hoặc tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
-			<Text>Hải quân thời phục hưng thay thế Thuyền chiến tư nhân của Anh. Cả thế bắt tàu địch. Không thể nhìn thấy trừ khi đứng liền kề.</Text>
+			<Text>Hải quân thời phục hưng thay thế Tàu cướp biển của Anh. Cả thế bắt tàu địch. Không thể nhìn thấy trừ khi đứng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
 			<Text>Đơn vị cận chiến thời công nghiệp của Pháp. +10 [ICON_Strength] Sức mạnh khi chiến đấu trong lục địa chứa Thủ Đô. Điểm [ICON_GreatGeneral] Đại Tướng Quân cho việc giết kẻ dịch.</Text>

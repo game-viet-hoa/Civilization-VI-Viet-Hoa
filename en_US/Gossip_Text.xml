@@ -45,7 +45,7 @@
 			<Text>Các thành phố đã thành lập</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_FOUND_RELIGION">
-			<Text>Tôn giáo đãn sáng lập</Text>
+			<Text>Tôn giáo đã sáng lập</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
 			<Text>Vĩ nhân đã chiêu mộ</Text>
@@ -54,7 +54,7 @@
 			<Text>Tuyên bố chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_POLICY_ENACTED">
-			<Text>Tiết lộ chương trình nghị sự bí ẩn</Text>
+			<Text>Tiết lộ chương trình nghị ẩn</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_RESEARCH_TECH">
 			<Text>Công nghệ đã nghiên cứu</Text>
@@ -63,7 +63,7 @@
 			<Text>Thỏa thuận thương mại</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_TRADE_RENEGE">
-			<Text>Thỏa thuận thương mại thất hứa</Text>
+			<Text>Thất hứa thỏa thuận thương mại</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_TRAIN_SETTLER">
 			<Text>Dân di cư đã đào tạo</Text>
@@ -108,7 +108,7 @@
 			<Text>{1_CivName} đang đối mặt với cuộc xâm lược man rợ tại {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_BARBARIAN_RAID_STARTED">
-			<Text>{1_CivName} đang đối mặt với cuộc xâm lược man rợ tại {2_CityName}.</Text>
+			<Text>{1_CivName} đang đối mặt với cuộc đột kích man rợ tại {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
 			<Text>{1_CivName} nghe nói rằng tắm nắng ở Khu nghỉ dưỡng ven biển bên ngoài {2_CityName} là rất tốt.</Text>
@@ -120,19 +120,19 @@
 			<Text>{1_CityName} đang bị bao vây.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CITY_LIBERATED">
-			<Text>{1_CivName} vừa giải phòng {2_CityName} quay về với {3_CivName}.</Text>
+			<Text>{1_CivName} vừa giải phóng {2_CityName} quay về với {3_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CITY_RAZED">
-			<Text>{1_CivName} đã san bằng thành phố gốc được thành lập bởi {2_CivName}.</Text>
+			<Text>{1_CivName} vừa san bằng thành phố gốc được thành lập bởi {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CLEAR_CAMP">
-			<Text>{1_CivName} sử dụng {2_UnitName} để phá hoại {3_ImprovementName}.</Text>
+			<Text>{1_CivName} sử dụng {2_UnitName} để loại bỏ {3_ImprovementName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CITY_STATE_INFLUENCE">
 			<Text>{1_CivName} đã gửi phái đoàn tới {2_CityState}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CONQUER_CITY">
-			<Text>{1_CivName} đã chinh phục {2_CityName}.</Text>
+			<Text>{1_CivName} đã chiếm {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CONSTRUCT_BUILDING">
 			<Text>{1_CivName} đã xây {2_BuildingName} trong {3_CityName}.</Text>
@@ -141,7 +141,7 @@
 			<Text>{1_CivName} đã xây {2_DistrictName} trong {3_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CREATE_PANTHEON">
-			<Text>{1_CivName} được thờ một vị thần tập trung vào tín ngưỡng {2_BeliefName}.</Text>
+			<Text>{1_CivName} đang thờ một vị thần tập trung vào tín ngưỡng {2_BeliefName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CULTURVATE_CIVIC">
 			<Text>{1_CivName} hoàn thành phát triển {2_CivicName}.</Text>
@@ -150,13 +150,13 @@
 			<Text>{1_CivName} đã tuyên bố tình hữu nghị với {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_DELEGATION">
-			<Text>{1_CivName} chào đón một phái đoàn mới. Họ đến từ {2_CivName}.</Text>
+			<Text>{1_CivName} chào đón một phái đoàn ngoại giao mới. Họ đến từ {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_DENOUNCED">
-			<Text>{1_CivName} lăng mạ {2_CivName}.</Text>
+			<Text>{1_CivName} đã lăng mạ hành vi xấu xa của {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_EMBASSY">
-			<Text>đại sứ quá mới trong Thủ Đô {1_CivName} mà đến từ {2_CivName}.</Text>
+			<Text>Đại sứ quán mới trong Thủ Đô {1_CivName} được đến từ {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_ERA_CHANGED">
 			<Text>{1_CivName} đã chuyển từ thời {2_OldEra} sang {3_NewEra}.</Text>
@@ -177,10 +177,10 @@
 			<Text>{1_CivName} bắt đầu tấn công quân sự vào {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_WAR_PREPARATION">
-			<Text>{1_CivName} đang xem xét chiến tranh trên {2_CivName}.</Text>
+			<Text>{1_CivName} đang xem xét chiến tranh với {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_INQUISITION_LAUNCHED">
-			<Text>{1_CivName} đã đưa ra một triết lý tôn giáo trái ngược với {2_ReligionName}.</Text>
+			<Text>{1_CivName} đã đưa ra một triết lý tôn giáo trái ngược (thẩm tra) với {2_ReligionName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_LAND_UNIT_LEVEL">
 			<Text>{1_CivName} có {2_UnitName} được tặng huân chương {3_PromotionName}.</Text>
@@ -198,16 +198,16 @@
 			<Text>Hầu hết dân cư trong {1_CivName} đang theo tôn giáo {2_ReligionName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_PILLAGE">
-			<Text>{1_CivName} đã cướp kẻ địch {2_TargetName} với {3_UnitName}.</Text>
+			<Text>{1_CivName} đã cướp {2_TargetName} của địch với {3_UnitName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_POLICY_ENACTED">
 			<Text>{1_CivName} áp đặt chính sách {2_SlotName} {3_PolicyName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_RECEIVE_DOW">
-			<Text>{1_CivName} trở thành mục tiêu chiến tranh của {2_OtherPlayer}!</Text>
+			<Text>{1_CivName} trở thành mục tiêu chiến tranh bởi {2_OtherPlayer}!</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_RELIC_RECEIVED">
-			<Text>Du khách trong {1_CivName} đang đổ xa đi xem {2_RelicName}.</Text>
+			<Text>Du khách trong {1_CivName} đang đổ xô đi xem {2_RelicName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_RESEARCH_AGREEMENT">
 			<Text>Các nhà khoa học từ {1_CivName} và {2_CivName} vừa hợp tác nghiên cứu.</Text>
@@ -255,7 +255,7 @@
 			<Text>{1_CivName} giao dịch thương mại với {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_TRADE_RENEGE">
-			<Text>{1_CivName} không giữ lừa hửa thỏa thuận với {2_CivName}.</Text>
+			<Text>{1_CivName} không giữ lừa hứa thỏa thuận với {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_TRAIN_SETTLER">
 			<Text>{1_CivName} đã đào tạo {2_UnitName}.</Text>
@@ -276,7 +276,7 @@
 			<Text>{1_CivName} không còn muốn chiến thắng {2_VictoryType}.</Text>
 		</Row>
     <Row Tag="LOC_GOSSIP_WMD_BUILT">
-      <Text>{1_CivName} đã xây dựng {2_WMDCount}.</Text>
+      <Text>{1_CivName} đã xây dựng {2_WMDCount} vũ khí hủy diệt hoàng loạt.</Text>
     </Row>
 		<Row Tag="LOC_GOSSIP_WMD_STRIKE">
 			<Text>{1_CivName} vừa tung ra một vũ khí hủy diệt hàng loạt! Một {2_UnitName}! Tìm chỗ ẩn nấp!</Text>
@@ -312,7 +312,7 @@
 			<Text>thánh phố bị "mất"</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_TECH">
-			<Text>Công nghệ in ấn đã nghiên cứu</Text>
+			<Text>Công nghệ In Ấn đã nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_TRADER">
 			<Text>Tuyến đường thương mại đã thành lập</Text>
@@ -330,7 +330,7 @@
 			<Text>Gián điệp tại chỗ</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_GREAT_PERSON_JOURNALISM">
-			<Text>Hiệu ứng thương gia vĩ đại Mary Katherine Goddard</Text>
+			<Text>Ảnh hưởng thương gia vĩ đại Mary Katherine Goddard</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_ACTION_TECH">
 			<Text>Nghiên cứu công nghệ In ấn.</Text>
@@ -348,7 +348,7 @@
 			<Text>Trở thành đồng minh (Yêu cầu Hành chính Dịch vụ dân sự).</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_ACTION_SPY">
-			<Text>Gửi Gián điệp  hoạt động nhiệm vụ Nội gián.</Text>
+			<Text>Gửi Gián điệp hoạt động nhiệm vụ Nội gián.</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_ACTION_GREAT_PERSON_JOURNALISM">
 			<Text>Sử dụng khả năng của thương gia vĩ đại Mary Katherine Goddard.</Text>

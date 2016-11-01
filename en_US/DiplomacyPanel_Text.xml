@@ -8,7 +8,7 @@
       <Text>Biện minh chiến tranh</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
-      <Text>Biện minh chiến tranh với các lý do để giảm hình phạt gây chiến hơn so với bình thường.</Text>
+      <Text>Biện minh chiến tranh với các lý do để giảm hình phạt gây chiến đi so với bình thường.</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_TITLE">
 			<Text>BÁO CÁO</Text>
@@ -47,7 +47,7 @@
 			<Text>Chương trình nghị sự:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
-			<Text>Chính quyền:</Text>
+			<Text>Chính phủ:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
 			<Text>Mối quan hệ:</Text>
@@ -95,7 +95,7 @@
       <Text>Chương trình nghị sự ngẫu nhiên</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
-      <Text>Chương trình nghị sự ngẫu nhiên bị ẩn. Thuộc dạng BÍ MẬT để có thể tiết lộ.</Text>
+      <Text>Chương trình nghị sự ngẫu nhiên bị ẩn. Thuộc mức độ truy cập BÍ MẬT để có thể tiết lộ.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
       <Text>Không có Chương trình nghị sự lịch sử</Text>
@@ -117,7 +117,7 @@
       <Text>Tạo một [ICON_TradeRoute] Tuyến đường thương mại với {1_Civ}.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
-      <Text>Tự do đi lại cho {1_Civ}.</Text>
+      <Text>Đồng ý tự do đi lại cho {1_Civ}.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
       <Text>Gửi phái đoàn hoặc đại sứ quán.</Text>
@@ -132,7 +132,7 @@
       <Text>Lăng mạ một người bạn của {1_Civ}.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
-      <Text>Tuyên bố tình hữu nghị với kẻ địch {1_Civ}.</Text>
+      <Text>Tuyên bố tình hữu nghị với kẻ địch của {1_Civ}.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
       <Text>Tạo thỏa thuận công bằng.</Text>
@@ -153,7 +153,7 @@
       <Text>Xem tất cả tin tức kiếm được cũng như kết quả của mức độ truy cập của bạn.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
-      <Text>Các thông tin quan trọng được phân làm nhiều mước độ. Cần phải có khả năng truy cập để có thể lấy được tin tức.</Text>
+      <Text>Các thông tin quan trọng được phân làm nhiều mức độ. Cần phải có khả năng truy cập để có thể lấy được tin tức.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
       <Text>Xem chi tiết mối quan hệ với lãnh đạo này, bao gồm những lý do không được tiết lộ nếu có mức độ truy cập thông tin đó.</Text>
