@@ -329,9 +329,6 @@
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
 			<Text>Xây Bảo tàng nghệ thuật.</Text>
 		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
-			<Text>Nghiên cứu công nghệ Thiên văn học.</Text>
-		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
 			<Text>Xây Bảo tàng khảo cổ.</Text>
 		</Row>
@@ -343,7 +340,6 @@
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
 			<Text>Có Vùng Ngoại Ô có Sức Hấp Dẫn Ngây ngất.</Text>
-		
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
 			<Text>Nghiên cứu Radio.</Text>
@@ -401,7 +397,7 @@
 			<Text>chính sách</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENTS">
-			<Text>Chính quyền</Text>
+			<Text>Chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_CULTURE_PER_TURN">
 			<Text>Văn minh/lượt: +{1_Culture}</Text>
