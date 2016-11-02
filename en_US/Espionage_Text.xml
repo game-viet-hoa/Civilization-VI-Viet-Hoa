@@ -6,115 +6,115 @@
 			<Text>{1_Name}[NEWLINE][NEWLINE]{2_Yield}[NEWLINE]{3_Header}[NEWLINE]{4_Success}[NEWLINE]{5_SuccessEscape}[NEWLINE]{6_Fail}[NEWLINE]{7_FailEscape}[NEWLINE]{8_Capture}[NEWLINE]{9_Killed}</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_MISSION_HEADER">
-			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Your Mission: {1_Mission}[NEWLINE]Duration: {2_Num} Turns</Text>
+			<Text>CHỈ DẪN NHIỆM VỤ[NEWLINE][NEWLINE]Nhiệm Vụ: {1_Mission}[NEWLINE]Thời gian: {2_Num} lượt</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_OPERATION_YIELD">
-			<Text>Success will grant {1_Award}.[NEWLINE]</Text>
+			<Text>Hoàn thành sẽ được {1_Award}.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_OPERATION_CHANCES">
-			<Text>Possible Outcomes:</Text>
+			<Text>Kết quả có thể xảy ra:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_SUCCESS">
-			<Text>{1_Num}% - Success</Text>
+			<Text>{1_Num}% thành công</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_SUCCESS_ESCAPE">
-			<Text>{1_Num}% - Success if escape city</Text>
+			<Text>{1_Num}% thành công nếu thoát khỏi thành phố</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_FAILURE">
-			<Text>{1_Num}% - Failure</Text>
+			<Text>{1_Num}% thất bại</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_FAILURE_ESCAPE">
-			<Text>{1_Num}% - Failure and must escape city</Text>
+			<Text>{1_Num}% thất bại và phải thoát khỏi thành phố</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_CAPTURED">
-			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spy Captured</Text>
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] gián điệp bị bắt</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_KILLED">
-			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spy Killed</Text>
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] gián điệp bị giết</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_START_MISSION">
-			<Text>Accept</Text>
+			<Text>Chấp nhận</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ABORT_MISSION">
-			<Text>Abort</Text>
+			<Text>Hủy bỏ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_HEIST_REWARD">
-			<Text>a Great Work from the district</Text>
+			<Text>một Thành Tựu Vĩ Đại từ Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_PARTISAN_REWARD">
-			<Text>an uprising of disgruntled partisans</Text>
+			<Text>một cuộc nổi dậy của băng đảng lính du kích</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_SABOTAGE_REWARD">
-			<Text>pillaging all buildings in the Industrial Zone district</Text>
+			<Text>cướp tất cả kiến trúc trong khu công nghiệp</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_SIPHON_REWARD">
-			<Text>the city's [ICON_Gold] Vàng output over next {1_Num} turns</Text>
+			<Text>lượng [ICON_Gold] Vàng đầu ra của các thành phố cho {1_Num} lượt tiếp theo</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ROCKETRY_REWARD">
-			<Text>pillaging of the enemy Spaceport district</Text>
+			<Text>cướp Trạm không gian</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_TECH_REWARD">
-			<Text>a technology boost</Text>
+			<Text>một thúc đẩy công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_GAIN_SOURCES">
-			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Your Mission: Gain Sources[NEWLINE]Duration: {1_Num} Turns[NEWLINE][NEWLINE]Once the Spy has spent the requisite time finding local contacts, this mission will automatically succeed. It will improve the chances of all offensive Spy operations in this city for the next {2_Duration} turns.</Text>
+			<Text>CHỈ DẪN NHIỆM VỤ[NEWLINE][NEWLINE]Nhiệm Vụ: Tăng Hiểu Biết[NEWLINE]Thời Gian: {1_Num} Lượt[NEWLINE][NEWLINE]Khi Gián Điệp dành thời gian để tìm kiếm các thông tin liên lạc địa phương thì nhiệm vụ này sẽ tự động thành công. Nó sẽ cả thiện cơ hội thành công của tất cả nhiệm vụ mà gián điệp hoạt động trong thành phố này tại {2_Duration} lượt tiếp theo.</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_LISTENING_POST">
-			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Your Mission: Listening Post[NEWLINE]Duration: {1_Num} Turns[NEWLINE][NEWLINE]This mission is automatically successful. While running it will improve your diplomatic visibility on this civilization by 1 level.</Text>
+			<Text>CHỈ DẪN NHIỆM VỤ[NEWLINE][NEWLINE]Nhiệm Vụ: Nội Gián[NEWLINE]Thời Gian: {1_Num} Lượt[NEWLINE][NEWLINE]Nhiệm vụ này sẽ tự động hoàn thành. Trong khi thực hiện nó sẽ cải thiện tầm nhìn ngoại giao trên nền văn minh này thêm 1 level.</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_PANEL_HEADER">
-			<Text>CHASE SEQUENCE</Text>
+			<Text>TRUY ĐUỔI</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_CITY_HEADER">
-			<Text>in {1_CityName}</Text>
+			<Text>trong {1_CityName}</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_AGENT_LABEL">
-			<Text>Agent:</Text>
+			<Text>Đặc Vụ:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_NO_LOOT">
-			<Text>None</Text>
+			<Text>Không</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_LOOT_LABEL">
-			<Text>Loot:</Text>
+			<Text>Cướp:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_BOOST_LOOT">
-			<Text>{1_TechName} secrets</Text>
+			<Text>{1_TechName} bí mật</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_LABEL">
-			<Text>Pursued by:</Text>
+			<Text>Truy đuổi bởi:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_POLICE">
-			<Text>Police</Text>
+			<Text>Cảnh Sát</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_COUNTERSPY">
-			<Text>Police and agent {1_Counterspy}</Text>
+			<Text>Cảnh sát và đặc vụ {1_Counterspy}</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_HEADER">
-			<Text>Choose how your agent is going to try and escape:</Text>
+			<Text>Lựa chọn đặc vụ của bạn với hành động trốn thoát:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_1">
-			<Text>Airplane</Text>
+			<Text>Máy bay</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_2">
-			<Text>Boat</Text>
+			<Text>Thuyền</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_3">
-			<Text>Vehicle</Text>
+			<Text>Xe cộ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_4">
-			<Text>Foot</Text>
+			<Text>Chân</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_NO_DISTRICT">
-			<Text>No {1_DistrictName} in city</Text>
+			<Text>Không có {1_DistrictName} trong thành phố</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_TURNS">
-			<Text>Turns to return: {1_Turns}</Text>
+			<Text>Lượt để trở về: {1_Turns}</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_ESCAPE_TOOLTIP">
-			<Text>Choose the escape route out of the city for your agent. Police are more likely to be patrolling quick exits such as the Aerodrome or Harbor. Exit by foot is always the safest option.</Text>
+			<Text>Chọn đường thoát ra khỏi thành phố cho đặc vụ của bạn. Cảnh sát có nhiều khả năng tuần tra các lối thoát nhanh như Khu hàng không hoặc Khu cảng biển. Trốn bằng chân luôn là lựa chọn an toàn nhất.</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_LEVEL_1_NAME">
-			<Text>Gián điệp chiêu mộ</Text>
+			<Text>Gián điệp mới</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_LEVEL_2_NAME">
 			<Text>Đặc vụ</Text>
@@ -129,32 +129,32 @@
 			<Text>+{1_Amount} [ICON_Gold]</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGE_STEAL_TECH_ESTIMATE">
-			<Text>Steal {1_Amount} {1_Amount : plural 1?boost; other?boosts;} including {2_TechName}.</Text>
+			<Text>Đánh cắp {1_Amount} thúc đẩy bao gồm {2_TechName}.</Text>
 		</Row>
 		<!-- ==================== Espionage Text ==================== -->
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_HEADER">
-			<Text>Spies for {1_CivName}</Text>
+			<Text>Các gián điệp cho {1_CivName}</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_NAME">
-			<Text>SPY NAME</Text>
+			<Text>TÊN GIÁN ĐIỆP</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_LEVEL">
 			<Text>LEVEL</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_PROMOTION">
-			<Text>PROMOTION</Text>
+			<Text>HUÂN CHƯƠNG</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_CITY">
-			<Text>CITY</Text>
+			<Text>THÀNH PHỐ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_MISSION">
-			<Text>MISSION</Text>
+			<Text>NHIỆM VỤ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_TURNS">
-			<Text>TURNS REMAINING</Text>
+			<Text>LƯỢT CÒN LẠI</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPANEL_NO_MISSION">
-			<Text>none</Text>
+			<Text>không</Text>
 		</Row>
 		<!-- ==================== EspionageChooser ==================== -->
 		<Row Tag="LOC_ESPIONAGECHOOSER_PANEL_HEADER">
@@ -176,13 +176,13 @@
 			<Text>CHỌN NHIỆM VỤ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGECHOOSER_GAIN_SOURCES_ACTIVE">
-			<Text>Gain Sources Active! ({1_Turns}[Icon_Turn])</Text>
+			<Text>Kích hoạt Tăng Hiểu Biết! ({1_Turns}[Icon_Turn])</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGECHOOSER_SUCCESS_BOOSTED">
-			<Text>Mission success boosted</Text>
+			<Text>Thúc đẩy nhiệm vụ hoàn thành</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGECHOOSER_NO_BOOST_ACTIVE">
-			<Text>No Boost Active</Text>
+			<Text>Kích hoạt không thúc đẩy</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGECHOOSER_TRAVEL_TIME_TOOLTIP">
 			<Text>{1_TravelTime} lượt để tới thành phố[NEWLINE]{2_EstablishTime} lượt để thiếp lập trong thành phố</Text>
@@ -238,7 +238,7 @@
 			<Text>KẾT QUẢ CÓ THỂ</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPOPUP_OUTCOME_DETAILS">
-			<Text>Our intelligence projects the following probabilities:</Text>
+			<Text>Dự án trí thông minh của chúng tôi dự đoán các xác suất sau đây:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPOPUP_SUCCESS_OUTCOME_CHANCE">
 			<Text>cơ hội thành công</Text>
@@ -259,13 +259,13 @@
 			<Text>CHẤP NHẬN</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPOPUP_ABORT_MISSION">
-			<Text>ABORT MISSION!</Text>
+			<Text>HỦY NHIỆM VỤ!</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPOPUP_CANCEL">
-			<Text>CANCEL</Text>
+			<Text>HỦY</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEPOPUP_GAIN_SOURCES_OUTCOME">
-			<Text>This will boost your chance of any subsequent operation within this city. There is no risk to your spy.</Text>
+			<Text>Điều này giúp tăng cơ hội của bất kỳ nhiệm vụ tiếp theo nào trong thành phố này. Không có nguy hiểm nào tới gián điệp của bạn.</Text>
 		</Row>
 		<!-- ==================== EspionageOverview ==================== -->
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_HEADER">
@@ -317,17 +317,17 @@
 			<Text>GIÁM ĐIỆP BỊ BẮT:</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_OFFER_TRADE">
-			<Text>Offer Trade</Text>
+			<Text>Giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_VIEW_CITY">
 			<Text>Xem thành phố này.</Text>
 		</Row>
 		<!-- ==================== Speculative text for temporary Captured Spies tab (which would become part of Mission History) ==================== -->
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_HEADER">
-			<Text>Captured Spies</Text>
+			<Text>Điệp viên bị bắt</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_SUBHEADER">
-			<Text>CAPTURED SPIES</Text>
+			<Text>ĐIỆP VIÊN BỊ BẮT</Text>
 		</Row>
 		<!-- ==================== UnitPanel - Espionage ==================== -->
 		<Row Tag="LOC_UNITPANEL_ESPIONAGE_LOCATED_IN">

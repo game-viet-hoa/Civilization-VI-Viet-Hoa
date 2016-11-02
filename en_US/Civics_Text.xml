@@ -25,7 +25,7 @@
 			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
-			<Text>Nông trường +1 [ICON_Food] Thực phẩm cho mỗi Nông trường liền kề khi có 3 Nông trường liền kề nhau.</Text>
+			<Text>Nông Trại +1 [ICON_Food] Thực phẩm cho mỗi Nông Trại liền kề khi có 3 Nông Trại liền kề nhau.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
 			<Text>Cho phép đồng minh.</Text>
@@ -34,7 +34,7 @@
 			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
-			<Text>Trang trại +1 [ICON_Food] Thực phẩm.</Text>
+			<Text>Bãi Chăn +1 [ICON_Food] Thực phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
 			<Text>Cho phép Đại sứ quan và khả năng đào tạo Gián điệp. Có thể biện minh cho hành động chiến tranh. Những biện minh chiến tranh là: Thánh chiến, Chiến tranh giải phóng, Tái chiếm lược, và Bảo kê.</Text>
@@ -49,7 +49,7 @@
 			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
-			<Text>Có thể xây Nông trường trên Đồng cỏ (Đồi) và Đồng bằng (Đồi). Mở khóa Phòng Thủ Đô thị, cho tất cả thành phố tự động củng cố 200 Sức mạnh tường thành và khả năng bắn pháo.</Text>
+			<Text>Có thể xây Nông Trại trên Đồng cỏ (Đồi) và Đồng bằng (Đồi). Mở khóa Phòng Thủ Đô thị, cho tất cả thành phố tự động củng cố 200 Sức mạnh tường thành và khả năng bắn pháo.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
 			<Text>Khả năng đào tạo một Gián điệp. Cho phép hai đơn vị nhất định ghép lại trở thành Trung đội hoặc Hải đoàn. Cho phép sử dụng lý do biện minh chiến tranh: Chiến tranh thuộc địa.</Text>
@@ -88,7 +88,7 @@
 			<Text>Cho phép vận chuyển các đơn vị mặt đất giữa các Khu Hàng Không có chứa Sân bay.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Vàng cho Vườn ươm. Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
+			<Text>+1 [ICON_Gold] Vàng cho Đồn Điền. Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_DESCRIPTION">
 			<Text>Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
@@ -101,7 +101,7 @@
 			<Text>Khám phá lục địa thứ hai.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
-			<Text>Đánh bại một tiền đồn quân man di.</Text>
+			<Text>Đánh bại một Trại Man Di.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
 			<Text>Xây một Đặc Khu bất kỳ.</Text>
@@ -137,7 +137,7 @@
 			<Text>Giết một Thuyền mái chèo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_FEUDALISM">
-			<Text>Xây 6 Nông trường.</Text>
+			<Text>Xây 6 Nông Trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
 			<Text>Một thành phố đạt 10 dân số.</Text>
@@ -246,7 +246,7 @@
 			<Text>Khám phá lục địa thứ hai.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
-			<Text>Đánh bại một tiền đồn quân man di.</Text>
+			<Text>Đánh bại một Trại Man Di.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
 			<Text>Xây một Đặc Khu bất kỳ.</Text>
@@ -282,7 +282,7 @@
 			<Text>Giết một Thuyền mái chèo.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
-			<Text>Xây 6 Nông trường.</Text>
+			<Text>Xây 6 Nông Trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
 			<Text>Một thành phố đạt 10 dân số.</Text>
@@ -531,7 +531,7 @@
 		</Row>
 		<!-- Policy Descriptions-->
 		<Row Tag="LOC_POLICY_PLACEHOLDER_DESC">
-			<Text>Placeholder.</Text>
+			<Text>Khung trống.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
 			<Text>Thưởng +100% liền kề Khu nghệ thuật.</Text>
@@ -549,7 +549,7 @@
 			<Text>+2 [ICON_Gold] Vàng cho tất cả [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
-			<Text>+2 Điểm ảnh hưởng cho mỗi lượt [ICON_Envoy] Phái đoàn hướng đến thành phố tự trị.</Text>
+			<Text>+2 điểm Ảnh hưởng mỗi lượt đối với việc đạt được Phái Đoàn với thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
 			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị kỵ binh hạng nặng và nhẹ của thời đại Trung cổ, Phục hưng, Công nghiệp.</Text>
@@ -597,7 +597,7 @@
 			<Text>+5 [ICON_Production] Sản phẩm và +10 [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
-			<Text>+100% liền kề Trung tâm thương mại và Khu cảng biển.</Text>
+			<Text>+100% liền kề Khu thương mại và Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
 			<Text>Chi phí Dân Di Cư giảm 50%. Giá mua ô đất giảm 20%.</Text>
@@ -612,7 +612,7 @@
 			<Text>+100% liền kề Khu tri thức và Khu công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
-			<Text>+100% sản lượng [ICON_Gold] Vàng từ Trung tâm thương mại.</Text>
+			<Text>+100% sản lượng [ICON_Gold] Vàng từ Khu thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
 			<Text>+2 điểm [ICON_GreatArtist] Họa sĩ vĩ đại mỗi lượt.</Text>
@@ -690,7 +690,7 @@
 			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị hải quân thời đại Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
-			<Text>[ICON_TradeRoute] Tuyến đường thương mại quốc tế +1 [ICON_Gold] Vàng mỗi công trình khai thác tài nguyên quý và chiến thuật ở đích đến, cũng như +2 [ICON_Culture] Văn minh và +2 [ICON_Science] Khoa học.</Text>
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại quốc tế +1 [ICON_Gold] Vàng mỗi công trình khai thác tài nguyên quý và chiến lược ở đích đến, cũng như +2 [ICON_Culture] Văn minh và +2 [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
 			<Text>Tích lũy mệt mỏi chiến tranh ít hơn 25% so với bình thường.</Text>
@@ -714,7 +714,7 @@
 			<Text>Học viện quân sự và Hải cảng sinh ra +1 [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
-			<Text>Units have 50% less [ICON_Strength] Combat Strength reduction from being injured.</Text>
+			<Text>Đơn vị còn 50% [ICON_Strength] Sức mạnh giảm do bị thương.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
 			<Text>Chiến thắng trận đánh với các đơn vị có thời đại thấp hơn cung cấp [ICON_Gold] Vàng bằng 50% [ICON_Strength] Sức mạnh của đơn vị bị đánh bại.</Text>
@@ -756,7 +756,7 @@
 			<Text>Tích lũy mệt mỏi chiến tranh ít hơn 25% so với bình thường.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
-			<Text>Nhận 50 [ICON_Gold] Vàng mỗi Sức Hấp Dẫn của ô khi thay thế Nông trường với Vùng ngoại ô.</Text>
+			<Text>Nhận 50 [ICON_Gold] Vàng mỗi Sức Hấp Dẫn của ô khi thay thế Nông Trại với Vùng ngoại ô.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
 			<Text>+30% [ICON_Production] Sản phẩm đối với Thợ Xây, và Thợ Xây mới đào tạo được thêm 2 lần xây dựng.</Text>
@@ -774,7 +774,7 @@
 			<Text>+5 [ICON_Religion] Sức mạnh tôn giáo cho tất cả đơn vị tôn giáo trong chiến đấu thần học.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
-			<Text>Một bản sao của tài nguyên chiến thuật cho phép tạo ra và mua đơn vị yêu cầu ở thành phố bất kỳ.</Text>
+			<Text>Một bản sao của tài nguyên chiến lược cho phép tạo ra và mua đơn vị yêu cầu ở thành phố bất kỳ.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Tiện nghi cho các thành phố có đóng quân.</Text>
@@ -789,13 +789,13 @@
 			<Text>x3 [ICON_Tourism] Du lịch từ [ICON_GreatWork_Music] Tác phẩm âm nhạc.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
-			<Text>+100% liền kề Khu linh thiêng.</Text>
+			<Text>+100% liền kề Thánh Địa.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
 			<Text>THỢ XÂY mới đào tạo tăng thêm 2 lần xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>x2 sản lượng [ICON_Faith] Đức Tin từ các kiến trúc Khu linh thiêng.</Text>
+			<Text>x2 sản lượng [ICON_Faith] Đức Tin từ các kiến trúc Thánh Địa.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan từ thời đại Công nghiệp trở đi.</Text>
@@ -822,7 +822,7 @@
 			<Text>x2 sản lượng từ cướp bóc.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
-			<Text>+100% liền kề Trung tâm thương mại.</Text>
+			<Text>+100% liền kề Khu thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
 			<Text>+1 [ICON_Culture] Văn minh và +1 [ICON_Science] Khoa học từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>

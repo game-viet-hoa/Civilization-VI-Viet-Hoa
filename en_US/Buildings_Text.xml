@@ -54,7 +54,7 @@
 			<Text>Cho phép mua Nhà truyền giáo. Nhà truyền giáo chỉ có thể mua bằng [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STABLE_DESCRIPTION">
-			<Text>+25% EXP cho tất cả đơn vị kỵ binh được đào tạo trong thành phố này. Có thể không xây được trong Khu quân sự nếu đã có Trại lính.</Text>
+			<Text>+25% EXP cho tất cả đơn vị kỵ binh được đào tạo trong thành phố này. Có thể không xây được trong Khu quân sự nếu đã có Doanh Trại.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
 			<Text>+25% EXP cho tất cả đơn vị hải quân được đào tạo trong thành phố này. Thưởng [ICON_Production] Sản phẩm bằng với thưởng của Khu cảng biển liền kề.</Text>
@@ -66,7 +66,7 @@
 			<Text>Tăng sức mạnh phòng thủ chống tấn công từ bên ngoài lên cao nhất có thể.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
-			<Text>Kiến trúc đặc biệt của Na Uy. Yêu cầu đào tạo Tông Đồ. Khu linh thiêng có thêm thưởng cho Rừng liền kề.</Text>
+			<Text>Kiến trúc đặc biệt của Na Uy. Yêu cầu đào tạo Tông Đồ. Thánh Địa có thêm thưởng cho Rừng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
 			<Text>Cho phép mua đơn vị Tông Đồ. Tông Đồ chỉ có thể mua bằng [ICON_Faith] Đức Tin.</Text>
@@ -85,7 +85,7 @@
 			<Text>+1 slot Chính sách quân sự[NEWLINE][NEWLINE]Cung cấp các điểm phòng thủ tương tự như Pháo đài. Phải xây trên đồi gần Khu quận sự.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
-			<Text>+1 slot Chính sách kinh tế[NEWLINE][NEWLINE]x2 ngân quỹ hiện tại. Phải xây cạnh sông và gần trung tâm thương mại có ngân hàng.</Text>
+			<Text>+1 slot Chính sách kinh tế[NEWLINE][NEWLINE]x2 ngân quỹ hiện tại. Phải xây cạnh sông và gần Khu thương mại có ngân hàng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
 			<Text>Thưởng ngẫu nhiên thúc đẩy 2 Hành chính. Phải xây trên địa hình phẳng cạnh khu nghệ thuật.</Text>
@@ -121,10 +121,10 @@
 			<Text>+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân[NEWLINE][NEWLINE]Phải xây trên bờ biển gần đất liền và khu hải cảng có Hải đăng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Tuyến đường thương mại[NEWLINE][NEWLINE][ICON_TradeRoute] Tuyến đường thương mại của bạn từ thành phố này +2 [ICON_Gold] Vàng cho mỗi tài nguyên thưởng trong lãnh thổ thành phố đó. Phải xây cạnh trung tâm thương mại có chợ và cạnh [ICON_RESOURCE_CATTLE] Sữa bò.</Text>
+			<Text>+1 [ICON_TradeRoute] Tuyến đường thương mại[NEWLINE][NEWLINE][ICON_TradeRoute] Tuyến đường thương mại của bạn từ thành phố này +2 [ICON_Gold] Vàng cho mỗi tài nguyên thưởng trong lãnh thổ thành phố đó. Phải xây cạnh Khu thương mại có chợ và cạnh [ICON_RESOURCE_CATTLE] Sữa bò.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
-			<Text>Nhà truyền giáo và Tông Đồ có thêm một lần Truyền Đạo. Phải xây trên địa hình phẳng gần khu linh thiêng, và đã sáng lập ra một tôn giáo.</Text>
+			<Text>Nhà truyền giáo và Tông Đồ có thêm một lần Truyền Đạo. Phải xây trên địa hình phẳng gần Thánh Địa, và đã sáng lập ra một tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
 			<Text>Tăng trưởng thêm 15% trong các thành phố. Phải xây cạnh sông.</Text>
@@ -133,7 +133,7 @@
 			<Text>Phải xây dọc theo sông.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
-			<Text>Có 2 Tông Đồ. Phải xây trên Rừng gần Khu linh thiêng có Đền thờ, và đã sáng lập ra một tôn giáo.</Text>
+			<Text>Có 2 Tông Đồ. Phải xây trên Rừng gần Thánh Địa có Đền thờ, và đã sáng lập ra một tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
 			<Text>Tất cả Tông Đồ có thêm khả năng hi sinh (Tạo di tích nếu chết trong chiến tranh thần thánh). Phải xây trên vùng lũ hoặc Đầm lầy.</Text>
@@ -157,7 +157,7 @@
 			<Text>+30% [ICON_Production] Sản phẩm trong thành phố này và +1 [ICON_Production] Sản phẩm cho mỗi Mỏ và Mỏ Đá trong thành phố này. Phải xây dọc theo sông gần khu công nghiệp có nhà máy.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
-			<Text>Cho một [ICON_GreatProphet] Nhà tiên tri vĩ đại. [ICON_GreatProphet] Nhà tiên tri vĩ đại có thể sáng lập một tôn giáo trên Bãi đá Stonehenge của khu linh thiêng. Phải gần [ICON_RESOURCE_STONE] Đá và trên đất bằng.</Text>
+			<Text>Cho một [ICON_GreatProphet] Nhà tiên tri vĩ đại. [ICON_GreatProphet] Nhà tiên tri vĩ đại có thể sáng lập một tôn giáo trên Bãi đá Stonehenge của Thánh Địa. Phải gần [ICON_RESOURCE_STONE] Đá và trên đất bằng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
 			<Text>Phải xây trên bờ biển gần đất liền và Khu Hải cảng.</Text>

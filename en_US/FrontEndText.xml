@@ -284,7 +284,7 @@
 		</Row>
 		<!-- Multiplayer Select Screen-->
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
-			<Text>{1_PlayerName}'s Game</Text>
+			<Text>Game của {1_PlayerName}</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME">
 			<Text>Tiêu chuẩn</Text>
@@ -317,13 +317,13 @@
 			<Text>Nhiều người chơi thay phiên nhau chơi trên một máy.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
-			<Text>Cloud Game</Text>
+			<Text>Game Đám Mây</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
 			<Text>Chơi nhiều người sử dụng đám mây FiraxisLive.  Yêu cầu kết nối tới FiraxisLive.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
-			<Text>Pitboss</Text>
+			<Text>Máy Chủ</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
 			<Text>Chơi nhiều người bằng một máy chủ chuyên dụng.</Text>
@@ -419,13 +419,13 @@
 			<Text>Mods</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
-			<Text>PITBOSS GAMES</Text>
+			<Text>GAME MÁY CHỦ</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
-			<Text>INTERNET GAMES</Text>
+			<Text>GAME INTERNET</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LAN_LOBBY">
-			<Text>LOCAL NETWORK GAMES</Text>
+			<Text>GAME MẠNG LAN</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
 			<Text>Không rõ</Text>
@@ -441,7 +441,7 @@
 			<Text>Danh sách</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
-			<Text>Template</Text>
+			<Text>Mẫu</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
 			<Text>Host</Text>
@@ -523,7 +523,7 @@
       <Text>Số tự động lưu được giữ:</Text>
     </Row>
     <Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-      <Text>Steam Controller cấu hình trong Steam. The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
+      <Text>Steam Controller cấu hình trong Steam. Phím ESC, chuột trái và phải không thể đảo ngược và gán phím.</Text>
     </Row>
     <Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
       <Text>Phím chính</Text>
@@ -562,7 +562,7 @@
       <Text>Tắt tiếng khi cửa sổ này không mở:</Text>
     </Row>
 		<Row Tag="LOC_OPTIONS_CLEAR">
-			<Text>Clear</Text>
+			<Text>Xóa bỏ</Text>
 		</Row>
 		<!-- Front End Popop -->
 		<Row Tag="LOC_CLOSE">
@@ -663,10 +663,10 @@
 			<Text>SLot đóng không thể sử dụng bởi người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMAN">
-			<Text>Human</Text>
+			<Text>Người</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMAN_TT">
-			<Text>Human Player</Text>
+			<Text>Người chơi</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
 			<Text>Không</Text>
@@ -748,39 +748,39 @@
 			<Text>Đang chờ người chơi thiếu Mod cho game này.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
-			<Text>Password Mismatch</Text>
+			<Text>Mật khẩu không trùng</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
-			<Text>All passwords must match.</Text>
+			<Text>Tất cả mật khẩu phải trùng.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
-			<Text>No Human Players</Text>
+			<Text>Không có người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
-			<Text>Need at least 1 human player</Text>
+			<Text>Cần ít nhất 1 người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
-			<Text>Invalid Teams</Text>
+			<Text>Team không hợp lệ</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
-			<Text>At least 2 players need to be on different teams</Text>
+			<Text>Ít nhất 2 người chơi cần phải khác Team</Text>
 		</Row>
 		<!-- Staging Room Invite Button -->
 		<Row Tag="LOC_INVITE_BUTTON">
-			<Text>Invite Friends</Text>
+			<Text>Mời Bạn Bè</Text>
 		</Row>
 		<Row Tag="LOC_INVITE_BUTTON_TT">
-			<Text>Invite friends from your Steam friends list to this game.</Text>
+			<Text>Mời bạn bè trong danh sách Steam vào Game này.</Text>
 		</Row>
 		<!-- Confirm Kick Popup -->
 		<Row Tag="LOC_CANCEL_BUTTON">
-			<Text>Cancel</Text>
+			<Text>Hủy</Text>
 		</Row>
 		<Row Tag="LOC_ACCEPT_BUTTON">
-			<Text>Accept</Text>
+			<Text>Chấp nhận</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
-			<Text>Are you sure you wish to kick {1_player} from the game?</Text>
+			<Text>Bạn có muốn Kick {1_player} ra khỏi game?</Text>
 		</Row>
 		<!-- Edit Hotseat Player Popup -->
 		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
@@ -790,35 +790,35 @@
 			<Text>Edit Hot Seat Player</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_PLAYER_NAME">
-			<Text>Player Name:</Text>
+			<Text>Tên người chơi:</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_PASSWORD">
-			<Text>Password:</Text>
+			<Text>Mật khẩu:</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
-			<Text>Retype Password:</Text>
+			<Text>Gõ lại mật khẩu:</Text>
 		</Row>
 		<!-- Network Connection Status -->
 		<Row Tag="LOC_MP_PLAYER_CONNECTED">
-			<Text>Player is currently in-game.</Text>
+			<Text>Người chơi đang trong trận.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Connected]Connected[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Đã kết nối[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED">
-			<Text>Player is not connected.</Text>
+			<Text>Người chơi không kết nối.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
 			<Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_CONNECTING">
-			<Text>Player is joining the game.</Text>
+			<Text>Người chơi đang vào Game.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Connecting]Joining[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connecting]Đang vào[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY">
-			<Text>Player does not have the mods required to play in this game.</Text>
+			<Text>Người chơi không có Mod yêu cầu cho Game này.</Text>
 		</Row>
 		<Row Tag="LOC_TIME_MILLISECONDS">
 			<Text>ms</Text>
@@ -871,30 +871,30 @@
 			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Hot Seat)[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_INVITED_ONLINE">
-			<Text>[COLOR:ConnectionStatus_Connected]Invited[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Đã mời[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_INVITED_OFFLINE">
-			<Text>[COLOR:ButtonCS]Invited[ENDCOLOR]</Text>
+			<Text>[COLOR:ButtonCS]Đã mời[ENDCOLOR]</Text>
 		</Row>
 		<!-- Player Connection EVents -->
 		<Row Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
-			<Text>Connected</Text>
+			<Text>Đã kết nối</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
-			<Text>Disconnected</Text>
+			<Text>Mất kết nối</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
-			<Text>Is Now the Host</Text>
+			<Text>Bây giờ là chủ</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_KICKED_CHAT">
-			<Text>Was Kicked</Text>
+			<Text>Đã bị Kick</Text>
 		</Row>
 		<!-- Multiplayer Chat -->
 		<Row Tag="LOC_MULTIPLAYER_CHAT">
 			<Text>CHAT</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_TO_ALL">
-			<Text>To All:</Text>
+			<Text>Tới tất cả:</Text>
 		</Row>
 		<!-- Multiplayer Mod Downloads -->
 		<Row Tag="LOC_BYTES">
@@ -1005,7 +1005,7 @@
 			<Text>Không có quân man di</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURNTIMER_TYPE">
-			<Text>Turn Timer</Text>
+			<Text>Thời gian mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURN_TIMER_TIME">
 			<Text>Thời gian mỗi lượt</Text>
@@ -1196,16 +1196,16 @@
 		</Row>
 		<!-- Turn Mode Settings -->
 		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS">
-			<Text>Simultaneous Turns</Text>
+			<Text>Các lượt đồng thời</Text>
 		</Row>
 		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
-			<Text>Players take their turns at the same time.</Text>
+			<Text>Người chơi nhận lượt của họ tại cùng một thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_TURNPHASE_DYNAMIC">
-			<Text>Dynamic Turns</Text>
+			<Text>Các lượt động</Text>
 		</Row>
 		<Row Tag="LOC_TURNPHASE_DYNAMIC_DESC">
-			<Text>Players at peace take their turns at the same time.  Players at war take their turns sequentially.</Text>
+			<Text>Người chơi hòa bình nhận lượt của họ tại cùng một thời gian. Người chơi chiến tranh nhận lượt của họ lần lượt.</Text>
 		</Row>
 		<!-- Map Config Descriptions -->
 		<Row Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
@@ -1355,7 +1355,7 @@
 			<Text>Điều đó phụ thuộc vào bạn để dẫn dắt người dắt người dân của mình đến vinh quang thông qua việc xây dựng một nền văn minh sẽ đứng vững trước thử thách của thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-			<Text>Anh hùng Frederick, đức vua của người Đức, nhiệm vụ của bạn là xây dựng các tiểu bang độc lập xung quanh đế quốc của bạn. Bạn được phù hộ để trở thành một nhà lãnh đạo quân sự vĩ đại - dùng những kỹ năng đó để các thành phố dưới sự ảnh hưởng của bạn phát triển thành các cường quốc về thương mại và công nghiệp. Chắc chắn sau này các thi sĩ sẽ hát về một Frederick hùng mạnh với bộ râu đỏ, Hoàng đế La Mã Thần Thánh vĩ đại.</Text>
+			<Text>Anh hùng Frederick, đức vua của người Đức, nhiệm vụ của bạn là xây dựng các tiểu bang độc lập xung quanh đế quốc. Bạn được phù hộ để trở thành một nhà lãnh đạo quân sự vĩ đại - dùng những kỹ năng đó để các thành phố dưới sự ảnh hưởng của bạn phát triển thành các cường quốc về thương mại và công nghiệp. Chắc chắn sau này các thi sĩ sẽ hát về một Frederick hùng mạnh với bộ râu đỏ, Hoàng đế La Mã Thần Thánh vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
 			<Text>Việc này nằm trong tay bạn, Catherine de Medici, dùng những món quà về tri thức và nghệ thuật của bạn và thống nhất người dân. Hãy chỉ đạo kỹ lưỡng để vượt qua những thời điểm khó khăn này, Hoàng Thái Hậu của nước Pháp. Bạn sẽ xây dựng những kỳ quan vĩ đại, thu hút khách du lịch từ khắp nơi trên Trái Đất. Với nhận thức sắc sảo của bạn về mọi thứ, những thứ nhìn thấy được và cả những thứ đang ẩn mình trong bóng tối, đế quốc của bạn chắc chắn sẽ đứng vững trước thời gian.</Text>
@@ -1367,13 +1367,13 @@
 			<Text>Hãy tỏ ra tử tế, Gandhi Bapu, và bạn sẽ thấy bản thân mình được bao quanh bởi những người bạn chân thật. Giữ cho những người Ấn Độ được an toàn, bảo vệ họ bằng những chiến binh cưỡi voi hào hoa. Lòng tin của bạn sẽ dẫn đường bạn đến hòa bình và sự hòa hợp. Giữ cho đầu óc luôn tỉnh táo, và hãy trở thành sự thay đổi mà bạn muốn thấy trong thế giới.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
-			<Text>Rất nhiều thứ đè nặng trên vai bạn, Vua Gilgamesh. Người dân của bạn, và rất nhiều người dân trên thế giới, xem bạn như là một người lãnh đạo. Nhưng bạn còn hơn cả chỉ là một người đàn ông, và gánh nặng của thế giới sẽ không bao giờ khiến bạn lung lay. Khích lệ người dân của Sumer định cư trên những mảnh đất màu mỡ dọc con sông, và hãy chắc chắn rằng bạn chọn đồng minh kỹ lưỡng - vì sẽ có rất nhiều cuộc tranh đua để giành lấy một phần sức mạnh của bạn. Hãy mạo hiểm vì đây là lúc để bắt đầu câu chuyện sử thi của mình.</Text>
+			<Text>Rất nhiều thứ đè nặng trên vai bạn, Vua Gilgamesh. Người dân của bạn, và rất nhiều người dân trên thế giới, xem bạn như là một người lãnh đạo. Nhưng bạn còn hơn cả một người đàn ông, và gánh nặng của thế giới sẽ không bao giờ khiến bạn lung lay. Khích lệ người dân của Sumer định cư trên những mảnh đất màu mỡ dọc con sông, và hãy chắc chắn rằng bạn chọn đồng minh kỹ lưỡng - vì sẽ có rất nhiều cuộc tranh đua để giành lấy một phần sức mạnh của bạn. Hãy mạo hiểm vì đây là lúc để bắt đầu câu chuyện sử thi của mình.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
 			<Text>Gorgo, Nữ Hoàng của Sparta; vinh quang thuộc về bạn và đội quân trung thành của bạn! Hy Lạp được ban phước lành rằng sẽ có tất cả chiến thắng từ Ares. Và người dân của bạn tán thưởng sự thống lĩnh chu đáo và nền văn hóa kỳ diệu của bạn. Tự hào đi, vì di sản của Hy Lạp, và những thành tựu của bạn, sẽ được lưu truyền từ thế hệ này sang thế hệ khác.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
-			<Text>Tất cả mọi người đều lo sợ khi các con tàu của bạn tiếp cận, Vua Harald của xứ Norway, Tiếng Sét của phương Bắc. Các con tàu lớn của bạn thống trị những con sóng, luôn sẵn sàng để thả những đội quân Berserker trên những bờ biển không ngờ đến. Cầu cho Odin ban phước cho vương quốc của bạn và cầu cho các thi sĩ luôn hát về những chiến thắng của những chiến binh hùng mạnh của bạn.</Text>
+			<Text>Tất cả mọi người đều lo sợ khi các con tàu của bạn tiếp cận, Vua Harald của xứ Na Uy, Tiếng Sét của phương Bắc. Các con tàu lớn của bạn thống trị những con sóng, luôn sẵn sàng để thả những đội quân Berserker trên những bờ biển không ngờ đến. Cầu cho Odin ban phước cho vương quốc của bạn và cầu cho các thi sĩ luôn hát về những chiến thắng của những chiến binh hùng mạnh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HOJO">
 			<Text>Làn sóng lớn của Phật giáo luôn theo sát bạn, Lãnh Chúa của Nhật Bản, Hojo Tokimune. Người dân của bạn thật sự hiểu thế nào là luyện tập một cách cân bằng, và ngay cả những Samurai giỏi nhất của bạn cũng là người có học vấn và có năng khiếu. Hãy mạnh mẽ lên, vượt qua bão tố, và bạn sẽ được giác ngộ.</Text>
@@ -1382,34 +1382,34 @@
 			<Text>Đất Mẹ ban cho bạn rất nhiều món quà, Vua Mvemba a Nzinga. Người dân của bạn biết rõ từng khu rừng nhỏ và từng khu rừng nhiệt đới dày đặc như là nhà của họ vậy, và băng qua chúng một cách dễ dàng. Điều tuyệt vời là những món quà đến từ các du khách từ những mảnh đất xa xôi. Giữ cho đầu óc tỉnh táo, vì nguồn cảm hứng của thế giới bao la sẽ giúp cho người dân của bạn tạo ra những nghệ thuật quyền lực và uy nghi.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRO">
-			<Text>Người dân trông chờ ở ông, Hoàng Đế Pedro II, để dẫn dắt Brazil bước lên vũ đài của thế giới. Sử dụng danh tiếng của mình như là một người bảo trợ cho các họa sĩ, nhà khoa học, và kỹ sư để thu hút các bộ óc thiên tài về mảnh đất màu mỡ của bạn. Bởi vì nó nằm trong những cánh rừng nhiệt đới tươi tốt, với cuộc sống đông đúc, nên cuộc sống của người dân bạn rất thịnh vượng. Hãy nhìn họ nhảy những vũ điệu samba trong các lễ hội để ăn mừng các chiến công vĩ đại của bạn, Pedro the Magnanimous.</Text>
+			<Text>Người dân trông chờ ở bạn, Hoàng Đế Pedro II, để dẫn dắt Brazil bước lên vũ đài của thế giới. Sử dụng danh tiếng của mình như là một người bảo trợ cho các họa sĩ, nhà khoa học, và kỹ sư để thu hút các bộ óc thiên tài về mảnh đất màu mỡ của bạn. Bởi vì nó nằm trong những cánh rừng nhiệt đới tươi tốt, với cuộc sống đông đúc, nên cuộc sống của người dân bạn rất thịnh vượng. Hãy nhìn họ nhảy những vũ điệu samba trong các lễ hội Carnival để ăn mừng các chiến công vĩ đại của bạn, Pedro the Magnanimous.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PERICLES">
-			<Text>Sự thành thạo trong ngôn từ là một món quà giá trị của tạo hóa, "lưỡi-bạc" Pericles, lãnh tụ của Hy Lạp. Thông qua nó bạn có thể thu hút sự tôn sùng của một liên minh gồm nhiều quốc gia, vây quanh bạn bằng vinh quang của họ. Thiết lập những khu vực văn hóa dọc theo các bờ đá của Hy Lạp để thống nhất mọi người dân của bạn đằng sau sự lãnh đạo mạnh mẽ của bạn. Nếu tất cả tiến triển tốt các Siren sẽ hát về Thời đại của Perciles! thông tin.</Text>
+			<Text>Sự thành thạo trong ngôn từ là một món quà giá trị của tạo hóa, "lưỡi-bạc" Pericles, lãnh tụ của Hy Lạp. Thông qua nó bạn có thể thu hút sự tôn sùng của một liên minh gồm nhiều quốc gia, vây quanh bạn bằng vinh quang của họ. Thiết lập những khu vực văn hóa dọc theo các bờ đá của Hy Lạp để thống nhất mọi người dân đằng sau sự lãnh đạo mạnh mẽ của bạn. Nếu tất cả tiến triển tốt các Siren sẽ hát về Thời đại của Perciles!</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
-			<Text>Hãy để ngọn gió lạnh của vùng đất mẹ thổi vào lòng mình, Tsar Peter. Sự quyến rũ của ngài đối với khoa học và văn hóa là một món quà, và ngài sẽ học được rất nhiều từ những Đại Sứ Quán Vĩ Đại của mình trên những mảnh đất lạ. Dưới sự lãnh đạo của ngài, nước Nga sẽ chắc chắn mở rộng và phát triển, thu nạp tất cả những thứ xung quanh nó, có lẽ nó sẽ tạo nên đế quốc hùng mạnh nhất trên Trái đất.</Text>
+			<Text>Hãy để ngọn gió lạnh của vùng đất mẹ thổi vào lòng mình, Tsar Peter. Sự quyến rũ của bạn đối với khoa học và văn hóa là một món quà, và bạn sẽ học được rất nhiều từ những Đại Sứ Quán Vĩ Đại của mình trên những mảnh đất lạ. Dưới sự lãnh đạo của bạn, nước Nga sẽ chắc chắn mở rộng và phát triển, thu nạp tất cả những thứ xung quanh nó, có lẽ nó sẽ tạo nên đế quốc hùng mạnh nhất trên Trái đất.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
-			<Text>Tất cả người Tây Ban Nha sẵn sàng đáp lại những lời thỉnh cầu của ông ấy, Vua Philip II sùng đạo. Từ cung điện của mình ở El Escorial bạn có thể gửi đi những môn đồ của mình: những nhà truyền giáo, tông đồ và những kẻ xâm lược sẵn sàng băng qua đại dương để truyền bá những từ ngữ tốt đẹp về Đế Quốc thiêng liêng nhất của ông ấy. Cầu cho các kho báu mà họ khám phá được tiếp thêm năng lượng để ông ấy thống nhất cả thế giới dưới một tín ngưỡng và dưới một đế chế, tất cả làm bạn trở thành một vị Vua Công Giáo bậc nhất.</Text>
+			<Text>Tất cả người Tây Ban Nha sẵn sàng đáp lại những lời thỉnh cầu của bạn, Vua Philip II sùng đạo. Từ cung điện của mình ở El Escorial bạn có thể gửi đi những môn đồ của mình: những nhà truyền giáo, tông đồ và những kẻ xâm lược sẵn sàng băng qua đại dương để truyền bá những từ ngữ tốt đẹp về Đế Quốc thiêng liêng nhất của bạn. Cầu cho các kho báu mà họ khám phá được tiếp thêm năng lượng để bạn thống nhất cả thế giới dưới một tín ngưỡng và dưới một đế chế, tất cả làm bạn trở thành một vị Vua Công Giáo bậc nhất.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_QIN">
-			<Text>Sức mạnh của ông ấy nằm bên trong thần dân của người, Hoàng Đế Tần Thủy Hoàng. Từ mọi nơi trên thế giới, mọi người sẽ chăm chú ngắm nhìn trường thành vĩ đại và những kỳ quan cao ngất của đất nước Trung Hoa. Cầu cho đôi tay của những người dân ngài không bị bỏng rộp vì họ làm việc chăm chỉ và nhanh chóng để gầy dựng nên những kiến trúc ấn tượng nhất mà cả thế giới đều biết đến. Bảo vệ họ thật tốt, và bạn sẽ lưu danh muôn thuở.</Text>
+			<Text>Sức mạnh của bạn nằm bên trong thần dân của người, Hoàng Đế Tần Thủy Hoàng. Từ mọi nơi trên thế giới, mọi người sẽ chăm chú ngắm nhìn trường thành vĩ đại và những kỳ quan cao ngất của đất nước Trung Hoa. Cầu cho đôi tay của những người dân bạn không bị bỏng rộp vì họ làm việc chăm chỉ và nhanh chóng để gây dựng nên những kiến trúc ấn tượng nhất mà cả thế giới đều biết đến. Bảo vệ họ thật tốt, và bạn sẽ lưu danh muôn thuở.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_SALADIN">
 			<Text>Cuộc hôn nhân giữa khoa học và đạo giáo là một môn nghệ thuật cần có sự cân bằng tinh tế, nhưng bạn đã thành thục nó, Saladin. Nhiệm vụ tìm kiếm tri thức của bạn là rất cao quý, và người dân của bạn có lòng kính trọng sâu sắc dành cho bạn. Nhưng bạn không cần phải gấp rút vào những thứ không xác định. Vào một lúc nào đó, tất cả câu trả lời của những câu đố khó nhất trong cuộc sống sẽ tự tìm đường trở về Ả Rập.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
-			<Text>Tất cả mọi người đều run sợ và kính trọng cô, chiến binh vĩ đại Nữ Hoàng Tomyris. Vì trên lưng ngựa, cô sẽ nhìn về phía trước và dẫn dắt người dân của Scythian. Những bản anh hùng ca đều sẽ kể về những chiến binh cưỡi ngựa băng qua các cánh đồng hoang, và trên tiền tuyến của mỗi trận chiến - họ sẽ tìm về cô. Tiến lên, nữ hoàng khốc liệt, và mong các bằng hữu của người sẽ khiến kẻ thù phải chùn bước.</Text>
+			<Text>Tất cả mọi người đều run sợ và kính trọng bạn, chiến binh vĩ đại Nữ Hoàng Tomyris. Vì trên lưng ngựa, bạn sẽ nhìn về phía trước và dẫn dắt người dân của Scythian. Những bản anh hùng ca đều sẽ kể về những chiến binh cưỡi ngựa băng qua các cánh đồng hoang, và trên tiền tuyến của mỗi trận chiến - họ sẽ tìm về bạn. Tiến lên, nữ hoàng khốc liệt, và mong các bằng hữu của người sẽ khiến kẻ thù phải chùn bước.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
 			<Text>Ném lưới của bạn đi thật xa, ôi Trjan, Hoàng để của La Mã vĩ đại. Quân đoàn của bạn đã sẵn sàng để hành quân và xây dựng một đế chế lớn nhất thế giới từng thấy. Nếu bạn thật sự có thể dẫn mọi con đường đến La Mã, đế chế của bạn sẽ trở nên giàu có và xa hoa. Chắc chắn rằng sau đó người dân của bạn sẽ tuyên bố bạn là người lãnh đạo tài giỏi nhất mà họ có, Nhà Lãnh đạo Tài Ba.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
-			<Text>Mọi thứ đều đặt lên đôi vai rộng của bạn, Theodore Roosevelt, để tiến lên phía trước và dẫn dắt người dân của mình trong những chuyến thám hiểm vĩ đại của họ. Dùng sức mạnh quân sự của mình để cho mọi người ở quê hương một sự đối đãi công bằng mà họ xứng đáng được nhận trong tuyệt vọng. Chắc chắn rằng bạn sẽ gầy dựng nên một nước Mỹ sẽ soi sáng băng qua khắp các đại dương và thu hút mọi người. Bạn rất xứng đáng, Ngài Tổng Thống.</Text>
+			<Text>Mọi thứ đều đặt lên đôi vai rộng của bạn, Theodore Roosevelt, để tiến lên phía trước và dẫn dắt người dân của mình trong những chuyến thám hiểm vĩ đại của họ. Dùng sức mạnh quân sự của mình để cho mọi người ở quê hương một sự đối đãi công bằng mà họ xứng đáng được nhận trong tuyệt vọng. Chắc chắn rằng bạn sẽ gây dựng nên một nước Mỹ sẽ soi sáng băng qua khắp các đại dương và thu hút mọi người. Bạn rất xứng đáng, Ngài Tổng Thống.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
-			<Text>Muôn tâu nữ Hoàng Victoria của nước Anh, hãy mở rộng lãnh thổ trên khắp mọi nơi trên địa cầu. Đừng lo lắng về thất bại vì đã có đội quân áo choàng đỏ trung thành của ngài và cả đội hải quân áp đảo. Với sự bình tĩnh và cẩn trọng ngài có thể đem mọi mảnh đất về dưới trướng của nước Anh, xây dựng nên một Thái bình Anh Quốc.</Text>
+			<Text>Muôn tâu nữ Hoàng Victoria của nước Anh, hãy mở rộng lãnh thổ trên khắp mọi nơi trên địa cầu. Đừng lo lắng về thất bại vì đã có đội quân áo choàng đỏ trung thành của bạn và cả đội hải quân áp đảo. Với sự bình tĩnh và cẩn trọng bạn có thể đem mọi mảnh đất về dưới trướng của nước Anh, xây dựng nên một Thái bình Anh Quốc.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_ANCIENT_DESCRIPTION">
 			<Text>Từ những bước chuyển mình đầu tiên của sự sống dưới đáy biển sâu...cho đến những con quái vật khổng lồ của thời đổ đá...đến khi con người đi những bước thẳng mình đầu tiên, bạn đã đi rất xa. Và bây giờ sứ mệnh vĩ đại của bạn đã bắt đầu: từ thuở hoang sơ của nền văn minh nhân loại tiến về phía những vì sao.</Text>

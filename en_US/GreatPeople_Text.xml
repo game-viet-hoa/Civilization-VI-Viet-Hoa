@@ -19,7 +19,7 @@
 			<Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?lần; other?lần;}</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
-			<Text>Kích hoạt ở Khu linh thiêng hoặc Bãi đá Stonehenge.</Text>
+			<Text>Kích hoạt ở Thánh Địa hoặc Bãi đá Stonehenge.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
 			<Text>Kích hoạt ở Đặc Khu hoặc kỳ quan còn trống slot Thành tựu vĩ đại.</Text>
@@ -198,7 +198,7 @@
 			<Text>Ngay lập tức có đơn vị Xe Tăng với 1 huân chương.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
-			<Text>Ngay lập tức có đơn vị Chống Tăng hiện đại với 1 huân chương.</Text>
+			<Text>Ngay lập tức có đơn vị Chống tăng hiện đại với 1 huân chương.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
 			<Text>Nhận 1 huân chương và +100% EXP cho một đơn vị quân sự mặt đất.</Text>
@@ -420,13 +420,13 @@
 			<Text>Nhận {Amount} [ICON_RESOURCE_PERFUME] Nước hoa, một tài nguyên quý được sản xuất duy nhất cung cấp +6 [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
-			<Text>Nhận 1 [ICON_RESOURCE_OIL] Dầu, một tài nguyên chiến thuật. [ICON_TradeRoute] Tuyến đường thương mại nhận +2 [ICON_Gold] Vàng cho mỗi tài nguyên chiến thuật được khai thác ở thành phố đích.</Text>
+			<Text>Nhận 1 [ICON_RESOURCE_OIL] Dầu, một tài nguyên chiến lược. [ICON_TradeRoute] Tuyến đường thương mại nhận +2 [ICON_Gold] Vàng cho mỗi tài nguyên chiến lược được khai thác ở thành phố đích.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_OIL">
-			<Text>Nhận {Amount} [ICON_RESOURCE_OIL] Dầu, một tài nguyên chiến thuật.</Text>
+			<Text>Nhận {Amount} [ICON_RESOURCE_OIL] Dầu, một tài nguyên chiến lược.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
-			<Text>[ICON_TradeRoute] Tuyến đường thương mại nhận +{Amount} [ICON_Gold] Vàng cho mỗi tài nguyên chiến thuật được khai thác bởi thành phố đích đến.</Text>
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại nhận +{Amount} [ICON_Gold] Vàng cho mỗi tài nguyên chiến lược được khai thác bởi thành phố đích đến.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
 			<Text>+{Amount}% tỷ lệ [ICON_Tourism] Du lịch đối với nền văn minh khác mà bạn có [ICON_TradeRoute] Tuyến đường thương mại tới đó.</Text>
@@ -475,7 +475,7 @@
 			<Text>Thúc đẩy {Amount} công nghệ ngẫu nhiên thuộc thời Trung cổ hoặc Phục hưng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
-			<Text>[ICON_Faith] Đức Tin của Khu linh thiêng liền kề nhận [ICON_Science] Khoa học bằng như vậy.</Text>
+			<Text>[ICON_Faith] Đức Tin của Thánh Địa liền kề nhận [ICON_Science] Khoa học bằng như vậy.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_FAITH">
 			<Text>Nhận {Amount} [ICON_Faith] Đức Tin.</Text>

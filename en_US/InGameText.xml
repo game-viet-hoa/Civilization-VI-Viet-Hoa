@@ -1629,7 +1629,7 @@
 			<Text>Tổng {1_NumRouteCapacity} [ICON_TradeRoute] Tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_SOURCES_HELP">
-			<Text>Trung tâm thương mại và khu hải cảng là nguồn chính tạo ra [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Khu thương mại và khu hải cảng là nguồn chính tạo ra [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_TOP_PANEL_INFLUENCE">
 			<Text>Phái Đoàn</Text>
@@ -2175,7 +2175,7 @@
 			<Text>Vĩ nhân</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_FILTER_WILDCARD">
-			<Text>Đặc biệt</Text>
+			<Text>Bất ngờ</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_GOVERNMENT">
 			<Text>Chính phủ</Text>
@@ -2217,7 +2217,7 @@
 			<Text>Chính sách quân sự</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_POLICY_TYPE_WILDCARD">
-			<Text>Chính sách đặc biệt</Text>
+			<Text>Chính sách bất ngờ</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_PREVIOUS">
 			<Text>Trước</Text>
@@ -2238,7 +2238,7 @@
 			<Text>Mở khóa khi hành chính {1_CivicName} hoàn tất.</Text>
 		</Row>
     <Row Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
-      <Text>Không có slot Chính sách đặc biệt được cung cấp bởi chính phủ này.</Text>
+      <Text>Không có slot Chính sách bất ngờ được cung cấp bởi chính phủ này.</Text>
     </Row>
     <Row Tag="LOC_GOVT_NO_MILITARY_SLOTS">
       <Text>Không có slot chính sách quân sự được cung cấp bởi chính phủ này.</Text>
@@ -2260,7 +2260,7 @@
 			<Text>Xây Khu Tri Thức</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_HOLY_SITE">
-			<Text>Xây Khu Linh Thiêng</Text>
+			<Text>Xây Thánh Địa</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_BUILD_ENCAMPMENT">
 			<Text>Xây Khu Quân Sự</Text>
@@ -2955,7 +2955,7 @@
 			<Text>Tài nguyên thưởng</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_STRATEGIC_RESOURCE">
-			<Text>Tài nguyên chiến thuật</Text>
+			<Text>Tài nguyên chiến lược</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE">
 			<Text>Tài nguyên cổ vật</Text>
@@ -3293,7 +3293,7 @@
 			<Text>Kiếm một Vĩ Nhân để bắt đầu một tôn giáo đầy đủ (có thêm 2 tín ngưỡng).</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_USE_PROPHET">
-			<Text>Di chuyển Nhà Tiên Tri tới Khu Linh Thiêng hoặc Bãi đá Stonehenge và chọn Sáng Lập Tôn Giáo.</Text>
+			<Text>Di chuyển Nhà Tiên Tri tới Thánh Địa hoặc Bãi đá Stonehenge và chọn Sáng Lập Tôn Giáo.</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_EVANGELIZE_BELIEF">
 			<Text>Mua một Tông Đồ và thực hiện Truyền Đạo tín ngưỡng để thêm một tín ngưỡng khác.</Text>
@@ -3440,10 +3440,10 @@
 			<Text>{1_BonusAmount} Đức Tin được sản xuất bởi Đặc Khu này.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_APOSTLE_TT">
-			<Text>Phải có Đền Thờ trong Khu Linh Thiêng để mua Tông Đồ.</Text>
+			<Text>Phải có Đền Thờ trong Thánh Địa để mua Tông Đồ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_MISSIONARY_TT">
-			<Text>Phải có Miếu trong Khu Linh Thiêng để mua Nhà Truyền Giáo.</Text>
+			<Text>Phải có Miếu trong Thánh Địa để mua Nhà Truyền Giáo.</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_INQUISITOR_TT">
 			<Text>Nền tôn giáo này chúng ta cần dành ra một Tông Đồ đề Thẩm Tra tôn giáo trước khi mua các Thẩm Giáo. Cần phải có một Đền Thờ trong thành phố để mua được họ.</Text>
@@ -4779,13 +4779,13 @@
 			<Text>Chi Phí Đơn Vị</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_SOURCES">
-			<Text>Tào nguyên</Text>
+			<Text>Tài nguyên</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_STRATEGICS">
 			<Text>Chiến thuật</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_STRATEGIC_RESOURCES">
-			<Text>Chiến thuật tài nguyên</Text>
+			<Text>Tài nguyên chiến lược</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TAB_CITY_STATUS">
 			<Text>Trạng thái thành phố</Text>
@@ -5123,13 +5123,13 @@
 			<Text>Bạn đã thua cuộc.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_TEXT">
-			<Text>From our humble beginnings ages ago have you forged a civilization that has withstood time itself. Though countless civilizations rise and fall around us, we do not just survive. We prosper.</Text>
+			<Text>Từ một khởi đầu khiêm tốn từ nhiều năm trước bạn đã xây dựng lên được 1 nền văn minh tồn tại qua nhiều giai đoạn. Với rất nhiều những nền văn minh khác đang phát triển và sụp đổ, chúng ta không chỉ tồn tại mà còn rất phát triển.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCIENCE_TEXT">
-			<Text>Much as our ancestors did ages ago, we thrust forward into the unknown. The first pioneers set forth on an uneasy course, and yet once again our people thrive.</Text>
+			<Text>Cũng như tổ tiên ta đã làm từ lâu đời, chúng ta khám phá những điều bí ẩn. Những người tiên phong đã mở đường, nhờ đó cuộc sống người dân ngày càng phát triển.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_RELIGION_TEXT">
-			<Text>We have a basic need to believe in something greater than ourselves. We crave solace in the darkness, a light unto our path. Thanks to you, we’ve found meaning amid the Cosmos.</Text>
+			<Text>Chúng ta có một niềm tin rằng luôn có những thứ vĩ đại hơn bản thân chúng ta. Chúng ta khao khát tìm được lối đi trong bóng tối và ánh sáng đã soi đường cho chúng ta. Nhờ bạn, chúng ta đã hiểu được ý nghĩa của không gian vũ trụ.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_CULTURE_TEXT">
 			<Text>The worth of a culture is not measured by its accomplishments, but in how those accomplishments last, and how they are remembered. The beauty that you have inspired our people to create will ensure that our culture stands for all time.</Text>

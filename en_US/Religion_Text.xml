@@ -229,24 +229,24 @@
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
 		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
-			<Text>Khu linh thiêng +1 [ICON_Faith] Đức Tin từ Đài nguyên gần kề.</Text>
+			<Text>Thánh Địa +1 [ICON_Faith] Đức Tin từ Đài nguyên gần kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
-			<Text>Khu linh thiêng +1 [ICON_Faith] Đức Tin từ địa hình Sa mạc gần kề.</Text>
+			<Text>Thánh Địa +1 [ICON_Faith] Đức Tin từ địa hình Sa mạc gần kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
-			<Text>Khu linh thiêng +1 [ICON_Faith] Đức Tin từ địa hình Rừng nhiệt đới gần kề.</Text>
+			<Text>Thánh Địa +1 [ICON_Faith] Đức Tin từ địa hình Rừng nhiệt đới gần kề.</Text>
 		</Row>
 		<!--Pantheon - Amenity Bonuses-->
 		<Row Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Tiện nghi cho các thành phố nếu Khu linh thiêng gần kề một dòng sông.</Text>
+			<Text>+1 [ICON_Amenities] Tiện nghi cho các thành phố nếu Thánh Địa gần kề một dòng sông.</Text>
 		</Row>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
 			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan thời Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
-			<Text>+1 điểm Vĩ nhân từ Khu linh thiêng (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
+			<Text>+1 điểm Vĩ nhân từ Thánh Địa (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
 		</Row>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
@@ -257,7 +257,7 @@
 			<Text>+1 [ICON_Production] Sản phẩm từ Thuyến đánh cá.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Văn minh từ Trang trại.</Text>
+			<Text>+1 [ICON_Culture] Văn minh từ Bãi Chăn.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
 			<Text>+1 [ICON_Food] Thực phẩm từ Trại.</Text>
@@ -272,23 +272,23 @@
 			<Text>+1 [ICON_Production] Sản phẩm từ Mỏ tài nguyên chiến thuật.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Thực phẩm từ Vườn ươm [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Trầm Hương, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê và [ICON_RESOURCE_TEA] Trà.</Text>
+			<Text>+1 [ICON_Food] Thực phẩm từ Đồn Điền [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Trầm Hương, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê và [ICON_RESOURCE_TEA] Trà.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Văn minh từ Vườn ươm [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị và [ICON_RESOURCE_SUGAR] Đường.</Text>
+			<Text>+1 [ICON_Culture] Văn minh từ Đồn Điền [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị và [ICON_RESOURCE_SUGAR] Đường.</Text>
 		</Row>
 		<!--Pantheon - Military -->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
 			<Text>+25% [ICON_Production] Sản phẩm đối với đơn vị quân sự thời Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
-			<Text>+30 chữa trị trong Khu linh thiêng hoặc bất kỳ ô đất liền kề.</Text>
+			<Text>+30 chữa trị trong Thánh Địa hoặc bất kỳ ô đất liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Thưởng [ICON_Faith] Đức Tin bằng 50% sức mạnh kẻ địch bị giết trong vòng 8 ô của Khu linh thiêng.</Text>
+			<Text>Thưởng [ICON_Faith] Đức Tin bằng 50% sức mạnh kẻ địch bị giết trong vòng 8 ô của Thánh Địa.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
-			<Text>+50 [ICON_Faith] Đức Tin mỗi khi tiền đồn quân man di bị xóa bỏ.</Text>
+			<Text>+50 [ICON_Faith] Đức Tin mỗi khi Trại Man Di bị xóa bỏ.</Text>
 		</Row>
 		<!--Pantheon - General Purpose-->
 		<Row Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
@@ -349,7 +349,7 @@
 			<Text>+2 [ICON_Gold] Vàng cho mỗi thành phố theo đạo tôn giáo này.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
-			<Text>Mỗi Khu linh thiêng hoặc Khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
+			<Text>Mỗi Thánh Địa hoặc Khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
 			<Text>Thưởng các loại từ thành phố tự trị theo đạo tôn giáo của bạn hơn 50%.</Text>
@@ -358,7 +358,7 @@
 			<Text>+2 [ICON_Faith] Đức Tin cho mỗi thành phố theo đạo tôn giáo này ở trong nền văm minh khác và các thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
-			<Text>Mỗi khu tri thức hoặc trung tâm thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>
+			<Text>Mỗi khu tri thức hoặc Khu thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_TITHE_DESCRIPTION">
 			<Text>+1 [ICON_Gold] Vàng cho mỗi 4 tín đồ theo tôn giáo này.</Text>

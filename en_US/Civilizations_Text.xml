@@ -282,7 +282,7 @@
 			<Text>Rừng Amazon</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
-			<Text>Rừng nhiệt đới +1 cho khu tri thức, trung tâm thương mại, khu linh thiêng và khu nghệ thuật liền kề. Rừng nhiệt đới +1 [ICON_Housing] Nhà ở cho Vùng ngoại ô xây liền kề chúng.</Text>
+			<Text>Rừng nhiệt đới +1 cho khu tri thức, Khu thương mại, Thánh Địa và khu nghệ thuật liền kề. Rừng nhiệt đới +1 [ICON_Housing] Nhà ở cho Vùng ngoại ô xây liền kề chúng.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
 			<Text>Chu kỳ của thời đại</Text>
@@ -324,7 +324,7 @@
 			<Text>Nhiệm vụ đặc biệt</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
-			<Text>Khi chiếm được tiền đồn quân man di, nhận một làng thổ dân ngoài việc được [ICON_Gold] Vàng. Trả một nửa phí để điều khiển quân đội thành phố tự trị.</Text>
+			<Text>Khi chiếm được Trại Man Di, nhận một làng thổ dân ngoài việc được [ICON_Gold] Vàng. Trả một nửa phí để điều khiển quân đội thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
 			<Text>Sông Nin</Text>
@@ -336,7 +336,7 @@
 			<Text>Nền cộng hòa Plato</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
-			<Text>Một slot chính sách đặc biệt trong chính phủ bất kỳ.</Text>
+			<Text>Một slot chính sách bất ngờ trong chính phủ bất kỳ.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
 			<Text>Đất mẹ Nga</Text>
@@ -366,7 +366,7 @@
 			<Text>Nhà sáng lập</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
-			<Text>Kiếm được tất cả phần thưởng kế thừa chính phủ hơn một nửa thời gian so với bình thường.</Text>
+			<Text>Kiếm được tất cả phần thưởng kế thừa chính phủ nhanh hơn một nửa thời gian so với bình thường.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
 			<Text>Tượng trưng tôn giáo Ấn Độ</Text>
@@ -375,13 +375,13 @@
 			<Text>Nhận thưởng "Tín ngưỡng của tín đồ" trong một thành phố từ mỗi tôn giáo mà có ít nhất một tín đồ.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
-			<Text>Grand Tour</Text>
+			<Text>Cuộc dạo chơi quý tộc</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
 			<Text>+20% [ICON_Production] Sản phẩm đối với kỳ quan thời Trung cổ, Phục hưng và Công nghiệp. [ICON_Tourism] Du lịch từ kỳ quan ở bất kỳ thời đại nào đều được x2.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
-			<Text>Free Imperial Cities</Text>
+			<Text>Thành phố không thuộc hoàng gia</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
 			<Text>Mỗi thành phố có thể xây thêm một Đặc Khu hơn bình thường (vượt giá giới hạn bình thường dựa trên [ICON_Citizen] Dân số).</Text>
@@ -393,7 +393,7 @@
 			<Text>Tất cả thành phố bạn thành lập hoặc chinh phục bắt đầu với một điểm thưởng mại. Nếu [ICON_TradeRoute] Tuyến đường thương mại trong tầm [ICON_Capital] Thủ Đô, họ cũng bắt đầu với một con đường đến đó. [ICON_TradeRoute] Tuyến đường thương mại của bạn +1 [ICON_Gold] Vàng cho mỗi lần đi qua diểm thương mại ở trong các thành phố bạn.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
-			<Text>Knarr</Text>
+			<Text>Thuyền của người Viking</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
 			<Text>Các đơn vị có được khả năng đi vào ô đại dương sau khi nghiên cứu công nghệ Đóng tàu. Đơn vị hải quân cận chiến được hồi sức trên lãnh thổ trung lập. Đơn vị bỏ phạt [ICON_Movement] Di chuyển cho việc đón và trả.</Text>
@@ -638,7 +638,7 @@
 			<Text>Công trình đặc biệt của Trung Hoa: Vạn Lý Trường Thành</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
-			<Text>Công trình đặc biệt của Ai Cập: Nhân sư</Text>
+			<Text>Công trình đặc biệt của Ai Cập: Tượng Nhân Sư</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
 			<Text>Đơn vị đặc biệt của Ai Cập: Tiễn mã Ai Cập</Text>
@@ -647,7 +647,7 @@
 			<Text>Đơn vị đặc biệt của Trung Hoa: Ngạo Hổ</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
-			<Text>Công trình đặc biệt của Pháp: Château</Text>
+			<Text>Công trình đặc biệt của Pháp: Lâu đài Pháp</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
 			<Text>Đặc khu đặc biệt của Đức: Khu Hansa</Text>
@@ -659,7 +659,7 @@
 			<Text>Đơn vị đặc biệt của Hy Lạp: Lính xiên Hy Lạp</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
-			<Text>Công trình đặc biệt của Ấn Độ: Giếng Stepwell</Text>
+			<Text>Công trình đặc biệt của Ấn Độ: Giếng bậc thang</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
 			<Text>Kiến trúc đặc biệt của Nhật Bản: Nhà máy điện tử</Text>
@@ -683,7 +683,7 @@
 			<Text>Đơn vị đặc biệt của Kongo: Ngao Mbeba</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
-			<Text>Đặc khu đặc biệt của Nga: Khu linh thiêng Lavra</Text>
+			<Text>Đặc khu đặc biệt của Nga: Thánh Địa Lavra</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
 			<Text>Công trình đặc biệt của Scythia: Nấm mồ</Text>
@@ -692,7 +692,7 @@
 			<Text>Đơn vị đặc biệt của Scythia: Tiễn mã Saka</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
-			<Text>Công trình đặc biệt của Tây Ban Nha: Mission</Text>
+			<Text>Công trình đặc biệt của Tây Ban Nha: Tòa nhà truyền giáo</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
 			<Text>Đơn vị đặc biệt của Tây Ban Nha: Kẻ chinh phục</Text>

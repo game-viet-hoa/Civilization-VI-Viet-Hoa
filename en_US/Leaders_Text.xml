@@ -352,10 +352,10 @@
 			<Text>+2 [ICON_Faith] Đức Tin cho [ICON_Capital] Thủ Đô của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Đức Tin cho mỗi Khu linh thiêng.</Text>
+			<Text>+2 [ICON_Faith] Đức Tin cho mỗi Thánh Địa.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Thêm +2 [ICON_Faith] Đức Tin cho mỗi Khu linh thiêng.</Text>
+			<Text>Thêm +2 [ICON_Faith] Đức Tin cho mỗi Thánh Địa.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
 			<Text>Thành phố tự trị thương mại</Text>
@@ -367,10 +367,10 @@
 			<Text>+4 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Vàng cho mỗi trung tâm thương mại.</Text>
+			<Text>+4 [ICON_Gold] Vàng cho mỗi Khu thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Thêm +4 [ICON_Gold] cho mỗi trung tâm thương mại.</Text>
+			<Text>Thêm +4 [ICON_Gold] cho mỗi Khu thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
 			<Text>Thành phố tự trị văn hóa</Text>
@@ -493,7 +493,7 @@
 			<Text>Thưởng cho chủ La Venta</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
-			<Text>Thợ xây có thể xây Đầu Colossal Head.</Text>
+			<Text>Thợ xây có thể xây Đầu khổng lồ.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LISBON_NAME">
 			<Text>Thưởng cho chủ Lisbon</Text>
@@ -639,7 +639,7 @@
 			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới nền văn minh khác +4 [ICON_Gold] Vàng cho Ai Cập. [ICON_TradeRoute] Tuyến đường thương mại của nền văn minh khác tới Ai Cập +2 [ICON_Food] Thực phẩm cho họ và +2 [ICON_Gold] Vàng cho Ai Cập.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
-			<Text>Đơn vị mặt đất +5 [ICON_Strength] Sức mạnh trong ô đất liền kề bờ biển; đơn vị hải quân +5 [ICON_Strength] Sức mạnh trong ô nước cạn. Xây Khu quân sự, Khu linh thiêng, và Khu nghệ thuật giảm một nửa thời gian.</Text>
+			<Text>Đơn vị mặt đất +5 [ICON_Strength] Sức mạnh trong ô đất liền kề bờ biển; đơn vị hải quân +5 [ICON_Strength] Sức mạnh trong ô nước cạn. Xây Khu quân sự, Thánh Địa, và Khu nghệ thuật giảm một nửa thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
 			<Text>Thẩm Giáo có thể Loại Bỏ Dị Giáo thêm một lần. Đơn vị chiến đấu có thưởng +4 [ICON_Strength] Sức mạnh khi chống lại người chơi có tôn giáo khác.</Text>
@@ -657,7 +657,7 @@
 			<Text>Kiến trúc Thánh Đường của Tôn Giáo họ có thể được mua bởi bất kỳ người chơi nào chỉ với giá bằng 1/10 [ICON_Faith] Đức Tin. Kiến trúc Thánh Đường tăng 10% cho [ICON_Science] Khoa học, [ICON_Faith] Đức Tin và [ICON_Culture] Văn minh cho các thành phố của Ả Rập.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
-			<Text>Có thể không thể xây Khu linh thiêng, chiêu mộ Nhà tiên tri vĩ đại, hoặc sáng lập tôn giáo. Thu thập tất cả Tín Ngưỡng của bất cứ Tôn Giáo nào chiếm đa số trong thành phố của ông ấy. Nhận một Tông Đồ mỗi lần ông ta hoàn tất một khu M'Banza hoặc khu Nghệ Thuật (của Tôn Giáo chiếm đa số trong thành phố đó).</Text>
+			<Text>Có thể không thể xây Thánh Địa, chiêu mộ Nhà tiên tri vĩ đại, hoặc sáng lập tôn giáo. Thu thập tất cả Tín Ngưỡng của bất cứ Tôn Giáo nào chiếm đa số trong thành phố của ông ấy. Nhận một Tông Đồ mỗi lần ông ta hoàn tất một khu M'Banza hoặc khu Nghệ Thuật (của Tôn Giáo chiếm đa số trong thành phố đó).</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
 			<Text>Đơn vị +5 [ICON_Strength] Sức mạnh trên lục địa nhà của họ. +1 Sức Hấp Dẫn cho tất cả ô đất trong thành phố với Công viên quốc gia. Có được Kị Binh Tình Nguyện khi họ nghiên cứu công nghệ Súng Trường.</Text>

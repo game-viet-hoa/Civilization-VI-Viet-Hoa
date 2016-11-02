@@ -51,10 +51,10 @@
 			<Text>+1 [ICON_Production] Sản phẩm cho công trình Mỏ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
-			<Text>Cho phép hoạt động Hiệp ước nghiên cứu. +1 [ICON_Food] Thực phẩm cho công trình Vườn ươm.</Text>
+			<Text>Cho phép hoạt động Hiệp ước nghiên cứu. +1 [ICON_Food] Thực phẩm cho công trình Đồn Điền.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SANITATION_DESCRIPTION">
-			<Text>Giếng Stepwell nhận +1 [ICON_Housing] Nhà ở.</Text>
+			<Text>Giếng bậc thang nhận +1 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
 			<Text>+2 [ICON_Movement] Di chuyển cho đơn vị lên tàu.</Text>
@@ -63,7 +63,7 @@
 			<Text>Thưởng [ICON_Tourism] Du lịch cho tất cả công trình cung cấp [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
-			<Text>Nâng cấp công trình Nông trường thành Nông nghiệp máy móc. +1 [ICON_Food] Thực phẩm cho mỗi ô liền kề Nông trường.</Text>
+			<Text>Nâng cấp công trình Nông Trại thành Nông nghiệp máy móc. +1 [ICON_Food] Thực phẩm cho mỗi ô liền kề Nông Trại.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
 			<Text>+1 [ICON_Production] Sản phẩm từ công trình Xưởng gỗ.</Text>
@@ -84,7 +84,7 @@
 			<Text>+1 [ICON_Gold] Vàng cho Trại.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
-			<Text>+1 [ICON_Production] Sản phẩm cho Trang trại.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm cho Bãi Chăn.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
 			<Text>Có thể hoàn thành nhiều lần, giúp tăng điểm đối với Chiến Thắng Điểm.</Text>
@@ -120,7 +120,7 @@
 			<Text>Tạo [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
-			<Text>Xây Trang trại.</Text>
+			<Text>Xây Bãi Chăn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
 			<Text>Xây Mỏ Sắt.</Text>
@@ -297,7 +297,7 @@
 			<Text>Tạo [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
-			<Text>Xây Trang trại.</Text>
+			<Text>Xây Bãi Chăn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
 			<Text>Xây Mỏ Sắt.</Text>

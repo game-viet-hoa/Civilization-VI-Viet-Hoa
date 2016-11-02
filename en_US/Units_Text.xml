@@ -231,10 +231,10 @@
 			<Text>Đơn vị Đại Pháo thời Phục hưng, lý tưởng để tấn công các thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi có được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
-			<Text>Đơn vị Đại bác thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Pháo binh thời Hiện đại, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi dành được huân chương Expert Crew.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
-			<Text>Đơn vị Tên lửa hạng nhẹ thời Thông tin, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi có được huân chương Expert Crew.</Text>
+			<Text>Đơn vị Pháo phản lực thời Thông tin, lý tưởng để tấn công thành phố. Không thể di chuyển và tấn công trong cùng một lượt, trừ khi có được huân chương Expert Crew.</Text>
 		</Row>
 		<!-- Support-->
 		<Row Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
@@ -374,7 +374,7 @@
 			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
-			<Text>Đơn vị thời Cổ đại thay thế Kỵ sĩ của Ấn Độ. -5 [ICON_Strength] Sức mạnh cho tất cả kẻ địch liền kề.</Text>
+			<Text>Đơn vị thời Cổ đại thay thế Lính Ngựa của Ấn Độ. -5 [ICON_Strength] Sức mạnh cho tất cả kẻ địch liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
 			<Text>Đơn vị thời cổ đại thay thế Kiếm sĩ của Kongo. +10 [ICON_Strength] Sức mạnh khi đang phòng thủ chống lại tấn công tầm xa. Có thể di chuyển và nhìn xuyên qua Rừng và Rừng nhiệt đới.</Text>

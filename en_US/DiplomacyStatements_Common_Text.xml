@@ -3,13 +3,13 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLO_PERSON_CLEO">
-			<Text>Cleopatra of Egypt</Text>
+			<Text>Cleopatra của Ai Cập</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_CLEO">
-			<Text>Chúc mừng du khách. Ngài nên biết rằng mình đang được chứng kiến sự hiện diện của sự vĩ đại.</Text>
+			<Text>Chào mừng du khách. Ngài nên biết rằng mình đang được chứng kiến sự hiện diện của sự vĩ đại.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ADVISOR_READY">
-			<Text>Ngài muốn làm gì thế, thần dân của ta?</Text>
+			<Text>Ngài muốn làm gì thế, thưa ngài?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
 			<Text>Thiết lập tình hữu nghị</Text>
@@ -18,34 +18,34 @@
 			<Text>Đề xuất hòa bình</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
-			<Text>[SIZE_16]Yêu cầu đi lại tự do[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Yêu cầu tự do đi lại[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
 			<Text>[SIZE_16]Gửi phái đoàn[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
-			<Text>[SIZE_16]Đại sứ quán thường trú[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Thiết lập đại sứ quán thường trú[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
-			<Text>Tố cáo</Text>
+			<Text>Lăng mạ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
-			<Text>[SIZE_16]Chiến tranh bất ngờ[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Tuyên bố chiến tranh bất ngờ[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Tuyên bố chính thức chiến tranh[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
 			<Text>[SIZE_16]Tuyên bố thánh chiến[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh giải phóng[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố đồng minh)[NEWLINE]</Text>
+			<Text>[SIZE_16]Tuyên bố chiến tranh giải phóng[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố bạn bè)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
 			<Text>[SIZE_16]Tuyên bố chiến tranh chống xâm lược[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố của bạn)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh bảo kê[NEWLINE][SIZE_12](Không bị phạt nếu phòng thủ thành phố tự trị dồng minh)[NEWLINE]</Text>
+			<Text>[SIZE_16]Tuyên bố chiến tranh bảo kê[NEWLINE][SIZE_12](Không bị phạt nếu phòng thủ thành phố tự trị đồng minh)[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
 			<Text>[SIZE_16]Tuyên bố chiến tranh thuộc địa[NEWLINE][SIZE_12]</Text>
@@ -54,7 +54,7 @@
 			<Text>[SIZE_16]Tuyên bố chiến tranh mở rộng lãnh thổ[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
-			<Text>Hình phạt gây chiến: {1_WarmongerLevel}</Text>
+			<Text>Hình phạt chiến tranh: {1_WarmongerLevel}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
 			<Text>Giá {1_Cost} [ICON_Gold] Vàng</Text>
@@ -111,7 +111,7 @@
       <Text>Hứa dân di cư không gần các thành phố của ta</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
-      <Text>Hứa không chuyển đôi tôn giáo thành phố</Text>
+      <Text>Hứa không cải giáo tôn giáo thành phố của ta</Text>
     </Row>
     <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
       <Text>Hứa không đào cổ vật</Text>
