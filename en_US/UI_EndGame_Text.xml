@@ -3,25 +3,25 @@
 	<BaseGameText>
 		<!-- Base Menu-->
 		<Row Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
-			<Text>Replay Movie</Text>
+			<Text>Chiếu Lại Đoạn Phim</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_MAIN_MENU">
-			<Text>Main Menu</Text>
+			<Text>Menu Chính</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
-			<Text>Just One More Turn...</Text>
+			<Text>Chỉ MỘT Lượt Nữa Thôi...</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
-			<Text>Next Player</Text>
+			<Text>Người Chơi Kế Tiếp</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_VICTORY_INFO">
-			<Text>INFO</Text>
+			<Text>THÔNG TIN</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING">
-			<Text>RANKING</Text>
+			<Text>XẾP HẠNG</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_REPLAY">
-			<Text>REPLAY</Text>
+			<Text>CHIẾU LẠI</Text>
 		</Row>
     <Row Tag="LOC_UI_ENDGAME_CHAT">
       <Text>CHAT</Text>
@@ -30,217 +30,217 @@
 			<Text>{1_number}.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_POP_SCORE">
-			<Text>Score</Text>
+			<Text>Điểm Số</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_LEADER_NAME">
-			<Text>Leader Name</Text>
+			<Text>Tên Lãnh Đạo</Text>
 		</Row>
 
 		<!-- Rankings -->
 		<Row Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
-			<Text>You have achieved the level of {1_LeaderName}</Text>
+			<Text>Bạn đã đạt đến cấp của {1_LeaderName}</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
 			<Text>Augustus Caesar</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
-			<Text>I found Rome a city of bricks and left it a city of marble.</Text>
+			<Text>Tôi xây dựng nên La Mã từ gạch vụn và để lại một thành phố cẩm thạch.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
 			<Text>Hammurabi</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
-			<Text>When Marduk sent me to rule over men, to give the protection of right to the land, I did right and righteousness, and brought about the well-being of the oppressed.</Text>
+			<Text>Khi Marduk đưa tôi trị vì con người, để bảo vệ quyền lợi của mảnh đất, Tôi đã làm đúng và ngay thẳng, và mang lại hạnh phúc cho những người bị áp bức.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
 			<Text>Abraham Lincoln</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
-			<Text>Always bear in mind that your own resolution to succeed is more important than any other.</Text>
+			<Text>Luôn luôn ghi nhớ trong đầu rằng giải pháp của bạn để thành công quan trọng hơn bất kỳ thứ gì.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
 			<Text>Charlemagne</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
-			<Text>Let my armies be the rocks and the trees, and the birds in the sky.</Text>
+			<Text>Hãy để đội quân của ta là đá và cây, và muôn chim trên bầu trời.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
 			<Text>Winston Churchill</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
-			<Text>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</Text>
+			<Text>Một người bi quan thấy khó khăn trong mọi cơ hội; một người lạc quan thấy cơ hội trong mỗi khó khăn.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
 			<Text>Nelson Mandela</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
-			<Text>It always seems impossible until it's done.</Text>
+			<Text>Luôn luôn là không thể cho đến khi nó hoàn tất.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
 			<Text>Marcus Aurelius</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
-			<Text>Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.</Text>
+			<Text>Đừng vì một thứ có vẻ khó khăn với bạn, mà nghĩ rằng nó không thể với những người còn lại.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
 			<Text>Joan of Arc</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
-			<Text>I am not afraid... I was born to do this.</Text>
+			<Text>Tôi không sợ... Tôi sinh ra là để làm điều này.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
 			<Text>Charles de Gaulle</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
-			<Text>Faced with crisis, the man of character falls back on himself. He imposes his own stamp of action, takes responsibility for it, makes it his own.</Text>
+			<Text>Đối mặt với cuộc khung hoảng. Người đàn ông có cá tính sẽ bỏ đi cái tôi của mình. Anh ta đặt dấu ấn trong từng hành động của mình, tự chịu trách nhiệm với những gì mình làm.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
 			<Text>Simon Bolivar</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
-			<Text>Judgment comes from experience, and experience comes from bad judgment.</Text>
+			<Text>Phán quyết đến từ kinh nghiệm, và kinh nghiệm đến từ một phán quyết tệ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
 			<Text>Lech Walesa</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
-			<Text>He who puts out his hand to stop the wheel of history will have his fingers crushed.</Text>
+			<Text>Kẻ dám đưa bàn tay chặn cánh xe của lịch sử, ngón tay của kẻ đó sẽ bị nghiền nát.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
 			<Text>Ivan the Terrible</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
-			<Text>Withal, I concern myself greatly regarding the affairs of state, constant wars against hostile nations, and the welfare of my poor people.</Text>
+			<Text>Theo đó, Tôi cực kì lo lắng đến vận mệnh đất nước. Những cuộc chiến liên miên với những đất nước chống đối, và sự an nguy của những người dân nghèo.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
 			<Text>Henry VIII</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
-			<Text>My Lord, if it were not to satisfy the world, and my Realm, I would not do that I must do this day for none earthly thing.</Text>
+			<Text>Thưa ngài, Nếu việc đó không mang lại lợi ích gì cho thế giới và vương triều , Thần sẽ không cấp bách làm vậy.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
 			<Text>Herbert Hoover</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
-			<Text>Blessed are the young for they shall inherit the national debt.</Text>
+			<Text>Những người trẻ sẽ được chúc phúc vì họ sẽ kế thừa các khoản nợ quốc gia.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
 			<Text>Louis XVI</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
-			<Text>Listeners never hear any good of themselves.</Text>
+			<Text>Những thính giả không bao giờ nghe điều gì tốt về bản thân họ.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
 			<Text>Neville Chamberlain</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
-			<Text>In war, whichever side may call itself the victor, there are no winners, but all are losers.</Text>
+			<Text>Trong chiến tranh, bất cứ phe nào gọi họ là kẻ chiến thắng, không có người thắng, nhưng tất cả đều là kẻ thua cuộc.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
 			<Text>Andrew Jackson</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
-			<Text>There is no pleasure in having nothing to do; the fun is having lots to do and not doing it.</Text>
+			<Text>Không có niềm vui trong việc không có gì làm; niềm vui là có nhiều thứ để làm và không làm chúng.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
 			<Text>Nero</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
-			<Text>So great an artist, I die!</Text>
+			<Text>Một nghệ sĩ thật vĩ đại, Tôi đã chết!</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
 			<Text>Warren G. Harding</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
-			<Text>Somewhere there must be a book that tells all about it, where I could go to straighten it out in my mind. But I don't know where the book is, and maybe I couldn't read it if I found it.</Text>
+			<Text>Ở đâu đó sẽ có một quyển sách kể tất cả về nó, nơi tôi có thể đi hết tâm trí của mình. Nhưng tôi không biết cuốn sách ở đâu, và có lẽ tôi không đọc nó nếu tôi có tìm ra nó.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
 			<Text>Ethelred the Unready</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
-			<Text>Yeah, just five minutes, all right?</Text>
+			<Text>Ừ, chỉ 5 phút, được không?</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
 			<Text>Dan Quayle</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
-			<Text>If we don't succeed, we run the risk of failure.</Text>
+			<Text>Nếu chúng ta không thành công, chúng ta đặt may rủi vào thất bại.</Text>
 		</Row>
 
 		<!-- Replay -->
 		<Row Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
-			<Text>No Graph Data</Text>
+			<Text>Không Có Biểu Đồ</Text>
 		</Row>
 
 		<!-- Graph Data Sets -->
 		<Row Tag="LOC_REPLAYDATASET_CULTURE_NAME">
-			<Text>Culture per-turn</Text>
+			<Text>Văn Minh mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_CULTURE_DESC">
-			<Text>The amount of Culture acquired per turn.</Text>
+			<Text>Những Văn Minh đạt được mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
-			<Text>Gold balance</Text>
+			<Text>Số Vàng</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
-			<Text>The player's total Gold.</Text>
+			<Text>Tống số Vàng của người chơi</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
-			<Text>Total cities founded</Text>
+			<Text>Tổng thành phố đã tạo</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
-			<Text>Total districts constructed</Text>
+			<Text>Tổng đặc khu đã xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
-			<Text>Total wonders constructed</Text>
+			<Text>Tổng kỳ quan đã xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
-			<Text>Total buildings constructed</Text>
+			<Text>Tổng kiến trúc đã xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
-			<Text>Total cities captured</Text>
+			<Text>Tổng các thành phố đã chiếm</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
-			<Text>Total cities lost</Text>
+			<Text>Tổng các thành phố bị mất</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
-			<Text>Total cities destroyed</Text>
+			<Text>Tổng các thành phố bị phá hủy</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
-			<Text>Total wars declared</Text>
+			<Text>Tổng số tuyên số chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
-			<Text>Total wars won</Text>
+			<Text>Tổng số chiến tranh thắng</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
-			<Text>Total number of combats</Text>
+			<Text>Tổng số trận chiến</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
-			<Text>Total units killed</Text>
+			<Text>Tổng số đơn vị đã giết</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
-			<Text>Total units lost</Text>
+			<Text>Tổng số đơn vị mất</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
-			<Text>Total religions founded</Text>
+			<Text>Tổng số tôn giáo đã sáng lập</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
-			<Text>Total great people earned</Text>
+			<Text>Tổng số vĩ nhân kiếm được</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
-			<Text>Total wars against player</Text>
+			<Text>Tổng số cuộc chiến chống người chơi</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
-			<Text>Total pantheons founded</Text>
+			<Text>Tổng số vị thần được tìm thấy</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
-			<Text>Score per-turn</Text>
+			<Text>Điểm mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
-			<Text>Science per-turn</Text>
+			<Text>Khoa Học mỗi lượt</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
-			<Text>Faith per-turn</Text>
+			<Text>Đức Tin mỗi lượt</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
