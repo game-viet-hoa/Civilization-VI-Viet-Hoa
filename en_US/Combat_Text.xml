@@ -184,7 +184,7 @@
 			<Text>Giải phóng một thành phố sẽ cho phép  [COLOR_GREEN]GIẢM MẠNH[ENDCOLOR] hành phạt chiến tranh đã kiếm được trước đó.</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
-			<Text>Giữ thành phố này trong đế chế của bạn ngay bây giờ. Nó sẽ sản xuất kém, thành phố bị chiếm đến khi quyền sở hữu hậu chiến được thảo luận tại bàn hòa bình.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+			<Text>Giữ thành phố này trong đế chế của bạn ngay bây giờ. Nó sẽ sản xuất kém, thành phố bị chiếm cho đến khi quyền sở hữu được đưa ra bàn bạc tại diễn đàn hòa bình hậu chiến tranh.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
 			<Text>Giữ thành phố này trong đế chế của bạn.</Text>
@@ -193,7 +193,7 @@
 			<Text>Hình phạt chiến tranh khi giữ thành phố này là: {1_WarmongerLevel}[NEWLINE][NEWLINE]Hình phạt sẽ được hoàn trả hoặc x2 vào cuối chiến tranh tùy thuộc vào việc bạn chọn giữ hay không giữ thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
-			<Text>San phẳng thành phố sẽ loại bỏ nó và tất cả đặc khu, kiến trúc ra khỏi bản đồ. Tùy chọn này phải được chọn ở lượt thành phố bị chinh phục.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+			<Text>San phẳng thành phố sẽ loại bỏ nó và tất cả đặc khu, kiến trúc ra khỏi bản đồ. Lựa chọn này chỉ được chọn khi đã chiếm được thành phố.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
 			<Text>Hình phạt chiến tranh là [COLOR_RED]x3[ENDCOLOR] cho việc san phẳng thành phố.[NEWLINE][NEWLINE]Hình phạt chiến tranh cho việc san phẳng thành phố bây giờ là: {1_WarmongerLevel}</Text>

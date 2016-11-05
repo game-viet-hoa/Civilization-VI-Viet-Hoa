@@ -3,63 +3,63 @@
 	<BaseGameText>
 		<!-- Victories -->
 		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
-			<Text>Proxy War</Text>
+			<Text>Chiến tranh Xúi Giục</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
-			<Text>Capture three city-states.</Text>
+			<Text>Chiếm 3 thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
-			<Text>Here's my strategy on the Cold War: we win, they lose. -  Ronald Reagan</Text>
+			<Text>Đây là chiến thuật của tôi trong Chiến Tranh Lạnh: Ta thắng họ thua. -  Ronald Reagan</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
-			<Text>Lord of the Armageddon</Text>
+			<Text>Chúa tể của trận Armageddon</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
-			<Text>If any city center is nuked, nuke the most city centers by the turn limit.</Text>
+			<Text>Nếu bất kỳ thành phố trung tâm nào bị phá hủy bởi vũ khí hạt nhân, phá hủy nhiều thành phố trung tâm nhất trước khi đến lượt giới hạn.</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
-			<Text>The only way to win is to not play.</Text>
+			<Text>Cách duy nhất để chiến thắng là dừng chơi.</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
-			<Text>Tank Banker</Text>
+			<Text>Trùm xe Tăng</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
-			<Text>If no city centers are nuked, have the most tanks by the turn limit.</Text>
+			<Text>Nếu không có thành phố thủ đô bị phá hủy bởi vũ khí hạt nhân, có số lượng xe tăng nhiều nhất vào lượt giới hạn.</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
-			<Text>You have the most tanks at the end of the game!  You win!</Text>
+			<Text>Bạn có nhiều xe tăng nhất vào cuối trò chơi! Bạn đã chiến thắng!</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_RULESET_TITLE">
-			<Text>Global Thermonuclear War</Text>
+			<Text>Chiến tranh Nhiệt hạch Toàn cầu</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_RULESET_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
-			<Text>The Cold War runs hot in this combat-based scenario set in the Atomic Era.  Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Lord of Armageddon - If any city center is nuked, nuke the most city centers by the turn limit.[NEWLINE][ICON_Bullet]Tank Banker - If no city centers are nuked, have the most tanks by the turn limit.[NEWLINE][ICON_Bullet]Proxy War - Capture 3 city-states.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Units are cheaper and do not require strategic resources.[NEWLINE][ICON_Bullet]Builders have more charges for faster city development.[NEWLINE][ICON_Bullet]The map starts revealed.[NEWLINE][ICON_Bullet]No Tribal Villages.[NEWLINE][ICON_Bullet]No Barbarians.[NEWLINE][ICON_Bullet]War Weariness is disabled.</Text>
+			<Text>Cuộc Chiến tranh lạnh diễn ra căng thẳng trong kịch bản dựa trên chiến đấu được thiết lập vào Thời Đại Nguyên Tử. Kéo dài 50 lượt.[NEWLINE]Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chúa tể trận Armageddon - Nếu bất kỳ thành phố trung tâm nào bị phá hủy bởi vũ khí hạt nhân, hãy phá hủy số lượng thành phố nhiều nhất trước lượt giới hạn.[Icon_Bullet]Trùm xe Tăng - Nếu không có thành phố thủ đô bị phá hủy bởi vũ khí hạt nhân, có số lượng xe tăng nhiều nhất vào lượt giới hạn.[NEWLINE][NEWLINE][ICON_Bullet]Chiến tranh Xúi Giục - Chiếm 3 thành phố tự trị.[NEWLINE]Thay đổi cách chơi[NEWLINE][ICON_Bullet]Thợ Xây có nhiều lượng tích lũy hơn để phát triển nhanh hơn.[NEWLINE][ICON_Bullet]Không có làng bộ lạc.[NEWLINE][ICON_Bullet]Không có quân Man Di.[NEWLINE][ICON_Bullet]Chiến tranh dai dẳng cũng bị vô hiệu hóa.</Text>
 		</Row>
 		
 		<!-- Mod Package Text -->
 		<Row Tag="LOC_COLDWAR_MOD_TITLE">
-			<Text>Multiplayer Scenario: Global Thermonuclear War</Text>
+			<Text>Kịch bản nhiều người chơi: Chiến tranh Nhiệt hạch Toàn cầu</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_MOD_TEASER">
-			<Text>The Cold War runs hot in this combat-based scenario set in the Atomic Era.  Lasts 50 Turns.</Text>
+			<Text>Cuộc Chiến tranh lạnh diễn ra căng thẳng trong kịch bản dựa trên chiến đấu được thiết lập vào Thời Đại Nguyên Tử. Kéo dài 50 lượt.</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_MOD_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
-			<Text>The Cold War runs hot in this combat-based scenario set in the Atomic Era.  Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Lord of Armageddon - If a nuclear weapon is used, use the most nuclear weapons on city centers by the turn limit.[NEWLINE][ICON_Bullet]Tank Banker - Have the most tanks at the turn limit, barring a Lord of Armageddon victory.[NEWLINE][ICON_Bullet]Proxy War, More like Moxy War! - Be the first civilization to capture 3 city-states before the turn limit.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Units are cheaper and don't require strategic resources.[NEWLINE][ICON_Bullet]Builders have more charges for faster city development.[NEWLINE][ICON_Bullet]The map starts revealed and there are no Tribal Villages or Barbarians.[NEWLINE][ICON_Bullet]War Weariness is disabled.</Text>
+			<Text>Cuộc Chiến tranh lạnh diễn ra căng thẳng trong kịch bản dựa trên chiến đấu được thiết lập vào Thời Đại Nguyên Tử. Kéo dài 50 lượt.[NEWLINE]Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chúa tể trận Armageddon - Nếu bất kỳ thành phố trung tâm nào bị phá hủy bởi vũ khí hạt nhân, hãy phá hủy số lượng thành phố nhiều nhất trước lượt giới hạn.[Icon_Bullet]Trùm xe Tăng - Nếu không có thành phố thủ đô bị phá hủy bởi vũ khí hạt nhân, có số lượng xe tăng nhiều nhất vào lượt giới hạn.[NEWLINE][NEWLINE][ICON_Bullet]Chiến tranh Xúi Giục - Chiếm 3 thành phố tự trị.[NEWLINE]Thay đổi cách chơi[NEWLINE][ICON_Bullet]Thợ Xây có nhiều lượng tích lũy hơn để phát triển nhanh hơn.[NEWLINE][ICON_Bullet]Không có làng bộ lạc.[NEWLINE][ICON_Bullet]Không có quân Man Di.[NEWLINE][ICON_Bullet]Chiến tranh dai dẳng cũng bị vô hiệu hóa.</Text>
 		</Row>
 		<Row Tag="LOC_COLDWAR_MOD_AUTHORS">
 			<Text>Firaxis</Text>
 		</Row>
 		<Row Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
-			<Text>Turn Limit {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+			<Text>Giới Hạn Lượt {ElapsedTurns}/{MinGameTurn}{Status ICON}</Text>
 		</Row>
 		<Row Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
-			<Text>City States Captured {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+			<Text>Thành phố tự trị chiếm giữ {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
 		</Row>
 		<Row Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
-			<Text>City Centers Nuked {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Any City Center Nuked {NukeWarStatusIcon}</Text>
+			<Text>Thành phố trung tâm bị phá hủy bằng vũ khí hạt nhân {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Thành phố trung tâm bất kỳ bị phá hủy bằng vũ khí hạt nhân {NukeWarStatusIcon}</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
-			<Text>Tanks Possessed {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]No City Centers Nuked {NoNukeWarStatusIcon}</Text>
+			<Text>Số xe Tăng bị phá hủy bằng vũ khí hạt nhân {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Không có thành phố trung tâm bị phá hủy bằng vũ khí hạt nhân {NoNukeWarStatusIcon}</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

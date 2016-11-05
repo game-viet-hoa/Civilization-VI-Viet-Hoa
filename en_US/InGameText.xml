@@ -5132,16 +5132,16 @@
 			<Text>Chúng ta có một niềm tin rằng luôn có những thứ vĩ đại hơn bản thân chúng ta. Chúng ta khao khát tìm được lối đi trong bóng tối và ánh sáng đã soi đường cho chúng ta. Nhờ bạn, chúng ta đã hiểu được ý nghĩa của không gian vũ trụ.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_CULTURE_TEXT">
-			<Text>The worth of a culture is not measured by its accomplishments, but in how those accomplishments last, and how they are remembered. The beauty that you have inspired our people to create will ensure that our culture stands for all time.</Text>
+			<Text>Giá trị của một nền văn hóa không được tính bằng những thành tựu, mà dựa vào những thành tựu cuối cùng, và cái cách mà mọi người nhớ về nó. Nét đẹp mà bạn đã truyền cảm hứng đến mọi người sẽ làm cho nền văn hóa của chúng ta được trường tồn.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DOMINATION_TEXT">
-			<Text>There are those who quibble whether power necessitates the will to use it. Whether violence begets only more violence. These questions are irrelevant. You, Great Leader, made it so.</Text>
+			<Text>Có những người ngụy biện về việc sử dụng quyền lực. Bạo lực chỉ mang lại bạo lực nhiều hơn. Những câu hỏi này không hề liên quan. Chính bạn, Người đứng đầu, đã làm điều này như vậy.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DEFAULT_TEXT">
 			<Text>Mọi người khác đều đã thua... Vì vậy bạn đã chiến thắng!</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_LEGACY_TOOLTIP">
-			<Text>Legacy bonuses are based on how long a government was active within your empire. When you switch to a new government, the Legacy bonus earned from the previous government remains with your civilization.</Text>
+			<Text>Thưởng kế thừa được dựa trên khoảng thời gian mà một thể chế chính phủ hoạt động trong đế chế của bạn. Khi bạn chuyển sang một chính phủ mới, thì thưởng kế thừa kiếm được ở thể chế chính phủ trước vẫn được giữ lại.</Text>
 		</Row>
 		<!-- Tourism ToolTips -->
 		<Row Tag="LOC_TOURISM_LENS_TOOLTIP">
@@ -5169,7 +5169,7 @@
 			<Text>{1_TourismInfo}Du khách thêm bởi Kỳ Quan này: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_ERA_TOOLTIP">
-			<Text>{1_TourismInfo}[NEWLINE]+{2_Percent}% [ICON_Tourism] Du lịch against civs who reached the {3_Era}:[NEWLINE]{4_CivList}[NEWLINE]</Text>
+			<Text>{1_TourismInfo}[NEWLINE]+{2_Percent}% [ICON_Tourism] Du lịch Du lịch cho nền văn minh đã đạt đến thời đại {3_Era}:[NEWLINE]{4_CivList}[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_NO_CIVS_ELIGIBLE">
 			<Text>Các nền văn minh này không tiến bộ.</Text>

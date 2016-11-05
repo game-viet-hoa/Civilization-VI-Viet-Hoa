@@ -3,10 +3,10 @@
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<BaseGameText>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_PARA_1">
-			<Text>Welcome to the Civilopedia for Sid Meier's Civilization VI! Here you will find detailed descriptions of all aspects of the game. Clicking on the tabs on the top edge of the screen will take you to the various major sections of the Civilopedia. The Navigation Bar on the left side of the screen will display the various entries within a section. Click on an entry to go directly there.</Text>
+			<Text>Chào mừng đến với Civilopedia của Sid Meier's Civilization VI! Tại đây bạn sẽ tìm thấy các miêu tả chi tiết về từng khái niệm của trò chơi. Nhấp vào các mục trên cùng của màn hành sẽ đưa bạn đến các phần chính khác nhau của Civilopedia. Thanh điều hướng phía bên trái của màn hình sẽ hiển thị nhiều mục khác nhau trong một phần. Nhấp vào từng mục để vào trực tiếp đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITIES_NAME">
 			<Text>Thành phố</Text>
@@ -15,76 +15,76 @@
 			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities are vital to your civilization's success. They allow you to build units, buildings, and wonders. They allow you to research new technologies and gather wealth. You cannot win without powerful, well-situated cities.</Text>
+			<Text>Các thành phố rất quan trọng cho sự thành công của nền văn minh của bạn. Chúng cho phép bạn xây dựng các đơn vị, kiến trúc và kì quan. Chúng cho phép bạn nghiên cứu những công nghệ mới và làm giàu. Bạn không thể chiến thắng nếu không có sức mạnh và những thành phố nằm ở vị tri tốt.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_TITLE">
-			<Text>Các tạo thành phố mới</Text>
+			<Text>Cách tạo thành phố mới</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities are constructed by Settler units. If the Settler is in a location where a city can be constructed, the "Found City" action button will appear. Click on the button and the Settler will disappear, to be replaced by the new city.</Text>
+			<Text>Thành phố được xây dựng bởi những đơn vị Dân Di Cư. Nếu Dân Di Cư ở một vị trí, nơi mà một thành phố có thể xây dựng thì nút "Tìm thấy thành phố" sẽ được hiện ra. Bấm vào nút trên và Dân Di Cư sẽ biến mất, được thay thế bởi một thành phố mới.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_TITLE">
 			<Text>Thành phố xây dựng ở đâu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities should be constructed in locations with plenty of [ICON_Food] Thực phẩm and [ICON_Production] Sản phẩm and with access to Strategic, Luxury, and Bonus resources. It is often a good idea to build a city on a River or coastal hex, as sources of water are very important to a growing [ICON_Citizen] Dân số. Cities constructed on Hills gain a defensive bonus, making it harder for enemies to capture them.</Text>
+			<Text>Các thành phố nên được xây dựng ở những nơi có nhiều [ICON_Food] Thực Phẩm và [ICON_Production] Sản Phẩm và với nhiều tài nguyên Chiến Lược, Quý và Thưởng. Xây dựng thành phố gần một con sông hoặc ven biển thường là một ý hay, vì những nguồn nước rất quan trọng để phát triển [ICON_Citizen] Dân Số. Các thành phố được xây dựng trên Đồi có lợi thế phòng thủ, khiến kẻ thù khó khăn để chiếm chúng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>With a Settler selected, ideal city locations will be shown on the map with an icon. Additionally, every Settler after your first will show the Settler Lens, giving you an idea of where on the map will provide the best source of water for your city, and indicating unavailable tiles.</Text>
+			<Text>Khi một Dân Di Cư được lựa chọn, những vị trí thành phố lý tưởng sẽ được đưa ra trên bản đồ với một ký hiệu. Thêm vào đó, tất cả Dân Di Cư sau đó sẽ cho ra Ống Kính Dân Di Cư, cho bạn hình dung nơi nào trên bản đồ cho nguồn nước tốt nhất cho thành phố của bạn, và hiển thị những nơi không phù hợp.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_TITLE">
 			<Text>Phát triển</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Your city will grow, or add more [ICON_Citizen] Citizens, with surplus [ICON_Food] Thực phẩm. Any amount of [ICON_Food] Thực phẩm over the total consumption of a city's [ICON_Citizen] Citizens, 2 per, is considered surplus, and is added as progress towards a new [ICON_Citizen] Citizen.</Text>
+			<Text>Thành phố của bạn sẽ phát triển, hoặc thêm nhiều [ICON_Citizen] Dân Số, với lượng [ICON_Food] Thực Phẩm dư. Bất kỳ số lượng [ICON_Food] Thực Phẩm trên tổng mức tiêu thụ của [ICON_Citizen] Dân Cư, 2 cho mỗi người, được tính là số dư thừa, và được thêm vào tiến độ phát triển thêm một [ICON_Citizen] Dân Cư mới.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
-			<Text>A city will add all surplus [ICON_Food] Thực phẩm towards growth if its current [ICON_Citizen] Dân số is 2 or more below the city's [ICON_Housing] Nhà ở limit. If the city is 1 [ICON_Citizen] Dân số below its [ICON_Housing] Nhà ở limit, its growth will slow to 50%. When the [ICON_Citizen] Dân số is at the [ICON_Housing] Nhà ở limit, it will grow only at 75% the normal rate. A city can grow to 5 [ICON_Citizen] Citizens over its [ICON_Housing] Nhà ở limit at this rate, and then it will stop growing entirely.</Text>
+			<Text>Một thành phố cộng thêm tất cả số [ICON_Food] Thực Phẩm dư và mức tăng trưởng nếu số [ICON_Citizen] Dân Cư hiện tại ít hơn (2 hoặc hơn) giới hạn [ICON_Housing] Nhà Ở của thành phố. Nếu thành phố có thấp hơn 1 [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở, mức tăng trưởng sẽ chậm hơn 50%. Khi [ICON_Citizen] Dân Cư đang ở mức giới hạn của [ICON_Housing] Nhà Ở, nó sẽ chỉ tăng 75% tốc độ bình thường. Một thành phố chỉ có thể tăng đến mức 5 lần [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở giới hạn, đó là mức giới hạn của nó, và sau đó nó sẽ ngừng tăng trưởng hoàn toàn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
-			<Text>A city will stagnate and not grow if it does not have surplus [ICON_Food] Thực phẩm. If it makes less [ICON_Food] Thực phẩm than its [ICON_Citizen] Citizens consume, the city will starve and slowly lose [ICON_Citizen] Dân số until it is able to support itself again.</Text>
+			<Text>Một thành phố sẽ bị ngưng đọng và không phát triển nếu không có [ICON_Food] Thực Phẩm dư. Nếu nó tạo ra [ICON_Food] Thực Phẩm ít hơn mức [ICON_Citizen] Dân cư tiêu thụ, thành phố sẽ bị đói và từ từ mất [ICON_Citizen] Dân cư cho đến khi nó có thể cung cấp lương thực lại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
-			<Text>Thức ăn</Text>
+			<Text>Thực Phẩm</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
-			<Text>A city requires 2 [ICON_Food] Thực phẩm per [ICON_Citizen] Citizen (another term for "[ICON_Citizen] Dân số") per turn to avoid starvation. A city acquires [ICON_Food] Thực phẩm (as well as other yields) by assigning its [ICON_Citizen] Citizens to "work" the land around the city. The city can work any tile within 3 spaces of the city that is also within the civilization's borders, provided as well that it is not being worked by another city. Cities cannot work tiles occupied by wonders.</Text>
+			<Text>Một thành phố cần 2 [ICON_Food] Thực Phẩm mỗi [ICON_Citizen] Dân Cư (cách gọi khác của "[ICON_Citizen] Dân Số" mỗi lượt để tránh nạn đói. Một thành phố thu hoạch [ICON_Food] Thực Phẩm (cũng như các sản lượng khác) bằng cách chỉ định [ICON_Citizen] Dân Cư để "làm việc" trong các ô đất xung quanh thành phố. Thành phố có thể làm việc bất kỳ ô nào trong phạm vi 3 ô của thành phố trong biên giới, miễn là nó không được làm việc bởi thành phố khác. Các thành phố không thể làm việc trong các ô có kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_2">
-			<Text>Left to its own devices, the city will assign as many [ICON_Citizen] Citizens as needed to acquire its [ICON_Food] Thực phẩm.</Text>
+			<Text>Tự động, thành phố sẽ chỉ định nhiều [ICON_Citizen] Dân Cư nhất có thể để thu hoạch [ICON_Food] Thực Phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_TITLE">
 			<Text>Nhà ở</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Housing] Nhà ở is a representation of the maximum amount of [ICON_Citizen] Citizens or [ICON_Citizen] Dân số you can have in each city. The base source of [ICON_Housing] Nhà ở is a water source.</Text>
+			<Text>[ICON_Housing] Nhà Ở đại diện cho số lượng [ICON_Citizen] Dân Cư hoặc [ICON_Citizen] Dân Số bạn có thể có trong thành phố. Tài nguyên cơ bản của [ICON_Housing] Nhà Ở là nguồn nước.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_2">
-			<Text>Many buildings grant [ICON_Housing] Nhà ở. After researching Pottery, every city is able to build a Granary, which adds 2 [ICON_Housing] Nhà ở, and later they can build Sewers, which also adds 2 [ICON_Housing] Nhà ở. Buildings in other districts sometimes add [ICON_Housing] Nhà ở, such as the Barracks in the Encampment district, the University in the Campus, and the Lighthouse in the Harbor. The Palace building in your capital city also adds 1 [ICON_Housing] Nhà ở.</Text>
+			<Text>Nhiều công trình sẽ cho [ICON_Housing] Nhà Ở. Sau khi nghiên cứu Đồ Gốm, tất cả thành phố đều có thể xây dựng Kho Thóc, nó cộng thêm 2 [ICON_Housing] Nhà Ở, và sau đó họ có thể xây dựng Cống thoát nước, cũng thêm 2 [ICON_Housing] Nhà Ở. Các công trình trong các đặc khu đôi khi cũng thêm [ICON_Housing] Nhà Ở, như là Trại Lính trong Khu Quân Sự, Trường đại học trong Khu Trí Thức, và Hải Đăng trong khu Cảng Biển. công trình Cung Điện trong thủ đô cũng cộng 1 [ICON_Housing] Nhà Ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_3">
-			<Text>Each Farm, Pasture, Plantation, or Camp supports a small amount of [ICON_Citizen] Dân số — 1 [ICON_Housing] Nhà ở for every 2 such improvements. Supporting rural [ICON_Citizen] Dân số in this fashion will allow for slightly larger [ICON_Citizen] Dân sốs prior to the Industrial Era, when the Neighborhood district becomes available.</Text>
+			<Text>Mỗi Nông Trại, Bãi Chăn, Vườn ươm, hoặc Trại hỗ trợ một lượng nhỏ [ICON_Citizen] Dân Số - 1 [ICON_Housing] Nhà Ở mỗi 2 công trình. Hỗ trợ [ICON_Citizen] Dân Số bằng cách này sẽ cung cấp lượng [ICON_Citizen] Dân Cư lơn hơn một ít trước Thời đại Công Nghiệp, khi các Vùng Ngoại Ô trở nên có hiệu lực.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_TITLE">
-			<Text>Nước</Text>
+			<Text>Nước sạch</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_1">
-			<Text>Placing your city near a water source should be one of your first decisions in any game. The presence of a good water source will immediately set the initial [ICON_Housing] Nhà ở level of a city. A city not adjacent to any water will have a max [ICON_Citizen] Dân số of 2 at the start. A city on the coast will have a max [ICON_Citizen] Dân số of 3. And a city adjacent to a River, Lake, or Oasis will have a max [ICON_Citizen] Dân số of 5.</Text>
+			<Text>Đặt thành phố ở gần nguồn nước nên là lựa chọn đầu tiên trong mỗi trò chơi. Sự tồn tại của nguồn nước sạch sẽ ngay lập tức thiết lập một cấp độ [ICON_Housing] Nhà Ở ban đầu cho thành phố. Một thành phố không gần bất kỳ nguồn nước nào sẽ có [ICON_Citizen] Dân Cư nhiều nhất là 2 vào lúc bắt đầu. Một thành phố trên bờ biển sẽ có [ICON_Citizen] Dân Cư nhiều nhất là 3. Và một thành phố gần Sông, Hồ, hoặc Ốc Đảo sẽ có [ICON_Citizen] Dân Cư nhiều nhất là 5 lúc bắt đầu.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_2">
-			<Text>The fresh water status of a city may be upgraded by adding an Aqueduct tile next to the City Center. Aqueducts may only be placed in tiles that are adjacent to a River, Lake, or Mountain that is also adjacent to the City Center.  Completion of the Aqueduct district raises the city’s [ICON_Housing] Nhà ở from water by 2 or up to 6, whichever is larger—so 7 if adjacent to River, Lake or Oasis, or 6 otherwise.</Text>
+			<Text>Tình trạng nước sạch của một thành phố có thể được nâng cấp một khu Thủy Lợi gần Thành phố trung tâm. Khu Thủy Lợi có thể chỉ được đặt trong ô kế bên cạnh Sông, Hồ, hoặc Núi cũng kế bên thành phố trung tâm. Hoàn tất khu Thủy Lợi tăng số [ICON_Housing] Nhà Ở gần nước từ 2 lên đến 6.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_TITLE">
 			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
-			<Text>In Civilization VI, buildings are no longer trapped in your City Center, but may sprawl across your territory as part of districts. The map is more important than ever as you are faced with important strategic placement decisions. Campuses and Holy Site’s alike receive special boosts from placement near Mountains, but only the former also benefits from a nearby source of Rainforest. Specialty districts, such as the Campus or Commercial Hub, will have a [ICON_Citizen] Dân số requirement. The Neighborhood and Aqueduct are not affected by this requirement.</Text>
+			<Text>Trong Civilization VI, các kiến trúc không còn bị giới hạn trong Thành Phố Trung Tâm nữa, nhưng sẽ được rải rác ra khắp vùng đất của đặc khu. Bản đồ sẽ quan trọng hơn vì bạn sẽ đối mặt với các lựa chọn vị trí chiến lược quan trọng. Khu Trí Thức và Thánh Địa được nhận các tăng trưởng từ những nơi gần Núi, nhưng chỉ có cái đầu tiên là được lợi ích từ nguồn tài nguyên của Rừng nhiệt đới. Những đặc khu đặc biệt, như là Khu trí Thức hoặc khu Thương Mại, sẽ yêu cầu một [ICON_Citizen] Dân Cư. Vùng Ngoại Ô và Khu Thủy Lợi không bị ảnh hưởng bởi yêu cầu này.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_2">
-			<Text>When a city is ready to construct something, the Choose Production button will appear. If a district is available to be constructed, it will appear on this menu. Click on the district to order the city to begin construction, opening the district placement lens. Here, you will be given an overview of the different yield outcomes available on the tiles surrounding your City Center, and you can better make a decision about where to place your district. This lens will also show you which tiles are unavailable, as some districts have very specific placement requirements (for example, the Encampment cannot be built adjacent to a City Center). Furthermore, all districts must be built within 3 tiles of a City Center.</Text>
+			<Text>Khi một thành phố đã sẵn sàng để xây dựng, nút Chọn Sản Phẩm sẽ xuất hiện. Nếu một đặc khu đã được sẵn sàng để xây dựng, nó sẽ xuất hiện trên menu này. Nhấp chọn vào đặc khu để ra lệnh cho thành phố bắt đầu xây dựng, mở ống kính đặc khu. Tại đây, bạn sẽ được cho một cái nhìn tổng quan về các sản lượng khác nhau trên từng ô xung quanh thành phố, và bạn có thể đưa ra lựa chọn tốt hơn nơi để đặt các đặc khu. Ống kính này cũng sẽ cho bạn thấy ô nào không thể xây dựng, vì một vài đặc khu có yêu cầu vị trí đặc biệt (ví dụ, Khu Quân Sự không thể xây dựng cạnh bên Thành Phố Trung Tâm). Hơn nữa, tất cả các đặc khu phải được xây dựng trong phạm vi 3 ô so với Thành Phố trung tâm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_3">
-			<Text>Districts may be placed on top of features such as Woods or Rainforest if you have the technology to remove those features, but for a longer construction time.</Text>
+			<Text>Đặc Khu có thể đặt ở trên Rừng hay Rừng nhiệt đới nếu bạn có công nghệ để xóa các đặc tính này, nhưng sẽ tốn nhiều thời gian hơn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
 			<Text>Vùng Ngoại Ô và Sức Hấp Dẫn</Text>
@@ -249,19 +249,19 @@
 			<Text>Appeal. Shows the appeal level of each tile.[NEWLINE][NEWLINE]Continent. Shows the geographic extent of each continent.[NEWLINE][NEWLINE]District Placement. Shows valid placement locations for wonders and districts, as well as any adjacency bonuses available for districts. This will only appear when attempting to build a district or wonder.[NEWLINE][NEWLINE]Government. Shows the distribution of governments across the map.[NEWLINE][NEWLINE]Political. Shows the owner of each tile.[NEWLINE][NEWLINE]Religion. Shows the majority religion and religious follower distribution across the map. This appears whenever a Religious unit is selected.[NEWLINE][NEWLINE]Settler. Shows recommended city sites and water availability at each tile.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_COMBAT_NAME">
-			<Text>Combat</Text>
+			<Text>Trận chiến</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Combat occurs between two political entities that are at war with each other. A civilization may be at war with another civilization or with a city-state. Barbarians are always at war with all civilizations and city-states.</Text>
+			<Text>Trận chiến được xảy ra giữa hai thực thể chính trị đang có chiến tranh với nhau. Một nền văn minh có thể có chiến tranh với nền văn minh khác hoặc với một thành phố tự trị. Lũ man di luôn có chiến tranh với tất cả các nền văn minh và thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_TITLE">
-			<Text>Declaring War</Text>
+			<Text>Tuyên bố chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>There are two ways to declare war. The first requires you move a military unit you control into another civilization's unit. This will prompt a pop-up message to appear asking if you want to start a war. Alternately, war can be declared in the Diplomacy Window. Within that window, you will always have the option to make a surprise declaration of war, except against your declared allies. Your civilization will suffer a costly warmongering penalty if you make a surprise declaration of war. To avoid some of this penalty (but not all), denounce the offending civilization and soon the option to formally declare war will appear in the Diplomacy Window.</Text>
+			<Text>Có hai cách để tuyên bố chiến tranh. Cách đầu tiên yêu cầu bạn di chuyển một đơn vị quân đội bạn kiểm soát tiến vào một đơn vị của một nên văn minh khác. Lúc này sẽ có một tin nhắn thông báo xuất hiện hỏi xem bạn có muốn bắt đầu chiến tranh. Cách khác, chiến tranh có thể tuyên bố trong cửa sổ ngoại giao. Trong cửa sổ này, bạn sẽ luôn luôn có tùy chọn để tuyên bố chiến tranh bất ngờ, ngoại trừ với các đồng minh của bạn. Nền văn minh của bạn sẽ chịu một hình phạt cực nặng nếu bạn bất ngờ tuyên bố chiến tranh. Để tránh một số hình phạt (nhưng không phải là tất cả), lăng mạ về việc nền văn minh vi phạm và các tùy chọn để chính thức tuyên bố chiến tranh sẽ sớm xuất hiện trong các cửa sổ ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_TITLE">
 			<Text>War Weariness</Text>
@@ -969,10 +969,10 @@
 			<Text>Great Works come in five different types. Writing, Art, and Music which can be generated through [ICON_GreatPerson] Great People, [ICON_GreatWork_Artifact] Artifacts which are retrieved from Antiquity Sites by Archaeologists, and [ICON_GreatWork_Relic] Relics which are created by Apostles with the Martyr ability when they die in Theological Combat. Once earned, a Great Work can be housed in a Great Work slot in the appropriate building or Wonder. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
-			<Text>Seaside Resorts</Text>
+			<Text>Khu nghỉ dưỡng ven biển</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Seaside Resorts are a special improvement that can be built after researching the Radio technology. These generate [ICON_Tourism] Du lịch based on the tile's Appeal.</Text>
+			<Text>Các Khu nghỉ dưỡng ven biển là một sự phát triển quan trọng có thể xây dựng được sau khi nghiên cứu kỹ thuật Sóng vô tuyền. Những điều này tạo ra [ICON_Tourisim] Du lịch dựa trên sức hấp dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_TITLE">
 			<Text>National Parks</Text>
@@ -1017,19 +1017,19 @@
 			<Text>Reminiscent of Sputnik in 1957, you may build a satellite to launch into space after researching Rocketry and building a Spaceport. After completing the Earth Satellite project, your satellite will be launched and you will be awarded visibility of the entire map. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_4">
-			<Text>Land a Human on the Moon:</Text>
+			<Text>Đưa con người lên Mặt Trăng:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_5">
-			<Text>Just like the Apollo II mission in 1969, you will send a human to the moon. This is unlocked after researching the technology Satellites, and can be built in any city with a Spaceport. Choose to produce the Moon Landing project to begin this mission. After the rocket has been launched, you will immediately be rewarded a lump sum of [ICON_Culture] Văn minh.</Text>
+			<Text>Cũng giống như sứ mệnh Apollo năm 1969, bạn sẽ đưa người lên mặt trăng. Điều này đã thành hiện thực sau khi nghiên cứu về công nghệ vệ tinh, và có thể xây một trạm không gian ở bất kỳ thành phố nào. Hãy chọn dự án sản xuất Đáp xuống Mặt Trăng để bắt đầu nhiệm vụ. Sau khi tên lửa của bạn đã được phóng, bạn ngay lập tức sẽ được thưởng lớn Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_6">
-			<Text>Establish a Colony on Mars:</Text>
+			<Text>Thiết lập một thuộc địa trên sao Hỏa:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_7">
-			<Text>Science fiction for now, perhaps – but now you can be the first to send your people to Mars. After researching Robotics, Nuclear Fission, and Nanotechnology, you may build the Reactor, Habitation, and Hydroponics module projects in any city with a Spaceport. Note that more than one Spaceport means parallel production! </Text>
+			<Text>Có thể lúc này chỉ là khoa học viễn tưởng, nhưng biết đâu bạn chính là người đầu tiên đưa người lên Sao Hỏa. Sau khi nghiên cứu về Robot, Phản ứng hạt nhân và công nghệ Nano, bạn có thể xây dựng các dự án Lò phản ứng, Nơi cư trú và Trồng cây thủy canh ở bất kỳ thành phố nào có một trạm không gian. Lưu ý rằng nếu có hai trạm không gian trở lên thì quá trình sản xuất cũng nhân đôi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_8">
-			<Text>Once every piece is launched, you have won the game.</Text>
+			<Text>Khi mọi mảnh ghép được kích hoạt một lần, thì bạn đã giành chiến thắng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_TITLE">
 			<Text>Culture Victory</Text>
@@ -1041,19 +1041,19 @@
 			<Text>[ICON_Tourism] Du lịch is generated by [ICON_TradeRoute] Tuyến đường thương mại, shared (or conflicting) late game Governments, open borders, Great Works housed in your civilization, [ICON_GreatWork_Relic] Relics housed in your civilization, Holy Sites, National Parks, [ICON_GreatWork_Artifact] Artifacts, and wonders.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
-			<Text>Religious Victory</Text>
+			<Text>Chiến thắng tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_1">
-			<Text>In order to obtain a Religious Victory, you must make your Religion the predominant Religion for every other major civilization in the game. This means not every one of a civilization's cities must follow your Religion, just the majority.</Text>
+			<Text>Để có được một chiến thắng tôn giáo, bạn phải làm cho tôn giáo của bạn chiếm ưu thế đối với phần lớn mọi nền văn minh khác trong trò chơi. Điều này không có nghĩa là mỗi một thành phố trong các nền văn minh phải tuân theo tôn giáo của bạn, chỉ cần đa số.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_2">
-			<Text>While your Religion will spread passively simply by settling near other players, it is your Missionaries and Apostles who offer the best chance at victory.</Text>
+			<Text>Trong khi tôn giáo của bạn lan truyền một cách thụ động đơn giản với những người chơi gần bên, thì những người truyền giáo và tông đồ của bạn chính người mang lại cơ hội tốt để giành thắng lợi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_TITLE">
-			<Text>Score Victory</Text>
+			<Text>Chiến thắng điểm</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_1">
-			<Text>In many games, one of the players will win the game by achieving one of the possible victories. However, if no one achieves one of these victories by the year 2050 (or a player-set turn), the winner is determined by the surviving civilization's "score." Points for your score are earned from number of civics, number of population, number of cities, number of technologies, number of "future technologies", number of wonders, military accomplishments, number of [ICON_GreatPerson] Great People, and number of Beliefs.</Text>
+			<Text>Trong rất nhiều trò chơi, một trong các người chơi sẽ chiến thắng bằng cách nhận được thành tựu trong những chiến thắng. Dù vậy, nếu không có ai nhận được nó trong các chiến thắng ở năm 2050 (hoặc là một lượt thiết lập), người thắng cuộc sẽ được quyết định bằng cách sống sót bằng "điểm" nền văn minh. Điểm sẽ nhận được bằng số hành chính, dân số, số thành phố, số công nghệ, số "Công nghệ tương lai", số kỳ quan, khả năng thực hiện kế hoạch của quân đội, số [ICON_GreatPerson] Vĩ Nhân, và số tín ngưỡng.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
