@@ -13,7 +13,7 @@
 			<Text>Từ chối phí địa hình</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
-			<Text>Từ chối phí băng qua sông</Text>
+			<Text>Từ chối phí qua sông</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
 			<Text>Từ chối kiểm soát khu vực</Text>
@@ -49,405 +49,405 @@
 			<Text>Không cản trở tầm nhìn</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
-			<Text>Oligarchy Melee</Text>
+			<Text>Cận chiến Thiểu số chính trị</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
-			<Text>Chính trị thần quyền</Text>
+			<Text>Chế độ thần quyền</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
-			<Text>Religious Orders</Text>
+			<Text>Giáo hội</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
-			<Text>Fascism Attack</Text>
+			<Text>Chủ nghĩa phát xít tấn công</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
-			<Text>Communism Land Defense</Text>
+			<Text>Chủ nghĩa cộng sản phòng thủ</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
-			<Text>Medic Healing</Text>
+			<Text>Quân y chữa bệnh</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_STEALTH_NAME">
-			<Text>Stealth</Text>
+			<Text>Tàng hình</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
-			<Text>Reveal Stealth</Text>
+			<Text>Phát hiện tàng hình</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COASTAL_RAID_NAME">
-			<Text>Coastal Raid</Text>
+			<Text>Tấn công bờ biển</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
-			<Text>Thunderbolt Coastal Raid</Text>
+			<Text>Tấn công lưỡi sét bờ biển</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
-			<Text>Directed Attack</Text>
+			<Text>Tấn công trực tiếp</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
-			<Text>Heal Neutral Territory</Text>
+			<Text>Chữa trị trên lãnh thổ trung lập</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
-			<Text>Plunder Immunity at Sea</Text>
+			<Text>Miễn dịch cướp biển</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
-			<Text>Berserker Rage</Text>
+			<Text>Kẻ điên Na Uy giận dữ</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
-			<Text>Berserker Movement</Text>
+			<Text>Kẻ điên Na Uy di chuyển</Text>
 		</Row>
     <Row Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
-      <Text>Longship Movement</Text>
+      <Text>Thuyền dài Viking di chuyển</Text>
     </Row>
     <Row Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
-			<Text>Prize Ships</Text>
+			<Text>Cướp thuyền</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
-			<Text>Captive Workers</Text>
+			<Text>Bắt thợ xây</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
-			<Text>Balkan Cavalry</Text>
+			<Text>Kị binh Balkan</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
-			<Text>Altitude Training</Text>
+			<Text>Rèn luyện độ cao</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COSSACK_NAME">
-			<Text>And Quiet Flows the Don</Text>
+			<Text>Sông Đông êm đềm</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_REDCOAT_NAME">
-			<Text>Global Army</Text>
+			<Text>Quân đội toàn cầu</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_VARU_NAME">
-			<Text>Fear</Text>
+			<Text>Sợ hãi</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAGAO_NAME">
-			<Text>Forest Fighter</Text>
+			<Text>Chiến binh rừng rậm</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_NAME">
-			<Text>Forced Conversion</Text>
+			<Text>Kẻ chinh phục</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_NAME">
-			<Text>Napoleon's Elite</Text>
+			<Text>Lính tinh nhuệ của Napoleon</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HOPLITE_NAME">
-			<Text>Phalanx</Text>
+			<Text>Đội hình falăng</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UBOAT_NAME">
-			<Text>Wolfsrudel</Text>
+			<Text>Người sói</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
-			<Text>Teddy's Rough Rider</Text>
+			<Text>Kị binh tình nguyện của Teddy</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MUSTANG_NAME">
-			<Text>Mustang</Text>
+			<Text>Phi cơ Ngựa hoang P-51</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MAMLUK_NAME">
-			<Text>Furusiyya</Text>
+			<Text>Cưỡi ngựa</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_SAMURAI_NAME">
 			<Text>Samurai</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
-			<Text>Domestic Spread</Text>
+			<Text>Truyền đạo trong nước</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
-			<Text>Enter Foreign Lands</Text>
+			<Text>Vào lãnh thổ nước ngoài</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
-			<Text>Peacekeeper</Text>
+			<Text>Giữ hòa bình</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
-			<Text>Friendly Territory Advantage</Text>
+			<Text>Lợi thế lãnh thổ thân thiện</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
-			<Text>Ignores Borders</Text>
+			<Text>Bỏ qua tự do đi lại</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
-			<Text>Walk on Air</Text>
+			<Text>Đi trên không</Text>
 		</Row>
 		<!-- Full description -->
 		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
-			<Text>+14 [ICON_Strength] Combat Strength against light cavalry and heavy cavalry units.</Text>
+			<Text>+14 [ICON_Strength] Sức mạnh chống lại đơn vị kỵ binh hạng nhẹ và nặng.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength against anti-cavalry units.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh chống lại đơn vị chống bị binh.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Di chuy?n if starting in Desert, Plains, Grassland, or Tundra.</Text>
+			<Text>+1 [ICON_Movement] Di chuyển nếu bắt đầu trong Sa mạc, Đồng bằng, Đồng cỏ hoặc Đài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
-			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Di chuy?n. Unlocked by the Missionary Zeal belief.</Text>
+			<Text>Rừng, đồi và đầm lầy chỉ lấy 1 [ICON_Movement] Di chuyển. Mở khóa bởi Người Truyền Giáo Nhiệt Huyết.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
-			<Text>Not affected by enemy zone of control.</Text>
+			<Text>Không bị ảnh hưởng bởi vùng kiểm soát của địch.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Di chuy?n if starting in Desert, Plains, Grassland, or Tundra.</Text>
+			<Text>+2 [ICON_Movement] Di chuyển nếu bắt đầu trong Sa mạc, Đồng bằng, Đồng cỏ hoặc Đài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
-			<Text>Cannot move and attack in the same turn.</Text>
+			<Text>Không thể di chuyển và tấn công trong cùng một lượt.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
-			<Text>Cannot enter ocean hexes.</Text>
+			<Text>Không thể đi vào ô đại dương.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
-			<Text>May not attack enemies; can only defend.</Text>
+			<Text>Không thể tấn công địch, chỉ có thể phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
-			<Text>Combat bonus in friendly territory.</Text>
+			<Text>Thưởng sức mạnh trong vùng đất thân thiện.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
-			<Text>When adjacent to an enemy city, melee units do full damage to the city's Walls.</Text>
+			<Text>Khi liền kề thành phố địch, đơn vị cận chiến có thể gây toàn sát thương cho tường thành.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
-			<Text>When adjacent to an enemy city, friendly melee units can bypass the city walls and attack the city directly.</Text>
+			<Text>Khi liền kề thành phố địch, đơn vị cận chiến thân thiện có thể băng qua tường và tấn công trực tiếp thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Combat Strength vs. Spearmen and Pikemen.</Text>
+			<Text>+5 [ICON_Strength] Sức mạnh đấu với Lính giáo và Lính dùng thương.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
-			<Text>+1 [ICON_Range] Range to nearby ranged siege units.</Text>
+			<Text>+1 [ICON_Range] Tầm liền kề cho đơn vị công thành.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
-			<Text>Sight range unobstructed by terrain.</Text>
+			<Text>Tầm nhìn không bị cản trở bởi địa hình.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Combat Strength from the Oligarchy government.</Text>
+			<Text>+4 [ICON_Strength] Sức mạnh từ chính phủ Thiểu số chính trị.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
-			<Text>+5 [ICON_Religion] Religious Strength from the Theocracy government.</Text>
+			<Text>+5 [ICON_Religion] Sức mạnh tôn giáo từ chính phủ Chế độ thần quyền.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
-			<Text>+5 [ICON_Religion] Religious Strength from the Religious Orders policy.</Text>
+			<Text>+5 [ICON_Religion] Sức mạnh tôn giáo từ chính sách Giáo hội.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Combat Strength when attacking from the Fascism government.</Text>
+			<Text>+4 [ICON_Strength] Sức mạnh khi tấn công từ chính phủ Chủ nghĩa phát xít.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
-			<Text>+6 [ICON_Strength] Combat Strength when defending from the Communism government.</Text>
+			<Text>+6 [ICON_Strength] Sức mạnh khi phòng thủ từ chính phủ Chủ nghĩa cộng sản.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
-			<Text>Bonus healing for the player's units within 1 tile.</Text>
+			<Text>Hồi máu cho các đơn vị trong vòng 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
-			<Text>Remains hidden from units more than 1 hex away.</Text>
+			<Text>Tàng hình với các đơn vị đứng cánh xa hơn một ô.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
-			<Text>Reveal stealth units on the map when this unit on an adjacent tile.</Text>
+			<Text>Phát hiện đơn vị tàng hình trên bản đồ khi đứng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
-			<Text>Harald Hardrada's naval melee units can pillage buildings and improvements and capture civilian units on coastal lands.</Text>
+			<Text>Hải quân cận chiến của Harald Hardrada có thể cướp bóc các kiến trúc và công trình trên vùng đất ven biển.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
-			<Text>Attack support units directly even if they are in a formation with a combat unit.</Text>
+			<Text>Hỗ trợ đơn vị tấn công trực tiếp kể cả nếu họ đang trong đoàn hộ tống với một đơn vị chiến đấu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
-			<Text>Can heal in neutral territory.</Text>
+			<Text>Có thể hồi máu trên lãnh thổ trung lập.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
-			<Text>While on a water tile, its [ICON_TradeRoute] Tuyến đường thương mại cannot be plundered by enemy units. Obtained when Suzerain of Lisbon city-state.</Text>
+			<Text>Trong khi trên một ô nước, [ICON_TradeRoute] Tuyến đường thương mại này không thể bị cướp bở kẻ địch. Có được khi là chủ của thành phố tự trị Lisbon.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
-			<Text>+7 [ICON_Strength]Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending.</Text>
+			<Text>+7 [ICON_Strength] Sức mạnh khi tấn công, và -7 [ICON_Strength] Sức mạnh khi phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Di chuyển if this unit starts in enemy territory.</Text>
+			<Text>+2 [ICON_Movement] Di chuyển nếu đơn vị này bắt đầu trên lãnh thổ địch.</Text>
 		</Row>
     <Row Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
-      <Text>+1 [ICON_Movement] Di chuyển while in coastal waters.</Text>
+      <Text>+1 [ICON_Movement] Di chuyển trong vùng bờ biển.</Text>
     </Row>
     <Row Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
-			<Text>Can capture defeated enemy naval vessels.</Text>
+			<Text>Có thể bắt kẻ địch bại trận bằng tàu hải quân.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
-			<Text>Can capture defeated enemy civilization combat units and convert them to Builders.</Text>
+			<Text>Có thể bắt kẻ địch bại trận của nền văn minh địch về làm Thợ Xây.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Combat Strength to heavy and light cavalry on Hills when Suzerain of Preslav city-state.</Text>
+			<Text>+5 [ICON_Strength] Sức mạnh cho kỵ binh hạng nhẹ và nặng trên đồi khi là chủ của thành phố tự trị Preslav.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
-			<Text>Missionaries, Inquisitors, and Apostles can move over Hills faster after moving adjacent to the Mount Everest natural wonder.</Text>
+			<Text>Nhà truyền giá, thẩm giáo, và tông đồ có thể di chuyển trên đồi nhanh hơn sau khi đứng gần đỉnh núi Everest.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
-			<Text>Can move after attacking. +5 [ICON_Strength] Combat Strength in your territory or adjacent to your territory.</Text>
+			<Text>Có thể di chuyển sau tấn công. +5 [ICON_Strength] Sức mạnh trong lãnh thổ nhà hoặc gần lãnh thổ nhà.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's. No disembark cost.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trên lục địa khác lục địa Thủ Đô. Không phí xuống tàu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_VARU_DESCRIPTION">
-			<Text>-5 [ICON_Strength] Combat Strength to adjacent enemy units.</Text>
+			<Text>-5 [ICON_Strength] Sức mạnh đối với kẻ địch liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when defending against ranged units, can see through features, and can move through Woods and Rainforest without [ICON_Movement] Di chuyển penalty.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ chống lại đơn vị đánh xa, có thể nhìn xuyên qua tính chất địa hình, và có thể di chuyển qua Rừng và Rừng nhiệt đới mà không bị phạt [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when there is an Apostle, Inquisitor, or Missionary in the same hex. If this unit captures a city or is adjacent to a city when it's captured, the city will automatically convert to the Conquistador player's majority Religion.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh khi có Tông đồ, Thẩm giáo hoặc nhà truyền giáo đứng cùng một ô. Nếu đơn vị này chiếm thành phố hoặc liền kề thành phố bị chiếm thì sẽ tự động cải giáos.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when on the same continent as the [ICON_Capital] Capital. +10 Đại Tướng Quân points for kills.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh khi trên cùng lục địa với [ICON_Capital] Thủ Đô. +10 điểm Đại Tướng Quân cho việc giết kẻ địch.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength if there is at least one Hoplite adjacent.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh nếu ở đấy có Lính xiên Greek liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength in Ocean combat.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trên đại dương.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
-			<Text>When defeating an enemy unit, gain [ICON_Culture] Văn minh equal to 50% that unit's base [ICON_Strength] Combat Strength when fighting on your [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
+			<Text>Đánh bại địch sẽ thưởng [ICON_Culture] Văn Minh bằng 50% [ICON_Strength] Sức mạnh cơ bản của đơn vị khi chiến đấu trên lục địa có [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi chiến đấu trên đồi.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
-			<Text>Receives a Combat bonus vs. Fighers, has an extended attack range, and earns more experience from combat.</Text>
+			<Text>Nhận thêm sức mạnh khi đấu với Chiến đấu cơ, có thêm tầm đánh và kiếm được nhiều EXP hơn từ cuộc chiến.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
-			<Text>This unit heals every turn, even after moving or combat.</Text>
+			<Text>Đơn vị này sẽ hồi máu mỗi lượt, kể cả khi di chuyển hoặc chiến đấu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
-			<Text>This unit does not suffer combat penalties when damaged.</Text>
+			<Text>Đơn vị này không bị giảm sức mạnh khi bị thương.</Text>
 		</Row>
 		<!-- Combat preview description -->
 		<Row Tag="LOC_COMBAT_DIFFICULTY_SCALING">
 			<Text>+{Amount} thưởng do khó khăn.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
-			<Text>+10 against cavalry</Text>
+			<Text>+10 chống kỵ binh</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
-			<Text>+5 against fighter aircraft</Text>
+			<Text>+5 chống chiến đấu cơ</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
-			<Text>+1 MP when start in open terrain.</Text>
+			<Text>+1 điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
-			<Text>All terrain costs 1 [ICON_Movement] Di chuyển.</Text>
+			<Text>Tất cả địa hình chỉ mất 1 [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
-			<Text>Not affected by ZOC.</Text>
+			<Text>Không ảnh hưởng bởi kiểm soát khu vực.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
-			<Text>+2 MP when start in open terrain.</Text>
+			<Text>+2 điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
-			<Text>Cannot move then attack.</Text>
+			<Text>Không thể di chuyển sau tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
-			<Text>Cannot enter ocean hexes.</Text>
+			<Text>Không thể đi vào ô đại dương.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
-			<Text>Prevents the unit from attacking.</Text>
+			<Text>Ngăn chặn đơn vị khỏi tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>Bonus in combat in friendly territory.</Text>
+			<Text>Thưởng chiến đấu trên vùng đất thân thiện.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
-			<Text>Allows melee units to attack walls.</Text>
+			<Text>Cho phép đơn vị cận chiến tấn công tường.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
-			<Text>Allows melee units to bypass walls.</Text>
+			<Text>Cho phép đơn vị cần chiến băng qua tường.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
-			<Text>+10 Combat vs. anti-cavalry units.</Text>
+			<Text>+10 Sức mạnh đấu với chống kỵ binh.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
-			<Text>+1 Attack Range to nearby siege artillery.</Text>
+			<Text>+1 Tầm đánh khi gần pháo công thành.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
-			<Text>Unobstructed Sight</Text>
+			<Text>Không cản trở tầm nhìn</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 Combat from Oligarchy</Text>
+			<Text>+4 Sức mạnh từ Thiểu số chính trị</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+5 Combat from Theocracy</Text>
+			<Text>+5 Sức mạnh từ Chế độ thần quyền</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+5 Combat from Religious Orders</Text>
+			<Text>+5 Sức mạnh từ Giáo hội</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 Attack from Fascism</Text>
+			<Text>+4 Tấn công từ Chủ nghĩa phát xít</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 Defense from Communism</Text>
+			<Text>+4 Phòng thủ từ Chủ nghĩa cộng sản</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
-			<Text>+4 vs. civilizations following another Religion.</Text>
+			<Text>+4 đấu với đơn vị của nền văn minh theo tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
-			<Text>Wars of Religion: +4 vs. civilizations following another Religion.</Text>
+			<Text>Chiến tranh tôn giáo: +4 đấu với đơn vị của nền văn minh theo tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
-			<Text>+5 Combat on home continent.</Text>
+			<Text>+5 Sức mạnh khi trên lục địa nhà.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
-			<Text>+7 Combat vs. city-states.</Text>
+			<Text>+7 Sức mạnh đấu với thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
-			<Text>+5 Combat on coastal land</Text>
+			<Text>+5 Sức mạnh trên đất ven biển</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
-			<Text>+5 Combat in shallow waters</Text>
+			<Text>+5 Sức mạnh trên vùng nước nông</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} HP healing for units within 1 tile</Text>
+			<Text>Hồi +{1_Amount} HP cho đơn vị trong vòng 1 ô</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
-			<Text>+{1_Amount} strength when attacking</Text>
+			<Text>+{1_Amount} sức mạnh khi tấn công</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
-			<Text>{1_Amount} Combat Strength when defending</Text>
+			<Text>{1_Amount} Sức mạnh khi phòng thủ</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
-			<Text>{1_Amount}% chance of capturing enemy.</Text>
+			<Text>{1_Amount}% cơ hội bắt được kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
-			<Text>{1_Amount}% chance of capturing enemy</Text>
+			<Text>{1_Amount}% cơ hội bắt được kẻ địch</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when fighting in Hills</Text>
+			<Text>+{1_Amount} Sức mạnh khi chiến đấu trên đồi</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when in your territory or adjacent to your territory</Text>
+			<Text>+{1_Amount} Sức mạnh khi ở lãnh thộ của bạn hoặc liền kề lãnh thổ bạn</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when fighting on a continent other that your capital's</Text>
+			<Text>+{1_Amount} Sức mạnh khi chiến đấu trên lục địa khác lục địa có chưa Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>{1_Amount} Combat Strength when adjacent to an enemy Varu</Text>
+			<Text>{1_Amount} Sức mạnh khi liền kề Voi Ấn Độ của địch</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when defending Ranged</Text>
+			<Text>+{1_Amount} Sức mạnh khi phòng thủ đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when there is an Apostle, Inquisitor, or Missionary in the same hex</Text>
+			<Text>+{1_Amount} Sức mạnh khi có Tông đồ, Nhà truyền giáo hoặc Thẩm giáo đứng cùng một ô</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength on the same continent as your capital</Text>
+			<Text>+{1_Amount} Sức mạnh khi trên cùng lục địa chứa Thủ Đô</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when next to another Hoplite</Text>
+			<Text>+{1_Amount} Sức mạnh khi liền kề đơn vị Lính xiên Greek khác</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when the combat is in Ocean Terrain</Text>
+			<Text>+{1_Amount} Sức mạnh khi chiến đấu trên đại dương</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
-			<Text>+{1_Amount} to combat on hill terrain</Text>
+			<Text>+{1_Amount} sức mạnh trên đồi</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
-			<Text>Can only spread their Religion to cities within their empire.</Text>
+			<Text>Chỉ có thể Truyền Đạo tôn giáo của họ sang các thành phố trong đế chế họ.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
-			<Text>Cannot initiate Theological Combat.</Text>
+			<Text>Không thể tạo chiến đấu thần học.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
-			<Text>Significant advantage to Theological Combat in their empire.</Text>
+			<Text>Lợi thế đáng kể cho chiến đấu thần học trong đế chế họ.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
-			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+			<Text>Không có Tự do đi lại nhưng đơn vị này có thể vào lãnh thỗ nước khác.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
-			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Di chuyển.</Text>
+			<Text>Rừng, đồi và đầm lầy chỉ mất 1 [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
-			<Text>Ignore movement cost for river crossing.</Text>
+			<Text>Không phí di chuyển khi qua sông.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
-			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+			<Text>Không có Tự do đi lại nhưng đơn vị này có thể vào lãnh thỗ nước khác.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
