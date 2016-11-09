@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Leader Names-->
+		<Row Tag="LOC_REPRESENTATIVE">
+			<Text>a representative</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text>Frederick Barbarossa</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>Catherine de Medici</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>Cleopatra</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GANDHI_NAME">
+			<Text>Gandhi</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Gilgamesh</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Gorgo</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Harald Hardrada</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Hojo Tokimune</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Mvemba a Nzinga</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>Pedro II</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>Philip II</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_QIN_NAME">
+			<Text>Qin Shi Huang</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Saladin</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Tomyris</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Trajan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Teddy Roosevelt</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Victoria</Text>
+		</Row>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+			<Text>Ally of Enkidu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+			<Text>Ayyubid Dynasty</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+			<Text>Backstab Averse</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+			<Text>Big Stick Policy</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+			<Text>Black Queen</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BUSHIDO_NAME">
+			<Text>Bushido</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+			<Text>City-State Ally</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+			<Text>Counter Reformer</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+			<Text>Delian League</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+			<Text>Enthusiastic Disciple</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+			<Text>Patron of the Arts</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Iron Crown</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+			<Text>Last Viking King</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+			<Text>Optimus Princeps</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PARANOID_NAME">
+			<Text>Paranoid</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+			<Text>Peacekeeper</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+			<Text>Queen of the Nile</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+			<Text>Sun Never Sets</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TLATOANI_NAME">
+			<Text>Tlatoani</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WESTERNIZER_NAME">
+			<Text>Westernizer</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+			<Text>With Your Shield Or On It</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+			<Text>Wall of 10,000 Li</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AIRPOWER_NAME">
+			<Text>Airpower</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+			<Text>Barbarian Ally</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+			<Text>City State Protector</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CIVILIZED_NAME">
+			<Text>Civilized</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CULTURED_NAME">
+			<Text>Cultured</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DARWINIST_NAME">
+			<Text>Darwinist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DEVOUT_NAME">
+			<Text>Devout</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+			<Text>Environmentalist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+			<Text>Exploitative</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLORER_NAME">
+			<Text>Explorer</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FUN_LOVING_NAME">
+			<Text>Fun-Loving</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+			<Text>Great Person Advocate</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+			<Text>Ideologue</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+			<Text>Heavy Industry</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+			<Text>Money Grubber</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NATURALIST_NAME">
+			<Text>Naturalist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+			<Text>Nuke Happy</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_POPULOUS_NAME">
+			<Text>Populous</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+			<Text>Standing Army</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+			<Text>Technophile</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+			<Text>Wonder Obsessed</Text>
+		</Row>
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+			<Text>Likes civilizations who are willing to form a long-term alliance. Dislikes anyone denouncing or attacking his friends and allies.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+			<Text>Wants to have his Worship building in many cities, and likes a civilization with it. Dislikes civilizations following other Religions, or civilizations waging war on followers of his Religion.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+			<Text>Likes civilizations who are their declared friend. Hates civilizations who backstab and declare surprise wars.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+			<Text>Likes peaceful civilizations that have a city on his home continent. Hates civilizations starting wars against a city-state or civilization based on his continent.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+			<Text>Gains as many Spies and as much diplomatic access as possible.  Does not like civilizations who ignore these espionage activities.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+			<Text>Likes civilizations that have a strong military and [ICON_Faith]Faith and [ICON_Culture] Culture output. Dislikes civilizations that are strong in military but weak in [ICON_Faith]Faith and [ICON_Culture] Culture output.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+			<Text>Likes civilizations that aren't competing for the same city-state allegiance. Dislikes civilizations that are directly competing for city-state allegiance.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+			<Text>Likes civilizations who follow the same Religion, and wants his cities to all follow the same Religion.  Hates anyone trying to spread their Religion into his empire.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+			<Text>Likes civilizations that aren't competing for the same city-state allegiance. Dislikes civilizations that are directly competing for city-state allegiance.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+			<Text>Likes civilizations that bring Religion to the Kongo. Dislikes civilizations that have founded a Religion but not brought it to a Kongolese city.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+			<Text>Likes civilizations who are not competing for Great People, and will recruit Great People whenever possible. Dislikes losing a Great Person to another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+			<Text>Likes civilizations who do not associate with city-states. Does not like Suzerains of city-states, or civilizations who conquered city-states.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+			<Text>Builds a large navy and respects civilizations who follow his lead.  Does not like civilizations with a weak navy.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+			<Text>Tries to include as much territory as possible in his empire.  Does not like civilizations who control little territory.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+			<Text>Likes civilizations who pose no threat. Dislikes civilizations with strong militaries or ones with nearby cities.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+			<Text>Likes civilizations with powerful militaries, and will try to ally with them to avoid damaging military conflicts. Dislikes civilizations with weak militaries.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+			<Text>Never declares wars for which he can be branded a warmonger, and will try to befriend those who maintain the peace. Hates warmongers.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+			<Text>Likes civilizations from her home continent, and wants to expand to all continents. Doesn’t like civilizations on continents where England has no city.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+			<Text>Likes civilizations who have the same Luxury resources as he does, and will try to collect every Luxury resource available. Dislikes civilizations who have a new Luxury resource he has not yet collected.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+			<Text>Friendly to those civilizations that are ahead of him in [ICON_Science] Science and [ICON_Culture] Culture.  Dislikes backwards civilizations that are lacking in [ICON_Science] Science and [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Never gives up items in a peace deal, and likes civilizations who match that approach. Dislikes civilizations who have capitulated or who have never gone to war.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+			<Text>Likes civilizations not competing for wonders, and builds wonders whenever possible. Dislikes losing a wonder to another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+			<Text>Sympathizes with the barbarians.  Does not like civilizations that destory barbarian outposts.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+			<Text>Hates barbarians. Likes civilizations that clear out barbarian outposts. Does not like civilizations that ignores barbarian outposts.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+			<Text>Tries to build up [ICON_Culture] Culture, and likes civilizations that also focus on [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+			<Text>Likes to see civilizations at war, and believes in constant struggle. </Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+			<Text>Tries to make the citizens in each city as happy as possible. Likes civilizations that also develop in this fashion.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+			<Text>Tries to build up industry, and likes civilizations that also focus on [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+			<Text>Tries to have the highest possible [ICON_Gold] Gold per turn income. Respects other high income civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+			<Text>Tries to find all natural wonders.  Likes civilizations that keep Woods and Rainforest unchopped, and those that establish National Parks.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+			<Text>Has no hesitation to use nuclear weapons. Respects other cilizations that project strength with nuclear weapons.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+			<Text>Tries to have the highest overall population.  Respects other high population civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+			<Text>Always tries to keep a large standing army. Respects other civilizations with large armies.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+			<Text>Tries to build up air power. Admires civilizations with greater air power. Dislikes civilizations with weaker air power.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+			<Text>Emphasizes protectorate wars. Admires civilizations that start protectorate wars. Dislikes civilizations that attack city states.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+			<Text>Clears all features and improves all possible tiles. Likes civilizations with a high percentage of improved tiles. Dislikes civilizations with low percentage of improved tiles or that found National Parks.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+			<Text>Builds National Parks, doesn't clear features, plants forests. Likes civilizations that plant forests or found National Parks. Dislikes civilizations that clear features.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+			<Text>Favors civilizations with the same type of government, dislikes civilizations that have different govenments, and really dislikes civilizations with different govenments of the same era as its own.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+			<Text>Tries to build up [ICON_Faith] Faith, and likes civilizations that also focus on [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+			<Text>Tries to explore the map, and likes civilizations that have explored less of the map than itself and dislikes civilizations that have explored more of the map than itself.</Text>
+		</Row>
+		<!-- City-State Traits-->
+		<Row Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+			<Text>1 [ICON_Envoy] Envoy:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+			<Text>3 [ICON_Envoy] Envoys:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+			<Text>6 [ICON_Envoy] Envoys:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+			<Text>Scientific City-State</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Science in your [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Science in every Campus district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Additional +2 [ICON_Science] Science in every Campus district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+			<Text>Religious City-State</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Faith in the [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Faith in every Holy Site district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Additional +2 [ICON_Faith] Faith in every Holy Site district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+			<Text>Trade City-State</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Gold in the [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Gold in every Commercial Hub district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Additional +4 [ICON_Gold] Gold in every Commercial Hub district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+			<Text>Cultural City-State</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Culture in the [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Culture in every Theater Square district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Additional +2 [ICON_Culture] Culture in every Theater Square district.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+			<Text>Militaristic City-State</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing units.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every Encampment district when producing units.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Additional +2 [ICON_Production] Production in every Encampment district when producing units.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+			<Text>Industrial City-State</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing wonders, buildings, and districts.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every Industrial Zone district when producing wonders, buildings, and districts.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Additional +2 [ICON_Production] Production in every Industrial Zone district when producing wonders, buildings and districts.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+			<Text>Amsterdam Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to foreign cities earn +1 [ICON_Gold] Gold for each Luxury resource at the destination.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+			<Text>Brussels Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+			<Text>Your cities get +15% [ICON_Production] Production towards wonders.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+			<Text>Buenos Aires Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+			<Text>Carthage Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+			<Text>Geneva Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+			<Text>Your cities earn +15% [ICON_Science] Science whenever you are not at war with any civilization.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+			<Text>Hattusa Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+			<Text>Provides you with 1 of each Strategic resource you have revealed but do not own.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+			<Text>Hong Kong Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+			<Text>Your cities get +20% [ICON_Production] Production towards city projects.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+			<Text>Jakarta Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Gold] Gold to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+			<Text>Jerusalem Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+			<Text>Automatically converts to the Religion you founded, and exerts pressure for that Religion as if it were a Holy City.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+			<Text>Kabul Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+			<Text>Your units receive double experience from battles they initiate.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+			<Text>Kandy Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+			<Text>Receive a [ICON_GreatWork_Relic] Relic every time you discover a new natural wonder, and earn +50% [ICON_Faith] Faith from all [ICON_GreatWork_Relic] Relics.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+			<Text>Kumasi Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+			<Text>La Venta Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+			<Text>Your Builders can now make Colossal Head improvements.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+			<Text>Lisbon Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+			<Text>Your Trader units are immune to being plundered on water tiles.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+			<Text>Mohenjo-Daro Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+			<Text>Your cities have full [ICON_Housing] Housing from water, as if they were all next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+			<Text>Nan Madol Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+			<Text>Your districts on or next to Coast tiles provide +2 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+			<Text>Preslav Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Your light and heavy cavalry units have +5 [ICON_Strength] Strength when fighting on hill tiles.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+			<Text>Seoul Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+			<Text>When you enter a new era, earn 1 random [ICON_TechBoosted] Eureka from that era.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+			<Text>Stockholm Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+			<Text>Toronto Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+			<Text>Valletta Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+			<Text>City Center buildings and Encampment district buildings can be bought with [ICON_Faith] Faith. Cost of purchasing Ancient, Medieval, and Renaissance Walls is reduced, but they can only be bought with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+			<Text>Vilnius Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>When you enter a new era, earn 1 random [ICON_CivicBoosted] Inspiration from that era.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+			<Text>Yerevan Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+			<Text>Your Apostle units can choose from any possible promotion instead of receiving a random promotion.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+			<Text>Zanzibar Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+			<Text>Receive the [ICON_RESOURCE_CINNAMON] Cinnamon and [ICON_RESOURCE_CLOVES] Cloves Luxury resources. These cannot be earned any other way in the game, and provide 6 [ICON_Amenities] Amenities each.</Text>
+		</Row>
+		<!--Leader Trait Names-->
+		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Thermopylae</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Adventures of Enkidu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>Mediterranean's Bride</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>Divine Wind</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>El Escorial</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>The Grand Embassy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text>Holy Roman Emperor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Pax Britannica</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>Righteousness of the Faith</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Religious Convert</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Roosevelt Corollary</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+			<Text>Satyagraha</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Thunderbolt of the North</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>The First Emperor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>Catherine's Flying Squadron</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Trajan's Column</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Killer of Cyrus</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Magnanimous</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>Surrounded by Glory</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Victoria unique unit: Redcoat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Harald Hardrada unique unit: Viking Longship</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Theodore Roosevelt unique unit: Rough Rider</Text>
+		</Row>
+		<!--Leader Trait Descriptions-->
+		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Egypt. Other civilizations' [ICON_TradeRoute] Trade Routes to Egypt provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Egypt.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Builds Encampment, Holy Site and Theater Square districts in half the time.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Inquisitors can Remove Heresy one extra time. Combat units have a bonus of +4 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Russia (+1 per 3 technologies or civics ahead).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text>Additional Military policy slot. +7 [ICON_Strength] Combat Strength when attacking city-states.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+			<Text>All found or conquered cities on a continent other than your home continent receive a free melee unit. Gain the Redcoat unique unit when the Miltary Science technology is researched.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>The worship building for their Religion can be purchased by any player for just one-tenth of the usual  [ICON_Faith] Faith cost.  This worship building is enhanced to add 10% to the [ICON_Science] Science, [ICON_Faith] Faith, and [ICON_Culture] Culture output of Arabian cities.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>May not build Holy Site districts, gain Great Prophets, or found Religions. Gains all Beliefs of any Religion that has established itself in a majority of his cities. Receives an Apostle each time he finishes a M'banza or Theater Square district (of that city's majority Religion).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Rifling technology.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+			<Text>+5 [ICON_Faith] Faith for each civilization (including India) they have met that has founded a Religion and is not currently at war. Opposing civilizations receive double the war weariness for fighting against Gandhi.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Allows coastal raiding for all naval melee units.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>Has 1 level of [ICON_VisLimited] Diplomatic Visibility greater than normal with every civilization that she's met. Receives capacity to build an extra Spy with the Castles technology.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. When they eliminate a unit, they heal up to 50 hit points.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>After recruiting or patronizing a [ICON_GreatPerson] Great Person, 20% of its [ICON_GreatPerson] Great Person point cost is refunded.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>+5% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

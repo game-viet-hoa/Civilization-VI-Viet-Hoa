@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_QUOTE">
+			<Text>“Organisms don't think of CO2 as a poison. Plants and organisms that make shells, coral, think of it as a building block.”[NEWLINE]– Janine Benyus</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_QUOTE">
+			<Text>“Under the White Cliff’s battlemented crown, Hushed to a depth of more than Sabbath peace.”[NEWLINE]– William Wordsworth</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_QUOTE">
+			<Text>“Never again can I gaze upon the beauty spots of the Earth and enjoy them as being the finest thing I have ever seen. Crater Lake is above them all.”[NEWLINE]– Jack London</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_SEA_QUOTE">
+			<Text>“Like to the apples on the Dead Sea’s shore, all ashes to the taste.”[NEWLINE]– Lord Byron</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EVEREST_QUOTE">
+			<Text>“It is not the mountain we conquer but ourselves.”[NEWLINE]– Sir Edmund Hillary</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GALAPAGOS_QUOTE">
+			<Text>“The natural history of this archipelago is very remarkable: it seems to be a little world within itself.”[NEWLINE]– Charles Darwin</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_QUOTE">
+			<Text>“As it turns out, Mount Kilimanjaro is not wi-fi enabled, so I had to spend two weeks in Tanzania talking to the people on my trip.”[NEWLINE]– Nancy Bonds</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PANTANAL_QUOTE">
+			<Text>“The Pantanal is the most complex intertropical alluvional plain of the planet and perhaps the least known area of the world.”[NEWLINE]– Aziz Ab’Saber</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PIOPIOTAHI_QUOTE">
+			<Text>“But as I headed into the heart of New Zealand’s fiordland that same child-like feeling, long lost, of pure unadulterated awe came rushing back. I knew the road to Milford Sound was good – but this good?”[NEWLINE]– Darroch Donald</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_QUOTE">
+			<Text>“Several closely situated granite peaks resembling tiger’s teeth dramatically soar about a kilometer into the sky”[NEWLINE]– Howard Hillman</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TSINGY_QUOTE">
+			<Text>“Tsingy is a 250-square-mile tiger trap made up on massive obelisks riddled with jagged spears. And yes, they will cut your pretty face.”[NEWLINE]– Budd Erickson</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_YOSEMITE_QUOTE">
+			<Text>“Yosemite Valley, to me, is always a sunrise, a glitter of green and golden wonder in a vast edifice of stone and space.”[NEWLINE]– Ansel Adams</Text>
+		</Row>
+		<Row Tag="LOC_TECH_POTTERY_QUOTE_1">
+			<Text>“No man ever wetted clay and then left it, as if there would be bricks by chance and fortune.” [NEWLINE]- Plutarch</Text>
+		</Row>
+		<Row Tag="LOC_TECH_POTTERY_QUOTE_2">
+			<Text>“I thought clay must feel happy in the good potter’s hand.” [NEWLINE]– Janet Fitch</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_1">
+			<Text>"If there are no dogs in Heaven, then when I die I want to go where they went." [NEWLINE]- Will Rogers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_2">
+			<Text>“I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.” [NEWLINE]- Winston S. Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_QUOTE_1">
+			<Text>"Who deserves more credit than the wife of a coal miner?” [NEWLINE]– Merle Travis</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_QUOTE_2">
+			<Text>"When you find yourself in a hole, quit digging." [NEWLINE]- Will Rogers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_QUOTE_1">
+			<Text>"Vessels large may venture more, but little boats should keep near shore." [NEWLINE]-Benjamin Franklin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_QUOTE_2">
+			<Text>“It is not that life ashore is distasteful to me. But life at sea is better.” [NEWLINE]– Sir Francis Drake</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTROLOGY_QUOTE_1">
+			<Text>“I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.” [NEWLINE]– Arthur C. Clarke</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTROLOGY_QUOTE_2">
+			<Text>“A physician without a knowledge of astrology has no right to call himself a physician.” [NEWLINE]- Hippocrates</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_QUOTE_1">
+			<Text>“Thousands have lived without love, not one without water.” [NEWLINE]-W. H. Auden</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_QUOTE_2">
+			<Text>“The man who has grit enough to bring about the afforestation or the irrigation of a country is not less worthy of honor than its conqueror.” [NEWLINE]– Sir John Thomson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHERY_QUOTE_1">
+			<Text>“I shot an arrow into the air. It fell to earth, I knew not where.” [NEWLINE]– Henry Wadsworth Longfellow</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHERY_QUOTE_2">
+			<Text>“May the forces of evil become confused while your arrow is on its way to the target.” [NEWLINE]– George Carlin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_WRITING_QUOTE_1">
+			<Text>“Writing means sharing. It’s part of the human condition to want to share things – thoughts, ideas, opinions.” [NEWLINE]– Paulo Coelho</Text>
+		</Row>
+		<Row Tag="LOC_TECH_WRITING_QUOTE_2">
+			<Text>"Writing is easy. All you have to do is cross out the wrong words." [NEWLINE]-Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_QUOTE_1">
+			<Text>“Each of us is carving a stone, erecting a column, or cutting a piece of stained glass in the construction of something much bigger than ourselves.”[NEWLINE]– Adrienne Clarkson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_QUOTE_2">
+			<Text>“When wasteful war shall statues overturn, and broils root out the work of masonry.” [NEWLINE]– William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_QUOTE_1">
+			<Text>“Bronze is the mirror of the form, wine of the mind.” [NEWLINE]– Aeschylus</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_QUOTE_2">
+			<Text>“I’m also interested in creating a lasting legacy … because bronze will last for thousands of years.” [NEWLINE]- Richard MacDonald</Text>
+		</Row>
+		<Row Tag="LOC_TECH_THE_WHEEL_QUOTE_1">
+			<Text>“Sometimes the wheel turns slowly, but it turns.” [NEWLINE]– Lorne Michaels</Text>
+		</Row>
+		<Row Tag="LOC_TECH_THE_WHEEL_QUOTE_2">
+			<Text>“Don’t reinvent the wheel, just realign it.” [NEWLINE]– Anthony D’Angelo</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_1">
+			<Text>“And all I ask is a tall ship and a star to steer her by.” [NEWLINE]– John Masefield</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_2">
+			<Text>“Set your course by the stars, not by the lights of every passing ship.” [NEWLINE]– Omar Bradley</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CURRENCY_QUOTE_1">
+			<Text>“Wealth consists not in having great possessions, but in having few wants.” [NEWLINE]- Epictetus</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CURRENCY_QUOTE_2">
+			<Text>“Money, if it does not bring you happiness, will at least help you be miserable in comfort.”[NEWLINE] – Helen Gurley Brown</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_1">
+			<Text>“No hour of life is wasted that is spent in the saddle.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_2">
+			<Text>“A man on a horse is spiritually as well as physically bigger than a man on foot.” [NEWLINE]– John Steinbeck</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRON_WORKING_QUOTE_1">
+			<Text>“The Lord made us all out of iron. Then he turns up the heat to forge some of us into steel.” [NEWLINE]– Marie Osmond</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRON_WORKING_QUOTE_2">
+			<Text>“Everything has its limit – iron ore cannot be educated into gold.” [NEWLINE]– Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_1">
+			<Text>“I cannot imagine any condition which would cause a ship to founder … Modern shipbuilding has gone beyond that.” [NEWLINE]– Capt. E.J. Smith, RMS Titanic</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_2">
+			<Text>“There is nothing but a plank between a sailor and eternity.”[NEWLINE] – Thomas Gibbons</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_QUOTE_1">
+			<Text>“Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.” [NEWLINE]– Shakuntala Devi</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_QUOTE_2">
+			<Text>“If I were again beginning my studies, I would follow the advice of Plato and start with mathematics.” [NEWLINE]– Galileo Galilei</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CONSTRUCTION_QUOTE_1">
+			<Text>“Create with the heart; build with the mind.” [NEWLINE]– Criss Jami</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CONSTRUCTION_QUOTE_2">
+			<Text>“The four building blocks of the universe are fire, water, gravel and vinyl.” [NEWLINE]– Dave Barry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ENGINEERING_QUOTE_1">
+			<Text>“One man’s ‘magic’ is another man’s engineering.” [NEWLINE]– Robert Heinlein</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ENGINEERING_QUOTE_2">
+			<Text>“Normal people … believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.” [NEWLINE]– Scott Adams</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_TACTICS_QUOTE_1">
+			<Text>“Tactics mean doing what you can with what you have.” [NEWLINE]– Saul Alinsky</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_TACTICS_QUOTE_2">
+			<Text>“Strategy requires thought; tactics require observation.” [NEWLINE]– Max Euwe</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_QUOTE_1">
+			<Text>“We are all apprentices in a craft where no one ever becomes a master.” [NEWLINE]– Ernest Hemingway</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_QUOTE_2">
+			<Text>“There is no easy way to train an apprentice. My two tools are example and nagging.” [NEWLINE]– Lemony Snicket</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STIRRUPS_QUOTE_1">
+			<Text>“Few inventions have been so simple as the stirrup, but few have had so catalytic an influence on history.” [NEWLINE]– Lynn White Jr.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STIRRUPS_QUOTE_2">
+			<Text>“Betwixt the stirrup and the ground, Mercy I asked, mercy I found.” [NEWLINE]– William Camden</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_QUOTE_1">
+			<Text>“I’d imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need.” [NEWLINE]– Hugo Cabret</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_QUOTE_2">
+			<Text>“Remember that people break down, too, not just machinery.” [NEWLINE]– Gregory Benford</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_QUOTE_1">
+			<Text>The purpose of education is to replace an empty mind with an open one.” [NEWLINE]– Malcolm Forbes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_QUOTE_2">
+			<Text>“It is the mark of an educated mind to be able to entertain a thought without accepting it.” [NEWLINE]- Aristotle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_ENGINEERING_QUOTE_1">
+			<Text>“Blast – Build – Battle” [NEWLINE]– Motto of the U.S. 16th Engineer Brigade</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_ENGINEERING_QUOTE_2">
+			<Text>“The more science intervenes in warfare, the more will be the need for engineers in the field armies; in the late war there were never enough sappers at any time.” [NEWLINE]– Bernard Montgomery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_QUOTE_1">
+			<Text>“Rocks in my path? I keep them all. With them I shall build my castle.” [NEWLINE]– Nemo Nox</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_QUOTE_2">
+			<Text>“If you see a castle under fog, you must walk there to meet the extraordinary dreams.” [NEWLINE]– Mehmet Murat Ildan</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_QUOTE_1">
+			<Text>“If your actions inspire others to dream more, learn more, do more and become more, you are a cartographer.” [NEWLINE]– John Quincy Adams</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_QUOTE_2">
+			<Text>“Not all who wander are lost.” [NEWLINE]– J.R.R. Tolkien</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASS_PRODUCTION_QUOTE_1">
+			<Text>“People can have the Model T in any color – so long as it’s black.” [NEWLINE]– Henry Ford</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASS_PRODUCTION_QUOTE_2">
+			<Text>“What can be labeled, packaged, mass produced is neither truth nor art.” [NEWLINE]– Marty Rubin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_QUOTE_1">
+			<Text>“If you owe the bank $100 that’s your problem. If you owe the bank $100 million, that’s the bank’s problem.” [NEWLINE]– J. Paul Getty</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_QUOTE_2">
+			<Text>“I saw a bank that said ’24-Hour Banking,’ but I didn’t have that much time.” [NEWLINE]– Steven Wright</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_QUOTE_1">
+			<Text>“The real use of gunpowder is to make all men tall.” [NEWLINE]– Thomas Carlyle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_QUOTE_2">
+			<Text>“Man is a military animal, glories in gunpowder, and loves parades.” [NEWLINE]– Philip Bailey</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_QUOTE_1">
+			<Text>“The pen might not be mightier than the sword, but maybe the printing press is heavier than the siege weapon. Just a few words can change everything.” [NEWLINE]– Terry Pratchett</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_QUOTE_2">
+			<Text>“What gunpowder did for war the printing press has done for the mind.” [NEWLINE]- Wendell Phillips</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_QUOTE_1">
+			<Text>“There is little man has made that approaches anything in nature, but a sailing ship does.” [NEWLINE]– Allan Villiers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_QUOTE_2">
+			<Text>“It’s not the towering sails, but the unseen wind that moves a ship.” [NEWLINE]– English Proverb</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_QUOTE_1">
+			<Text>“Astronomy compels the soul to look upwards and leads us from this world to another.” [NEWLINE]- Plato</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_QUOTE_2">
+			<Text>“Astronomy’s much more fun when you’re not an astronomer.” [NEWLINE]– Brian May</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_QUOTE_1">
+			<Text>“And first Hephaestus makes a great and massive shield … And he forged on the shield two noble cities.” [NEWLINE]– Homer</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_QUOTE_2">
+			<Text>“Don’t judge someone until you’ve stood at his forge and worked with his hammer.” [NEWLINE]– Rick Riordan</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SIEGE_TACTICS_QUOTE_1">
+			<Text>“The lowest is to attack a city. Siege of a city is only done as a last resort.” [NEWLINE]– Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SIEGE_TACTICS_QUOTE_2">
+			<Text>“All the best romances bloom in the midst of a good siege.” [NEWLINE]– Miles Cameron</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_QUOTE_1">
+			<Text>“I think the human race made a big mistake at the beginning of the Industrial Revolution, we leaped for the mechanical things. People need the use of their hands to feel creative.” [NEWLINE]– Andre Norton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_QUOTE_2">
+			<Text>“The key words of violent economics are urbanization, industrialization, centralization, efficiency, quantity, speed.” [NEWLINE]– E.F. Schumacher</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_QUOTE_1">
+			<Text>“Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or exciting our sense of wonder.” [NEWLINE]– Carl Sagan</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_QUOTE_2">
+			<Text>“If facts don’t fit the theory, change the facts.” [NEWLINE]– Albert Einstein</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BALLISTICS_QUOTE_1">
+			<Text>“It’s one thing to surmise what happened, but we don’t speculate on that until ballistics confirms what happened …” [NEWLINE]– John Hansen</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BALLISTICS_QUOTE_2">
+			<Text>“Let’s get on our knees and pray. I don’t know to whom. Is there a patron saint of ballistics yet?” [NEWLINE]– Adam Savage</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_SCIENCE_QUOTE_1">
+			<Text>“However beautiful the strategy, you should occasionally look at the results.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_SCIENCE_QUOTE_2">
+			<Text>“No one starts a war – or rather, no one in his senses ought to do so – without first being clear in his mind what he intends to achieve by that war and how he intends to conduct it.” [NEWLINE]– Karl von Clausewitz</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_QUOTE_1">
+			<Text>“It is arguable whether the human race have been gainers by the march of science beyond the steam engine.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_QUOTE_2">
+			<Text>“Science owes more to the steam engine than the steam engine owes to science.” [NEWLINE]– Lawrence Henderson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_QUOTE_1">
+			<Text>“No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.” [NEWLINE]– Sylvia Burwell</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_QUOTE_2">
+			<Text>“Apart from the sanitation, the medicine, education, wine, public order, roads, the fresh water system, and public health … what have the Romans ever done for us?” [NEWLINE]– Graham Chapman</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ECONOMICS_QUOTE_1">
+			<Text>“Economics is a subject that does not greatly respect one’s wishes.” [NEWLINE]– Nikita Khrushchev</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ECONOMICS_QUOTE_2">
+			<Text>"You and I come by road or rail, but economists travel on infrastructure." [NEWLINE]- Margaret Thatcher</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RIFLING_QUOTE_1">
+			<Text>“Bolt actions speak louder than words.” [NEWLINE]– Craig Roberts</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RIFLING_QUOTE_2">
+			<Text>“Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range.” [NEWLINE]– The 2nd Target Company</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_QUOTE_1">
+			<Text>“For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.” [NEWLINE]– Leonardo da Vinci</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_QUOTE_2">
+			<Text>“If you can walk away from a landing, it’s a good landing. If you use the airplane the next day, it’s an outstanding landing.” [NEWLINE]– Chuck Yeager</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_QUOTE_1">
+			<Text>“For a machine to run smoothly and predictably, its parts must be standard and hence replaceable.” [NEWLINE]– Charles Eisenstein</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_QUOTE_2">
+			<Text>“Many of us take better care of our automobiles than we do of our own bodies … yet the auto has replaceable parts." [NEWLINE]– B.J. Palmer</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_QUOTE_1">
+			<Text>“The best steel doesn’t always shine the brightest.” [NEWLINE]– Joe Abercrombie</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_QUOTE_2">
+			<Text>“There are three things extremely hard: steel, a diamond, and to know one’s self.” [NEWLINE]– Benjamin Franklin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ELECTRICITY_QUOTE_1">
+			<Text>“If it weren’t for electricity, we’d all be watching television by candlelight.” [NEWLINE]– George Gobel</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ELECTRICITY_QUOTE_2">
+			<Text>“Benjamin Franklin may have discovered electricity, but it was the man who invented the meter who made the money.” [NEWLINE]– Earl Wilson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_QUOTE_1">
+			<Text>“A world without radio is a deaf world.” [NEWLINE]– Ernest Yeboah</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_QUOTE_2">
+			<Text>“Radio is the theater of the mind; television is the theater of the mindless.” [NEWLINE]– Steve Allen</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CHEMISTRY_QUOTE_1">
+			<Text>“Chemistry is the dirty part of physics.” [NEWLINE]– Peter Reiss</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CHEMISTRY_QUOTE_2">
+			<Text>“Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.” [NEWLINE]– Sir William Crookes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_QUOTE_1">
+			<Text>“The cars haven’t advanced that much since we were kids. When you boil it down, it’s still a gas combustion engine.” [NEWLINE]– Dana Brunetti</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_QUOTE_2">
+			<Text>“I have always considered that the substitution of the internal combustion engine for the horse marked a very gloomy milestone in the progress of mankind.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_QUOTE_1">
+			<Text>“Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.” [NEWLINE]– Ginger Rogers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_QUOTE_2">
+			<Text>“If God had really intended men to fly, He’d make it easier to get to the airport.” [NEWLINE]– George Winters</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_QUOTE_1">
+			<Text>“Rocket science has been mythologized all out of proportion to its true difficulty.” [NEWLINE]– John Carmack</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_QUOTE_2">
+			<Text>“When you launch a rocket, you’re not really flying that rocket. You’re just sort of hanging on.” [NEWLINE]– Michael P. Anderson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_QUOTE_1">
+			<Text>“Untutored courage is useless in the face of educated bullets.” [NEWLINE]– George Patton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_QUOTE_2">
+			<Text>“Aim for the moon. If you miss, you may hit a star.” [NEWLINE]– W. Clement Stone</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBINED_ARMS_QUOTE_1">
+			<Text>“Better to fight for something than live for nothing.” [NEWLINE]- George S. Patton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBINED_ARMS_QUOTE_2">
+			<Text>"The chief incalculable in war is the human will." [NEWLINE]- B.H. Liddell Hart.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_QUOTE_1">
+			<Text>“In the hierarchy of the major poetic substances, plastic figures as a disgraced material, lost between the effusiveness of rubber and the flat hardness of metal.” [NEWLINE]– Roland Barthes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_QUOTE_2">
+			<Text>“Nothing on this earth lasts forever. Except maybe plastic.” [NEWLINE]– Patricia Dunn</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_QUOTE_1">
+			<Text>“To err is human, but to really foul things up you need a computer.” [NEWLINE]– Paul R. Ehrlich</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_QUOTE_2">
+			<Text>“The good thing about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.” [NEWLINE]– Ted Nelson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FISSION_QUOTE_1">
+			<Text>“If you go on with this nuclear arms race, all you are going to do is make the rubble bounce.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FISSION_QUOTE_2">
+			<Text>"Leave the atom alone." [NEWLINE]- E. Y. Harburg</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_QUOTE_1">
+			<Text>“There’s so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic.” [NEWLINE]– Lily Tomlin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_QUOTE_2">
+			<Text>"There may be no forgiveness for polyester. On this one matter, Satan and the Lord are in agreement.” [NEWLINE]– Joe Hill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TELECOMMUNICATIONS_QUOTE_1">
+			<Text>“Mr. Watson… Come here… I want to see you." [NEWLINE]- Alexander Graham Bell</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TELECOMMUNICATIONS_QUOTE_2">
+			<Text>“The single biggest problem in communication is the illusion that it has taken place.” [NEWLINE]– George Bernard Shaw</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SATELLITES_QUOTE_1">
+			<Text>“A satellite has no conscience.” [NEWLINE]– Edward R. Murrow</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SATELLITES_QUOTE_2">
+			<Text>“Right now there are thirty-one satellites zipping around the world with nothing better to do than help you find your way to the grocery store.” [NEWLINE]– Ed Burnette</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUIDANCE_SYSTEMS_QUOTE_1">
+			<Text>“If you do not change direction, you may end up where you were heading.” [NEWLINE]– Lao Tzu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUIDANCE_SYSTEMS_QUOTE_2">
+			<Text>“I love watching my mom argue with the GPS on the way home.” [NEWLINE]– Isabelle Fuhrman</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LASERS_QUOTE_1">
+			<Text>“When God said, ‘Let there be light,’ he surely must have meant perfectly coherent light.” [NEWLINE]– Charles Townes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LASERS_QUOTE_2">
+			<Text>“I’m a big laser believer – I really think they are the wave of the future.” [NEWLINE]– Courteney Cox</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPOSITES_QUOTE_1">
+			<Text>“All material things seem to have been composed of the hard and solid particles … variously associated with the first Creation by the counsel of an Intelligent Agent.” [NEWLINE]– Isaac Newton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPOSITES_QUOTE_2">
+			<Text>“It is obvious that while science is struggling to bring Heaven to Earth some men are using its materials in the construction of Hell.” [NEWLINE]– Herbert Hoover</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEALTH_TECHNOLOGY_QUOTE_1">
+			<Text>"I would say invisibility would be sort of a fun power to have just to see what it was like to move through the world and not be looked at." [NEWLINE]- Kevin Bacon</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEALTH_TECHNOLOGY_QUOTE_2">
+			<Text>“In art and dream may you proceed with abandon. In life may you proceed with balance and stealth.” [NEWLINE]– Patti Smith</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_QUOTE_1">
+			<Text>“Robotics has been around forever, and it’s been the next big thing forever, and it is so exciting and compelling that it’s easy to get carried away.” [NEWLINE]– Colin Angle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_QUOTE_2">
+			<Text>“I’ll be back.”</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NANOTECHNOLOGY_QUOTE_1">
+			<Text>“If technology is the engine of change, then nanotechnology is the fuel for humanity’s future.” [NEWLINE]– Natasha Vita-More</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NANOTECHNOLOGY_QUOTE_2">
+			<Text>“Many, many rules had begun to bend at the hand of nanotechnology … This produced a lot of good, and a lot of bad.” [NEWLINE]– Matt Spire</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_QUOTE_1">
+			<Text>“There is nothing like a dream to create the future.” [NEWLINE]– Victor Hugo</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_QUOTE_2">
+			<Text>“Even though the future seems far away, it is actually beginning right now.” [NEWLINE]– Mattie Stepanek</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FUSION_QUOTE_1">
+			<Text>“I am a big proponent of harnessing the power of fusion – from 93 million miles away. Fusion is done by our sun really, really well and for free. Here on Earth in reactors, not so much.” [NEWLINE]– Joe Romm</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FUSION_QUOTE_2">
+			<Text>“When we look up at night and view the stars, everything we see is shining because of distant nuclear fusion.” [NEWLINE]– Carl Sagan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CODE_OF_LAWS_QUOTE_1">
+			<Text>“It is not wisdom but authority that makes a law.” [NEWLINE]– Thomas Hobbes</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CODE_OF_LAWS_QUOTE_2">
+			<Text>“At his best, man is the noblest of all animals; separated from law and justice he is the worst.” [NEWLINE]– Aristotle</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CRAFTSMANSHIP_QUOTE_1">
+			<Text>“Without craftsmanship, inspiration is a mere reed shaken in the wind.”[NEWLINE] – Johannes Brahms</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CRAFTSMANSHIP_QUOTE_2">
+			<Text>“Skill without imagination is craftsmanship and gives us many useful objects such as wickerwork picnic baskets.” [NEWLINE]– Tom Stoppard</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_QUOTE_1">
+			<Text>“Every nation lives by exchanging.” [NEWLINE]– Adam Smith</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_QUOTE_2">
+			<Text>“That’s the positive aspect of trade I suppose. The world gets stirred up together.” [NEWLINE]– Isabel Hoving</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_QUOTE_1">
+			<Text>“Bravery is being the only one who knows you’re afraid.” [NEWLINE]— Colonel David Hackworth</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_QUOTE_2">
+			<Text>“I don’t underrate the value of military knowledge, but if men make war in slavish obedience to rules, they will fail.” [NEWLINE]– Ulysses S. Grant</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATE_WORKFORCE_QUOTE_1">
+			<Text>“A strong economy begins with a strong, well-educated workforce.”[NEWLINE]– Bill Owens</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATE_WORKFORCE_QUOTE_2">
+			<Text>“It is equally important to have a happy and engaged workforce as it is to have a profitable bottom line.” [NEWLINE]– Vern Dosch</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_QUOTE_1">
+			<Text>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too." [NEWLINE]- Marcus Aurelius</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_QUOTE_2">
+			<Text>“It was luxuries like air conditioning that brought down the Roman Empire. With air conditioning their windows were shut; they couldn’t hear the barbarians coming.”[NEWLINE] – Garrison Keillor</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_QUOTE_1">
+			<Text>“Mysticism is the mistake of an accidental and individual symbol for a universal one.” [NEWLINE]– Ralph Waldo Emerson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_QUOTE_2">
+			<Text>“I like to say I practice militant mysticism. I’m absolutely sure of some things that I don’t quite know.” [NEWLINE]– Rob Bell</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMES_RECREATION_QUOTE_1">
+			<Text>“If bread is the first necessity of life, recreation is a close second.” [NEWLINE]– Edward Bellamy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMES_RECREATION_QUOTE_2">
+			<Text>“People who cannot find time for recreation are sooner or later to find time for illness.” [NEWLINE]– John Wanamaker</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_QUOTE_1">
+			<Text>“Politics is the art of the possible, the attainable – the art of the next best.” [NEWLINE]– Otto von Bismarck</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_QUOTE_2">
+			<Text>“Divide and rule, a sound motto. Unite and lead, a better one.” [NEWLINE]– Johann Wolfgang von Goethe</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DRAMA_POETRY_QUOTE_1">
+			<Text>"The poets have been mysteriously silent on the subject of cheese." [NEWLINE]- G. K. Chesterton</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DRAMA_POETRY_QUOTE_2">
+			<Text>“All the world’s a stage, and all the men and women merely players.” [NEWLINE]– William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_QUOTE_1">
+			<Text>“If it’s natural to kill, how come men have to go into training to learn how?” [NEWLINE]– Joan Baez</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_QUOTE_2">
+			<Text>"Those who in quarrels interpose, must often wipe a bloody nose." [NEWLINE]- John Gay</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DEFENSIVE_TACTICS_QUOTE_1">
+			<Text>“Invincibility lies in the defense; the possibility of victory in the attack.” [NEWLINE]– Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DEFENSIVE_TACTICS_QUOTE_2">
+			<Text>“Defense is superior to opulence.” [NEWLINE]– Adam Smith</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RECORDED_HISTORY_QUOTE_1">
+			<Text>"I've lived through some terrible things in my life, some of which actually happened." [NEWLINE]- Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RECORDED_HISTORY_QUOTE_2">
+			<Text>“History is the version of past events that people have decided to agree upon.” [NEWLINE]– Napoleon Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_QUOTE_1">
+			<Text>“We can no more have exact religious thinking without theology, than exact mensuration and astronomy without mathematics, or exact iron-making without chemistry.” [NEWLINE]– John Hall</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_QUOTE_2">
+			<Text>“Man suffers only because he takes seriously what the gods made for fun.” [NEWLINE]– Alan W. Watts</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_QUOTE_1">
+			<Text>“A good navy is not a provocation to war. It is the surest guaranty of peace.” [NEWLINE] – Theodore Roosevelt</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_QUOTE_2">
+			<Text>“The Navy has both a tradition and a future – and we look with pride and confidence in both directions.” [NEWLINE]– Arleigh Burke</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_QUOTE_1">
+			<Text>“In democracy it’s your vote that counts; in feudalism it’s your count that votes.” [NEWLINE]– Mogens Jallberg</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_QUOTE_2">
+			<Text>“With the advance of feudalism came the growth of iron armor, until, at last, a fighting-man resembled an armadillo.” [NEWLINE]– John Boyle O’Reilly</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_1">
+			<Text>“It’s all papers and forms, the entire civil service is like a fortress made of papers, forms and red tape.” [NEWLINE] – Alexander Ostrovsky</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_2">
+			<Text>"The taxpayer - that's someone who works for the federal government but doesn't have to take the civil service examination." [NEWLINE] - Ronald Reagan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_QUOTE_1">
+			<Text>“In peace one is despoiled by mercenaries; in war by one’s enemies.” [NEWLINE]– Niccolo Machiavelli</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_QUOTE_2">
+			<Text>“Being a mercenary, though … Hey, we just go wherever there’s a mixture of money and trouble.” [NEWLINE]– Howard Tayler</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MEDIEVAL_FAIRES_QUOTE_1">
+			<Text>“All that glisters is not gold; often have you heard that told.” [NEWLINE]– William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MEDIEVAL_FAIRES_QUOTE_2">
+			<Text>“There are very honest people who do not think that they have had a bargain unless they have cheated a merchant.” [NEWLINE]– Anatole France</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GUILDS_QUOTE_1">
+			<Text>“Every man should make his son learn some useful trade or profession, so that in these days of changing fortunes … they may have something tangible to fall back upon.” [NEWLINE]– Phineas T. Barnum</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GUILDS_QUOTE_2">
+			<Text>“You can’t go around arresting the Thieves’ Guild. I mean, we’d be at it all day!” [NEWLINE]– Terry Pratchett</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_QUOTE_1">
+			<Text>“I conclude then this point touching upon the power of kings with this axiom of divinity, That as to dispute what God may do is blasphemy … so it is sedition to dispute what a king may do.” [NEWLINE]– King James I</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_QUOTE_2">
+			<Text>“Listen, strange women lying in ponds distributing swords is no basis for a system of government … You can’t expect to wield supreme power just ‘cause some watery tart threw a sword at you!” [NEWLINE]– Monty Python</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_QUOTE_1">
+			<Text>“The day we stop exploring is the day we commit ourselves to live in a stagnant world, devoid of curiosity, empty of dreams.” [NEWLINE]– Neil deGrasse Tyson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_QUOTE_2">
+			<Text>“We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.” [NEWLINE]– T.S. Eliot</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HUMANISM_QUOTE_1">
+			<Text>“The four characteristics of humanism are curiosity, a free mind, belief in good taste, and belief in the human race.” [NEWLINE]– E.M. Forster</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HUMANISM_QUOTE_2">
+			<Text>“You must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty" [NEWLINE] - Mahatma Gandhi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_1">
+			<Text>“In diplomacy there are two kinds of problems: small ones and large ones. The small ones will go away by themselves, and the large ones you will not be able to do anything about.” [NEWLINE]– Patrick McGuinness</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_2">
+			<Text>“A diplomat is a man who always remembers a woman’s birthday but never remembers her age.” [NEWLINE]– Robert Frost</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMED_CHURCH_QUOTE_1">
+			<Text>"I don't like to commit myself about Heaven and Hell, you see, I have friends in both places." [NEWLINE]- Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMED_CHURCH_QUOTE_2">
+			<Text>“The three great elements of modern civilization: gun powder, printing, and the Protestant religion.” [NEWLINE]– Thomas Carlyle</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_QUOTE_1">
+			<Text>“In a market economy, however, the individual has some possibility of escaping from the power of the state.” [NEWLINE]– Peter Berger</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_QUOTE_2">
+			<Text>“Having seen a non-market economy, I suddenly understood much better what I liked about a market economy.” [NEWLINE]– Esther Dyson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_QUOTE_1">
+			<Text>“New opinions are always suspected, and usually opposed, without any other reason but because they are not already common.” [NEWLINE]– John Locke</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_QUOTE_2">
+			<Text>“Whatever is contrary to nature is contrary to reason, and whatsoever is contrary to reason is absurd.” [NEWLINE]– Baruch Spinoza</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_QUOTE_1">
+			<Text>“Remember that politics, colonialism, imperialism and war also originated in the human brain.” [NEWLINE]– Vilayanur Ramachandran</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_QUOTE_2">
+			<Text>“Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonizers?” [NEWLINE]– Anthony Burgess</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_QUOTE_1">
+			<Text>“Improvement makes straight roads; but the crooked roads without improvement are roads of Genius.” [NEWLINE]– William Blake</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_QUOTE_2">
+			<Text>“A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.” [NEWLINE]– Douglas Adams</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_QUOTE_1">
+			<Text>“It is nationalism which engenders nations, and not the other way round.” [NEWLINE]– Ernest Gellner</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_QUOTE_2">
+			<Text>“Human nature, as manifested in tribalism and nationalism, provides the momentum of the machinery of human evolution.” [NEWLINE]– Arthur Keith</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_QUOTE_1">
+			<Text>“Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.” [NEWLINE]- Robert Benchley</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_QUOTE_2">
+			<Text>“It [ballet] projects a fragile kind of strength and a certain inflexible precision.” [NEWLINE]– Ayn Rand</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_QUOTE_1">
+			<Text>"Had I been present at the Creation, I would have given some useful hints for the better ordering of the universe." [NEWLINE]- Nelson Algren</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_QUOTE_2">
+			<Text>“In all works on Natural History, we constantly find details of the marvelous adaptation of animals to their food, their habits, and the localities in which they are found.” [NEWLINE]– Alfred Wallace</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_QUOTE_1">
+			<Text>“War is hell.” [NEWLINE]– William Tecumseh Sherman</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_QUOTE_2">
+			<Text>“I only understand friendship or scorched earth.” [NEWLINE]– Roger Ailes</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_URBANIZATION_QUOTE_1">
+			<Text>“It’s the Industrial Revolution and the growth of urban concentrations that led to a sense of anonymity.” [NEWLINE]– Vint Cerf</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_URBANIZATION_QUOTE_2">
+			<Text>“What I like about cities is that everything is king size, the beauty and the ugliness.” [NEWLINE]– Joseph Brodsky</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CAPITALISM_QUOTE_1">
+			<Text>“The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CAPITALISM_QUOTE_2">
+			<Text>"Always try to rub up against money, for if you rub against money long enough, some of it may rub off on you." [NEWLINE]- Damon Runyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_QUOTE_1">
+			<Text>“Water and air, the two essentials on which life depends, have become global garbage cans.” [NEWLINE]– Jacques Yves Cousteau</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_QUOTE_2">
+			<Text>“Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal.” [NEWLINE]– Edward Wilson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MASS_MEDIA_QUOTE_1">
+			<Text>“The effect of the mass media is not to elicit belief but to maintain the apparatus of addiction.” [NEWLINE]– Christopher Lasch</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MASS_MEDIA_QUOTE_2">
+			<Text>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed." [NEWLINE]-Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_QUOTE_1">
+			<Text>“When they are preparing for war, those who rule by force speak most copiously about peace until they have completed the mobilization process.” [NEWLINE]– Stefan Zweig</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_QUOTE_2">
+			<Text>“In order to rally people, governments need enemies … if they do not have a real enemy, they will invent one in order to mobilize us.” [NEWLINE]– Nhat Hanh</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_QUOTE_1">
+			<Text>“The release of atom power has changed everything except our way of thinking…the solution to this problem lies in the heart of mankind. If only I had known, I should have become a watchmaker.” [NEWLINE]– Albert Einstein</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_QUOTE_2">
+			<Text>”The children of the nuclear age, I think, were weakened in their capacity to love. Hard to love, when you’re bracing yourself for impact.” [NEWLINE]– Martin Amis</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_QUOTE_1">
+			<Text>“It has been demonstrated that no system, not even the most inhuman, can continue to exist without an ideology.” [NEWLINE]– Joe Slovo</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_QUOTE_2">
+			<Text>“Slowly, ideas lead to ideology, lead to policies that lead to actions.” [NEWLINE]– Nandan Nilekani</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SUFFRAGE_QUOTE_1">
+			<Text>“Why is a woman to be treated differently? Woman suffrage will succeed, despite this miserable guerilla opposition.” [NEWLINE]– Victoria Woodhull</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SUFFRAGE_QUOTE_2">
+			<Text>“Men, their rights, and nothing more; women, their rights, and nothing less.” [NEWLINE]– Susan B. Anthony</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TOTALITARIANISM_QUOTE_1">
+			<Text>“Only the mob and the elite can be attracted by the momentum of totalitarianism itself. The masses have to be won by propaganda.” [NEWLINE]– Hannah Arendt</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TOTALITARIANISM_QUOTE_2">
+			<Text>“The ultimate end of any ideology is totalitarianism.” [NEWLINE]– Tom Robbins</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CLASS_STRUGGLE_QUOTE_1">
+			<Text>“There’s class warfare, all right, but it’s my class, the rich class, that’s making war … and we’re winning.”[NEWLINE] – Warren Buffett</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CLASS_STRUGGLE_QUOTE_2">
+			<Text>“The class struggle necessarily leads to the dictatorship of the proletariat.” [NEWLINE]– Karl Marx</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_QUOTE_1">
+			<Text>“From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the continent.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_QUOTE_2">
+			<Text>“The Cold War is not thawing; it is burning with a deadly heat.” [NEWLINE]– Richard Nixon</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_QUOTE_1">
+			<Text>“If winning isn’t everything, why do they keep score?”[NEWLINE] – Vince Lombardi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_QUOTE_2">
+			<Text>"Sports do not build character. They reveal it." [NEWLINE]- Heywood Broun</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_QUOTE_1">
+			<Text>“A people without the knowledge of their past history, origin and culture is like a tree without roots.” [NEWLINE]– Marcus Garvey</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_QUOTE_2">
+			<Text>“You don’t stumble upon your heritage. It’s there, just waiting to be explored and shared.” [NEWLINE]– Robbie Robertson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_QUOTE_1">
+			<Text>“A good plan violently executed right now is far better than a perfect plan executed next week.” [NEWLINE]- George S. Patton</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_QUOTE_2">
+			<Text>"Never mind the maneuvers, just go straight at them." [NEWLINE]- Horatio Nelson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SPACE_RACE_QUOTE_1">
+			<Text>“We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.” [NEWLINE]– John F. Kennedy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SPACE_RACE_QUOTE_2">
+			<Text>“NASA spent millions of dollars inventing the ball-point pen so they could write in space. The Russians took a pencil.” [NEWLINE]– Will Chabot</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_QUOTE_1">
+			<Text>“It has been said that arguing against globalization is like arguing against the laws of gravity.”[NEWLINE] – Kofi Annan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_QUOTE_2">
+			<Text>“One day there will be no borders, no boundaries, no flags and no countries and the only passport will be the heart.” [NEWLINE]– Carlos Santana</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_QUOTE_1">
+			<Text>"Which of all my important nothings shall I tell you first?" [NEWLINE]-Jane Austen</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_QUOTE_2">
+			<Text>“Distracted from distraction by distraction!”[NEWLINE] – T.S. Eliot</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BHASA_1_QUOTE">
+			<Text>He is as the fall of a thunderbolt to the lordly mountains,[NEWLINE]the eagle to all the birds, the lion to the assemblies of wild beasts,[NEWLINE]Death, in human form.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BHASA_2_QUOTE">
+			<Text>Oh, my heart, be thou content with the truth of thy suspicions. Learn now of my sire's decease and for a moment be thou calm.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_1_QUOTE">
+			<Text>Let me not then die ingloriously and without a struggle, but let me first do some great thing that shall be told among men hereafter.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_2_QUOTE">
+			<Text>For a friend with an understanding heart is worth no less than a brother.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_1_QUOTE">
+			<Text>I held up a fistful of sand and showed it to him, asking for as many years as grains in that pile. Foolish me! I forgot to ask they be years of youth.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_2_QUOTE">
+			<Text>Chance is all-powerful. Always cast your fishing hook; in the pond where you least expect it, you'll find a fish.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_1_QUOTE">
+			<Text>From the light came light, and from the dark came darkness, but from whence did they appear? Yin and yang combine to create all things, but which is the source, and which was born from it?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_2_QUOTE">
+			<Text>Time rolls ever forward without a pause,[NEWLINE]The seasons cycle through spring and autumn.[NEWLINE]As I watch the green fade all around me,[NEWLINE]I fear the sun setting on my youth.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_1_QUOTE">
+			<Text> A KNYGHT ther was, and that a worthy man,[NEWLINE]That fro the tyme that he first bigan[NEWLINE]To riden out, he loved chivalrie,[NEWLINE]Trouthe and honour, fredom and curteisie.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_2_QUOTE">
+			<Text>If I be she that may yow do gladnesse,[NEWLINE]For every wo ye shal recovere a blisse';[NEWLINE]And him in armes took, and gan him kisse.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_1_QUOTE">
+			<Text>Flowers surround me, alone with my drink,[NEWLINE]I pour for myself, no companion to join me.[NEWLINE]I raise my glass and toast the full moon,[NEWLINE]Who shall with my shadow make us three.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_2_QUOTE">
+			<Text>I fan myself in this most languid heat,[NEWLINE]The forest invites one to lay all bare.[NEWLINE]I hang my hood upon a rocky crag,[NEWLINE]My head exposed I bathe in fragrant air.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_1_QUOTE">
+			<Text>As a young boy my brother Nobunori studied the Chinese classics, and I liked to sit in and listen to his lessons. I found that even when he struggled to understand or memorize passages, I would find them remarkably easy. My father, a well-read man himself, often used to lament this fact, saying, 'Such a shame. Would that you were born a man!'</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_2_QUOTE">
+			<Text>New grass, you don’t even know where to sprout and grow. How can I, a drop of dew, vanish away in the air leaving you alone?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_1_QUOTE">
+			<Text>Out of this Room there was a passage into the Emperor's Bed-Chamber, the Walls whereof were of Jet, and the Floor of black Marble; the Roof was of Mother of Pearl, where the Moon and Blazing-Stars were represented by white Diamonds, and his Bed was made of Diamonds and Carbuncles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_2_QUOTE">
+			<Text>It is known that man has five Exterior Senses, and every sense is ignorant of each other; for the Nose knows not what the Eyes see, nor the Eyes what the Ears hear, neither do the Ears know what the Tongue tastes...</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_1_QUOTE">
+			<Text>Doubt if you will, but the truth is that which I have told, and forever rests upon lies like oil over water.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_2_QUOTE">
+			<Text>And, being merry and young, they did not miss any chances of hearing about the beautiful maids of the city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_1_QUOTE">
+			<Text>Thus it is necessary to note, men must be either enticed or snuffed out. For light offenses they avenge, grievous ones they cannot; therefore the offense done to a man must be such as to remove any fear of revenge.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_2_QUOTE">
+			<Text>It is necessary for the one who founds a republic, and sets laws in it, to presuppose all men evil, and always ready to put the maliciousness in their soul to use, every time they have a chance...</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_1_QUOTE">
+			<Text>O, swear not by the moon, the inconstant moon,[NEWLINE]That monthly changes in her circled orb,[NEWLINE]Lest that thy love prove likewise variable.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_2_QUOTE">
+			<Text>To be, or not to be? That is the question—[NEWLINE]Whether ’tis nobler in the mind to suffer[NEWLINE]The slings and arrows of outrageous fortune,[NEWLINE]Or to take arms against a sea of troubles,[NEWLINE]And, by opposing, end them?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_1_QUOTE">
+			<Text>And because she was so beautiful they called her Princess Goldilocks; for her hair was finer than gold, wonderfully fair, and it fell in ringlets to her feet.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_2_QUOTE">
+			<Text>"If you will be so good and generous as to let me free," the dolphin went on, "I shall render you such real services in the course of my life that you will never need to repent of your kindness."</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_1_QUOTE">
+			<Text>Dreams, dreams! Where have you gone? How sweet you were.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_2_QUOTE">
+			<Text>Like some magistrate grown gray in office,[NEWLINE]Calmly he contemplates alike the just[NEWLINE]And unjust, with indifference he notes[NEWLINE]Evil and good, and knows not wrath nor pity.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_1_QUOTE">
+			<Text>"Villains!" I shrieked, "dissemble no more! I admit the deed! --tear up the planks! here, here! --It is the beating of his hideous heart!"</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_2_QUOTE">
+			<Text>While I nodded, nearly napping, suddenly there came a tapping,[NEWLINE]As of some one gently rapping, rapping at my chamber door.[NEWLINE]“’Tis some visitor,” I muttered, “tapping at my chamber door—[NEWLINE]Only this and nothing more.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_1_QUOTE">
+			<Text>“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_2_QUOTE">
+			<Text>Know your own happiness. You want nothing but patience- or give it a more fascinating name, call it hope.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_1_QUOTE">
+			<Text>As soon as you trust yourself, you will know how to live.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_2_QUOTE">
+			<Text>“The human race is a monotonous affair. Most people spend the greatest part of their time working in order to live, and what little freedom remains so fills them with fear that they seek out any and every means to be rid of it.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_1_QUOTE">
+			<Text>I beheld the wretch — the miserable monster whom I had created.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_2_QUOTE">
+			<Text>This intelligence brought us back from the prospect of paradise, held out after the lapse of an hundred thousand years, to the pain and misery at present existent upon earth.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_1_QUOTE">
+			<Text>Every life is many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love. But always meeting ourselves.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_2_QUOTE">
+			<Text>One by one they were all becoming shades. Better pass boldly into that other world, in the full glory of some passion, than fade and wither dismally with age.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_1_QUOTE">
+			<Text>A Bird came down the Walk—[NEWLINE]He did not know I saw—[NEWLINE]He bit an Angleworm in halves[NEWLINE]And ate the fellow, raw.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_2_QUOTE">
+			<Text>Success is counted sweetest[NEWLINE]By those who ne'er succeed.[NEWLINE]To comprehend a nectar[NEWLINE]Requires sorest need.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_1_QUOTE">
+			<Text>“Pierre was right when he said that one must believe in the possibility of happiness in order to be happy, and I now believe in it. Let the dead bury the dead, but while I'm alive, I must live and be happy.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_2_QUOTE">
+			<Text>All the girls in the world were divided into two classes: one class included all the girls in the world except her, and they had all the usual human feelings and were very ordinary girls; while the other class -herself alone- had no weaknesses and was superior to all humanity.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_1_QUOTE">
+			<Text>"Jim said that bees won't sting idiots, but I didn't believe that, because I tried them lots of times myself and they wouldn't sting me.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_2_QUOTE">
+			<Text>He had discovered a great law of human action, without knowing it--namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_1_QUOTE">
+			<Text>Amory Blaine inherited from his mother every trait, except the stray inexpressible few, that made him worth while.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_2_QUOTE">
+			<Text>She was dazzling—alight; it was agony to comprehend her beauty in a glance.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_1_QUOTE">
+			<Text>No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own...</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_2_QUOTE">
+			<Text>Very simple was my explanation, and plausible enough - as many wrong theories are!</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_1_QUOTE">
+			<Text>I am willing to serve my country, but my worship I reserve for Right which is far greater than my country. To worship my country as a god is to bring a curse upon it.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_2_QUOTE">
+			<Text>If some wanderer, leaving home, come here to watch the night and with bowed head listen to the murmur of the darkness, who is there to whisper the secrets of life into his ears if I, shutting my doors, should try to free myself from mortal bonds?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_1_QUOTE">
+			<Text>My dear Miss Glory, Robots are not human. Mechanically, they are more perfect than us, they possess an amazing rational intelligence, but they do not have any soul.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_2_QUOTE">
+			<Text>Great God of the Ants, thou hast let the victory prevail! I hereby name thee the Colonel.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SUN_TZU_QUOTE">
+			<Text>Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_QUOTE">
+			<Text>“From the heights of these pyramids, forty centuries look down on us.”[NEWLINE]– Napoleon Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_QUOTE">
+			<Text>“Petra is a brilliant display of man’s artistry in turning barren rock into majestic wonder.”[NEWLINE]– Edward Dawson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_QUOTE">
+			<Text>“Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.”[NEWLINE]– Henry Adams</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_QUOTE">
+			<Text>“The Great Ball Court is also very impressive. I would like to have seen them play a game, although it sounds like the end was pretty violent. I think it was safer to be a spectator.”[NEWLINE]– IslaDeb</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_QUOTE">
+			<Text>“Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that … and then we can party!”[NEWLINE]– Bill Bryson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_QUOTE">
+			<Text>“I sprang upon the swift ship in the form of a dolphin, pray to me as Apollo Delphinius; also the altar itself shall be called Delphinius and overlooked forever.”[NEWLINE]– Homer</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_QUOTE">
+			<Text>“There were seven wonders in the world, and the discovery of the Terracotta Army, we may say, is the eighth miracle of the world.”[NEWLINE]– Jacques Chirac</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ALHAMBRA_QUOTE">
+			<Text>“Everything here appears calculated to inspire kind and happy feelings, for everything is delicate and beautiful.”[NEWLINE]– Washington Irving</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_QUOTE">
+			<Text>“Thus, the sculpture serves to give people one thought – ‘Everything is in God’s hands.’”[NEWLINE]– Sergey Semenov</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_QUOTE">
+			<Text>“The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.”[NEWLINE]– Pico Iyer</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_QUOTE">
+			<Text>“The ascent to the highest story is by stairs, and at their side are water engines, by means of which persons, appointed expressly for the purpose, are continually employed in raising water from the Euphrates into the garden.”[NEWLINE]– Strabo</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_QUOTE">
+			<Text>“The whole palace complex is built along a central axis, the axis of the world, everything in the four directions suspend from this central point represented by these palaces.”[NEWLINE]– Jeffrey Riegel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_QUOTE">
+			<Text>“Museums are on the front lines of the fight for culture, of good with evil – in any case, of the fight against platitudes and primitiveness.”[NEWLINE]– Mikhail Piotrovsky, Director of the State Hermitage</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_QUOTE">
+			<Text>“I ought to be jealous of the tower. She is more famous than I am.”[NEWLINE]– Gustave Eiffel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_QUOTE">
+			<Text>“At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines.”[NEWLINE]– Philo of Byzantium</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_QUOTE">
+			<Text>“This Lighthouse was the cynosure of all eyes.”[NEWLINE]– Henry David Thoreau</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_QUOTE">
+			<Text>“An opera begins long before the curtain goes up and ends long after it has come down. It starts in my imagination, it becomes my life, and it stays part of my life long after I've left the opera house.”[NEWLINE]– Maria Callas</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_QUOTE">
+			<Text>“King Solomon gave the Queen of Sheba all she desired and asked for; besides what he had given her out of his royal bounty. So she turned and went to her own country, she and her servants.”[NEWLINE]– 1 Kings, 10:13</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_QUOTE">
+			<Text>“Don’t watch the big clock; do what it does. Keep going.”[NEWLINE]– Sam Levenson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_QUOTE">
+			<Text>“While the Colosseum stands, Rome shall stand; when the Colosseum falls, Rome shall fall; when Rome falls, the world shall fall.”[NEWLINE]– Saint Bede</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_QUOTE">
+			<Text>“Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.”[NEWLINE]– Alcides Ghiggia, Uruguayan soccer player</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_QUOTE">
+			<Text>“The commonwealth of Venice in their armory have this inscription: ‘Happy is that city which in time of peace thinks of war.’”[NEWLINE]– Robert Burton</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_QUOTE">
+			<Text>“The industrial heart of Germany practically stopped beating. Hardly anyone worked; hardly anything ran. The population of the Ruhr area … had to be supported by the rest of the country.”[NEWLINE]– Adam Fergusson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_QUOTE">
+			<Text>“In a dusty, bustling corner of the Indian state of Bihar, there is a magical place that one might think of as the hub of Buddhism.”[NEWLINE]– Visitor’s Guide, Bodh Gaya</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_QUOTE">
+			<Text>“It is a beautiful and important monument and an international, inter-cultural treasure … Unless and until it can be shared by both religions in harmony – which would be a grand idea – it should remain a secular building honoring both religions who have made it beautiful.”[NEWLINE]– Ljubo Vujovic</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_QUOTE">
+			<Text>“We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost.”[NEWLINE]– Alberto Manguel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_QUOTE">
+			<Text>“The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr Toad!”[NEWLINE]– Kenneth Grahame</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATER_QUOTE">
+			<Text>“Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.”[NEWLINE]– Trudy Garfunkel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_QUOTE">
+			<Text>“There’s no business like show business.”[NEWLINE]– Irving Berlin, 'Annie Get Your Gun'</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

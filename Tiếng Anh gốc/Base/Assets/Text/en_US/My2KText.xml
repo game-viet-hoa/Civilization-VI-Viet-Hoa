@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<FrontEndText>
+		<Row Tag="TXT_KEY_MY2K">
+			<Text>my2K</Text>
+		</Row>		
+		
+		<!-- String needed for MY2K but not (yet) provided by the server system... -->
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
+			<Text>Sign up for my2K</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
+		  <Text>To sign up for my2K, please enter a valid email address in the field below. A verification email will be sent to this address for sign-up confirmation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
+			<Text>Logout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
+			<Text>Do you wish to log out?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_YES">
+			<Text>Yes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_NO">
+			<Text>No</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
+		  <Text>Login</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_OK">
+		  <Text>OK</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
+		  <Text>Cancel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_READ">
+		  <Text>Read</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
+		  <Text>Create New User</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
+		  <Text>Sign-Up</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
+		  <Text>Connection Issue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
+		  <Text>A connection to Civilization VI could not be established. Civilization VI features may not be accessible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOTD">
+		  <Text>Incoming Transmission</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
+			<Text>Welcome Back!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
+			<Text>Signed in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
+			<Text>Silent Login Notification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
+			<Text>You need to manually log into my2K.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
+			<Text>Connection Restored</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
+			<Text>Link to Existing Account</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
+			<Text>Platform account is already linked to a My2K account.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
+			<Text>Unable to link platform account to My2K account.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
+			<Text>Unlink Account</Text>
+		</Row>
+    <Row Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
+      <Text>Link Account</Text>
+    </Row>
+		<Row Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
+			<Text>Are you sure you want to unlink my2k? You can manage your account or review the legal and privacy policies online at www.2k.com.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
+      <Text>Offline</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
+      <Text>Linked - Online</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
+      <Text>Linked - Offline</Text>
+    </Row>
+
+  </FrontEndText>
+</GameData>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+    <Row Tag="LOC_DIPLOMACY_DISCUSS">
+      <Text>Discuss</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_CASUS_BELLI">
+      <Text>Casus Belli</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
+      <Text>Casus Belli represent reasons to go to war where the normal Warmonger penalty for a declaration of war or capturing cities are reduced or eliminated.</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TITLE">
+			<Text>INTEL REPORT</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON">
+			<Text>Gossip Items:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_NAME">
+			<Text>GOSSIP</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON">
+			<Text>Access Level:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL">
+			<Text>Access Level:</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_HEADER">
+			<Text>ACCESS LEVEL</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP">
+			<Text>Our Relationship:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_HEADER">
+			<Text>OUR RELATIONSHIP</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TO_RAISE_RELATIONSHIP">
+			<Text>To [COLOR_Civ6Green]raise[ENDCOLOR] your relationship you could:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
+			<Text>To [COLOR_Civ6Red]lower[ENDCOLOR] your relationship you could:[NEWLINE]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+      <Text>Agreements:</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
+			<Text>Agendas:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
+			<Text>Government:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
+			<Text>Relationships:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP">
+			<Text>Relationship</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_REASONS">
+			<Text>REASONS FOR CURRENT RELATIONSHIP</Text>
+		</Row>			
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_NOTHING_ABJECT">
+			<Text>Nothing is abjectly affecting your relationship at this point in time.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLOMACY_INTEL_INFORMATION_SHARED_HEADER">
+			<Text>Information Shared:</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_NEXT_ACCESS_LEVEL_HEADER">
+			<Text>Next Access Level:</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_GAIN_ACCESS_LEVEL_HEADER">
+      <Text>To [COLOR_Civ6Green]raise[ENDCOLOR] your access level you could:</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_LAST_TEN_TURNS">
+      <Text>LAST TEN TURNS</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_OLDER">
+      <Text>OLDER</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
+      <Text>None</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
+      <Text>+{1_Value} New {1_Value : plural 1?Report; other?Reports;}</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
+      <Text>No New Items</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NO_RECENT">
+      <Text>[COLOR_Grey]Nothing reported in the last 10 turns.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_HISTORICAL_AGENDA">
+      <Text>Historical Agenda</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_RANDOM_AGENDA">
+      <Text>Random Agendas</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
+      <Text>Random agenda is hidden. Gain SECRET level access to reveal.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
+      <Text>No historical agenda</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_RANDOM_AGENDA_NONE">
+      <Text>No random agenda</Text>
+    </Row>
+	<!-- Used in titles -->
+	<Row Tag="LOC_DIPLOMACY_OF">
+      <Text>OF</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
+      <Text>Offer a favorable trade.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE">
+      <Text>Denounce a civilization that the {1_Civ} has denounced.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_TRADE_ROUTE">
+      <Text>Establish a [ICON_TradeRoute] Trade Route with the {1_Civ}.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
+      <Text>Grant Open Borders to the {1_Civ}.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
+      <Text>Send a delegation or establish an embassy.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_POSITIVE_AGENDA">
+      <Text>Satisfy one of their agendas.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
+      <Text>Go against one of their agendas.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
+      <Text>Denounce a friend of the {1_Civ}.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
+      <Text>Declare Friendship with a known enemy of the {1_Civ}.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
+      <Text>Make this deal more equitable.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE_TOOLTIP">
+      <Text>Bargain with the leader to find a better deal.[NEWLINE]This may modify items on BOTH SIDES of the deal table.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_MY_OFFER">
+      <Text>MY OFFER:</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_OFFER">
+      <Text>THEIR OFFER:</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_IT_WILL_TAKE_TOOLTIP">
+      <Text>Ask this leader what it would take to get this from them.[NEWLINE]This will only add items to our side of the deal table.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
+      <Text>View all the Gossip you've overheard as a result of your Access Level.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
+      <Text>View important information about your Acccess Level with this leader, including what kinds of Gossip you will have access to.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
+      <Text>View your relationship details with this leader, including any known reasons for your current relationship. Increase your Access Level to reveal additional information here.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS_TOOLTIP">
+      <Text>Agendas are a major driving force in your relationship with other leaders. Leaders have a Historic Agenda, and a Secret Agenda. Revealing the Secret Agenda is important to knowing what pleases and displeases this leader.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
+      <Text>The current government adopted by this civilization.</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

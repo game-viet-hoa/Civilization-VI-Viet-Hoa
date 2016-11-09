@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+
+		<!-- Default -->
+		<Row Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have a message</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has sent you a message.</Text>
+		</Row>
+
+		<!-- Declare Friend -->
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Declaration of Friendship Request</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has requested to declare a friendship between your civilizations.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Declaration of Friendship Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your declaration of friendship.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Declaration of Friendship Rejected</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your declaration of friendship.</Text>
+		</Row>
+
+		<!-- Send Delegation -->
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Diplomatic Delegation Pending</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has asked to send a diplomatic delegation to your capital.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Diplomatic Delegation Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your delegation.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Diplomatic Delegation Rejected</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your delegation.</Text>
+		</Row>
+
+		<!-- Declare War -->
+		<Row Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>War Declared</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has declared war on your civilization.</Text>
+		</Row>
+
+		<!-- Denounce -->
+		<Row Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have been Denounced</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has denounced your civilization.</Text>
+		</Row>
+
+		<!-- Embassy -->
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Embassy Requested</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to set up an embassy in your capital.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Embassy Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your embassy request.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Embassy Rejected</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your embassy request.</Text>
+		</Row>
+
+		<!-- Make Alliance -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Alliance Requested</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to declare an alliance between your nations.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Alliance Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your alliance request.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Alliance Rejected</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your alliance request.</Text>
+		</Row>
+
+		<!-- Make Peace -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Request for Peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to make peace with your civilization.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Peace Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your request for peace.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>War Continues</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your request for peace.</Text>
+		</Row>
+
+		<!-- Open Borders -->
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Open Borders Request</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has requested open borders with your civilization.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Open Borders Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your request for open borders.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Open Borders Rejected</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your request for open borders.</Text>
+		</Row>
+
+		<!-- Warning -->
+		<Row Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have been Warned</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has sent you a warning.</Text>
+		</Row>
+
+		<!-- Defeat -->
+		<Row Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Player Defeated</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has been defeated.</Text>
+		</Row>
+
+		<!-- Kudo -->
+		<Row Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have a message</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has sent you a message.</Text>
+		</Row>
+
+		<!-- First Meet -->
+		<Row Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>You have met another civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>You have met the {1_Civ}.</Text>
+		</Row>
+
+		<!-- Make Deal -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Deal Proposal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wants to make a deal with your civilization.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Deal Accepted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Deal Rejected</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_ADJUSTED">
+			<Text>Deal Adjusted</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_ADJUSTED">
+			<Text>{1_name} has adjusted your deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_DEMANDED">
+			<Text>Deal Demanded</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_DEMANDED">
+			<Text>{1_name} has demanded a deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_PROPOSED">
+			<Text>Deal Proposed</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_PROPOSED">
+			<Text>{1_name} has proposed a deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_EQUALIZE">
+			<Text>Make Deal Fair</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_EQUALIZE">
+			<Text>{1_name} wants you to equalize a deal.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_CLOSED">
+			<Text>Deal Proposal Cancelled</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_CLOSED">
+			<Text>{1_name} canceled negotiation of a deal.</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

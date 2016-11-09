@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY">
+			<Text>Making demands will get you nowhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY">
+			<Text>I will comply.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY">
+			<Text>You are wise in accepting my demands.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY">
+			<Text>I may have to resort to other means to have my demands met!</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

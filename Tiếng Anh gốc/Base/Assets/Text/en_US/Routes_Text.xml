@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

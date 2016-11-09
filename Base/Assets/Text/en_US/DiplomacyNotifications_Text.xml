@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+
+		<!-- Default -->
+		<Row Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bạn có một lời nhắn</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã gửi cho bạn một lời nhắn.</Text>
+		</Row>
+
+		<!-- Declare Friend -->
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Yêu cầu tuyên bố tình hữu nghị</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã yêu cầu tuyên bố tình hữu nghị với nền văn minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý tuyên bố tình hữu nghị</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý tuyên bố tình hữu nghị với nền văn minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Từ chối tuyên bố tình hữu nghị</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối tuyên bố tình hữu nghị với nền văn minh của bạn.</Text>
+		</Row>
+
+		<!-- Send Delegation -->
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Phái đoàn ngoại giao đang chờ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} có hỏi về việc gửi phái đoàn ngoại giao tới thủ đô của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý phái đoàn ngoại giao</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý phái đoàn của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Từ chối phái đoàn ngoại giao</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối phái đoàn của bạn.</Text>
+		</Row>
+
+		<!-- Declare War -->
+		<Row Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Tuyên bố chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã tuyên bố chiến tranh với nền văn minh của bạn.</Text>
+		</Row>
+
+		<!-- Denounce -->
+		<Row Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bạn đã bị lăng mạ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã lăng mạ nền văn minh của bạn.</Text>
+		</Row>
+
+		<!-- Embassy -->
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Yêu cầu đại sứ quán</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} muốn thiết lập đại sứ quán trong thủ đô của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý đại sứ quán</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý yêu cầu đại sứ quán của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Từ chối đại sứ quán</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối yêu cầu đại sứ quán của bạn.</Text>
+		</Row>
+
+		<!-- Make Alliance -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Yêu cầu đồng minh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} muốn tuyên bố đồng minh với nền văn minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý đồng minh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý yêu cầu đồng minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Từ chối đồng minh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối yêu cầu đồng minh của bạn.</Text>
+		</Row>
+
+		<!-- Make Peace -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Yêu cầu hòa binh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} muốn làm hòa với nền văn minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý hòa bình</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý yêu cầu hòa bình của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Tiếp tục chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối yêu cầu hòa bình của bạn.</Text>
+		</Row>
+
+		<!-- Open Borders -->
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Yêu cầu tự do đi lại</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã yêu cầu tự do đi lại trong nền văn minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý tự do đi lại</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý yêu cầu tự do đi lại của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Từ chối tự do đi lại</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối yêu cầu tự do đi lại của bạn.</Text>
+		</Row>
+
+		<!-- Warning -->
+		<Row Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bạn được cảnh cáo</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} gửi bạn một cảnh cáo.</Text>
+		</Row>
+
+		<!-- Defeat -->
+		<Row Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Người chơi thua cuộc</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã thua cuộc.</Text>
+		</Row>
+
+		<!-- Kudo -->
+		<Row Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bạn có một lời nhắn</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} đã gửi bạn một lời nhắn.</Text>
+		</Row>
+
+		<!-- First Meet -->
+		<Row Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bạn gặp một nền văn minh khác</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>Bạn gặp {1_Civ}.</Text>
+		</Row>
+
+		<!-- Make Deal -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Đề xuất thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} muốn tạo thỏa thuận với nền văn minh của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Đồng ý thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} đã đồng ý thỏa thuận của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Từ chối thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} đã từ chối thỏa thuận của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_ADJUSTED">
+			<Text>Điều chỉnh thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_ADJUSTED">
+			<Text>{1_name} đã điều chỉnh thỏa thuận của bạn.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_DEMANDED">
+			<Text>Yêu cầu thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_DEMANDED">
+			<Text>{1_name} đã yêu cầu một thỏa thuận.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_PROPOSED">
+			<Text>Đề xuất thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_PROPOSED">
+			<Text>{1_name} đã đề xuất một thỏa thuận.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_EQUALIZE">
+			<Text>Tạo thỏa thuận công bằng</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_EQUALIZE">
+			<Text>{1_name} muốn bạn thỏa thuận công bằng.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_CLOSED">
+			<Text>Hủy đề xuất thỏa thuận</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_CLOSED">
+			<Text>{1_name} đã hủy đàm phán thỏa thuận.</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

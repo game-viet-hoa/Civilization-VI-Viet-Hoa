@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+
+
+		<!-- Sections -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_TITLE">
+			<Text>Concepts</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
+			<Text>Major Civilizations</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_TITLE">
+			<Text>Leaders</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_TITLE">
+			<Text>City-States</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_TITLE">
+			<Text>Districts</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_TITLE">
+			<Text>Buildings</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_TITLE">
+			<Text>Wonders and Projects</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_TITLE">
+			<Text>Units</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
+			<Text>Unit Promotions</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
+			<Text>Great People</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
+			<Text>Technologies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_TITLE">
+			<Text>Civics</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
+			<Text>Governments and Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_TITLE">
+			<Text>Religions</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_TITLE">
+			<Text>Terrains and Features</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_TITLE">
+			<Text>Resources</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
+			<Text>Improvements and Routes</Text>
+		</Row>
+
+		<!-- Common page text -->
+		<Row Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
+			<Text>Introduction</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
+			<Text>Basic Concepts</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
+			<Text>Getting Started</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
+			<Text>Historical Context</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
+			<Text>Summary</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
+			<Text>Detailed Approach</Text>
+		</Row>
+
+    <!-- Common chapter header -->
+    <Row Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+      <Text>Introduction</Text>
+    </Row>
+
+    <!-- Page group text>-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
+			<Text>Cultural</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
+			<Text>Industrial</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
+			<Text>Militaristic</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
+			<Text>Religious</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
+			<Text>Scientific</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
+			<Text>Trade</Text>
+		</Row>
+
+
+		<Row Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
+			<Text>Terrains</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
+			<Text>Features</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
+			<Text>Natural Wonders</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
+			<Text>Governments</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+			<Text>Military Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
+			<Text>Economic Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
+			<Text>Diplomatic Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
+			<Text>Great Person Policies</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
+			<Text>Improvements</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
+			<Text>Routes</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
+			<Text>Historic Religions</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
+			<Text>Pantheon Beliefs</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
+			<Text>Worship Beliefs</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
+			<Text>Follower Beliefs</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
+			<Text>Founder Beliefs</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
+			<Text>Enhancer Beliefs</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
+			<Text>Bonus</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
+			<Text>Luxury</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
+			<Text>Strategic</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
+			<Text>Artifact</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
+			<Text>Wonders</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
+			<Text>Projects</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
+			<Text>Unit Abilities</Text>
+		</Row>	
+
+	</BaseGameText>
+</GameData>

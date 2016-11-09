@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>+50% combat experience for air units trained in this city. +2 air unit slots in Aerodrome district. Allows the ability to airlift land units between Aerodrome districts with Airports after the Rapid Deployment civic is unlocked.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+			<Text>+25% combat experience for all land units trained in this city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+			<Text>+25% combat experience for all melee and ranged land units trained in this city.[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+			<Text>Increases the strength of your outer defenses.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+			<Text>A building unique to Japan. +4 [ICON_Production] Production to all cities within 6 tiles. After researching the Electricity technology this building provides an additional +4 [ICON_Culture] Culture to its city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+			<Text>Bonus is extended to all cities within 6 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION"> 
+			<Text>A building unique to America. +100% [ICON_Tourism] Tourism pressure from this city towards other civilizations in the Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>+25% combat experience for air units trained in this city. +2 air unit slots in Aerodrome district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+			<Text>+25% combat experience for all naval units trained in this city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+			<Text>A building unique to Arabia. Bonus [ICON_Faith] Faith equal to the adjacency bonus of the Campus district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+			<Text>+25% combat experience for all land units trained in this city. Faster Corps and Army training.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+			<Text>Missionary and Apostles created here have +1 spread.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+			<Text>Holds [ICON_GreatWork_Landscape] Great Works of Art. May not be built in a Theater Square district that already has an Archaeological Museum.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+			<Text>Holds [ICON_GreatWork_Artifact] Artifacts. May not be built in a Theater Square district that already has an Art Museum.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+			<Text>Bonus extends to each city center within 6 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+			<Text>Faster Fleet and Armada training. +25% combat experience for all naval units trained in this city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Allows the purchasing of Missionaries. Missionaries can only be purchased with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+			<Text>+25% combat experience for all cavalry class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+			<Text>+25% combat experience for all naval units trained in this city. Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+			<Text>Bonus extends to each city center within 6 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Raises the strength of your outer defenses to the highest possible level.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+			<Text>A building unique to Norway. Required to train Apostles. Holy Site districts get an additional standard adjacency bonus from Woods.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Allows the purchasing of Apostles. Apostles can only be purchased with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+			<Text>Provides Walls around the City Center and Encampment district. Walls allow [ICON_Ranged] Ranged Strikes from the City Center and Encampment district, and must be defeated before a city can be assaulted.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+			<Text>[ICON_RESOURCE_RICE] Rice and [ICON_RESOURCE_WHEAT] Wheat resources gain +1 [ICON_Food] Food each. City must be adjacent to a River.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+			<Text>Bonus extends to each city center within 6 tiles.</Text>
+		</Row>
+		<!-- Wonders -->
+		<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+			<Text>+1 Military policy slot[NEWLINE][NEWLINE]Provides the same defensive bonuses as the Fort improvement. Must be built on Hills adjacent to an Encampment district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 Economic policy slot[NEWLINE][NEWLINE]Doubles current treasury. Must be built next to a River adjacent to a Commercial Hub district with a Bank.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+			<Text>Awards 2 randomly-chosen free civics when completed. Must be built on flat land adjacent to a Theater Square district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+			<Text>1 free random Atomic era civic boost. Must be built on flat land adjacent to a Theater Square district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+			<Text>+2 [ICON_Culture] Culture to all Rainforest tiles for this city. +1 [ICON_Production] Production to all Rainforest tiles for this city. Must be built on Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>The Colosseum's [ICON_Culture] Culture and [ICON_Amenities] Amenities are extended to each city center within 6 tiles. Must be built on flat land adjacent to an Entertainment Complex district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Trade Route capacity. Grants a Trader unit. Must be built on the Coast, adjacent to land and a Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+			<Text>[ICON_Tourism] Tourism output from [ICON_GreatWork_Relic] Relics and Holy Cities is not diminished by other civilizations who have researched The Enlightenment civic. Doubles [ICON_Tourism] Tourism output of Seaside Resorts across your civilization. Must be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+			<Text>All tiles in your civilization gain +2 Appeal. Must be built on flat land adjacent to the City Center.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+			<Text>+2 [ICON_Amenities] Amenities in each city in your civilization. Must be built on flat land adjacent to an Entertainment Complex district with a Stadium.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+			<Text>+1 Wildcard policy slot[NEWLINE][NEWLINE]Must be built on flat land adjacent to the City Center.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Receive boosts to all Ancient and Classical era technologies. Must be built on flat land adjacent to a Campus district with a Library.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement for all naval units[NEWLINE][NEWLINE]Must be built on the Coast, and adjacent to land and a Harbor district with a Lighthouse.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Trade Route capacity[NEWLINE][NEWLINE]Your [ICON_TradeRoute] Trade Routes from this city get +2 [ICON_Gold] Gold for every Bonus resource in this city's territory. Must be built adjacent to a Commercial Hub district with a Market and adjacent to [ICON_RESOURCE_CATTLE] Cattle.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Missionaries and Apostles can spread Religion 1 extra time. Must be built on flat land adjacent to a Holy Site district, and you must have founded a Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Increases growth by 15% in all cities. Must be built next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+			<Text>Must be built along a River.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>Grants 2 Apostles. Must be built on Woods adjacent to a Holy Site district with a Temple, and you must have founded a Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>All Apostles you create gain the Martyr ability in addition to a second ability you chose normally. Must be built on Floodplains or Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Patronage of Great People costs 25% less [ICON_Faith] Faith. Districts in this city provide +2 [ICON_GreatPerson] Great Person points of their type (for example, [ICON_GreatWriter] Great Writer points from the Theater Square district). Must be built on Hills.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+			<Text>+20% [ICON_Science] Science in this city, and awards 2 randomly-chosen free technologies when completed. Must be built on Grassland or Plains adjacent to a Campus district with a University.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 Diplomatic policy slot[NEWLINE][NEWLINE]Must be built on a Hill adjacent to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>+2 [ICON_Food] Food, +2 [ICON_Gold] Gold, and +1 [ICON_Production] Production on all Desert tiles for this city (non-Floodplains). Must be built on Desert or Floodplains without Hills.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Grants a free Builder. All Builders can build 1 extra improvement. Must be built on Desert (including Floodplains) without Hills.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production in this city, and +1 [ICON_Production] Production for each Mine and Quarry in this city. Must be built along a River adjacent to an Industrial Zone district with a Factory.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+			<Text>Grants a free [ICON_GreatProphet] Great Prophet. [ICON_GreatProphet] Great Prophets may found a Religion on Stonehenge instead of a Holy Site. Must be adjacent to [ICON_RESOURCE_STONE] Stone and on flat land.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+			<Text>Must be built on the Coast, adjacent to land and a Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+			<Text>All current units gain a promotion level. All Archaeologists from the owner may enter foreign lands without Open Borders. Must be built on Grassland or Plains adjacent to an Encampment district with a Barracks or Stable.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+			<Text>Receive a second naval unit each time you train a naval unit. Must be built adjacent to the Coast and adjacent to an Industrial Zone district.</Text>
+		</Row>
+		<!--Theming Bonuses-->
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ART">
+			<Text>Theming bonus doubling output when displaying objects of the same type from different artists.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+			<Text>Theming bonus doubling output when displaying [ICON_GreatWork_Artifact] Artifacts of the same era from different civilizations.</Text>
+		</Row>
+    <Row Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+      <Text>Theming bonus doubling output when museum is full.</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

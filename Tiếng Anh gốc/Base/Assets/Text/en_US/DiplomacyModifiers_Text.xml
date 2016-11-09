@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- TEMPORARY KLUDGE: DO NOT USE ".", "'", or "-" punctuation in this file until DiplomacyActionView.lua has been updated to have a more robust string parsing algorithm! -->
+		<!-- Standard modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLY">
+			<Text>Ally</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEMAND">
+			<Text>We made a demand of them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_JOINT_WAR">
+			<Text>We fought a joint war together</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
+			<Text>We converted their religious city</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED">
+			<Text>We occupy one of their cities</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED_FRIEND">
+			<Text>We occupy a city belonging to their friend or ally</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_CITY">
+			<Text>We liberated a city</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_MY_CITY">
+			<Text>We liberated one of their cities</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_RAZED_MY_CITY">
+			<Text>We razed one of their cities</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>Declared a surprise war on a friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_FRIEND">
+			<Text>Denounced a friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_FRIEND">
+			<Text>Declared friendship with a friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_FRIEND">
+			<Text>Declared an alliance with a friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_ENEMY">
+			<Text>Declared a surprise war on an enemy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_ENEMY">
+			<Text>Denounced an enemy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>Declared friendship with an enemy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_ALLIED_WITH_ENEMY">
+			<Text>Declared an alliance with an enemy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIEND">
+			<Text>Declared Friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT">
+			<Text>Defensive Pact</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DELEGATION">
+			<Text>We sent them a delegation</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED">
+			<Text>We denounced them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_HAD_FRIENDLY_MEETING">
+			<Text>Friendly meeting</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NEAR_BORDER_WARNING">
+			<Text>We had troops on their border</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SETTLED_NEAR_BORDER_WARNING">
+			<Text>We settled too near their border</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_RELIGION">
+			<Text>They are following our religion</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_STOP_SPYING_ON_ME_WARNING">
+			<Text>We were caught spying on them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_STOP_DIGGING_UP_ARTIFACTS_WARNING">
+			<Text>We were caught digging up artifacts in their territory</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PROMISE">
+			<Text>We broke a diplomatic promise we made to them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PROMISE">
+			<Text>We kept a diplomatic promise we made to them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NO_PROMISE">
+			<Text>We decided to not make a diplomatic promise to them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
+			<Text>Open borders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
+			<Text>We established a resident embassy there</Text>
+		</Row>
+		<!-- Historical agenda modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
+			<Text>Gilgamesh likes Declared Friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>Gilgamesh hates it when you denounce his friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
+			<Text>Tomyris likes Declared Friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>Tomyris dislikes people who declare surprise wars</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LAGGING">
+			<Text>Pedro is pleased with your lack of great people</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LEADING">
+			<Text>Pedro is upset that you have more great people than him</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LAGGING">
+			<Text>Peter is disappointed you have little science and culture</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LEADING">
+			<Text>Peter is pleased with your Science and Culture</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT">
+			<Text>Gorgo wants to see you fight or knows you paid for peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED">
+			<Text>Gorgo wants to see you fight</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE">
+			<Text>Gorgo knows you paid for peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING">
+			<Text>Qin is pleased with your lack of wonders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
+			<Text>Qin is upset that you have more wonders than him</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_NOT_WARMONGER">
+			<Text>Gandhi is pleased that you have been keeping the peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_WARMONGER">
+			<Text>Gandhi is upset with your warmongering</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_SAME">
+			<Text>Philip is happy you share a religion</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_ENCROACHING">
+			<Text>Philip is furious your religion is present in his empire</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DELIAN_NOT_COMPETING">
+			<Text>Pericles is happy you are not competing over city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DELIAN_COMPETING">
+			<Text>Pericles is angry you are recruiting his city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DISCIPLE_RECEIVED">
+			<Text>Mvemba is delighted you brought your religion to him</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
+			<Text>Mvemba is disappointed your religion is not in his lands</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
+			<Text>Barbarossa is pleased you are staying away from city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
+			<Text>Barbarossa is angered that you have been controlling city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">
+			<Text>Victoria is pleased you share the same home continent</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUN_SETS_NEW_CONTINENT">
+			<Text>Victoria wants to expand to a continent you occupy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Teddy hates attacks on civs based on his continent</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Teddy likes peaceful civs on his continent</Text>
+		</Row>
+		<!-- Random agendas -->
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LAGGING">
+			<Text>They are pleased with your lack of great people</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LEADING">
+			<Text>They are upset that you have more great people</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LAGGING">
+			<Text>They are pleased with your lack of wonders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LEADING">
+			<Text>They are upset that you have more wonders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_STATE_NOT_COMPETING">
+			<Text>They are happy you are not competing over city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_STATE_COMPETING">
+			<Text>They are angry you are recruiting their city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CULTURE">
+			<Text>They are pleased to see another cultured civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_CULTURE">
+			<Text>They dislike civilizations with low culture</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INDUSTRY">
+			<Text>They are pleased to see another industrious civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INDUSTRY">
+			<Text>They dislike civilizations with low productivity</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_STANDING_ARMY">
+			<Text>They are pleased to see another civilization with a large standing army</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_STANDING_ARMY">
+			<Text>They dislike civilizations with a small stading army</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_SCIENCE">
+			<Text>They are pleased to see another scientific civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_SCIENCE">
+			<Text>They dislike civilizations with low science</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_HAPPINESS">
+			<Text>They are pleased a civilization with happy citizens</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_HAPPINESS">
+			<Text>They dislike civilizations with unhappy people</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INCOME">
+			<Text>They are pleased to see a high income civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INCOME">
+			<Text>They dislike civilizations with low income</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_POPULATION">
+			<Text>They are pleased to see a civilization with high population</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_POPULATION">
+			<Text>They dislike civilizations with low population</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENJOYS_WAR">
+			<Text>They like those who fight and win</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ATTACKS_BARBARIANS">
+			<Text>They are pleased to see you clearing barbarian camps</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_IGNORES_BARBARIANS">
+			<Text>They dislike civilizations who do not clear barbarians</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENVIRONMENT">
+			<Text>They are watching your treatment of the natural world</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPLOITATION">
+			<Text>They are watching your progress on improving your territory</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAME_GOVERNMENT">
+			<Text>They are pleased to see you rule your people the same way</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_DIFFERENT_GOVERNMENT">
+			<Text>They dislike your approach to governing</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_NUKE_LOVE">
+			<Text>They agree there is a time and place for nuclear weapons</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_NUKE_LOVE">
+			<Text>They dislike civilizations who proliferate nuclear weapons</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAITH">
+			<Text>They are pleased to see another devout civilization</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAITH">
+			<Text>They dislike civilizations with low faith</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_EXPLORATION">
+			<Text>They dislike civilizations who are better explorers than they are</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_EXPLORATION">
+			<Text>They are pleased by others leaving world exploration to them</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_AIRPOWER">
+			<Text>They are pleased to see a civilization with a strong air force</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_AIRPOWER">
+			<Text>They dislike civilizations with a weak air force</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_PROTECTION">
+			<Text>They are very pleased to see you protecting many city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_PROTECTION">
+			<Text>They are pleased to see you protecting city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_AGGRESSION">
+			<Text>They dislike civilizations who are somewhat aggressive to city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_AGGRESSION">
+			<Text>They really dislike civilizations who are very aggressive to city states</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_COMPETING">
+			<Text>They are upset that you have more wonders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_NOT_COMPETING">
+			<Text>They are pleased with your lack of wonders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_COMPETING">
+			<Text>They are upset that you have more great people</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_NOT_COMPETING">
+			<Text>They are pleased with your lack of great people</Text>
+		</Row>
+		<!-- Future modifiers (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_POSITIVE">
+			<Text>We are trading with their friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_NEGATIVE">
+			<Text>We are trading with their enemies</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_FRIENDS">
+			<Text>We are friends with their friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_ENEMIES">
+			<Text>We are friends with their enemies</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_FRIENDS">
+			<Text>We are allied with their friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_ENEMIES">
+			<Text>We are allied with their enemies</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_FRIENDS">
+			<Text>We have a defensive pact with their friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_ENEMIES">
+			<Text>We have a defensive pact  with their enemies</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_ENEMIES">
+			<Text>We have denounced their enemies</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_FRIENDS">
+			<Text>We have denounced their friends</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_UNWANTED_RELIGION">
+			<Text>We are trying to convert them to our religion</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIANCE_BROKEN">
+			<Text>We broke our alliance</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
