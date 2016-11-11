@@ -93,25 +93,25 @@
 			<Text>Neighborhoods are a special district that allows a city to house more [ICON_Citizen] Dân số and is affected by Appeal. The term “Appeal” is used to describe a special form of adjacency bonus that just applies to Neighborhoods, and also will affect Culture Victory’s [ICON_Tourism] Du lịch system through National Parks and Seaside Resorts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_2">
-			<Text>Breathtaking Neighborhoods provide 6 [ICON_Housing] Nhà ở.</Text>
+			<Text>Ngây ngất: +6 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_3">
-			<Text>Charming Neighborhoods provide 5 [ICON_Housing] Nhà ở.</Text>
+			<Text>Đẹp: +5 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_4">
-			<Text>Average Neighborhoods provide 4 [ICON_Housing] Nhà ở.</Text>
+			<Text>Trung bình: +4 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_5">
-			<Text>Uninviting Neighborhoods provide 3 [ICON_Housing] Nhà ở.</Text>
+			<Text>Không hấp dẫn: +3 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_6">
-			<Text>Disgusting Neighborhoods provide 2 [ICON_Housing] Nhà ở.</Text>
+			<Text>Ghê tởm: +2 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_7">
 			<Text>Finally, Appeal also affects the ability to place National Parks and Seaside Resorts.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_8">
-			<Text>A tile's Appeal can be viewed in its tooltip and is affected by the following:</Text>
+			<Text>Độ hấp dẫn của một ô có thể xem ở tooltip và bị tác động bởi:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
 			<Text>+2: Mỗi Kỳ Quan Thiên Nhiên liền kề</Text>
@@ -138,31 +138,31 @@
 			<Text>Kiến trúc</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_PARA_1">
-			<Text>After your district has been built, you may now begin populating it with buildings. Buildings can be built through the Production Menu similarly to how you build your district. Some buildings have prerequisites, such as other buildings or technology requirements; these buildings will not be visible in your Production Menu. You may notice that you have some buildings available to build before you place any districts, such as the Monument. These buildings reside in the City Center.</Text>
+			<Text>Sau khi đặc khu của bạn được xây dựng, bạn có thể bắt đầu định cư dân trong những kiến trúc này. Bạn xây dựng những kiến trúc này thông qua Menu Sản Xuất. Một vài kiến trúc đòi hỏi yêu cầu, như là phải xây những kiến trúc khác hoặc phải đáp ứng đủ công nghệ; những kiến trúc này sẽ bị ẩn trong Menu Sản Xuất. Nhớ rằng bạn chỉ có thể xây khi những kiến trúc này hiện lên, ví dụ như là Đài Tưởng Niệm. Những kiến trúc này được đặt trong thành phố trung tâm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_TITLE">
 			<Text>Kỳ quan</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Wonders are a special type of building that fills an entire hex and has a significant impact on gameplay. When you select one to build from the Production Menu, you will enter the placement lens, just like you would for building a district. Most wonders have specific placement requirements, and the lens will highlight which tiles are available, and all wonders must be built within 3 tiles of a City Center. For more information on each wonder, see the Wonders section of the Civilopedia.</Text>
+			<Text>Kỳ quan là các kiểu kiến trúc đặc biệt được xây dựng trên một ô lục giác và có tác động đáng kể đến lối chơi. Khi bạn chọn một kỳ quan để xây từ Menu Sản Xuất, Bạn sẽ chọn một ô màu để xây, giống như khi bạn xây các công trình khác vậy. Hầu hết các kỳ quan đều có những yêu cầu nhất định về địa điểm xây dựng, và ô màu sẽ sáng lên tức là bạn có thể xây trên đó, và toàn bộ kỳ quan phải được xây cách trung tâm thành phố 1 ô. Để biết thêm thông tin về mỗi kỳ quan, hãy xem mục Kỳ quan ở trong Civilopedia.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_TITLE">
 			<Text>Cung điện</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_PARA_1">
-			<Text>The Palace is a special building. Part building, part wonder, the Palace automatically appears in the first city you build, which makes that city the [ICON_Capital] Capital of your empire. The Palace provides a small amount of [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, [ICON_Gold] Vàng, and [ICON_Culture] Văn minh to your civilization. If your [ICON_Capital] Capital is captured by another civilization and you still have other cities under your control, the Palace will automatically transfer to another city, which will become your new [ICON_Capital] Capital.</Text>
+			<Text>Cung điện là một kiến trúc đặc biệt. Nửa là nhà ở, nửa là kỳ quan, Cung điện tự động xuất hiện trong thành phố đầu tiên mà bạn xây dựng, nó chính là [ICON_Capital] Thủ đô của đế chế bạn. Cung điện cung cấp một lượng nhỏ [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, [ICON_Gold] Vàng, và [ICON_Culture] Văn hóa cho nền văn minh của bạn. Nếu Thủ đô của bạn bị chiếm đóng bởi nền văn minh khác và bạn vẫn còn sở hữu các thành phố khác, thì Cung điện sẽ tự động chuyển đến làm [ICON_Capital] Thủ đô ở một trong những thành phố đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_TITLE">
-			<Text>Citizens</Text>
+			<Text>Công dân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities thrive based upon the land around them. Their [ICON_Citizen] Citizens "work" the land, harvesting [ICON_Food] Thực phẩm, [ICON_Gold] Vàng, [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, and many other yields from the tiles. [ICON_Citizen] Citizens can work tiles that are within three tiles' distance from the city and that are within your civilization's borders. As your city grows, it automatically assigns its [ICON_Citizen] Citizens to work the lands around it. It seeks to provide a balanced amount of [ICON_Food] Thực phẩm, [ICON_Production] Sản phẩm, and [ICON_Gold] Vàng. You may order a city's [ICON_Citizen] Citizens to work other tiles – for example, if you want a certain city to concentrate on generating [ICON_Gold] Vàng, or [ICON_Production] Sản phẩm, select the Manage Citizens icon in the City Selection Panel to choose specific tiles for your [ICON_Citizen] Citizens to work.</Text>
+			<Text>Các thành phố phát triển mạnh nhờ vào vùng đất xung quanh chúng. Các [ICON_Citizen] Công dân của thành phố sẽ làm việc trên những ô đất này, thu hoạch [ICON_Food] Thực phẩm, [ICON_Gold] Vàng, [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, và nhiều sản lượng khác từ các ô. Các [ICON_Citizen] Công dân có thể làm việc trong khoảng cách 3 ô tính từ thành phố và trong phạm vi biên giới của nước bạn. Khi thành phố phát triển, nó tự động gán các công dân làm việc trên các vùng đất xung quanh. Nó cố gắng tạo ra một lượng [ICON_Food] Thực phẩm, [ICON_Production] Sản phẩm, [ICON_Gold] Vàng cân bằng. Bạn có thể ra lệnh cho công dân của thành phố làm ở các ô khác - ví dụ, nếu bạn muốn một thành phố nào đó tập trung vào sản xuất [ICON_Gold] Vàng, hoặc [ICON_Production] Sản phẩm, thì chọn biểu tượng Quản lý Công dân trong Bảng Chọn của thành phố để chọn các ô cụ thể mà bạn muốn [ICON_Citizen] Công dân của mình làm việc.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_TITLE">
-			<Text>Happiness</Text>
+			<Text>Hạnh Phúc</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_PARA_1">
-			<Text>Happiness measures the contentment of your people in a single city, and is measured by seeing if the [ICON_Citizen] Dân số of that city has as many [ICON_Amenities] Tiện nghi as expected. 1 [ICON_Amenities] Tiện nghi is required for each 2 [ICON_Citizen] Dân số, start at a [ICON_Citizen] Dân số of 3. A content city will not have any modifier applied to it, but a happy city will have a 10% growth increase and a 5% yield increase. Furthermore, an Ecstatic city will have a 20% growth increase and 10% yield increase. Likewise, having too few [ICON_Amenities] Tiện nghi will create displeasure among your [ICON_Citizen] Citizens, and the growth and yields will receive negative modifiers. At the level of unrest, your growth will stop and you may find rebel partisans in your city.</Text>
+			<Text>Hạnh phúc là thước đo sự hài lòng của người dân trong từng thành phố, và có thể nhận thấy bằng mắt nếu [ICON_Citizen] Dân số của thành phố đó có nhiều [ICON_Amenities] Tiện nghi như mong đợi. 1 [ICON_Amenities] Tiện nghi sẽ cung cấp cho 2 [ICON_Citizen] Dân số, khởi đầu luôn là 3 [ICON_Citizen] dân số. Đây là lượng dân cư mặt định cho mỗi thành phố, nhưng với các thành phố hạnh phúc thì sẽ có 10% tốc độ tăng trưởng và 5% sản lượng. Hơn thế nữa, một thành phố có sức hút sẽ có tốc độ tăng trưởng là 20% và 10% sản lượng. Tương tự như vậy, nếu có quá ít [ICON_Amenities] Tiện nghi sẽ làm cho [ICON_Citizen] Công dân không hài lòng, và tốc độ tăng trưởng cũng như sản lượng sẽ thay đổi theo hướng tiêu cực. Còn khi ở tình trạng bất ổn, thì tăng trưởng của bạn sẽ dừng và quân nổi loạn sẽ xuất hiện trong thành phố của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_TITLE">
 			<Text>Amenity Sources</Text>
@@ -180,16 +180,16 @@
 			<Text>Specialists are alternative assignments for [ICON_Citizen] Citizens, which involve working a district tile instead of a normal tile. As a general rule, specialists are a good way to get yields otherwise hard to find on normal tiles, but the city needs a solid support base of [ICON_Food] Thực phẩm to support them in the long term. Specialists are also particularly useful when a city grows large later in the game, and has more [ICON_Citizen] Dân số than there are normal tiles to work. There are different types of specialists, each with different effects. All specialist types except the generic [ICON_Citizen] Citizen have a limit on how many assignments there can be in a city. This limit is determined by the number of buildings in the district associated with that specialist type.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
-			<Text>The World</Text>
+			<Text>Thế Giới</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_TITLE">
-			<Text>Terrain and Features</Text>
+			<Text>Địa hình và Đặc tính</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_PARA_1">
-			<Text>In Civilization VI, the world is made up of hexagonally-shaped "tiles" (also occasionally known as hexes and spaces). These tiles come in a variety of "terrain-types" -  Desert, Plains, Grassland, Hills, and so forth  - and many also include "features" like Woods and Rainforest. These elements help to determine the tile's usefulness to a nearby city as well as how easy or difficult it is to move through the tile. A tile's terrain and features may have important effects upon any combat occurring there.</Text>
+			<Text>Trong Civilization VI, thế giới được cấu tạo từ các ô lục giác. Những ô này có nhiều "loại địa hình" đa dạng - Sa Mạc, Đồng Bằng, Đồng cỏ, Đồi, và nhiều nữa - và nhiều thứ trong số đó bao gồm "đặc tính" như Rừng, Rừng nhiệt đới. Những yếu tố này giúp xác định sự hữu dụng của các ô đất gần thành phố cũng như độ khó hay dễ để di chuyển qua ô đất đó. Một ô địa hình và đặc tính có thể có những ảnh hưởng quan trọng đến bất cứ cuộc chiến đấu nào diễn ra ở đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Every tile in the game belongs to a continent. Continents are geographical boundaries, and are not necessarily tied to a landmass—the Pangaea map, for example, is made up of several continents. You can determine a tile's continent by that tile's tooltip or by viewing the continent lens.</Text>
+			<Text>Mỗi ô trong game đều thuộc về một lục địa. Lục địa là ranh giới địa lý, và không cần thiết gắn liền vào một mảng đất- bản đồ Pangea, là một ví dụ, nó tạo nên bởi vài lục địa. Bạn có thể xác dịnh lục địa của một ô bằng tooltip hoặc xem trong ống kính lục địa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_TITLE">
 			<Text>Resources</Text>
@@ -318,10 +318,10 @@
 			<Text>The unit's [ICON_Range] Range stat determines the distance at which a unit can launch a ranged attack. A [ICON_Range] Range of "2" means that the target can be in an adjacent tile or one tile distant. A [ICON_Range] Range of "1" would mean that the target had to be adjacent to the attacker.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_TITLE">
-			<Text>Line of Sight</Text>
+			<Text>Đường ngắm</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Generally, there must be no obstructions, such as a Mountain, between a ranged unit and its target. Units on Hills or flying can often see over obstructing terrain.</Text>
+			<Text>Thông thường, thì không có những vật cản, như là Ngọn núi, giữa một đơn vị đánh xa và mục tiêu. Các đơn vị đứng trên đồi hoặc đang bay có thể nhìn thấy qua địa hình cản trở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_TITLE">
 			<Text>Combat Bonuses</Text>
@@ -501,13 +501,13 @@
 			<Text>If your treasury is at zero and you're running a negative budget, you will begin to receive a -1 penalty to your [ICON_Amenities] Tiện nghi per every 10 [ICON_Gold] Vàng you drop below 0. Additionally, at -10 [ICON_Gold] Vàng you will automatically disband a unit, at -20 [ICON_Gold] Vàng, two units will be disbanded, and so forth.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_FAITH_NAME">
-			<Text>Faith and Religion</Text>
+			<Text>Đức tin và Tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới Thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Your Religion choices are incredibly important and can be game-changing. With the Religious Victory and Theological Combat, you have new and exciting tools at your disposal to spread your beliefs to other cities and civilizations.</Text>
+			<Text>Sự lựa chọn Tôn giáo của bạn rất là quan trọng và nó có thể làm thay đổi - cuộc chơi. Với chiến thắng Tôn giáo và Cuộc chiến Thần học, bạn có nhiều lựa chọn thú vị để truyền bá Tôn giáo đến các thành phố và nền văn minh khác theo sở thích của mình.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_TITLE">
 			<Text>Earning Faith</Text>
@@ -963,10 +963,10 @@
 			<Text>[ICON_Tourism] Du lịch is needed in order to win a Culture Victory. You can generate [ICON_Tourism] Du lịch through Great Works, wonders, Holy Sites, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, Seaside Resorts and National Parks. You can boost your [ICON_Tourism] Du lịch through [ICON_TradeRoute] Tuyến đường thương mại, Open Borders, and shared (or conflicting) late game governments. </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
-			<Text>Great Works, Relics, and Artifacts</Text>
+			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Great Works come in five different types. Writing, Art, and Music which can be generated through [ICON_GreatPerson] Great People, [ICON_GreatWork_Artifact] Artifacts which are retrieved from Antiquity Sites by Archaeologists, and [ICON_GreatWork_Relic] Relics which are created by Apostles with the Martyr ability when they die in Theological Combat. Once earned, a Great Work can be housed in a Great Work slot in the appropriate building or Wonder. </Text>
+			<Text>Có 5 loại Thành tựu vĩ đại. Viết lách, Mỹ thuật, và Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
 			<Text>Khu nghỉ dưỡng ven biển</Text>
@@ -975,46 +975,46 @@
 			<Text>Các Khu nghỉ dưỡng ven biển là một sự phát triển quan trọng có thể xây dựng được sau khi nghiên cứu kỹ thuật Sóng vô tuyền. Những điều này tạo ra [ICON_Tourisim] Du lịch dựa trên sức hấp dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_TITLE">
-			<Text>National Parks</Text>
+			<Text>Công Viên Quốc Gia</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Naturalists may be purchased in your city with [ICON_Faith] Đức Tin after researching the Conservation civic, and can be used to designate National Parks. Creating a National Park consumes the Naturalist unit.</Text>
+			<Text>Nhà tự nhiên học có thể được mua trong thành phố của bạn bằng Đức tin sau khi nghiên cứu hành chính Bảo tồn, và có thể được dùng để thiết kế Công viên Quốc gia. Tạo một Công viên Quốc gia tiêu thụ một đơn vị Nhà tự nhiên học.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_2">
-			<Text>National Parks can be built on a cluster of any four contiguous hexes that meet the following requirements:[NEWLINE]The tiles must be natural wonders, Mountains, or a tile with an Appeal of Charming or better.[NEWLINE]	All four of the tiles must be owned by the same city.[NEWLINE]The tiles must form a diamond shape.[NEWLINE]	No tile can have an improvement or district on it.</Text>
+			<Text>Công viên Quốc Gia có thể được xây dựng dựa trên một cụm gồm bốn ô lục giác xếp gần kề nhau:[NEWLINE]Các ô đó phải là kỳ quan tự nhiên, Núi, hoặc có sức hấp dẫn Đẹp trở lên.[NEWLINE]Tất cả bốn ô này phải cùng chung trong một thành phố.[NEWLINE]Các ô phải có hình dáng của kim cương.[NEWLINE]Các ô không được đang trong quá trình phát triển hoặc xây dựng đặc khu trên đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_3">
-			<Text>A National Park's [ICON_Tourism] Du lịch output is equal to the total Appeal of all the tiles included in the park. Creating a National Park will also give your civilization extra [ICON_Amenities] Tiện nghi.  You will receive 2 [ICON_Amenities] Tiện nghi in the city that owns the park and 1 [ICON_Amenities] Tiện nghi towards the 4 closest cities in your empire.</Text>
+			<Text>Năng suất [ICON_Tourism] du lịch của một Công viên quốc gia bằng tổng sức hấp dẫn của tất cả các ô trong công công viên. Xây dựng một Công viên quốc gia sẽ cho nền văn minh của bạn một lượng lớn [ICON_Amenities] Tiện nghi. Bạn sẽ nhận 2 [ICON_Amenities] Tiện nghi trong thành phố sở hữu công viên và 1 [ICON_Amenities] Tiện nghi cho 4 thành phố gần nhất trong đế chế của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME">
-			<Text>Victory and Defeat</Text>
+			<Text>Chiến Thắng và Thất Bại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới Thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_1_CHAPTER_CONTENT_PARA_1">
-			<Text>There are multiple ways to win and lose a game in Civilization VI. It's important to keep an eye on your opponents' progress toward victory as you advance your own civilization. There's nothing quite as annoying as to be on the verge of capturing your last surviving enemy's final city, only to watch helplessly as he or she completes her Mars colony and wins an upset Science Victory.</Text>
+			<Text>Có nhiều cách để thắng và thua trong game Civilization VI. Điều quan trọng là để mắt đến quá trình phát triển đối thủ và của bạn. Thật không thoải mái chút nào khi gần chiếm được thành phố cuối cùng của kẻ thù, thì lại phải bất lực chứng kiến hắn ta hoặc bà ta hoàn thành thuộc địa trên sao Hỏa và giành chiến thắng Khoa học một cách lãng nhách.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_TITLE">
-			<Text>Domination Victory</Text>
+			<Text>Chiến Thắng Thống Trị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_1">
-			<Text>If you are the last player in possession of your own original [ICON_Capital] Capital, you win. So if you capture all other civilizations' [ICON_Capital] Capitals and hang onto your own, you've achieved victory. However, this can be tricky. Suppose you're in a five-player game and you capture three of your opponents' original [ICON_Capital] Capitals, but the fifth player sneaks in and captures your [ICON_Capital] Capital while you're not paying attention – then he would win immediately. In other words, it doesn't matter who captures what: it's the last player holding onto his original [ICON_Capital] Capital who gets the victory.</Text>
+			<Text>Nếu bạn là người cuối cùng vẫn sở hữu [ICON_Capital] Thủ đô chính của mình, bạn là người chiến thắng. Vì vậy nếu bạn thâu tóm toàn bộ các [ICON_Capital] Thủ đô chính của các nền văn minh khác và vẫn bảo vệ được Thủ đô của mình, thì bạn là người giành được chiến thắng. Tuy nhiên, vẫn còn một mẹo khác. Ví dụ bạn đang chơi một bản đồ 5 người và bạn đã chiếm đóng 3 [ICON_Capital] Thủ đô chính của 3 người kia, nhưng người thứ 5 lại lén tấn công và chiếm giữ [ICON_Capital] Thủ đô của bạn - thì người đó sẽ giành chiến thắng ngay lập tức. Nói kiểu khác, không quan trọng bạn chiếm được thành nào; mà quan trọng ai là người cuối cùng giữ được [ICON_Capital]Thủ đô chính của mình.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_2">
-			<Text>If you've lost your original [ICON_Capital] Capital, but still possess other cities, you can still win another type of victory: Culture, Science, Score, or Religious. However, you cannot win a Domination Victory until and unless you recapture your own original [ICON_Capital] Capital. </Text>
+			<Text>Nếu bạn mất [ICON_Capital] Thủ đô chính của bạn, nhưng vẫn sở hữu các thành phố khác, bạn vẫn có thể chiến thắng theo các kiểu sau: Văn hóa, Khoa học, Điểm số, hoặc Tôn giáo. Tuy nhiên, bạn không thể giành được chiến thắng Thống trị trừ khi bạn giành lại được [ICON_Capital] Thủ đô chính của mình.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_TITLE">
-			<Text>Science Victory</Text>
+			<Text>Chiến thắng khoa học</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_1">
-			<Text>The Science Victory is achieved by the first player to establish a colony on the planet Mars. Once the Space Race is underway, and someone has launched their first satellite, all players will know who is attempting this victory. Players receive bonuses for reaching each milestone along the way to victory. The following steps must be completed in order:</Text>
+			<Text>Để đạt được chiến thắng khoa học thì người chơi đầu tiên phải thành lập một thuộc địa trên Sao Hỏa. Khi Cuộc chạy đua vào không gian còn đang diễn ra, và ai đó đã phóng thành công vệ tinh đầu tiên, thì người đó đang giành quyền chiến thắng. Người chơi sẽ nhận được các điểm thưởng khi đạt được các mốc. Các mốc sau đây phải được thực hiện theo thứ tự:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Launch a Satellite into Space:</Text>
+			<Text>Phóng vệ tinh vào không gian:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_3">
-			<Text>Reminiscent of Sputnik in 1957, you may build a satellite to launch into space after researching Rocketry and building a Spaceport. After completing the Earth Satellite project, your satellite will be launched and you will be awarded visibility of the entire map. </Text>
+			<Text>Hồi tưởng lại con tàu vũ trụ Sputnik vào năm 1957, bạn có thể chế tạo một vệ tinh để phóng lên không gian sau khi nghiên cứu Tên lửa và xây dựng một Trạm không gian. Sau khi hoàn thành dự án Vệ tinh trái đất, vệ tinh của bạn sẽ được phóng lên không gian và bạn sẽ có được tầm nhìn toàn bộ bản đồ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_4">
 			<Text>Đưa con người lên Mặt Trăng:</Text>
@@ -1032,13 +1032,13 @@
 			<Text>Khi mọi mảnh ghép được kích hoạt một lần, thì bạn đã giành chiến thắng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_TITLE">
-			<Text>Culture Victory</Text>
+			<Text>Chiến thắng văn minh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_1">
-			<Text>If you aim to be the cultural epicenter of the world, this is the victory for you. The first civilization to possess a total number of [ICON_Tourism] Visiting Tourists that exceeds the [ICON_Tourism] Domestic Tourists of each other civilization in the game wins the Culture Victory.</Text>
+			<Text>Nếu bạn nhắm mục tiêu là trung tâm văn minh của thế giới, thì chiến thắng là của bạn. Nền văn minh đầu tiên sở hữu tổng lượng khách du lịch vượt qua tổng lượng khách của các nền văn minh khác trong cuộc chơi thì bạn sẽ giành chiến thắng văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_2">
-			<Text>[ICON_Tourism] Du lịch is generated by [ICON_TradeRoute] Tuyến đường thương mại, shared (or conflicting) late game Governments, open borders, Great Works housed in your civilization, [ICON_GreatWork_Relic] Relics housed in your civilization, Holy Sites, National Parks, [ICON_GreatWork_Artifact] Artifacts, and wonders.</Text>
+			<Text>[ICON_Tourism] Du lịch được tạo ra bởi [ICON_TradeRoute] Tuyến đường thương mại, Những chế độ chính phủ giống (hoặc khác) nhau, Tự do đi lại, các Thành tựu vĩ đại, [ICON_GreatWork_Relic] Di tích, Thánh địa, Công viên quốc gia, các [ICON_GreatWork_Artifact] Cổ vật và các Kỳ quan trong thành phố của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng tôn giáo</Text>
