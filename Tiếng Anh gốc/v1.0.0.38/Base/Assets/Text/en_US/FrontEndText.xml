@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<FrontEndText>
+		<!-- Generic -->
+		<Row Tag="LOC_GENERIC_TEST">
+			<Text>Tomáš</Text>
+		</Row>
+		<Row Tag="LOC_GENERIC_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_YES_BUTTON">
+			<Text>Yes</Text>
+		</Row>
+		<Row Tag="LOC_NO_BUTTON">
+			<Text>No</Text>
+		</Row>
+		<Row Tag="LOC_OK_BUTTON">
+			<Text>OK</Text>
+		</Row>
+		<Row Tag="LOC_DEFAULT_BUTTON">
+			<Text>Default</Text>
+		</Row>
+		<Row Tag="LOC_GENERIC_CONFIRM_BUTTON">
+			<Text>Confirm</Text>
+		</Row>
+		
+		<!-- Front End Popups -->
+		<Row Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
+			<Text>Failed to determine graphics device capabilities.[NEWLINE][NEWLINE]Please set your graphics options manually.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
+			<Text>Your graphics driver is older than the minimum recommended version.[NEWLINE][NEWLINE]Please update your driver to the latest version.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
+			<Text>Don't Bug Me Again.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
+			<Text>Remind Me Next Time.</Text>
+		</Row>
+
+		<!-- Main Menu-->
+		<Row Tag="LOC_MAIN_MENU_RESUME_GAME">
+			<Text>Resume Game</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_CIVILIZATION_6">
+			<Text>Play Now</Text>
+		</Row>
+    <Row Tag="LOC_SINGLE_PLAYER">
+      <Text>Single Player</Text>
+    </Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER">
+			<Text>Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME">
+			<Text>Load Game</Text>
+		</Row>
+    <Row Tag="LOC_NO_FILE_SELECTED">
+      <Text>No file currently selected</Text>
+    </Row>
+		<Row Tag="LOC_MAIN_MENU_OPTIONS">
+			<Text>Game Options</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MODS">
+			<Text>Mods</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MY2K_LOGIN">
+			<Text>My2K Login</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
+			<Text>Exit to Desktop</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_BENCH">
+			<Text>Benchmark</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_CREDITS">
+			<Text>Credits</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_TUTORIAL">
+			<Text>Tutorial</Text>
+		</Row>
+		<!-- Load / Save Menus -->
+		<Row Tag="LOC_DELETE_BUTTON">
+			<Text>Delete</Text>
+		</Row>
+		<Row Tag="LOC_BACK_BUTTON">
+			<Text>Back</Text>
+		</Row>
+		<Row Tag="LOC_AUTOSAVES">
+			<Text>Autosaves</Text>
+		</Row>
+		<Row Tag="LOC_STEAMCLOUD">
+			<Text>Cloud</Text>
+		</Row>
+		<Row Tag="LOC_NO_SAVED_GAMES">
+			<Text>No saved games</Text>
+		</Row>
+		<Row Tag="LOC_SORTBY_NAME">
+			<Text>Sort by Name</Text>
+		</Row>
+		<Row Tag="LOC_SORTBY_LASTMODIFIED">
+			<Text>Sort by Last Modified</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MENU_MODS">
+			<Text>MODS</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MENU_DLC">
+			<Text>DLC</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME">
+			<Text>Save Game</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_MAP_BUTTON">
+			<Text>Save Map</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
+			<Text>You've reached the maximum number of Cloud saves. Overwrite or delete a save.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
+			<Text>Invalid file name.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
+			<Text>Waiting for cloud save list.</Text>
+		</Row>
+
+		<Row Tag="LOC_CONFIRM_TITLE_TXT">
+			<Text>Confirm Overwrite</Text>
+		</Row>
+    <Row Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+      <Text>Confirm Delete</Text>
+    </Row>
+    <Row Tag="LOC_CONFIRM_CHOICE">
+      <Text>Are you sure?</Text>
+    </Row>
+		<Row Tag="LOC_CONFIRM_EXIT_TXT">
+			<Text>Are you sure you want to exit the game?</Text>
+		</Row>
+    <Row Tag="LOC_CONFIRM_TXT">
+			<Text>This will permanently delete your save file. Are you sure you want to do this?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
+			<Text>Confirm Load File</Text>
+		</Row>
+        <Row Tag="LOC_CONFIRM_LOAD_TXT">
+			<Text>This will lose any unsaved progress. Are you sure you want to do this?</Text>
+		</Row>
+		<Row Tag="LOC_OVERWRITE_TXT">
+			<Text>This will overwrite your current save file. Are you sure you want to do this?</Text>
+		</Row>
+		<Row Tag="LOC_DELETE_MOD_TXT">
+			<Text>This will permanently delete this Mod. Are you sure you want to do this?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_DISABLE_MOD">
+			<Text>Are you sure you wish to disable this mod?</Text>
+		</Row>
+		<Row Tag="LOC_WILL_ALSO_DISABLE_MODS">
+			<Text>This will also disable the following mods:</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_ENABLE_MOD">
+			<Text>Are you sure you wish to enable this mod?</Text>
+		</Row>
+		<Row Tag="LOC_WILL_ALSO_ENABLE_MODS">
+			<Text>This will also enable the following mods:</Text>
+		</Row>
+		<Row Tag="LOC_EFFECTED_MODS_TXT">
+			<Text>Effected Mods:</Text>
+		</Row>
+		<Row Tag="LOC_MOD_VERSION_AVAILABLE">
+			<Text>Version {1_VersionNumber} is available.</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_CURRENT_TURN">
+			<Text>TURN[ICON_Turn] {1}</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
+			<Text>Scenario Description</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
+			<Text>Game Options</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
+			<Text>Map Type:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
+			<Text>Map Size:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
+			<Text>World Age:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
+			<Text>Saved By Version:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
+			<Text>Advanced Options:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_NO_MAP_DATA">
+			<Text>NO MAP DATA</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
+			<Text>Tuner Active:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_QUICK_SAVE">
+			<Text>(Quick Save)</Text>
+		</Row>
+    
+    <!-- Advanced Game Setup -->
+		 <Row Tag="LOC_NETWORK_NAME_TT">
+			<Text>Network Name[NEWLINE]This is how your name will appear to other players.</Text>
+		</Row>
+		<Row Tag="LOC_NUMBER_OF_CIVILIZATIONS">
+			<Text>Number of Civilizations</Text>
+		</Row>
+    <Row Tag="LOC_PLAYERS">
+      <Text>Players</Text>
+    </Row>
+    <Row Tag="LOC_BACK">
+      <Text>Back</Text>
+    </Row>
+    <Row Tag="LOC_GAME_HANDICAP">
+      <Text>Game Difficulty</Text>
+    </Row>
+    <Row Tag="LOC_MAP_OPTIONS">
+      <Text>Map Options</Text>
+    </Row>
+		<!-- Multiplayer Game Abandoned Popup -->
+		<Row Tag="LOC_GAME_ABANDONED_KICKED">
+			<Text>You have been kicked from the game by the host.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+			<Text>Network connection to host has been lost.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+			<Text>The game has the maximum number of players.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+			<Text>Version mismatch with host.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+			<Text>Mod configuration error.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+			<Text>Network connection has been lost.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+			<Text>Error joining Multiplayer session.</Text>
+		</Row>
+		<!-- Multiplayer Select Screen-->
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+			<Text>{1_PlayerName}'s Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
+			<Text>Play a multiplayer game where players take turns continuously with each other.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME">
+			<Text>Internet</Text>
+		</Row>
+    <Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+      <Text>[ICON_CheckFail] Internet</Text>
+    </Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
+			<Text>Play a multiplayer game on the internet.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>Internet games are not available while Steam is offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_GAME">
+			<Text>Local Network</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
+			<Text>Play a multiplayer game on the local network.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
+			<Text>Hot Seat</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
+			<Text>Play a multiplayer game where players take alternating turns on this machine.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
+			<Text>Cloud Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
+			<Text>Play a multiplayer game using FiraxisLive cloud computing technology.  Requires an active connection to FiraxisLive.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
+			<Text>Pitboss</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
+			<Text>Play a multiplayer game where a dedicated server controls the game over a long period of time.</Text>
+		</Row>
+		<Row Tag="LOC_MENU_BACK">
+			<Text>Back</Text>
+		</Row>
+		<!-- Multiplayer Chat Commands -->
+		<Row Tag="LOC_CHAT_HELP_COMMAND_HINT">
+			<Text>[COLOR:ChatMessage_Help]Type /help for chat command help.[ENDCOLOR]</Text>
+		</Row>
+		<!-- [TEAMCODE] Cut text for team chat command. "[NEWLINE]/t Send a message to a team channel" -->
+		<Row Tag="LOC_CHAT_HELP_COMMAND_TEXT">
+			<Text>[COLOR:ChatMessage_Help]CHAT COMMANDS[NEWLINE]/g Send a message to a global channel[NEWLINE]/w [PlayerName] Whisper a message to a player[NEWLINE]/r Reply to a whisper[NEWLINE]/help Displays this help message[ENDCOLOR]</Text>
+		</Row>
+		<!-- Multiplayer Lobby Screen -->
+		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
+			<Text>REFRESH</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+			<Text>Retrieve the latest game list information.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+			<Text>STOP REFRESH</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+			<Text>Stop the game list information retrieval.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_BACK">
+			<Text>BACK</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME">
+			<Text>Join Game</Text>
+		</Row>
+		<Row Tag="LOC_MISC_BACK">
+			<Text>Back</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
+			<Text>Connect to IP Address</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
+			<Text>Connect to a pitboss game at a given public IP address.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CREATE_GAME">
+			<Text>Create Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
+			<Text>Confirm Settings</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOST_GAME">
+			<Text>MULTIPLAYER GAME SETUP</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
+			<Text>Start a new multiplayer game.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
+			<Text>Create a multiplayer game from an existing save.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_FRIENDS">
+			<Text>Friends</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
+			<Text>Show Friends List</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_SETUP">
+			<Text>GAME SETUP</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
+			<Text>GAME SUMMARY</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_NAME">
+			<Text>Game Name</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_RULESET">
+			<Text>Rule Set</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_MAP_TYPE">
+			<Text>Map Type</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_GAME_SPEED">
+			<Text>Game Speed</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_MAP_SIZE">
+			<Text>Map Size</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PLAYERS">
+			<Text>Players</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DLCHOSTED">
+			<Text>DLC</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MODSHOSTED">
+			<Text>Mods</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
+			<Text>PITBOSS GAMES</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
+			<Text>INTERNET GAMES</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_LOBBY">
+			<Text>LOCAL NETWORK GAMES</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TRUE">
+			<Text>True</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_FALSE">
+			<Text>False</Text>
+		</Row>
+		<!-- Cloud Game Screen -->
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
+			<Text>List</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
+			<Text>Template</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
+			<Text>Host</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
+			<Text>Join</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
+			<Text>Start</Text>
+		</Row>
+    <!-- Options -->
+    <Row Tag="LOC_CONFIRM_KEY_BINDING">
+      <Text>Confirm Key Binding</Text>
+    </Row>
+    <Row Tag="LOC_CONFIRM">
+      <Text>Confirm</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GAME">
+      <Text>Game</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GRAPHICS">
+      <Text>Graphics</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUDIO">
+      <Text>Audio</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_LANGUAGE">
+      <Text>Language</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE">
+      <Text>Interface</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_KEY_BINDINGS">
+      <Text>Key Bindings</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_APPLICATION">
+      <Text>Application</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GAME_OPTIONS">
+      <Text>Game Options</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+      <Text>Graphics Options</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+      <Text>Audio Options</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+      <Text>Language Options</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+      <Text>Interface Options</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+      <Text>Key Bindings</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_QUICK_COMBAT">
+      <Text>Quick Combat:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+      <Text>Quick Movement:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUTO_END_TURN">
+      <Text>Auto End Turn:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TIME_OF_DAY">
+      <Text>Time of Day:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TUNER">
+      <Text>Tuner (disables achievements):</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TUTORIAL">
+      <Text>Advisor:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+      <Text>Turns between autosaves:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+      <Text>Number of autosaves to keep:</Text>
+    </Row>
+	<Row Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+		<Text>Local Network Player Name:</Text>
+	</Row>		
+    <Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+      <Text>Steam Controller configuration happens inside the Steam client and not within this UI.  The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+      <Text>Primary binding</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+      <Text>Alternative binding</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+      <Text>Application Options</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+      <Text>Spoken Language:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+      <Text>Start in Strategic View:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+      <Text>Display Language:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MASTER_VOLUME">
+      <Text>Master Volume:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MUSIC_VOLUME">
+      <Text>Music Volume:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+      <Text>Sound Effects Volume:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+      <Text>Ambient Sounds Volume:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SPEECH_VOLUME">
+      <Text>Speech Volume:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MUTE_FOCUS">
+      <Text>Mute when the game window is inactive:</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_CLEAR">
+			<Text>Clear</Text>
+		</Row>
+		<!-- Front End Popop -->
+		<Row Tag="LOC_CLOSE">
+			<Text>Close</Text>
+		</Row>
+		<!-- Multiplayer Joining Room Screen -->
+		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
+			<Text>PLEASE WAIT</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM">
+			<Text>Joining Room...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOINING_HOST">
+			<Text>Retrieving Host Information...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
+			<Text>Configuring Game Content...</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_FULL">
+			<Text>The game has the maximum number of players.</Text>
+		</Row>
+		<Row Tag="LOC_MP_JOIN_FAILED">
+			<Text>Error joining multiplayer session.</Text>
+		</Row>
+		<!-- Multiplayer Staging Room Screen -->
+		<Row Tag="LOC_MP_SWAP_PLAYER">
+			<Text>Swap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+			<Text>Swap to this player slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
+			<Text>Swap to this player slot only if the other player also chooses to swap.</Text>
+		</Row>
+		<Row Tag="LOC_MP_KICK_PLAYER">
+			<Text>Kick Player</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STAGING_ROOM">
+			<Text>Staging Room</Text>
+		</Row>
+		<Row Tag="LOC_READY_BUTTON">
+			<Text>Ready</Text>
+		</Row>
+		<Row Tag="LOC_ARE_YOU_READY">
+			<Text>Are you ready?</Text>
+		</Row>
+		<!-- Multiplayer Status Strings -->
+		<Row Tag="LOC_READY_LABEL">
+			<Text>Ready!</Text>
+		</Row>
+		<Row Tag="LOC_NOT_READY">
+		  <Text>Not Ready</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE">
+			<Text>[COLOR:StagingStatus_Invalid]Invalid for Map Size[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
+			<Text>This player slot is unavailable for the current map size.  Have the host increase the map size or swap to an available player slot.</Text>
+		</Row>		
+		<!-- Multiplayer Status Strings END -->
+		<Row Tag="LOC_JOIN">
+			<Text>Join!</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OPEN">
+			<Text>Open</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OPEN_TT">
+			<Text>Open slots can be occupied by joining players.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMANREQ">
+			<Text>Human Required</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMANREQ_TT">
+			<Text>Human Required slots require a human player before the game can start.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_HOST">
+			<Text>[ICON_Host] Host</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_PLAYER">
+			<Text>Player</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_COMPUTER">
+			<Text>Computer</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_OPEN">
+			<Text>Open</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_AI">
+			<Text>AI</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_AI_TT">
+			<Text>AI Player</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_CLOSED">
+			<Text>Closed</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_CLOSED_TT">
+			<Text>Closed slots can not be used by players.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMAN">
+			<Text>Human</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMAN_TT">
+			<Text>Human Player</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
+			<Text>None</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
+			<Text>{1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CREATE_NEW_TEAM">
+			<Text>New</Text>
+		</Row>
+    <Row Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+      <Text>Team</Text>
+    </Row>
+    <Row Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+      <Text>Difficulty</Text>
+    </Row>
+    <Row Tag="LOC_MULTIPLAYER_READY_HEADER">
+      <Text>Ready?</Text>
+    </Row>
+    <Row Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+      <Text>Civilization and Leader</Text>
+    </Row>
+		<Row Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
+			<Text>Game Starting</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
+			<Text>Player</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
+			<Text>Password</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
+			<Text>Retype</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
+			<Text>Match</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
+			<Text>Passwords Don't Match.</Text>
+		</Row>
+		<!-- Staging Room Ready Button-->
+		<Row Tag="LOC_READY_UNSUPPORTED">
+			<Text>Unsupported.</Text>
+		</Row>
+		<Row Tag="LOC_READY_UNSUPPORTED_TT">
+			<Text>Unsupported amount of players.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
+			<Text>Invalid Teams</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
+			<Text>Cannot start game. All civilizations are on the same team.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
+			<Text>Cannot start game. Players are joining the game.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
+			<Text>Map Size Issue</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
+			<Text>Can not start game. A player is in an invalid player slot for the current map size. The current map only supports {1_number} players.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
+			<Text>Not Enough Players</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
+			<Text>Can not start game.  Two players are required to start.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
+			<Text>Players Joining Game</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
+			<Text>Waiting for players joining into the game.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
+			<Text>Player Missing Mods</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
+			<Text>Waiting on players who do not have the mods required for this game.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
+			<Text>Password Mismatch</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
+			<Text>All passwords must match.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
+			<Text>No Human Players</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
+			<Text>Need at least 1 human player</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
+			<Text>Invalid Teams</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
+			<Text>At least 2 players need to be on different teams</Text>
+		</Row>
+		<!-- Staging Room Invite Button -->
+		<Row Tag="LOC_INVITE_BUTTON">
+			<Text>Invite Friends</Text>
+		</Row>
+		<Row Tag="LOC_INVITE_BUTTON_TT">
+			<Text>Invite friends from your Steam friends list to this game.</Text>
+		</Row>
+		<!-- Confirm Kick Popup -->
+		<Row Tag="LOC_CANCEL_BUTTON">
+			<Text>Cancel</Text>
+		</Row>
+		<Row Tag="LOC_ACCEPT_BUTTON">
+			<Text>Accept</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
+			<Text>Are you sure you wish to kick {1_player} from the game?</Text>
+		</Row>
+		<!-- Edit Hotseat Player Popup -->
+		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
+			<Text>Edit Hot Seat Player.</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER">
+			<Text>Edit Hot Seat Player</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_PLAYER_NAME">
+			<Text>Player Name:</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_PASSWORD">
+			<Text>Password:</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
+			<Text>Retype Password:</Text>
+		</Row>
+		<!-- Network Connection Status -->
+		<Row Tag="LOC_MP_PLAYER_CONNECTED">
+			<Text>Player is currently in-game.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connected]Connected[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED">
+			<Text>Player is not connected.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTING">
+			<Text>Player is joining the game.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connecting]Joining[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY">
+			<Text>Player does not have the mods required to play in this game.</Text>
+		</Row>
+		<Row Tag="LOC_TIME_MILLISECONDS">
+			<Text>ms</Text>
+		</Row>
+		<Row Tag="LOC_TIME_SECONDS">
+			<Text>s</Text>
+		</Row>
+		<!-- Friend Actions  -->
+		<Row Tag="LOC_FRIEND_ACTION_PROFILE">
+			<Text>Steam Profile</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_PROFILE_TT">
+			<Text>View this friend's profile page.</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_CHAT">
+			<Text>Send Message</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_CHAT_TT">
+			<Text>Send a message to this friend.</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_INVITE">
+			<Text>Invite to Game</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_INVITE_TT">
+			<Text>Invite this friend to play.</Text>
+		</Row>
+		<!-- Friend Status  -->
+		<Row Tag="LOC_PRESENCE_ONLINE">
+			<Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_SHELL">
+			<Text>[COLOR:ConnectionStatus_Connected]Main Menu[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_HOSTING_GAME">
+			<Text>[COLOR:ConnectionStatus_Connected]Hosting Game[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_STAGING_ROOM">
+			<Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_SP">
+			<Text>[COLOR:ConnectionStatus_Connected]Single Player[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Online)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_LAN">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (LAN)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Hot Seat)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_INVITED_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Invited[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_INVITED_OFFLINE">
+			<Text>[COLOR:ButtonCS]Invited[ENDCOLOR]</Text>
+		</Row>
+		<!-- Player Connection EVents -->
+		<Row Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
+			<Text>Connected</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
+			<Text>Disconnected</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
+			<Text>Is Now the Host</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_KICKED_CHAT">
+			<Text>Was Kicked</Text>
+		</Row>
+		<!-- Multiplayer Chat -->
+		<Row Tag="LOC_MULTIPLAYER_CHAT">
+			<Text>CHAT</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TO_ALL">
+			<Text>To All:</Text>
+		</Row>
+		<!-- Multiplayer Mod Downloads -->
+		<Row Tag="LOC_BYTES">
+			<Text>b</Text>
+		</Row>
+		<Row Tag="LOC_KILOBYTES">
+			<Text>Kb</Text>
+		</Row>
+		<Row Tag="LOC_MEGABYTES">
+			<Text>Mb</Text>
+		</Row>
+		<!-- Setup -->
+		<Row Tag="LOC_SETUP_CREATE_GAME">
+			<Text>Create Game</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_CIVILIZATION">
+			<Text>Choose Civilization</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_DIFFICULTY">
+			<Text>Choose Game Difficulty</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SPEED">
+			<Text>Choose Game Speed</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_TYPE">
+			<Text>Choose Map Type</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_SIZE">
+			<Text>Choose Map Size</Text>
+		</Row>
+		<Row Tag="LOC_DELETE_AI">
+			<Text>Delete</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADVANCED_OPTIONS">
+			<Text>Advanced Setup</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_VICTORY_CONDITIONS">
+			<Text>Victory Conditions</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS">
+			<Text>Advanced Options</Text>
+		</Row>
+		<Row Tag="LOC_EDIT_BUTTON">
+			<Text>Edit</Text>
+		</Row>
+    <Row Tag="LOC_SETUP_ADD_PLAYER">
+      <Text>Add Player</Text>
+    </Row>
+    <Row Tag="LOC_SETUP_ADD_PLAYER_TT">
+      <Text>Add a player to the game.</Text>
+    </Row>
+		<Row Tag="LOC_SETUP_ADD_AI_PLAYER">
+			<Text>Add AI Player</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
+			<Text>Add an AI player to the game.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_RESTORE_DEFAULT">
+			<Text>Restore Defaults</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
+			<Text>Restore all parameters to their default values.</Text>
+		</Row>
+		<Row Tag="LOC_START_GAME">
+			<Text>Start Game</Text>
+		</Row>
+		<Row Tag="LOC_START_WORLD_BUILDER">
+			<Text>Start World Builder</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_START_NEW">
+			<Text>New Map</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_LOAD">
+			<Text>Load Map</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_LEADER">
+			<Text>Random Leader</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_CIVILIZATION">
+			<Text>Random Civilization</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+			<Text>No Duplicate Leaders</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+			<Text>Invalid Option</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+			<Text>Not Owned</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+			<Text>One or more player options are invalid.</Text>
+		</Row>
+    
+		<!-- Configuration Parameters.  Move these to a better location -->
+		<Row Tag="LOC_RULESET">
+			<Text>Ruleset:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NAME">
+			<Text>Game Name:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NAME_DESC">
+			<Text>The name displayed for this game in the multiplayer server list.</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATE_GAME">
+			<Text>Private Game</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATE_GAME_DESC">
+			<Text>Private games are not shown in the multiplayer lobby.  A private game is only accessable thru a game invite or the Steam friends list.  This setting does not apply to Local Network games.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_VICTORY_TIME">
+			<Text>Time</Text>
+		</Row>
+		<Row Tag="LOC_GAME_VICTORY_SCIENCE">
+			<Text>Science</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NO_GOODY_HUTS">
+			<Text>No Tribal Villages</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NO_BARBARIANS">
+			<Text>No Barbarians</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNTIMER_TYPE">
+			<Text>Turn Timer</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURN_TIMER_TIME">
+			<Text>Turn Time</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
+			<Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNPHASE_TYPE">
+			<Text>Turn Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNPHASE_DESC">
+			<Text>Turn mode used by human controlled players in multiplayer.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_SYNC_RANDOM_SEED">
+			<Text>Game Random Seed</Text>
+		</Row>
+		<Row Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
+			<Text>The random seed for game rules.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RANDOM_SEED">
+			<Text>Map Random Seed</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
+			<Text>The random seed for map generation.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NAME">
+			<Text>World Age</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
+			<Text>New</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
+			<Text>Old</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_NAME">
+			<Text>Temperature</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
+			<Text>Hot</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
+			<Text>Cold</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_NAME">
+			<Text>Rainfall</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_ARID_NAME">
+			<Text>Arid</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_WET_NAME">
+			<Text>Wet</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_NAME">
+			<Text>Sea Level</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
+			<Text>Low</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
+			<Text>High</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_NAME">
+			<Text>Resources</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
+			<Text>Sparse</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
+			<Text>Abundant</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_NAME">
+			<Text>Start Position</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
+			<Text>Balanced</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
+			<Text>Legendary</Text>
+		</Row>
+		<!--Game Speed Descriptions -->
+		<Row Tag="LOC_GAMESPEED_MARATHON_HELP">
+			<Text>Very prolonged game (200% slower).</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_EPIC_HELP">
+			<Text>Prolonged game (50% slower).</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_STANDARD_HELP">
+			<Text>Normal speed game.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_QUICK_HELP">
+			<Text>Quick game (33% faster).</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_ONLINE_HELP">
+			<Text>Double-speed game used for online multiplayer.</Text>
+		</Row>
+		<!-- Map Type Descriptions -->
+		<Row Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+			<Text>Lots of small islands with a few larger islands.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+			<Text>A few large landmasses.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+			<Text>Unpredictable map that can result in one or many landmasses.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+			<Text>One large ocean in the center of the map.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+			<Text>Islands ranging in size from small to large.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+			<Text>One massive landmass with surrounding islands.</Text>
+		</Row>
+    <Row Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+      <Text>What secrets will this map reveal?</Text>
+    </Row>
+		<!-- Map Size Descriptions -->
+		<Row Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
+			<Text>Very small map for 2 players.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
+			<Text>Slightly smaller map for 4 players.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
+			<Text>Small map for 6 players.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
+			<Text>Average-sized map for 8 players.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
+			<Text>Large map for 10 players.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
+			<Text>Enormous map for 12 players.</Text>
+		</Row>
+		<!-- Turn Timer Settings -->
+		<Row Tag="LOC_TURNTIMER_NONE">
+			<Text>No Turn Timer</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_NONE_DESC">
+			<Text>Players take turns without time constraints.</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_DYNAMIC">
+			<Text>Dynamic Turn Timer</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_DYNAMIC_DESC">
+			<Text>Turn time is dynamically scaled based on the number of cities and units in play.</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_STANDARD">
+			<Text>Standard Turn Timer</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_STANDARD_DESC">
+			<Text>Turn time is based on the Turn Time option (in seconds).</Text>
+		</Row>
+		<!-- Turn Mode Settings -->
+		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS">
+			<Text>Simultaneous Turns</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
+			<Text>Players take their turns at the same time.</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_DYNAMIC">
+			<Text>Dynamic Turns</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_DYNAMIC_DESC">
+			<Text>Players at peace take their turns at the same time.  Players at war take their turns sequentially.</Text>
+		</Row>
+		<!-- Map Config Descriptions -->
+		<Row Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
+			<Text>Changes the maps elevation (Hills and Mountains).</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
+			<Text>A map with more hills and mountains.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
+			<Text>A map with standard hills and mountains.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
+			<Text>A map with less hills and mountains.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
+			<Text>A map with random hills and mountains.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
+			<Text>Adjusts the terrain of the map.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
+			<Text>A map with more Desert and less Tundra and Snow.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
+			<Text>A map with average terrain similar to Earth's terrain patterns.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
+			<Text>A map with more Tundra and Snow and less Desert.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
+			<Text>A map with random terrain temperature zones.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_DESCRIPTION">
+			<Text>Changes the amount of features present on a map.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
+			<Text>A map with less woods, rainforest, and marsh.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
+			<Text>A map with average amounts of woods, rainforest, and marsh.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
+			<Text>A map with more woods, rainforest, and marsh.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
+			<Text>A map with a random amount of features.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
+			<Text>Varries the amount of water on the map.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
+			<Text>A map with less water.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
+			<Text>A map with normal amounts of water.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
+			<Text>A map with more water.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
+			<Text>A map with a random amount of water.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_DESCRIPTION">
+			<Text>Change the quantity of resources.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
+			<Text>A map with less resources.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
+			<Text>A map with standard resources.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
+			<Text>A map with more resources.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
+			<Text>A map with a random amount of resources.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_DESCRIPTION">
+			<Text>Shifts the value of your starting position.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+			<Text>All players have equally good starting spots.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+			<Text>Standard starting positions.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+			<Text>All players have great, but not necessarily equal starts.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERA">
+			<Text>Start Era</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SCRIPT">
+			<Text>Map</Text>
+		</Row>
+		<!-- Tutorial Select Screen-->
+		<Row Tag="LOC_SETUP_TUTORIAL_TITLE">
+			<Text>Welcome to Civilization</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+			<Text>It is here that we begin our journey of raising an empire from humble beginnings to greatness, and write your own version of history.[NEWLINE][NEWLINE]Will you conquer the world in great battles or be the first to send your people to the stars? Will you influence the world with the culture of your people, or will your beliefs spread to the ends of the earth?[NEWLINE][NEWLINE]Only time will tell...[NEWLINE][NEWLINE]All great civilizations begin with a great leader. Choose the civilization you would like to play through this tutorial below.</Text>
+		</Row>	
+		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+			<Text>Cleopatra of the Egyptian empire rules a civilization of strong allies and great city builders.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+			<Text>Gilgamesh of the Sumerian empire rules vast lands and is a respected conqueror.</Text>
+		</Row>
+		<!-- Loading Screen / Dawn of man -->
+		<Row Tag="LOC_LOADING_DOMAIN_LAND">
+			<Text>A unique land unit</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DOMAIN_SEA">
+			<Text>A unique naval unit</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DOMAIN_AIR">
+			<Text>A unique air unit</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_PLEASE_WAIT">
+			<Text>Loading, please wait...</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DISTRICT_BUILDING">
+			<Text>{1_DistrictName} District Building</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_BUILDING">
+			<Text>A unique building</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_DISTRICT">
+			<Text>A unique district</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+			<Text>A unique improvement</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+			<Text>Joins the World Stage</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_FEATURES_ABILITIES">
+			<Text>Features &amp; Abilities</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_START_GAME">
+			<Text>Start Game</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CONTINUE_GAME">
+			<Text>Continue Game</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+			<Text>It is up to you to lead your people to glory by building a civilization that will stand the test of time.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+			<Text>Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader – use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses.  Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+			<Text>It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+			<Text>There will be those who underestimate you, but you are cunning and full of tricks, Queen Cleopatra. Your charm will establish indestructible alliances with the strongest leaders of the world. Keep your friends close by your side and you will find yourself untouchable, with the glory of Egypt primed to win over the world.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+			<Text>Be kind, Gandhi Bapu, and you will find yourself surrounded by true friends. Keep the Indian people safe, guarding them with magnificent elephant warriors. Your faith will guide you to peace and harmony. Keep your mind open, and be the change you want to see in the world.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+			<Text>Much rests upon your shoulders, King Gilgamesh. Your own people, and many people of the world, look to you as leader. But you are more than a mere man, and the weight of the world will never cause you to waver. Encourage the people of Sumer to settle the fertile lands along rivers, and be sure to choose your allies carefully - for there will be many vying for a piece of your strength. Venture forth, for it is time to begin your epic tale.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
+			<Text>Gorgo, Queen of Sparta; glory to you and your loyal hoplite armies! Greece savors the blessings from Ares that every victory brings. And your people applaud your thoughtful governance and cultural marvels. Stand proud, for the legacy of Greece, and of your achievements, will be told over and over again for generations.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+			<Text>All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore.  May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HOJO">
+			<Text>The great wave of Buddhism follows you, Shikken of Japan, Hojo Tokimune. Your people truly understand what it is to practice balance, and even your finest samurai will be well-learned and spiritually apt. Be strong, embrace the divine wind, and you will reach enlightenment.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+			<Text>Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease.  Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+			<Text>Your people look to you, Emperor Pedro II, to lead Brazil onto the world stage. Use your reputation as a patron of artists, scientists, and engineers to draw the greatest minds to our fertile home. For it is in the lush rainforests, teeming with life, that your people thrive. Watch them in the Carnival as they dance the samba in celebration of your great feats, Pedro the Magnanimous.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+			<Text>Your mastery of the spoken word is a gift of great value, silver-tongued Pericles, leader of the Greeks. Through it you can attract the devotion of a league of states, surrounding yourself with their glory. Establish cultural sites along the rocky shores of Greece to unite your people behind your strong governance.  If all goes well the Sirens will sing of the Age of Pericles!</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+			<Text>Embrace the chill winds of the Motherland, Tsar Peter. Your fascination with science and culture is a gift, and you will learn much from your Grand Embassies to foreign lands. Under your rule, Russia will surely flourish and spread, absorbing all that lies around it, perhaps creating the greatest land empire seen on this earth.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+			<Text>All Spain stands ready to answer your prayers, devout King Philip II.  From your palace at El Escorial you can send forth your followers: missionaries, apostles, and conquistadors ready to strike out across the seas to spread the good word about your most holy empire.  May the treasures they uncover fuel your quest to unite the world under one faith and one empire, making you truly the Most Catholic king.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_QIN">
+			<Text>In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+			<Text>The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life’s most puzzling questions will find their way back to Arabia.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+			<Text>All people will tremble with fear and respect for you, great warrior Queen Tomyris. For it is from the back of your stallion that you shall look upon and lead the Scythian people. Great epics will be told of the horse warriors that ride forth from the steppe, and at the front line of every battle - they will find you. Ride on, fierce queen, and may your friends be true just as your enemies falter.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+			<Text>Cast your net wide, oh Trajan, emperor of mighty Rome. Your legions stand at the ready to march out and establish the largest empire the world has ever seen. If you can truly get all roads to lead to Rome, yours will be an empire of great riches and luxuries.  Surely then our citizens will proclaim you as their best ruler, the Optimus Princeps.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+			<Text>And so it is upon your broad shoulders, Theodore Roosevelt, to charge forth and lead your people on their great adventure. Use your military might to give the peoples of your homeland the square deal they so desperately deserve. Surely you will raise America into the limelight and attract visitors from across the oceans just to see your lands. Bully for you, Mr. President.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+			<Text>Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+			<Text>From the first stirrings of life beneath water… to the great beasts of the Stone Age… to man taking his first upright steps, you have come far.  Now begins your greatest quest: from this early cradle of civilization on towards the stars.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+			<Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+			<Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+			<Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MODERN_DESCRIPTION">
+			<Text>In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+			<Text>New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INFORMATION_DESCRIPTION">
+			<Text>A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DISABLE">
+			<Text>Disable advisor.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
+			<Text>New to turn-based strategy.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV">
+			<Text>New to Civilization</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
+			<Text>New to Civilization VI</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+			<Text>No Duplicate Leaders</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+			<Text>Enabling this option prevents two or more players from choosing the same leader.</Text>
+		</Row>
+		<Row Tag="LOC_LIMIT_TURNS_NAME">
+			<Text>Limit Turns</Text>
+		</Row>
+		<Row Tag="LOC_LIMIT_TURNS_DESCRIPTION">
+			<Text>Limit the maximum number of turns</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_NONE_NAME">
+			<Text>No Turn Limit</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
+			<Text>There is no limit to the number of turns.</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
+			<Text>By Game Speed</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
+			<Text>The game will end at 2050 AD.</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_CUSTOM_NAME">
+			<Text>Custom</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
+			<Text>The game will end at the specified number of turns.</Text>
+		</Row>
+    <Row Tag="LOC_CITYSTATE_COUNT_NAME">
+      <Text>City-States:</Text>
+    </Row>
+    <Row Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+      <Text>The number of city-states to include in the game.</Text>
+    </Row>
+    <Row Tag="LOC_MAX_TURNS_NAME">
+			<Text>Max Turns:</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_DESCRIPTION">
+			<Text>The number of turns until the Score Victory.  Use 0 for unlimited.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_RESUME_GAME_TT">
+			<Text>Resume the last game you were playing.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_LOAD_GAME_TT">
+			<Text>Load a previously saved game.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_PLAY_NOW_TT">
+			<Text>Play on a small continents map with random leaders.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_CREATE_GAME_TT">
+			<Text>Create a new game with your own settings.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
+			<Text>Play now, create a new game, or continue an existing game.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_TT">
+			<Text>Internet, network, and hot seat matches can be setup or joined here.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
+			<Text>Settings for graphics, audio, key bindings, and more.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MODS_TT">
+			<Text>Custom creations by fans to extend and expand Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_TUTORIAL_TT">
+			<Text>Completely new to the franchise, or need a refresher? We're here to help!</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_BENCHMARK_TT">
+			<Text>How does your hardware stack up?</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_CREDITS_TT">
+			<Text>Everyone who made contributions to Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_EXIT_GAME_TT">
+			<Text>Exit the game completely.</Text>
+		</Row>
+
+		<!-- Copyright screen -->
+		<Row Tag="LOC_COPYRIGHT_TEXT">
+			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+		</Row>
+		<Row Tag="LOC_COPYRIGHT_ACCEPT">
+			<Text>Continue</Text>
+		</Row>
+    <Row Tag="LOC_VICTORY_DEFAULT_NAME">
+      <Text>Victory</Text>
+    </Row>
+		<Row Tag="LOC_VICTORY_SCORE_NAME">
+			<Text>Score Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_NAME">
+			<Text>Science Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_NAME">
+			<Text>Culture Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_NAME">
+			<Text>Domination Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_NAME">
+			<Text>Religious Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCORE_TT">
+			<Text>While you were not able to achieve a grand victory, you'll take what you can get. This victory is triggered when time runs out, and there are no other victors.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_TT">
+			<Text>Be the first to colonize Mars to win a Science victory. This victory is straight-forward, but can be difficult to achieve before time runs out.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_TT">
+			<Text>Your cultural greatness will attract all of the world's people to your empire. This is the most difficult victory to achieve.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_TT">
+			<Text>Through military strength and prowess, you bring the world to it's knees. This is the most basic victory to achieve.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_TT">
+			<Text>Spread your religion to the four corners of the Earth, bringing light to a dark World. You will have to master diplomatic relationships if you hope to convert the world to the one true religion.</Text>
+		</Row>
+		<Row Tag="LOC_RULESET_NAME">
+			<Text>Standard Rules</Text>
+		</Row>
+		<Row Tag="LOC_RULESET_DESCRIPTION">
+			<Text>This is a standard Civilization VI game.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
+			<Text>Play as Cleopatra</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
+			<Text>Play as Gilgamesh</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
+			<Text>Additional Content</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
+			<Text>Additional content and mods to expand Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO">
+			<Text>Demo</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
+			<Text>Buy It Now</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_CONTENT">
+			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
+			<Text>Fade into History</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_BUY">
+			<Text>Achieve Greatness</Text>
+		</Row>
+		<Row Tag="LOC_ARX_VICTORY_PROGRESS">
+			<Text>{1_CivName} Victory Progress</Text>
+		</Row>
+		<Row Tag="LOC_ARX_TOP_5">
+			<Text>Top 5</Text>
+		</Row>
+		<Row Tag="LOC_ARX_GOSSIP_LOG">
+			<Text>Gossip Log</Text>
+		</Row>
+		
+		<!-- File Errors -->
+		<Row Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+			<Text>Save cannot be loaded in this version of the game.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+			<Text>Unable to open save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+			<Text>Unable to write save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+			<Text>Unable to read save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+			<Text>Unable to remove save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+			<Text>File is not a save game.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+			<Text>Save game is corrupt.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+			<Text>Save loading unexpectedly ended.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+			<Text>Unable to restore the game state.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+			<Text>Unable find the path to the save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+			<Text>The save device is invalid.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+			<Text>Unable to retrieve the save list from the device.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+			<Text>One or more required Mods for the save are not installed.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+			<Text>One or more required DLC packages for the save are not installed.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>One or more required Expansion packages for the save are not installed.</Text>
+		</Row>
+
+		<!-- -->
+		
+	</FrontEndText>
+</GameData>

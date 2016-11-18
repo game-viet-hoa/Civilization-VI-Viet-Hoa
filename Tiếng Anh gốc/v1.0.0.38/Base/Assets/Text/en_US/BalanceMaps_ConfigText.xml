@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Name and Description-->
+		<Row Tag="LOC_BALANCEDMAPS_NAME">
+			<Text>Official Balanced Maps</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_DESCRIPTION">
+			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
+		</Row>
+		<!--Map Name-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
+			<Text>Balanced Maps</Text>
+		</Row>
+		<!--Map Description-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
+			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
+		</Row>
+		<!--Map Description-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+			<Text>4-Leaf Clover</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+			<Text>Civilizations begin in four balanced regions. The map forces players toward the center.</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+			<Text>6-Armed Snowflake</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+			<Text>Civilizations begin in six balanced regions, with City-States on nearby islands. The map forces players toward the center.</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
+			<Text>Promised Land</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
+			<Text>Civilizations begin with balanced start locations and compete for valuable territory in the map’s center.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

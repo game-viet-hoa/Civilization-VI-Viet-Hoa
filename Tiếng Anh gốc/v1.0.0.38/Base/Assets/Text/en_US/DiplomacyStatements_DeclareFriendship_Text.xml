@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>We are pleased to accept your offer of friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>On behalf of the people of Kongo, I accept your friendship and good will.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I accept your offer of friendship. And of course, you'll be invited to the next royal wedding.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Very well. I only hope you are more a Mark Antony than a Brutus.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>A strong ally is the greatest friend. Let us live in peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>I accept your offer of friendship. May it be blessed with peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh is happy to accept your friendship. Let the world know you are my sworn friend!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>You have proven to be a good friend of Sparta. I will accept on behalf of my people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Friends? Yes, I am a friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>I see in you the peace and tranquility of a warrior, and I welcome that friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We are pleased to accept your offer of friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>On behalf of the Democracy, I accept your friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Your offer is kind. I accept, for the good of my people and yours.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>You are blessed by God, and a friend to me. Let the world know you are protected by His might.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>You have proven yourself a worthy friend to the Middle Kingdom, we accept your offer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>I understand now that you are a friend to my nation. Let us declare our friendship to the world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>I can't say no to that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>I will accept your friendship, but do not betray my trust.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Let it be known that your Empire is a friend to ours, and that we are joined together in friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Yes, this pleases us. Our two nations will surely benefit from our friendship.</Text>
+		</Row>
+
+		<!-- AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Kongo is not ready to accept your friendship. Let our relationship ripen first.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I apologize, but this would be too sudden a change. Perhaps another time?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Hah! I have counted Caesars and Pharaohs among my companions, what makes you think you are worthy?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>No, I cannot accept your friendship, for the good of the Empire.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>I am sorry, but I cannot enter into this agreement with you. Please understand, it is only for the best.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh is no friend to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sparta does not need your friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>No, not for all the treasure in Asgard.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>I must decline, in the best interests of the Shogunate and on behalf of the Emperor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>No, we will not be friends until you can prove it by deed, or convince us otherwise.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>I must decline.  An old friend is better than two new ones.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>No, I do not accept your offer. You are a sinner, and no friend of Spain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>You are not yet worthy of our friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Your offer is a generous and kind one, but we must humbly decline until we can be assured of your intentions.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>My friendship is not given lightly. You must earn my trust, first.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Rome must remain Rome: a friend to no one more than to herself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>It is too early to make such a commitment. We will reconsider when appropriate, naturally. You do understand?</Text>
+		</Row>
+	
+		<!-- AI Requests friendship from human -->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
+			<Text>Would you like to formally declare our friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>I extend my hand in friendship to you. Let our people be brothers and sisters under the Lord.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I extend to you the royal hand in friendship. Will you accept it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Many would kill for my friendship. It is a generous offer, but I offer it to you. What is your answer?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Again we extend our hand, but this time in friendship. Will you accept it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>I suppose leadership at one time meant violence; but today it means getting along with people. So… will you accept my friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>All of the world knows of my generosity to my friends. Let us then be friends, not enemies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>I hereby offer you Sparta’s friendship, will you accept?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>In all my travels I have never met someone as great as I am until I met you. Let us be friends, then.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>You are harmonious and wise. We offer you loyalty and honor, if you would accept us as your friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Would you like to formally declare our friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Let’s put our differences aside for a moment, shall we? Friendship is more important than petty politics.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>I am honored to extend to you my friendship, and a friendship between our nations. Do you accept?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>I believe you have seen the wisdom in the light of the Lord. Let us share in friendship his blessing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Please, allow us to return your friendship with ours.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>You have proven yourself a wise and just leader. Would you accept my offer of friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>You have earned my respect. Shall we declare our friendship?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Friendship is the most valuable thing between nations. Let us have it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Glorious Rome extends an offer of friendship. Do you accept?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>We are pleased to consider you an esteemed friend. We hope the feeling is mutual…</Text>
+		</Row>
+
+		<!-- Human accepts AI requests, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Wonderful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Thank you very much.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>How can I thank you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Thank you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Thank you, my friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Wonderful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>You have my gratitude.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>May the Lord bless you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>We are grateful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>May Allah bless you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>You have my thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Many thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>You have been most kind and attentive.</Text>
+		</Row>
+		
+		<!-- Human rejects AI requests, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>How unfortunate!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>That is such a shame.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Perhaps next time, then.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>An unfortunate turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Are you mad?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>A shame...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>A shame…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>That’s unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Stupid, stupid…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>That is unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Bad luck.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Mind what you say.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>That is too bad.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>You should reconsider.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>What a shame.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>How unfortunate.</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
+			<Text>Sorry, but we just can't commit to a formal friendship at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_POSITIVE">
+			<Text>We'd be happy to let the world know we stand united as friends.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

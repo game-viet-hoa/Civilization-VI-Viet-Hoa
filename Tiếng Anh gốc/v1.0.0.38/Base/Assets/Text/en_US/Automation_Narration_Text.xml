@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_AUTONARRATE_BUTTON_DONE">
+			<Text>Done</Text>
+		</Row>
+		
+		<Row Tag="LOC_AUTONARRATE_CITY_FOUNDED">
+			<Text>A city has been founded by {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
+			<Text>A wonder has been completed by {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
+			<Text>{1_CivName} has been defeated by {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
+			<Text>{1_CivName} has been defeated.</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
+			<Text>{1_CivName} has won the game!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
+			<Text>{1_CivName} has won the game by conquest!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
+			<Text>{1_CivName} has won a cultural victory!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
+			<Text>{1_CivName} has won a religious victory!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
+			<Text>{1_CivName} has won a scoring victory!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
+			<Text>{1_CivName} has won a science victory!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="LOC_AUTONARRATE_MAKE_PEACE">
+			<Text>{1_CivName} has made peace with {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_DECLARE_WAR">
+			<Text>{1_CivName} has declared war on {2_CivName}.</Text>
+		</Row>
+		<!-- Era Change -->
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
+			<Text>{1_CivName} has entered a new era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
+			<Text>{1_CivName} has entered the Ancient era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
+			<Text>{1_CivName} has entered the Classical era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
+			<Text>{1_CivName} has entered the Medieval era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
+			<Text>{1_CivName} has entered the Renaissance era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
+			<Text>{1_CivName} has entered the Industrial era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
+			<Text>{1_CivName} has entered the Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
+			<Text>{1_CivName} has entered the Atomic era.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
+			<Text>{1_CivName} has entered the Information era.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

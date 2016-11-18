@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Human Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY">
+			<Text>How dare you! All that you hold dear will turn to ash!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>We are no strangers to war. You have strayed from God’s path, and now we will correct it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>You dare attack my sovereign realm? I don't believe even Nostradamus could have predicted this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Hah! Osiris will be pleased to welcome my enemies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>I have defeated enemies ten times as powerful as you. You will be just one more for the historians.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>My attempts to avoid violence have failed.  An eye for an eye only makes the world blind.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>I will enjoy hearing your last breath when you witness the destruction of your people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>You must not know: Spartans only return with their shield, or on it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>This will make a great saga! The skalds will sing of my valor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>The Divine Wind will protect us and you will fall, like the others.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>You can see how fruitless this will be for you, no?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Soldiers are not like trees. When they are destroyed, they are not so easily replaced. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Your war is hopeless. You have not learned from history. Conquering Russia is impossible. He who lives by the sword, dies by the sword!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>You think your army can compare with my armada… with the might of my empire? You are grievously mistaken.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>You have asked for war and I will give it to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>I warn you against making a habit of shedding blood. Blood never sleeps.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>If I must choose between righteousness and peace, I choose righteousness.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>You have betrayed the trust of Tomyris and now you will pay!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Your hubris will be your end. No power can defeat Rome.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>War? We are not amused.</Text>
+		</Row>
+		<!-- AI Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY">
+			<Text>You have what I want, and I take what I want.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo— not to my people!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Masquerading as friends was kind of fun, wasn't it?  Unfortunately it's time to drop the pretense and get to the business at hand.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>I have had enough with you. May Amun-Re guide us!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Let it be known: you are an enemy of Germany and must be destroyed. May God have mercy on you, for I will not.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>I can engage in this war without sacrificing morals. Don’t ask me how; you wouldn’t understand.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Why do I fight? Because I can… because Inanna demands it. Now you will know the power of Sumer!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Now, we will test your strength! Prepare yourselves!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Now comes a storm you cannot escape. You can only hope for a quick death.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HOJO_ANY">
+			<Text>I will not allow the Empire to suffer you any longer. The time has come to end this charade!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>I have to do this, for the sake of progress if nothing else. You must be opposed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>This is for the greater good. You will understand… in time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>I hereby proclaim you an enemy to Russia, our allies, and God, may he have mercy on your soul.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>You have transgressed against my kingdom and the kingdom of God… you must answer for your sins.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY">
+			<Text>You are a seed of evil. You must be destroyed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>It is a shame that we must resort to violence, it is not the custom of kings to kill kings.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>I wanted to avoid this, you know, but your idea of peace left me no choice.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>The Empress calls for your head. You will be drowned in your own blood!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Prepare yourselves for war. Our armies will stop at nothing; our navies will swarm your shores, for the glory of Rome.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>As our protests are in vain we hereby declare war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_NEGATIVE">
+			<Text>You'll pay for this in time!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_POSITIVE">
+			<Text>That is too bad.  I thought we were friends.</Text>
+		</Row>
+		<!-- Reasons - specialized per war type -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_SURPRISE_WAR">
+			<Text>(Declares a Surprise War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_FORMAL_WAR">
+			<Text>(Declares a Formal War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_HOLY_WAR">
+			<Text>(Declares a Holy War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_RECONQUEST_WAR">
+			<Text>(Declares a Reconquest War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_LIBERATION_WAR">
+			<Text>(Declares a Liberation War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_PROTECTORATE_WAR">
+			<Text>(Declares a Protectorate War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_COLONIAL_WAR">
+			<Text>(Declares a Colonial War against you)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
+			<Text>(Declares a War of Territorial Expansion)</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

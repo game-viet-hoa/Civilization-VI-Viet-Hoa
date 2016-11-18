@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- UI -->
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
+			<Text>Activated Effect</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
+			<Text>Create Great Work</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
+			<Text>Found Religion</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
+			<Text>Retire</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_CHARGES">
+			<Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?Charge; other?Charges;}</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
+			<Text>Activate at a Holy Site district or Stonehenge.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
+			<Text>Activate at a district or wonder with an available Great Work slot.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
+			<Text>Activate on a tile that no player owns.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_DOES_NOT_NEED_OWNED_TILE">
+			<Text>May activate even on tiles you do not own.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OWNED_TILE">
+			<Text>Activate on a tile you own.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
+			<Text>Activate next to Barbarian units.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
+			<Text>Activate next to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_TO_OWNED_TILE">
+			<Text>Activate next to a tile that you own.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_GREAT_WORK_OBJECT">
+			<Text>Activate in a city with {LOC_GRAMMAR_A_AN_WITH_ICON &lt;&lt; {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}} great work.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_COMPLETED_DISTRICT">
+			<Text>Activate at a {1_DistrictName} district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_SPACE_RACE_PROJECT">
+			<Text>Activate on a Space Race project being constructed.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_WONDER">
+			<Text>Activate on a wonder being constructed.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT">
+			<Text>Activate on a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
+			<Text>Activate on a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
+			<Text>Activate on a military air unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
+			<Text>Activate on a tile with no military unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
+			<Text>Activate on or next to a tile with {1_FeatureName}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
+			<Text>Activate on or next to a natural wonder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION">
+			<Text>Activate on a military unit that is not a Corps or an Army.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION">
+			<Text>Activate on a Corps military unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
+			<Text>Activate on an Army military unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
+			<Text>Activate on a Luxury resource.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ANYWHERE">
+			<Text>Activate on any tile.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_OPEN_PLAYER_RELIC_SLOT">
+		  <Text>Must have an open [ICON_GreatWork_Relic] Relic great work slot in one of your cities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MISSING_BUILDING">
+		  <Text>City must not already have the {1_BuildingName} building.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_GOLD_COST">
+			<Text>Action costs {1_GoldAmount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
+			<Text>Founds a Religion, and establishes this city as a Holy City.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
+			<Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
+			<Text>Passive Effect</Text>
+		</Row>
+		<!-- Shared by Multiple Classes -->
+		<Row Tag="LOC_GREATPERSON_GOLD">
+			<Text>Gain {Amount} {YieldType} immediately.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Computers technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Modern era.</Text>
+		</Row>
+		<!-- Generals -->
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
+			<Text>+5 [ICON_Strength] Combat Bonus from Great General.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
+			<Text>+5 [ICON_Strength] Combat Bonus from Great Admiral.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Classical and Medieval era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Medieval and Renaissance era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Renaissance and Industrial era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Industrial and Modern era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Modern and Atomic era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Atomic and Information era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Information era land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
+			<Text>Converts adjacent Barbarian units to your control.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
+			<Text>Grants 1 promotion level to a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
+			<Text>Instantly creates a Knight unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EL_CID_ACTIVE">
+			<Text>Forms a Corps out of a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GENGHIS_KHAN_ACTIVE">
+			<Text>Grants 1 promotion level and +25% combat experience to a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
+			<Text>Instantly creates a Bombard unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
+			<Text>Creates a [ICON_GreatWork_Relic] Relic.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ANA_NZINGA_ACTIVE">
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_NAPOLEON_BONAPARTE_ACTIVE">
+			<Text>Forms an Army out of a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RANI_LAKSHMIBAI_ACTIVE">
+			<Text>Instantly creates a Cavalry unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOHN_MONASH_ACTIVE">
+			<Text>Grants 1 promotion level and +75% combat experience to a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
+			<Text>District in this tile gains +1 air unit slots.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
+			<Text>Instantly creates an Infantry unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DWIGHT_EISENHOWER_ACTIVE">
+			<Text>+5% [ICON_Production] Production towards military units.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GEORGY_ZHUKOV_ACTIVE">
+			<Text>+50% flanking bonus for all land units.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
+			<Text>Grants 1 promotion level and +100% combat experience to a military land unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
+			<Text>Instantly creates a Tank unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
+			<Text>Instantly creates a Modern Anti-Tank unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
+			<Text>Grants 1 promotion level and +100% combat experience to a military land unit.</Text>
+		</Row>
+		<!-- Admirals -->
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Classical and Medieval era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Medieval and Renaissance era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Renaissance and Industrial era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Industrial and Modern era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Modern and Atomic era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Atomic and Information era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
+			<Text>+5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement to Information era naval units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
+			<Text>Grants 1 promotion level to a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
+			<Text>Forms a Fleet out of a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
+			<Text>Instantly creates a Quadrireme unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
+			<Text>Allows all naval units to move over ocean tiles without the normal technology requirement.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
+			<Text>Gain 50 [ICON_Gold] Gold (on Standard speed). Military units get +40% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHENG_HE_ACTIVE">
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANCIS_DRAKE_ACTIVE">
+			<Text>Gain 75 [ICON_Gold] Gold (on Standard speed). Military units get +50% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
+			<Text>Forms an Armada out of a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
+			<Text>Instantly creates an Ironclad unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHING_SHIH_ACTIVE">
+			<Text>Gain 100 [ICON_Gold] Gold (on Standard speed). Military units get +60% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
+			<Text>+50% flanking bonus for all naval units.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
+			<Text>Grants 1 promotion level and +50% combat experience to a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
+			<Text>Instantly creates a Battleship unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE">
+			<Text>Accumulate 25% less war weariness than usual.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
+			<Text>Grants 1 promotion level and +75% combat experience to a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
+			<Text>+20% [ICON_Production] Production towards units of the Naval Raider promotion class.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRACE_HOPPER_ACTIVE">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Atomic or Information era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
+			<Text>Grants 1 promotion level and +100% combat experience to a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
+			<Text>Grants 1 promotion level and +200% combat experience to a military naval unit.</Text>
+		</Row>
+		<!-- Engineers -->
+		<Row Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
+			<Text>Lets this city build one more district than the population limit allows.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Printing technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JAMES_OF_ST_GEORGE_ACTIVE">
+			<Text>Instantly builds Ancient and Medieval Walls in this city, and provides enough [ICON_Gold] Gold per turn to pay their maintenance.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_RENAISSANCE">
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WORKSHOP_CULTURE">
+			<Text>Workshops provide +{Amount} [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_SMALL">
+			<Text>+{Amount} [ICON_Housing] Housing for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_SMALL">
+			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?Amenity; other?Amenities;} for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INDUSTRIAL">
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
+			<Text>Instantly builds a Factory and Workshop in this district. Factories provide +2 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
+			<Text>This city provides +{Amount} Appeal to any tiles it owns.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
+			<Text>This district's regional buildings reach {Amount} {Amount : plural 1?tile; other?tiles;} farther.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
+			<Text>This district's regional buildings provide +{Amount} [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
+			<Text>+{Amount}% [ICON_Production] Production towards Space Race projects.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Rocketry technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
+			<Text>+{Amount} [ICON_Housing] Housing for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_LARGE">
+			<Text>+{Amount} [ICON_Housing] Housing for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_LARGE">
+			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?Amenity; other?Amenities;} for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE">
+			<Text>Grants {Amount} [ICON_Production] Production towards Space Race project construction.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
+			<Text>This city provides +{Amount} Appeal to any tiles it owns.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
+			<Text>This district's regional buildings provide +{Amount} [ICON_Amenities] {Amount : plural 1?Amenity; other?Amenities;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
+			<Text>Grants {Amount} [ICON_Production] Production towards wonder construction.</Text>
+		</Row>
+		<!-- Merchants -->
+		<Row Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
+			<Text>Grants {Amount} free {Amount : plural 1?copy; other?copies;} of the Luxury resource on this tile to your [ICON_Capital] Capital city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FAITH_SMALL">
+			<Text>Gain {Amount} [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PLOT">
+			<Text>Your nearest city annexes this tile into its territory.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_TINY">
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
+			<Text>Increases [ICON_TradeRoute] Trade Route capacity by 1. Foreign [ICON_TradeRoute] Trade Routes to this city provide +2 [ICON_Gold] Gold to both cities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARCO_POLO_ACTIVE">
+			<Text>Grants a free Trader unit in this city, and increases [ICON_TradeRoute] Trade Route capacity by 1. Foreign [ICON_TradeRoute] Trade Routes to this city provide +2 [ICON_Gold] Gold to both cities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_TO_INCOMING_FOREIGN_ROUTES">
+			<Text>This city provides +{Amount} [ICON_Gold] Gold to foreign [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_FROM_INCOMING_FOREIGN_ROUTES">
+			<Text>This city receives +{Amount} [ICON_Gold] Gold from foreign [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FREE_TRADER_UNIT">
+			<Text>Gain a free Trader unit in this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_TRADE_ROUTE_CAPACITY">
+			<Text>Increases [ICON_TradeRoute] Trade Route capacity by {Amount}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_SMALL">
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
+			<Text>Instantly builds a Bank and Market in this district. The Bank gets 2 Great Work slots, which can hold anything.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARKET">
+			<Text>Instantly builds a Market in this district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BANK">
+			<Text>Instantly builds a Bank in this district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
+			<Text>This Bank gets {Amount} Great Work slots to hold anything except [ICON_GreatWork_Relic] Relics.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_MEDIUM">
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_MEDIUM">
+			<Text>Gain {Amount} [ICON_Envoy] {Amount : plural 1?Envoy; other?Envoys;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
+			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities gain +{Amount} [ICON_Gold] Gold for each specialty district at the destination.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
+			<Text>+1 Economic policy slot in any government.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_JEANS">
+			<Text>Grants {Amount} [ICON_RESOURCE_JEANS] Jeans, a uniquely manufactured Luxury resource which provides +4 [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_LARGE">
+			<Text>Gain {Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PERFUME">
+			<Text>Grants {Amount} [ICON_RESOURCE_PERFUME] Perfume, a uniquely manufactured Luxury resource which provides +6 [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
+			<Text>Grants 1 [ICON_RESOURCE_OIL] Oil, a Strategic resource. Your [ICON_TradeRoute] Trade Routes gain +2 [ICON_Gold] Gold for each Strategic resource improved by the destination city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_OIL">
+			<Text>Grants {Amount} [ICON_RESOURCE_OIL] Oil, a Strategic resource.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
+			<Text>Your [ICON_TradeRoute] Trade Routes gain +{Amount} [ICON_Gold] Gold for each Strategic resource improved by the destination city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
+			<Text>+{Amount}% [ICON_Tourism] Tourism rate towards other civilizations you have a [ICON_TradeRoute] Trade Route to.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_COSMETICS">
+			<Text>Grants {Amount} [ICON_RESOURCE_COSMETICS] Cosmetics, a uniquely manufactured Luxury resource which provides +4 [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
+			<Text>+{Amount} {Amount : plural 1?level; other?levels;} of diplomatic visibility with all other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_TOYS">
+			<Text>Grants {Amount} [ICON_RESOURCE_TOYS] Toys, a uniquely manufactured Luxury resource which provides +4 [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
+			<Text>Industrial Zone districts provide +{Amount} [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
+			<Text>Campus districts provide +{Amount} [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<!-- Scientists -->
+		<Row Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Classical or Medieval era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for Mathematics and 1 random technology from the Medieval era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Medieval era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MATHTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Mathematics technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARY">
+			<Text>Instantly builds a Library in this district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARY_FREE_MAINTENANCE">
+			<Text>+{Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITY">
+			<Text>Instantly builds a University in this district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITY_FREE_MAINTENANCE">
+			<Text>+{Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Medieval or Renaissance era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
+			<Text>This Holy Site district's [ICON_Faith] Faith adjacency bonus provides [ICON_Science] Science as well.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FAITH">
+			<Text>Gain {Amount} [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for 2 random technologies and the [ICON_CivicBoosted] Inspiration moment for 1 random civic from the Medieval or Renaissance era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Medieval or Renaissance era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
+			<Text>Triggers the [ICON_CivicBoosted] Inspiration moment for {Amount} random {Amount : plural 1?civic; other?civics;} from the Medieval or Renaissance era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
+			<Text>Gain 250 [ICON_Science] Science (on Standard speed) for each adjacent Mountain tile.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB">
+			<Text>Instantly builds a Research Lab in this district.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
+			<Text>+{Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
+			<Text>Instantly builds a University and Library in this district. Universities provide +2 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Renaissance or Industrial era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
+			<Text>Applies {Amount} free [ICON_GreatPerson] Great People points towards recruiting all current and future Great People.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
+			<Text>Gain 500 [ICON_Science] Science (on Standard speed) for each natural wonder tile here or adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for Chemistry and 1 random technology from the Industrial era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for Computers and 1 random technology from the Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Industrial era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for the Chemistry technology.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
+			<Text>Libraries provide +{Amount} [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_SMALL_SCIENCE">
+			<Text>Universities provide +{Amount} [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_BIG_SCIENCE">
+			<Text>Universities provide +{Amount} [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Modern or Atomic era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_REVEAL_OIL">
+			<Text>Reveals [ICON_RESOURCE_OIL] Oil without the normal technology requirement.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Industrial or Modern era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
+			<Text>Gain {Amount} [ICON_Science] Science for each Rainforest tile here or adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTIFACT_TOURISM_MODIFIER">
+			<Text>[ICON_GreatWork_Artifact] Artifacts in all your cities generate {ScalingFactor}% of their normal [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTIFACT_SCIENCE">
+			<Text>Gain {Amount} [ICON_Science] Science for every [ICON_GreatWork_Artifact] Artifact in this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Atomic or Information era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for all technologies from the Information era.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
+			<Text>Grants {Amount} [ICON_Production] Production towards Space Race project construction.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE">
+			<Text>+{Amount}% [ICON_Production] Production towards Space Race projects.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ABU_AL_QASIM_AL_ZAHRAWI_ACTIVE">
+			<Text>Wounded units can heal +5 HP each turn.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

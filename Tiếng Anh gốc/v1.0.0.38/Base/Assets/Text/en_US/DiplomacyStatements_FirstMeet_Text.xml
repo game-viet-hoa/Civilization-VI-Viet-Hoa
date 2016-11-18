@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- First AI line -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY">
+			<Text>I am Mvemba a Nzinga and I greet you as a friend. I can see you are blessed by God. Are you here to share your enlightenment?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I am Catherine, the Queen Mother of France, and I welcome you to the realm. I do so look forward to learning all there is to know about you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY">
+			<Text>I am Isis reborn, I am the living Nile. I am Cleopatra and an ally, if you are worthy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY">
+			<Text>Greetings. I am the Holy Roman Emperor Frederick, King of Germany, Italy, Burgundy, and many others. I trust that you will rule your lands as I do:  through might.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY">
+			<Text>Hello, I am Mohandas Gandhi. My people call me Bapu, but please, call me friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY">
+			<Text>I am Gilgamesh of Sumeria and King of Uruk. Do not be afraid… I am good to my friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY">
+			<Text>I am Gorgo, Queen of Sparta and leader of the Greeks. Who are you? What victories can you speak of?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
+			<Text>Harald Sigurdsson stands before you: a Viking unlike any the seas and lands have ever known. Hah, are you afraid?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
+			<Text>Hello, I am Hojo Tokimune of Japan, a humble disciple of Bushido.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY">
+			<Text>Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
+			<Text>Hello, I am Pericles of Athens and I greet you on behalf of the Democracy. I trust you’ll let me conduct my business with these neutral parties?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
+			<Text>Hello, I am Tsar Peter. So, a cultured leader such as yourself must enjoy the finer things in life. Are you fond of art as well?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY">
+			<Text>I am the King of Spain, Portugal, Sardinia and Sicily, Naples, Duke of Milan, etc., but most importantly, I am a devout follower of the one, true religion. I hope for your sake you are as well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY">
+			<Text>Why do you come before the Immortal Son of Heaven, the Great Qin Shi Huang?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY">
+			<Text>By the grace of the one God, the powerful, the victorious, the everlasting of whose Kingdom there is no end, I greet you, my sincere friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY">
+			<Text>Welcome to the United States of America. If you conduct yourself well, you can consider us friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY">
+			<Text>Let it be known between us: I will repay treachery with blood!  But, if you are a true friend, we will have peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
+			<Text>Hail, stranger. I am the Imperator Caesar Trajan of far-reaching Rome. Who are you and what lands can you claim as your own?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
+			<Text>Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
+			<Text>Greetings traveller. You should know that you stand in the presence of greatness!</Text>
+		</Row>
+		<!-- Human Responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_POSITIVE">
+			<Text>It is an honor to meet you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY">
+			<Text>Well met stranger, but I'm afraid we are too busy to stay and chat.</Text>
+		</Row>
+		<!-- AI invitation to visit nearby City -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
+			<Text>Before we continue, come worship with me at our nearby city. Then we can enjoy a meal of chicken moambé.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>You have not lived until you have had our delicacies of food and drink. And I can show you how to use a fork, if you wish.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
+			<Text>We have a city nearby. Would you like to visit? I'd like to introduce you to our boardgame, Senet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
+			<Text>As the Holy Roman Emperor, I welcome you to our land. If you wish, you can see some of its glory in the nearest city. Unless, of course, they are rebelling again. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
+			<Text>Come to our nearest city. We can listen to the wisdom of Vedic poetry, and perhaps learn something.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
+			<Text>The glory of Sumer is yours to see, if you wish: an ancient tradition of arts and sciences, Ziggurats too great to behold!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
+			<Text>We have a city nearby. Would you like to visit and sample our hearty black broth?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
+			<Text>Tell me, friend: would you like to visit our nearby city? It is no Bilskirnir, but it is nice.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
+			<Text>I would be honored if you joined me for the ōban in our nearby city. You do like jellyfish aemono, yes?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
+			<Text>Come to Brasil! Do you know how to dance samba? It doesn’t matter, you will enjoy the Carnival regardless.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
+			<Text>Would you care to visit our nearby metropolis? We could debate politics before enjoying the theatre.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
+			<Text>Come, let me show you my nearby city. Afterwards we can attend a ball at a beautiful dacha in the countryside.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PHILIP_II_ANY">
+			<Text>Would you like to see a bullfight? There is no spectacle like it. Come to my nearby city and see for yourself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
+			<Text>We have a city nearby. Would you like to visit? Our sculptors are getting quite good at working in terracotta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
+			<Text>I am honored to offer you the hospitality of our cities: the finest arts, the most delectable feasts, and the melodious adhan heard throughout. Would you care to visit?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
+			<Text>We have a city nearby. Would you like to visit? I could show you the stuffed bears that are now so popular.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY">
+			<Text>We have a city nearby. Would you like to visit? We could fit you for one of our pointy hats.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
+			<Text>The Empire, of course, has a city nearby. Will you come, see, and be conquered by its beauty?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
+			<Text>It is our distinct privilege to extend to you an invitation to visit the realm, which I imagine is rather simple due to our many colonies, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
+			<Text>We have a city nearby. Would you like to visit? You could attend our upcoming celebration.</Text>
+		</Row>
+		<!-- Human Responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
+			<Text>We would love to sample your hospitality.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT">
+			<Text>Sorry but not at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_POSITIVE">
+			<Text>Would you like to visit our nearby city and sample our hospitality?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY">
+			<Text>Thanks for the introduction, but we have no time for further pleasantries.</Text>
+		</Row>
+		<!-- AI accepts Human invitation -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
+			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
+			<Text>Yes, yes. This is good for us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
+			<Text>Yes, we accept.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
+			<Text>Thank you, my friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
+			<Text>Thank you, friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
+			<Text>Yes. You have my gratitude.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
+			<Text>On behalf of the people, yes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
+			<Text>Yes, good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
+			<Text>May the Lord bless you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
+			<Text>This is acceptable.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
+			<Text>A fruitful offer. May Allah bless you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
+			<Text>I can't say no to that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
+			<Text>Very good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
+			<Text>It is acceptable.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
+			<Text>We find this agreeable.</Text>
+		</Row>
+		<!-- Human responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
+			<Text>It is an honor to meet you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE">
+			<Text>Well met stranger, but I'm afraid we are too busy to stay and chat.</Text>
+		</Row>
+		<!-- AI invitation to exchange Capital Information -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
+			<Text>Neither of us hails from nearby, but perhaps we should mark our homelands on each other's maps?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
+			<Text>Let us exchange information as we exchange wisdom. Tell me of your capital. Is it a holy city?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I am enamored with architecture. Tell me, does your capital have any triumphant arches, or large metal towers?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
+			<Text>Alexandria is the home of Pharaohs, my home. I can tell you more if you tell me of your capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
+			<Text>I will show you our great capital if you tell me how yours can possibly compare to Germany’s seat of power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
+			<Text>I enjoy travel, perhaps I will one day visit your capital. Is it far? Would you tell me about it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
+			<Text>None may pass the walls of Uruk without my permission, but I will tell you of it, if you tell me of your capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
+			<Text>What is your capital like? Tell me, and I will tell you of Sparta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
+			<Text>I have travelled far and wide, but I have never seen your capital. Tell me of it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
+			<Text>I would like to exchange information about our capitals. Ours is as the Pure Land. What is yours like?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
+			<Text>Let us exchange diplomatic courtesies. Tell me of your capital, and I will tell you of mine.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
+			<Text>Athens is a glorious metropolis. What is your capital like? Come, let’s exchange information.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
+			<Text>Would you like to exchange information of our capitals? Mine is a beacon of progress, but I do not know yours.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
+			<Text>Would you like to hear of my capital? Madrid is the most beautiful of cities. Is your capital beautiful as well?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
+			<Text>You have seen some of our magnificence. Is your capital even half as grand as ours?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
+			<Text>Come, let us exchange information about our capitals. I invite you to tell me of your people, and I am happy to tell you of mine.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
+			<Text>I’d like to exchange information about our capitals; promote free trade between our nations, and all that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
+			<Text>Yes, my people are nomadic, but we still have a magnificent capital. And you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
+			<Text>Tell me of your capital. Was it founded by lost Trojans? Or children raised by wolves?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
+			<Text>In the interest of our political relationship, we would like to know more about your capital… in exchange for information on ours, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
+			<Text>Exchanging information on our capitals is a great idea. It should help promote trade.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_INFO">
+			<Text>Sorry, we can't give away that information right now.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

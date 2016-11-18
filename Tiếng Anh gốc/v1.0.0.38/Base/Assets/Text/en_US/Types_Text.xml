@@ -1,0 +1,2961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Types -->
+    <Row Tag="LOC_BELIEF_NAME">
+      <Text>Belief</Text>
+    </Row>
+		<Row Tag="LOC_BUILDING_NAME">
+			<Text>Building</Text>
+		</Row>
+    <Row Tag="LOC_BUILDING_NAME_REPLACES">
+      <Text>Building (replaces {1_BuildingName})</Text>
+    </Row>
+		<Row Tag="LOC_CIVIC_NAME">
+			<Text>Civic</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NAME">
+			<Text>District</Text>
+		</Row>
+    <Row Tag="LOC_DISTRICT_NAME_REPLACES">
+      <Text>District (replaces {1_DistrictName})</Text>
+    </Row>
+		<Row Tag="LOC_ERA_NAME">
+			<Text>Era</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_NAME">
+			<Text>Government</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_NAME">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAME">
+			<Text>Policy</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_NAME">
+			<Text>Project</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_NAME">
+			<Text>Resource</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_NAME">
+			<Text>Route</Text>
+		</Row>
+		<Row Tag="LOC_TECHNOLOGY_NAME">
+			<Text>Technology</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NAME">
+			<Text>Unit</Text>
+		</Row>
+    <Row Tag="LOC_UNIT_NAME_REPLACES">
+      <Text>Unit (replaces {1_UnitName})</Text>
+    </Row>
+		<Row Tag="LOC_WONDER_NAME">
+			<Text>Wonder</Text>
+		</Row>
+    <Row Tag="LOC_WONDER_NAME_REPLACES">
+      <Text>Wonder (replaces {1_WonderName})</Text>
+    </Row>
+		<Row Tag="LOC_NATURAL_WONDER_NAME">
+			<Text>Natural Wonder</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="LOC_BUILDING_AIRPORT_NAME">
+			<Text>Airport</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_ALHAMBRA_NAME">
+			<Text>Alhambra</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_AMPHITHEATER_NAME">
+			<Text>Amphitheater</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARENA_NAME">
+			<Text>Arena</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_NAME">
+			<Text>Armory</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_BANK_NAME">
+			<Text>Bank</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_NAME">
+			<Text>Barracks</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_NAME">
+			<Text>Big Ben</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_NAME">
+			<Text>Bolshoi Theatre</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADCAST_CENTER_NAME">
+			<Text>Broadcast Center</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_NAME">
+			<Text>Broadway</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_BUILDINGS">
+			<Text>Buildings</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_NAME">
+			<Text>Medieval Walls</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CATHEDRAL_NAME">
+			<Text>Cathedral</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_NAME">
+			<Text>Chichen Itza</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_NAME">
+			<Text>Colosseum</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_NAME">
+			<Text>Colossus</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_NAME">
+			<Text>Cristo Redentor</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
+			<Text>Eiffel Tower</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_NAME">
+			<Text>Electronics Factory</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_NAME">
+			<Text>Estádio do Maracanã</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_NAME">
+			<Text>Factory</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_NAME">
+			<Text>Film Studio</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_NAME">
+			<Text>Forbidden City</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GRANARY_NAME">
+			<Text>Granary</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_NAME">
+			<Text>Great Library</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_NAME">
+			<Text>Great Lighthouse</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_NAME">
+			<Text>Great Zimbabwe</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GURDWARA_NAME">
+			<Text>Gurdwara</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_NAME">
+			<Text>Hagia Sophia</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_NAME">
+			<Text>Hangar</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_NAME">
+			<Text>Hanging Gardens</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_NAME">
+			<Text>Hermitage</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LARGE_ROCKET_NAME">
+			<Text>Large Rocket</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIBRARY_NAME">
+			<Text>Library</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_NAME">
+			<Text>Lighthouse</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MADRASA_NAME">
+			<Text>Madrasa</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_NAME">
+			<Text>Mahabodhi Temple</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MARKET_NAME">
+			<Text>Market</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEDIUM_ROCKET_NAME">
+			<Text>Medium Rocket</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEETING_HOUSE_NAME">
+			<Text>Meeting House</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_NAME">
+			<Text>Military Academy</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_NAME">
+			<Text>Mont St. Michel</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONUMENT_NAME">
+			<Text>Monument</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MOSQUE_NAME">
+			<Text>Mosque</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ART_NAME">
+			<Text>Art Museum</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ARTIFACT_NAME">
+			<Text>Archaeological Museum</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_OBSERVATORY">
+			<Text>Observatory</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_NAME">
+			<Text>Oracle</Text>
+      <Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_NAME">
+			<Text>Oxford University</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PAGODA_NAME">
+			<Text>Pagoda</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PALACE_NAME">
+			<Text>Palace</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_NAME">
+			<Text>Petra</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_NAME">
+			<Text>Potala Palace</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_NAME">
+			<Text>Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_NAME">
+			<Text>Pyramids</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_RESEARCH_LAB_NAME">
+			<Text>Research Lab</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_NAME">
+			<Text>Ruhr Valley</Text>
+      <Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_SEAPORT_NAME">
+			<Text>Seaport</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SEWER_NAME">
+			<Text>Sewer</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_NAME">
+			<Text>Shipyard</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_NAME">
+			<Text>Shrine</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SMALL_ROCKET_NAME">
+			<Text>Small Rocket</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_NAME">
+			<Text>Stable</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_NAME">
+			<Text>Stadium</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_NAME">
+			<Text>Renaissance Walls</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_NAME">
+			<Text>Stave Church</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STOCK_EXCHANGE_NAME">
+			<Text>Stock Exchange</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_NAME">
+			<Text>Stonehenge</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_NAME">
+			<Text>Sydney Opera House</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYNAGOGUE_NAME">
+			<Text>Synagogue</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_NAME">
+			<Text>Temple</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_NAME">
+			<Text>Terracotta Army</Text>
+      <Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_UNIVERSITY_NAME">
+			<Text>University</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_NAME">
+			<Text>Venetian Arsenal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WALLS_NAME">
+			<Text>Ancient Walls</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WAT_NAME">
+			<Text>Wat</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WATER_MILL_NAME">
+			<Text>Water Mill</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WORKSHOP_NAME">
+			<Text>Workshop</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_NAME">
+			<Text>Zoo</Text>
+		</Row>
+		<!--Civics -->
+		<Row Tag="LOC_CIVIC_CODE_OF_LAWS_NAME">
+			<Text>Code of Laws</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CRAFTSMANSHIP_NAME">
+			<Text>Craftsmanship</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_NAME">
+			<Text>Foreign Trade</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_NAME">
+			<Text>Military Tradition</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATE_WORKFORCE_NAME">
+			<Text>State Workforce</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_NAME">
+			<Text>Early Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_NAME">
+			<Text>Mysticism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMES_RECREATION_NAME">
+			<Text>Games and Recreation</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_NAME">
+			<Text>Political Philosophy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DRAMA_POETRY_NAME">
+			<Text>Drama and Poetry</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_NAME">
+			<Text>Military Training</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DEFENSIVE_TACTICS_NAME">
+			<Text>Defensive Tactics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RECORDED_HISTORY_NAME">
+			<Text>Recorded History</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_NAME">
+			<Text>Theology</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_NAME">
+			<Text>Naval Tradition</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_NAME">
+			<Text>Feudalism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_NAME">
+			<Text>Civil Service</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_NAME">
+			<Text>Mercenaries</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MEDIEVAL_FAIRES_NAME">
+			<Text>Medieval Faires</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GUILDS_NAME">
+			<Text>Guilds</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_NAME">
+			<Text>Divine Right</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_NAME">
+			<Text>Exploration</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HUMANISM_NAME">
+			<Text>Humanism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_NAME">
+			<Text>Diplomatic Service</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMED_CHURCH_NAME">
+			<Text>Reformed Church</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_NAME">
+			<Text>Mercantilism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_NAME">
+			<Text>The Enlightenment</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_NAME">
+			<Text>Colonialism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_NAME">
+			<Text>Civil Engineering</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_NAME">
+			<Text>Nationalism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_NAME">
+			<Text>Opera and Ballet</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_NAME">
+			<Text>Natural History</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_URBANIZATION_NAME">
+			<Text>Urbanization</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_NAME">
+			<Text>Scorched Earth</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_NAME">
+			<Text>Conservation</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MASS_MEDIA_NAME">
+			<Text>Mass Media</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_NAME">
+			<Text>Mobilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CAPITALISM_NAME">
+			<Text>Capitalism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_NAME">
+			<Text> Nuclear Program</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_NAME">
+			<Text>Ideology</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SUFFRAGE_NAME">
+			<Text>Suffrage</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TOTALITARIANISM_NAME">
+			<Text>Totalitarianism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CLASS_STRUGGLE_NAME">
+			<Text>Class Struggle</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_NAME">
+			<Text>Cold War</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_NAME">
+			<Text>Professional Sports</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_NAME">
+			<Text>Cultural Heritage</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_NAME">
+			<Text>Rapid Deployment</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SPACE_RACE_NAME">
+			<Text>Space Race</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_NAME">
+			<Text>Social Media</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_NAME">
+			<Text>Globalization</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_CIVILIZATION_AMERICA_NAME">
+			<Text>America</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARABIA_NAME">
+			<Text>Arabia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
+			<Text>Barbarians</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRAZIL_NAME">
+			<Text>Brazil</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINA_NAME">
+			<Text>China</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EGYPT_NAME">
+			<Text>Egypt</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENGLAND_NAME">
+			<Text>England</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FRANCE_NAME">
+			<Text>France</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GERMANY_NAME">
+			<Text>Germany</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GREECE_NAME">
+			<Text>Greece</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDIA_NAME">
+			<Text>India</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAPAN_NAME">
+			<Text>Japan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KONGO_NAME">
+			<Text>Kongo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NORWAY_NAME">
+			<Text>Norway</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ROME_NAME">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RUSSIA_NAME">
+			<Text>Russia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCYTHIA_NAME">
+			<Text>Scythia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SPAIN_NAME">
+			<Text>Spain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SUMERIA_NAME">
+			<Text>Sumeria</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_NAME">
+			<Text>Amsterdam</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRUSSELS_NAME">
+			<Text>Brussels</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_NAME">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARTHAGE_NAME">
+			<Text>Carthage</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GENEVA_NAME">
+			<Text>Geneva</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HATTUSA_NAME">
+			<Text>Hattusa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HONG_KONG_NAME">
+			<Text>Hong Kong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAKARTA_NAME">
+			<Text>Jakarta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JERUSALEM_NAME">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KABUL_NAME">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KANDY_NAME">
+			<Text>Kandy</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KUMASI_NAME">
+			<Text>Kumasi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LA_VENTA_NAME">
+			<Text>La Venta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LISBON_NAME">
+			<Text>Lisbon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_NAME">
+			<Text>Mohenjo-Daro</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRESLAV_NAME">
+			<Text>Preslav</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAN_MADOL_NAME">
+			<Text>Nan Madol</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SEOUL_NAME">
+			<Text>Seoul</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_STOCKHOLM_NAME">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TORONTO_NAME">
+			<Text>Toronto</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VALLETTA_NAME">
+			<Text>Valletta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VILNIUS_NAME">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YEREVAN_NAME">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANZIBAR_NAME">
+			<Text>Zanzibar</Text>
+		</Row>
+		<!--Continents-->
+		<Row Tag="LOC_CONTINENT_AFRICA_DESCRIPTION">
+			<Text>Africa</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_AMASIA_DESCRIPTION">
+			<Text>Amasia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_AMERICA_DESCRIPTION">
+			<Text>America</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ANTARCTICA_DESCRIPTION">
+			<Text>Antarctica</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ARCTICA_DESCRIPTION">
+			<Text>Arctica</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ASIA_DESCRIPTION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ASIAMERICA_DESCRIPTION">
+			<Text>Asiamerica</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ATLANTICA_DESCRIPTION">
+			<Text>Atlantica</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ATLANTIS_DESCRIPTION">
+			<Text>Atlantis</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_AUSTRALIA_DESCRIPTION">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_AVALONIA_DESCRIPTION">
+			<Text>Avalonia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_AZANIA_DESCRIPTION">
+			<Text>Azania</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_BALTICA_DESCRIPTION">
+			<Text>Baltica</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_CIMMERIA_DESCRIPTION">
+			<Text>Cimmeria</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_COLUMBIA_DESCRIPTION">
+			<Text>Columbia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_CONGO_CRATON_DESCRIPTION">
+			<Text>Congo Craton</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_EURAMERICA_DESCRIPTION">
+			<Text>Euramerica</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_EUROPE_DESCRIPTION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_GONDWANA_DESCRIPTION">
+			<Text>Gondwana</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KALAHARIA_DESCRIPTION">
+			<Text>Kalaharia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KAZAKHSTANIA_DESCRIPTION">
+			<Text>Kazakhstania</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KERNORLAND_DESCRIPTION">
+			<Text>Kernorland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_KUMARI_KANDAM_DESCRIPTION">
+			<Text>Kumari Kandam</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LAURASIA_DESCRIPTION">
+			<Text>Laurasia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LAURENTIA_DESCRIPTION">
+			<Text>Laurentia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_LEMURIA_DESCRIPTION">
+			<Text>Lemuria</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_MU_DESCRIPTION">
+			<Text>Mu</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_NENA_DESCRIPTION">
+			<Text>Nena</Text>
+		</Row>
+    		<Row Tag="LOC_CONTINENT_NORTH_AMERICA_DESCRIPTION">
+      			<Text>North America</Text>
+   		</Row>
+		<Row Tag="LOC_CONTINENT_NOVOPANGAEA_DESCRIPTION">
+			<Text>Novopangaea</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_NUNA_DESCRIPTION">
+			<Text>Nuna</Text>
+		</Row>
+   		<Row Tag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
+      			<Text>Oceania</Text>
+    		</Row>
+		<Row Tag="LOC_CONTINENT_PANGAEA_DESCRIPTION">
+			<Text>Pangaea</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_PANGAEA_ULTIMA_DESCRIPTION">
+			<Text>Pangaea Ultima</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_PANNOTIA_DESCRIPTION">
+			<Text>Pannotia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_RODINIA_DESCRIPTION">
+			<Text>Rodinia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SIBERIA_DESCRIPTION">
+			<Text>Siberia</Text>
+		</Row>
+    		<Row Tag="LOC_CONTINENT_SOUTH_AMERICA_DESCRIPTION">
+      			<Text>South America</Text>
+    		</Row>
+		<Row Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
+			<Text>Terra Australis</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_UR_DESCRIPTION">
+			<Text>Ur</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_VAALBARA_DESCRIPTION">
+			<Text>Vaalbara</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_VENDIAN_DESCRIPTION">
+			<Text>Vendian</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_ZEALANDIA_DESCRIPTION">
+			<Text>Zealandia</Text>
+		</Row>
+		<!--Diplomatic States-->
+		<Row Tag="LOC_DIPLO_STATE_ALLIED_NAME">
+			<Text>Allied</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_DECLARED_FRIEND_NAME">
+			<Text>Declared Friend</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_FRIENDLY_NAME">
+			<Text>Friendly</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_NEUTRAL_NAME">
+			<Text>Neutral</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_UNFRIENDLY_NAME">
+			<Text>Unfriendly</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_DENOUNCED_NAME">
+			<Text>Denounced</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_WAR_NAME">
+			<Text>At War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_NO_INFLUENCE_NAME">
+			<Text>Without Influence</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_INFLUENTIAL_NAME">
+			<Text>Some Influence</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_MAX_INFLUENCE_NAME">
+			<Text>Max Influence</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_WAR_WITH_MINOR_NAME">
+			<Text>At war</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_AWARE_NAME">
+			<Text>We know who they are</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_PATRON_NAME">
+			<Text>They have some influence</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_PROTECTOR_NAME">
+			<Text>They are our protectors</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_WAR_WITH_MAJOR_NAME">
+			<Text>At war</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_MINOR_MINOR_NAME">
+			<Text>I've seen you</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_STATE_MINOR_MINOR_WAR_NAME">
+			<Text>Minor civilizations at war</Text>
+		</Row>
+		<!-- Districts -->
+		<Row Tag="LOC_DISTRICT_AERODROME_NAME">
+			<Text>Aerodrome</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_NAME">
+			<Text>Campus</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CITY_CENTER_NAME">
+			<Text>City Center</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_NAME">
+			<Text>Commercial Hub</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_NAME">
+			<Text>Encampment</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_NAME">
+			<Text>Entertainment Complex</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_NAME">
+			<Text>Harbor</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_NAME">
+			<Text>Holy Site</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_NAME">
+			<Text>Theater Square</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_NAME">
+			<Text>Industrial Zone</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NEIGHBORHOOD_NAME">
+			<Text>Neighborhood</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_NAME">
+			<Text>Aqueduct</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SPACEPORT_NAME">
+			<Text>Spaceport</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_NAME">
+			<Text>Acropolis</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BATH_NAME">
+			<Text>Bath</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_NAME">
+			<Text>Hansa</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LAVRA_NAME">
+			<Text>Lavra</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MBANZA_NAME">
+			<Text>Mbanza</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_NAME">
+			<Text>Street Carnival</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>Royal Navy Dockyard</Text>
+		</Row>
+		<!-- Eras-->
+		<Row Tag="LOC_ERA_ANCIENT_NAME">
+			<Text>Ancient Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_CLASSICAL_NAME">
+			<Text>Classical Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MEDIEVAL_NAME">
+			<Text>Medieval Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_RENAISSANCE_NAME">
+			<Text>Renaissance Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INDUSTRIAL_NAME">
+			<Text>Industrial Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MODERN_NAME">
+			<Text>Modern Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ATOMIC_NAME">
+			<Text>Atomic Era</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INFORMATION_NAME">
+			<Text>Information Era</Text>
+		</Row>
+		<!--Game Speeds-->
+		<Row Tag="LOC_GAME_SPEED">
+			<Text>Game Speed</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_MARATHON_NAME">
+			<Text>Marathon</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_EPIC_NAME">
+			<Text>Epic</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_QUICK_NAME">
+			<Text>Quick</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_ONLINE_NAME">
+			<Text>Online</Text>
+		</Row>
+		<!-- Map Scripts -->
+		<Row Tag="LOC_MAP_CONTINENTS">
+			<Text>Continents</Text>
+		</Row>
+		<Row Tag="LOC_MAP_FRACTAL">
+			<Text>Fractal</Text>
+		</Row>
+		<Row Tag="LOC_MAP_INLANDSEA">
+			<Text>Inland Sea</Text>
+		</Row>
+		<Row Tag="LOC_MAP_ISLAND_PLATES">
+			<Text>Island Plates</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PANGAEA">
+			<Text>Pangaea</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SHUFFLE">
+			<Text>Shuffle</Text>
+		</Row>
+		<!-- Map Sizes -->
+		<Row Tag="LOC_MAP_SIZE">
+			<Text>Map Size</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_DUEL_NAME">
+			<Text>Duel</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_TINY_NAME">
+			<Text>Tiny</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_SMALL_NAME">
+			<Text>Small</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_STANDARD_NAME">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_LARGE_NAME">
+			<Text>Large</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_HUGE_NAME">
+			<Text>Huge</Text>
+		</Row>
+		<!-- Features -->
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_NAME">
+			<Text>Floodplains</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FOREST_NAME">
+			<Text>Woods</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ICE_NAME">
+			<Text>Ice</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_JUNGLE_NAME">
+			<Text>Rainforest</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARSH_NAME">
+			<Text>Marsh</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_OASIS_NAME">
+			<Text>Oasis</Text>
+		</Row>
+		<!-- Features: Natural Wonders -->
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_NAME">
+			<Text>Great Barrier Reef</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_NAME">
+			<Text>Cliffs of Dover</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_NAME">
+			<Text>Crater Lake</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_SEA_NAME">
+			<Text>Dead Sea</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EVEREST_NAME">
+			<Text>Mount Everest</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GALAPAGOS_NAME">
+			<Text>Galápagos Islands</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GRAND_CANYON">
+			<Text>Grand Canyon</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_NAME">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PANTANAL_NAME">
+			<Text>Pantanal</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PIOPIOTAHI_NAME">
+			<Text>Piopiotahi</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_NAME">
+			<Text>Torres del Paine</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TSINGY_NAME">
+			<Text>Tsingy de Bemaraha</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_YOSEMITE_NAME">
+			<Text>Yosemite</Text>
+		</Row>
+		<!-- Great People Individuals-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOUDICA_NAME">
+			<Text>Boudica</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNIBAL_BARCA_NAME">
+			<Text>Hannibal Barca</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUN_TZU_NAME">
+			<Text>Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AETHELFLAED_NAME">
+			<Text>Æthelflæd</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_CID_NAME">
+			<Text>El Cid</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENGHIS_KHAN_NAME">
+			<Text>Genghis Khan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVUS_ADOLPHUS_NAME">
+			<Text>Gustavus Adolphus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAN_OF_ARC_NAME">
+			<Text>Jeanne d'Arc</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANA_NZINGA_NAME">
+			<Text>Ana Nzinga</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NAPOLEON_BONAPARTE_NAME">
+			<Text>Napoleon Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RANI_LAKSHMIBAI_NAME">
+			<Text>Rani Lakshmibai</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIMON_BOLIVAR_NAME">
+			<Text>Simón Bolívar</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_MONASH_NAME">
+			<Text>John Monash</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARINA_RASKOVA_NAME">
+			<Text>Marina Raskova</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAMORI_TURE_NAME">
+			<Text>Samori Touré</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DWIGHT_EISENHOWER_NAME">
+			<Text>Dwight Eisenhower</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEORGY_ZHUKOV_NAME">
+			<Text>Georgy Zhukov</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DOUGLAS_MACARTHUR_NAME">
+			<Text>Douglas MacArthur</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUDIRMAN_NAME">
+			<Text>Sudirman</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AHMAD_SHAH_MASSOUD_NAME">
+			<Text>Ahmad Shah Massoud</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VIJAYA_WIMALARATNE_NAME">
+			<Text>Vijaya Wimalaratne</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARTEMISIA_NAME">
+			<Text>Artemisia</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAIUS_DUILIUS_NAME">
+			<Text>Gaius Duilius</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_THEMISTOCLES_NAME">
+			<Text>Themistocles</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEIF_ERIKSON_NAME">
+			<Text>Leif Erikson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJENDRA_CHOLA_NAME">
+			<Text>Rajendra Chola</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHENG_HE_NAME">
+			<Text>Zheng He</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_DRAKE_NAME">
+			<Text>Francis Drake</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SANTA_CRUZ_NAME">
+			<Text>Santa Cruz</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YI_SUN_SIN_NAME">
+			<Text>Yi Sun-sin</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHING_SHIH_NAME">
+			<Text>Ching Shih</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HORATIO_NELSON_NAME">
+			<Text>Horatio Nelson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LASKARINA_BOUBOULINA_NAME">
+			<Text>Laskarina Bouboulina</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_VON_HIPPER_NAME">
+			<Text>Franz von Hipper</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAQUIM_MARQUES_LISBOA_NAME">
+			<Text>Joaquim Marques Lisboa</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TOGO_HEIHACHIRO_NAME">
+			<Text>Togo Heihachiro</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHESTER_NIMITZ_NAME">
+			<Text>Chester Nimitz</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GRACE_HOPPER_NAME">
+			<Text>Grace Hopper</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEY_GORSHKOV_NAME">
+			<Text>Sergei Gorshkov</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO_NAME">
+			<Text>Clancy Fernando</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BI_SHENG_NAME">
+			<Text>Bi Sheng</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISIDORE_OF_MILETUS_NAME">
+			<Text>Isidore of Miletus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_OF_ST_GEORGE_NAME">
+			<Text>James of St. George</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FILIPPO_BRUNELLESCHI_NAME">
+			<Text>Filippo Brunelleschi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEONARDO_DA_VINCI_NAME">
+			<Text>Leonardo da Vinci</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIMAR_SINAN_NAME">
+			<Text>Mimar Sinan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADA_LOVELACE_NAME">
+			<Text>Ada Lovelace</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVE_EIFFEL_NAME">
+			<Text>Gustave Eiffel</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_WATT_NAME">
+			<Text>James Watt</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALVAR_AALTO_NAME">
+			<Text>Alvar Aalto</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NIKOLA_TESLA_NAME">
+			<Text>Nikola Tesla</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ROBERT_GODDARD_NAME">
+			<Text>Robert Goddard</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_A_ROEBLING_NAME">
+			<Text>John Roebling</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_DREW_NAME">
+			<Text>Jane Drew</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEI_KOROLEV_NAME">
+			<Text>Sergei Korolev</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_CORREA_NAME">
+			<Text>Charles Correa</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON_NAME">
+			<Text>Joseph Paxton</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WERNHER_VON_BRAUN_NAME">
+			<Text>Wernher von Braun</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COLAEUS_NAME">
+			<Text>Colaeus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCUS_LICINIUS_CRASSUS_NAME">
+			<Text>Marcus Licinius Crassus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_QIAN_NAME">
+			<Text>Zhang Qian</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCO_POLO_NAME">
+			<Text>Marco Polo</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIERO_DE_BARDI_NAME">
+			<Text>Piero de' Bardi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENE_OF_ATHENS_NAME">
+			<Text>Irene of Athens</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GIOVANNI_DE_MEDICI_NAME">
+			<Text>Giovanni de' Medici</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAKOB_FUGGER_NAME">
+			<Text>Jakob Fugger</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJA_TODAR_MAL_NAME">
+			<Text>Raja Todar Mal</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_SMITH_NAME">
+			<Text>Adam Smith</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_SPILSBURY">
+			<Text>John Spilsbury</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_JACOB_ASTOR_NAME">
+			<Text>John Jacob Astor</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEVI_STRAUSS_NAME">
+			<Text>Levi Strauss</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_ROCKEFELLER_NAME">
+			<Text>John Rockefeller</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SARAH_BREEDLOVE_NAME">
+			<Text>Sarah Breedlove</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HELENA_RUBINSTEIN_NAME">
+			<Text>Helena Rubinstein</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MELITTA_BENTZ">
+			<Text>Melitta Bentz</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_KATHERINE_GODDARD_NAME">
+			<Text>Mary Katherine Goddard</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ESTEE_LAUDER">
+			<Text>Estée Lauder</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MASARU_IBUKA_NAME">
+			<Text>Masaru Ibuka</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMSETJI_TATA_NAME">
+			<Text>Jamsetji Tata</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_THE_BAPTIST_NAME">
+			<Text>John the Baptist</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONFUCIUS_NAME">
+			<Text>Confucius</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZOROASTER_NAME">
+			<Text>Zoroaster</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIDDHARTHA_GAUTAMA_NAME">
+			<Text>Siddhartha Gautama</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LAOZI_NAME">
+			<Text>Laozi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIMON_PETER_NAME">
+			<Text>Simon Peter</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BODHIDHARMA_NAME">
+			<Text>Bodhidharma</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADI_SHANKARA_NAME">
+			<Text>Adi Shankara</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SONGTSAN_GAMPO_NAME">
+			<Text>Songtsan Gampo</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_O_NO_YASUMARO_NAME">
+			<Text>O no Yasumaro</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENAEUS_NAME">
+			<Text>Irenaeus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_LUTHER_NAME">
+			<Text>Martin Luther</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_OF_ASSISI_NAME">
+			<Text>Francis of Assisi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MADHVA_ACHARYA_NAME">
+			<Text>Madhva Acharya</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_THOMAS_AQUINAS_NAME">
+			<Text>Thomas Aquinas</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HAJI_HUUD_NAME">
+			<Text>Haji Huud</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARYABHATA_NAME">
+			<Text>Aryabhata</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EUCLID_NAME">
+			<Text>Euclid</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HYPATIA_NAME">
+			<Text>Hypatia</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABU_AL_QASIM_AL_ZAHRAWI_NAME">
+			<Text>Abu al-Qasim al-Zahrawi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HILDEGARD_OF_BINGEN_NAME">
+			<Text>Hildegard of Bingen</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_OMAR_KHAYYAM_NAME">
+			<Text>Omar Khayyam</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GALILEO_GALILEI_NAME">
+			<Text>Galileo Galilei</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISAAC_NEWTON_NAME">
+			<Text>Isaac Newton</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILIE_DU_CHATELET_NAME">
+			<Text>Emilie du Chatelet</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALFRED_NOBEL_NAME">
+			<Text>Alfred Nobel</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_DARWIN_NAME">
+			<Text>Charles Darwin</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DMITRI_MENDELEEV_NAME">
+			<Text>Dmitri Mendeleev</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALAN_TURING_NAME">
+			<Text>Alan Turing</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALBERT_EINSTEIN_NAME">
+			<Text>Albert Einstein</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_YOUNG_NAME">
+			<Text>James Young</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANAKI_AMMAL_NAME">
+			<Text>Janaki Ammal</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_LEAKEY_NAME">
+			<Text>Mary Leakey</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ERWIN_SCHRODINGER_NAME">
+			<Text>Erwin Schrödinger</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM_NAME">
+			<Text>Abdus Salam</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CARL_SAGAN_NAME">
+			<Text>Carl Sagan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STEPHANIE_KWOLEK_NAME">
+			<Text>Stephanie Kwolek</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BHASA_NAME">
+			<Text>Bhasa</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOMER_NAME">
+			<Text>Homer</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_OVID_NAME">
+			<Text>Ovid</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_QU_YUAN_NAME">
+			<Text>Qu Yuan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEOFFREY_CHAUCER_NAME">
+			<Text>Geoffrey Chaucer</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LI_BAI_NAME">
+			<Text>Li Bai</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MURASAKI_SHIKIBU_NAME">
+			<Text>Murasaki Shikibu</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_CAVENDISH_NAME">
+			<Text>Margaret Cavendish</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIGUEL_DE_CERVANTES_NAME">
+			<Text>Miguel de Cervantes</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICCOLO_MACHIAVELLI_NAME">
+			<Text>Niccolò Machiavelli</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WILLIAM_SHAKESPEARE_NAME">
+			<Text>William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_CATHERINE_D_AULNOY_NAME">
+			<Text>Marie-Catherine d'Aulnoy</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_PUSHKIN_NAME">
+			<Text>Alexander Pushkin</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME">
+			<Text>Edgar Allen Poe</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_AUSTEN_NAME">
+			<Text>Jane Austen</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_WOLFGANG_VON_GOETHE_NAME">
+			<Text>Johann Wolfgang von Goethe</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_SHELLEY_NAME">
+			<Text>Mary Shelley</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUL_MUIS_NAME">
+			<Text>Abdul Muis</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_JOYCE_NAME">
+			<Text>James Joyce</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILY_DICKINSON_NAME">
+			<Text>Emily Dickinson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEO_TOLSTOY_NAME">
+			<Text>Leo Tolstoy</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARK_TWAIN_NAME">
+			<Text>Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_F_SCOTT_FITZGERALD_NAME">
+			<Text>F. Scott Fitzgerald</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HG_WELLS_NAME">
+			<Text>H.G. Wells</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RABINDRANATH_TAGORE_NAME">
+			<Text>Rabindranath Tagore</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK_NAME">
+			<Text>Karel Capek</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANDREY_RUBLEV_NAME">
+			<Text>Andrei Rublev</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIERONYMUS_BOSCH_NAME">
+			<Text>Hieronymus Bosch</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DONATELLO_NAME">
+			<Text>Donatello</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MICHELANGELO_NAME">
+			<Text>Michelangelo</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_QIU_YING_NAME">
+			<Text>Qiu Ying</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TITIAN_NAME">
+			<Text>Titian</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANGELICA_KAUFFMAN_NAME">
+			<Text>Angelica Kauffman</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_GRECO_NAME">
+			<Text>El Greco</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_REMBRANDT_VAN_RIJN_NAME">
+			<Text>Rembrandt van Rijn</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SOFONISBA_ANGUISSOLA_NAME">
+			<Text>Sofonisba Anguissola</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANG_SEUNG_EOP_NAME">
+			<Text>Jang Seung-eop</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KATSUSHIKA_HOKUSAI_NAME">
+			<Text>Katsushika Hokusai</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VINCENT_VAN_GOGH_NAME">
+			<Text>Vincent van Gogh</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDMONIA_LEWIS_NAME">
+			<Text>Edmonia Lewis</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BORIS_ORLOVSKY_NAME">
+			<Text>Boris Orlovsky</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAV_KLIMT_NAME">
+			<Text>Gustav Klimt</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_ANNE_COLLOT_NAME">
+			<Text>Marie-Anne Collot</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLAUDE_MONET_NAME">
+			<Text>Claude Monet</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL_NAME">
+			<Text>Amrita Sher-Gil</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_CASSATT_NAME">
+			<Text>Mary Cassatt</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_VIVALDI_NAME">
+			<Text>Antonio Vivaldi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_SEBASTIAN_BACH_NAME">
+			<Text>Johann Sebastian Bach</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LUDWIG_VAN_BEETHOVEN_NAME">
+			<Text>Ludwig van Beethoven</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WOLFGANG_AMADEUS_MOZART_NAME">
+			<Text>Wolfgang Amadeus Mozart</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YATSUHASHI_KENGYO_NAME">
+			<Text>Yatsuhashi Kengyo</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_CARLOS_GOMEZ_NAME">
+			<Text>Antônio Carlos Gomes</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_LISZT_NAME">
+			<Text>Franz Liszt</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_NAME">
+			<Text>Frederic Chopin</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME">
+			<Text>Peter Ilyich Tchaikovsky</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LIU_TIANHUA_NAME">
+			<Text>Liu Tianhua</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIN_DVORAK_NAME">
+			<Text>Antonin Dvorak</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLARA_SCHUMANN_NAME">
+			<Text>Clara Schumann</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JUVENTINO_ROSAS_NAME">
+			<Text>Juventino Rosas</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LILIUOKALANI_NAME">
+			<Text>Lili'uokalani</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAUHAR_JAAN_NAME">
+			<Text>Gauhar Jaan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH_NAME">
+			<Text>Mykola Leontovych</Text>
+		</Row>
+		<!-- Great Work Objects-->
+		<Row Tag="LOC_GREAT_WORK_OBJECT_SCULPTURE_NAME">
+			<Text>Sculpture</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_PORTRAIT_NAME">
+			<Text>Portrait</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_LANDSCAPE_NAME">
+			<Text>Landscape</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_RELIGIOUS_NAME">
+			<Text>Religious</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_ARTIFACT_NAME">
+			<Text>Artifact</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_WRITING_NAME">
+			<Text>Writing</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_MUSIC_NAME">
+			<Text>Music</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_RELIC_NAME">
+			<Text>Relic</Text>
+		</Row>
+		<!-- Governments-->
+		<Row Tag="LOC_GOVERNMENT_ANARCHY_NAME">
+			<Text>Anarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CHIEFDOM_NAME">
+			<Text>Chiefdom</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_AUTOCRACY_NAME">
+			<Text>Autocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_OLIGARCHY_NAME">
+			<Text>Oligarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CLASSICAL_REPUBLIC_NAME">
+			<Text>Classical Republic</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_MONARCHY_NAME">
+			<Text>Monarchy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_THEOCRACY_NAME">
+			<Text>Theocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_MERCHANT_REPUBLIC_NAME">
+			<Text>Merchant Republic</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_FASCISM_NAME">
+			<Text>Fascism</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_COMMUNISM_NAME">
+			<Text>Communism</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_DEMOCRACY_NAME">
+			<Text>Democracy</Text>
+		</Row>
+		<!-- Happinesses-->
+		<Row Tag="LOC_HAPPINESS_REVOLT_NAME">
+			<Text>Revolt</Text>
+		</Row>
+		<Row Tag="LOC_HAPPINESS_UNREST_NAME">
+			<Text>Unrest</Text>
+		</Row>
+		<Row Tag="LOC_HAPPINESS_UNHAPPY_NAME">
+			<Text>Unhappy</Text>
+		</Row>
+		<Row Tag="LOC_HAPPINESS_DISPLEASED_NAME">
+			<Text>Displeased</Text>
+		</Row>
+		<Row Tag="LOC_HAPPINESS_CONTENT_NAME">
+			<Text>Content</Text>
+		</Row>
+		<Row Tag="LOC_HAPPINESS_HAPPY_NAME">
+			<Text>Happy</Text>
+		</Row>
+		<Row Tag="LOC_HAPPINESS_ECSTATIC_NAME">
+			<Text>Ecstatic</Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
+			<Text>Barbarian Outpost</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GOODY_HUT_NAME">
+			<Text>Tribal Village</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FARM_NAME">
+			<Text>Farm</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MINE_NAME">
+			<Text>Mine</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_QUARRY_NAME">
+			<Text>Quarry</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHING_BOATS_NAME">
+			<Text>Fishing Boats</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PASTURE_NAME">
+			<Text>Pasture</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PLANTATION_NAME">
+			<Text>Plantation</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CAMP_NAME">
+			<Text>Camp</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_NAME">
+			<Text>Lumber Mill</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OIL_WELL_NAME">
+			<Text>Oil Well</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_NAME">
+			<Text>Offshore Oil Rig</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_NAME">
+			<Text>Seaside Resort</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FORT_NAME">
+			<Text>Fort</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_AIRSTRIP_NAME">
+			<Text>Airstrip</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CHATEAU_NAME">
+			<Text>Château</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_NAME">
+			<Text>Colossal Head</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_NAME">
+			<Text>Great Wall</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KURGAN_NAME">
+			<Text>Kurgan</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_NAME">
+			<Text>Mission</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_NAME">
+			<Text>Roman Fort</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SPHINX_NAME">
+			<Text>Sphinx</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEPWELL_NAME">
+			<Text>Stepwell</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_NAME">
+			<Text>Ziggurat</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSILE_SILO">
+			<Text>Missile Silo</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="LOC_POLICY_AESTHETICS_NAME">
+			<Text>Aesthetics</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AGOGE_NAME">
+			<Text>Agoge</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_NAME">
+			<Text>Arsenal of Democracy</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_BASTIONS_NAME">
+			<Text>Bastions</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CARAVANSARIES_NAME">
+			<Text>Caravansaries</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CHARISMATIC_LEADER_NAME">
+			<Text>Charismatic Leader</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CHIVALRY_NAME">
+			<Text>Chivalry</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_NAME">
+			<Text>Collective Activism</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVIZATION_NAME">
+			<Text>Collectivization</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_NAME">
+			<Text>Colonial Offices</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_TAXES_NAME">
+			<Text>Colonial Taxes</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIZATION_NAME">
+			<Text>Colonization</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CONSCRIPTION_NAME">
+			<Text>Conscription</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CONTAINMENT_NAME">
+			<Text>Containment</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CORVEE_NAME">
+			<Text>Corvée</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CRAFTSMEN_NAME">
+			<Text>Craftsmen</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CRYPTOGRAPHY_NAME">
+			<Text>Cryptography</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_NAME">
+			<Text>Defense of the Motherland</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_NAME">
+			<Text>Diplomatic League</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISCIPLINE_NAME">
+			<Text>Discipline</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECOMMERCE_NAME">
+			<Text>Ecommerce</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECONOMIC_UNION_NAME">
+			<Text>Economic Union</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EXPROPRIATION_NAME">
+			<Text>Expropriation</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEUDAL_CONTRACT_NAME">
+			<Text>Feudal Contract</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FINEST_HOUR_NAME">
+			<Text>Their Finest Hour</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIVE_YEAR_PLAN_NAME">
+			<Text>Five-Year Plan</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FREE_MARKET_NAME">
+			<Text>Free Market</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FRESCOES_NAME">
+			<Text>Frescoes</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GOD_KING_NAME">
+			<Text>God King</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_NAME">
+			<Text>Gothic Architecture</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRAND_OPERA_NAME">
+			<Text>Grand Opera</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRANDE_ARMEE_NAME">
+			<Text>Grande Armée</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_NAME">
+			<Text>Gunboat Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_HERITAGE_TOURISM_NAME">
+			<Text>Heritage Tourism</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ILKUM_NAME">
+			<Text>Ilkum</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INSPIRATION_NAME">
+			<Text>Inspiration</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INSULAE_NAME">
+			<Text>Insulae</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_NAME">
+			<Text>Integrated Space Cell</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_NAME">
+			<Text>International Space Agency</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTERNATIONAL_WATERS_NAME">
+			<Text>International Waters</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVENTION_NAME">
+			<Text>Invention</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAISSEZ_FAIRE_NAME">
+			<Text>Laissez-Faire</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAND_SURVEYORS_NAME">
+			<Text>Land Surveyors</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LEVEE_EN_MASSE_NAME">
+			<Text>Levée en Masse</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIBERALISM_NAME">
+			<Text>Liberalism</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIGHTNING_WARFARE_NAME">
+			<Text>Lightning Warfare</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMES_NAME">
+			<Text>Limes</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LITERARY_TRADITION_NAME">
+			<Text>Literary Tradition</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LOGISTICS_NAME">
+			<Text>Logistics</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MACHIAVELLIANISM_NAME">
+			<Text>Machiavellianism</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MANEUVER_NAME">
+			<Text>Maneuver</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARITIME_INDUSTRIES_NAME">
+			<Text>Maritime Industries</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARKET_ECONOMY_NAME">
+			<Text>Market Economy</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_NAME">
+			<Text>Martial Law</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MEDINA_QUARTER_NAME">
+			<Text>Medina Quarter</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCHANT_CONFEDERATION_NAME">
+			<Text>Merchant Confederation</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERITOCRACY_NAME">
+			<Text>Meritocracy</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_FIRST_NAME">
+			<Text>Military First</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_ORGANIZATION_NAME">
+			<Text>Military Organization</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_NAME">
+			<Text>Military Research</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATIONAL_IDENTITY_NAME">
+			<Text>National Identity</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATIVE_CONQUEST_NAME">
+			<Text>Native Conquest</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATURAL_PHILOSOPHY_NAME">
+			<Text>Natural Philosophy</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_NAME">
+			<Text>Naval Infrastructure</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAVIGATION_NAME">
+			<Text>Navigation</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NEW_DEAL_NAME">
+			<Text>New Deal</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NOBEL_PRIZE_NAME">
+			<Text>Nobel Prize</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_NAME">
+			<Text>Nuclear Espionage</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ONLINE_COMMUNITIES_NAME">
+			<Text>Online Communities</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PATRIOTIC_WAR_NAME">
+			<Text>Patriotic War</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POLICE_STATE_NAME">
+			<Text>Police State</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRESS_GANGS_NAME">
+			<Text>Press Gangs</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROFESSIONAL_ARMY_NAME">
+			<Text>Professional Army</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROPAGANDA_NAME">
+			<Text>Propaganda</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_NAME">
+			<Text>Public Transport</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_WORKS_NAME">
+			<Text>Public Works</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAJ_NAME">
+			<Text>Raj</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_NAME">
+			<Text>Raid</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RATIONALISM_NAME">
+			<Text>Rationalism</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RELIGIOUS_ORDERS_NAME">
+			<Text>Religious Orders</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_NAME">
+			<Text>Resource Management</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETAINERS_NAME">
+			<Text>Retainers</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REVELATION_NAME">
+			<Text>Revelation</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SACK_NAME">
+			<Text>Sack</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SATELLITE_BROADCASTS_NAME">
+			<Text>Satellite Broadcasts</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCRIPTURE_NAME">
+			<Text>Scripture</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SERFDOM_NAME">
+			<Text>Serfdom</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SIMULTANEUM_NAME">
+			<Text>Simultaneum</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKYSCRAPERS_NAME">
+			<Text>Skyscrapers</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SPORTS_MEDIA_NAME">
+			<Text>Sports Media</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_NAME">
+			<Text>Strategic Air Force</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STRATEGOS_NAME">
+			<Text>Strategos</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SURVEY_NAME">
+			<Text>Survey</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SYMPHONIES_NAME">
+			<Text>Symphonies</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THIRD_ALTERNATIVE_NAME">
+			<Text>Third Alternative</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOWN_CHARTERS_NAME">
+			<Text>Town Charters</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRADE_CONFEDERATION_NAME">
+			<Text>Trade Confederation</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRAVELING_MERCHANTS_NAME">
+			<Text>Traveling Merchants</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRIANGULAR_TRADE_NAME">
+			<Text>Triangular Trade</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_NAME">
+			<Text>Total War</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_URBAN_PLANNING_NAME">
+			<Text>Urban Planning</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VETERANCY_NAME">
+			<Text>Veterancy</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WARS_OF_RELIGION_NAME">
+			<Text>Wars of Religion</Text>
+		</Row>
+		<!-- Projects-->
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_NAME">
+			<Text>Encampment Training</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_SHORT_NAME">
+			<Text>Encampment Training</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_NAME">
+			<Text>Harbor Shipping</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_SHORT_NAME">
+			<Text>Harbor Shipping</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_NAME">
+			<Text>Industrial Zone Logistics</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_SHORT_NAME">
+			<Text>Industrial Zone Logistics</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_NAME">
+			<Text>Commercial Hub Investment</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_SHORT_NAME">
+			<Text>Commercial Hub Investment</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_NAME">
+			<Text>Holy Site Prayers</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_SHORT_NAME">
+			<Text>Holy Site Prayers</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_NAME">
+			<Text>Campus Research Grants</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_SHORT_NAME">
+			<Text>Campus Research Grants</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_NAME">
+			<Text>Theater Square Festival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_SHORT_NAME">
+			<Text>Theater Square Festival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARNIVAL_NAME">
+			<Text>Carnival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARNIVAL_SHORT_NAME">
+			<Text>Carnival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_NAME">
+			<Text>Repair Outer Defenses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_SHORT_NAME">
+			<Text>Repair Outer Defenses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_NAME">
+			<Text>Launch Earth Satellite</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_SHORT_NAME">
+			<Text>Launch Earth Satellite</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_NAME">
+			<Text>Launch Moon Landing</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_SHORT_NAME">
+			<Text>Launch Moon Landing</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_NAME">
+			<Text>Launch Mars Reactor</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_SHORT_NAME">
+			<Text>Mars Colony Reactor</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_NAME">
+			<Text>Launch Mars Habitation</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_SHORT_NAME">
+			<Text>Mars Colony Habitation</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_NAME">
+			<Text>Launch Mars Hydroponics</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_SHORT_NAME">
+			<Text>Mars Colony Hydroponics</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_NAME">
+			<Text>Manhattan Project</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_SHORT_NAME">
+			<Text>Manhattan Project</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_OPERATION_IVY_NAME">
+			<Text>Operation Ivy</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_OPERATION_IVY_SHORT_NAME">
+			<Text>Operation Ivy</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_NAME">
+			<Text>Build Nuclear Device</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_SHORT_NAME">
+			<Text>Build Nuclear Device</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_NAME">
+			<Text>Build Thermonuclear Device</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_SHORT_NAME">
+			<Text>Build Thermonuclear Device</Text>
+		</Row>
+		<!-- Quests-->
+		<Row Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_NAME">
+			<Text>Religious Conversion</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_NAME">
+			<Text>Send [ICON_TradeRoute] Trade Route</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME">
+			<Text>Destroy Barbarian Outpost within 5 tiles</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_NAME">
+			<Text>Train Unit</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_NAME">
+			<Text>Construct District</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_NAME">
+			<Text>Trigger Eureka</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_NAME">
+			<Text>Trigger Inspiration</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_NAME">
+			<Text>Recruit Great Person</Text>
+		</Row>
+		<!-- Resource class names -->
+		<Row Tag="LOC_RESOURCECLASS_BONUS_NAME">
+			<Text>Bonus</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCECLASS_LUXURY_NAME">
+			<Text>Luxury</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCECLASS_STRATEGIC_NAME">
+			<Text>Strategic</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCECLASS_ARTIFACT_NAME">
+			<Text>Artifact</Text>
+		</Row>
+		<!-- Resources: Bonus-->
+		<Row Tag="LOC_RESOURCE_BANANAS_NAME">
+			<Text>Bananas</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CATTLE_NAME">
+			<Text>Cattle</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_COPPER_NAME">
+			<Text>Copper</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CRABS_NAME">
+			<Text>Crabs</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_DEER_NAME">
+			<Text>Deer</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_FISH_NAME">
+			<Text>Fish</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_RICE_NAME">
+			<Text>Rice</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SHEEP_NAME">
+			<Text>Sheep</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_STONE_NAME">
+			<Text>Stone</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_WHEAT_NAME">
+			<Text>Wheat</Text>
+		</Row>
+		<!-- Resources: Luxury-->
+		<Row Tag="LOC_RESOURCE_CITRUS_NAME">
+			<Text>Citrus</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_COCOA_NAME">
+			<Text>Cocoa</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_COFFEE_NAME">
+			<Text>Coffee</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_COTTON_NAME">
+			<Text>Cotton</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_DIAMONDS_NAME">
+			<Text>Diamonds</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_DYES_NAME">
+			<Text>Dyes</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_FURS_NAME">
+			<Text>Furs</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_GYPSUM_NAME">
+			<Text>Gypsum</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_INCENSE_NAME">
+			<Text>Incense</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_IVORY_NAME">
+			<Text>Ivory</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_JADE_NAME">
+			<Text>Jade</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_MARBLE_NAME">
+			<Text>Marble</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_MERCURY_NAME">
+			<Text>Mercury</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_PEARLS_NAME">
+			<Text>Pearls</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SALT_NAME">
+			<Text>Salt</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SILK_NAME">
+			<Text>Silk</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SILVER_NAME">
+			<Text>Silver</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SPICES_NAME">
+			<Text>Spices</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SUGAR_NAME">
+			<Text>Sugar</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TEA_NAME">
+			<Text>Tea</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TRUFFLES_NAME">
+			<Text>Truffles</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TOBACCO_NAME">
+			<Text>Tobacco</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_WHALES_NAME">
+			<Text>Whales</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_WINE_NAME">
+			<Text>Wine</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_JEANS_NAME">
+			<Text>Jeans</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_PERFUME_NAME">
+			<Text>Perfume</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_COSMETICS_NAME">
+			<Text>Cosmetics</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TOYS_NAME">
+			<Text>Toys</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CINNAMON_NAME">
+			<Text>Cinnamon</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CLOVES_NAME">
+			<Text>Cloves</Text>
+		</Row>
+		<!-- Resources: Strategic-->
+		<Row Tag="LOC_RESOURCE_ALUMINUM_NAME">
+			<Text>Aluminum</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_COAL_NAME">
+			<Text>Coal</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_HORSES_NAME">
+			<Text>Horses</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_IRON_NAME">
+			<Text>Iron</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_NITER_NAME">
+			<Text>Niter</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_OIL_NAME">
+			<Text>Oil</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_URANIUM_NAME">
+			<Text>Uranium</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ANTIQUITY_SITE_NAME">
+			<Text>Antiquity Site</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_SHIPWRECK_NAME">
+			<Text>Shipwreck</Text>
+		</Row>
+		<!-- Routes-->
+		<Row Tag="LOC_ROUTE_ANCIENT_ROAD_NAME">
+			<Text>Ancient Road</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_MEDIEVAL_ROAD_NAME">
+			<Text>Classical Road</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_INDUSTRIAL_ROAD_NAME">
+			<Text>Industrial Road</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_MODERN_ROAD_NAME">
+			<Text>Modern Road</Text>
+		</Row>
+		<!-- Slots-->
+		<Row Tag="LOC_SLOT_ECONOMIC_NAME">
+			<Text>Economic</Text>
+		</Row>
+		<Row Tag="LOC_SLOT_MILITARY_NAME">
+			<Text>Military</Text>
+		</Row>
+		<Row Tag="LOC_SLOT_DIPLOMATIC_NAME">
+			<Text>Diplomatic</Text>
+		</Row>
+		<Row Tag="LOC_SLOT_GREAT_PERSON_NAME">
+			<Text>Great Person</Text>
+		</Row>
+		<Row Tag="LOC_SLOT_WILDCARD_NAME">
+			<Text>Wildcard</Text>
+		</Row>
+		<Row Tag="LOC_EMPTY_SLOT_ECONOMIC">
+			<Text>Empty Economic Policy Slot</Text>
+		</Row>
+		<Row Tag="LOC_EMPTY_SLOT_MILITARY">
+			<Text>Empty Military Policy Slot</Text>
+		</Row>
+		<Row Tag="LOC_EMPTY_SLOT_DIPLOMATIC">
+			<Text>Empty Diplomatic Policy Slot</Text>
+		</Row>
+		<Row Tag="LOC_EMPTY_SLOT_WILDCARD">
+			<Text>Empty Wildcard Slot</Text>
+		</Row>
+		<!-- Techs -->
+		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_NAME">
+			<Text>Advanced Ballistics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_NAME">
+			<Text>Advanced Flight</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_NAME">
+			<Text>Animal Husbandry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHERY_NAME">
+			<Text>Archery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTROLOGY_NAME">
+			<Text>Astrology</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_NAME">
+			<Text>Astronomy</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BALLISTICS_NAME">
+			<Text>Ballistics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_NAME">
+			<Text>Banking</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_NAME">
+			<Text>Bronze Working</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_NAME">
+			<Text>Cartography</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_NAME">
+			<Text>Celestial Navigation</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CHEMISTRY_NAME">
+			<Text>Chemistry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBINED_ARMS_NAME">
+			<Text>Combined Arms</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_NAME">
+			<Text>Combustion</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPOSITES_NAME">
+			<Text>Composites</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_NAME">
+			<Text>Computers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CONSTRUCTION_NAME">
+			<Text>Construction</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CURRENCY_NAME">
+			<Text>Currency</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ECONOMICS_NAME">
+			<Text>Economics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_NAME">
+			<Text>Education</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ELECTRICITY_NAME">
+			<Text>Electricity</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ENGINEERING_NAME">
+			<Text>Engineering</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_NAME">
+			<Text>Flight</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_NAME">
+			<Text>Castles</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_NAME">
+			<Text>Future Tech</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUIDANCE_SYSTEMS_NAME">
+			<Text>Guidance Systems</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_NAME">
+			<Text>Gunpowder</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HORSEBACK_RIDING_NAME">
+			<Text>Horseback Riding</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_NAME">
+			<Text>Industrialization</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRON_WORKING_NAME">
+			<Text>Iron Working</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_NAME">
+			<Text>Irrigation</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LASERS_NAME">
+			<Text>Lasers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_NAME">
+			<Text>Machinery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_NAME">
+			<Text>Masonry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASS_PRODUCTION_NAME">
+			<Text>Mass Production</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_NAME">
+			<Text>Mathematics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_NAME">
+			<Text>Apprenticeship</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_NAME">
+			<Text>Metal Casting</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_ENGINEERING_NAME">
+			<Text>Military Engineering</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STIRRUPS_NAME">
+			<Text>Stirrups</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_SCIENCE_NAME">
+			<Text>Military Science</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_TACTICS_NAME">
+			<Text>Military Tactics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_NAME">
+			<Text>Mining</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NANOTECHNOLOGY_NAME">
+			<Text>Nanotechnology</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FISSION_NAME">
+			<Text>Nuclear Fission</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FUSION_NAME">
+			<Text>Nuclear Fusion</Text>
+		</Row>
+		<Row Tag="LOC_TECH_POTTERY_NAME">
+			<Text>Pottery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_NAME">
+			<Text>Plastics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_NAME">
+			<Text>Printing</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_NAME">
+			<Text>Radio</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_NAME">
+			<Text>Replaceable Parts</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RIFLING_NAME">
+			<Text>Rifling</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_NAME">
+			<Text>Robotics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_NAME">
+			<Text>Rocketry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_NAME">
+			<Text>Sailing</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_NAME">
+			<Text>Sanitation</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SATELLITES_NAME">
+			<Text>Satellites</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_NAME">
+			<Text>Scientific Theory</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_NAME">
+			<Text>Shipbuilding</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SIEGE_TACTICS_NAME">
+			<Text>Siege Tactics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_NAME">
+			<Text>Square Rigging</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEALTH_TECHNOLOGY_NAME">
+			<Text>Stealth Technology</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_NAME">
+			<Text>Steam Power</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_NAME">
+			<Text>Steel</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_NAME">
+			<Text>Synthetic Materials</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TELECOMMUNICATIONS_NAME">
+			<Text>Telecommunications</Text>
+		</Row>
+		<Row Tag="LOC_TECH_THE_WHEEL_NAME">
+			<Text>Wheel</Text>
+		</Row>
+		<Row Tag="LOC_TECH_WRITING_NAME">
+			<Text>Writing</Text>
+		</Row>
+		<!-- Terrain -->
+		<Row Tag="LOC_TERRAIN_COAST_NAME">
+			<Text>Coast</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_NAME">
+			<Text>Desert</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_HILLS_NAME">
+			<Text>Desert (Hills)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME">
+			<Text>Desert (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_NAME">
+			<Text>Grassland</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_HILLS_NAME">
+			<Text>Grassland (Hills)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME">
+			<Text>Grassland (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_OCEAN_NAME">
+			<Text>Ocean</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_NAME">
+			<Text>Plains</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_HILLS_NAME">
+			<Text>Plains (Hills)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME">
+			<Text>Plains (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_NAME">
+			<Text>Snow</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_HILLS_NAME">
+			<Text>Snow (Hills)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME">
+			<Text>Snow (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_NAME">
+			<Text>Tundra</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME">
+			<Text>Tundra (Hills)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME">
+			<Text>Tundra (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_OUTOFPLAY_NAME">
+			<Text>Void Hex</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_UNIT_AIRCRAFT_CARRIER_NAME">
+			<Text>Aircraft Carrier</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
+			<Text>Anti-Air Gun</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_APOSTLE_NAME">
+			<Text>Apostle</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_NAME">
+			<Text>Archaeologist</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHER_NAME">
+			<Text>Archer</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_ARTILLERY_NAME">
+			<Text>Artillery</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_AT_CREW_NAME">
+			<Text>AT Crew</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_NAME">
+			<Text>Barbarian Horseman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_NAME">
+			<Text>Barbarian Horse Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_GALLEY_NAME">
+			<Text>Barbarian Galley</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTERING_RAM_NAME">
+			<Text>Battering Ram</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLESHIP_NAME">
+			<Text>Battleship</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BUILDER_NAME">
+			<Text>Builder</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BIPLANE_NAME">
+			<Text>Biplane</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBER_NAME">
+			<Text>Bomber</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBARD_NAME">
+			<Text>Bombard</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARAVEL_NAME">
+			<Text>Caravel</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CATAPULT_NAME">
+			<Text>Catapult</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAVALRY_NAME">
+			<Text>Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DESTROYER_NAME">
+			<Text>Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CROSSBOWMAN_NAME">
+			<Text>Crossbowman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_CANNON_NAME">
+			<Text>Field Cannon</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIGHTER_NAME">
+			<Text>Fighter</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRIGATE_NAME">
+			<Text>Frigate</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GALLEY_NAME">
+			<Text>Galley</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_GENERAL_NAME">
+			<Text>Great General</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_GENERAL_NAME">
+			<Text>Great General</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_ADMIRAL_NAME">
+			<Text>Great Admiral</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_NAME">
+			<Text>Great Admiral</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_ENGINEER_NAME">
+			<Text>Great Engineer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ENGINEER_NAME">
+			<Text>Great Engineer</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_MERCHANT_NAME">
+			<Text>Great Merchant</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MERCHANT_NAME">
+			<Text>Great Merchant</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_PROPHET_NAME">
+			<Text>Great Prophet</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_PROPHET_NAME">
+			<Text>Great Prophet</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_SCIENTIST_NAME">
+			<Text>Great Scientist</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_NAME">
+			<Text>Great Scientist</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_WRITER_NAME">
+			<Text>Great Writer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_WRITER_NAME">
+			<Text>Great Writer</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_ARTIST_NAME">
+			<Text>Great Artist</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ARTIST_NAME">
+			<Text>Great Artist</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_MUSICIAN_NAME">
+			<Text>Great Musician</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_NAME">
+			<Text>Great Musician</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
+			<Text>Heavy Chariot</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HELICOPTER_NAME">
+			<Text>Helicopter</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSEMAN_NAME">
+			<Text>Horseman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INFANTRY_NAME">
+			<Text>Infantry</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_INQUISITOR_NAME">
+			<Text>Inquisitor</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_IRONCLAD_NAME">
+			<Text>Ironclad</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_BOMBER_NAME">
+			<Text>Jet Bomber</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_FIGHTER_NAME">
+			<Text>Jet Fighter</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KNIGHT_NAME">
+			<Text>Knight</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACHINE_GUN_NAME">
+			<Text>Machine Gun</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MECHANIZED_INFANTRY_NAME">
+			<Text>Mechanized Infantry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDIC_NAME">
+			<Text>Medic</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_NAME">
+			<Text>Military Engineer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_CRUISER_NAME">
+			<Text>Missile Cruiser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSIONARY_NAME">
+			<Text>Missionary</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_AT_NAME">
+			<Text>Modern AT</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_ARMOR_NAME">
+			<Text>Modern Armor</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MUSKETMAN_NAME">
+			<Text>Musketman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NATURALIST_NAME">
+			<Text>Naturalist</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME">
+			<Text>Nuclear Submarine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_NAME">
+			<Text>Observation Balloon</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKEMAN_NAME">
+			<Text>Pikeman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRIVATEER_NAME">
+			<Text>Privateer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_QUADRIREME_NAME">
+			<Text>Quadrireme</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RANGER_NAME">
+			<Text>Ranger</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
+			<Text>Rocket Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_SAM_NAME">
+			<Text>Mobile SAM</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCOUT_NAME">
+			<Text>Scout</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SETTLER_NAME">
+			<Text>Settler</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_NAME">
+			<Text>Siege Tower</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SLINGER_NAME">
+			<Text>Slinger</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPEARMAN_NAME">
+			<Text>Spearman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPY_NAME">
+			<Text>Spy</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUBMARINE_NAME">
+			<Text>Submarine</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SWORDSMAN_NAME">
+			<Text>Swordsman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_NAME">
+			<Text>Tank</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRADER_NAME">
+			<Text>Trader</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARRIOR_NAME">
+			<Text>Warrior</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>Maryannu Chariot Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_HOPLITE_NAME">
+			<Text>Hoplite</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+			<Text>Saka Horse Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUMERIAN_WAR_CART_NAME">
+			<Text>War-Cart</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Rough Rider</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Redcoat</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_NAME">
+			<Text>Conquistador</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROMAN_LEGION_NAME">
+			<Text>Legion</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_NAME">
+			<Text>Samurai</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_BERSERKER_NAME">
+			<Text>Berserker</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Viking Longship</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+			<Text>Crouching Tiger</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_NAME">
+			<Text>Cossack</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDIAN_VARU_NAME">
+			<Text>Varu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARABIAN_MAMLUK_NAME">
+			<Text>Mamluk</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>Sea Dog</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KONGO_SHIELD_BEARER_NAME">
+			<Text>Ngao Mbeba</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>Garde Impériale</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GERMAN_UBOAT_NAME">
+			<Text>U-Boat</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_P51_NAME">
+			<Text>P-51 Mustang</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+			<Text>Minas Geraes</Text>
+		</Row>
+		<!-- WMDs -->
+		<Row Tag="LOC_WMD_NUCLEAR_DEVICE_NAME">
+			<Text>Nuclear Device</Text>
+		</Row>
+		<Row Tag="LOC_WMD_THERMONUCLEAR_DEVICE_NAME">
+			<Text>Thermonuclear Device</Text>
+		</Row>
+		<!-- Yields -->
+		<Row Tag="LOC_YIELD_CULTURE_NAME">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_FAITH_NAME">
+			<Text>Faith</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_FOOD_NAME">
+			<Text>Food</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_GOLD_NAME">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_PRODUCTION_NAME">
+			<Text>Production</Text>
+		</Row>
+		<Row Tag="LOC_YIELD_SCIENCE_NAME">
+			<Text>Science</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AZTEC_NAME">
+			<Text>Aztec</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MONTEZUMA_NAME">
+			<Text>Montezuma</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

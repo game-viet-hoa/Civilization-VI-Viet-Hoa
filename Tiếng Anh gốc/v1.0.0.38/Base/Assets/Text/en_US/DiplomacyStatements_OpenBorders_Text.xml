@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Oh, very well. You may proceed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>You may pass into Egypt, provided you respect our ancient heritage.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>I will allow it, for the good of Germany, I hope.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>You may pass through Sumer, my friend. But do not disturb my people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>I will open the borders to you, but do not linger in Sparta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Yes, explore. The world is too vast to stay in one place.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Your people may pass through our borders, but they must honor our ways.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Yes, we will allow you to pass through the Democracy. Perhaps you will learn something from us, and we might learn from you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Very well, I hereby grant you permission to pass through my lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Yes, you may pass through my lands. It would not be just to prohibit passage of such a vast Kingdom.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Of course you may pass. What threat could you possibly pose to the Middle Kingdom?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Yes, you may pass through our lands, provided they remain our lands. I will always accept this bargain over warfare.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>We are happy to open up our borders to your units.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>In our grateful acknowledgment of a shared wish for peace we accept your forces among our own.</Text>
+		</Row>
+		
+		<!-- AI rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Unfortunately, I simply cannot allow it. For safety, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>You may not enter Egypt. Only those who are worthy may tread these grounds.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>I was not born a fool, to allow my enemies passage through my lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>No, you may not pass through Sumer. Only my true allies may enter.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>You, who have not bathed in the Eurotas-- who knows nothing of the agoge-- may not pass through Sparta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>I lost my kingdom to such treachery once already… I will not do so again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>The Pure Land is denied to you. Ask yourself “why?”</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Unfortunately, the Democracy has voted against allowing your passage at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>I cannot a potential threat into the Motherland. I hope you can understand.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>I will not allow you to corrupt my subjects with your tainted ways.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>No, I will not allow foreigners to spoil our wondrous empire.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>By the grace and mercy of the one true God, I cannot allow foreigners to spoil his holy lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>We are not interested at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>For the safety of my people, I must unfortunately deny your request. I do hope you can understand.</Text>
+		</Row>
+		
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>My military would like permission to pass through your lands. Peacefully, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Let my people pass through your lands. I will make it worth your while…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>I must move my army through your land. Will you allow it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh passes through your lands to crush his enemies, yes?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY">
+			<Text>My Spartans wish to pass through your land, will you deny them a chance at valor?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Will you allow my Vikings to pass? They are unruly when they become restless.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY">
+			<Text>I humbly request permission to march through your borders. We will keep the peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Athens would like to pass through your territory. Will you allow it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>My people would like to pass through your lands, to see more of this world. Would you allow it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>The Kingdom of Spain would kindly request to move through your lands. We mean you no harm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY">
+			<Text>We must pass through your territory and humbly request permission to enter your domain.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Will you allow my people to pass through your lands? I assure you they will be peaceful.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Will you allow our units to cross through your territory?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>We humbly request access for our soldiers to pass through your domain. What do you say?</Text>
+		</Row>
+		
+		<!-- Human accepts AI, AI respones -->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Excellent!</Text>
+		</Row>
+
+		<!-- Human rejects AI, AI respones -->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>That is unfortunate.</Text>
+		</Row>
+
+		<!-- Selections -->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
+			<Text>We are not going to allow your military within our borders at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_POSITIVE">
+			<Text>Your units are welcome to cross our lands.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

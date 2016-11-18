@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- AI Kudos -->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_ANY_ANY">
+			<Text/>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>I see you are also practiced in the subtler arts of statecraft. I've always rather enjoyed a bit of espionage, myself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CLEOPATRA_ANY">
+			<Text>I am only interested in people worthy of my time. You are obviously one of them.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BARBAROSSA_ANY">
+			<Text>I commend you on your prudence. To aid that city-state is to invite death.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GANDHI_ANY">
+			<Text>There is no shame in deterrence. Having a weapon is very different from actually using it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GILGAMESH_ANY">
+			<Text>You are a good friend and ally. Gilgamesh will remember this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GORGO_ANY">
+			<Text>You would make a good Spartan… resilient, strong, brave.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HARDRADA_ANY">
+			<Text>A strong navy… that’s a beautiful sight.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HOJO_ANY">
+			<Text>You build your empire as the Rising Sun: powerful and brilliant.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MVEMBA_ANY">
+			<Text>I welcome the words of your prophets and priests. We learn so much from their good works.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PEDRO_ANY">
+			<Text>Imagine all of the amazing things the brilliant minds of my nation will accomplish.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PERICLES_ANY">
+			<Text>You are wise to leave our neighboring city-state to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PETER_GREAT_ANY">
+			<Text>Yours is a society to emulate. Arts, sciences… what don’t you have?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PHILIP_II_ANY">
+			<Text>I am relieved you understand that we cannot tolerate heretics. It is against God, of course.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_QIN_ANY">
+			<Text>It is good that you do not try to compete with the glorious empire of Qin. Our wonders are inimitable.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SALADIN_ANY">
+			<Text>Blessings be upon you. You spread truth and compassion through your acts in the name of the magnificent and perfect God.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Thanks for keeping the peace on the continent. Bully for you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOMYRIS_ANY">
+			<Text>Our two nations have never been stronger. May you have many victories in times of peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TRAJAN_ANY">
+			<Text>The reach of your empire is as Jupiter’s over the heavens. Well done.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_VICTORIA_ANY">
+			<Text>Please accept my warmest thanks for your kind endeavors on the continent we share.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_ANY">
+			<Text>(You are strong in diplomatic visibility and spies)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_ANY">
+			<Text>(You have a strong military)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_ANY">
+			<Text>(You are not attacking or allying city-states)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GANDHI_REASON_ANY">
+			<Text>(You are keeping the peace)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_ANY">
+			<Text>(You are one of my friends)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_ANY">
+			<Text>(You have fought honorably and not capitulated in a peace deal)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_ANY">
+			<Text>(You have a strong navy)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_ANY">
+			<Text>(You are strong in military and also in Faith and Culture)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_ANY">
+			<Text>(You have established a Religion and brought it to Kongo)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_ANY">
+			<Text>(You are not threatening to gain more Great People)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_ANY">
+			<Text>(You are not competing over city-states)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_ANY">
+			<Text>(You are strong in Science and Culture)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_ANY">
+			<Text>(You share his Religion)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_ANY">
+			<Text>(You are not threatening to build more wonders)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_SALADIN_REASON_ANY">
+			<Text>(You have his religious building in your empire)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(You have kept the peace on his home continent)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TOMYRIS_REASON_ANY">
+			<Text>(You are one of her friends)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TRAJAN_REASON_ANY">
+			<Text>(Your empire is large)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_ANY">
+			<Text>(You share the same home continent)</Text>
+		</Row>
+		<!-- Generic kudos for random agendas -->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_ANY">
+			<Text>Kudos - Reason Unknown</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_CULTURE">
+			<Text>I am impressed with the unique culture your people are developing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_HAPPINESS">
+			<Text>I'm hearing talk that your people want to celebrate your rule. Nice job keeping them happy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INCOME">
+			<Text>Your treasury is filling up quite nicely. It's always nice to have such strong income, isn't it?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INDUSTRY">
+			<Text>I extend my heartiest congratulations on the productivity of your people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS">
+			<Text>We are true friends with the smaller civilizations. We appreciate that you recognize this fact.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_POPULATION">
+			<Text>The number of people living in your empire is truly impressive.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_SCIENCE">
+			<Text>I am impressed with the depth of your scientific research.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_STANDING_ARMY">
+			<Text>I love a leader who is surrounded by an impressive military.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENJOYS_WAR">
+			<Text>It is in combat that the true soul of a civilization is revealed. May the best man win.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_ AGENDA_GREAT_PERSON_ADVOCATE">
+			<Text>I am pleased to see that the great minds of the world prefer our empire to yours.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_ AGENDA_WONDER_ADVOCATE">
+			<Text>It makes me happy that you leave the wonder building to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PROTECT_CITY_STATES">
+			<Text>Your protection of a city-state's right to exist sets an example for all the world to follow.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MED_PROTECT_CITY_STATES">
+			<Text>The strong should protect the weak. It is good to see you agree.</Text>
+		</Row>
+		<!--Kudos for future random agendas (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_AIRPOWER">
+			<Text>I must say, the power of your airforce is not one to be trifled with. Very nice.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PROTECTS_CITY_STATES">
+			<Text>It is an admirable thing to look out for those who cannot look out for themselves.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS">
+			<Text>These Barbarians have been a nuisance to us all. Thank you for your help!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENVIRONMENT">
+			<Text>We have only been given one earth, and I am glad that I am not the only one to respect that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPLOITATION">
+			<Text>The world is ours for the taking! And take it, you have.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAME_GOVERNMENT">
+			<Text>I see you're a like-minded individual, and must commend your government practices.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_NUKE_LOVE">
+			<Text>Great minds think alike, I see. There are so many uses for that technology...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FAITH">
+			<Text>Peace be to you and yours. It is heartening to see another just as pious as myself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_EXPLORATION">
+			<Text>Yes, very good. Leave the exploring to me.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>I am relieved to see that your empire poses no threat to ours.</Text>
+		</Row>
+
+		<!-- AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_ANY_ANY">
+			<Text/>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>You really should start paying attention to what's going on around you. There are games being played here on so many levels.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CLEOPATRA_ANY">
+			<Text>You are not worthy to bask in our presence. Your power is as fragile as your army is weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BARBAROSSA_ANY">
+			<Text>I will destroy my enemies, and if you continue to help them, I will destroy you as well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GANDHI_ANY">
+			<Text>If you are so bloodthirsty, maybe it is better to put an end to your leadership.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GILGAMESH_ANY">
+			<Text>If you harm my friends, you will face the might of Uruk; this I promise you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GORGO_ANY">
+			<Text>Are you such a coward, to avoid bloodshed? To yield so easily? Where is your honor?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HARDRADA_ANY">
+			<Text>Your seas are unprotected, friend. All too easy to raid.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HOJO_ANY">
+			<Text>To follow Bushido is to train the body, the mind, and the soul… but where can your people do so?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MVEMBA_ANY">
+			<Text>I can only assume your reluctance to spread your religion comes from lack of conviction.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PEDRO_ANY">
+			<Text>Your finest engineers and architects would be happier in a place where they could grow. Brasil, for instance.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PERICLES_ANY">
+			<Text>That city is ours. I would suggest you don’t interfere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PETER_GREAT_ANY">
+			<Text>Your people are starved for knowledge and beauty, and yet you ignore science and art. Why?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PHILIP_II_ANY">
+			<Text>Rather than penitent, you are blasphemous. The vengeance of God will be upon your head.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_QIN_ANY">
+			<Text>What need do you have for wonder when you can look upon the works of the Middle Kingdom?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SALADIN_ANY">
+			<Text>I will not abide sacrilege. You will pay for your blasphemy against the most exalted, he who knows no imperfections.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>No man is above the law. It behooves you to remember that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TOMYRIS_ANY">
+			<Text>Loyalty is its own reward. Do you not know this?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TRAJAN_ANY">
+			<Text>You have left the richest parts of the land for your enemies to claim. Are you so scared of expansion?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_VICTORIA_ANY">
+			<Text>You tread on dangerous waters in the face of England and her loyal colonies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CATHERINE_DE_MEDICI_REASON_ANY">
+			<Text>(You are weak in diplomatic visibility and Spies.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_ANY">
+			<Text>(You have a weak military.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_ANY">
+			<Text>(You are conquering or allying with city-states.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GANDHI_REASON_ANY">
+			<Text>(You are warmongering.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GILGAMESH_REASON_ANY">
+			<Text>(You have denounced one of my friends.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_GORGO_REASON_ANY">
+			<Text>(You have never gone to war or have capitulated in a peace deal.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_ANY">
+			<Text>(You have a weak navy.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_ANY">
+			<Text>(You are strong in military but not in Faith and Culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_ANY">
+			<Text>(You have established a religion but not brought it to Kongo.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_ANY">
+			<Text>(You have recruited more Great People.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_ANY">
+			<Text>(You are competing over city-states.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PETER_GREAT_REASON_ANY">
+			<Text>(You are weak in Science and Culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PHILIP_II_REASON_ANY">
+			<Text>(You are spreading your religion into his cities.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_ANY">
+			<Text>(You have built more wonders.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_SALADIN_REASON_ANY">
+			<Text>(You started a rival Religion, especially if you are at war with a civilization following his Religion.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(You have attacked someone on his home continent.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TOMYRIS_REASON_ANY">
+			<Text>(You have backstabbed a friend or declared a surprise war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TRAJAN_REASON_ANY">
+			<Text>(Your empire is small.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_VICTORIA_REASON_ANY">
+			<Text>(You have a presence on a continent she wants to settle.)</Text>
+		</Row>
+		<!-- Generic warnings for random agendas -->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_ANY">
+			<Text>Warning - Reason Unknown</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>You are not doing much to develop a strong culture. What will we have to remember about your people?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>You might want to look into a few more amenities for your citizens. I don't think they are enjoying your rule.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>Your empire is headed toward bankruptcy.  How can you survive with debt piling up?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>You tread on dangerous ground by making common cause with city-states. Leave them to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>Your people are lazy and unworthy. If you can produce nothing, your civilization will soon be forgotten.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>There are so few people living in your empire. It must be hard to get anything done.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>You are not spending much time on research. How will your people keep up?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>You have so few troops.  Aren't you scared for your life?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>Your cities are so close.  Your troops are so strong.  You are making me nervous!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_ AGENDA_GREAT_PERSON_ADVOCATE">
+			<Text>Your recruitment of great people we coveted is becoming a real problem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_ AGENDA_WONDER_ADVOCATE">
+			<Text>Do you not realize that we are supposed to be the preeminent builders of wonders?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_ATTACK_CITY_STATES">
+		  <Text>Only cowards attack the small powers of the world. You are worthless to us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MED_ATACK_CITY_STATES">
+		  <Text>Consider this a warning. Do not attack the minor powers again.</Text>
+		</Row>
+    <!--Warnings for future random agendas (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_AIRPOWER">
+			<Text>There is no glory to keeping your feet on the ground. You should really try building an airforce.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ATTACKS_CITY_STATES">
+			<Text>It is a deplorable thing to bully the weak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS">
+			<Text>How can you let those Barbarians run amok so close to your home?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ENVIRONMENT">
+			<Text>I must tell you that your destruction of our earth is not just affecting you, but your neighbors as well.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPLOITATION">
+			<Text>Bountiful lands surround you! How can you ignore them?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_DIFFERENT_GOVERNMENT">
+			<Text>Our ideological differences are only the beginning. I cannot approve of the way you govern your people...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_NUKE_LOVE">
+			<Text>Nuclear weaponry is the future! How can you not see that?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_FAITH">
+			<Text>What guides you? Surely, you cannot believe in nothing. Come, show your people the light!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_EXPLORATION">
+			<Text>There is only so much to discover, and I'm afraid I cannot abide anyone who sets out ahead of my own explorers.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

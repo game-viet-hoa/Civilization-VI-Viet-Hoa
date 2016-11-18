@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Ancient Rivals</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Expand your horizons and get civilized in this exploration and culture-based scenario set in the Ancient Era.  Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE][ICON_Bullet]Cultured - Research the most civics.[NEWLINE][ICON_Bullet]Explorer - Reveal the most hexes on the map.[NEWLINE][ICON_Bullet]Ancient Raider - Pillage the most hexes.[NEWLINE][ICON_Bullet]Wonder of the Ancient World - Possess the most wonders.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Ancient Rivals</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE][ICON_Bullet]Cultured - Research the most civics.[NEWLINE][ICON_Bullet]Explorer - Reveal the most hexes on the map.[NEWLINE][ICON_Bullet]Ancient Raider - Pillage the most hexes.[NEWLINE][ICON_Bullet]Wonder of the Ancient World - Possess the most wonders.[NEWLINE]</Text>
+		</Row>	
+
+		<!-- Victories -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Hãy cho tôi một cái đòn bẩy đủ dài và một điểm tựa để đặt lên, và tôi sẽ di chuyển cả thế giới. - Ác-si-mét</Text>
+		</Row>		
+		
+		<!-- Scenario Package -->
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Kịch bản chơi nhiều người: Ancient Rivals</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Mở rộng tầm nhìn của bạn đồng thời truyền bá văn minh trong quá trình khám phá này và văn hóa - dựa trên kịch bản được thiết lập trong thời kỳ cổ đại. Kéo dài 50 lượt.</Text>
+		</Row>	
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE]Cultured - Research the most civics.[NEWLINE]Explorer - Reveal the most hexes on the map.[NEWLINE]Ancient Raider - Pillage the most hexes.[NEWLINE]Wonder of the Ancient World - Possess the most wonders.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_AUTHORS">
+			<Text>Firaxis</Text>
+		</Row>
+		<Row Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Giới Hạn Lượt {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Victory Points {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Hexes Explored {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tiles Pillaged {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Civics Completed {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Wonders Possessed {WondersPossessed} {WondersStatusIcon}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

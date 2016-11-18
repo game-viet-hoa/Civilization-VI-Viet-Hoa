@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_NAPOLEON_RULESET_TITLE">
+			<Text>Cavalry and Cannonades</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_RULESET_TEASER">
+			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_NAPOLEON_VICTORY_TITLE">
+			<Text>No Waterloo For You</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_VICTORY_TITLE_ALT">
+			<Text>For Iron, Land, and Glory!</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_VICTORY_DESC">
+			<Text>Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
+			<Text>"The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos, both his own and the enemies." —Napoleon Bonaparte</Text>
+		</Row>
+
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_NAPOLEON_MOD_TITLE">
+			<Text>Multiplayer Scenario: Cavalry and Cannonades</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_MOD_TEASER">
+			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_MOD_DESCRIPTION">
+			<Text>Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_MOD_AUTHORS">
+			<Text>Firaxis</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_NAPOLEON_PROGRESS">
+			<Text>Territory Size {TerritorySize} {TerritorySizeIcon}</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
+			<Text>Turn Limit {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
+		</Row>
+		
+		<!-- End Game Leader Ranking -->
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
+			<Text>"Victory belongs to the most persevering." —Napoleon Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>The Emperor Napoleon I</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>First Consul Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Napoleon, General of the Interior</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Brigadier General Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Lieutenant Napoleon Bonaparte</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Napoleone di Buonaparte</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT">
+			<Text>Sovereign of the Iron Empire</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT">
+			<Text>Grand Admiral of the Fleet</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT">
+			<Text>Brigadier General of the Army</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT">
+			<Text>Cavalry Colonel</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT">
+			<Text>Captain of Artillery</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
+			<Text>Lieutenant Martinet</Text>
+		</Row>
+		
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_GOLDEN_HORDE_RULESET_TITLE">
+			<Text>Golden Horde</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_HORDE_RULESET_TEASER">
+			<Text>Survive overwhelming  waves of barbarians in this combat-focused scenario set in the Classic Era. Lasts 30 Turns.[NEWLINE]Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most Victory Points. Ties are resolved based on civilization score.[NEWLINE][ICON_Bullet]1 Victory Point for every barbarian killed.[NEWLINE][ICON_Bullet]3 Victory Points for every barbarian camp cleared.[NEWLINE][ICON_Bullet]5 Victory Points for every unpillaged improvement in your territory.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Barbarians are more plentiful.[NEWLINE][ICON_Bullet]Barbarians are more aggressive.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_GOLDEN_HORDE_VICTORY_TITLE">
+			<Text>Survivor Victory</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_HORDE_VICTORY_DESC">
+			<Text>At the turn limit, victory is awarded to the player with the most Victory Points. Ties are resolved based on civilization score.[NEWLINE][ICON_Bullet]1 Victory Point for every barbarian killed.[NEWLINE][ICON_Bullet]3 Victory Points for every barbarian camp cleared.[NEWLINE][ICON_Bullet]5 Victory Points for every unpillaged improvement in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_HORDE_VICTORY_WIN_BLURB">
+			<Text>YOU SURVIVED THE BEST!  YOU WIN</Text>
+		</Row>
+
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_GOLDEN_HORDE_MOD_TITLE">
+			<Text>Multiplayer Scenario: Golden Horde</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_HORDE_MOD_TEASER">
+			<Text>Survive overwhelming  waves of barbarians in this combat-focused scenario set in the Classic Era. Lasts 30 Turns.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_HORDE_MOD_DESCRIPTION">
+			<Text>Victory Conditions[NEWLINE]Survivor Victory - Survive and have the highest score at the turn limit.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Barbarians are more plentiful.[NEWLINE][ICON_Bullet]Barbarians are more aggressive.</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_HORDE_MOD_AUTHORS">
+			<Text>Firaxis</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SURVIVOR_PROGRESS">
+			<Text>Victory Points {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Barbarians Killed {BarbsKilled}*1 {BarbsKilledIcon}[NEWLINE]Barbarian Camps Cleared {BarbCamps}*3 {BarbCampsIcon}[NEWLINE]Unpillaged Improvements {UnpillagedNum}*5 {UnpillagedIcon}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

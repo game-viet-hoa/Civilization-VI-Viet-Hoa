@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
+			<Text>GOLD PER TURN</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
+			<Text>GOLD PER TURN[newline]{1_number} TURNS	</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
+			<Text>FOR {1_number} TURNS</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
+			<Text>LUXURY RESOURCES</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
+			<Text>STRATEGIC RESOURCES</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
+			<Text>AGREEMENTS</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CITIES">
+			<Text>CITIES</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
+			<Text>OTHER PLAYERS</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
+			<Text>CAPTIVES</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
+			<Text>GREAT WORKS</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
+			<Text>TECHNOLOGIES</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
+			<Text>{1_LeaderName}[NEWLINE]{2_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
+			<Text>Accept Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
+			<Text>Refuse Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
+			<Text>Propose Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
+			<Text>Demand Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
+			<Text>Accept Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
+			<Text>Refuse Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
+			<Text>Give Gift</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
+			<Text>Nevermind</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
+			<Text>Cancel Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
+			<Text>Cancel Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
+			<Text>Resume</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
+			<Text>Your Items</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
+			<Text>Their Items</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
+			<Text>What would you give me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
+			<Text>What would it take?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
+			<Text>Set deal details...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
+			<Text>Set deal details...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
+			<Text>{1_DisplayName} ({2_Turns} turns)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
+			<Text>{1_LeaderName} says:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
+			<Text>{1_Name}, return.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
+			<Text>Return {1_Name} to {1_LeaderName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
+			<Text>{1_Name}, cede.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
+			<Text>Cede {1_Name} to {1_LeaderName}</Text>
+		</Row>
+		<!--Deal Error Messages-->
+		<Row Tag="LOC_DEAL_CITY_NOT_FOUND">
+			<Text>City not found</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_DUPLICATE">
+			<Text>Another deal item has the same city</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
+			<Text>Not enough Gold</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Not enough Gold</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
+			<Text>Great Work not found</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_INVALID_PLAYER">
+			<Text>Invalid player</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
+			<Text>No slot in which to place work</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
+			<Text>Not enough of this resource</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_SPY_NOT_FOUND">
+			<Text>Spy not found</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
+			<Text>Population: {1_number}</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
+			<Text>Districts:</Text>
+		</Row>
+		<!-- Diplomactic Actions -->
+		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
+			<Text>Resident Embassy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
+			<Text>Demand Tribute</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
+			<Text>Open Borders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
+			<Text>Request Assistance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
+			<Text>Denounce</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
+			<Text>Surprise War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
+			<Text>Make Peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
+			<Text>Send Delegation</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
+			<Text>Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
+			<Text>Declare Friendship</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
+			<Text>Grant Influence Token</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
+			<Text>Gift Unit</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
+			<Text>Military Request</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
+			<Text>Declare War on Minor Civ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
+			<Text>Declare War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
+			<Text>Declare Holy War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
+			<Text>Declare Liberation War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
+			<Text>Declare Reconquest War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
+			<Text>Declare Protectorate War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
+			<Text>Declare Colonial War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
+			<Text>Declare War of Territorial Expansion</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
+			<Text>Defensive Pact</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
+			<Text>Joint War</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
+			<Text>Research Agreement</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
+			<Text>Promise To Not Spy</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
+			<Text>Promise To Not Convert Cities</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
+			<Text>Promise To Not Dig Up Artifacts</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
+			<Text>Promise To Not Not Settle Too Near</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_INVALID">
+			<Text>I will not make this deal under any circumstances.</Text>
+		</Row>
+		<!-- Diplomactic Action Tooltips-->
+		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
+			<Text>Establish a Research Agreement with a Declared Friend or Alliance member. Research Agreements allow two parties to jointly research a target technology. The more expensive the technology, the longer the agreement will take. At the duration of the agreement, each party earns the Boost for that technology.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
+			<Text>Establish a Joint War against a target civilization.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
+			<Text>Establish a Defensive Pact. When either member of the Alliance is attacked, all members will automatically declare war on the aggressor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Establish an Alliance with a Declared Friend. Allies may not go to war, automatically have Open Borders, and each receives a Casus Belli on an aggressor civilization if one of their allies loses a city.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
+			<Text>Establish a permanent Embassy with this power. If accepted, the recipient will be a bit friendlier, you will gain a level of Access, and the recipient's [ICON_Capital] Capital will be revealed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
+			<Text>Demand a diplomatic gift from this power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
+			<Text>Ask this power to allow your units to travel through their controlled territory.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
+			<Text>Ask this power for a diplomatic gift.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
+			<Text>Used to formally state your unhappiness with this power. A formal declaration of war (with or without a Casus Belli) can follow after 5 additional turns have passed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+			<Text>Used to immediately start a war. Normal warmonger penalties increased by 50%.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
+			<Text>Negotiate a deal to end the current war with this power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
+			<Text>Send a delegation with a gift of [ICON_Gold] for this power. If accepted, the recipient will be a bit friendlier and you will gain a level of Access. Lasts until you gain the Diplomatic Service Civic. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
+			<Text>Formally state your intention to maintain friendly relations with this power. While a friend you will be eligible for an Alliance but will not be able to declare war on this power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
+			<Text>Used to declare war on a player you have Denounced at least 5 turns ago. No restrictions on which cities you may capture.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has religiously converted one of your cities. All warmonger penalties halved.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has captured a city from one of your friends or allies.  No warmonger penalty for liberating any of those cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has captured one of your cities. No warmonger penalties apply.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has attacked one of your allied city-states. No warmonger penalty for liberating that city state.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that is two technology eras behind you. All warmonger penalties halved.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that borders your empire. Must have 2 of your cities within 10 tiles of 2 opponents' cities. Warmonger penalties reduced by 25%.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
+			<Text>Initiate trade negotiations with this power.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
+			<Text>Propose a peace deal with this power.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

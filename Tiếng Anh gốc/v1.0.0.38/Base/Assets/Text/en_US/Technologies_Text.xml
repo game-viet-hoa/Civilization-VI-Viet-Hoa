@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Allows harvesting of [ICON_RESOURCE_WHEAT] Wheat and [ICON_RESOURCE_RICE] Rice.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>Allows harvesting of [ICON_RESOURCE_CATTLE] Cattle and [ICON_RESOURCE_SHEEP] Sheep.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Allows chopping of Woods, and harvesting of [ICON_RESOURCE_Copper] Copper.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>Allows Builders to embark.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Allows clearing of Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>Allows harvesting of [ICON_RESOURCE_STONE] Stone.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Allows chopping of Rainforest. Reveals [ICON_RESOURCE_IRON] Iron.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Allows all land units to embark.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Allows Traders to embark, and allows harvesting of [ICON_RESOURCE_FISH] Fish.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement for all naval units.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production to the Mine improvement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Bonus [ICON_Culture] Culture for the Great Wall improvement for adjacency. Gain the ability to construct a Spy if playing as Catherine de Medici.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold from the Fishing Boat improvement. All naval and embarked units can navigate Ocean tiles. +1 [ICON_Movement] Movement for embarked units.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold from the Quarry improvement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Provides one more level of diplomatic visibility on all other civilizations. All [ICON_Tourism] Tourism yields from [ICON_GreatWork_Writing] Great Works of Writing are doubled.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production to the Mine improvement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Allows Research Agreement diplomatic action. +1 [ICON_Food] Food from the Plantation improvement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Stepwell improvements receive +1 [ICON_Housing] Housing.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement for embarked units.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Bonus [ICON_Tourism] Tourism to all improvements that provide [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Upgrades Farm improvements to Mechanized Agriculture. +1 [ICON_Food] Food Adjacency bonus for every Farm improvement they are adjacent to.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production from the Lumber Mill improvement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement for embarked units.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production from the Quarry improvement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>+1 [ICON_Food] Food to Fishing Boats.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Grants the ability to construct an additional Spy. All [ICON_Tourism] Tourism yields are doubled.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold to Camps.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production to Pastures.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Can be completed multiple times, increasing your points towards the Score Victory.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Found a city on the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Find a natural wonder.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Farm a resource.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Kill a unit with a Slinger.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Meet another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Build a Quarry.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>Kill 3 Barbarians.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Mine a resource.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>Improve 2 sea resources.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>Make a [ICON_TradeRoute] Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Build a Pasture.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Build an Iron Mine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>Own 2 Galleys.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>Build 3 different specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Build a Water Mill.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Build Ancient Walls.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Kill a unit with a Spearman.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>Build 3 Mines.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Have the Feudalism civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>Own 3 Archers.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Earn a Great Scientist.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Build an Aqueduct.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Have a government with 6 policy slots.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>Build 2 Harbors.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Build a Lumber Mill.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Have the Guilds civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Build an Armory.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>Build 2 Universities.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Kill a unit with a Musketman.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Build a University adjacent to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>Own 2 Crossbowman.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>Own 2 Bombards.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>Build 3 Workshops.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Have The Enlightenment civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Have 2 Forts in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Kill a unit with a Knight.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>Build 2 Shipyards.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>Build 2 Neighborhoods.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>Build 2 Banks.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Build a Niter Mine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Build an Industrial era or later wonder.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>Own 3 Musketman.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Build a Coal Mine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>Own 3 Privateers.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Build a National Park.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Complete a Research Agreement.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Extract an Artifact.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>Build 3 Biplanes.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Build 2 Power Plants.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Build an Airstrip.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Build an Oil Well.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Have a government with 8 policy slots.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>Build 2 Aerodromes.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>Build 2 Broadcast Centers.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Kill a Fighter.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>Own 3 Tanks.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Have the Globalization civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Build an Aluminium Mine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Boost through Great Scientist or Spy.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Gaining a city on the Coast has given your civilization insight into navigating the waves.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Discovering a natural wonder has inspired your people with the majesty of the universe.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Farming a resource has given you an appreciation of the importance of irrigating your crops.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>After finally killing an enemy with a Slinger, you long for a stronger ranged weapon.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>After meeting another civilization you see the need for new ways to communicate.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Quarrying a resource has given you the raw materials you need to employ masons.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Your fights with Barbarians highlight the need for stronger weaponry.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Your mining operations have given you the ability to create an axle. Will the wheel follow?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Your fishermen are learning how to guide their travels based on studying the night sky.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Your [ICON_TradeRoute] Trade Route directly exchanges goods, but a medium of exchange would make trade more flexible.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>With animals now domesticated into Pastures, it is time to learn to ride.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Access to a steady source of Iron has enabled you to build better weapons and stronger armor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Constructing a squadron of Galleys has taught you much about building larger ships.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Your district planners have worked out the basics of geometry. Maybe a full mathematical system will follow soon?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Work on the Water Mill has taught your workers much about construction practices.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Completing walls around your city demonstrated the principles of engineering needed for Aqueducts and Catapults.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Your spearmen are proving effective, but now your opponents are stronger and faster. Perhaps a longer weapon is needed?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>With raw materials now coming in from a wide variety of mines, the need to better teach new craftsmen to use them is essential.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>The feudal lords in your realm want a champion to defend their lands. Perhaps mounting an armored warrior will do the trick?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>You look to machinery to improve the performance of your sizable contingent of ranged troops.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>The teachings from your Great Scientist have inspired a renewed interest in learning in your realm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Your military leaders carefully followed the progress on your aqueduct. They see new ways to use these engineering skills.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Our new government’s defense minister suggests that we might want to build impressive defenses to protect our bustling capital.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>With so many ships leaving the harbors of your empire you long to document your explorations.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Now that you have a ready supply of standardized boards, your shipping industry will soon take off.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Your emerging guilds have plans that require a large influx of gold. Perhaps we can find a way to let them take out a loan?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Your men at the armory are fashioning a new weapon that will devastate opponents.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Out of necessity your scholars are devising methods for quickly copying books.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>The success of your Musketmen on land has spurred a new idea: what if we upgrade to gunpowder weaponry at sea?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Your scientists are hiking into the mountains for a sharper view of the heavens. Maybe a permanent facility would help?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>With so many Crossbowmen in the field, we’ve had a lot of practice studying ranged weapons.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>After creating bombards you realize that castles are not impregnable – you need a stauncher defense!.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>The busy workshops of your empire hint at greatness to come. Is an Industrial Revolution about to commence?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>The dawning of an age of enlightenment in our realm has sparked a serious discourse on our scientific methods.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Your cities have been protected by multiple fortifications, what if they could be defended by cannons?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Your valiant Knight has vanquished his foe. Let us learn from this victory and become students of military affairs.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Let us apply our industrial acumen to your newly-constructed shipyards. Steam-powered naval vessels could rule the seas.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>With the introduction of neighborhoods, our cities are growing larger than ever before.  Developing a sanitation plan is crucial.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>The power of your banks in on the rise.  It is time to formally study the forces that are shaping your national economy.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>With a source of niter, your firearms industry is switching into top gear. The next step will be to improve our accuracy.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Having completed a modern wonder, our engineers are sure they can tackle anything. What, are they thinking of flying next?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Your armament makers are tired of having to hand craft so many muskets.  Perhaps some standardization would help?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Your coal-powered blast furnaces should soon allow us to produce the finest-grade steel.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Your crafty privateers are intrigued by the discovery of electric current. Could they use this to create stealthy propulsion?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Your new national park needs visitors. Perhaps a new form of communications will help advertise it?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Joining forces with other nations has started a chain reaction of scientific advances.  Will the next push be in chemistry?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Your archaeologist has noticed petroleum seeping out of the rocks. Perhaps your geologists would like to take a look?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Your extensive experience with biplanes has led to several aeronautic breakthroughs.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Development of new power plants has spurred on industrial advances that could help your armament production.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Now that you know how to build portable airstrips on land, why not try one at sea?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Having a source of petrochemicals should lead to many advances. Its plasticity is of particular interest.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>A modern government comes with a lot of bureaucracy. Developing ways to efficiently track data will be a huge help.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>With facilities for aircrafts in multiple cities, your aeronautic industry is taking off.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>With your pioneers in radio and television leading the way, you’ve grown adept at transmitting data quickly.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Your military has defeated an enemy plane. Now it is time to have the best defense against enemy aircraft.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
