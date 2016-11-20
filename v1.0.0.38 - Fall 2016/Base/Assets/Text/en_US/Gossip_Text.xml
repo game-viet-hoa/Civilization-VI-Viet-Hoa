@@ -279,7 +279,7 @@
       <Text>{1_CivName} đã xây dựng {2_WMDCount} vũ khí hủy diệt hoàng loạt.</Text>
     </Row>
 		<Row Tag="LOC_GOSSIP_WMD_STRIKE">
-			<Text>{1_CivName} vừa tung ra một vũ khí hủy diệt hàng loạt! Một {2_UnitName}! Tìm chỗ ẩn nấp!</Text>
+			<Text>{1_CivName} vừa tung ra một vũ khí hủy diệt hàng loạt! Một {2_UnitName}! Hãy tìm chỗ ẩn nấp!</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_WONDER_STARTED">
 			<Text>{1_CivName} đã dọn dẹp đất trong {2_CityName} cho {3_BuildingName}.</Text>

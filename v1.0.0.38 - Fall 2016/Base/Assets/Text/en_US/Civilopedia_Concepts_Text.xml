@@ -90,10 +90,10 @@
 			<Text>Đặc Khu có thể đặt trên Rừng hoặc Rừng nhiệt đới nếu bạn có Công Nghệ loại bỏ chúng, nhưng thời gian xây dựng sẽ lâu hơn. Không có Đặc Khu nào có thể xây trên Vùng lũ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
-			<Text>Vùng Ngoại Ô và Sức Hấp Dẫn</Text>
+			<Text>Vùng ngoại ô và Sức hấp dẫn</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_1">
-			<Text>Neighborhoods are a special district that allows a city to house more [ICON_Citizen] Dân số and is affected by Appeal. The term “Appeal” is used to describe a special form of adjacency bonus that just applies to Neighborhoods, and also will affect Culture Victory’s [ICON_Tourism] Du lịch system through National Parks and Seaside Resorts.</Text>
+			<Text>Vùng ngoại ô là Đặc khu đặc biệt mà cho phép thành phố có thêm Nhà ở cho [ICON_Citizen] Dân cư và bị ảnh hưởng bởi Sức hấp dẫn. Thuật ngữ “Sức hấp dẫn” được sử dụng để mô tả một hình thức đặc biệt của phần thưởng liền kề mà chỉ áp dụng đối với Vùng ngoại ô, và cũng ảnh hưởng đến Chiến thắng văn minh bằng [ICON_Tourism] Du lịch thông qua Công viên quốc gia và Khu nghỉ dưỡng ven biển.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_2">
 			<Text>Ngây ngất: +6 [ICON_Housing] Nhà ở.</Text>
@@ -111,7 +111,7 @@
 			<Text>Ghê tởm: +2 [ICON_Housing] Nhà ở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_7">
-			<Text>Finally, Appeal also affects the ability to place National Parks and Seaside Resorts.</Text>
+			<Text>Cuối cùng, Sức hấp dẫn cũng ảnh hưởng đến khả năng đặt Công viên quốc gia và Khu nghỉ dưỡng ven biển.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_8">
 			<Text>Độ hấp dẫn của một ô có thể xem ở tooltip và bị tác động bởi:</Text>
@@ -174,19 +174,19 @@
 			<Text>Hạnh phúc là thước đo sự hài lòng của người dân trong từng thành phố, và có thể nhận thấy bằng mắt nếu [ICON_Citizen] Dân số của thành phố đó có nhiều [ICON_Amenities] Tiện nghi như mong đợi. 1 [ICON_Amenities] Tiện nghi sẽ cung cấp cho 2 [ICON_Citizen] Dân số, khởi đầu luôn là 3 [ICON_Citizen] dân số. Đây là lượng dân cư mặt định cho mỗi thành phố, nhưng với các thành phố hạnh phúc thì sẽ có 10% tốc độ tăng trưởng và 5% sản lượng. Hơn thế nữa, một thành phố có sức hút sẽ có tốc độ tăng trưởng là 20% và 10% sản lượng. Tương tự như vậy, nếu có quá ít [ICON_Amenities] Tiện nghi sẽ làm cho [ICON_Citizen] Công dân không hài lòng, và tốc độ tăng trưởng cũng như sản lượng sẽ thay đổi theo hướng tiêu cực. Còn khi ở tình trạng bất ổn, thì tăng trưởng của bạn sẽ dừng và quân nổi loạn sẽ xuất hiện trong thành phố của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_TITLE">
-			<Text>Amenity Sources</Text>
+			<Text>Nguồn tiện nghi</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Amenities] Tiện nghi can come from a wide variety of sources. Each Luxury resource can contribute up to 4 [ICON_Amenities] Tiện nghi to your empire (1 per city) to the 4 cities that need them most. Distribution happens automatically, as long as the Luxury resource is improved (a Plantation improvement built on Spices, for example). The Arena, built in the Entertainment Complex, provides [ICON_Amenities] Tiện nghi to its local city. The Zoo and Stadium also provide [ICON_Amenities] Tiện nghi, but regionally. Some wonders also provide [ICON_Amenities] Tiện nghi. Furthermore, there are a few Religious Beliefs and policies that provide [ICON_Amenities] Tiện nghi.</Text>
+			<Text>[ICON_Amenities] Tiện nghi có thể đến từ nhiều nguồn khác nhau. Mỗi tài nguyên quý có thể cung cấp đến 4 [ICON_Amenities] Tiện nghi cho 4 thành phố nào cần chúng nhất (1 cho mỗi thành phố). Nó sẽ được tự động phân phối, miễn là tài nguyên quý được khai thác (như xây Vườn ươm trên tài nguyên Gia vị). Đấu trường xây trong Khu giải trí cung cấp [ICON_Amenities] Tiện nghi cho thành phố đó. Sở thú và Sân vận động cũng cung cấp  [ICON_Amenities] Tiện nghi. Một số Kỳ quan cũng cung cấp [ICON_Amenities] Tiện nghi. Hơn nữa, một vài Tín ngưỡng tôn giáo và Chính sách cung cấp [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_2">
-			<Text>War weariness and bankruptcy will lower the [ICON_Amenities] Tiện nghi in a city.</Text>
+			<Text>Chiến tranh dai dẳng và phá sản sẽ làm giảm [ICON_Amenities] Tiện nghi trong một thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_TITLE">
-			<Text>Specialists</Text>
+			<Text>Các chuyên gia</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Specialists are alternative assignments for [ICON_Citizen] Citizens, which involve working a district tile instead of a normal tile. As a general rule, specialists are a good way to get yields otherwise hard to find on normal tiles, but the city needs a solid support base of [ICON_Food] Thực phẩm to support them in the long term. Specialists are also particularly useful when a city grows large later in the game, and has more [ICON_Citizen] Dân số than there are normal tiles to work. There are different types of specialists, each with different effects. All specialist types except the generic [ICON_Citizen] Citizen have a limit on how many assignments there can be in a city. This limit is determined by the number of buildings in the district associated with that specialist type.</Text>
+			<Text>Các chuyên gia được đưa ra thay thế cho [ICON_Citizen] Công dân, người mà làm việc trong Đặc khu hay một ô đất bình thường. Nhưng quy luật chung, các chuyên gia là một cách tốt để tạo sản lượng theo đúng mục đích, tuy nhiên thành phố cần phải có sự hỗ trợ vững vàng về [ICON_Food] Thực phẩm cho họ một cách lâu dài. Các chuyên gia rất có ích khi các thành phố phát triển vào cuối game, và có nhiều [ICON_Citizen] Công dân hơn ô đất bình thường. Có nhiều loại chuyên gia khác nhau, mỗi chuyên gia với các hiệu ứng khác nhau. Tất cả các loại chuyên gia ngoại trừ [ICON_Citizen] Công dân có một giới hạn về số lượng trong một thành phố. Giới hạn này được xác định bởi số lượng các kiến trúc trong Đặc khu tương ứng với mỗi loại chuyên gia.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
 			<Text>Thế Giới</Text>
@@ -201,61 +201,61 @@
 			<Text>Mỗi ô trong game đều thuộc về một lục địa. Lục địa là ranh giới địa lý, và không cần thiết gắn liền vào một mảng đất- bản đồ Pangea, là một ví dụ, nó tạo nên bởi vài lục địa. Bạn có thể xác dịnh lục địa của một ô bằng tooltip hoặc xem trong ống kính lục địa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_TITLE">
-			<Text>Resources</Text>
+			<Text>Tài nguyên</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Resources are sources of a variety of different yields ([ICON_Food] Thực phẩm, [ICON_Production] Sản phẩm, etc.), and some provide other special bonuses to a civilization. They appear in certain hexes. Some are visible at the start of the game, while others require the acquisition of specific technologies before you can see them. To utilize a resource, it must be within your civilization's borders and you must construct the appropriate "improvement" in that hex. There are three types of resources: Bonus, Luxury, and Strategic. </Text>
+			<Text>Tài nguyên là những nguồn cung cấp các sản lượng khác nhau như [ICON_Food] Thực Phẩm, [ICON_Production] Sản Phẩm, v.v.), và một số cung cấp những điểm thưởng đặc biệt khác cho nền văn minh. Chúng xuất hiện trong các ô lục giác. Một số có thể nhìn thấy lúc bắt đầu trò chơi, trong khi số khác yêu cầu hoàn thành một công nghệ nhất định trước khi có thể thấy chúng. Để sử dụng một tài nguyên, nó phải nằm trong phạm vi biên giới của nền văn minh bạn và phải xây dựng những "công trình" trong ô lục giác đó. Có 3 loại tài nguyên: Thưởng, Quý hiếm, và Chiến lược.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Bonus resources can increase the [ICON_Food] Thực phẩm, [ICON_Gold] Vàng, or [ICON_Production] Sản phẩm output of a hex. Bonus resources cannot be traded to other civilizations. These resources can be "harvested" by Builders to remove the resource and provide an immediate, one-time sum of [ICON_Food] Thực phẩm or [ICON_Production] Sản phẩm to the city that owns the hex.</Text>
+			<Text>Các tài nguyên thưởng có thể tăng sản lượng [ICON_Food] Thực Phẩm, [ICON_Gold] Vàng, hoặc [ICON_Production] Sản Phẩm của một ô lục giác. Tài nguyên thưởng không thể trao đổi với nền văn minh khác. Những tài nguyên này có thể được "thu hoạch" bằng cách để Thợ Xây xóa tài nguyên đó và cung cấp ngay lập tức tổng sản lượng [ICON_Food] Thực Phẩm hoặc [ICON_Production] Sản Phẩm cho thành phố sở hữu tài nguyên đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_3">
-			<Text>Luxury resources increase your civilization's happiness by providing [ICON_Amenities] Tiện nghi and provide a small bonus to the hex's yield output. Only one source of a specific Luxury resource provides [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Tài nguyên quý tăng mức hạnh phúc của nền văn minh bằng việc cung cấp [ICON_Amenities] Tiện nghi và cung cấp một lượng bổ sung nhỏ vào năng suất đầu ra của ô đất. Chỉ tài nguyên quý đầu tiên của mỗi loại cung cấp [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_4">
-			<Text>Strategic resources are not always visible at the start of the game—they may require knowledge of a particular technology before they appear on a map. Strategic resources allow you to build certain units. When you construct an improvement on a Strategic resource hex, it allows you to build units that require that resource (i.e. Musketmen require Niter) in any of your cities that has an appropriate district—Encampment for land units, Harbor for naval units, or Aerodrome for air units. If you build an improvement on 2 copies of that resource, you can build or purchase those units in any city, whether it has the appropriate district or not.</Text>
+			<Text>Các nguồn tài nguyên chiến lược không phải lúc nào cũng xuất hiện lúc bắt đầu trò chơi - chúng yêu cầu kiến thức công nghệ cụ thể trước khi xuất hiện trên bản đồ. Các nguồn tài nguyên chiến lược cho phép bạn xây dựng các đơn vị nhất định. Khi bạn phát triển công trình trên một ô tài nguyên Chiến lược, thì bạn có thể xây dựng các đơn vị liên quan (Vd: Lính hỏa mai yêu cầu Diêm Tiêu) trong bất kỳ thành phố nào có một đặc khu tương ứng - Khu quân sự cho các đơn vị bộ binh, Cảng cho đơn vị hải quân hoặc khu hàng không cho đơn vị không quân. Nếu bạn xây dựng 2 nguồn tài nguyên giống nhau, bạn có thể mua những đơn vị kia tại bất kỳ thành phố nào, cho dù có hoặc không có đặc khu tương ứng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_3_CHAPTER_CONTENT_TITLE">
-			<Text>Natural Wonders</Text>
+			<Text>Kỳ Quan Thiên Nhiên</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Natural wonders are the great and glorious creations of nature that awe and inspire us all. These include Crater Lake and the Great Barrier Reef – all places that truly display the grand beauty of the natural world. All natural wonders provide unique benefits to your civilization, and some even have additional special effects (for instance, healing adjacent to the Dead Sea will make a unit’s health refill completely.)</Text>
+			<Text>Các Kỳ Quan Thiên Nhiên là những tạo hóa tuyệt vời và huy hoàng mà chúng gây kinh ngạc và cảm hứng cho tất cả chúng ta. Như là Hồ Crater và Rạn san hô Great Barrier - tất cả những nơi này thực sự có một vẻ đẹp tuyệt trần của thế giới tự nhiên. Tất cả kỳ quan thiên nhiên mang lại những lợi ích đặc biệt cho nền văn minh của bạn, và còn mang lại nhiều lợi ích đặc biệt khác (ví dụ, khả năng phục hồi khi ở gần biển Chết sẽ phục hồi sức khỏe hoàn toàn cho một đơn vị).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_TITLE">
-			<Text>Rivers</Text>
+			<Text>Sông</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Traditionally, cities have been built along Rivers, and for good reason. Rivers provide fresh water for people to drink and irrigation, improving the farmland around the city. They also protect a city, as it is quite difficult to mount an assault against a city across a River.</Text>
+			<Text>Theo thông lệ, các thành phố được xây dựng dọc các con sông sẽ được thêm nhiều lợi ích. Các con công cung cấp nước sạch để uống và tưới tiêu, cải thiện đất nông nghiệp. Chúng cũng bảo vệ thành phố, khiến cho các cuộc tấn công bị ngắt quãng khi tấn công một thành phố có dòng sông bắt chéo qua.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_TITLE">
-			<Text>Tribal Villages</Text>
+			<Text>Làng thổ dân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Tribal Villages are less civilized than other civilizations, but are friendly nonetheless. Visiting tribal villages provide a random benefit to the civilization of the unit that first enters their tile. The village disappears after its gifts have been claimed. Gifts include survivors, such as Builders or Traders, technology or technology boosts, military units, [ICON_Faith] Đức Tin, [ICON_Gold] Vàng, [ICON_GreatWork_Relic] Relics or civic boosts.</Text>
+			<Text>Các làng thổ dân có nền văn minh thấp hơn những nền văn minh khác, nhưng lại rất thân thiện. Làng thổ dân cung cấp một lợi ích ngẫu nhiên cho nền văn minh của bạn tùy theo đơn vị nào vào làng đầu tiên. Ngôi làng sẽ biến mất sau khi quà được ban phát. Các món quà bao gồm người sống sót, như là Thợ xây, hoặc Thương nhân, công nghệ hoặc điểm tăng công nghệ, các đơn vị quân sự, [ICON_Faith] Đức tin, [ICON_Gold] Vàng, các [ICON_GreatWork_Relic] Di tích, hoặc tăng chỉ số Hành chính.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_TITLE">
-			<Text>Barbarians</Text>
+			<Text>Quân man di</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Barbarians come from "outposts", which may appear randomly in any tile that cannot be seen by a unit. Each Barbarian unit belongs to its own home outpost. There are three types of Barbarian outposts: Naval, Cavalry, and Melee. A civilization will earn a [ICON_Gold] Vàng reward for dispersing a Barbarian outpost − in addition to the benefit of stopping it from spawning more Barbarian units.</Text>
+			<Text>Quân man di đến từ các "tiền đồn", chúng có thể xuất hiện ngẫu nhiên ở bất kỳ ô nào mà với một đơn vị mà không thể thấy được. Mỗi đơn vị quân man di thuộc về tiền đồn đó. Có 3 loại tiền đồn của quân Man di: Hải quân, Kỵ binh, và Cận chiến. Nền văn minh sẽ nhận được vàng khi tiêu diệt một tiền đồn - ngoài ra còn có thể ngăn việc sản sinh thêm các đơn vị quân Man di khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_2">
-			<Text>Naval Barbarian outposts on the coastline can create naval units (equal to those that can be created by the civilization with the most advanced tech). These units will menace your coastline, destroy naval improvements and attack hapless land units which stray too near the coastline. It's important to maintain a navy to keep them off your back, but the best way to stop these attacks is to destroy the coastal outposts nearby.</Text>
+			<Text>Tiền đồn hải quân Man di có thể tạo ra các đơn vị hải quân (có sức mạnh tương đương với các nền văn minh có kỹ thuật tiên tiến nhất). Các đơn vị này sẽ uy hiếp bờ biển của bạn, phá hủy các công trình biển và tấn công các đơn vị đi lạc gần khu vực của chúng. Cho nên điều quan trọng là phải duy trì đơn vị hải quân ngăn cản chúng phía sau lưng của bạn, nhưng cách tốt nhất để ngăn những cuộc tấn công này là phá hủy tiền đồn ngoài biển gần đó của chúng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_3">
-			<Text>Cavalry outposts, appearing inland and near a Horse resource, will spawn mounted units.</Text>
+			<Text>Tiền đồn kỵ binh, xuất hiện trên đất liền và gần nguồn tài nguyên ngựa, sẽ sản sinh ra các đơn vị kỵ binh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_4">
-			<Text>Every outpost will first generate a Scout, searching for targets. If you’re spotted by a Barbarian Scout, it will return to its outpost and begin building units for an invasion or raid. Watch out, because you’re going to be the next target. If you don’t move fast, you’ll soon see a party of Barbarians at your borders, ready to destroy your improvements or conquer your city. This is why it's important to periodically sweep the countryside around your civilization, destroying outposts before they become a threat.</Text>
+			<Text>Mỗi tiền đồn đầu tiên sẽ tạo ra một do thám, để tìm kiếm các mục tiêu. Nếu bạn bị phát hiện bởi một do thám của quân Man di, chúng sẽ nhanh chóng trở về tiền đồn và bắt đầu xây dựng các đơn vị để xâm lược hoặc khám xét. Hãy cẩn thận, bởi vì bạn sẽ là mục tiêu tiếp theo. Nếu bạn không nhanh chóng chuẩn bị, thì bạn sẽ sớm nhìn thấy một nhóm quân Man di tiến sát biên giới của mình, sẵn sàng phá hủy các công trình hoặc xâm chiếm thành phố của bạn. Đó là lý do quan trọng tại sao phải rà soát định kỳ các vùng đất xung quanh thành phố của mình, và phá hủy các tiền đồn trước khi chúng trở thành mối đe dọa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_TITLE">
-			<Text>Lenses</Text>
+			<Text>Ống kính</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_1">
-			<Text>Lenses are a tool you can use to change your view of the world. Each lens will overlay important information that will help you make strategic decisions in the game. Some lenses are activated automatically, like when you choose to place a district from a city's Production Menu. Others can be activated manually from the Lenses button on the minimap. These are the lenses you can use in game and what they do:</Text>
+			<Text>Ống kính là công cụ được sử dụng để thay đổi cái nhìn về thế giới. Mỗi ống kính sẽ hiển thị các thông tin quan trọng để giúp bạn đưa ra các quyết định chiến thuật. Một số ống kính được kích hoạt tự động, như khi chọn vị trí để xây Đặc khu từ Menu Sản Phẩm. Một số ống kính khác được kích hoạt thủ công từ nút Ống kinh trên Minimap. Các Ống kính có thể sử dụng để:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
-			<Text>Appeal. Shows the appeal level of each tile.[NEWLINE][NEWLINE]Continent. Shows the geographic extent of each continent.[NEWLINE][NEWLINE]District Placement. Shows valid placement locations for wonders and districts, as well as any adjacency bonuses available for districts. This will only appear when attempting to build a district or wonder.[NEWLINE][NEWLINE]Government. Shows the distribution of governments across the map.[NEWLINE][NEWLINE]Political. Shows the owner of each tile.[NEWLINE][NEWLINE]Religion. Shows the majority religion and religious follower distribution across the map. This appears whenever a Religious unit is selected.[NEWLINE][NEWLINE]Settler. Shows recommended city sites and water availability at each tile.</Text>
+			<Text>Sức hấp dẫn. Hiển thị mức độ sức hấp dẫn của mỗi ô đất.[NEWLINE][NEWLINE]Lục địa. Hiển thị vị trí địa lý của mỗi lục địa.[NEWLINE][NEWLINE]Vị trí Đặc khu. Hiển thị vị trí hợp lệ để đặt Kỳ quan và Đặc khu, cũng như thông tin thưởng của các khu vực liền kề. Nó chỉ xuất hiện khi nghiên cứu xây dựng một Đặc khu hoặc Kỳ quan.[NEWLINE][NEWLINE]Chính phủ. Hiển thị sự phân bố của chính phủ trên bản đồ.[NEWLINE][NEWLINE]Chính trị. Hiển thị chủ sở hữu của mỗi ô đất.[NEWLINE][NEWLINE]Tôn giáo. Hiển thị tôn giáo chiếm ưu thế và sự phân bố tín đồ trên bản đồ. Chỉ xuất hiện khi đơn vị Tôn giáo đươc lựa chọn.[NEWLINE][NEWLINE]Dân di cư. Hiển thị vụ trí khuyến cáo đặt thành phố mới và lượng nước có sẵn cho mỗi ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_COMBAT_NAME">
 			<Text>Trận chiến</Text>
@@ -273,16 +273,16 @@
 			<Text>Có hai cách để tuyên bố chiến tranh. Cách đầu tiên yêu cầu bạn di chuyển một đơn vị quân đội bạn kiểm soát tiến vào một đơn vị của một nên văn minh khác. Lúc này sẽ có một tin nhắn thông báo xuất hiện hỏi xem bạn có muốn bắt đầu chiến tranh. Cách khác, chiến tranh có thể tuyên bố trong cửa sổ ngoại giao. Trong cửa sổ này, bạn sẽ luôn luôn có tùy chọn để tuyên bố chiến tranh bất ngờ, ngoại trừ với các đồng minh của bạn. Nền văn minh của bạn sẽ chịu một hình phạt cực nặng nếu bạn bất ngờ tuyên bố chiến tranh. Để tránh một số hình phạt (nhưng không phải là tất cả), lăng mạ về việc nền văn minh vi phạm và các tùy chọn để chính thức tuyên bố chiến tranh sẽ sớm xuất hiện trong các cửa sổ ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_TITLE">
-			<Text>War Weariness</Text>
+			<Text>Chiến tranh dai dẳng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Having a nation that is constantly at war will diminish the productivity and happiness of your people. War weariness grows for every battle you fight. This accumulation is worse when those battles occur in foreign territory or when your units are killed. It is worse still if those units are killed by a nuclear weapon, but launching a nuclear weapon yourself is the greatest source of war weariness. All war weariness you accumulate is increased if you declared war without using a Casus Belli.</Text>
+			<Text>Quốc gia nào liên tục có chiến tranh thì sẽ làm giảm năng suất và hạnh phú của mọi người. Chiến tranh dai dẳng sẽ phát triển cho mỗi trận chiến của bạn. Tích lũy này sẽ tồi tệ hơn khi chiến đấu trên lãnh thổ nước ngoài hoặc các đơn vị của bạn bị giết. Tồi tệ hơn là bị giết chết bởi vũ khí hạt nhân, nhưng phóng vũ khí hạt nhân mới là tồi tệ nhất. Tất cả chiến tranh dai dẳng sẽ tăng lên nếu bạn tuyên chiến mà không sử dụng Biện minh chiến tranh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_2">
-			<Text>War weariness is applied to every city you own as a negative [ICON_Amenities] Tiện nghi, lowering your city growth and productivity. Having low [ICON_Amenities] Tiện nghi for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.</Text>
+			<Text>Chiến tranh dai dẳng được áp dụng cho mỗi thành phố của bạn làm giảm [ICON_Amenities] Tiện nghi, giảm tăng trưởng và năng suất của thành phố. Có [ICON_Amenities] Tiện nghi thấp trong thời gian dài sẽ tạo ra quân nổi dậy trong các thành phố của bạn. Đơn vị thù địch này sẽ tấn công đơn vị của bạn và cướp các ô đất và Đặc khu.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_3">
-			<Text>While war weariness will slowly reduce while you are still at war, it reduces at a greatly increased rate when you are not at war with any player.</Text>
+			<Text>Chiến tranh dai dẳng sẽ giảm từ từ trong khi bạn đang trong chiến tranh, và giảm mạnh khi không có chiến tranh với người chơi nào.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_TITLE">
 			<Text>Warmongering</Text>
@@ -363,10 +363,10 @@
 			<Text>Cities can also be under siege from attacking units. The City Center and other defensible districts like the Encampment are considered under siege if all 6 tiles around them are occupied by enemy units, under enemy Zone of Control, or are impassable due to mountains or Natural Wonders. In these circumstances, the district will not recover lost health, instead of healing automatically every turn as normal.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_TITLE">
-			<Text>Conquering a City</Text>
+			<Text>Thống trị một thành phố</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_PARA_1">
-			<Text>When your unit enters an enemy city, you have two choices: you can destroy the city (if it was not a [ICON_Capital] Capital) or you can annex it and make it part of your empire.</Text>
+			<Text>Khi đơn vị của bạn đi vào thành phố kẻ địch, bạn có 2 lựa chọn: có thể phá hủy thành phố (nếu nó không phải là [ICON_Capital] Thủ đô) hoặc thôn thánh để đưa nó vào đế chế của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_TITLE">
 			<Text>Formations</Text>
@@ -705,37 +705,37 @@
 			<Text>Spies are not moved like other units. They jump from city to city using air, sea, road, or foot travel, each with their own travel time. Once established in a city, a Spy can be sent to a specific district and begin their mission. Missions include stealing technology boosts, creating rebel units, or simply increasing diplomatic visibility. Each mission takes a certain amount of time, and will have a different outcome. Your Spy may be killed or captured, or maybe he failed his mission but was not detected, or perhaps it was not detected and the mission was a success.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME">
-			<Text>City-States</Text>
+			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_1_CHAPTER_CONTENT_PARA_1">
-			<Text>City-states are the smaller political entities. They cannot win a game – they're not competing against you – but they can greatly assist or impede your progress towards victory. You can befriend city-states and gain a number of important benefits, you can ignore them and concentrate on bigger and more important foes, or you can conquer them and take their stuff. It's up to you. </Text>
+			<Text>Các thành phố tự trị là các thực thể chính trị nhỏ. Họ không thể chiến thắng Game – họ không cạnh tranh với bạn – nhưng họ có thể hỗ trợ hoặc cản trở tới sự phát triển dẫn đến chiến thắng của bạn. Bạn có thể kết bạn với thành phố tự trị và có được một số lợi ích quan trọng, bạn có thể bỏ qua chúng và tập trung vào mục tiêu quan trọng hơn, hoặc có thể chinh phục họ. Tất cả tùy vào bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_TITLE">
-			<Text>City-State Types</Text>
+			<Text>Các loại Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_1">
-			<Text>There are six different "flavors" of city-states. Each can provide you with different benefits if you befriend or ally with them.</Text>
+			<Text>Có sáu "hương vị" thành phố tự trị khác nhau. Mỗi loại cung cấp cho bạn các lợi ích khác nhau nếu bạn là đồng minh với họ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_2">
-			<Text>A trade city-state can provide [ICON_Gold] Vàng to your civilization.</Text>
+			<Text>Một thành phố tự trị thương mại có thể cung cấp [ICON_Gold] Vàng cho nền văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_3">
-			<Text>A Religious city-state can provide [ICON_Faith] Đức Tin to your civilization </Text>
+			<Text>Một thành phố tự trị tôn giáo có thể cung cấp [ICON_Faith] Đức Tin cho nền văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_4">
-			<Text>A militaristic city-state can provide [ICON_Production] Sản phẩm toward producing units.</Text>
+			<Text>Một thành phố tự trị quân đội có thể cung cấp [ICON_Production] Sản phẩm đối với đào tạo đơn vị.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_5">
-			<Text>A scientific city-state can provide [ICON_Science] Khoa học to your civilization.</Text>
+			<Text>Một thành phố tự trị khoa học có thể cung cấp [ICON_Science] Khoa học cho nền văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_6">
-			<Text>A cultural city-state can help you improve your [ICON_Culture] Văn minh. </Text>
+			<Text>Một thành phố tự trị văn minh có thể giúp cản thiện [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_7">
-			<Text>An industrial city-state can provide [ICON_Production] Sản phẩm towards wonders, buildings, and districts.</Text>
+			<Text>Một thành phố tự trị công nghiệp có thể cung cấp [ICON_Production] Sản phẩm đối với Kỳ quan, Kiến trúc và Đặc khu.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_TITLE">
 			<Text>Communicating with City-States</Text>
@@ -840,136 +840,136 @@
 			<Text>You can choose to adopt policies once you have gained [ICON_Culture] Văn minh to unlock your first government. Policies will be unlocked as you progress through the Civics Tree, and changing your government will allow you to slot different combinations of policies to better suit your play style. Any time a new government or policy is unlocked from the Civics Tree, you will have the opportunity to reslot or change your government for free. Otherwise, there will be a cost to make these changes.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
-			<Text>Policy Types</Text>
+			<Text>Các loại chính sách</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_1">
-			<Text>There are 4 different policy types to explore, each attributing to a different style of government. All types must be applied to an empty slot of the same type in the government, but a Wildcard slot can house any type of policy.</Text>
+			<Text>Có 4 loại chính sách khác nhau để khám phá, từng loại tạo ra các phong cách khác nhau cho chính phủ. Tất cả các loại phải được áp dụng ở slot tương ứng của từng loại trong chính phủ, nhưng một slot Bất ngờ có thể chứa bất kỳ loại chính sách nào.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Military: These policies are best for players who want a strong military on land and sea.</Text>
+			<Text>Quân sự: Là chính sách tốt cho các người chơi muốn quân đội mạnh mẽ cả trên đất liền lẫn biển cả.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_3">
-			<Text>Economic: These policies can be useful in increasing all sorts of yields, whether through increasing district adjacency bonuses or reducing costs.</Text>
+			<Text>Kinh tế: Là chính sách giúp tăng tất cả sản lượng thông qua việc tăng thưởng các khu đặc khu liền kề hoặc giảm chi phí.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_4">
-			<Text>Diplomatic: These policies are best for players with a strong interest in building relationships, and can help strengthen the bonds with city-states or improve espionage operations.</Text>
+			<Text>Ngoại giao: Là chính sách tốt cho người chơi có mối quan tâm lớn tới việc xây dựng các mối quan hệ, có thể giúp củng cố với thành phố tự trị hoặc cải thiện các hoạt động gián điệp.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_5">
-			<Text>Wildcard: These policies accelerate the rate of [ICON_GreatPerson] Great Person production.</Text>
+			<Text>Bất ngờ: Là chính sách đẩy nhanh tốc độ chiêu mộ [ICON_GreatPerson] Vĩ nhân.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GREATPEOPLE_NAME">
-			<Text>VĨ NHÂN</Text>
+			<Text>Vĩ nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Great People are the artists, merchants, engineers, scientists, generals, and admirals who can, singlehandedly, change the course of a civilization. There are nine types of [ICON_GreatPerson] Great People: [ICON_GreatArtist] Họa sĩ vĩ đạis, [ICON_GreatWriter] Nhà văn vĩ đạis, [ICON_GreatMusician] Nhạc sĩ vĩ đạis, [ICON_GreatEngineer] Kỹ sư vĩ đạis, [ICON_GreatMerchant] Thương gia vĩ đạis, [ICON_GreatScientist] Nhà khoa học vĩ đạis, [ICON_GreatProphet] Nhà tiên tri vĩ đại, [ICON_GreatAdmiral] Đại Đô Đốcs, and [ICON_GreatGeneral] Đại Tướng Quâns.</Text>
+			<Text>[ICON_GreatPerson] Vĩ nhân là các nghệ sĩ, thương gia, kĩ sư, nhà khoa học, đại tướng, đô đốc, người mà có thể giúp thay đổi nền văn minh. Có 9 loại của [ICON_GreatPerson] Vĩ nhân: [ICON_GreatArtist] Họa sĩ vĩ đại, [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatMusician] Nhạc sĩ vĩ đại, [ICON_GreatEngineer] Kỹ sư vĩ đại, [ICON_GreatMerchant] Thương gia vĩ đại, [ICON_GreatScientist] Nhà khoa học vĩ đại, [ICON_GreatProphet] Nhà tiên tri vĩ đại, [ICON_GreatAdmiral] Đại Đô Đốc, và [ICON_GreatGeneral] Đại Tướng Quân.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_TITLE">
-			<Text>Earning Great People</Text>
+			<Text>Chiêu mộ Vĩ nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Great People can be earned by generating enough of the right type of points. They are visible to all players, and they are visibly competed for between all players. Only major civilizations can earn [ICON_GreatPerson] Great People, not Barbarians or city-states. Each type of [ICON_GreatPerson] Great Person has its own points which are tracked separately. [ICON_GreatScientist] Nhà khoa học vĩ đại Points cannot count as [ICON_GreatArtist] Họa sĩ vĩ đại Points, and so on. The number of points needed to earn a particular [ICON_GreatPerson] Great Person depends that [ICON_GreatPerson] Great Person’s era. A Renaissance-era [ICON_GreatScientist] Nhà khoa học vĩ đại will cost much less [ICON_GreatScientist] Nhà khoa học vĩ đại Points than a Modern-era one. The points come from a variety of sources.</Text>
+			<Text>[ICON_GreatPerson] Vĩ nhân có thể được chiêu mộ thông qua hệ thống điểm của từng loại. Họ sẽ hiển thị cho các người chơi, và sẽ thấy được sự canh tranh giữa các người chơi này. Chỉ nền văn minh lớn mới có thể chiêu mộ [ICON_GreatPerson] Vĩ nhân, không phải quân man di hay thành phố tự trị. Mỗi loại của [ICON_GreatPerson] Vĩ nhân đều có điểm riêng lẻ. Chẳng hạn điểm [ICON_GreatScientist] Nhà khoa học vĩ đại không được tính cho [ICON_GreatArtist] Họa sĩ vĩ đại. Số điểm cần để chiêu mộ [ICON_GreatPerson] Vĩ nhân cụ thể sẽ phụ thuộc vào thời đại của [ICON_GreatPerson] Vĩ nhân. Thời đại phục hưng có phí [ICON_GreatScientist] Nhà khoa học vĩ đại ít hơn [ICON_GreatScientist] Nhà khoa học vĩ đại thời đại khác. Điểm đến từ nhiều nguồn khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Each district, and the buildings within it, provides points towards its associated [ICON_GreatPerson] Great Person type. This is the slow but steady source of points. Districts also allow a city to use [ICON_Production] Sản phẩm towards projects which, when completed, contribute [ICON_GreatPerson] Great Person points.</Text>
+			<Text>Mỗi đặc khu, và các kiến trúc trong nó, cung cấp các điểm tương ứng với từng kiểu [ICON_GreatPerson] Vĩ nhân. Tuy mất nhiều thời gian nhưng đây là nguồn điểm ổn định. Các Đặc khu cũng cho phép thành phố sử dụng [ICON_Production] Sản phẩm cho các dự án, mà khi hoàn thành, sẽ cung cấp các điểm [ICON_GreatPerson] Vĩ nhân.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_TITLE">
-			<Text>Using Great People</Text>
+			<Text>Sử dụng Vĩ Nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Each [ICON_GreatPerson] Great Person individual has a different effect, inspired by history. Most effects are strongly linked to a particular era of play, and are not optimal for use outside of that time. The effects fall into two broad categories, "birth" effects and "action" effects.</Text>
+			<Text>Mỗi cá thể Vĩ nhân có một hiệu ứng khác nhau, truyền cảm hứng từ lịch sử của họ. Hầu hết các hiệu ứng liên kết mạnh mẽ đến một thời kỳ cụ thể trong quá trình chơi, và không còn tối ưu khi vượt qua thời kỳ đó. Có hai loại hiệu ứng, hiệu ứng "khai sinh" và hiệu ứng "hành động".</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
-			<Text>A Birth Effect happens as soon as the [ICON_GreatPerson] Great Person is spawned on the map, and do not need to be activated. These are mostly used for Đại Tướng Quâns and Đại Đô Đốcs.</Text>
+			<Text>Một hiệu ứng Sản sinh sẽ xảy ra ngay khi một [ICON_GreatPerson] Vĩ nhân được chiêu mộ trên bản đồ, và hiệu ứng này không cần phải kích hoạt. Những hiệu ứng này hầu hết đi kèm với Đại Tướng Quân và Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_3">
-			<Text>An Action Effect must be activated by the [ICON_GreatPerson] Great Person by using a “charge” at a certain location. The number of charges, the type of location needed, and the effect activated will vary based on the individual. Most individuals only have 1 charge and can only activate at a district matching its type (ex. most [ICON_GreatScientist] Nhà khoa học vĩ đạis have 1 charge and must use it at a Campus). Like other charge-based units, the individual will disappear when all charges are depleted.</Text>
+			<Text>Hiệu ứng phải được kích hoạt bởi [ICON_GreatPerson] Vĩ nhân bằng cách sử dụng 1 "kích hoạt" tại một vị trí cụ thể. Số lượng kích hoạt, kiểu địa điểm và hiệu ứng được kích hoạt sẽ dựa theo từng cá nhân. Hầu hết các cá nhân chỉ có một điểm kích hoạt và chỉ có thể kích hoạt tại một đặc khu phù hợp (ví dụ hầu hết các [ICON_GreatScientist] Nhà khoa học vĩ đại có một điểm kích hoạt và phải sử dụng nó tại Khu tri thức). Cũng giống như các Vĩ nhân khác, các cá thể sẽ biến mất khi toàn bộ điểm kích hoạt được sử dụng hết.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_TITLE">
-			<Text>Moving Great People</Text>
+			<Text>Di chuyển Vĩ Nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Great People can move about the board like any other units. They are non-combat units, which means that they cannot stack in a tile with other non-combat units (Workers, Settlers), but they can stack with one military unit. If an enemy unit enters a [ICON_GreatPerson] Great Person's tile, that [ICON_GreatPerson] Great Person automatically retreats to a nearby city if able (the enemy doesn't capture it.)</Text>
+			<Text>[ICON_GreatPerson] Vĩ nhân có thể di chuyển giống như các đơn vị khác. Họ không phải là đơn vị chiến đấu, như vậy họ không thể đứng chung ô với các đơn vị phi chiến đấu khác (Thợ xây, Dân di cư), nhưng họ có thể đứng chung với đơn vị chiến đấu. Nếu một đơn vị đối phương di chuyển vào ô mà [ICON_GreatPerson] Vĩ nhân đang đứng thì [ICON_GreatPerson] Vĩ nhân sẽ tự động lui lại đến thành phố gần bên (miễn là đối phương chưa chiếm được thành phố đó).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_AIRCOMBAT_NAME">
-			<Text>Air Combat</Text>
+			<Text>Chiến đấu trên không</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới Thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_1_CHAPTER_CONTENT_PARA_1">
-			<Text>There are four main types of air units: support reconnaissance, support defense, fighters, and strategic bombers. These can be produced in any city that has built an Aerodrome and researched the prerequisite technologies.</Text>
+			<Text>Có 4 loại đơn vị không quân: hỗ trợ trinh sát, hỗ trợ phòng ngự, chiến đấu cơ, và máy bay ném bom chiến lược. Những đơn vị này có thể được sản xuất ở bất kỳ thành phố nào đã xây dựng khu hàng không và nghiên cứu những công nghệ tiên quyết.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_2_CHAPTER_CONTENT_TITLE">
-			<Text>Air Bases</Text>
+			<Text>Căn cứ không quân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Air units do not move around the map like ground and naval units. They must be "based" somewhere. The City Center can always hold one air unit, but building an Aerodrome, Airstrip, or Aircraft Carrier can increase your available slots. The Aerodrome can have up to 8 slots, the Airstrip 3, and the Aircraft Carrier begins with 2 but can gain more through promotions.</Text>
+			<Text>Các đơn vị không quân di chuyển không giống như các đơn vị mặt đất hoặc hải quân. Chúng phải được "dựa" vào một nơi nào đó. Trung tâm thành phố có thể giữ một đơn vị không quân, nhưng các kiến trúc như khu Hàng không, Đường băng, hoặc Tàu sân bay có thể gia tăng các bến đỗ. Khu hàng không có thể tăng lên đến 8 bến đỗ, Đường băng là 3, và Tàu sân bay lúc đầu là 2 nhưng có thể tăng thêm khi thăng cấp.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_TITLE">
-			<Text>Patrols</Text>
+			<Text>Tuần tra</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Fighter aircraft can be deployed to a valid hex within their [ICON_Movement] Di chuyển range from a friendly air base. After it is deployed, the aircraft will begin flying an orbiting pattern around its effective intercept range (currently 1 hex radius). This should make it more clear to both the attacker and defender the status of the Fighters in the Patrol state.</Text>
+			<Text>Chiến đấu cơ có thể triển khai đến một ô lục giác trong tầm di chuyển của chúng từ căn cứ không quân. Sau khi được triển khai, tàu bay sẽ bắt đầu bay xung quanh quỹ đạo trong tầm ảnh hưởng đánh chặn của nó (hiện tại là 1 ô lục giác). Điều này làm tăng trạng thái tấn công và phòng thủ của Chiến đấu cơ khi ở trạng thái Tuần tra.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_2">
-			<Text>The Patrol state is continuing, somewhat like the 'Fortify' unit operation. Once an aircraft has been set to Patrol it will do so until it is ordered otherwise or it is destroyed. While Patrolling, the aircraft will continue to intercept and defend against multiple attackers. </Text>
+			<Text>Trạng thái tuần tra đang tiến hành, có phần giống như hoạt động của đơn vị 'Cố Thủ'. Một khi một máy bay được thiết lập Tuần tra nó sẽ thực hiện cho đến khi nào được yêu cầu lệnh khác hoặc bị tiêu diệt. Trong khi Tuần tra, tàu bay sẽ tiếp tục đánh chặn và phòng thủ chống lại các cuộc tấn công.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_3">
-			<Text>At any time during the player's turn, Fighter aircraft can 'Return to Base' (station at a friendly air base) in order to heal. Aircraft stationed at an air base do not intercept attacking aircraft. Aircraft can heal at the end of the game turn when stationed on a City Center, Aerodrome, Airstrip, or Aircraft Carrier only if they have not been involved in combat. Healing is 'fastest' on an Aerodrome district, and less so on Airstrips and Carriers. These values can be increased through promotions and/or Policies.</Text>
+			<Text>Tại bất kỳ thời điểm nào trong suốt lượt đi của người chơi, Chiến đấu cơ đều có thể 'Quay về căn cứ' (đóng quân tại căn cứ không quân) để hồi phục. Máy bay đóng quân tại một căn cứ không quân thì không thể đánh chặn các cuộc không chiến. Máy bay có thể được hồi phục khi kết thúc lượt của trò chơi chúng được đóng quân tại Trung tâm thành phố, Khu không quân, Đường băng, hoặc Tàu sân bay nếu như chúng không tham gia chiến trận. Hồi phục nhanh hơn khi ở trên Khu không quân, và chậm hơn khi ở trên các Đường băng và Tàu sân bay. Những giá trị này có thể được tăng lên thông qua việc thăng cấp và/ hoặc các chính sách.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_4_CHAPTER_CONTENT_TITLE">
-			<Text>Air Strikes</Text>
+			<Text>Không kích</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Heavy Bomber aircraft cannot deploy on Patrols, but they are instead considered 'stationed' at a friendly air base and can carry out attacks from that base. Unlike Fighter aircraft, Bombers do not engage in dogfighting, but they head straight for their target and attack. Bomber aircraft can 'pillage' district buildings and city improvements by attacking them directly. The effect is the same as a ground unit pillage action with one exception - the attacking air unit does not get the resulting benefit from the pillage action. In order for a pillage to occur, the attacking air unit must be at 50% health or higher.</Text>
+			<Text>Máy bay ném bom hạng nặng không thể dùng cho việc đi tuần tra, nhưng thay vào đó chúng "đóng quân" tại những căn cứ không quân và có thể triển khai tấn công từ những khu quân sự này. Không như các chiến đấu cơ khác, Máy bay ném bom không tham gia các cuộc chiến trên không, mà chúng đi thẳng đến mục tiêu và tấn công. Máy bay ném bom có thể "cướp" các kiến trúc đặc khu và công trình của thành phố bằng cách tấn công trực tiếp. Các hiệu ứng thì giống như các đơn vị mặt đất nhưng với một ngoại lệ - các cuộc tấn công trên không không thể có được những lợi ích từ việc cướp bóc, trừ khi đơn vị không quân đó phải có lượng máu từ 50% trở lên.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_TITLE">
-			<Text>Interceptions</Text>
+			<Text>Đánh chặn</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Fighters can be set to "Intercept" enemy air attacks.  (AA Gun and Mobile SAM automatically intercept; they don't need to be given a special mission.) If an air unit tries an air strike against a target within the range of an intercepting unit, the interceptor will fire on the attacker and do damage to it. Unless the attacker is killed by the interceptor, the air strike proceeds. Only one unit can intercept an air strike, and once it does so, it cannot intercept any more that turn.</Text>
+			<Text>Các máy bay chiến đấu có thể được thiết lập "đánh chặn" các cuộc không kích của đối phương. (Súng phòng không và Tên lửa đất đối không có thể tự động đánh chặn, mà không cần phải đưa ra nhiệm vụ đặc biệt nào.) Nếu một đơn vị trên không cố gắng tấn công một mục tiêu nằm trong vùng của đơn vị đánh chặn, thì các đơn vị này sẽ tấn công chúng. Trừ khi kẻ tấn công bị giết bởi các đơn vị đánh chặn, thì số tiền thu được từ không kích. Chỉ một đơn vị duy nhất có thể đánh chặn một cuộc không kích, và chỉ một, nó không thể đánh chặn thêm một lần nào nữa trong cùng lượt đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_NUKES_NAME">
-			<Text>Nukes</Text>
+			<Text>Vũ khí hạt nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_TITLE">
-			<Text>Types</Text>
+			<Text>Các loại thiết bị hạt nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_1">
-			<Text>There are 2 categories of atomic weapons: the Nuclear Device and the Thermonuclear Device.  They can be built as a city Project in any city and both require the Uranium resource to produce. There is no limit on the number that a player can build. [NEWLINE][NEWLINE]Once a Nuclear or Thermonuclear Device is created, it is added to the player's inventory and can then be used by any unit or improvement capable of deploying it on the map. This includes bomber aircraft, Nuclear Submarines, and the Missile Silo.</Text>
+			<Text>Có 2 loại vũ khí nguyên tử: bom Hạt nhân và bom Nhiệt hạch. Chúng có thể được sản xuất như là một dự án trong bất kỳ thành phố nào và cả hai đều yêu cầu nguồn Uranium để sản xuất. Không có giới hạn về số lượng sản xuất.[NEWLINE][NEWLINE]Một khi một quả bom Hạt nhân hoặc Nhiệt hạch được tạo ra, thì nó được thêm vào kho của người chơi và có thể được sử dụng bởi bất kỳ đơn vị nào hoặc công trình có khả năng triển khai trên bản đồ. Điều này bao gồm máy bay thả bom, Tàu ngầm hạt nhân, và Silo tên lửa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Nuclear Devices have a blast radius of 1. When deployed from a Missile Silo, they have a [ICON_Range] Range of 12. They cost 14 [ICON_Gold] Vàng per turn to maintain.</Text>
+			<Text>Bom hạt nhân có bán kính nổ là 1. Khi được phóng từ Silo tên lửa thì [ICON_Range] bán kính là 12. Mất 14 [ICON_Gold] vàng mỗi lượt để duy trì.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Thermonuclear Devices have a blast radius of 2. When deployed from a Missile Silo, they have a [ICON_Range] Range of 15. They cost 16 [ICON_Gold] Vàng per turn to maintain.</Text>
+			<Text>Bom nhiệt hạch có bán kính nổ là 2. Khi được phóng từ Silo tên lửa thì chúng có [ICON_Range] bán kính là 15. Mất 16 [ICON_Gold] vàng mỗi lượt để duy trì.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_TITLE">
-			<Text>Destruction</Text>
+			<Text>Sự phá hủy hạt nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_PARA_1">
-			<Text>When an atomic weapon is detonated, several things happen to all the hexes within the blast radius. [ICON_Citizen] Citizens "working" the affected tiles are eliminated, units occupying the affected tiles are destroyed, and all tile improvements are pillaged. Any districts and buildings in the affected tiles are also pillaged and must be repaired to be used again. All tiles affected are contaminated with radioactive fallout.</Text>
+			<Text>Khi một quả bom nguyên tử được kích hoạt, thì toàn bộ các ô lục giác trong phạm vi nổ sẽ bị nhiều tác động. Các công dân "đang làm việc" trong các ô bị ảnh hưởng sẽ bị tiêu diệt hoàn toàn và các đơn vị khác nằm trong vùng ảnh hưởng cũng bị phá hủy. Bất kỳ đặc khu và kiến trúc nào nằm trong các ô bị ảnh hưởng cũng bị phá hủy và phải sửa chữa lại thì mới sử dụng lại được. Toàn bộ các ô bị ảnh hưởng thì bị nhiễm độc phóng xạ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_TITLE">
-			<Text>Contamination</Text>
+			<Text>Ô nhiễm hạt nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>After a nuclear attack, fallout will contaminate every tile affect  by the blast. Any units that end their turn in a contaminated tile take 50 damage each turn. [ICON_Production] Sản phẩm cannot be applied to anything in tiles containing contamination, such as repairing buildings and districts. Tiles that are contaminated cannot be worked by the city until the contamination timer expires or until the tile is "cleaned." </Text>
+			<Text>Sau cuộc tấn công hạt nhân, bụi phóng xạ sẽ gây ô nhiễm tất cả các ô trong vùng ảnh hưởng từ vụ nổ. Bất kỳ đơn vị nào nằm trong vùng nhiễm phóng xạ sẽ bị chịu 50 sát thương mỗi lượt.[ICON_Production] Sản phẩm không thể áp dụng cho bất kỳ ô bị nhiễm phóng xạ nào, kể cả sửa chữa các kiến trúc cũng như các đặc khu. Các ô bị nhiễm sẽ không thể hoạt động cho thành phố đến khi nào hết nhiễm phóng xạ hoặc các ô được "làm sạch".</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Nuclear contamination can be "cleaned" from affected tiles by Builder and Military Engineer units. Cleaning a contaminated tile takes 1 build charge. Builder and Military Engineer units that are able to clean contaminated hexes will take less damage if they end their turn in such a hex. Any city tiles not directly affected by the nuclear blast will still function normally and contribute to the city’s yield.</Text>
+			<Text>Các ô bị nhiễm hạt nhân có thể "làm sạch" bởi các Thợ xây và các đơn vị Kỹ sư quân đội. Để làm sách các ô bị nhiễm phóng xạ cần tiêu hao 1 phí xây dựng. Thợ xây và các đơn vị Kỹ sư quân đội có thể làm sạch các ô lục giác nhiễm phóng xạ sẽ nhận ít tổn thương nếu họ kết thúc lượt ngay tại ô lục giác đó. Bất kỳ ô đất nào của thành phố không bị ảnh hưởng trực tiếp từ vụ nổ hạt nhân vẫn sẽ hoạt động bình thường và phân phối sản lượng cho thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TOURISM_NAME">
-			<Text>Tourism</Text>
+			<Text>Du Lịch</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới Thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Tourism] Du lịch is needed in order to win a Culture Victory. You can generate [ICON_Tourism] Du lịch through Great Works, wonders, Holy Sites, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, Seaside Resorts and National Parks. You can boost your [ICON_Tourism] Du lịch through [ICON_TradeRoute] Tuyến đường thương mại, Open Borders, and shared (or conflicting) late game governments. </Text>
+			<Text>[ICON_Tourism] Du lịch là yếu tố cần thiết để giành chiến thắng văn minh. Bạn có thể tạo ra [ICON_Tourism] Du lịch thông qua các Thành tựu vĩ đại, các Kỳ quan, Thánh địa, [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật, các Khu nghỉ dưỡng ven biển và các Công viên quốc gia. Bạn có thể tăng điểm [ICON_Tourism] Du lịch thông qua [ICON_TradeRoute] Tuyến đường thương mại, Tự do đi lại, Vĩ nhân, Chính sách, và chia sẻ (hoặc đối nghịch) về các nền chính phủ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
 			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>
