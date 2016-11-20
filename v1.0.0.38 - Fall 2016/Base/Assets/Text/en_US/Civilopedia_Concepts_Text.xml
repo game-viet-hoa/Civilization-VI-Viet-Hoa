@@ -78,13 +78,16 @@
 			<Text>Đặc Khu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
-			<Text>Trong Civilization VI, các kiến trúc không còn bị giới hạn trong Thành Phố Trung Tâm nữa, nhưng sẽ được rải rác ra khắp vùng đất của đặc khu. Bản đồ sẽ quan trọng hơn vì bạn sẽ đối mặt với các lựa chọn vị trí chiến lược quan trọng. Khu Trí Thức và Thánh Địa được nhận các tăng trưởng từ những nơi gần Núi, nhưng chỉ có cái đầu tiên là được lợi ích từ nguồn tài nguyên của Rừng nhiệt đới. Những đặc khu đặc biệt, như là Khu trí Thức hoặc khu Thương Mại, sẽ yêu cầu một [ICON_Citizen] Dân Cư. Vùng Ngoại Ô và Khu Thủy Lợi không bị ảnh hưởng bởi yêu cầu này.</Text>
+			<Text>Trong Civilization VI, các kiến trúc không còn bị giới hạn trong Thành Phố Trung Tâm nữa, nhưng sẽ được rải rác ra khắp vùng đất của đặc khu. Bản đồ sẽ quan trọng hơn vì bạn sẽ đối mặt với các lựa chọn vị trí chiến lược quan trọng. Mỗi Khu Trí Thức và Thánh Địa nhận thưởng đặc biệt từ các ô Núi liền kề, nhưng Khu Tri Thức cũng hưởng lợi từ ô Rừng Nhiệt Đới gần đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_2">
-			<Text>Khi một thành phố đã sẵn sàng để xây dựng, nút Chọn Sản Phẩm sẽ xuất hiện. Nếu một đặc khu đã được sẵn sàng để xây dựng, nó sẽ xuất hiện trên menu này. Nhấp chọn vào đặc khu để ra lệnh cho thành phố bắt đầu xây dựng, mở ống kính đặc khu. Tại đây, bạn sẽ được cho một cái nhìn tổng quan về các sản lượng khác nhau trên từng ô xung quanh thành phố, và bạn có thể đưa ra lựa chọn tốt hơn nơi để đặt các đặc khu. Ống kính này cũng sẽ cho bạn thấy ô nào không thể xây dựng, vì một vài đặc khu có yêu cầu vị trí đặc biệt (ví dụ, Khu Quân Sự không thể xây dựng cạnh bên Thành Phố Trung Tâm). Hơn nữa, tất cả các đặc khu phải được xây dựng trong phạm vi 3 ô so với Thành Phố trung tâm.</Text>
+			<Text>Một thành phố phải gia tăng [ICON_Citizen] Dân cư trước khi có thể xây dựng nhiều Đặc Khu:[NEWLINE]• 1 [ICON_Citizen] Dân cư cho 1 Đặc Khu[NEWLINE]• 4 [ICON_Citizen] Dân cư cho 2 Đặc Khu[NEWLINE]• 7 [ICON_Citizen] Dân cư cho 3 Đặc Khu[NEWLINE]• Thêm mỗi Đặc Khu cần +3 [ICON_Citizen] Dân cư[NEWLINE]Khu thủy lợi, Vùng ngoại ô, và bất kỳ Đặc Khu đặc biệt của nền văn minh sẽ không có yêu cầu [ICON_Citizen] Dân cư.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_3">
-			<Text>Đặc Khu có thể đặt ở trên Rừng hay Rừng nhiệt đới nếu bạn có công nghệ để xóa các đặc tính này, nhưng sẽ tốn nhiều thời gian hơn.</Text>
+			<Text>Khi một thành phố sẵn sàng xây dựng một cái gì đó, nút Chọn Sản Phẩm sẽ xuất hiện. Nếu Đặc Khu có thể xây dựng, nó sẽ xuất hiện trong Menu này. Click vào Đặc Khu để bắt đầu xây dựng, ống kinh đặc khu sẽ được mở. Ở đây, bạn sẽ có cái nhìn tổng quan về sản lượng thu được của các ô đất khác nhau xung quanh thành phố trung tâm, và có thể gợi ý cho bạn một vị trị xây dựng Đặc Khu có lợi. Ống kính cũng hiển thị cả những ô đất chưa có chủ, cũng như một số Đặc Khu có yêu cầu về vị trí xây dựng (ví dụ, Khu quân sự không thể xây gần thành phố trung tâm). Còn nữa, tất cả đặc khu phải xây trong vòng 3 ô cách thành phố trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_4">
+			<Text>Đặc Khu có thể đặt trên Rừng hoặc Rừng nhiệt đới nếu bạn có Công Nghệ loại bỏ chúng, nhưng thời gian xây dựng sẽ lâu hơn. Không có Đặc Khu nào có thể xây trên Vùng lũ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
 			<Text>Vùng Ngoại Ô và Sức Hấp Dẫn</Text>
@@ -144,7 +147,13 @@
 			<Text>Kỳ quan</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Kỳ quan là các kiểu kiến trúc đặc biệt được xây dựng trên một ô lục giác và có tác động đáng kể đến lối chơi. Khi bạn chọn một kỳ quan để xây từ Menu Sản Xuất, Bạn sẽ chọn một ô màu để xây, giống như khi bạn xây các công trình khác vậy. Hầu hết các kỳ quan đều có những yêu cầu nhất định về địa điểm xây dựng, và ô màu sẽ sáng lên tức là bạn có thể xây trên đó, và toàn bộ kỳ quan phải được xây cách trung tâm thành phố 1 ô. Để biết thêm thông tin về mỗi kỳ quan, hãy xem mục Kỳ quan ở trong Civilopedia.</Text>
+			<Text>Kỳ quan là các kiểu kiến trúc đặc biệt được xây dựng trên một ô lục giác và có tác động đáng kể đến lối chơi. Khi bạn chọn một kỳ quan để xây từ Menu Sản Xuất, Bạn sẽ chọn một ô màu để xây, giống như khi bạn xây các công trình khác vậy. Hầu hết các kỳ quan đều có những yêu cầu nhất định về địa điểm xây dựng, và ô màu sẽ sáng lên tức là bạn có thể xây trên đó. Toàn bộ kỳ quan phải được xây trong vòng 3 ô cách thành phố trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Mỗi Kỳ Quan là duy nhất. Mặc dù các nền văn minh có thể cố gắng cùng xây dựng một kỳ quan, nhưng chỉ nền văn minh nào hoàn thành đầu tiên thì mới có được lợi ích từ nó. Các nền văn minh xây dựng thất bại sẽ được hoàn một phần [ICON_Production] Sản phẩm và [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Để biết thêm thông tin về mỗi Kỳ Quan, xem mục Kỳ Quan và Dự Án trong Civilopedia.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_TITLE">
 			<Text>Cung điện</Text>
@@ -966,7 +975,7 @@
 			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Có 5 loại Thành tựu vĩ đại. Viết lách, Mỹ thuật, và Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
+			<Text>Có 5 loại Thành tựu vĩ đại. Viết lách, Mỹ thuật, và Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật, từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích, được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học, hoặc có được thông qua Làng thổ dân hoặc thành phố tự trị Kandy. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
 			<Text>Khu nghỉ dưỡng ven biển</Text>
@@ -978,13 +987,19 @@
 			<Text>Công Viên Quốc Gia</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Nhà tự nhiên học có thể được mua trong thành phố của bạn bằng Đức tin sau khi nghiên cứu hành chính Bảo tồn, và có thể được dùng để thiết kế Công viên Quốc gia. Tạo một Công viên Quốc gia tiêu thụ một đơn vị Nhà tự nhiên học.</Text>
+			<Text>Tạo Công Viên Quốc gia có thể nâng cao [ICON_Tourism] Du lịch và [ICON_Amenities] Tiện nghi. Công Viên Quốc Gia được tạo bởi Nhà tự nhiên học, một đơn vị có thể mua được trong thành phố bằng [ICON_Faith] Đức tin sau khi nghiên cứu chính sách Bảo tồn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Công viên Quốc Gia có thể được xây dựng dựa trên một cụm gồm bốn ô lục giác xếp gần kề nhau:[NEWLINE]Các ô đó phải là kỳ quan tự nhiên, Núi, hoặc có sức hấp dẫn Đẹp trở lên.[NEWLINE]Tất cả bốn ô này phải cùng chung trong một thành phố.[NEWLINE]Các ô phải có hình dáng của kim cương.[NEWLINE]Các ô không được đang trong quá trình phát triển hoặc xây dựng đặc khu trên đó.</Text>
+			<Text>Công viên Quốc Gia có thể được xây dựng dựa trên một cụm gồm bốn ô lục giác xếp gần kề nhau theo yêu cầu:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_3">
-			<Text>Năng suất [ICON_Tourism] du lịch của một Công viên quốc gia bằng tổng sức hấp dẫn của tất cả các ô trong công công viên. Xây dựng một Công viên quốc gia sẽ cho nền văn minh của bạn một lượng lớn [ICON_Amenities] Tiện nghi. Bạn sẽ nhận 2 [ICON_Amenities] Tiện nghi trong thành phố sở hữu công viên và 1 [ICON_Amenities] Tiện nghi cho 4 thành phố gần nhất trong đế chế của bạn.</Text>
+			<Text>1. Các ô đó phải là kỳ quan tự nhiên, Núi, hoặc có sức hấp dẫn Đẹp trở lên.[NEWLINE]2. Tất cả bốn ô này phải cùng chung trong một thành phố.[NEWLINE]3. Các ô phải có hình dáng của kim cương.[NEWLINE]4. Không ô nào có công trình hoặc đặc khu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_4">
+			<Text>Có thể sử dụng Nhà tự nhiên học để thấy được các vị trí hợp lệ trên bản đồ. Đưa Nhà tự nhiên học đến vị trí được đánh dấu và thực hiện tạo Công Viên Quốc Gia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Năng suất [ICON_Tourism] du lịch của một Công viên quốc gia bằng tổng sức hấp dẫn của tất cả các ô trong công công viên. Ngoài ra, thành phố sở hữu công viện nhận 2 [ICON_Amenities] Tiện nghi, và 4 thành phố gần nhất trong nền văn minh của bạn nhận 1 [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME">
 			<Text>Chiến Thắng và Thất Bại</Text>
@@ -1020,7 +1035,7 @@
 			<Text>Đưa con người lên Mặt Trăng:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_5">
-			<Text>Cũng giống như sứ mệnh Apollo năm 1969, bạn sẽ đưa người lên mặt trăng. Điều này đã thành hiện thực sau khi nghiên cứu về công nghệ vệ tinh, và có thể xây một trạm không gian ở bất kỳ thành phố nào. Hãy chọn dự án sản xuất Đáp xuống Mặt Trăng để bắt đầu nhiệm vụ. Sau khi tên lửa của bạn đã được phóng, bạn ngay lập tức sẽ được thưởng lớn Văn minh.</Text>
+			<Text>Cũng giống như sứ mệnh Apollo 11 năm 1969, bạn sẽ đưa người lên mặt trăng. Điều này đã thành hiện thực sau khi nghiên cứu về công nghệ vệ tinh, và có thể xây một trạm không gian ở bất kỳ thành phố nào. Hãy chọn dự án sản xuất Đáp xuống Mặt Trăng để bắt đầu nhiệm vụ. Sau khi tên lửa của bạn đã được phóng, bạn ngay lập tức sẽ được thưởng lớn Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_6">
 			<Text>Thiết lập một thuộc địa trên sao Hỏa:</Text>
