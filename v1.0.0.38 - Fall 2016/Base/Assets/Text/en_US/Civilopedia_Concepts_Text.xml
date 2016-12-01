@@ -288,13 +288,13 @@
 			<Text>Kẻ hiếu chiến</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_1">
-			<Text>Kẻ hiếu chiến là một phần của kết quả ngoại giao; it can be a state of mind, considered a most honorable thing from a certain point of view. It is believed that a soldier in Napoleon's early days of conquest saw his General and Emperor’s constant warmongering to be of righteous cause! There are, however, some stiff penalties for launching a non-justified, or lack of Casus Belli, war.</Text>
+			<Text>Kẻ hiếu chiến là một phần của kết quả ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_2">
-			<Text>A player who launches into a non-Casus Belli war (see the section on Casus Belli under Diplomacy) will start to accumulate diplomatic warmongering penalties from other civilizations that player has come in contact with, on top of any war weariness already suffered. Launching a surprise war, capturing opposing civilizations cities, razing captured cities, and using nuclear devices increases the diplomatic penalty based on what era the player is in. </Text>
+			<Text>Một người chơi tuyên bố chiến tranh không sử dụng biện minh chiến tranh (Xem mục Biện minh chiến tranh trong phần Ngoại giao) sẽ bắt đầu tích lũy hình phạt kẻ hiếu chiến từ các nền văn minh khác mà người chơi xung đột, có thể phải chịu nhiều hình phạt chiến tranh dai dẳng. Tuyên bố chiến tranh bất ngờ, chiếm các thành phố của đối phương, san phẳng các thành phố, và sử dụng vũ khí hạt nhân sẽ tăng hình phạt dựa trên thời đại của người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_3">
-			<Text>The other approach is to denounce the opposing civilization first and then declare war formally. With this avenue to war, the warmonger penalties are NOT increased and there is the opportunity to use a Casus Belli to reduce those penalties.  However, because you must first denounce your opponent, such a plan is "telegraphed" for the target and you will not have the advantage of surprise.</Text>
+			<Text>Một phương pháp khác là lăng mạ đối phương trước tiên và chính thức tuyên bố chiến tranh. Bằng con đường này, hình phạt chiến tranh sẽ không tăng và có cơ hội sử dụng một Biện minh chiến tranh để giảm hình phạt. Tuy nhiên, bởi vì phải lăng mạ đối phương trước nên kế hoạch chiến tranh sẽ không còn tính chất bất ngờ nữa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Kết thúc chiến tranh</Text>
@@ -306,25 +306,25 @@
 			<Text>Quân man di sẽ không bao giờ chịu thương lượng. Chiến tranh với quân di sẽ kết thúc khi các quân man di bị tiêu diệt.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_TITLE">
-			<Text>Unit Combat Statistics</Text>
+			<Text>Thông số đơn vị chiến đấu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_1">
-			<Text>In Civilization VI, military units have five combat oriented stats: Hit Points, [ICON_Strength] Combat Strength, [ICON_Ranged] Ranged Strength, [ICON_Bombard] Bombard Strength, and [ICON_Range] Range.</Text>
+			<Text>Trong Civilization VI, các đơn vị quân sự có 5 thông số chiến đấu khác nhau: HP (máu), [ICON_Strength] Sức mạnh chiến đấu, [ICON_Ranged] Sức mạnh đánh xa, [ICON_Bombard] Sức mạnh bắn pháo và [ICON_Range] Tầm đánh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_2">
-			<Text>All units have 100 Hit Points. As a unit takes damage, it loses Hit Points. A unit is destroyed once it loses all of its Hit Points.</Text>
+			<Text>Tất cả các đơn vị có 100 HP. Mỗi khi đơn vị bị tất công thì sẽ bị mất HP. Đơn vị sẽ chết khi hết toàn bộ HP.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_3">
-			<Text>All military units have [ICON_Strength] Combat Strength. Melee units use their [ICON_Strength] Combat Strength when attacking or defending. Ranged units use their [ICON_Strength] Combat Strength when defending.</Text>
+			<Text>Tất cả đơn vị quân sự có [ICON_Strength] Sức mạnh chiến đấu. Đơn vị cận chiến sử dụng [ICON_Strength] Sức mạnh chiến đấu khi tấn công và phòng thủ. Đơn vị đánh xa sử dụng [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_4">
-			<Text>Any unit that can engage in ranged combat has a [ICON_Ranged] Ranged Strength statistic. This number is compared with the target's [ICON_Strength] Combat Strength to determine the results of the attack. Units with a [ICON_Ranged] Ranged Strength can also attack district defenses but at a reduced effectiveness.</Text>
+			<Text>Bất kỳ đơn vị nào đều có thể thực hiện đánh xa nếu có thông số [ICON_Ranged] Sức mạnh đánh xa. Con số này được so sánh với [ICON_Strength] Sức mạnh chiến đấu của mục tiêu để xác định kết quả của cuộc tấn công. Các đơn vị với 1 [ICON_Ranged] Sức mạnh đánh xa cũng có thể tấn công các đặc khu phòng thủ nhưng hiệu quả sẽ bị giảm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_5">
-			<Text>[ICON_Bombard] Bombard Strength is the anti-district strength of a unit. Units with [ICON_Bombard] Bombard Strength can also attack units, but at a reduced effectiveness. Units cannot have both a [ICON_Bombard] Bombard and [ICON_Ranged] Ranged Strength.</Text>
+			<Text>[ICON_Bombard] Sức mạnh bắn pháo là của một đơn vị chuyên tấn công đặc khu. Các đơn vị với [ICON_Bombard] Sức mạnh bắn pháo cũng có thể tấn công các đơn vị khác nhưng bị giảm hiệu quả. Các đơn vị không thể có cả hai sức mạnh [ICON_Bombard] Bắn pháo và [ICON_Ranged] Đánh xa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_6">
-			<Text>The unit's [ICON_Range] Range stat determines the distance at which a unit can launch a ranged attack. A [ICON_Range] Range of "2" means that the target can be in an adjacent tile or one tile distant. A [ICON_Range] Range of "1" would mean that the target had to be adjacent to the attacker.</Text>
+			<Text>[ICON_Range] Tầm đánh của các đơn vị là chỉ số phạm vị mà một đơn vị có thể thực hiện tấn công từ xa. [ICON_Range] Tầm đánh là "2" có nghĩa là mục tiêu có thể liền kề đơn vị hoặc cách một ô. [ICON_Range] Tầm đánh là "1" có nghĩa là chỉ tấn công được mục tiêu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_TITLE">
 			<Text>Đường ngắm</Text>
@@ -333,10 +333,10 @@
 			<Text>Thông thường, thì không có những vật cản, như là Ngọn núi, giữa một đơn vị đánh xa và mục tiêu. Các đơn vị đứng trên đồi hoặc đang bay có thể nhìn thấy qua địa hình cản trở.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_TITLE">
-			<Text>Combat Bonuses</Text>
+			<Text>Thưởng trận đánh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_1">
-			<Text>Warfare is not practiced by just the experienced and well equipped. Military history has shown time and time again that the combatant, using superior tactics, leadership, and the terrain to their advantage can defeat a numerically superior and better equipped force. In Civilization VI, it is no different.</Text>
+			<Text>Chiến tranh không được thực hiển bởi đơn vị có kinh nghiệm và trang bị tốt. Lịch sử quân sự đã cho thấy và một lần nữa việc sử dụng chiến thuật, lãnh đạo và lợi thế địa hình sẽ giúp đánh bại một lực lượng mạnh mẽ hơn. Trong Civilization VI sẽ không có gì khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_2">
 			<Text>In combining your military might with the right force organization of combined arms, leadership, and intuitive use of terrain you can have the power to destroy your enemies armies, no matter how big or small, advanced or not. Using terrain to your advantage, you can position your forces on Hills, in Rainforests or Woods, and across Rivers from your enemy to ensure a distinct defensive advantage. Looking at the enemies movements across terrain as they approach you can also help you better understand what their battle plan is or where they look to strike.</Text>
@@ -345,22 +345,22 @@
 			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Đại Tướng Quân will ensure victory!</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
-			<Text>Experience and Promotions</Text>
+			<Text>Kinh nghiệm và Huân chương</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_PARA_1">
-			<Text>A unit that survives combat will gain "Experience Points" (XP). Once a unit reaches a certain amount of XP it will 'level up', at which point it can receive a promotion. Promotions enhance the unit in some way. When selecting a promotion, the unit is healed an amount of Hit Points. The unit will not continue to gain any further XP until the promotion is selected.</Text>
+			<Text>Một đơn vị sống sốt sau các trận chiến sẽ nhận được điểm kinh nghiệm (XP). Mỗi khi đơn vị đạt đủ XP thì sẽ được 'lên cấp', tại thời điểm đó đơn vị sẽ nhận được một Huân chương. Huân chương sẽ giúp tăng sức mạnh cho đơn vị theo nhiều cách khác nhau. Khi lựa chọn một Huân chương, đơn vị sẽ hồi một lượng HP. Đơn vị sẽ không nhận XP cho đến khi lựa chọn một Huân chương.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_TITLE">
-			<Text>City Combat</Text>
+			<Text>Tấn công thành phố</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Cities may be attacked and captured by military units. Each city has a "City Combat Strength" stat that determines its strength when attacked by other units. The higher the city's City Combat Strength, the more difficult it is to capture the city. Unless the city is extremely weak or the attacking unit is extremely strong, it will take multiple turns to capture a city. </Text>
+			<Text>Các thành phố có thể bị tấn công và chiếm bởi đơn vị quân sự. Mỗi thành phố đều có "Sức mạnh thành phố chiến đấu" được dùng để xác định sức mạnh khi bị tấn công bởi đơn vị khác. Sức mạnh cao thì khó chiếm được thành phố hơn. Trừ khi thành phố rất yếu hoặc đơn vị tấn công quá mạnh thì cần phải mất nhiều lượt để có thể chiếm được thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_2">
-			<Text>Walls add extra protection to a city or Encampment, making it even more difficult to conquer. This protection is like armor, shielding the city from attacks. Melee units deal only 15% of their normal damage to walls, and ranged units deal only 50% of their normal damage. Only Bombard units deal 100% of their normal damage to walls, making them necessary to capture a fortified city. If the walls are damaged, they stop being as effective and the district's health will start taking a little bit of damage with every attack. Walls can only recover health with a Project found in the city's Production Queue, like repairing district buildings, that becomes available if the district has not taken any damage for 3 consecutive turns. Once a city has walls, it can make ranged attacks against enemy units using a "City Ranged Strength" stat.[NEWLINE][NEWLINE]The City Combat Strength is based on the [ICON_Strength] Combat Strength of the strongest melee unit built by your civilization, minus 10, or by the Combat Strength of a garrisoned military unit.[NEWLINE][NEWLINE]The City Ranged Strength is based on the [ICON_Ranged] Ranged Strength of the strongest ranged unit built by your civilization.[NEWLINE][NEWLINE]The city gets additional bonuses to its City Combat Strength for each non-pillaged district it has, making big cities harder to capture, and from terrain and a few other modifiers sources.</Text>
+			<Text>Tường thành thêm khả năng bảo vệ cho thành phố hoặc khu quân sự, làm cho nó khó bị chiếm hơn. Thứ bảo vệ này giống như giáp, che chở thành phố khỏi tấn công. Các đơn vị đánh gần chỉ gây 15% thiệt hại lên tường thành, và đơn vị đánh xa gây 50% thiệt hại. Chỉ có bắn pháo mới gây 100% thiệt hại, giúp cho việc chiếm một thành phố kiên cố dễ dàng hơn. Nếu tường thành bị thiệt hại hoàn toàn, chúng sẽ dừng việc bảo vệ và thành phố sẽ bị ảnh hưởng trực tiếp từ cuộc tấn công. Tường thành chỉ có thể được sửa với Dự án trong mục Sản xuất của thành phố, việc này giống như sửa chữa kiến trúc đặc khu, có thể làm việc này nếu đặc khu không bị tấn công trong 3 lượt liên tiếp. Mỗi thành phố có tường thành thì có thể tấn công từ xa kẻ địch bằng cách sử dụng "THÀNH PHỐ TẤN CÔNG TẦM XA".[NEWLINE][NEWLINE]Sức mạnh thành phố chiến đấu dựa trên [ICON_Strength] Sức mạnh chiến đấu của đơn vị cận chiến mạnh nhất trong nền văn minh của bạn trừ đi 10 hoặc bằng Sức mạnh chiến đấu của đơn vị đóng quân.[NEWLINE][NEWLINE]Sức mạnh thành phố tấn công tầm xa dựa trên [ICON_Ranged] Sức mạnh tầm xa của đơn vị đánh xa mạnh nhất trong nền văn minh của bạn.[NEWLINE][NEWLINE]Thành phố sẽ nhận được thưởng bổ chúng từ những khu vực không bị cướp bóc, thành phố lớn hay lợi thế địa hình thì sẽ khó bị chiếm hơn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_3">
-			<Text>Cities can also be under siege from attacking units. The City Center and other defensible districts like the Encampment are considered under siege if all 6 tiles around them are occupied by enemy units, under enemy Zone of Control, or are impassable due to mountains or Natural Wonders. In these circumstances, the district will not recover lost health, instead of healing automatically every turn as normal.</Text>
+			<Text>Các thành phố có thể bị bao vây bởi các đơn vị tấn công. Thành phố trung tâm và đặc khu phòng thủ khác như Khu Quân Sự bị coi là bao vây khi 6 ô xung quanh bị chiếm bởi kẻ địch, hoặc không thể đi qua như núi hoặc kỳ quan thiên nhiên. Trong trường hợp này, khu vực sẽ không thể hồi tự động lại lượng máu bị mất trong mỗi lượt như cách thông thường.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_TITLE">
 			<Text>Thống trị một thành phố</Text>
@@ -663,16 +663,16 @@
 			<Text>A Defensive Pact is an agreement between to leaders to come to each other's aid when targeted by a Declaration of War. If either member of the Defensive Pact is targeted, the other member will also declare war against the aggressor. Defensive Pacts are available through the Make Deal negotiation table. The two leaders must be in an Alliance to make the deal.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_TITLE">
-			<Text>Joint War</Text>
+			<Text>Tham gia chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_PARA_1">
-			<Text>After researching the civic Foreign Trade, a Joint War may be proposed between players. If you accept or propose a Joint War, you and another player will immediately be at war with the target player as set in the deal parameters.</Text>
+			<Text>Sau khi nghiên cứu hành chính Ngoại Thương, tính năng Tham Chiến sẽ được đề xuất giữa các người chơi. Nếu bạn đồng ý hoặc gửi yêu cầu tham chiến, bạn hoặc người chơi khác sẽ ngay lập tức gây chiến tranh với người chơi được chọn làm mục tiêu như trong thỏa thuận.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_TITLE">
-			<Text>Casus Belli</Text>
+			<Text>Biện minh chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Casus Belli represent reasons to go to war where the normal Warmonger penalty for a declaration of war or capturing cities are reduced or eliminated.  Once you reach the Renaissance era civic Diplomatic Service, you may accumulate Casus Belli against other powers.  See the table below for the conditions for each Casus Belli, the civic that unlocks them, and the percentage of the usual warmonger penalty that is applied.[NEWLINE][NEWLINE]Holy War: if one of your cities is converted to the enemy's religion[NEWLINE](Diplomatic Service, 50% warmongering)[NEWLINE][NEWLINE]War of Liberation: if a friend or ally had cities conquered[NEWLINE](Diplomatic Service, no warmongering if liberate cities conquered)[NEWLINE][NEWLINE]War of Reconquest: if you had cities conquered in a previous war[NEWLINE](Diplomatic Service, no warmongering if retake your previous cities)[NEWLINE][NEWLINE]Protectorate War: if a city-state you are Suzerain of is attacked[NEWLINE](Diplomatic Service, no warmongering if liberate city-state target)[NEWLINE][NEWLINE]Colonial War: if target civilization is two eras behind you in technology[NEWLINE](Nationalism, 50% warmongering)[NEWLINE][NEWLINE]War of Territorial Expansion: if target civilization borders your nation[NEWLINE](Mobilization, 75% warmongering)</Text>
+			<Text>Biện minh chiến tranh là lý do để đi đến chiến tranh mà ở đó hình phạt gây chiến sẽ được giảm xuống or capturing cities are reduced or eliminated.  Once you reach the Renaissance era civic Diplomatic Service, you may accumulate Casus Belli against other powers.  See the table below for the conditions for each Casus Belli, the civic that unlocks them, and the percentage of the usual warmonger penalty that is applied.[NEWLINE][NEWLINE]Holy War: if one of your cities is converted to the enemy's religion[NEWLINE](Diplomatic Service, 50% warmongering)[NEWLINE][NEWLINE]War of Liberation: if a friend or ally had cities conquered[NEWLINE](Diplomatic Service, no warmongering if liberate cities conquered)[NEWLINE][NEWLINE]War of Reconquest: if you had cities conquered in a previous war[NEWLINE](Diplomatic Service, no warmongering if retake your previous cities)[NEWLINE][NEWLINE]Protectorate War: if a city-state you are Suzerain of is attacked[NEWLINE](Diplomatic Service, no warmongering if liberate city-state target)[NEWLINE][NEWLINE]Colonial War: if target civilization is two eras behind you in technology[NEWLINE](Nationalism, 50% warmongering)[NEWLINE][NEWLINE]War of Territorial Expansion: if target civilization borders your nation[NEWLINE](Mobilization, 75% warmongering)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_TITLE">
 			<Text>Agendas</Text>
@@ -696,13 +696,13 @@
 			<Text>Traders. Establish a [ICON_TradeRoute] Tuyến đường thương mại to a civilization to increase visibility by one level.[NEWLINE][NEWLINE]Send a Delegation. Send a Delegation to a civilization to increase visibility by one level. Once Embassies are available, establishing an Embassy will replace this.[NEWLINE][NEWLINE]Spying or forming an Alliance. Establish a spy in another civilization's city to increase visibility by one level, or you can form an alliance with a friendly civilization. These two actions do not add separate Diplomatic Visibility levels - it does no good to spy on your allies![NEWLINE][NEWLINE]Send a spy on a Listening Post Mission. Performing the Listening Post mission in another civilization's city increases visibility by one level.[NEWLINE][NEWLINE]Research the Printing Press technology. This will increase your visibility with ALL civilizations by one level.[NEWLINE][NEWLINE]Play as Catherine de Medici. She gives France one level of access above normal at all times with civilizations she has met.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_TITLE">
-			<Text>Spies and Espionage</Text>
+			<Text>Điệp viên và Gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Starting in the Industrial era, Spies will become available. You may earn Spies from certain technologies and civics, and they can be built in any city. Spies begin at the Recruit level, and may gain levels from successful offensive operations, or capturing an enemy Spy. Upon reaching level 2, Spies may also earn promotions.</Text>
+			<Text>Bắt đầu vào thời kỳ Công nghiệp, Gián điệp sẽ xuất hiện. Bạn có thể mua Gián điệp sau khi nghiên cứu thành công các mục hành chính và công nghệ nhất định, và đơn vị này có thể được mua ở bất kỳ thành phố nào. Gián điệp bắt đầu ở cấp độ Tuyển dụng, và sẽ đạt được những cấp tiếp theo từ những hoạt động phá hoại thành công, hoặc bắt giữ một đơn vị gián điệp. Sau khi đạt được cấp độ 2, các Gián điệp sẽ đạt được thêm các kỹ năng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_2">
-			<Text>Spies are not moved like other units. They jump from city to city using air, sea, road, or foot travel, each with their own travel time. Once established in a city, a Spy can be sent to a specific district and begin their mission. Missions include stealing technology boosts, creating rebel units, or simply increasing diplomatic visibility. Each mission takes a certain amount of time, and will have a different outcome. Your Spy may be killed or captured, or maybe he failed his mission but was not detected, or perhaps it was not detected and the mission was a success.</Text>
+			<Text>Gián điệp không di chuyển giống như các đơn vị khác. Họ nhảy từ thành phố này đến thành phố khác bằng đường trên không, đường thủy, đường bộ hoặc đi bộ, mỗi kiểu mất một lượng thời gian riêng. Một khi được thiết lập tại một thành phố, gián điệp có thể được gửi đến một đặc khu cụ thể và bắt đầu nhiệm vụ. Các nhiệm vụ bao gồm đánh cắp các thành tựu công nghệ, tạo ra các đơn vị nổi dậy, hoặc đơn giản là tăng khả năng ngoại giao. Từng nhiệm vụ mất một khoảng thời gian nhất định, và sẽ có kết quả khác nhau. Gián điệp của bạn có thể bị giết hoặc bị bắt giữ, hoặc anh ta thất bại trong nhiệm vụ nhưng hoàn toàn không bị phát hiện, có thể không bị phát hiện cũng đã là thành công trong nhiệm vụ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME">
 			<Text>Thành phố tự trị</Text>
@@ -771,31 +771,31 @@
 			<Text>Resource Sharing: All of the city-state's resources are automatically exported to the Suzerain, and the Suzerain may build improvements in their city-state's territory.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TRADE_NAME">
-			<Text>Trade</Text>
+			<Text>Ngoại thương</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>The Trader unit is unlocked by researching Foreign Trade, and built in cities. Trader units are on a separate map layer, and do not interact with most normal things on a map. They can freely stack with any other units, and they ignore cultural borders.</Text>
+			<Text>Thương gia là đơn vị được mở khóa bởi hành chính Ngoại thương, và đào tạo từ trong các thành phố. Thương gia là đơn vị đứng trên lớp bản đồ riêng biệt, và không tương tác với hầu hết mọi thứ trên bản đồ. Họ có thể đứng chung ô với đơn vị khác và bỏ qua giới hạn biên giới đi lại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_2">
-			<Text>When a Trader is in a city the player owns, it can begin a [ICON_TradeRoute] Tuyến đường thương mại between that city and another city that is in range, as long as that [ICON_TradeRoute] Tuyến đường thương mại is not already active (for example, if I already have a [ICON_TradeRoute] Tuyến đường thương mại from Rome to Athens, I cannot start a second one), and the player has not reached their maximum number of [ICON_TradeRoute] Tuyến đường thương mại. </Text>
+			<Text>Khi một Thương gia ở trong thành phố của người chơi, họ có thể bắt đầu một [ICON_TradeRoute] Tuyến đường thương mại giữa thành phố này và một thành phố khác trong phạm vi, miễn là [ICON_TradeRoute] Tuyến đường thương mại giữa 2 thành phố chưa được kích hoạt (ví dụ nếu đã có một [ICON_TradeRoute] Tuyến đường thương mại từ Rome sang Athens thì không thể tạo tuyến đường thứ hai y hệt), và người chơi vẫn còn đủ số lượng [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Once made, the [ICON_TradeRoute] Tuyến đường thương mại will last for at least 20 turns on Standard game speed. The Trader unit will move automatically along its path for the duration of the route, but will not finish the route until it has returned to the origin city's tile. When on an active route, the Trader unit will disregard terrain restrictions and move 1 tile every turn, placing a Road as it moves. Don't forget to protect your Trader from Barbarians or hostile civilizations, as it is vulnerable to pillaging.</Text>
+			<Text>Khi thực hiện, [ICON_TradeRoute] Tuyến đường thương mại sẽ kéo dài ít nhất 20 lượt ở tốc độ bình thường. Thương gia sẽ tự di chuyển theo con đường của họ trong thời gian hoạt động, nhưng sẽ không được hoàn tất cho đến khi đơn vị quay trở về thành phố gốc. Khi kích hoạt tuyến đường, Thương gia sẽ bỏ qua hạn chế địa hình và di chuyển mỗi ô một lượt, đồng thời tạo một Con Đường ở đó. Đừng quên bảo vệ Thương gia khỏi Quan man di hoặc kẻ địch, vì họ rất dễ bị cướp bóc.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_TITLE">
-			<Text>Increasing Trade Routes</Text>
+			<Text>Tăng Tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>A player can only maintain a limited number of active [ICON_TradeRoute] Tuyến đường thương mại. This capacity is determined primarily by the number of Commercial Hub and Harbor districts they have, but can be increased by other means as well.</Text>
+			<Text>Một người chơi chỉ có thể duy trì một số lượng [ICON_TradeRoute] Tuyến đường thương mại hạn chế. Số lượng này chủ yếu được xác định bởi Khu thương mại và Khu cảng biển mà người chơi có, tất nhiên cũng có thể tăng bởi các yếu tố khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_TITLE">
-			<Text>Trade Range</Text>
+			<Text>Phạm vị tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>On land, a [ICON_TradeRoute] Tuyến đường thương mại can reach destinations within a range of 15 tiles. Once the player researches the technology that allows embarkation, Traders can also move over water. On water, the range is 30 tiles. Changing between land and water can only be done at a City Center or Harbor district, and the allowance does not carry over. If the city has a Trading Post, the Trader "refuels" its allowance for the new travel domain, and can move further. Otherwise, it must stop at that city.</Text>
+			<Text>Trên đất liền, [ICON_TradeRoute] Tuyến đường thương mại có thể hoạt động trong phạm vi 15 ô. Khi người chơi nghiên cứu công nghệ cho phép lên tàu ra biển, Thương gia cũng có thể di chuyển trên nước. Trên nước thì phạm vi này là 30 ô. Thay đổi giữa đất và nước chỉ có thể thực hiện ở Thành phố trung tâm hoặc Khu cảng biển. Nếu thành phố có một điểm giao thương, Thương gia có thể nghỉ chân và cho phép đi đến vùng đất mới xa hơn. Nếu không họ phải dừng lại thành phố đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Trading Posts</Text>
@@ -804,40 +804,40 @@
 			<Text>Trading Posts extend your trade network and make it more lucrative. Not only do they let you reach further destinations, they also provide bonus yields to any of your [ICON_TradeRoute] Tuyến đường thương mại that pass through them (even if they are not the destination). When a player owns a Trading Post in a city, regardless of who owns the city, that player’s [ICON_TradeRoute] Tuyến đường thương mại can “refuel” their [ICON_Movement] Di chuyển range and reach further destinations. Trading Posts are placed at a city once a [ICON_TradeRoute] Tuyến đường thương mại to or from that city successfully completes, and the Trading Post belongs to the player that owned the [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_TITLE">
-			<Text>Yields</Text>
+			<Text>Sản lượng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
-			<Text>A [ICON_TradeRoute] Tuyến đường thương mại provides yields based on where it goes and what path it takes. The districts within a destination city will determine the types of yields provided to the origin city. For example, trading with a city with a Holy Site will provide [ICON_Faith] Đức Tin, and trading with a city with a Theater Square district will provide [ICON_Culture] Văn minh.</Text>
+			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại cung cấp sản lượng dựa trên những nơi họ đi qua và thu thập được. Các đặc khu bên trong thành phố đích sẽ cung cấp sản lượng cho thành phố gốc. Ví dụ, giao thương với một thành phố có một Khu linh thiêng sẽ cung cấp [ICON_Faith] Đức Tin, và giao thương với một thành phố có một Khu nghệ thuật sẽ cung cấp [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
-			<Text>Chính phủ và chính sách</Text>
+			<Text>Governments and Policies</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_TITLE">
-			<Text>Chính Phủ</Text>
+			<Text>Governments</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Chính phủ cho phép tùy biến nền văn minh sao cho phù hợp với phong cách chơi của bạn bằng cách cung cấp các loại slot chính sách khác nhau , cũng như các ảnh hưởng từ chính phủ lâm thời.</Text>
+			<Text>Governments allow you to customize your civilization to match your play style by offering different combinations of slots to elect different types of policies, as well as offering distinct bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Được mở khóa thông qua cây Hành Chính, chính phủ có thể thay đổi theo thời gian. Ban đầu, sẽ có một chính phủ đơn giản với một số ít slot được mở khóa. Càng về sau thì càng nhiều slot đủ loại khác nhau được mở. Ở mỗi chính phủ đều có một phần thưởng đặc biệt; Chế độ thần quyền cho phép mua các đơn vị mặt đất bằng [ICON_Faith] Đức Tin với giá rẻ hơn.</Text>
+			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Đức Tin and offers a discount on [ICON_Faith] Đức Tin purchases when active.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Cuối cùng, tất cả chính phủ đều có phần thưởng kế thừa dựa trên những chính phủ được áp dụng từ trước đó. Ví dụ chuyển từ Chế độ thần quyền sang chính phủ khác thì nhận một phần thưởng kế thừa là giảm giá [ICON_Faith] Đức Tin dựa theo thời gian mà Chế độ thần quyền được áp dụng trong lịch sử. Có thể thay đổi chính phủ tại thời điểm bất kỳ, nếu chuyển sang chính phủ đã được áp dụng trước đó thì phải chịu sự Hỗn Loạn. Hỗn loạn kéo dài trong 2 lượt, cộng thêm 1 lượt cho mỗi lần chính phủ này được áp dụng trước đây. Hỗn loạn làm mất tất cả sản lượng và phần thưởng từ chính phủ.</Text>
+			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Đức Tin discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
-			<Text>Chính sách</Text>
+			<Text>Policies</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Chính sách có tác động cụ thể đến lối chơi. Một số giúp tăng [ICON_Production] Sản phẩm các thành phố, trong khi số khác tạo ra sự giàu có, và cũng như giúp có được một quân đội hiệu quả hơn. Không có lựa chọn chính sách nào là đúng hay sai cả, và một chính sách có thể tốt hơn ở một hoàn cảnh nhất định, hoặc cũng có thể phù hợp với cách chơi của bạn. Hảy thử và trải nghiệm.</Text>
+			<Text>Policies have concrete effects for gameplay. Some increase your cities’ [ICON_Production] Sản phẩm, while others generate more wealth, and still others help create a more effective military. There are no right or wrong policy choices in the game, and one policy may be better for a given circumstance than other, or better suit your personal playing style. Try them out and see.  </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Có 4 loại chính sách, mỗi chính sách đều có số slot tương ứng với lựa chọn chính phủ. Slot chính sách sẽ cung cấp những lợi ích và nâng cao trải nghiệm trò chơi.</Text>
+			<Text>There are 4 types of policies, each of which may be slotted into a corresponding slot in a given government. Slotting these individual policies will give you the benefits described and enhance your game.  </Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_TITLE">
-			<Text>Đạt được các chính sách</Text>
+			<Text>Gaining Policies</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Có thể chọn để áp dụng các chính sách khi sử dụng [ICON_Culture] Văn minh để mở khóa chính phủ đầu tiên. Các chính sách sẽ được mở khóa thông qua cây Hành Chính, và thay đổi chính phủ sẽ cho số lượt các loại slot khác nhau để phù hợp với phong cách chơi của bạn. Bất cứ khi nào một chính phủ mới hoặc chính sách được mở khóa thì có thể thay đổi các chính sách trong slot với giá miễn phí. Nếu không, sẽ mất một chút phí để thực hiện những thay đổi này.</Text>
+			<Text>You can choose to adopt policies once you have gained [ICON_Culture] Văn minh to unlock your first government. Policies will be unlocked as you progress through the Civics Tree, and changing your government will allow you to slot different combinations of policies to better suit your play style. Any time a new government or policy is unlocked from the Civics Tree, you will have the opportunity to reslot or change your government for free. Otherwise, there will be a cost to make these changes.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Các loại chính sách</Text>
