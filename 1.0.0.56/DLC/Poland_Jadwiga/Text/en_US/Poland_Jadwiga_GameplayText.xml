@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_POLISH_HUSSAR_NAME">
+			<Text>Polish unique unit: Winged Hussar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION">
+			<Text>Polish Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_ADJECTIVE">
+			<Text>Polish</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_SUKIENNICE_NAME">
+			<Text>Polish unique building: Sukiennice</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAINT_NAME">
+			<Text>Saint</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAINT_DESCRIPTION">
+			<Text>Tries to build up [ICON_Faith] Faith, and likes civilizations that also focus on [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUKIENNICE_CHAPTER_HISTORY_PARA_1">
+			<Text>Thanks to its location between Europe and Russia, Poland’s cities were vibrant with trade, as exemplified by the cloth halls (known as sukiennice in Polish) located in the great cities of the realm. It contained trading stalls, where vendors sold cloth, leather goods, wax, salt, peppers, spices, and silk from the Far East, indeed all sorts of exports and imports. Usually built in the center of towns, these were international marketplaces, larger and more magnificent than the run-of-the-mill markets scattered about Europe. In the halls and porticos, traders from dozens of lands made deals, and the locals—those who could afford it—found all the luxuries they could desire. In Poland, the oldest and largest was the Sukiennice of Krakow, rebuilt in the Renaissance style in 1555 AD after a fire. It was an important center for international trade between West and East until the end of the 16th Century (today its stalls sell snacks and souvenirs to tourists). But the cloth hall was also vital in other Polish cities, doing a booming trade in places such as Poznan, Wroclaw, and Torun.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_1">
+			<Text>The most salient feature of Poland’s topography is the extensive plain that stretches from the Baltic Sea in the north to the Carpathian Mountains to the south. Unfortunately for Poland, that plain served as the gateway for invasion—from Europe at the western borders and from Asia to the east. Poland also had the inconvenience to lie between Germany and Russia, who (for more than a millennium) cast covetous eyes on its rich lands and resources. Despite this, Poland managed to hold its own, and was once itself the biggest bully on the block.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_2">
+			<Text>According to semi-legendary accounts, Mieszko ruled the Polanie tribe from the fortified settlement of Gniezno. When marauding Magyars threatened the Wislanie tribe of Krakow, with whom Mieszko had close ties, he united both tribes—and in doing so, founded the Piast Dynasty. Mieszko converted to Christianity after Roman Catholic missionaries from Bohemia preached the spiritual and practical benefits, and was baptized in 966. Despite some debate, even most skeptical scholars now accept this date as the beginning of Poland.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_3">
+			<Text>A series of strong (or strong-arm) successors to Mieszko slowly converted the pagan Poles, established a firm dynastic grip, and dragged reluctant Poland into the broader European culture. Mieszko's son Boleslaw established a purely Polish-Catholic ecclesiastical organization, and his secular authority was recognized by the Germanic Holy Roman Emperor. This led to Boleslaw’s coronation in 1025, making him the first "King of Poland."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4">
+			<Text>Poland soon stretched from the Baltic to the Carpathians, loosely establishing its historical borders by 1100.  However, the death of Boleslaw III in 1138 brought complications to the century-old kingdom. With no tradition of primogeniture, Poland was divided among Boleslaw's several sons. The resulting fragmentation led to continuous internal conflict and external pressures throughout the next few centuries.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_5">
+			<Text>Wladyslaw, a minor duke of Piast lineage, spent his life reunifying the realm and was crowned King Wladyslaw I for his troubles. In defending Poland, Wladyslaw waged crusades against the pagan Lithuanians and Mongols, as well as a war to expel the self-righteous and greedy Teutonic Knights. Wladyslaw was succeeded by his even more able son, who began his reign as Casimir III and ended it as Casimir the Great. He would not only secure his father’s gains through astute diplomacy and brief, victorious warfare, but make Poland a center of culture, learning, and trade. Casimir more than doubled the size of the kingdom, reorganized the nation's economy and legal system, and provided the impetus for the establishment of Poland’s first university. Under Casimir’s liberal rule, Poland became a haven for the dispossessed and persecuted; Germans settled in the cities, Armenian and Slavic refugees in the rural lowlands, and thousands of Jews moved in and flourished. However, having no male heirs, Casimir the Great was the last Piast king, dying in 1370.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_6">
+			<Text>Casimir's designated successor was his nephew Louis I of Hungary (where Louis spent most of his time). His death in 1382 resulted in the recalcitrant Polish nobles crowning his youngest daughter Jadwiga king of Poland. Her marriage to Jogaila, the Grand Duke of Lithuania, also made him a Polish king—after he converted to Catholicism and took the good Polish name Wladyslaw II. The two co-kings ruled until her death in 1399, when it became far less confusing to deliver messages to the (sole) King of Poland.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_7">
+			<Text>Wladyslaw II brought the Poles into the conflict in 1401. They came to the aid of the Lithuanians, who were locked in a vicious war with the Teutonic Knights. At Grunwald in July 1410, after one of the most ferocious battles of the Middle Ages, his combined Lithuanian-Polish force won a victory so overwhelming that the Teutonic Order was virtually annihilated, with most of its leaders killed or captured.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_8">
+			<Text>The Jagiellonian monarchs would spend the following decades at (mostly victorious) war with their covetous neighbors—the resurgent Teutonic Knights, the Duchy of Prussia, the kingdoms of Bohemia and Hungary, the Grand Duchy of Moscow, and, to the south, the Ottoman Turks and the Crimean Tatars. The latter launched no less than 75 separate incursions between 1474 and 1569. They all just never seemed to learn. Overall, Poland’s kings were able to maintain its borders and influence throughout the dynasty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_9">
+			<Text>More significant and enduring than all those victories were the social and scientific advances under the Jagiellonians. In 1505, the Nihil Novi Act transferred most legislative power from the monarch to the Sejm, a parliament composed of the Polish nobility—a stumbling step towards democracy. Protestant Reformation movements, notably that led by John Hus of Bohemia, made inroads into Polish Catholicism and resulted in the establishment of laws promoting religious tolerance. Renaissance ideals evoked an urge to promote Polish arts and culture by the Jagiellonian kings Sigismund I and Sigismund II. And in 1543, an epochal work claiming a heliocentric model of the solar system was published by the Polish astronomer Nicolaus Copernicus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_10">
+			<Text>Spurred by rampant nationalism, "democratic" precepts, and (a few) concerns about foreign intentions, in June 1569 the Sejm passed an act establishing the Polish-Lithuanian Commonwealth, a unified federal state with an elected monarch—governed primarily by the nobility, through local assemblies and a central parliament. The childless Sigismund II, last of the Jagiellonian dynasty, accepted and signed the act. Although this is credited with instituting a period of stability and prosperity and the spread of Western culture to areas such as the Ukraine and western Russia, the Commonwealth found itself repeatedly embroiled in conflicts with Russia, Sweden, the Ottomans, Cossacks, and other unruly neighbors.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_11">
+			<Text>The toll of these wars—notably Poland-Lithuania’s involvement in the Great Northern War, coupled with a succession of weak elected kings—left the nation desperately in need of internal reform. During the middle years of the 18th Century, the Sejm moved to implement commercial, military, social and educational reforms. This effort included the Commission of National Education in 1773, the first state-sponsored education system in Europe, and taught all those peasants to read the Scriptures for themselves. Shortly thereafter, the Polish peasants began to agitate for more rights, and perhaps even a little taste of democracy themselves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_12">
+			<Text>By this time, the Bible was no longer the most common Polish reading material. In the previous centuries, under various high-minded monarchs, a distinctly Polish culture evolved and flourished. Polish authors cranked out all sorts of moody literature and poetry, like the works of Krasicki and Jan Polocki. Although Polish culture was profoundly affected by Germanic, Slavic, Latin and Byzantine threads, a distinct character arose in its architecture, art and dance. But where the Poles really excelled was in music, compelling in its timbre and tone, tempo and texture. Later world-famous Polish composers such as Chopin built their reputations, in part, on the great works of Mielczewski, Oginski, and Szymanowska.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_13">
+			<Text>Poland grew wealthy due to its export of agricultural goods. The Commonwealth was by far Europe’s largest producer of grain. As agrarian advances spread, Poland became a major exporter of fruit, spices, herring, fabrics, timber, beer and wine. All this produce was barged along the Vistula, Bug, and Neman rivers to Baltic ports such as Gdansk for shipment on to Flanders and the Netherlands. Overland routes ran deep into the Holy Roman Empire. To keep track of all this wealth, the Sejm had created the zloty as the national currency in 1496. During his reign, Poland's last king King Stanislaw August Poniatowski standardized the zloty in the wake of financial reforms … just in time for the Commonwealth to cease to exist.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_14">
+			<Text>Given that all this public spending on reform had emptied the treasury (and thus a way to pay the military), and that the nobles were understandably hesitant to put their lives and fortunes on the line, Poland’s neighbors weren't dissuaded from intervening. In 1772, the First Partition occurred when Russia, Austria and Prussia occupied portions of the country. Following the short Polish-Russian War, Prussia and Russia executed the Second Partition, which stripped Poland of so much territory as to leave it incapable of supporting itself economically or militarily. In 1795 the Third Partition by Austria, Russia and Prussia ceded the nation’s last holdings to these powers and independent Poland ceased to exist.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_15">
+			<Text>Following the last partition, Poland disappeared from the pages of history … almost. The Grand Duchy of Poland was resurrected by Napoleon as a free client state of the French Empire. Following Bonaparte’s defeat, it was ripped apart again by Prussia, Austria and Russia. After World War I Poland was reconstituted as a free nation, but had to fight a two-year war against the infant Soviet Union to maintain that freedom. Come 1939, it was divvied up between the erstwhile allies Nazi Germany and Soviet Russia. Reborn once again, it was Communist occupied behind the Iron Curtain. But in the 1990s, Poland was one of the first to take advantage of the rusted curtain to throw off Russian rule, becoming a free nation once more. If nothing else, the Polish people are persistent in their pursuit of self-rule.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_TITLE">
+			<Text>Jadwiga</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE">
+			<Text>Hedvig Rex Poloniae – and a Saint</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE">
+			<Text>Whoever  serves God has a good master.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_1">
+			<Text>In late 14th century Poland, there was little expectation for the king's third daughter to do much beyond secure her country's future through a marriage alliance. Yet in her short life, the devout Jadwiga would rule all of Poland. Selfless and canny, she sought to bring disparate peoples together through a common (and comprehensible) faith.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_2">
+			<Text>Jadwiga was born in 1373 to Elizabeth of Bosnia and Louis I, King of Hungary and Poland. Raised at the royal residences in Buda and Visegrad, Jadwiga was well-educated, fluent in five languages, and embarrassingly pious. When Louis's death in 1382 led to a succession crisis, Elizabeth sent young Jadwiga to Krakow to end it. Beloved by the Polish people for her kindness, endorsed by the Catholic church for her faith, and condoned by the stiff-necked Polish nobility for her affability, 11-year-old princess Jadwiga found herself crowned king of Greater Poland in 1384.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_3">
+			<Text>The new Polish king to rule in perilous times. A fistful of Casimir’s more tenuous descendants still had claims to the throne. Worse, Poland was threatened by Germanic states and the rulers of Muscovy, as well as possible invasion by the Mongols and Tartars. To shore up allies and safeguard Poland's future, Jadwiga agreed to marry Jogaila, the Grand Duke of Lithuania—provided he (and his subjects) converted from paganism to Catholicism.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_4">
+			<Text>Thus, in 1386 Jadwiga wed the newly-baptized Jogaila, who promptly took the name Wladyslaw II to make his rule palatable to the patriotic Poles. Wladyslaw was hastily crowned King jure uxoris (Latin for “by right of his wife”), two days before Lithuania was invaded by the Order of Brothers of the German House of Saint Mary in Jerusalem (in simpler terms, the Teutonic Knights). They claimed they sought to regain lands lost to Casimir—but really, any land would do.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_5">
+			<Text>The young king was instrumental in turning Lithuania from its pagan ways. She had a number of meetings with “Princes of the Church” concerning conversion and instructing the Lithuanians in their new faith. Wladyslaw was instrumental in this as well; it is said that he even cut down trees in the “sacred” groves of his homeland with his own hands. Jadwiga sponsored an annual scholarship for twenty Lithuanians to study at Prague’s Charles University so they could return to strengthen the faith in their homeland. And she founded a bishopric in Vilnius, that hotbed of sin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_6">
+			<Text>Jadwiga and Wladyslaw made a surprisingly effective team of co-rulers. During Jadwiga's diplomatic mission to meet the Master of the Teutonic Knights, her piety was said to so shame him for his order's greed and bloodthirstiness that they temporarily ceased their depredations. She also reconciled Wladyslaw with his cousin Witold, who sought to take the Lithuanian throne. In 1387 AD, Jadwiga led two military expeditions to reclaim lands in Ruthenia that had been claimed by Hungary. Although not much fighting occurred, Jadwiga’s efforts ended with the province’s return to Poland and Petru I of Moldavia paying homage to the Polish monarchs.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_7">
+			<Text>Being somewhat more polished than most of her subjects, Jadwiga also sought to enlighten them to the finer things. Jadwiga was a patron to many Polish artists and authors. Among her most notable contributions to the culture of Poland was the restoration of the Krakow Academy. She donated much of her personal jewelry to finance the school, which enrolled students in astronomy, law, and theology. Jadwiga also advocated for a wider comprehension of faith, and had the Bible translated from Latin into Polish vernacular.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_8">
+			<Text>Jadwiga's reign ended early. In 1399 she gave birth to her firstborn, a daughter—but within a month both mother and child were dead of complications from the delivery. Though Jadwiga lived only 25 years, she had been king for over half her life. By solidifying ties with Lithuania, she secured the future of both nations. Her co-ruler Wladyslaw managed to rule over Poland and Lithuania for another 35 year.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9">
+			<Text>Jadwiga was barely in her sarcophagus in Wawel Cathedral before her subjects began to venerate her holiness. Stories of Jadwiga's sanctity spread across the land, as well as miracles attributed to her. In one, the figure of Christ on a black crucifix spoke to her as she prayed. In another, she gave a piece of jewelry to a poor stonemason; when she left, her footprint remained behind in the hardened plaster floor. In yet another, a coppersmith’s son drowned while Jadwiga was part of a nearby Corpus Christi procession—she was said to restore his life by throwing her mantle over the boy. These three reported miracles were enough for the Catholic Church to canonize her as a saint in 1997.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_POLISH_HUSSAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Polish military reforms of the late 1570s gave birth to the winged hussars, a fearsome heavy cavalry force who would enjoy their elite status for the next two centuries. Rather than fielding cavalry comprised of foreign mercenaries, Transylvanian prince Stephen Bathory (also Grand Duke of Lithuania, King-by-right-of-his-wife of Poland, and collector of increasingly impressive titles) filled the ranks of the winged hussars with Polish nobility and their retinues. The famed "wings" were wooden frames with feathers attached, borne on a rider's back to clearly distinguish them. It was said the distinctive sound of the wings startled enemy horses and demoralized enemy soldiers with an "evil hiss"—by novelists of later centuries, who likely romanticized a ceremonial accessory. Far less contentious a question are the lances, sabers, and pistols the winged hussars brought to the battlefield, which no doubt startled enemy horses and demoralized enemy soldiers.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_POLAND_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_POLAND_SIZE">
+			<Text>Est. 120 thousand square miles (312.6 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_POLAND_POPULATION">
+			<Text>Latest 126.4 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_POLAND_CAPITAL">
+			<Text>Various (Plock, Poznan, Krakow, Warsaw)</Text>
+		</Row>
+		<!--Poland-->
+		<Row Tag="LOC_CITY_NAME_KRAKOW">
+			<Text>Kraków</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WARSAW">
+			<Text>Warsaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WROCLAW">
+			<Text>Wroclaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POZNAN">
+			<Text>Poznan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GDANSK">
+			<Text>Gdansk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BYDGOSZCZ">
+			<Text>Bydgoszcz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUBLIN">
+			<Text>Lublin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADOM">
+			<Text>Radom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LODZ">
+			<Text>Lódz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GNIEZNO">
+			<Text>Gniezno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PLOCK">
+			<Text>Plock</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARNOW">
+			<Text>Tarnów</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALISZ">
+			<Text>Kalisz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEGNICA">
+			<Text>Legnica</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SZCZECIN">
+			<Text>Szczecin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SACZ">
+			<Text>Sacz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PIOTRKOW_TRYBUNALSKI">
+			<Text>Piotrków Trybunalski</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KATOWICE">
+			<Text>Katowice</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INOWROCLAW">
+			<Text>Inowroclaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLOGOW">
+			<Text>Glogów</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CZESTOCHOWA">
+			<Text>Czestochowa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAMOSC">
+			<Text>Zamosc</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RACIBORZ">
+			<Text>Racibórz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SWIDNICA">
+			<Text>Swidnica</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADOMSKO">
+			<Text>Radomsko</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KONIN">
+			<Text>Konin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SLUPSK">
+			<Text>Slupsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WALBRZYCH">
+			<Text>Walbrzych</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STALOWA_WOLA">
+			<Text>Stalowa Wola</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LWOW">
+			<Text>Lwów</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_1">
+			<Text>Alojzy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_2">
+			<Text>Blazej</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_3">
+			<Text>Czeslaw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_4">
+			<Text>Dobrogost</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_5">
+			<Text>Grzegorz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_6">
+			<Text>Janusz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_7">
+			<Text>Jaroslaw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_8">
+			<Text>Lech</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_9">
+			<Text>Slawomir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MALE_10">
+			<Text>Zbigniew</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_1">
+			<Text>Adelajda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_2">
+			<Text>Aldona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_3">
+			<Text>Berta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_4">
+			<Text>Franciszka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_5">
+			<Text>Jagoda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_6">
+			<Text>Katarzyna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_7">
+			<Text>Milena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_8">
+			<Text>Patka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_9">
+			<Text>Radomila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_FEMALE_10">
+			<Text>Waleria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_1">
+			<Text>Bartosz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_2">
+			<Text>Cyryl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_3">
+			<Text>Feodor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_4">
+			<Text>Flawiusz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_5">
+			<Text>Janiusz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_6">
+			<Text>Kacper</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_7">
+			<Text>Maclej</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_8">
+			<Text>Syzmon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_9">
+			<Text>Tadeusz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_MALE_10">
+			<Text>Wilus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_1">
+			<Text>Angelika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_2">
+			<Text>Brygida</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_3">
+			<Text>Danika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_4">
+			<Text>Ewa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_5">
+			<Text>Kaja</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_6">
+			<Text>Lucja</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_7">
+			<Text>Magdalena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_8">
+			<Text>Pola</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_9">
+			<Text>Wiktoria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_10">
+			<Text>Zofia</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JADWIGA">
+			<Text>Pious Jadwiga, praise be to the glory of God, the earth, and Poland! Most holy King, you will show your people the truth and the light, and they will move beyond to spread the word to others. Protected by great winged warriors, you will rise to meet any challenge you face with a devout grace unmatched by any other.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Of course we will accept your friendship. You are a shining example of goodness in this world.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>I humbly decline your offer of friendship. It is not God’s will at this time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Your nation is as a sister to ours. Let us officially declare our friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Very good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>I will ignore this insult.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>So, you show your true nature: a serpent lying in the grass… easily trampled.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>I must protect the interests of Poland. Surrender quickly so that this may end without bloodshed.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>We have received your trade delegation, and your gifts as well. They will be treated as guests of honor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>We politely refuse your delegation.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>I have sent a trade delegation to you with gifts of pisanki. They have been blessed and are no longer part of pagan tradition.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>I am a pure and humble servant of God. My conscience is clean. I have nothing to hide.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Evil cannot stay hidden for long. God will always bring it to light. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JADWIGA_ANY">
+			<Text>A meeting blessed by God, I am sure. I am Jadwiga the King of Greater Poland. Yes, a king.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JADWIGA_ANY">
+			<Text>I humbly invite you to be our guest of honor and join us in our nearby city. There is a festive folk dance we could enjoy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JADWIGA_ANY">
+			<Text>Yes, I accept your proposal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JADWIGA_ANY">
+			<Text>Tell me of your capital. Of course, I am happy to tell you of Poland’s, if you wish.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JADWIGA_ANY">
+			<Text>A pleasure.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JADWIGA_ANY">
+			<Text>I see you have found God’s wisdom, and that you share it with the world. Good.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_ANY">
+			<Text>(You have strong [ICON_Faith] Faith output)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JADWIGA_ANY">
+			<Text>Everyday, I pray for your soul, that you find the wisdom of the Lord.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_JADWIGA_REASON_ANY">
+			<Text>(You have weak Faith output.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Would you like to form an alliance?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JADWIGA_ANY">
+			<Text>I never wanted this war. I want only peace between us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JADWIGA_ANY">
+			<Text>Certainly not.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>I have seen God’s will, and it is to end this bloodshed. What do you say?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>We welcome your people into Poland. Enjoy your travels through our beautiful country.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>These borders are sacred, and upheld by God. I cannot allow it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>My people need to move through your nation. They will obey your laws, if you allow them passage.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JADWIGA_ANY">
+			<Text>Your armies have not gone unnoticed. Please remove them from our presence.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>No, I am not ready to leave God’s service. I am just beginning his good work!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>That is troubling.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Thank you very much.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAINT_HIGH_FAITH">
+			<Text>Jadwiga is please that you are gaining lots of Faith</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAINT_LOW_FAITH">
+			<Text>Jadwiga is disappointed that you do not earn much Faith</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

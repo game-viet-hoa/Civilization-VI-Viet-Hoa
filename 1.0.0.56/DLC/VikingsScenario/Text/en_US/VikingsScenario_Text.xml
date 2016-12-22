@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Remove Harold's DoM blurb-->
+		<Delete Tag="LOC_LOADING_INFO_LEADER_HARDRADA"/>
+	</LocalizedText>
+	<BaseGameText>
+		<!-- City-State Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_DESCRIPTION">
+			<Text>Apuolė city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ARLES_DESCRIPTION">
+			<Text>Royaume d’Arles </Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_DESCRIPTION">
+			<Text>Asilah city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BALARM_DESCRIPTION">
+			<Text>Emirate of Sicily</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_DESCRIPTION">
+			<Text>Alt Clut</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GIJON_DESCRIPTION">
+			<Text>Regnum Asturorum</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_DESCRIPTION">
+			<Text>Zirid Dynasty</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_DESCRIPTION">
+			<Text>Nafarroako Erresuma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PISA_DESCRIPTION">
+			<Text>Repubblica di Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_DESCRIPTION">
+			<Text>Bulgarian Khanate</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ROME_DESCRIPTION">
+			<Text>Status Pontificius</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_DESCRIPTION">
+			<Text>Miercna rīce</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_DESCRIPTION">
+			<Text>Ēast Engla Rīce</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_DESCRIPTION">
+			<Text>Tmutarakan city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VENICE_DESCRIPTION">
+			<Text>Repùblica Vèneta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_DESCRIPTION">
+			<Text>Westseaxna rīce</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_DESCRIPTION">
+			<Text>Wòlin city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_YORK_DESCRIPTION">
+			<Text>Norþhymbra rīce</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ALCAZAR_NAME">
+			<Text>Andalusian unique improvement: Alcázar</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_UNIT_MOORISH_FARFANES_NAME">
+			<Text>Andalusian unique unit: Farfanes</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_IMPROVEMENT_MONASTERY_NAME">
+			<Text>Unique improvement: Monastery</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_UNIT_QUADRIREME_NAME">
+			<Text>Byzantine unique unit: Quadrireme</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_UNIT_FRANKISH_CABALLARII_NAME">
+			<Text>Frankish unique unit: Caballarii</Text>
+		</Row>
+		<!--Denmark City Names-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ODENSE">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_RIBE">
+			<Text>Ribe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ROSKILDE">
+			<Text>Roskilde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CAEN">
+			<Text>Caen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LUND">
+			<Text>Lund</Text>
+		</Row>
+		<!--Sweden-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KOPINGSVIK">
+			<Text>Köpingsvik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BIRKA">
+			<Text>Birka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LADOGA">
+			<Text>Ladoga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GNEZDOVO">
+			<Text>Gnezdovo</Text>
+		</Row>
+		<!--Byzantium-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CONSTANTINOPLE">
+			<Text>Constantinople</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ATTALEIA">
+			<Text>Attalea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DYRRACHIUM">
+			<Text>Dyrrhachium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PHILIPPOPOLIS">
+			<Text>Philippopolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TREBIZOND">
+			<Text>Trebizond</Text>
+		</Row>
+		<!--Al-Andalus-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SEVILLE">
+			<Text>Išbiliya</Text>
+		</Row>
+		<!--Francia-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_AACHEN">
+			<Text>Aix-la-Chapelle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NARBONNE">
+			<Text>Narbonne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_POITIERS">
+			<Text>Poitiers</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_RUSTRINGEN">
+			<Text>Rüstringen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_UTRECHT">
+			<Text>Utrecht</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_APUOLE">
+			<Text>Apuolė</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ARLES">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ASILAH">
+			<Text>Asilah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BALARM">
+			<Text>Balarm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DUMBARTON">
+			<Text>Dùn Breatann</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GIJON">
+			<Text>Xixón</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KAIROUAN">
+			<Text>Al-Qayrawan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PAMPLONA">
+			<Text>Iruñea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PISA">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ROME">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TAMWORTH">
+			<Text>Tamworth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_THETFORD">
+			<Text>Thetford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TMUTARAKAN">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VENICE">
+			<Text>Venèxia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WINCHESTER">
+			<Text>Wintanceaster</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WOLIN">
+			<Text>Wòlin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_YORK">
+			<Text>Eoforwic</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_NAME">
+			<Text>Apuolė</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ARLES_NAME">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_NAME">
+			<Text>Asilah</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BALARM_NAME">
+			<Text>Sicily</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_NAME">
+			<Text>Dùn Breatann</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GIJON_NAME">
+			<Text>Asturies</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_NAME">
+			<Text>Zirid</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_NAME">
+			<Text>Nafarroako</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PISA_NAME">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_NAME">
+			<Text>Bulgaria</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ROME_NAME">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_NAME">
+			<Text>Mercia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_NAME">
+			<Text>East Anglia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_NAME">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VENICE_NAME">
+			<Text>Venèxia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_NAME">
+			<Text>Wessex</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_NAME">
+			<Text>Wòlin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_YORK_NAME">
+			<Text>Northumbria</Text>
+		</Row>
+		<!-- Civilizations Adj-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_ADJECTIVE">
+			<Text>Danish</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_ADJECTIVE">
+			<Text>Swedish</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_ADJECTIVE">
+			<Text>Andalusian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_ADJECTIVE">
+			<Text>Byzantine</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_ADJECTIVE">
+			<Text>Frankish</Text>
+		</Row>
+		<!--City-States Adj-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_ADJECTIVE">
+			<Text>Curonian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ARLES_ADJECTIVE">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_ADJECTIVE">
+			<Text>Asilah</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BALARM_ADJECTIVE">
+			<Text>Sicilian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_ADJECTIVE">
+			<Text>Dùn Breatann</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GIJON_ADJECTIVE">
+			<Text>Asturien</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_ADJECTIVE">
+			<Text>Zirid</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_ADJECTIVE">
+			<Text>Iruñean</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PISA_ADJECTIVE">
+			<Text>Pisan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ROME_ADJECTIVE">
+			<Text>Roman</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_ADJECTIVE">
+			<Text>Bulgarian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_ADJECTIVE">
+			<Text>Mercian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_ADJECTIVE">
+			<Text>East Anglian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_ADJECTIVE">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VENICE_ADJECTIVE">
+			<Text>Venèxian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_ADJECTIVE">
+			<Text>Wessexian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_ADJECTIVE">
+			<Text>Wòlin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_YORK_ADJECTIVE">
+			<Text>Northumbrian</Text>
+		</Row>
+		<!--Denmark-->
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_1">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_2">
+			<Text>Bjørk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_3">
+			<Text>Hrólfr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_4">
+			<Text>Gorm</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_5">
+			<Text>Fróði</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_1">
+			<Text>Helga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_2">
+			<Text>Tófa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_3">
+			<Text>Wealhþeow</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_4">
+			<Text>Aslaug</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_5">
+			<Text>Thyra</Text>
+		</Row>
+		<!--Sweden-->
+		<Row Tag="LOC_CITIZEN_SWEDEN_MALE_1">
+			<Text>Eric</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_2">
+			<Text>Håkan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_3">
+			<Text>Anund</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_4">
+			<Text>Sven</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_5">
+			<Text>Alf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_1">
+			<Text>Astrid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_2">
+			<Text>Gunnhildr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_3">
+			<Text>Ingeborg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_4">
+			<Text>Þóra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_5">
+			<Text>Christina</Text>
+		</Row>
+		<!--Great Admirals-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_BJARNI_NAME">
+			<Text>Bjarni Herjolfsson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ERIK_NAME">
+			<Text>Erik the Red</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_INGVAR_NAME">
+			<Text>Yngvarr víðförli</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_FREYDIS_NAME">
+			<Text>Freydís Eiríksdóttir</Text>
+		</Row>
+		<!--Great Generals  -->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_HALFDAN_NAME">
+			<Text>Hálfdan Ragnarsson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_RORIK_NAME">
+			<Text>Rorik of Dorestad</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_SVIATOSLAV_NAME">
+			<Text>Sviatoslav the Brave</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_OLAF_NAME">
+			<Text>Olaf Tryggvason</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_WILLIAM_NAME">
+			<Text>William the Conqueror</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_THORFIN_NAME">
+			<Text>Thorfinn the Mighty</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ROGER_NAME">
+			<Text>Roger I of Sicily</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ADJACENT_PIOPIOTAHI_GOLD">
+			<Text>When adjacent to Vinland earn +500 [ICON_Gold] Gold and Victory Points based on order of activation.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HALFDAN_ACTIVE">
+			<Text>Grant 1 Berserker unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OLAF_ACTIVE">
+			<Text>Grant 1 Missionary unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WILLIAM_ACTIVE">
+			<Text>+1 [ICON_TradeRoute] Trade Route capacity. Grants a Trader unit.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ROGER_ACTIVE">
+			<Text>Grant 1 Catapult unit with 1 promotion level.</Text>
+		</Row>
+		<!--Technologies Name-->
+		<Row Tag="LOC_TECH_SCENARIO_LONGSHIPS_NAME">
+			<Text>Longships</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_MEAD_HALLS_NAME">
+			<Text>Mead Halls</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_PORTAGE_NAME">
+			<Text>Portage</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_SHIELDWALL_NAME">
+			<Text>Shield Wall</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_KNARRS_NAME">
+			<Text>Knarrs</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_LANCES_NAME">
+			<Text>Lances</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_GREAT_HEATHEN_ARMY_NAME">
+			<Text>Great Heathen Army</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_HACKSILVER_NAME">
+			<Text>Hacksilver</Text>
+		</Row>
+		<!--Technologies Description-->
+		<Row Tag="LOC_TECH_SCENARIO_SAILING_DESCRIPTION">
+			<Text>+1 Movement for all naval units and allows all land units to embark.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_PORTAGE_DESCRIPTION">
+			<Text>River crossings do not cost more movement.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_KNARRS_DESCRIPTION">
+			<Text>All units can move onto Ocean.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_HACKSILVER_DESCRIPTION">
+			<Text>Commercial Hubs and Harbors have +1 Trade Routes.</Text>
+		</Row>
+		<!--Technologies Boost-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PORTAGE">
+			<Text>Have 2 Archers.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_STIRRIPS">
+			<Text>Pillage a tile.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIELDWALL">
+			<Text>Have a Settler unit.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_KNARRS">
+			<Text>Have the Naval Empire Civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>Have 5 Cities.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LANCES">
+			<Text>Kill a Knight unit.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_HEATHEN_ARMY">
+			<Text>Have 3 Longship units.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_HACKSILVER">
+			<Text>Make 4 Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
+			<Text>Build 2 Stables.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TACTICS">
+			<Text>Have 2 Knight units.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIPBUILDING">
+			<Text>Earn a Great Admiral.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MEDIEVAL_FAIRES">
+			<Text>Have a City with 12 Population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_ENGINEERING">
+			<Text>Capture a City.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CASTLES">
+			<Text>Have 2 Crossbowman.</Text>
+		</Row>
+		<!--Technologies Boost Description-->
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PORTAGE">
+			<Text>After building archers your larger army hopes to see what is accross the rivers.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_STIRRIPS">
+			<Text>Maybe cavalry units would help you pillage more tiles?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIELDWALL">
+			<Text>The new cities are creating a new unit to defend themselves.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_KNARRS">
+			<Text>With a greater naval fleet could they expand to the Ocean?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
+			<Text>Your engineers are developing better plumbing for vast number of cities.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_LANCES">
+			<Text>Now that you have slayed a Knight maybe your Vikings could conquer with one?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_HEATHEN_ARMY">
+			<Text>With 3 longships you army can invade any town.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_HACKSILVER">
+			<Text>Now that you have made four trade routes, how your trade empire expand?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TACTICS">
+			<Text>Your army has more cavalry now, maybe you should add infantry?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIPBUILDING">
+			<Text>A Great Admiral has inspired your people to construct new ways of constructing ships.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MEDIEVAL_FAIRES">
+			<Text>With more citzens maybe they would like entertainment?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_ENGINEERING">
+			<Text>After the inspiring capture capture of a city, your people are inspired to come up with even more efficient siege ideas.</Text>
+		</Row>
+		<!--Civics Name-->
+		<Row Tag="LOC_CIVIC_SCENARIO_NAVAL_EMPIRE_NAME">
+			<Text>Naval Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_MONOTHEISM_NAME">
+			<Text>Monotheism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_VIKING_NAME">
+			<Text>Viking</Text>
+		</Row>
+		<!--Civics Description-->
+		<Row Tag="LOC_CIVIC_SCENARIO_VIKING_DESCRIPTION">
+			<Text>Grants flanking and support combat bonuses to all melee units.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEUDALISM_DESCRIPTION">
+			<Text>Farms now gain [ICON_Food] Food bonuses when 3 Farms are adjacent to each other.</Text>
+		</Row>
+		<!--Civics Boost-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_TRADITION">
+			<Text>Build 3 Harbors.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRADITION">
+			<Text>Kill a unit with a Berserker unit.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_EMPIRE">
+			<Text>Win a battle with a Viking Longship.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRAINING">
+			<Text>Have 6 Land units.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MONOTHEISM">
+			<Text>Have a Majority Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_VIKING">
+			<Text>Have 2 Huscarls</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
+			<Text>Have 6 Farms.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
+			<Text>Have 2 Holy Sites</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MERCENARIES">
+			<Text>Have 10 Land units.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RECORDED_HISTORY">
+			<Text>Resarch Machinery</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GUILDS">
+			<Text>Build 4 Markets</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
+			<Text>Have a 4 slot Government.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EXPLORATION">
+			<Text>Find the Natural Wonder.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_REFORMED_CHURCH">
+			<Text>Have 2 Missionaries.</Text>
+		</Row>
+		<!--Civics Boost Description-->
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRADITION">
+			<Text>Now that you killed with a beserker can you grow your army?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_NAVAL_TRADITION">
+			<Text>After building harbors your navy has expanded.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRAINING">
+			<Text>With a large military your army wants to diversify.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MONOTHEISM">
+			<Text>Your people have started to shift away from their Pagan ideas. They now are starting to build wooden churches.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_VIKING">
+			<Text>Now that your army is larger it is time to go Viking!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_THEOLOGY">
+			<Text>With more Holy Sites your theologians have begun to spread.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RECORDED_HISTORY">
+			<Text>Your discovery of Machinery might fight lost Church records.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EXPLORATION">
+			<Text>Now that you have found Vinland how shall your government change?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_REFORMED_CHURCH">
+			<Text>Have 2 Missionaries.</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="LOC_CATEGORY_SCENARIO_VINLAND_NAME">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="LOC_LINE_ITEM_PLUNDER_NAME">
+			<Text>Plunder</Text>
+		</Row>
+		<Row Tag="LOC_LINE_ITEM_TRADE_NAME">
+			<Text>Trade</Text>
+		</Row>
+		<Row Tag="LOC_LINE_ITEM_VINLAND_NAME">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_RELIGION_DESCRIPTION">
+			<Text>You will gain Faith in the scenario, primarily by pillaging Holy Sites and certain Improvements. Each time you earn Faith your cities gain more pressure toward adopting Catholicism.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1">
+			<Text>Victory Points are earned as follows:[NEWLINE][ICON_Bullet]Empire: {1_CityVP} VP per city. {2_PopVP} VP per population.[NEWLINE][ICON_Bullet]Great People: {3_GPVP} VP for each Great Person earned.[NEWLINE][ICON_Bullet]Trade: {4_TradeVP} VP per trade route capacity.[NEWLINE][ICON_Bullet]Pillage: {5_PillageVP} VP per tile pillaged.</Text>
+		</Row>
+    <Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
+      <Text>[NEWLINE][ICON_Bullet]Vinland: {1_VinlandA} VP if first to activate a Great Admiral adjacent to Vinland, {2_VinlandB} for second, {3_VinlandC} for third, {4_VinlandD} afterwards.</Text>
+    </Row>
+    <Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
+			<Text>[NEWLINE][ICON_Bullet]Religion: {1_PillageEarly} VP for pillaging a tile before adopting Catholicism. {2_PopLate} VP for adding population after adopting Catholicism.[NEWLINE][ICON_Bullet]Bonus: On the last turn {3_GoldEnd} VP for every {4_GoldPer} gold in your treasury and {5_FaithEnd} VP for every {6_FaithPer} Faith you currently possess.</Text>
+		</Row>
+		<!--Features-->
+		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_DESCRIPTION">
+			<Text>VP Points: 1000 for first, 500 for second, 300 for third, 100 for fourth, and 100 for fifth.</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_SCENARIO_LEIDANGR_NAME">
+			<Text>Leiðangr</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_VOLLEY_NAME">
+			<Text>Volley</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_THING_NAME">
+			<Text>Thing</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_NAME">
+			<Text>Traveling Monks</Text>
+		</Row>
+		<!--Policies Descriptions-->
+		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSERIES_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CHIVALRY_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward melee units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward naval units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
+			<Text>Each city receives +1 [ICON_Faith] Faith for each specialty district it constructs.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>+100% Encampment [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_SIEGE_TACTICS_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward siege and support units.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_DESCRIPTION">
+			<Text>Domestic [ICON_TradeRoute] Trade Routes +2 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_VOLLEY_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward ranged units.</Text>
+		</Row>
+		<!--Units Name-->
+		<Row Tag="LOC_UNIT_SCENARIO_HUSCARL_NAME">
+			<Text>Huscarl</Text>
+		</Row>
+		<!--Units Description-->
+		<Row Tag="LOC_UNIT_SCENARIO_HUSCARL_DESCRIPTION">
+			<Text>Melee unit that is strong against ranged attacks. Low [ICON_Production] Production cost.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_MISSIONARY_DESCRIPTION">
+			<Text>Viking unique unit that may convert [ICON_Citizen] citizens to their religion.</Text>
+		</Row>
+		<!--Continent Descriptions-->
+		<Row Tag="LOC_CONTINENT_SCENARIO_BRITAIN_DESCRIPTION">
+			<Text>Great Britian</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_FAROE_DESCRIPTION">
+			<Text>Faroe Islands</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_GREENLAND_DESCRIPTION">
+			<Text>Greenland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_HEBRIDES_DESCRIPTION">
+			<Text>Hebrides</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_ICELAND_DESCRIPTION">
+			<Text>Iceland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_IRELAND_DESCRIPTION">
+			<Text>Ireland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_NORTHERN_ISLES_DESCRIPTION">
+			<Text>Northern Isles</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_SCANDINAVIA_DESCRIPTION">
+			<Text>Scandinavia</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_VINLAND_DESCRIPTION">
+			<Text>Vinland</Text>
+		</Row>
+		<!--Continent Cities-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TORSHAVN">
+			<Text>Tórshavn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_FUNNINGUR">
+			<Text>Funningur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LEIRVIK">
+			<Text>Leirvik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BRATTAHLID">
+			<Text>Brattahlíð</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HVALSEY">
+			<Text>Hvalsey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SANDNAES">
+			<Text>Sandnæs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GARDAR">
+			<Text>Garðar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HERJOLFSNES">
+			<Text>Herjolfsnes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SKID">
+			<Text>Skíð</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MYL">
+			<Text>Myl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BARR_OY">
+			<Text>Bjarnar-øy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_REYKJAVIK">
+			<Text>Reykjavík</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HUSAVIK">
+			<Text>Húsavík</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_AKRANES">
+			<Text>Akranes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SKALHOLT">
+			<Text>Skálaholt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DYFLIN">
+			<Text>Dyflin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_INIS_SIBHTONN">
+			<Text>Inis Sibhtonn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VEDRAFJORDR">
+			<Text>Veðrafjǫrðr,</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VEISAFJORDR">
+			<Text>Veisafjǫrðr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KIRKJUVAGR">
+			<Text>Kirkjuvagr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SKALAVAGR">
+			<Text>Skálavágr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BIRGISHERD">
+			<Text>Birgisherað</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_EID">
+			<Text>Eið</Text>
+		</Row>
+		<!--Religion-->
+		<Row Tag="LOC_BELIEF_ODIN_NAME">
+			<Text>Odin</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ODIN_DESCRIPTION">
+			<Text>+100 [ICON_Gold]  Gold when you pillage a tile and you do not have a dominant religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_POPULATION_GROWTH_NAME">
+			<Text>Population Growth</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_POPULATION_GROWTH_DESCRIPTION">
+			<Text>Double victory points for population if this religion is the dominant religion.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Unique wonder for Byzantium.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_ALHAMBRA_DESCRIPTION">
+			<Text>Unique wonder for Al-Andalus.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>Unique wonder for Francia.</Text>
+		</Row>
+		<!--Float-->
+		<Row Tag="LOC_PILLAGE_GOLD_DESCRIPTION">
+			<Text>+100 [COLOR_FLOAT_GOLD]Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_VINLAND_GOLD_DESCRIPTION">
+			<Text>+500 [COLOR_FLOAT_GOLD]Gold[ENDCOLOR]</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CIVILIZATION_POLAND_NAME">
+			<Text>Poland</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JADWIGA_NAME">
+			<Text>Jadwiga</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
+			<Text>Golden Liberty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION">
+			<Text>Culture Bomb adjacent tiles when completing an Encampment or Fort inside friendly territory. One Military policy slot in the current government is converted to a Wildcard slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME">
+			<Text>Lithuanian Union</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION">
+			<Text>The religion founded by Poland becomes the majority in an adjacent city that loses a tile to a Polish Culture Bomb. Holy Sites gain standard Faith adjacency bonus from adjacent districts. All Relics provide bonus Faith (+2), Culture (+2) and Gold (+4).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION">
+			<Text>The religion founded by Poland becomes the majority in an adjacent city that loses a tile to a Polish Culture Bomb. Holy Sites gain major Faith adjacency bonus from adjacent Encampments. All Relics provide bonus Faith (+2), Culture (+2) and Gold (+4).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_NAME">
+			<Text>Sukiennice</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION">
+			<Text>A building unique to Poland. International [ICON_TradeRoute] Trade Routes from this city gain +2 [ICON_Production] Production; domestic [ICON_TradeRoute] Trade Routes gain +4 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_NAME">
+			<Text>Winged Hussar</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
+			<Text>Polish unique Medieval era unit. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<FrontEndText>
+		<!-- Generic -->
+		<Row Tag="LOC_GENERIC_TEST">
+			<Text>Tomáš</Text>
+		</Row>
+		<Row Tag="LOC_GENERIC_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_YES_BUTTON">
+			<Text>Có</Text>
+		</Row>
+		<Row Tag="LOC_NO_BUTTON">
+			<Text>Không</Text>
+		</Row>
+		<Row Tag="LOC_OK_BUTTON">
+			<Text>OK</Text>
+		</Row>
+		<Row Tag="LOC_DEFAULT_BUTTON">
+			<Text>Mặc định</Text>
+		</Row>
+		<Row Tag="LOC_GENERIC_CONFIRM_BUTTON">
+			<Text>Xác nhận</Text>
+		</Row>
+		
+		<!-- Front End Popups -->
+		<Row Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
+			<Text>Không thể xác định khả năng của thiết bị đồ họa.[NEWLINE][NEWLINE]Làm ơn thiết lập thủ công.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
+			<Text>Driver đồ họa quá cũ.[NEWLINE][NEWLINE]Làm ơn cập nhật.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
+			<Text>Không xuất hiện lại.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
+			<Text>Nhắc tôi lần tới.</Text>
+		</Row>
+
+		<!-- Main Menu-->
+		<Row Tag="LOC_MAIN_MENU_RESUME_GAME">
+			<Text>Tiếp tục game</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_CIVILIZATION_6">
+			<Text>Chơi luôn</Text>
+		</Row>
+    <Row Tag="LOC_SINGLE_PLAYER">
+      <Text>Chơi đơn</Text>
+    </Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER">
+			<Text>Chơi nhiều người</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME">
+			<Text>Tải game</Text>
+		</Row>
+    <Row Tag="LOC_NO_FILE_SELECTED">
+      <Text>Không có tập tin đang được chọn</Text>
+    </Row>
+		<Row Tag="LOC_MAIN_MENU_OPTIONS">
+			<Text>Tùy chọn</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MODS">
+			<Text>Mods</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MY2K_LOGIN">
+			<Text>Đăng nhập My2K</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
+			<Text>Thoát tới Desktop</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_BENCH">
+			<Text>Benchmark</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_CREDITS">
+			<Text>Tác giả</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_TUTORIAL">
+			<Text>Hướng dẫn chơi</Text>
+		</Row>
+		<!-- Load / Save Menus -->
+		<Row Tag="LOC_DELETE_BUTTON">
+			<Text>Xóa</Text>
+		</Row>
+		<Row Tag="LOC_BACK_BUTTON">
+			<Text>Quay lại</Text>
+		</Row>
+		<Row Tag="LOC_AUTOSAVES">
+			<Text>Tự động lưu</Text>
+		</Row>
+		<Row Tag="LOC_STEAMCLOUD">
+			<Text>Đám mây</Text>
+		</Row>
+		<Row Tag="LOC_NO_SAVED_GAMES">
+			<Text>Không có Save</Text>
+		</Row>
+		<Row Tag="LOC_SORTBY_NAME">
+			<Text>Xếp theo tên</Text>
+		</Row>
+		<Row Tag="LOC_SORTBY_LASTMODIFIED">
+			<Text>Xếp theo lần sửa cuối</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MENU_MODS">
+			<Text>MODS</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MENU_DLC">
+			<Text>DLC</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME">
+			<Text>Lưu Game</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_MAP_BUTTON">
+			<Text>Lưu Map</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
+			<Text>Đám mây đã lưu đủ số lượng. Ghi đè hoặc xóa Save khác.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
+			<Text>Tên file không hợp lệ.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
+			<Text>Chờ danh sách save từ đám mây.</Text>
+		</Row>
+
+		<Row Tag="LOC_CONFIRM_TITLE_TXT">
+			<Text>Xác nhận ghi đè</Text>
+		</Row>
+    <Row Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+      <Text>Xác nhận xóa</Text>
+    </Row>
+    <Row Tag="LOC_CONFIRM_CHOICE">
+      <Text>Chắc không?</Text>
+    </Row>
+		<Row Tag="LOC_CONFIRM_EXIT_TXT">
+			<Text>Có chắc thoát game không?</Text>
+		</Row>
+    <Row Tag="LOC_CONFIRM_TXT">
+			<Text>Nó sẽ xóa vĩnh viễn Save. Có chắc làm điều này không?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
+			<Text>Xác nhận tải file</Text>
+		</Row>
+        <Row Tag="LOC_CONFIRM_LOAD_TXT">
+			<Text>Sẽ mất quá trình chơi chưa Save. Có chắc làm điều này không?</Text>
+		</Row>
+		<Row Tag="LOC_OVERWRITE_TXT">
+			<Text>Sẽ ghi đè lên Save hiện tại. Có chắc làm điều này không?</Text>
+		</Row>
+		<Row Tag="LOC_DELETE_MOD_TXT">
+			<Text>Sẽ xóa vĩnh viên Mod này. Có chắc làm điều này không?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_DISABLE_MOD">
+			<Text>Tắt Mod này?</Text>
+		</Row>
+		<Row Tag="LOC_WILL_ALSO_DISABLE_MODS">
+			<Text>Nó cũng sẽ tắt các Mod sau đây:</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_ENABLE_MOD">
+			<Text>Bật Mod này?</Text>
+		</Row>
+		<Row Tag="LOC_WILL_ALSO_ENABLE_MODS">
+			<Text>Nó cũng sẽ bật các Mod sau đây:</Text>
+		</Row>
+		<Row Tag="LOC_EFFECTED_MODS_TXT">
+			<Text>Mods hiệu ứng:</Text>
+		</Row>
+		<Row Tag="LOC_MOD_VERSION_AVAILABLE">
+			<Text>Version {1_VersionNumber} khả dụng.</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_CURRENT_TURN">
+			<Text>LƯỢT[ICON_Turn] {1}</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
+			<Text>Mô tả kịch bản</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
+			<Text>Tùy chọn</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
+			<Text>Loại bản đồ:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
+			<Text>Kích thước bản đồ:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
+			<Text>Tuổi thế giới:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
+			<Text>Save bởi phiên bản:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
+			<Text>Tùy chọn nâng cao:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_NO_MAP_DATA">
+			<Text>KHÔNG DỮ LIỆU BẢN ĐỒ</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
+			<Text>Tuner Active:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_QUICK_SAVE">
+			<Text>(Save nhanh)</Text>
+		</Row>
+    <!-- Advanced Game Setup -->
+		 <Row Tag="LOC_NETWORK_NAME_TT">
+			<Text>Tên mạng[NEWLINE]Đây là tên sẽ xuất hiện cho người chơi khác thấy.</Text>
+		</Row>
+		<Row Tag="LOC_NUMBER_OF_CIVILIZATIONS">
+			<Text>Số nền văn minh</Text>
+		</Row>
+		<Row Tag="LOC_PLAYERS">
+		  <Text>Người chơi</Text>
+		</Row>
+		<Row Tag="LOC_BACK">
+		  <Text>Quay lại</Text>
+		</Row>
+		<Row Tag="LOC_GAME_HANDICAP">
+		  <Text>Độ khó</Text>
+		</Row>
+		<Row Tag="LOC_MAP_OPTIONS">
+		  <Text>Tùy chọn bản đồ</Text>
+		</Row>
+		<!-- Multiplayer Game Abandoned Popup -->
+		<Row Tag="LOC_GAME_ABANDONED_KICKED">
+			<Text>Bạn đã bị kick.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+			<Text>Kết nối đến Host bị mất.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+			<Text>Phòng đầy.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+			<Text>Khác version với Host.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+			<Text>Cấu hình Mod lỗi.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+			<Text>Mất kết nối.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+			<Text>Lỗi phiên kết nối.</Text>
+		</Row>
+		<!-- Multiplayer Select Screen-->
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+			<Text>Game của {1_PlayerName}</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME">
+			<Text>Tiêu chuẩn</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
+			<Text>Nhiều người chơi thay phiên nhau liên tục.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME">
+			<Text>Internet</Text>
+		</Row>
+    <Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+      <Text>[ICON_CheckFail] Internet</Text>
+    </Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
+			<Text>Chơi nhiều người trên Internet.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>Chơi trên Internet không khả dụng khi Steam offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_GAME">
+			<Text>Mạng LAN</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
+			<Text>Chơi nhiều người trên mạng LAN</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
+			<Text>Ghế nóng</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
+			<Text>Nhiều người chơi thay phiên nhau chơi trên một máy.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
+			<Text>Game Đám Mây</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
+			<Text>Chơi nhiều người sử dụng đám mây FiraxisLive.  Yêu cầu kết nối tới FiraxisLive.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
+			<Text>Máy Chủ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
+			<Text>Chơi nhiều người bằng một máy chủ chuyên dụng.</Text>
+		</Row>
+		<Row Tag="LOC_MENU_BACK">
+			<Text>Quay lại</Text>
+		</Row>
+		<!-- Multiplayer Chat Commands -->
+		<Row Tag="LOC_CHAT_HELP_COMMAND_HINT">
+			<Text>[COLOR:ChatMessage_Help]Gõ /help để nhận trợ giúp.[ENDCOLOR]</Text>
+		</Row>
+		<!-- [TEAMCODE] Cut text for team chat command. "[NEWLINE]/t Send a message to a team channel" -->
+		<Row Tag="LOC_CHAT_HELP_COMMAND_TEXT">
+			<Text>[COLOR:ChatMessage_Help]LỆNH CHAT[NEWLINE]/g Gửi tin đến toàn kênh[NEWLINE]/w [PlayerName] Gửi tin đến người chơi[NEWLINE]/r Trả lời người chơi[NEWLINE]/help Hiển thị trợ giúp[ENDCOLOR]</Text>
+		</Row>
+		<!-- Multiplayer Lobby Screen -->
+		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
+			<Text>LÀM MỚI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+			<Text>Lấy danh sách Game mới nhất</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+			<Text>DỪNG LÀM MỚI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+			<Text>Dừng lấy danh sách Game.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_BACK">
+			<Text>QUAY LẠI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME">
+			<Text>Tham gia</Text>
+		</Row>
+		<Row Tag="LOC_MISC_BACK">
+			<Text>Quay lại</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
+			<Text>Kết nối tới IP</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
+			<Text>Kết nối tới IP của máy chủ.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CREATE_GAME">
+			<Text>Tạo Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
+			<Text>Xác nhận cài đặt.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOST_GAME">
+			<Text>CÀI ĐẶT NHIỀU NGƯỜI CHƠI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
+			<Text>Bắt đầu Game nhiều người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
+			<Text>Tạo chơi nhiều người từ Save đã có.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_FRIENDS">
+			<Text>Bạn bè</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
+			<Text>Hiển thị danh sách bạn</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_SETUP">
+			<Text>CÀI ĐẶT GAME</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
+			<Text>TÓM LƯỢC GAME</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_NAME">
+			<Text>Tên Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_RULESET">
+			<Text>Đặt luật</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_MAP_TYPE">
+			<Text>Loại bản đồ</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_GAME_SPEED">
+			<Text>Tốc độ</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_MAP_SIZE">
+			<Text>Kích thước</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PLAYERS">
+			<Text>Người chơi</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DLCHOSTED">
+			<Text>DLC</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MODSHOSTED">
+			<Text>Mods</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
+			<Text>GAME MÁY CHỦ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
+			<Text>GAME INTERNET</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_LOBBY">
+			<Text>GAME MẠNG LAN</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
+			<Text>Không rõ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TRUE">
+			<Text>Đúng</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_FALSE">
+			<Text>Sai</Text>
+		</Row>
+		<!-- Cloud Game Screen -->
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
+			<Text>Danh sách</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
+			<Text>Mẫu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
+			<Text>Host</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
+			<Text>Tham gia</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
+			<Text>Bắt đầu</Text>
+		</Row>
+    <!-- Options -->
+    <Row Tag="LOC_CONFIRM_KEY_BINDING">
+      <Text>Xác nhận gán phím</Text>
+    </Row>
+    <Row Tag="LOC_CONFIRM">
+      <Text>Xác nhận</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GAME">
+      <Text>TRÒ CHƠI</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GRAPHICS">
+      <Text>ĐỒ HỌA</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUDIO">
+      <Text>ÂM THANH</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_LANGUAGE">
+      <Text>NGÔN NGỮ</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE">
+      <Text>GIAO DIỆN</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_KEY_BINDINGS">
+      <Text>ĐIỀU KHIỂN</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_APPLICATION">
+      <Text>ỨNG DỤNG</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GAME_OPTIONS">
+      <Text>TÙY CHỌN GAME</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+      <Text>TÙY CHỌN ĐỒ HỌA</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+      <Text>TÙY CHỌN ÂM THANH</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+      <Text>TÙY CHỌN NGÔN NGỮ</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+      <Text>TÙY CHỌN GIAO DIỆN</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+      <Text>TÙY CHỌN ĐIỀU KHIỂN</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_QUICK_COMBAT">
+      <Text>Combat nhanh:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+      <Text>Di chuyển nhanh:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUTO_END_TURN">
+      <Text>Tự kết thúc lượt:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TIME_OF_DAY">
+      <Text>Thời gian của ngày:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TUNER">
+      <Text>Tắt thành tựu:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TUTORIAL">
+      <Text>Cố vấn:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+      <Text>Tự động lưu giữa các lượt:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+      <Text>Số tự động lưu được giữ:</Text>
+    </Row>
+	<Row Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+		<Text>Tên người chơi mạng LAN:</Text>
+	</Row>		
+    <Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+      <Text>Steam Controller cấu hình trong Steam. Phím ESC, chuột trái và phải không thể đảo ngược và gán phím.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+      <Text>Phím chính</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+      <Text>Phím phụ</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+      <Text>TÙY CHỌN ỨNG DỤNG</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+      <Text>Ngôn ngữ nói:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+      <Text>Bắt đầu trong góc nhìn chiến thuật:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+      <Text>Ngôn ngữ hiển thị:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MASTER_VOLUME">
+      <Text>Chính:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MUSIC_VOLUME">
+      <Text>Nhạc:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+      <Text>Hiệu ứng:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+      <Text>Âm thanh xung quanh:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SPEECH_VOLUME">
+      <Text>Nói:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MUTE_FOCUS">
+      <Text>Tắt tiếng khi cửa sổ này không mở:</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_CLEAR">
+			<Text>Xóa bỏ</Text>
+		</Row>
+		<!-- Front End Popop -->
+		<Row Tag="LOC_CLOSE">
+			<Text>Đóng</Text>
+		</Row>
+		<!-- Multiplayer Joining Room Screen -->
+		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
+			<Text>VUI LÒNG CHỜI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM">
+			<Text>Đang vào phòng...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOINING_HOST">
+			<Text>Đang nhận thông tin từ Host...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
+			<Text>Đang cấu hình nội dung Game...</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_FULL">
+			<Text>Phòng đầy.</Text>
+		</Row>
+		<Row Tag="LOC_MP_JOIN_FAILED">
+			<Text>Lỗi phiên kết nối.</Text>
+		</Row>
+		<!-- Multiplayer Staging Room Screen -->
+		<Row Tag="LOC_MP_SWAP_PLAYER">
+			<Text>Hoán đổi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+			<Text>Đổi tới vị trí người chơi này.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
+			<Text>Đổi vị trí chỉ khi người chơi khác cũng đồng ý.</Text>
+		</Row>
+		<Row Tag="LOC_MP_KICK_PLAYER">
+			<Text>Kick người chơi</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STAGING_ROOM">
+			<Text>Phòng chờ</Text>
+		</Row>
+		<Row Tag="LOC_READY_BUTTON">
+			<Text>Sẵn sàng</Text>
+		</Row>
+		<Row Tag="LOC_ARE_YOU_READY">
+			<Text>Sẵn sàng?</Text>
+		</Row>
+		<!-- Multiplayer Status Strings -->
+		<Row Tag="LOC_READY_LABEL">
+			<Text>Sẵn sàng!</Text>
+		</Row>
+		<Row Tag="LOC_NOT_READY">
+		  <Text>Chưa sẵn sàng</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE">
+			<Text>[COLOR:StagingStatus_Invalid]Kích thước bản đồ không hợp lệ[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
+			<Text>Slot người chơi này không khả dụng với kích thước bản đồ hiện tại. Host tăng kích thước bản đồ hoặc đổi chỗ cho slot người chơi hợp lệ.</Text>
+		</Row>		
+		<!-- Multiplayer Status Strings END -->
+		<Row Tag="LOC_JOIN">
+			<Text>Tham gia!</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OPEN">
+			<Text>Mở</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OPEN_TT">
+			<Text>Slot mở có thể bị chiếm bởi người chơi đang tham gia.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMANREQ">
+			<Text>Yêu cầu người</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMANREQ_TT">
+			<Text>Slot yêu cầu người chơi trước khi game có thể bắt đầu.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_HOST">
+			<Text>[ICON_Host] Host</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_PLAYER">
+			<Text>Người chơi</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_COMPUTER">
+			<Text>Máy tính</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_OPEN">
+			<Text>Mở</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_AI">
+			<Text>Máy tính</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_AI_TT">
+			<Text>Máy tính</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_CLOSED">
+			<Text>Đóng</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_CLOSED_TT">
+			<Text>SLot đóng không thể sử dụng bởi người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMAN">
+			<Text>Người</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMAN_TT">
+			<Text>Người chơi</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
+			<Text>Không</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
+			<Text>{1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CREATE_NEW_TEAM">
+			<Text>Mới</Text>
+		</Row>
+    <Row Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+      <Text>Team</Text>
+    </Row>
+    <Row Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+      <Text>Độ khó</Text>
+    </Row>
+    <Row Tag="LOC_MULTIPLAYER_READY_HEADER">
+      <Text>Sẵn sàng?</Text>
+    </Row>
+    <Row Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+      <Text>Nền văn minh và lãnh đạo</Text>
+    </Row>
+		<Row Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
+			<Text>Game đang bắt đầu</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
+			<Text>Người chơi</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
+			<Text>Mật khẩu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
+			<Text>Gõ lại</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
+			<Text>Trùng</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
+			<Text>Mật khẩu không trùng.</Text>
+		</Row>
+		<!-- Staging Room Ready Button-->
+		<Row Tag="LOC_READY_UNSUPPORTED">
+			<Text>Không hỗ trợ.</Text>
+		</Row>
+		<Row Tag="LOC_READY_UNSUPPORTED_TT">
+			<Text>Không hỗ trợ người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
+			<Text>Team không hợp lệ</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
+			<Text>Không thể bắt đầu. Tất cả nền văn minh chung một team.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
+			<Text>Không thể bắt đầu. Người chơi đang vào phòng.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
+			<Text>Kích thước bản đồ có vấn đề</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
+			<Text>Không thể bắt đầu. Hiện tại bản đồ chỉ hỗ trợ {1_number} người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
+			<Text>Không đủ người chơi</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
+			<Text>Không thể bắt đầu. Yêu cầu hai người chơi để bắt đầu.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
+			<Text>Người chơi đang kết nối</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
+			<Text>Đang chờ người chơi kết nối vào game.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
+			<Text>Người chơi thiếu Mod</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
+			<Text>Đang chờ người chơi thiếu Mod cho game này.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
+			<Text>Mật khẩu không trùng</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
+			<Text>Tất cả mật khẩu phải trùng.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
+			<Text>Không có người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
+			<Text>Cần ít nhất 1 người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
+			<Text>Team không hợp lệ</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
+			<Text>Ít nhất 2 người chơi cần phải khác Team</Text>
+		</Row>
+		<!-- Staging Room Invite Button -->
+		<Row Tag="LOC_INVITE_BUTTON">
+			<Text>Mời Bạn Bè</Text>
+		</Row>
+		<Row Tag="LOC_INVITE_BUTTON_TT">
+			<Text>Mời bạn bè trong danh sách Steam vào Game này.</Text>
+		</Row>
+		<!-- Confirm Kick Popup -->
+		<Row Tag="LOC_CANCEL_BUTTON">
+			<Text>Hủy</Text>
+		</Row>
+		<Row Tag="LOC_ACCEPT_BUTTON">
+			<Text>Chấp nhận</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
+			<Text>Bạn có muốn Kick {1_player} ra khỏi game?</Text>
+		</Row>
+		<!-- Edit Hotseat Player Popup -->
+		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
+			<Text>Edit Hot Seat Player.</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER">
+			<Text>Edit Hot Seat Player</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_PLAYER_NAME">
+			<Text>Tên người chơi:</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_PASSWORD">
+			<Text>Mật khẩu:</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
+			<Text>Gõ lại mật khẩu:</Text>
+		</Row>
+		<!-- Network Connection Status -->
+		<Row Tag="LOC_MP_PLAYER_CONNECTED">
+			<Text>Người chơi đang trong trận.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connected]Đã kết nối[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED">
+			<Text>Người chơi không kết nối.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTING">
+			<Text>Người chơi đang vào Game.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connecting]Đang vào[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY">
+			<Text>Người chơi không có Mod yêu cầu cho Game này.</Text>
+		</Row>
+		<Row Tag="LOC_TIME_MILLISECONDS">
+			<Text>ms</Text>
+		</Row>
+		<Row Tag="LOC_TIME_SECONDS">
+			<Text>s</Text>
+		</Row>
+		<!-- Friend Actions  -->
+		<Row Tag="LOC_FRIEND_ACTION_PROFILE">
+			<Text>Steam Profile</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_PROFILE_TT">
+			<Text>View this friend's profile page.</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_CHAT">
+			<Text>Send Message</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_CHAT_TT">
+			<Text>Send a message to this friend.</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_INVITE">
+			<Text>Invite to Game</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_INVITE_TT">
+			<Text>Invite this friend to play.</Text>
+		</Row>
+		<!-- Friend Status  -->
+		<Row Tag="LOC_PRESENCE_ONLINE">
+			<Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_SHELL">
+			<Text>[COLOR:ConnectionStatus_Connected]Main Menu[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_HOSTING_GAME">
+			<Text>[COLOR:ConnectionStatus_Connected]Hosting Game[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_STAGING_ROOM">
+			<Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_SP">
+			<Text>[COLOR:ConnectionStatus_Connected]Single Player[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Online)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_LAN">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (LAN)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Hot Seat)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_INVITED_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Đã mời[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_INVITED_OFFLINE">
+			<Text>[COLOR:ButtonCS]Đã mời[ENDCOLOR]</Text>
+		</Row>
+		<!-- Player Connection EVents -->
+		<Row Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
+			<Text>Đã kết nối</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
+			<Text>Mất kết nối</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
+			<Text>Bây giờ là chủ</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_KICKED_CHAT">
+			<Text>Đã bị Kick</Text>
+		</Row>
+		<!-- Multiplayer Chat -->
+		<Row Tag="LOC_MULTIPLAYER_CHAT">
+			<Text>CHAT</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TO_ALL">
+			<Text>Tới tất cả:</Text>
+		</Row>
+		<!-- Multiplayer Mod Downloads -->
+		<Row Tag="LOC_BYTES">
+			<Text>b</Text>
+		</Row>
+		<Row Tag="LOC_KILOBYTES">
+			<Text>Kb</Text>
+		</Row>
+		<Row Tag="LOC_MEGABYTES">
+			<Text>Mb</Text>
+		</Row>
+		<!-- Setup -->
+		<Row Tag="LOC_SETUP_CREATE_GAME">
+			<Text>Tạo Game</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_CHOOSE_SCENARIO">
+			<Text>Chọn kịch bản</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SCENARIOS">
+			<Text>Kịch bản</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SCENARIO">
+			<Text>Kịch bản</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_CIVILIZATION">
+			<Text>Nền văn minh</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_DIFFICULTY">
+			<Text>Độ khó</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SPEED">
+			<Text>Tốc độ</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_TYPE">
+			<Text>Loại bản đồ</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_SIZE">
+			<Text>Kích thước bản đồ</Text>
+		</Row>
+		<Row Tag="LOC_DELETE_AI">
+			<Text>Xóa</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADVANCED_OPTIONS">
+			<Text>Cài đặt nâng cao</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_VICTORY_CONDITIONS">
+			<Text>Điều kiện chiến thắng</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS">
+			<Text>Cài đặt nâng cao</Text>
+		</Row>
+		<Row Tag="LOC_EDIT_BUTTON">
+			<Text>Thoát</Text>
+		</Row>
+    <Row Tag="LOC_SETUP_ADD_PLAYER">
+      <Text>Thêm người chơi</Text>
+    </Row>
+    <Row Tag="LOC_SETUP_ADD_PLAYER_TT">
+      <Text>Thêm người chơi vào game.</Text>
+    </Row>
+		<Row Tag="LOC_SETUP_ADD_AI_PLAYER">
+			<Text>Thêm máy</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
+			<Text>Thêm máy vào game.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_RESTORE_DEFAULT">
+			<Text>Khôi phục mặc định</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
+			<Text>Khôi phục tất cả về giá trị mặc định.</Text>
+		</Row>
+		<Row Tag="LOC_START_GAME">
+			<Text>Bắt đầu</Text>
+		</Row>
+		<Row Tag="LOC_START_WORLD_BUILDER">
+			<Text>Bắt đầu xây dựng thế giới</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_START_NEW">
+			<Text>Bản đồ mới</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_LOAD">
+			<Text>Tải bản đồ</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_LEADER">
+			<Text>Người lãnh đạo ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_CIVILIZATION">
+			<Text>Nền văn minh ngẫu nhiên</Text>
+		</Row>
+		
+		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+			<Text>Không trùng người lãnh đạo</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+			<Text>Tùy chọn không hợp lệ</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+			<Text>Không sở hữu</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+			<Text>Tùy chọn của một hoặc nhiều người chơi không hợp lệ.</Text>
+		</Row>
+		<!-- Configuration Parameters.  Move these to a better location -->
+		<Row Tag="LOC_RULESET">
+			<Text>Luật:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NAME">
+			<Text>Tên Game:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NAME_DESC">
+			<Text>Tên này hiển thị trong danh sách chơi nhiều người.</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATE_GAME">
+			<Text>Game riêng</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATE_GAME_DESC">
+			<Text>Game riêng sẽ không hiển thị trong danh sách chơi nhiều người.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_VICTORY_TIME">
+			<Text>Thời gian</Text>
+		</Row>
+		<Row Tag="LOC_GAME_VICTORY_SCIENCE">
+			<Text>Khoa học</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NO_GOODY_HUTS">
+			<Text>Không có làng thổ dân</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NO_BARBARIANS">
+			<Text>Không có quân man di</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNTIMER_TYPE">
+			<Text>Thời gian mỗi lượt</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURN_TIMER_TIME">
+			<Text>Thời gian mỗi lượt</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
+			<Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNPHASE_TYPE">
+			<Text>Chế độ lượt</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNPHASE_DESC">
+			<Text>Turn mode used by human controlled players in multiplayer.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_SYNC_RANDOM_SEED">
+			<Text>Số tạo Game ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
+			<Text>The random seed for game rules.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RANDOM_SEED">
+			<Text>Số tạo bản đồ ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
+			<Text>Số tạo bản đồ ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NAME">
+			<Text>Tuổi thế giới</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
+			<Text>Trẻ</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
+			<Text>Trung bình</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
+			<Text>Già</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
+			<Text>Ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_NAME">
+			<Text>Nhiệt độ</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
+			<Text>Nóng</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
+			<Text>Trung bình</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
+			<Text>Lạnh</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
+			<Text>Ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_NAME">
+			<Text>Lượng mưa</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_ARID_NAME">
+			<Text>Khô</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
+			<Text>Trung bình</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_WET_NAME">
+			<Text>Ướt</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
+			<Text>Ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_NAME">
+			<Text>Mực nước biển</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
+			<Text>Thấp</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
+			<Text>Trung bình</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
+			<Text>Cao</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
+			<Text>Ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_NAME">
+			<Text>Tài nguyên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
+			<Text>Rải rác</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
+			<Text>Trung bình</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
+			<Text>Phong phú</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
+			<Text>Ngẫu nhiên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_NAME">
+			<Text>Vị trí bắt đầu</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
+			<Text>Cân đối</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
+			<Text>Trung bình</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
+			<Text>Huyền thoại</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+			<Text>Vị trí bắt đầu được xác định trước</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+			<Text>Sử dụng vị trí bắt đầu đã được xác định trước trên bản đồ.</Text>
+		</Row>
+		<!--Game Speed Descriptions -->
+		<Row Tag="LOC_GAMESPEED_MARATHON_HELP">
+			<Text>Chậm hơn 200%.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_EPIC_HELP">
+			<Text>Chậm hơn 50%.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_STANDARD_HELP">
+			<Text>Tốc độ bình thường.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_QUICK_HELP">
+			<Text>Nhanh hơn 33%.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_ONLINE_HELP">
+			<Text>Nhanh hơn 2 lần.</Text>
+		</Row>
+		<!-- Map Type Descriptions -->
+		<Row Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+			<Text>Rất nhiều đảo nhỏ với một vài đảo lớn</Text>
+		</Row>
+		<Row Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+			<Text>Diện tích đất lớn như một lục địa.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+			<Text>Không thể đoán trước với một hay nhiều lục địa.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+			<Text>Một đại dương lớn ở trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+			<Text>Một quần đảo khác nhau từ nhỏ đến lớn.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+			<Text>Một mảng đất lớn với xung quanh là đảo</Text>
+		</Row>
+    <Row Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+      <Text>Bản đồ này sẽ tiết lộ bí mật gì?</Text>
+    </Row>
+		<!-- Map Size Descriptions -->
+		<Row Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
+			<Text>Cho 2 người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
+			<Text>Cho 4 người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
+			<Text>Cho 6 người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
+			<Text>Cho 8 người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
+			<Text>Cho 10 người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
+			<Text>Cho 12 người chơi.</Text>
+		</Row>
+		<!-- Turn Timer Settings -->
+		<Row Tag="LOC_TURNTIMER_NONE">
+			<Text>Không ràng buộc</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_NONE_DESC">
+			<Text>Người chơi thay phiên nhau mà không ràng buộc thời gian.</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_DYNAMIC">
+			<Text>Thời gian biến động</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_DYNAMIC_DESC">
+			<Text>Thời gian cho mỗi lượt tỷ lệ với tổng số thành phố và đơn vị của người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_STANDARD">
+			<Text>Ràng buộc</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_STANDARD_DESC">
+			<Text>Thời gian cho mỗi lượt (tính bằng giây).</Text>
+		</Row>
+		<!-- Turn Mode Settings -->
+		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS">
+			<Text>Các lượt đồng thời</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
+			<Text>Người chơi nhận lượt của họ tại cùng một thời gian.</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_DYNAMIC">
+			<Text>Các lượt động</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_DYNAMIC_DESC">
+			<Text>Người chơi hòa bình nhận lượt của họ tại cùng một thời gian. Người chơi chiến tranh nhận lượt của họ lần lượt.</Text>
+		</Row>
+		<!-- Map Config Descriptions -->
+		<Row Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
+			<Text>Thay đổi độ cao bản đồ (Đồi và núi).</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
+			<Text>Nhiều đồi và núi.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
+			<Text>Đồi và núi trung bình.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
+			<Text>Ít đồi và núi.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
+			<Text>Ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
+			<Text>Điều chỉnh địa hình.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
+			<Text>Nhiều sa mạc và ít lãnh nguyên, tuyết.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
+			<Text>Trung bình tương tự với trái đất.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
+			<Text>Nhiều lãnh nguyên, tuyết và ít sa mạc.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
+			<Text>Ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_DESCRIPTION">
+			<Text>Thay đổi một số tính chất sẵn có.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
+			<Text>Ít rừng, rừng nhiệt đới và đầm lầy.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
+			<Text>Lượng rừng, rừng nhiệt đới và đầm lầy trung bình.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
+			<Text>Nhiều rừng, rừng nhiệt đới và đầm lầy.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
+			<Text>Lượng rừng, rừng nhiệt đới và đầm lầy ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
+			<Text>Thay đổi mực nước biển.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
+			<Text>Ít nước.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
+			<Text>Lượng nước trung bình.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
+			<Text>Nhiều nước.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
+			<Text>Lượng nước ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_DESCRIPTION">
+			<Text>Thay đổi số lượng tài nguyên</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
+			<Text>Tài nguyên ít.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
+			<Text>Tài nguyên trung bình.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
+			<Text>Tài nguyên nhiều.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
+			<Text>Tài nguyên ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_DESCRIPTION">
+			<Text>Chuyển giá trị của vị trí bắt đầu.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+			<Text>Tất cả người chơi có điểm khởi đầu như nhau.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+			<Text>Vị trí bắt đầu tiêu chuẩn.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+			<Text>Ai cũng chơi giỏi, không cần phải giống nhau.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERA">
+			<Text>Thời đại bắt đầu</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SCRIPT">
+			<Text>Bản đồ</Text>
+		</Row>
+		<!-- Tutorial Select Screen-->
+		<Row Tag="LOC_SETUP_TUTORIAL_TITLE">
+			<Text>Chào mừng đến với Civilization</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+			<Text>Đây là nơi bắt đầu cuộc hành trình từ khởi đầu khiêm tốn để đến với sự vĩ đại.[NEWLINE][NEWLINE]Bạn sẽ chinh phục thế giới trong những trận đánh lớn hay là kẻ đầu tiên gửi người lên sao Hỏa? Nền văn minh của bạn ảnh hưởng tới toàn cầu như thế nào, hay niềm tin tôn giáo đến tận cùng trái đất?[NEWLINE][NEWLINE]Chỉ có thời gian sẽ...[NEWLINE][NEWLINE]Tất cả nền văn minh vĩ đại đều bắt đầu bởi một người lãnh đạo giỏi. Chọn người lãnh đạo mà bạn muốn chơi ở bên dưới:</Text>
+		</Row>	
+		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+			<Text>Cleopatra của đế chế Ai Cập. Một nền văn minh với các đồng minh mạnh mẽ và thành phố lớn.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+			<Text>Gilgamesh của đế chế Sumerian rộng lớn và là một người chinh phạt được kính trọng.</Text>
+		</Row>
+		<!-- Loading Screen / Dawn of man -->
+		<Row Tag="LOC_LOADING_DOMAIN_LAND">
+			<Text>Đơn vị mặt đất đặc biệt</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DOMAIN_SEA">
+			<Text>Đơn vị biển đặc biệt</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DOMAIN_AIR">
+			<Text>Đơn vị hàng không đặc biệt</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_PLEASE_WAIT">
+			<Text>Đang tải...</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DISTRICT_BUILDING">
+			<Text>{1_DistrictName}</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_BUILDING">
+			<Text>Kiến trúc đặc biệt</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_DISTRICT">
+			<Text>Đặc Khu đặc biệt</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+			<Text>Công trình đặc biệt</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+			<Text>Tham gia vào thời đại</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_FEATURES_ABILITIES">
+			<Text>Đặc điểm &amp; Thuộc tính</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_START_GAME">
+			<Text>Bắt đầu</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CONTINUE_GAME">
+			<Text>Tiếp tục</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+			<Text>Điều đó phụ thuộc vào bạn để dẫn dắt người dắt người dân của mình đến vinh quang thông qua việc xây dựng một nền văn minh sẽ đứng vững trước thử thách của thời gian.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+			<Text>Anh hùng Frederick, đức vua của người Đức, nhiệm vụ của bạn là xây dựng các tiểu bang độc lập xung quanh đế quốc. Bạn được phù hộ để trở thành một nhà lãnh đạo quân sự vĩ đại - dùng những kỹ năng đó để các thành phố dưới sự ảnh hưởng của bạn phát triển thành các cường quốc về thương mại và công nghiệp. Chắc chắn sau này các thi sĩ sẽ hát về một Frederick hùng mạnh với bộ râu đỏ, Hoàng đế La Mã Thần Thánh vĩ đại.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+			<Text>Việc này nằm trong tay bạn, Catherine de Medici, dùng những món quà về tri thức và nghệ thuật của bạn và thống nhất người dân. Hãy chỉ đạo kỹ lưỡng để vượt qua những thời điểm khó khăn này, Hoàng Thái Hậu của nước Pháp. Bạn sẽ xây dựng những kỳ quan vĩ đại, thu hút khách du lịch từ khắp nơi trên Trái Đất. Với nhận thức sắc sảo của bạn về mọi thứ, những thứ nhìn thấy được và cả những thứ đang ẩn mình trong bóng tối, đế quốc của bạn chắc chắn sẽ đứng vững trước thời gian.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+			<Text>Sẽ có những kẻ đánh giá thấp bạn, nhưng bạn rất tinh ranh và đầy những mưu mẹo, Nữ Hoàng Cleopatra. Sự quyến rũ của bạn sẽ thành lập những liên minh bền vững với những người lãnh đạo mạnh mẽ nhất trên thế giới. Giữ bằng hữu của mình sát bên cạnh và bạn sẽ thấy mình không thể bị động đến, cùng với vinh quang của Ai Cập cổ kính để chiến thắng cả thế giới.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+			<Text>Hãy tỏ ra tử tế, Gandhi Bapu, và bạn sẽ thấy bản thân mình được bao quanh bởi những người bạn chân thật. Giữ cho những người Ấn Độ được an toàn, bảo vệ họ bằng những chiến binh cưỡi voi hào hoa. Lòng tin của bạn sẽ dẫn đường bạn đến hòa bình và sự hòa hợp. Giữ cho đầu óc luôn tỉnh táo, và hãy trở thành sự thay đổi mà bạn muốn thấy trong thế giới.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+			<Text>Rất nhiều thứ đè nặng trên vai bạn, Vua Gilgamesh. Người dân của bạn, và rất nhiều người dân trên thế giới, xem bạn như là một người lãnh đạo. Nhưng bạn còn hơn cả một người đàn ông, và gánh nặng của thế giới sẽ không bao giờ khiến bạn lung lay. Khích lệ người dân của Sumer định cư trên những mảnh đất màu mỡ dọc con sông, và hãy chắc chắn rằng bạn chọn đồng minh kỹ lưỡng - vì sẽ có rất nhiều cuộc tranh đua để giành lấy một phần sức mạnh của bạn. Hãy mạo hiểm vì đây là lúc để bắt đầu câu chuyện sử thi của mình.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
+			<Text>Gorgo, Nữ Hoàng của Sparta; vinh quang thuộc về bạn và đội quân trung thành của bạn! Hy Lạp được ban phước lành rằng sẽ có tất cả chiến thắng từ Ares. Và người dân của bạn tán thưởng sự thống lĩnh chu đáo và nền văn hóa kỳ diệu của bạn. Tự hào đi, vì di sản của Hy Lạp, và những thành tựu của bạn, sẽ được lưu truyền từ thế hệ này sang thế hệ khác.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+			<Text>Tất cả mọi người đều lo sợ khi các con tàu của bạn tiếp cận, Vua Harald của xứ Na Uy, Tiếng Sét của phương Bắc. Các con tàu lớn của bạn thống trị những con sóng, luôn sẵn sàng để thả những đội quân Berserker trên những bờ biển không ngờ đến. Cầu cho Odin ban phước cho vương quốc của bạn và cầu cho các thi sĩ luôn hát về những chiến thắng của những chiến binh hùng mạnh của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HOJO">
+			<Text>Làn sóng lớn của Phật giáo luôn theo sát bạn, Lãnh Chúa của Nhật Bản, Hojo Tokimune. Người dân của bạn thật sự hiểu thế nào là luyện tập một cách cân bằng, và ngay cả những Samurai giỏi nhất của bạn cũng là người có học vấn và có năng khiếu. Hãy mạnh mẽ lên, vượt qua bão tố, và bạn sẽ được giác ngộ.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+			<Text>Đất Mẹ ban cho bạn rất nhiều món quà, Vua Mvemba a Nzinga. Người dân của bạn biết rõ từng khu rừng nhỏ và từng khu rừng nhiệt đới dày đặc như là nhà của họ vậy, và băng qua chúng một cách dễ dàng. Điều tuyệt vời là những món quà đến từ các du khách từ những mảnh đất xa xôi. Giữ cho đầu óc tỉnh táo, vì nguồn cảm hứng của thế giới bao la sẽ giúp cho người dân của bạn tạo ra những nghệ thuật quyền lực và uy nghi.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+			<Text>Người dân trông chờ ở bạn, Hoàng Đế Pedro II, để dẫn dắt Brazil bước lên vũ đài của thế giới. Sử dụng danh tiếng của mình như là một người bảo trợ cho các họa sĩ, nhà khoa học, và kỹ sư để thu hút các bộ óc thiên tài về mảnh đất màu mỡ của bạn. Bởi vì nó nằm trong những cánh rừng nhiệt đới tươi tốt, với cuộc sống đông đúc, nên cuộc sống của người dân bạn rất thịnh vượng. Hãy nhìn họ nhảy những vũ điệu samba trong các lễ hội Carnival để ăn mừng các chiến công vĩ đại của bạn, Pedro the Magnanimous.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+			<Text>Sự thành thạo trong ngôn từ là một món quà giá trị của tạo hóa, "lưỡi-bạc" Pericles, lãnh tụ của Hy Lạp. Thông qua nó bạn có thể thu hút sự tôn sùng của một liên minh gồm nhiều quốc gia, vây quanh bạn bằng vinh quang của họ. Thiết lập những khu vực văn hóa dọc theo các bờ đá của Hy Lạp để thống nhất mọi người dân đằng sau sự lãnh đạo mạnh mẽ của bạn. Nếu tất cả tiến triển tốt các Siren sẽ hát về Thời đại của Perciles!</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+			<Text>Hãy để ngọn gió lạnh của vùng đất mẹ thổi vào lòng mình, Tsar Peter. Sự quyến rũ của bạn đối với khoa học và văn hóa là một món quà, và bạn sẽ học được rất nhiều từ những Đại Sứ Quán Vĩ Đại của mình trên những mảnh đất lạ. Dưới sự lãnh đạo của bạn, nước Nga sẽ chắc chắn mở rộng và phát triển, thu nạp tất cả những thứ xung quanh nó, có lẽ nó sẽ tạo nên đế quốc hùng mạnh nhất trên Trái đất.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+			<Text>Tất cả người Tây Ban Nha sẵn sàng đáp lại những lời thỉnh cầu của bạn, Vua Philip II sùng đạo. Từ cung điện của mình ở El Escorial bạn có thể gửi đi những môn đồ của mình: những nhà truyền giáo, tông đồ và những kẻ xâm lược sẵn sàng băng qua đại dương để truyền bá những từ ngữ tốt đẹp về Đế Quốc thiêng liêng nhất của bạn. Cầu cho các kho báu mà họ khám phá được tiếp thêm năng lượng để bạn thống nhất cả thế giới dưới một tín ngưỡng và dưới một đế chế, tất cả làm bạn trở thành một vị Vua Công Giáo bậc nhất.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_QIN">
+			<Text>Sức mạnh của bạn nằm bên trong thần dân của người, Hoàng Đế Tần Thủy Hoàng. Từ mọi nơi trên thế giới, mọi người sẽ chăm chú ngắm nhìn trường thành vĩ đại và những kỳ quan cao ngất của đất nước Trung Hoa. Cầu cho đôi tay của những người dân bạn không bị bỏng rộp vì họ làm việc chăm chỉ và nhanh chóng để gây dựng nên những kiến trúc ấn tượng nhất mà cả thế giới đều biết đến. Bảo vệ họ thật tốt, và bạn sẽ lưu danh muôn thuở.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+			<Text>Cuộc hôn nhân giữa khoa học và đạo giáo là một môn nghệ thuật cần có sự cân bằng tinh tế, nhưng bạn đã thành thục nó, Saladin. Nhiệm vụ tìm kiếm tri thức của bạn là rất cao quý, và người dân của bạn có lòng kính trọng sâu sắc dành cho bạn. Nhưng bạn không cần phải gấp rút vào những thứ không xác định. Vào một lúc nào đó, tất cả câu trả lời của những câu đố khó nhất trong cuộc sống sẽ tự tìm đường trở về Ả Rập.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+			<Text>Tất cả mọi người đều run sợ và kính trọng bạn, chiến binh vĩ đại Nữ Hoàng Tomyris. Vì trên lưng ngựa, bạn sẽ nhìn về phía trước và dẫn dắt người dân của Scythian. Những bản anh hùng ca đều sẽ kể về những chiến binh cưỡi ngựa băng qua các cánh đồng hoang, và trên tiền tuyến của mỗi trận chiến - họ sẽ tìm về bạn. Tiến lên, nữ hoàng khốc liệt, và mong các bằng hữu của người sẽ khiến kẻ thù phải chùn bước.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+			<Text>Ném lưới của bạn đi thật xa, ôi Trjan, Hoàng để của La Mã vĩ đại. Quân đoàn của bạn đã sẵn sàng để hành quân và xây dựng một đế chế lớn nhất thế giới từng thấy. Nếu bạn thật sự có thể dẫn mọi con đường đến La Mã, đế chế của bạn sẽ trở nên giàu có và xa hoa. Chắc chắn rằng sau đó người dân của bạn sẽ tuyên bố bạn là người lãnh đạo tài giỏi nhất mà họ có, Nhà Lãnh đạo Tài Ba.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+			<Text>Mọi thứ đều đặt lên đôi vai rộng của bạn, Theodore Roosevelt, để tiến lên phía trước và dẫn dắt người dân của mình trong những chuyến thám hiểm vĩ đại của họ. Dùng sức mạnh quân sự của mình để cho mọi người ở quê hương một sự đối đãi công bằng mà họ xứng đáng được nhận trong tuyệt vọng. Chắc chắn rằng bạn sẽ gây dựng nên một nước Mỹ sẽ soi sáng băng qua khắp các đại dương và thu hút mọi người. Bạn rất xứng đáng, Ngài Tổng Thống.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+			<Text>Muôn tâu nữ Hoàng Victoria của nước Anh, hãy mở rộng lãnh thổ trên khắp mọi nơi trên địa cầu. Đừng lo lắng về thất bại vì đã có đội quân áo choàng đỏ trung thành của bạn và cả đội hải quân áp đảo. Với sự bình tĩnh và cẩn trọng bạn có thể đem mọi mảnh đất về dưới trướng của nước Anh, xây dựng nên một Thái bình Anh Quốc.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+			<Text>Từ những bước chuyển mình đầu tiên của sự sống dưới đáy biển sâu...cho đến những con quái vật khổng lồ của thời đổ đá...đến khi con người đi những bước thẳng mình đầu tiên, bạn đã đi rất xa. Và bây giờ sứ mệnh vĩ đại của bạn đã bắt đầu: từ thuở hoang sơ của nền văn minh nhân loại tiến về phía những vì sao.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+			<Text>Từ những bước đầu khiêm tốn, bạn đã cho thấy sự phát triển đáng ghi nhận. Hãy bỏ lại đồng thau để đến với sắt thép, cai trị với ngựa và kiếm. Những vì tinh tú trên bầu trời đã bắt đầu lộ ra những bí mật, một bộ sưu tập của thiên đàng, thứ sẽ chắp cánh cho trái tim của chúng ta và dìu dắt ta đến những bờ biển mới lạ.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+			<Text>Bạn đã xây dựng những thành phố vĩ đại từ đá, chứng kiến những đế quốc sơ khai trỗi dậy và lụi tàn. Sớm thôi, bạn sẽ đứng dưới những ngọn tháp, sánh vai với những hiệp sĩ can đảm của bạn. Đó là nơi mà câu chuyện về người dân của bạn sẽ được viết nên. Cũng giống như một cậu bé học nghề tập múa kiếm, bạn cũng sẽ trưởng thành hơn để hiểu vị trí của bạn trên thế giới này.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+			<Text>Những thế lực mới lên tiếng, từ những thùng súng trường đến những bông hoa lửa trên bầu trời. Ngay cả những từ ngữ tưởng chừng như im lặng trên những ấn phẩm mới in cũng chứa đựng những sự thay đổi to lớn. Thế giới của chúng ta, từng một thời bao la và huyền bí, đã trở nên nhỏ hơn và thân thuộc hơn. Tuy vậy, luôn luôn có những câu hỏi cần giải đáp, niềm tin sẽ được thử thách, và bản sắc dân tộc sẽ được hình thành.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+			<Text>Tiếng gầm chắc nịch của máy móc, mùi hương chua chát của khói, tầm nhìn khuất sau lớp tro và muội than - đây là những dấu hiệu của sự chuyển giao thời đại. Sức quyến rũ của các bước tiến khoa học và văn hóa chính là động cơ chèo lái vương quốc của bạn tiến về phía trước. Giờ đây, thử thách của bạn là duy trì sự cân bằng yếu ớt giữa trái đất và con người, giữa hòa bình và chiến tranh.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MODERN_DESCRIPTION">
+			<Text>Từ thuở xa xưa, huyền thoại về những người biết bay đã được cất lên. Và ngày nay, bạn đang tiến gần đến việc biến những huyền thoại đó thành sự thật. Với đường bay và những phương tiện giao thông liên lạc mới, bạn có thể tạo ra một thới giới nhỏ và gần gũi. Nhưng cái giá phải trả ra sao? Những tư tưởng ganh đua của chúng ta về việc làm thế nào để thống trị và làm thế nào để sống đang tiềm ẩn nguy cơ mang đến sự xung đột trên toàn cầu. Bạn phải chọn con đường bạn cho là đúng đắn để vượt qua tiếng vang nổi dậy của tư tưởng hùng biện.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+			<Text>Những biên giới khám phá mới làm giàu tri thức của chúng ta, từ những nguyên tử tí hon đến sự choáng ngợp ngoài vũ trụ. Những bí ẩn trước kia bị phớt lờ đã gần hơn bao giờ hết để làm sáng tỏ những bí mật sâu thẳm nhất, vượt qua những gì chúng ta có thể chứng kiến dưới con mắt trần tục. Bạn sẽ chọn cách sử dụng kiến thức này ra sao, và đẩy lùi bóng đêm sâu thẳm mà chúng ta chưa từng chạm trán.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INFORMATION_DESCRIPTION">
+			<Text>Thế giới thông tin nằm trong lòng bàn tay của bạn, những mạng lưới dành cho việc liên lạc chớp nhoáng mở rộng địa cầu. Tuy nhiên một tầm nhìn chung cho tương lai của chúng ta chưa bao giờ được xây dựng. Chúng ta ganh đua về công nghệ, văn hóa, và chính trị. Chúng ta có những vũ khí hủy diệt có thể phá hủy hành tinh của chúng ta. Hãy dẫn dắt chúng ta cẩn thận, nhưng mạnh dạn, và xây dựng một cộng đồng toàn cầu để đứng vững trong những ngày tháng sắp tới.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DISABLE">
+			<Text>Tắt cố vấn</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
+			<Text>Mời từ chiến thuật theo lượt.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV">
+			<Text>Mới từ Civilization</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
+			<Text>Mới từ Civilization VI</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+			<Text>Không trùng người lãnh đạo</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+			<Text>Bật tùy chọn này để hạn chế hai hoặc nhiều người chơi chọn người lãnh đạo giống nhau.</Text>
+		</Row>
+		<Row Tag="LOC_LIMIT_TURNS_NAME">
+			<Text>Giới hạn lượt</Text>
+		</Row>
+		<Row Tag="LOC_LIMIT_TURNS_DESCRIPTION">
+			<Text>Giới hạn số tối đa của lượt</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_NONE_NAME">
+			<Text>Không giới hạn</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
+			<Text>Không có giới hạn nào cả.</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
+			<Text>Bởi tốc độ game</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
+			<Text>Game sẽ kết thúc vào năm 2050.</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_CUSTOM_NAME">
+			<Text>Tùy chọn</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
+			<Text>Game sẽ kết thúc sau số lượt nhất định.</Text>
+		</Row>
+		<Row Tag="LOC_CITYSTATE_COUNT_NAME">
+			<Text>Thành phố tự trị:</Text>
+		</Row>
+		<Row Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+			<Text>Số thành phố tưu trị có trong game này.</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_NAME">
+			<Text>Lượt tối đa:</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_DESCRIPTION">
+			<Text>Số lượt đến khi tính Chiến Thắng Điểm. Sử dụng 0 để không giới hạn.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_RESUME_GAME_TT">
+			<Text>Tiếp tục Game cuối mà bạn chơi.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_LOAD_GAME_TT">
+			<Text>Tải từ Save đã có.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_PLAY_NOW_TT">
+			<Text>Chơi với lục địa nhỏ và người lãnh đạo ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_CREATE_GAME_TT">
+			<Text>Tạo game mới với tùy chọn của chính bạn.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_SCENARIOS_TT">
+			<Text>Chơi một kịch bản có trải nghiệm độc đáo với luật, người lãnh đạo và mục tiêu riêng.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
+			<Text>Chơi luôn, tạo game mới hay tiếp tục game.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_TT">
+			<Text>Chơi nhiều người bằng kết nối tới Internet, LAN...</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
+			<Text>Tùy chọn đồ họa, âm thanh, điều khiển.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MODS_TT">
+			<Text>MOD được tảo bởi fan hay Dev Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_TUTORIAL_TT">
+			<Text>Chưa biết chơi, chúng tôi sẽ giúp bạn!</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_BENCHMARK_TT">
+			<Text>Máy bạn khỏe đến mức nào?</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_CREDITS_TT">
+			<Text>Những người làm ra Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_EXIT_GAME_TT">
+			<Text>Thoát tới Desktop.</Text>
+		</Row>
+
+		<!-- Copyright screen -->
+		<Row Tag="LOC_COPYRIGHT_TEXT">
+			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+		</Row>
+		<Row Tag="LOC_COPYRIGHT_ACCEPT">
+			<Text>Tiếp tục</Text>
+		</Row>
+    <Row Tag="LOC_VICTORY_DEFAULT_NAME">
+      <Text>Chiến thắng</Text>
+    </Row>
+		<Row Tag="LOC_VICTORY_SCORE_NAME">
+			<Text>Điểm</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_NAME">
+			<Text>Khoa học</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_NAME">
+			<Text>Nền văn minh</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_NAME">
+			<Text>Quyền thống trị</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_NAME">
+			<Text>Tôn giáo</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCORE_TT">
+			<Text>Không còn cách nào khác, khi hết thời gian, người cao điểm nhất sẽ chiến thắng.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_TT">
+			<Text>Đưa người lên sao Hỏa đến chiến thắng..</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_TT">
+			<Text>Sự vĩ đại của nền văn minh sẽ thu hút tất cả mọi người trên thế giới. Đây là một cách chiến thắng khó khăn.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_TT">
+			<Text>Thông qua sức mạnh quân sự, đưa thế giới quy về một mối.Đây là một cách chiến thắng tiêu chuẩn.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_TT">
+			<Text>Truyền Đạo tôn giáo tới toàn cầu, mang ánh sáng đến với thế giới đen tối. Bạn cần phải giữ vững các mối quan hệ ngoại giao.</Text>
+		</Row>
+		<Row Tag="LOC_RULESET_NAME">
+			<Text>Luật tiêu chuẩn</Text>
+		</Row>
+		<Row Tag="LOC_RULESET_DESCRIPTION">
+			<Text>Là luật tiêu chuẩn của Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
+			<Text>Chơi với Cleopatra</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
+			<Text>Chơi với Gilgamesh</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
+			<Text>Nội dung thêm</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
+			<Text>Nội dung thêm và Mod Civilization VI.</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO">
+			<Text>Demo</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
+			<Text>Buy It Now</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_CONTENT">
+			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
+			<Text>Fade into History</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_BUY">
+			<Text>Achieve Greatness</Text>
+		</Row>
+		<Row Tag="LOC_ARX_VICTORY_PROGRESS">
+			<Text>{1_CivName} Victory Progress</Text>
+		</Row>
+		<Row Tag="LOC_ARX_TOP_5">
+			<Text>Top 5</Text>
+		</Row>
+		<Row Tag="LOC_ARX_GOSSIP_LOG">
+			<Text>Gossip Log</Text>
+		</Row>
+		
+		<!-- File Errors -->
+		<Row Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+			<Text>Save không thể load trong phiên bản game này.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+			<Text>Không thể mở save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+			<Text>Không thể ghi save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+			<Text>Không thể đọc save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+			<Text>Không thể xóa save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+			<Text>File này không phải là save game.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+			<Text>Save game bị hỏng.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+			<Text>Tải save lỗi.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+			<Text>Không thể phục hồi trạng thái game.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+			<Text>Không thể tìm đường dẫn.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+			<Text>Thiết bị lưu không hợp lệ.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+			<Text>Không thể lấy danh sách save từ thiết bị.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+			<Text>Yêu cầu một hoặc nhiều Mod của save không được cài đặt.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+			<Text>Yêu cầu một hoặc nhiều gói DLC của save không được cài đặt.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Yêu cầu một hoặc nhiều gói mở rộng của save không được cài đặt.</Text>
+		</Row>
+
+		<!-- -->
+	</FrontEndText>
+</GameData>

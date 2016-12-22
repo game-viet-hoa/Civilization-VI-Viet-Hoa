@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlSpy.com) by Anton Strenger (Firaxis Games) -->
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_TITLE">
+			<Text>Giới thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_PARA_1">
+			<Text>Chào mừng đến với Civilopedia của Sid Meier's Civilization VI! Tại đây bạn sẽ tìm thấy các miêu tả chi tiết về từng khái niệm của trò chơi. Nhấp vào các mục trên cùng của màn hành sẽ đưa bạn đến các phần chính khác nhau của Civilopedia. Thanh điều hướng phía bên trái của màn hình sẽ hiển thị nhiều mục khác nhau trong một phần. Nhấp vào từng mục để vào trực tiếp đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITIES_NAME">
+			<Text>Thành phố</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Các thành phố rất quan trọng cho sự thành công của nền văn minh của bạn. Chúng cho phép bạn xây dựng các đơn vị, kiến trúc và kì quan. Chúng cho phép bạn nghiên cứu những công nghệ mới và làm giàu. Bạn không thể chiến thắng nếu không có sức mạnh và những thành phố nằm ở vị tri tốt.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_TITLE">
+			<Text>Cách tạo thành phố mới</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Thành phố được xây dựng bởi những đơn vị Dân Di Cư. Nếu Dân Di Cư ở một vị trí, nơi mà một thành phố có thể xây dựng thì nút "Tìm thấy thành phố" sẽ được hiện ra. Bấm vào nút trên và Dân Di Cư sẽ biến mất, được thay thế bởi một thành phố mới.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_TITLE">
+			<Text>Thành phố xây dựng ở đâu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Các thành phố nên được xây dựng ở những nơi có nhiều [ICON_Food] Thực Phẩm và [ICON_Production] Sản Phẩm và với nhiều tài nguyên Chiến Lược, Quý và Thưởng. Xây dựng thành phố gần một con sông hoặc ven biển thường là một ý hay, vì những nguồn nước rất quan trọng để phát triển [ICON_Citizen] Dân Số. Các thành phố được xây dựng trên Đồi có lợi thế phòng thủ, khiến kẻ thù khó khăn để chiếm chúng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Khi một Dân Di Cư được lựa chọn, những vị trí thành phố lý tưởng sẽ được đưa ra trên bản đồ với một ký hiệu. Thêm vào đó, tất cả Dân Di Cư sau đó sẽ cho ra Ống Kính Dân Di Cư, cho bạn hình dung nơi nào trên bản đồ cho nguồn nước tốt nhất cho thành phố của bạn, và hiển thị những nơi không phù hợp.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_TITLE">
+			<Text>Phát triển</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
+			<Text>Thành phố của bạn sẽ phát triển, hoặc thêm nhiều [ICON_Citizen] Dân Số, với lượng [ICON_Food] Thực Phẩm dư. Bất kỳ số lượng [ICON_Food] Thực Phẩm trên tổng mức tiêu thụ của [ICON_Citizen] Dân Cư, 2 cho mỗi người, được tính là số dư thừa, và được thêm vào tiến độ phát triển thêm một [ICON_Citizen] Dân Cư mới.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Một thành phố cộng thêm tất cả số [ICON_Food] Thực Phẩm dư và mức tăng trưởng nếu số [ICON_Citizen] Dân Cư hiện tại ít hơn (2 hoặc hơn) giới hạn [ICON_Housing] Nhà Ở của thành phố. Nếu thành phố có thấp hơn 1 [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở, mức tăng trưởng sẽ chậm hơn 50%. Khi [ICON_Citizen] Dân Cư đang ở mức giới hạn của [ICON_Housing] Nhà Ở, nó sẽ chỉ tăng 25% tốc độ bình thường. Một thành phố chỉ có thể tăng đến mức 5 lần [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở giới hạn, đó là mức giới hạn của nó, và sau đó nó sẽ ngừng tăng trưởng hoàn toàn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
+			<Text>Một thành phố sẽ bị ngưng đọng và không phát triển nếu không có [ICON_Food] Thực Phẩm dư. Nếu nó tạo ra [ICON_Food] Thực Phẩm ít hơn mức [ICON_Citizen] Dân cư tiêu thụ, thành phố sẽ bị đói và từ từ mất [ICON_Citizen] Dân cư cho đến khi nó có thể cung cấp lương thực lại.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
+			<Text>Thực Phẩm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
+			<Text>Một thành phố cần 2 [ICON_Food] Thực Phẩm mỗi [ICON_Citizen] Dân Cư (cách gọi khác của "[ICON_Citizen] Dân Số" mỗi lượt để tránh nạn đói. Một thành phố thu hoạch [ICON_Food] Thực Phẩm (cũng như các sản lượng khác) bằng cách chỉ định [ICON_Citizen] Dân Cư để "làm việc" trong các ô đất xung quanh thành phố. Thành phố có thể làm việc bất kỳ ô nào trong phạm vi 3 ô của thành phố trong biên giới, miễn là nó không được làm việc bởi thành phố khác. Các thành phố không thể làm việc trong các ô có kỳ quan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Tự động, thành phố sẽ chỉ định nhiều [ICON_Citizen] Dân Cư nhất có thể để thu hoạch [ICON_Food] Thực Phẩm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_TITLE">
+			<Text>Nhà ở</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Housing] Nhà Ở đại diện cho số lượng [ICON_Citizen] Dân Cư hoặc [ICON_Citizen] Dân Số bạn có thể có trong thành phố. Tài nguyên cơ bản của [ICON_Housing] Nhà Ở là nguồn nước.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_2">
+			<Text>Nhiều công trình sẽ cho [ICON_Housing] Nhà Ở. Sau khi nghiên cứu Đồ Gốm, tất cả thành phố đều có thể xây dựng Kho Thóc, nó cộng thêm 2 [ICON_Housing] Nhà Ở, và sau đó họ có thể xây dựng Cống thoát nước, cũng thêm 2 [ICON_Housing] Nhà Ở. Các công trình trong các đặc khu đôi khi cũng thêm [ICON_Housing] Nhà Ở, như là Trại Lính trong Khu Quân Sự, Trường đại học trong Khu Trí Thức, và Hải Đăng trong khu Cảng Biển. công trình Cung Điện trong thủ đô cũng cộng 1 [ICON_Housing] Nhà Ở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_3">
+			<Text>Mỗi Nông Trại, Bãi Chăn, Vườn ươm, hoặc Trại hỗ trợ một lượng nhỏ [ICON_Citizen] Dân Số - 1 [ICON_Housing] Nhà Ở mỗi 2 công trình. Hỗ trợ [ICON_Citizen] Dân Số bằng cách này sẽ cung cấp lượng [ICON_Citizen] Dân Cư lơn hơn một ít trước Thời đại Công Nghiệp, khi các Vùng Ngoại Ô trở nên có hiệu lực.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_TITLE">
+			<Text>Nước sạch</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_1">
+			<Text>Đặt thành phố ở gần nguồn nước nên là lựa chọn đầu tiên trong mỗi trò chơi. Sự tồn tại của nguồn nước sạch sẽ ngay lập tức thiết lập một cấp độ [ICON_Housing] Nhà Ở ban đầu cho thành phố. Một thành phố không gần bất kỳ nguồn nước nào sẽ có [ICON_Citizen] Dân Cư nhiều nhất là 2 vào lúc bắt đầu. Một thành phố trên bờ biển sẽ có [ICON_Citizen] Dân Cư nhiều nhất là 3. Và một thành phố gần Sông, Hồ, hoặc Ốc Đảo sẽ có [ICON_Citizen] Dân Cư nhiều nhất là 5 lúc bắt đầu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_2">
+			<Text>Tình trạng nước sạch của một thành phố có thể được nâng cấp một khu Thủy Lợi gần Thành phố trung tâm. Khu Thủy Lợi có thể chỉ được đặt trong ô kế bên cạnh Sông, Hồ, hoặc Núi cũng kế bên thành phố trung tâm. Hoàn tất khu Thủy Lợi tăng số [ICON_Housing] Nhà Ở gần nước từ 2 lên đến 6.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_TITLE">
+			<Text>Đặc Khu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
+			<Text>Trong Civilization VI, các kiến trúc không còn bị giới hạn trong Thành Phố Trung Tâm nữa, nhưng sẽ được rải rác ra khắp vùng đất của đặc khu. Bản đồ sẽ quan trọng hơn vì bạn sẽ đối mặt với các lựa chọn vị trí chiến lược quan trọng. Mỗi Khu Trí Thức và Thánh Địa nhận thưởng đặc biệt từ các ô Núi liền kề, nhưng Khu Tri Thức cũng hưởng lợi từ ô Rừng Nhiệt Đới gần đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_2">
+			<Text>Một thành phố phải gia tăng [ICON_Citizen] Dân cư trước khi có thể xây dựng nhiều Đặc Khu:[NEWLINE]• 1 [ICON_Citizen] Dân cư cho 1 Đặc Khu[NEWLINE]• 4 [ICON_Citizen] Dân cư cho 2 Đặc Khu[NEWLINE]• 7 [ICON_Citizen] Dân cư cho 3 Đặc Khu[NEWLINE]• Thêm mỗi Đặc Khu cần +3 [ICON_Citizen] Dân cư[NEWLINE]Khu thủy lợi, Vùng ngoại ô, và bất kỳ Đặc Khu đặc biệt của nền văn minh sẽ không có yêu cầu [ICON_Citizen] Dân cư.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_3">
+			<Text>Khi một thành phố sẵn sàng xây dựng một cái gì đó, nút Chọn Sản Phẩm sẽ xuất hiện. Nếu Đặc Khu có thể xây dựng, nó sẽ xuất hiện trong Menu này. Click vào Đặc Khu để bắt đầu xây dựng, ống kinh đặc khu sẽ được mở. Ở đây, bạn sẽ có cái nhìn tổng quan về sản lượng thu được của các ô đất khác nhau xung quanh thành phố trung tâm, và có thể gợi ý cho bạn một vị trị xây dựng Đặc Khu có lợi. Ống kính cũng hiển thị cả những ô đất chưa có chủ, cũng như một số Đặc Khu có yêu cầu về vị trí xây dựng (ví dụ, Khu quân sự không thể xây gần thành phố trung tâm). Còn nữa, tất cả đặc khu phải xây trong vòng 3 ô cách thành phố trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_4">
+			<Text>Đặc Khu có thể đặt trên Rừng hoặc Rừng nhiệt đới nếu bạn có Công Nghệ loại bỏ chúng, nhưng thời gian xây dựng sẽ lâu hơn. Không có Đặc Khu nào có thể xây trên Vùng lũ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
+			<Text>Vùng ngoại ô và Sức hấp dẫn</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Vùng ngoại ô là Đặc khu đặc biệt mà cho phép thành phố có thêm Nhà ở cho [ICON_Citizen] Dân cư và bị ảnh hưởng bởi Sức hấp dẫn. Thuật ngữ “Sức hấp dẫn” được sử dụng để mô tả một hình thức đặc biệt của phần thưởng liền kề mà chỉ áp dụng đối với Vùng ngoại ô, và cũng ảnh hưởng đến Chiến thắng văn minh bằng [ICON_Tourism] Du lịch thông qua Công viên quốc gia và Khu nghỉ dưỡng ven biển.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Ngây ngất: +6 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_3">
+			<Text>Đẹp: +5 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_4">
+			<Text>Trung bình: +4 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_5">
+			<Text>Không hấp dẫn: +3 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_6">
+			<Text>Ghê tởm: +2 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_7">
+			<Text>Cuối cùng, Sức hấp dẫn cũng ảnh hưởng đến khả năng đặt Công viên quốc gia và Khu nghỉ dưỡng ven biển.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_8">
+			<Text>Độ hấp dẫn của một ô có thể xem ở tooltip và bị tác động bởi:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
+			<Text>+2: Mỗi Kỳ Quan Thiên Nhiên liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_10">
+			<Text>+1: Mỗi Thánh Địa, Khu Nghệ Thuật, Khu Giải Trái hoặc Kỳ Quan liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_11">
+			<Text>+1: Mỗi núi, bờ biển, rừng hoặc ốc đảo liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_12">
+			<Text>+1: Nếu trên sông hoặc hồ</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
+			<Text>-1: Mỗi Khu Công Nghiệp, Khu Quân Sự, Sân bay hoặc Trạm không gian liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_14">
+			<Text>-1: Mỗi Rừng nhiệt đới, Đầm lầy hoặc Vùng lũ liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_15">
+			<Text>-1: Mỗi ô đã bị cướp liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_TITLE">
+			<Text>Kiến trúc</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Sau khi đặc khu của bạn được xây dựng, bạn có thể bắt đầu định cư dân trong những kiến trúc này. Bạn xây dựng những kiến trúc này thông qua Menu Sản Xuất. Một vài kiến trúc đòi hỏi yêu cầu, như là phải xây những kiến trúc khác hoặc phải đáp ứng đủ công nghệ; những kiến trúc này sẽ bị ẩn trong Menu Sản Xuất. Nhớ rằng bạn chỉ có thể xây khi những kiến trúc này hiện lên, ví dụ như là Đài Tưởng Niệm. Những kiến trúc này được đặt trong thành phố trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_TITLE">
+			<Text>Kỳ quan</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Kỳ quan là các kiểu kiến trúc đặc biệt được xây dựng trên một ô lục giác và có tác động đáng kể đến lối chơi. Khi bạn chọn một kỳ quan để xây từ Menu Sản Xuất, Bạn sẽ chọn một ô màu để xây, giống như khi bạn xây các công trình khác vậy. Hầu hết các kỳ quan đều có những yêu cầu nhất định về địa điểm xây dựng, và ô màu sẽ sáng lên tức là bạn có thể xây trên đó. Toàn bộ kỳ quan phải được xây trong vòng 3 ô cách thành phố trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Mỗi Kỳ Quan là duy nhất. Mặc dù các nền văn minh có thể cố gắng cùng xây dựng một kỳ quan, nhưng chỉ nền văn minh nào hoàn thành đầu tiên thì mới có được lợi ích từ nó. Các nền văn minh xây dựng thất bại sẽ được hoàn một phần [ICON_Production] Sản phẩm và [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Để biết thêm thông tin về mỗi Kỳ Quan, xem mục Kỳ Quan và Dự Án trong Civilopedia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_TITLE">
+			<Text>Cung điện</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Cung điện là một kiến trúc đặc biệt. Nửa là nhà ở, nửa là kỳ quan, Cung điện tự động xuất hiện trong thành phố đầu tiên mà bạn xây dựng, nó chính là [ICON_Capital] Thủ đô của đế chế bạn. Cung điện cung cấp một lượng nhỏ [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, [ICON_Gold] Vàng, và [ICON_Culture] Văn hóa cho nền văn minh của bạn. Nếu Thủ đô của bạn bị chiếm đóng bởi nền văn minh khác và bạn vẫn còn sở hữu các thành phố khác, thì Cung điện sẽ tự động chuyển đến làm [ICON_Capital] Thủ đô ở một trong những thành phố đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_TITLE">
+			<Text>Công dân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_PARA_1">
+			<Text>Các thành phố phát triển mạnh nhờ vào vùng đất xung quanh chúng. Các [ICON_Citizen] Công dân của thành phố sẽ làm việc trên những ô đất này, thu hoạch [ICON_Food] Thực phẩm, [ICON_Gold] Vàng, [ICON_Production] Sản phẩm, [ICON_Science] Khoa học, và nhiều sản lượng khác từ các ô. Các [ICON_Citizen] Công dân có thể làm việc trong khoảng cách 3 ô tính từ thành phố và trong phạm vi biên giới của nước bạn. Khi thành phố phát triển, nó tự động gán các công dân làm việc trên các vùng đất xung quanh. Nó cố gắng tạo ra một lượng [ICON_Food] Thực phẩm, [ICON_Production] Sản phẩm, [ICON_Gold] Vàng cân bằng. Bạn có thể ra lệnh cho công dân của thành phố làm ở các ô khác - ví dụ, nếu bạn muốn một thành phố nào đó tập trung vào sản xuất [ICON_Gold] Vàng, hoặc [ICON_Production] Sản phẩm, thì chọn biểu tượng Quản lý Công dân trong Bảng Chọn của thành phố để chọn các ô cụ thể mà bạn muốn [ICON_Citizen] Công dân của mình làm việc.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_TITLE">
+			<Text>Hạnh Phúc</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_PARA_1">
+			<Text>Hạnh phúc là thước đo sự hài lòng của người dân trong từng thành phố, và có thể nhận thấy bằng mắt nếu [ICON_Citizen] Dân số của thành phố đó có nhiều [ICON_Amenities] Tiện nghi như mong đợi. 1 [ICON_Amenities] Tiện nghi sẽ cung cấp cho 2 [ICON_Citizen] Dân số, khởi đầu luôn là 3 [ICON_Citizen] dân số. Đây là lượng dân cư mặt định cho mỗi thành phố, nhưng với các thành phố hạnh phúc thì sẽ có 10% tốc độ tăng trưởng và 5% sản lượng. Hơn thế nữa, một thành phố có sức hút sẽ có tốc độ tăng trưởng là 20% và 10% sản lượng. Tương tự như vậy, nếu có quá ít [ICON_Amenities] Tiện nghi sẽ làm cho [ICON_Citizen] Công dân không hài lòng, và tốc độ tăng trưởng cũng như sản lượng sẽ thay đổi theo hướng tiêu cực. Còn khi ở tình trạng bất ổn, thì tăng trưởng của bạn sẽ dừng và quân nổi loạn sẽ xuất hiện trong thành phố của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_TITLE">
+			<Text>Nguồn tiện nghi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Amenities] Tiện nghi có thể đến từ nhiều nguồn khác nhau. Mỗi tài nguyên quý có thể cung cấp đến 4 [ICON_Amenities] Tiện nghi cho 4 thành phố nào cần chúng nhất (1 cho mỗi thành phố). Nó sẽ được tự động phân phối, miễn là tài nguyên quý được khai thác (như xây Vườn ươm trên tài nguyên Gia vị). Đấu trường xây trong Khu giải trí cung cấp [ICON_Amenities] Tiện nghi cho thành phố đó. Sở thú và Sân vận động cũng cung cấp  [ICON_Amenities] Tiện nghi. Một số Kỳ quan cũng cung cấp [ICON_Amenities] Tiện nghi. Hơn nữa, một vài Tín ngưỡng tôn giáo và Chính sách cung cấp [ICON_Amenities] Tiện nghi. Một số [ICON_GreatPerson] Vĩ Nhân cũng cung cấp [ICON_Amenities] Tiện nghi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_2">
+			<Text>Chiến tranh dai dẳng và phá sản sẽ làm giảm [ICON_Amenities] Tiện nghi trong một thành phố.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_TITLE">
+			<Text>Các chuyên gia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
+			<Text>Các chuyên gia được đưa ra thay thế cho [ICON_Citizen] Công dân, người mà làm việc trong Đặc khu hay một ô đất bình thường. Nhưng quy luật chung, các chuyên gia là một cách tốt để tạo sản lượng theo đúng mục đích, tuy nhiên thành phố cần phải có sự hỗ trợ vững vàng về [ICON_Food] Thực phẩm cho họ một cách lâu dài. Các chuyên gia rất có ích khi các thành phố phát triển vào cuối game, và có nhiều [ICON_Citizen] Công dân hơn ô đất bình thường. Có nhiều loại chuyên gia khác nhau, mỗi chuyên gia với các hiệu ứng khác nhau. Tất cả các loại chuyên gia ngoại trừ [ICON_Citizen] Công dân có một giới hạn về số lượng trong một thành phố. Giới hạn này được xác định bởi số lượng các kiến trúc trong Đặc khu tương ứng với mỗi loại chuyên gia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Nhà khoa học làm việc trong Khu tri thức và cung cấp +2 [ICON_Science] Khoa học.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_3">
+			<Text>Thầy tu làm việc trong Thánh địa và cung cấp +2 [ICON_Faith] Đức tin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_4">
+			<Text>Sĩ quan chỉ huy làm việc trong Khu quân sự và cung cấp +1 [ICON_Production] Sản phẩm và +1 [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_5">
+			<Text>Thuyền trưởng làm việc trong Khu cảng biển và cung cấp +1 [ICON_Science] Khoa học và +2 [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_6">
+			<Text>Lái buôn làm việc trong Khu thương mại và cung cấp +4 [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_7">
+			<Text>Kĩ sư làm việc trong Khu công nghiệp và cung cấp +2 [ICON_Production] Sản phẩm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_8">
+			<Text>Nghệ sĩ làm việc trong khu nghệ thuật và cung cấp +2 [ICON_Culture] Văn minh.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
+			<Text>Thế Giới</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_TITLE">
+			<Text>Địa hình và Đặc tính</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Trong Civilization VI, thế giới được cấu tạo từ các ô lục giác. Những ô này có nhiều "loại địa hình" đa dạng - Sa Mạc, Đồng Bằng, Đồng cỏ, Đồi, và nhiều nữa - và nhiều thứ trong số đó bao gồm "đặc tính" như Rừng, Rừng nhiệt đới. Những yếu tố này giúp xác định sự hữu dụng của các ô đất gần thành phố cũng như độ khó hay dễ để di chuyển qua ô đất đó. Một ô địa hình và đặc tính có thể có những ảnh hưởng quan trọng đến bất cứ cuộc chiến đấu nào diễn ra ở đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Mỗi ô trong game đều thuộc về một lục địa. Lục địa là ranh giới địa lý, và không cần thiết gắn liền vào một mảng đất- bản đồ Pangea, là một ví dụ, nó tạo nên bởi vài lục địa. Bạn có thể xác dịnh lục địa của một ô bằng tooltip hoặc xem trong ống kính lục địa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_TITLE">
+			<Text>Tài nguyên</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Tài nguyên là những nguồn cung cấp các sản lượng khác nhau như [ICON_Food] Thực Phẩm, [ICON_Production] Sản Phẩm, v.v.), và một số cung cấp những điểm thưởng đặc biệt khác cho nền văn minh. Chúng xuất hiện trong các ô lục giác. Một số có thể nhìn thấy lúc bắt đầu trò chơi, trong khi số khác yêu cầu hoàn thành một công nghệ nhất định trước khi có thể thấy chúng. Để sử dụng một tài nguyên, nó phải nằm trong phạm vi biên giới của nền văn minh bạn và phải xây dựng những "công trình" trong ô lục giác đó. Có 3 loại tài nguyên: Thưởng, Quý hiếm, và Chiến lược.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Các tài nguyên thưởng có thể tăng sản lượng [ICON_Food] Thực Phẩm, [ICON_Gold] Vàng, hoặc [ICON_Production] Sản Phẩm của một ô lục giác. Tài nguyên thưởng không thể trao đổi với nền văn minh khác. Những tài nguyên này có thể được "thu hoạch" bằng cách để Thợ Xây xóa tài nguyên đó và cung cấp ngay lập tức tổng sản lượng [ICON_Food] Thực Phẩm hoặc [ICON_Production] Sản Phẩm cho thành phố sở hữu tài nguyên đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Tài nguyên quý tăng mức hạnh phúc của nền văn minh bằng việc cung cấp [ICON_Amenities] Tiện nghi và cung cấp một lượng bổ sung nhỏ vào năng suất đầu ra của ô đất. Chỉ tài nguyên quý đầu tiên của mỗi loại cung cấp [ICON_Amenities] Tiện nghi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_4">
+			<Text>Các nguồn tài nguyên chiến lược không phải lúc nào cũng xuất hiện lúc bắt đầu trò chơi - chúng yêu cầu kiến thức công nghệ cụ thể trước khi xuất hiện trên bản đồ. Các nguồn tài nguyên chiến lược cho phép bạn xây dựng các đơn vị nhất định. Khi bạn phát triển công trình trên một ô tài nguyên Chiến lược, thì bạn có thể xây dựng các đơn vị liên quan (Vd: Lính hỏa mai yêu cầu Diêm Tiêu) trong bất kỳ thành phố nào có một đặc khu tương ứng - Khu quân sự cho các đơn vị bộ binh, Cảng cho đơn vị hải quân hoặc khu hàng không cho đơn vị không quân. Nếu bạn xây dựng 2 nguồn tài nguyên giống nhau, bạn có thể mua những đơn vị kia tại bất kỳ thành phố nào, cho dù có hoặc không có đặc khu tương ứng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_3_CHAPTER_CONTENT_TITLE">
+			<Text>Kỳ Quan Thiên Nhiên</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Các Kỳ Quan Thiên Nhiên là những tạo hóa tuyệt vời và huy hoàng mà chúng gây kinh ngạc và cảm hứng cho tất cả chúng ta. Như là Hồ Crater và Rạn san hô Great Barrier - tất cả những nơi này thực sự có một vẻ đẹp tuyệt trần của thế giới tự nhiên. Tất cả kỳ quan thiên nhiên mang lại những lợi ích đặc biệt cho nền văn minh của bạn, và còn mang lại nhiều lợi ích đặc biệt khác (ví dụ, khả năng phục hồi khi ở gần biển Chết sẽ phục hồi sức khỏe hoàn toàn cho một đơn vị).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_TITLE">
+			<Text>Sông</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Theo thông lệ, các thành phố được xây dựng dọc các con sông sẽ được thêm nhiều lợi ích. Các con công cung cấp nước sạch để uống và tưới tiêu, cải thiện đất nông nghiệp. Chúng cũng bảo vệ thành phố, khiến cho các cuộc tấn công bị ngắt quãng khi tấn công một thành phố có dòng sông bắt chéo qua.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_TITLE">
+			<Text>Làng thổ dân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Các làng thổ dân có nền văn minh thấp hơn những nền văn minh khác, nhưng lại rất thân thiện. Làng thổ dân cung cấp một lợi ích ngẫu nhiên cho nền văn minh của bạn tùy theo đơn vị nào vào làng đầu tiên. Ngôi làng sẽ biến mất sau khi quà được ban phát. Các món quà bao gồm người sống sót, như là Thợ xây, hoặc Thương nhân, công nghệ hoặc điểm tăng công nghệ, các đơn vị quân sự, [ICON_Faith] Đức tin, [ICON_Gold] Vàng, các [ICON_GreatWork_Relic] Di tích, hoặc tăng chỉ số Hành chính.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_TITLE">
+			<Text>Quân man di</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Quân man di đến từ các "tiền đồn", chúng có thể xuất hiện ngẫu nhiên ở bất kỳ ô nào mà với một đơn vị mà không thể thấy được. Mỗi đơn vị quân man di thuộc về tiền đồn đó. Có 3 loại tiền đồn của quân Man di: Hải quân, Kỵ binh, và Cận chiến. Nền văn minh sẽ nhận được vàng khi tiêu diệt một tiền đồn - ngoài ra còn có thể ngăn việc sản sinh thêm các đơn vị quân Man di khác.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Tiền đồn hải quân Man di có thể tạo ra các đơn vị hải quân (có sức mạnh tương đương với các nền văn minh có kỹ thuật tiên tiến nhất). Các đơn vị này sẽ uy hiếp bờ biển của bạn, phá hủy các công trình biển và tấn công các đơn vị đi lạc gần khu vực của chúng. Cho nên điều quan trọng là phải duy trì đơn vị hải quân ngăn cản chúng phía sau lưng của bạn, nhưng cách tốt nhất để ngăn những cuộc tấn công này là phá hủy tiền đồn ngoài biển gần đó của chúng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Tiền đồn kỵ binh, xuất hiện trên đất liền và gần nguồn tài nguyên ngựa, sẽ sản sinh ra các đơn vị kỵ binh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_4">
+			<Text>Mỗi tiền đồn đầu tiên sẽ tạo ra một do thám, để tìm kiếm các mục tiêu. Nếu bạn bị phát hiện bởi một do thám của quân Man di, chúng sẽ nhanh chóng trở về tiền đồn và bắt đầu xây dựng các đơn vị để xâm lược hoặc khám xét. Hãy cẩn thận, bởi vì bạn sẽ là mục tiêu tiếp theo. Nếu bạn không nhanh chóng chuẩn bị, thì bạn sẽ sớm nhìn thấy một nhóm quân Man di tiến sát biên giới của mình, sẵn sàng phá hủy các công trình hoặc xâm chiếm thành phố của bạn. Đó là lý do quan trọng tại sao phải rà soát định kỳ các vùng đất xung quanh thành phố của mình, và phá hủy các tiền đồn trước khi chúng trở thành mối đe dọa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_TITLE">
+			<Text>Ống kính</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Ống kính là công cụ được sử dụng để thay đổi cái nhìn về thế giới. Mỗi ống kính sẽ hiển thị các thông tin quan trọng để giúp bạn đưa ra các quyết định chiến thuật. Một số ống kính được kích hoạt tự động, như khi chọn vị trí để xây Đặc khu từ Menu Sản Phẩm. Một số ống kính khác được kích hoạt thủ công từ nút Ống kinh trên Minimap. Các Ống kính có thể sử dụng để:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Sức hấp dẫn. Hiển thị mức độ sức hấp dẫn của mỗi ô đất.[NEWLINE][NEWLINE]Lục địa. Hiển thị vị trí địa lý của mỗi lục địa.[NEWLINE][NEWLINE]Vị trí Đặc khu. Hiển thị vị trí hợp lệ để đặt Kỳ quan và Đặc khu, cũng như thông tin thưởng của các khu vực liền kề. Nó chỉ xuất hiện khi nghiên cứu xây dựng một Đặc khu hoặc Kỳ quan.[NEWLINE][NEWLINE]Chính phủ. Hiển thị sự phân bố của chính phủ trên bản đồ.[NEWLINE][NEWLINE]Chính trị. Hiển thị chủ sở hữu của mỗi ô đất.[NEWLINE][NEWLINE]Tôn giáo. Hiển thị tôn giáo chiếm ưu thế và sự phân bố tín đồ trên bản đồ. Chỉ xuất hiện khi đơn vị Tôn giáo đươc lựa chọn.[NEWLINE][NEWLINE]Dân di cư. Hiển thị vụ trí khuyến cáo đặt thành phố mới và lượng nước có sẵn cho mỗi ô đất.[NEWLINE][NEWLINE]Du lịch. Hiển thị số [ICON_Tourism] khách thu lịch thu hút của mỗi ô.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_COMBAT_NAME">
+			<Text>Trận chiến</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Trận chiến được xảy ra giữa hai thực thể chính trị đang có chiến tranh với nhau. Một nền văn minh có thể có chiến tranh với nền văn minh khác hoặc với một thành phố tự trị. Lũ man di luôn có chiến tranh với tất cả các nền văn minh và thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Tuyên bố chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Có hai cách để tuyên bố chiến tranh. Cách đầu tiên yêu cầu bạn di chuyển một đơn vị quân đội bạn kiểm soát tiến vào một đơn vị của một nên văn minh khác. Lúc này sẽ có một tin nhắn thông báo xuất hiện hỏi xem bạn có muốn bắt đầu chiến tranh. Cách khác, chiến tranh có thể tuyên bố trong cửa sổ ngoại giao. Trong cửa sổ này, bạn sẽ luôn luôn có tùy chọn để tuyên bố chiến tranh bất ngờ, ngoại trừ với các đồng minh của bạn. Nền văn minh của bạn sẽ chịu một hình phạt cực nặng nếu bạn bất ngờ tuyên bố chiến tranh. Để tránh một số hình phạt (nhưng không phải là tất cả), lăng mạ về việc nền văn minh vi phạm và các tùy chọn để chính thức tuyên bố chiến tranh sẽ sớm xuất hiện trong các cửa sổ ngoại giao.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Chiến tranh dai dẳng</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Quốc gia nào liên tục có chiến tranh thì sẽ làm giảm năng suất và hạnh phú của mọi người. Chiến tranh dai dẳng sẽ phát triển cho mỗi trận chiến của bạn. Tích lũy này sẽ tồi tệ hơn khi chiến đấu trên lãnh thổ nước ngoài hoặc các đơn vị của bạn bị giết. Tồi tệ hơn là bị giết chết bởi vũ khí hạt nhân, nhưng phóng vũ khí hạt nhân mới là tồi tệ nhất. Tất cả chiến tranh dai dẳng sẽ tăng lên nếu bạn tuyên chiến mà không sử dụng Biện minh chiến tranh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Chiến tranh dai dẳng được áp dụng cho mỗi thành phố của bạn làm giảm [ICON_Amenities] Tiện nghi, giảm tăng trưởng và năng suất của thành phố. Có [ICON_Amenities] Tiện nghi thấp trong thời gian dài sẽ tạo ra quân nổi dậy trong các thành phố của bạn. Đơn vị thù địch này sẽ tấn công đơn vị của bạn và cướp các ô đất và Đặc khu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Chiến tranh dai dẳng sẽ giảm từ từ trong khi bạn đang trong chiến tranh, và giảm mạnh khi không có chiến tranh với người chơi nào.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_TITLE">
+			<Text>Kẻ hiếu chiến</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Kẻ hiếu chiến là một phần của kết quả ngoại giao.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Một người chơi tuyên bố chiến tranh không sử dụng biện minh chiến tranh (Xem mục Biện minh chiến tranh trong phần Ngoại giao) sẽ bắt đầu tích lũy hình phạt kẻ hiếu chiến từ các nền văn minh khác mà người chơi xung đột, có thể phải chịu nhiều hình phạt chiến tranh dai dẳng. Tuyên bố chiến tranh bất ngờ, chiếm các thành phố của đối phương, san phẳng các thành phố, và sử dụng vũ khí hạt nhân sẽ tăng hình phạt dựa trên thời đại của người chơi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_3">
+			<Text>Một phương pháp khác là lăng mạ đối phương trước tiên và chính thức tuyên bố chiến tranh. Bằng con đường này, hình phạt chiến tranh sẽ không tăng và có cơ hội sử dụng một Biện minh chiến tranh để giảm hình phạt. Tuy nhiên, bởi vì phải lăng mạ đối phương trước nên kế hoạch chiến tranh sẽ không còn tính chất bất ngờ nữa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Kết thúc chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Chiến tranh có thể chấm dứt trong bạo lực hoặc hòa bình. Một chiến tranh kết thúc bạo lực là khi một bên bị phá hủy. Điều này xảy ra khi một bên mất đi thành phố cuối cùng của họ. Giải pháp hòa bình của chiến tranh liên quan đến các cuộc đàm phán ngoại giao. Bạn hoặc đối thủ có thể thỏa thuận Hòa Bình. Xem phần ngoại giao để biết thêm chi tiết.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Quân man di sẽ không bao giờ chịu thương lượng. Chiến tranh với quân di sẽ kết thúc khi các quân man di bị tiêu diệt.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Thông số đơn vị chiến đấu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Trong Civilization VI, các đơn vị quân sự có 5 thông số chiến đấu khác nhau: HP (máu), [ICON_Strength] Sức mạnh chiến đấu, [ICON_Ranged] Sức mạnh đánh xa, [ICON_Bombard] Sức mạnh bắn pháo và [ICON_Range] Tầm đánh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Tất cả các đơn vị có 100 HP. Mỗi khi đơn vị bị tất công thì sẽ bị mất HP. Đơn vị sẽ chết khi hết toàn bộ HP.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Tất cả đơn vị quân sự có [ICON_Strength] Sức mạnh chiến đấu. Đơn vị cận chiến sử dụng [ICON_Strength] Sức mạnh chiến đấu khi tấn công và phòng thủ. Đơn vị đánh xa sử dụng [ICON_Strength] Sức mạnh chiến đấu khi phòng thủ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_4">
+			<Text>Bất kỳ đơn vị nào đều có thể thực hiện đánh xa nếu có thông số [ICON_Ranged] Sức mạnh đánh xa. Con số này được so sánh với [ICON_Strength] Sức mạnh chiến đấu của mục tiêu để xác định kết quả của cuộc tấn công. Các đơn vị với 1 [ICON_Ranged] Sức mạnh đánh xa cũng có thể tấn công các đặc khu phòng thủ nhưng hiệu quả sẽ bị giảm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_5">
+			<Text>[ICON_Bombard] Sức mạnh bắn pháo là của một đơn vị chuyên tấn công đặc khu. Các đơn vị với [ICON_Bombard] Sức mạnh bắn pháo cũng có thể tấn công các đơn vị khác nhưng bị giảm hiệu quả. Các đơn vị không thể có cả hai sức mạnh [ICON_Bombard] Bắn pháo và [ICON_Ranged] Đánh xa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_6">
+			<Text>[ICON_Range] Tầm đánh của các đơn vị là chỉ số phạm vị mà một đơn vị có thể thực hiện tấn công từ xa. [ICON_Range] Tầm đánh là "2" có nghĩa là mục tiêu có thể liền kề đơn vị hoặc cách một ô. [ICON_Range] Tầm đánh là "1" có nghĩa là chỉ tấn công được mục tiêu liền kề.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_TITLE">
+			<Text>Đường ngắm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Thông thường, thì không có những vật cản, như là Ngọn núi, giữa một đơn vị đánh xa và mục tiêu. Các đơn vị đứng trên đồi hoặc đang bay có thể nhìn thấy qua địa hình cản trở.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_TITLE">
+			<Text>Thưởng trận đánh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Chiến tranh không được thực hiển bởi đơn vị có kinh nghiệm và trang bị tốt. Lịch sử quân sự đã cho thấy và một lần nữa việc sử dụng chiến thuật, lãnh đạo và lợi thế địa hình sẽ giúp đánh bại một lực lượng mạnh mẽ hơn. Trong Civilization VI sẽ không có gì khác.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_2">
+			<Text>In combining your military might with the right force organization of combined arms, leadership, and intuitive use of terrain you can have the power to destroy your enemies armies, no matter how big or small, advanced or not. Using terrain to your advantage, you can position your forces on Hills, in Rainforests or Woods, and across Rivers from your enemy to ensure a distinct defensive advantage. Looking at the enemies movements across terrain as they approach you can also help you better understand what their battle plan is or where they look to strike.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_3">
+			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Đại Tướng Quân will ensure victory!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
+			<Text>Kinh nghiệm và Huân chương</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_PARA_1">
+			<Text>Một đơn vị sống sốt sau các trận chiến sẽ nhận được điểm kinh nghiệm (XP). Mỗi khi đơn vị đạt đủ XP thì sẽ được 'lên cấp', tại thời điểm đó đơn vị sẽ nhận được một Huân chương. Huân chương sẽ giúp tăng sức mạnh cho đơn vị theo nhiều cách khác nhau. Khi lựa chọn một Huân chương, đơn vị sẽ hồi một lượng HP. Đơn vị sẽ không nhận XP cho đến khi lựa chọn một Huân chương.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_TITLE">
+			<Text>Tấn công thành phố</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_1">
+			<Text>Các thành phố có thể bị tấn công và chiếm bởi đơn vị quân sự. Mỗi thành phố đều có "Sức mạnh thành phố chiến đấu" được dùng để xác định sức mạnh khi bị tấn công bởi đơn vị khác. Sức mạnh cao thì khó chiếm được thành phố hơn. Trừ khi thành phố rất yếu hoặc đơn vị tấn công quá mạnh thì cần phải mất nhiều lượt để có thể chiếm được thành phố này.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Tường thành thêm khả năng bảo vệ cho thành phố hoặc khu quân sự, làm cho nó khó bị chiếm hơn. Thứ bảo vệ này giống như giáp, che chở thành phố khỏi tấn công. Các đơn vị đánh gần chỉ gây 15% thiệt hại lên tường thành, và đơn vị đánh xa gây 50% thiệt hại. Chỉ có bắn pháo mới gây 100% thiệt hại, giúp cho việc chiếm một thành phố kiên cố dễ dàng hơn. Nếu tường thành bị thiệt hại hoàn toàn, chúng sẽ dừng việc bảo vệ và thành phố sẽ bị ảnh hưởng trực tiếp từ cuộc tấn công. Tường thành chỉ có thể được sửa với Dự án trong mục Sản xuất của thành phố, việc này giống như sửa chữa kiến trúc đặc khu, có thể làm việc này nếu đặc khu không bị tấn công trong 3 lượt liên tiếp. Mỗi thành phố có tường thành thì có thể tấn công từ xa kẻ địch bằng cách sử dụng "THÀNH PHỐ TẤN CÔNG TẦM XA".[NEWLINE][NEWLINE]Sức mạnh thành phố chiến đấu dựa trên [ICON_Strength] Sức mạnh chiến đấu của đơn vị cận chiến mạnh nhất trong nền văn minh của bạn trừ đi 10 hoặc bằng Sức mạnh chiến đấu của đơn vị đóng quân.[NEWLINE][NEWLINE]Sức mạnh thành phố tấn công tầm xa dựa trên [ICON_Ranged] Sức mạnh tầm xa của đơn vị đánh xa mạnh nhất trong nền văn minh của bạn.[NEWLINE][NEWLINE]Thành phố sẽ nhận được thưởng bổ chúng từ những khu vực không bị cướp bóc, thành phố lớn hay lợi thế địa hình thì sẽ khó bị chiếm hơn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_3">
+			<Text>Các thành phố có thể bị bao vây bởi các đơn vị tấn công. Thành phố trung tâm và đặc khu phòng thủ khác như Khu Quân Sự bị coi là bao vây khi 6 ô xung quanh bị chiếm bởi kẻ địch, hoặc không thể đi qua như núi hoặc kỳ quan thiên nhiên. Trong trường hợp này, khu vực sẽ không thể hồi tự động lại lượng máu bị mất trong mỗi lượt như cách thông thường.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_TITLE">
+			<Text>Thống trị một thành phố</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_PARA_1">
+			<Text>Khi đơn vị của bạn đi vào thành phố kẻ địch, bạn có 2 lựa chọn: có thể phá hủy thành phố (nếu nó không phải là [ICON_Capital] Thủ đô) hoặc thôn thánh để đưa nó vào đế chế của bạn. Nếu thành phố từng thuộc về nền văn minh khác, bạn có thể lựa chọn Giải phóng để trả về chủ ban đầu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_TITLE">
+			<Text>Formations</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_1">
+			<Text>Formations allow you to easily move units together. This can be useful for escorting civilian units in hostile lands, or even creating stronger units in Corps and Armies. A military unit can create a formation with a support or civilian unit at any time. Naval military units may also create a formation with embarked land units. Support units, such as siege units, are most effective in battle when linked with another military unit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Starting in the Industrial era after completing the Nationalism civic, players will be able to unlock the ability to combine multiple military units of the same type into a single stronger unit. Two military units of the same type will be able to combine to create a Corps, giving them +10 to their base [ICON_Strength] Combat Strength. After researching Mobilization, three units of the same type may be combined into an Army, giving +7 to their base [ICON_Strength] Combat Strength. Keep in mind that their HP is NOT increased when units are combined in this way.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_3">
+			<Text>Once a Corps or Army has been formed, the units may not be broken apart into individual units again. The experience and promotions of the highest experience unit is preserved when creating this type of formation, so it is beneficial to combine rookies with more experienced units. Naval units may also be combined into Fleets and Armadas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_TITLE">
+			<Text>Pillaging</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_1">
+			<Text>Both improvements and buildings in districts without garrisons can be pillaged. This action renders them inoperable and awards the pillaging unit with some form of "plunder."  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district (see below). Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the [ICON_Production] Sản phẩm cost of initial construction of that building.)[NEWLINE]Pillaging a Campus awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Holy Site awards [ICON_Faith] Đức Tin.[NEWLINE]Pillaging a Commercial Hub awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Theater Square awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging a Harbor district awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Industrial Zone awards [ICON_Science] Khoa học.[NEWLINE]Pillaging an Aerodrome awards [ICON_Gold] Vàng.[NEWLINE]Pillaging an Aqueduct awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Spaceport awards [ICON_Science] Khoa học.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_3">
+			<Text>Pillaging an improvement will take 3 Movement Points, or all your movement (if you have [ICON_Movement] Di chuyển Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).[NEWLINE]Pillaging a Farm awards healing.[NEWLINE]Pillaging a Mine awards [ICON_Science] Khoa học.[NEWLINE]Pillaging a Quarry awards [ICON_Culture] Văn minh.[NEWLINE]Pillaging Fishing Boats awards healing.[NEWLINE]Pillaging a Pasture awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Plantation awards [ICON_Faith] Đức Tin.[NEWLINE]Pillaging a Camp awards [ICON_Gold] Vàng.[NEWLINE]Pillaging a Lumber Mill awards [ICON_Science] Khoa học.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MOVEMENT_NAME">
+			<Text>Unit Movement</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Movement Points</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>All mobile units have a certain number of [ICON_Movement] Di chuyển points that they can expend on [ICON_Movement] Di chuyển every turn. Once they've expended those [ICON_Movement] Di chuyển points, they can't move any more until the next turn. Units expend [ICON_Movement] Di chuyển points to enter tiles, to attack other units, or to pillage improvements or districts. The terrain of the tile a unit is entering determines the [ICON_Movement] Di chuyển point cost of the move.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Roads</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Roads are an important part of moving around the world. Placed by Trader units beginning in the Ancient Era, roads begin by reducing the [ICON_Movement] Di chuyển cost of a tile to 1 when moving from one road tile to another. As technology progresses, you will unlock the ability to build better and better roads, and even bridges. Modern roads, for example, reduce [ICON_Movement] Di chuyển to a half [ICON_Movement] Di chuyển point per tile, when moving from one road tile to another. All roads allow units to ignore terrain-based movement penalties.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Roads are placed by Traders, but may also be placed manually by Military Engineers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Zone of Control</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Many combat units exert a "Zone of Control" (ZOC) over the tiles around them. When a unit moves into an enemy's ZOC with [ICON_Movement] Di chuyển leftover, its [ICON_Movement] Di chuyển is stopped or it may attack. Ranged unit do not exercise a ZOC.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Naval Movement</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Generally, naval units follow the same rules as land units, except that they move in the water rather than on land. Early naval units are often limited to coastal waters (those adjacent to land tiles) and coastal cities. Eventually, you'll produce naval units that can enter deep ocean tiles, and thus explore the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Embarking Units</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>At the start of the game, your land units cannot enter any water tiles. However, once you've learned the Sailing technology, Builders will be able to move into coastal water tiles. After Celestial Navigation, Traders will be able to embark. And after Shipbuilding, all units will be able to embark. To embark a unit, move the unit to a coastal tile and then click on the "Embark" Action. Once embarked, the unit must move into water.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_SCIENCE_NAME">
+			<Text>Science and Technology</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Each technology you acquire gives your civilization access to some advanced unit, building, resource, or wonder, or gives you some other tangible benefit such as the ability to chop Woods and harvest Cattle. Each new technology makes your civilization that much more powerful. Every turn, your civilization receives [ICON_Science] Khoa học added to its pool, and when you have accumulated enough [ICON_Science] Khoa học, you acquire a new technology.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Earning Science</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Science] Khoa học comes from a variety of sources, including your [ICON_Citizen] Citizens, your Palace, some Policies, some Religious Beliefs, some resources, wonders, trading, and of course the Campus district and its buildings. Look through the Civilopedia to find sources of [ICON_Science] Khoa học.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Eureka Moments</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Eureka moments, also known as "technology boosts", provide an immediate and significant boost towards your research of a technology. These boosts will be earned as you play the game naturally, and your actions will determine what sort of Eureka moments you encounter. For example, settling a city on the coast will boost your progress towards Sailing and creating a Pasture will boost your progress towards Horseback Riding. To see all possible Eureka moments, take a look at the Technology Tree.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_4_CHAPTER_CONTENT_TITLE">
+			<Text>The Technology Tree</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>To see how all of this works in the game, check out the amazing Technology Tree. It displays all of the technologies and shows how they are intertwined. You can click on a technology to order your civilization to research it – if your civilization doesn't know the prerequisite technologies it will research them as well. The technology tree will plot the quickest route to the requested tech, and you will research the necessary precursors in the order it displays. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CULTURE_NAME">
+			<Text>Culture and Civics</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Culture] Văn minh is the way that you advance through the Civics Tree, unlocking new policies and Governments. It’s also how you increase the size of your cities’ territories. Most importantly, [ICON_Culture] Văn minh can be another path to victory. Each civic you acquire gives your civilization access to policies or governments, as well as some buildings, districts, and diplomatic advancements. You acquire civics by accumulating [ICON_Culture] Văn minh. Every turn your civilization gets some amount of [ICON_Culture] Văn minh added to its pool. Each civic costs a certain amount of [ICON_Culture] Văn minh to learn; when you've accumulated enough [ICON_Culture] Văn minh, you acquire the civic. When you get the new civic, your pool is depleted and you start accumulating all over again, saving up for the next civic.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Earning Culture</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Culture] Văn minh can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Theater Square district. Look through the Civilopedia to find sources of [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Inspiration Moments</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Inspiration moments, also known as "civic boosts", provide an immediate and significant boost towards your study of a civic. These boosts will be earned as you play the game naturally, and your actions will determine what sort of Inspiration moments you encounter. For example, building a wonder boosts your progress towards Drama and Poetry, and building any district will boost your progress towards State Workforce. To see all possible Inspiration moments, take a look at the Civics Tree.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_TITLE">
+			<Text>The Civics Tree</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>To see how all of this works in the game, check out the amazing Civics Tree. It displays all of the civics and shows how they are intertwined. You can click on a civic to order your civilization to study it – if your civilization doesn't know the prerequisite civic it will research them as well. The Civics Tree will plot the quickest route to the requested civic, and you will study the necessary precursors in the order it displays. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_TITLE">
+			<Text>Culture Bombs</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_1">
+			<Text>A Culture Bomb is an action that allows you to wrest control of adjacent tiles from another player and add them to your own empire. Tiles gained in this way must be within 3 spaces of your city that is expanding. Tiles that already contain a completed district or wonder do not switch ownership from Culture Bombs. Incomplete district or wonder tiles will switch ownership, but the partially-built contents of those tiles will be destroyed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
+			<Text>To initiate a Culture Bomb, play as Poland and complete an Encampment or Fort in friendly territory.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOLD_NAME">
+			<Text>Gold and the Economy</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_1_CHAPTER_CONTENT_TITLE">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Gold] Vàng is the lifeblood of a civilization. It may be true that "money can't buy you love," but it can purchase a submarine armed with nuclear missiles, and that's not bad.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_TITLE">
+			<Text>Obtaining Gold</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Gold] Vàng comes from a variety of sources. You'll obtain [ICON_Gold] Vàng by working the tiles around your cities, but other sources are available as well: terrains and improvements, trading posts, districts and buildings, [ICON_TradeRoute] Tuyến đường thương mại, Barbarian outposts, Tribal Villages, city-states, pillaging enemy improvements, capturing cities, and diplomacy with other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_TITLE">
+			<Text>Spending Gold</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_PARA_1">
+			<Text>There are many times that you can and will spend [ICON_Gold] Vàng. Units and buildings both have "maintenance costs" that must be paid every turn. You can also extend your civilization's territory by purchasing individual tiles, or you can use the [ICON_Gold] Vàng to purchase units and buildings. Upgrading obsolete units will also cost [ICON_Gold] Vàng. [ICON_Gold] Vàng may be exchanged with other civilizations during diplomacy, and if you ever lose a city, you will lose some [ICON_Gold] Vàng as well.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_TITLE">
+			<Text>Bankruptcy</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_PARA_1">
+			<Text>If your treasury is at zero and you're running a negative budget, you will begin to receive a -1 penalty to your [ICON_Amenities] Tiện nghi per every 10 [ICON_Gold] Vàng you drop below 0. Additionally, at -10 [ICON_Gold] Vàng you will automatically disband a unit, at -20 [ICON_Gold] Vàng, two units will be disbanded, and so forth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_FAITH_NAME">
+			<Text>Đức tin và Tôn giáo</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới Thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Sự lựa chọn Tôn giáo của bạn rất là quan trọng và nó có thể làm thay đổi - cuộc chơi. Với chiến thắng Tôn giáo và Cuộc chiến Thần học, bạn có nhiều lựa chọn thú vị để truyền bá Tôn giáo đến các thành phố và nền văn minh khác theo sở thích của mình.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_TITLE">
+			<Text>Earning Faith</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Faith] Đức Tin is the currency of Religion and can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Holy Site district and its buildings. Look through the Civilopedia to find sources of [ICON_Faith] Đức Tin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_TITLE">
+			<Text>Pantheons</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Once you accumulate enough [ICON_Faith] Đức Tin, you’ll be prompted to found a Pantheon, a precursor to the full-blown Religions to be founded later. Choosing which Pantheon to found depends on your short- and long-term goals for your civilization. After earning a Pantheon, you are well on your way to establishing your Religion. Unlike a full Religion, a Pantheon you choose will be unique to your civilization, and cannot spread outside your borders, or be displaced. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_TITLE">
+			<Text>Nhà tiên tri vĩ đại</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_PARA_1">
+			<Text>You may found your Religion once you have earned (or purchased) a [ICON_GreatProphet] Great Prophet. Religious buildings will accumulate the [ICON_GreatProphet] Great Prophet points necessary to bring this special unit to your civilization. After the [ICON_GreatProphet] Great Prophet has been earned, send the unit to your Holy Site, and then found your Religion. [ICON_GreatProphet] Nhà tiên tri vĩ đại may also be earned from Stonehenge.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_TITLE">
+			<Text>Founding Your Religion</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_1">
+			<Text>After founding your Religion, you will be prompted to choose a name and icon to represent your beliefs. You may choose a historical Religion, or create one of your own! A newly established Religion will consist of two beliefs: a Follower belief, and one of three additional types of beliefs that can be tailored to your play style. Once your Religion is founded, all of your cities with Holy Sites will automatically convert to the Religion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_2">
+			<Text>You can then use the Evangelize Belief action on Apostles to add additional beliefs to your Religion. You can have a total of 4 beliefs in a Religion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Follower beliefs provide some kind of yield or other inherent bonus. This applies to all cities and civilizations that follow that Religion.[NEWLINE][NEWLINE]Founder beliefs provide a bonus that relies on the number of followers it has. Followers are citizens that follow that religion in all cities, regardless of whether or not that Religion is predominant in a city. This bonus is applied only to the civilization that founded that Religion.[NEWLINE][NEWLINE]Worship beliefs grant a unique type of building that can be built in Holy Sites, or purchased there with [ICON_Faith] Đức Tin. Every Worship building has different benefits.[NEWLINE][NEWLINE]Enhancer beliefs help spread the religion by making its natural religious pressure stronger or by making Missionaries and Apostles cheaper.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_TITLE">
+			<Text>Religious Units and Pressure</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_1">
+			<Text>There are three types of Religious units: Missionaries, Apostles, and Inquisitors. Religious units may be purchased through your city with [ICON_Faith] Đức Tin and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.[NEWLINE][NEWLINE]If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Missionaries may be purchased with [ICON_Faith] Đức Tin in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Apostles may be purchased with [ICON_Faith] Đức Tin in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.[NEWLINE][NEWLINE]Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
+			<Text>Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors in cities that follow the religion of the Apostle that launched the Inquisition with [ICON_Faith] Đức Tin. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a city. They may also engage in theological combat against other Religious units.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
+			<Text>Theological Combat</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Theological combat is the best way to defend against other Religions trying to spread across the map. Only Apostles and Inquisitors may initiate theological combat, and then only against other Religious units.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Theological combat works just like combat with military units, just attack one Religious unit with another. They will deal damage to each other based on their strength. Religious units can get bonuses to their theological combat strength from promotions, policies, the Theocracy government, if they are in or adjacent to a Holy Site following their Religion, if they are in the territory of a city following their Religion, or a huge bonus if they are in the territory of their Religion's Holy City.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_3">
+			<Text>A damaged Religious unit suffers a penalty to the strength of its Spread Religion action, meaning it will convert fewer Followers. If a Religious unit is reduced to 0 Hit Points from theological combat, it will die. When a Religious unit is defeated this way, all cities within 10 tiles have a religious pressure drop of the defeated unit's Religion equal to the strength of an Apostle at full health and then a boost in the victorious unit's Religion of the same amount. If a Religious unit is killed by a hostile military unit, then the religious pressure drop occurs just like in theological combat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_4">
+			<Text>Religious units can heal any damage they have by staying adjacent to or in a Holy Site that follows their Religion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_DIPLO_NAME">
+			<Text>Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_1_CHAPTER_CONTENT_TITLE">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_1_CHAPTER_CONTENT_PARA_1">
+			<Text>You can accomplish a lot through diplomacy. You can gain allies and isolate your enemies. You can create defensive and offensive pacts. You can increase your technology through cooperative research ventures. You can end wars that are going badly for you. You can bluff the credulous and bully the timid. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_TITLE">
+			<Text>Diplomacy with Civilizations</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_1">
+			<Text>To initiate diplomacy, click on the leader you wish to contact in the upper right portion of the screen. The Diplomacy Panel will appear, displaying all known civilizations. Click on any leader to speak with them. Alternatively, you can click on a civilization's city banner to open communications with them. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_2">
+			<Text>When you engage in diplomacy with civilizations, you will have a number of options available, depending on your current relationship. This screen will also provide important information about your relationship, as well as the latest gossip about what that leader has been doing.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_3">
+			<Text>You may choose to declare war, or denounce the leader. You may also negotiate a trade deal, or demand stuff from another civilization. You can also propose friendship, defensive pacts, and send delegations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_TITLE">
+			<Text>Diplomatic Relationships</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_1">
+			<Text>Every other leader in the game has an opinion of you. Their opinion might be positive or it might be negative; it is in constant flux from events in the game. You can tell what your relationship with another leader is by the icon on their leader portrait, or by selecting Our Relationship with that leader on the Diplomacy Panel. The following relationship states exist in the game:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Allies. When in an Alliance with a leader, you may not declare war on each other, you automatically share Open Borders, you may make Research Agreements and Defensive Pacts, and deals you make with each other are likely to be very favorable.[NEWLINE][NEWLINE]Declared Friend. When you choose to declare your friendship with a leader, you may not declare war on each other, you may make Research Agreements, and deals you make with each other will be more favorable. This relationship state is required to make an Alliance.[NEWLINE][NEWLINE]Friendly. This means the leader thinks positively of you and you have a better chance of getting favorable deals with them.[NEWLINE][NEWLINE]Neutral. You have done nothing to upset or impress the leader, and your interactions with them will be standard.[NEWLINE][NEWLINE]Unfriendly. For some reason, you have done something to upset this leader, and deals with them will likely be unfavorable for you, or you can choose to make demands of them. [NEWLINE][NEWLINE]Denounced. This leader has let the other leaders in the world know that you have done something to offend them. Your deals with them will be unfavorable if they will make them at all, but you can declare a Formal War against them and make demands.[NEWLINE][NEWLINE]At War. Open hostilities have broken out between you, and you can attack or invade this leader but you will accrue warmongering and war weariness penalties.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_TITLE">
+			<Text>Trade, Demand, and Discuss</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_1">
+			<Text>You can make trade deals with other players by selecting Make Deal from the Diplomacy Panel with a leader selected. You will enter a negotiation table with that leader.[NEWLINE][NEWLINE]On the left of the table are items you are able to trade, and on the right of the table are items the other player has available to trade. You can trade anything from [ICON_Gold] Vàng to resources to cities! Select items from the other leader's side of the table to request they trade them to you, and select items from your side of the table to offer in exchange.[NEWLINE][NEWLINE]When the other leader finds the deal acceptable, an "Accept Deal" button will appear, which will confirm the trade that is on the table. You will lose any items you proposed and gain any items from the other leader.[NEWLINE][NEWLINE]If the leader does not like the deal, you can select the "Make this deal more equitable" button to cause the leader to propose a deal they believe is fair. You may then adjust their offer to suit your needs, and see if they accept. You can also ask the leader for something and select "What would it take?" to see what they want from you in trade.[NEWLINE][NEWLINE]If you propose an item but do not ask anything in return, you can select "Give Gift" to give the item to the leader for free. Who doesn't like gifts? Or you can select "What would you give me?" to ask the leader what they would be willing to pay.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_2">
+			<Text>If you are Unfriendly with a leader or either of you has Denounced each other, you will see the Make Demand option on the Diplomacy Panel with that leader selected. This option will take you to a negotiation table, but your side of the table will be blank. Instead, you select items from their side of the table to demand as tribute! Select "Demand Deal" to see if they will pay you what you ask. The leader may not take kindly to your demands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_3">
+			<Text>Whether making a Deal or a Demand, some items are given permanently and some are only loaned to the leader. Sums of [ICON_Gold] Vàng, Great Works, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, and captured Spies are all permanent trades—once you give those items away, you have to trade again to get them back. Resources and gold per turn, however, are temporary, and once the deal has run its course you will get them back.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_4">
+			<Text>Depending on your interactions with a leader, you might also have the Discuss option on the Diplomacy Panel. Selecting it will show you a list of actions you can ask the leader to promise to stop doing towards you, but only if the leader has already done that action at least once. You can ask them to stop settling new cities near you, to stop spreading their religion to you, to stop spying on you, or to stop attacking a City State you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_5">
+			<Text>All Deals, Demands, and Promises last for 30 turns, at which point they need to be renewed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_TITLE">
+			<Text>Delegations and Embassies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_1">
+			<Text>Delegations and Resident Embassies can be established between players to improve relations and gain Diplomatic Visibility. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_2">
+			<Text>A Delegation, or Embassy, needs to be sent to every leader individually. Delegations cost 10 [ICON_Gold] Vàng and Embassies cost 25 [ICON_Gold] Vàng, which is paid to the other leader. This will give you a small positive bonus in your relationship with that leader. It also gives you 1 level of Diplomatic Visibility.  See the Diplomatic Visibility and Gossip section of the Civilopedia for more information on Diplomatic Visibility.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_3">
+			<Text>Resident Embassies are unlocked with the Diplomatic Service Civic, at which point they replace Delegations. The effects of Resident Embassies and Delegations do not stack.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_TITLE">
+			<Text>Tự do đi lại</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_1">
+			<Text>Open Borders is an agreement with another leader to allow them to move their units, military or civilian, through your territory. Without this agreement, entering another leader's territory is an act of war, except with Religious Units, who can ignore borders entirely. If you have Open Borders with a leader, their border will appear as a dotted line instead of a solid one. Open Borders is unlocked with the Early Empire Civic. Prior to that, your borders are open to everyone.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Open Borders can be offered as part of a Deal trade agreement, but it is offered individually by each leader—you can be granted Open Borders with a leader without granting them Open Borders in return. The deal lasts for 30 turns, and then it needs to be renewed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_3">
+			<Text>If you are in an Alliance with another leader, you both grant each other Open Borders automatically.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_10_CHAPTER_CONTENT_TITLE">
+			<Text>Research Agreements</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_10_CHAPTER_CONTENT_PARA_1">
+			<Text>After researching Scientific Theory, two allied or declared friendly players can enter into a Research Agreement to get a tech boost for a chosen tech. As a part of forming this deal, a specific technology must be agreed upon. The number of turns it will take to complete the research will depend on the current research rates of both users. If either player earns the boost or tech by any other means, the agreement ends and the other player will get the boost immediately.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_TITLE">
+			<Text>Defensive Pact</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_1">
+			<Text>A Defensive Pact is an agreement between to leaders to come to each other's aid when targeted by a Declaration of War. If either member of the Defensive Pact is targeted, the other member will also declare war against the aggressor. Defensive Pacts are available through the Make Deal negotiation table. The two leaders must be in an Alliance to make the deal.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_TITLE">
+			<Text>Tham gia chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_PARA_1">
+			<Text>Sau khi nghiên cứu hành chính Ngoại Thương, tính năng Tham Chiến sẽ được đề xuất giữa các người chơi. Nếu bạn đồng ý hoặc gửi yêu cầu tham chiến, bạn hoặc người chơi khác sẽ ngay lập tức gây chiến tranh với người chơi được chọn làm mục tiêu như trong thỏa thuận.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_TITLE">
+			<Text>Biện minh chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Biện minh chiến tranh là lý do để đi đến chiến tranh mà ở đó hình phạt gây chiến sẽ được giảm xuống or capturing cities are reduced or eliminated.  Once you reach the Renaissance era civic Diplomatic Service, you may accumulate Casus Belli against other powers.  See the table below for the conditions for each Casus Belli, the civic that unlocks them, and the percentage of the usual warmonger penalty that is applied.[NEWLINE][NEWLINE]Holy War: if one of your cities is converted to the enemy's religion[NEWLINE](Diplomatic Service, 50% warmongering)[NEWLINE][NEWLINE]War of Liberation: if a friend or ally had cities conquered[NEWLINE](Diplomatic Service, no warmongering if liberate cities conquered)[NEWLINE][NEWLINE]War of Reconquest: if you had cities conquered in a previous war[NEWLINE](Diplomatic Service, no warmongering if retake your previous cities)[NEWLINE][NEWLINE]Protectorate War: if a city-state you are Suzerain of is attacked[NEWLINE](Diplomatic Service, no warmongering if liberate city-state target)[NEWLINE][NEWLINE]Colonial War: if target civilization is two eras behind you in technology[NEWLINE](Nationalism, 50% warmongering)[NEWLINE][NEWLINE]War of Territorial Expansion: if target civilization borders your nation[NEWLINE](Mobilization, 75% warmongering)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_TITLE">
+			<Text>Agendas</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomatic Agendas are a major driving force in your relationship with other leaders. They drive the desires and behavior of those leaders. You can use Agendas to know how to get on a leader's good side, or what to do to avoid making them angry.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Leaders have a Historic Agenda and a Secret Agenda. The Historic Agenda is based on that leader's real-world historical personality and achievements. The Secret Agenda is assigned at beginning of every game, and could be a wide variety of things—maybe they like other civilizations with lots of culture or gold, or maybe they dislike warmongers. Revealing the Secret Agenda is important to knowing what pleases and displeases a leader. Increase your Diplomatic Visibility with each civilization to find out what their leaders' Secret Agendas are.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_TITLE">
+			<Text>Diplomatic Visibility and Gossip</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomatic Visibility allows you to receive Gossip, information about another player's actions. You gain more detailed Gossip based on your level of visibility, of which there are 5 levels: None, Limited, Open, Secret, and Top Secret. For example, when you have just met a civilization, you will receive information about their declarations of war, denouncements, friendships, alliances, and when they do something like found a Pantheon or complete a wonder. If you gain Limited Diplomatic Visibility, you will find out some information about their opinion of you and what government they have. At the Open level, you will have access to that civilization's diplomatic agendas, their relationships with other civilizations, and know when they have launched an inquisition.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_2">
+			<Text>You must accumulate Diplomatic Visibility levels individually for each civilization. Levels may be gained by accumulating various sources of Gossip, including:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_3">
+			<Text>Traders. Establish a [ICON_TradeRoute] Tuyến đường thương mại to a civilization to increase visibility by one level.[NEWLINE][NEWLINE]Send a Delegation. Send a Delegation to a civilization to increase visibility by one level. Once Embassies are available, establishing an Embassy will replace this.[NEWLINE][NEWLINE]Spying or forming an Alliance. Establish a spy in another civilization's city to increase visibility by one level, or you can form an alliance with a friendly civilization. These two actions do not add separate Diplomatic Visibility levels - it does no good to spy on your allies![NEWLINE][NEWLINE]Send a spy on a Listening Post Mission. Performing the Listening Post mission in another civilization's city increases visibility by one level.[NEWLINE][NEWLINE]Research the Printing Press technology. This will increase your visibility with ALL civilizations by one level.[NEWLINE][NEWLINE]Play as Catherine de Medici. She gives France one level of access above normal at all times with civilizations she has met.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_TITLE">
+			<Text>Điệp viên và Gián điệp</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Bắt đầu vào thời kỳ Công nghiệp, Gián điệp sẽ xuất hiện. Bạn có thể mua Gián điệp sau khi nghiên cứu thành công các mục hành chính và công nghệ nhất định, và đơn vị này có thể được mua ở bất kỳ thành phố nào. Gián điệp bắt đầu ở cấp độ Tuyển dụng, và sẽ đạt được những cấp tiếp theo từ những hoạt động phá hoại thành công, hoặc bắt giữ một đơn vị gián điệp. Sau khi đạt được cấp độ 2, các Gián điệp sẽ đạt được thêm các kỹ năng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Gián điệp không di chuyển giống như các đơn vị khác. Họ nhảy từ thành phố này đến thành phố khác bằng đường trên không, đường thủy, đường bộ hoặc đi bộ, mỗi kiểu mất một lượng thời gian riêng. Một khi được thiết lập tại một thành phố, gián điệp có thể được gửi đến một đặc khu cụ thể và bắt đầu nhiệm vụ. Các nhiệm vụ bao gồm đánh cắp các thành tựu công nghệ, tạo ra các đơn vị nổi dậy, hoặc đơn giản là tăng khả năng ngoại giao. Từng nhiệm vụ mất một khoảng thời gian nhất định, và sẽ có kết quả khác nhau. Gián điệp của bạn có thể bị giết hoặc bị bắt giữ, hoặc anh ta thất bại trong nhiệm vụ nhưng hoàn toàn không bị phát hiện, có thể không bị phát hiện cũng đã là thành công trong nhiệm vụ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME">
+			<Text>Thành phố tự trị</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Các thành phố tự trị là các thực thể chính trị nhỏ. Họ không thể chiến thắng Game – họ không cạnh tranh với bạn – nhưng họ có thể hỗ trợ hoặc cản trở tới sự phát triển dẫn đến chiến thắng của bạn. Bạn có thể kết bạn với thành phố tự trị và có được một số lợi ích quan trọng, bạn có thể bỏ qua chúng và tập trung vào mục tiêu quan trọng hơn, hoặc có thể chinh phục họ. Tất cả tùy vào bạn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_TITLE">
+			<Text>Các loại Thành phố tự trị</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Có sáu "hương vị" thành phố tự trị khác nhau. Mỗi loại cung cấp cho bạn các lợi ích khác nhau nếu bạn là đồng minh với họ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Một thành phố tự trị thương mại có thể cung cấp [ICON_Gold] Vàng cho nền văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Một thành phố tự trị tôn giáo có thể cung cấp [ICON_Faith] Đức Tin cho nền văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_4">
+			<Text>Một thành phố tự trị quân đội có thể cung cấp [ICON_Production] Sản phẩm đối với đào tạo đơn vị.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_5">
+			<Text>Một thành phố tự trị khoa học có thể cung cấp [ICON_Science] Khoa học cho nền văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_6">
+			<Text>Một thành phố tự trị văn minh có thể giúp cản thiện [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_7">
+			<Text>Một thành phố tự trị công nghiệp có thể cung cấp [ICON_Production] Sản phẩm đối với Kỳ quan, Kiến trúc và Đặc khu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_TITLE">
+			<Text>Communicating with City-States</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_PARA_1">
+			<Text>In order to communicate with a city-state, you must find it first. When one of your units encounters a city-state, the city-state will tell you what type it is, and if you're the first to discover it, you will automatically earn an [ICON_Envoy] Phái đoàn with that city-state. Once you have met, you will be able to undertake "quests" from that city-state. If you want to get in touch with the city-state, you can click on the city itself, or you can go through the City-State Panel. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_TITLE">
+			<Text>Envoys</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_1">
+			<Text>The bonuses you earn from a city-state depend on how many [ICON_Envoy] Phái đoàn you have sent to the city-state. After earning [ICON_Envoy] Phái đoàn, you will receive a prompt to choose which city-states to send them to. If you have multiple [ICON_Envoy] Phái đoàn, you may divide them between city-states as you desire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Declaring war directly on a city-state removes all [ICON_Envoy] Phái đoàn you had there. Otherwise, [ICON_Envoy] Phái đoàn stay on the city-state permanently. [ICON_Envoy] Phái đoàn at a city-state are visible to all players, and placing them may have diplomatic consequences. The bonuses earned are based on how many [ICON_Envoy] Phái đoàn you have present, regardless of who else has [ICON_Envoy] Phái đoàn there. City-states of a type all share the same Type Bonuses. They are cumulative, so that as a player places more and more [ICON_Envoy] Phái đoàn on a city-state, they stack with the bonuses from before.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_3">
+			<Text>{LOC_PEDIA_CONCEPTS_PAGE_DIPLO_6_CHAPTER_CONTENT_PARA_4}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_TITLE">
+			<Text>Suzerain</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_1">
+			<Text>The civilization with the most [ICON_Envoy] Phái đoàn on a city-state, and at least 3 [ICON_Envoy] Phái đoàn, is considered that city-state's Suzerain. There can be at most one Suzerain; ties are not allowed. If nobody has [ICON_Envoy] Phái đoàn on a city-state, there is no Suzerain. The Suzerain gets several significant benefits:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Unique city-state bonus: This is a powerful bonus which no other city-state will provide (ex. Jerusalem acts as a second Holy City for your Religion.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Diplomatic allegiance: The city-state will automatically follow its Suzerain into war and peace, matching the diplomatic state of the Suzerain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_4">
+			<Text>Resource Sharing: All of the city-state's resources are automatically exported to the Suzerain, and the Suzerain may build improvements in their city-state's territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TRADE_NAME">
+			<Text>Ngoại thương</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Thương gia là đơn vị được mở khóa bởi hành chính Ngoại thương, và đào tạo từ trong các thành phố. Thương gia là đơn vị đứng trên lớp bản đồ riêng biệt, và không tương tác với hầu hết mọi thứ trên bản đồ. Họ có thể đứng chung ô với đơn vị khác và bỏ qua giới hạn biên giới đi lại.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Khi một Thương gia ở trong thành phố của người chơi, họ có thể bắt đầu một [ICON_TradeRoute] Tuyến đường thương mại giữa thành phố này và một thành phố khác trong phạm vi, miễn là [ICON_TradeRoute] Tuyến đường thương mại giữa 2 thành phố chưa được kích hoạt (ví dụ nếu đã có một [ICON_TradeRoute] Tuyến đường thương mại từ Rome sang Athens thì không thể tạo tuyến đường thứ hai y hệt), và người chơi vẫn còn đủ số lượng [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Khi thực hiện, [ICON_TradeRoute] Tuyến đường thương mại sẽ kéo dài ít nhất 20 lượt ở tốc độ bình thường. Thương gia sẽ tự di chuyển theo con đường của họ trong thời gian hoạt động, nhưng sẽ không được hoàn tất cho đến khi đơn vị quay trở về thành phố gốc. Khi kích hoạt tuyến đường, Thương gia sẽ bỏ qua hạn chế địa hình và di chuyển mỗi ô một lượt, đồng thời tạo một Con Đường ở đó. Đừng quên bảo vệ Thương gia khỏi Quan man di hoặc kẻ địch, vì họ rất dễ bị cướp bóc.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Tăng Tuyến đường thương mại</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Một người chơi chỉ có thể duy trì một số lượng [ICON_TradeRoute] Tuyến đường thương mại hạn chế. Số lượng này chủ yếu được xác định bởi Khu thương mại và Khu cảng biển mà người chơi có, tất nhiên cũng có thể tăng bởi các yếu tố khác.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Phạm vị tuyến đường thương mại</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Trên đất liền, [ICON_TradeRoute] Tuyến đường thương mại có thể hoạt động trong phạm vi 15 ô. Khi người chơi nghiên cứu công nghệ cho phép lên tàu ra biển, Thương gia cũng có thể di chuyển trên nước. Trên nước thì phạm vi này là 30 ô. Thay đổi giữa đất và nước chỉ có thể thực hiện ở Thành phố trung tâm hoặc Khu cảng biển. Nếu thành phố có một điểm giao thương, Thương gia có thể nghỉ chân và cho phép đi đến vùng đất mới xa hơn. Nếu không họ phải dừng lại thành phố đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
+			<Text>Trading Posts</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Trading Posts extend your trade network and make it more lucrative. Not only do they let you reach further destinations, they also provide bonus yields to any of your [ICON_TradeRoute] Tuyến đường thương mại that pass through them (even if they are not the destination). When a player owns a Trading Post in a city, regardless of who owns the city, that player’s [ICON_TradeRoute] Tuyến đường thương mại can “refuel” their [ICON_Movement] Di chuyển range and reach further destinations. Trading Posts are placed at a city once a [ICON_TradeRoute] Tuyến đường thương mại to or from that city successfully completes, and the Trading Post belongs to the player that owned the [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_TITLE">
+			<Text>Sản lượng</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại cung cấp sản lượng dựa trên những nơi họ đi qua và thu thập được. Các đặc khu bên trong thành phố đích sẽ cung cấp sản lượng cho thành phố gốc. Ví dụ, giao thương với một thành phố có một Khu linh thiêng sẽ cung cấp [ICON_Faith] Đức Tin, và giao thương với một thành phố có một Khu nghệ thuật sẽ cung cấp [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
+			<Text>Governments and Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Governments</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Governments allow you to customize your civilization to match your play style by offering different combinations of slots to elect different types of policies, as well as offering distinct bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Đức Tin and offers a discount on [ICON_Faith] Đức Tin purchases when active.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Đức Tin discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Policies have concrete effects for gameplay. Some increase your cities’ [ICON_Production] Sản phẩm, while others generate more wealth, and still others help create a more effective military. There are no right or wrong policy choices in the game, and one policy may be better for a given circumstance than other, or better suit your personal playing style. Try them out and see.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_2">
+			<Text>There are 4 types of policies, each of which may be slotted into a corresponding slot in a given government. Slotting these individual policies will give you the benefits described and enhance your game.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Gaining Policies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>You can choose to adopt policies once you have gained [ICON_Culture] Văn minh to unlock your first government. Policies will be unlocked as you progress through the Civics Tree, and changing your government will allow you to slot different combinations of policies to better suit your play style. Any time a new government or policy is unlocked from the Civics Tree, you will have the opportunity to reslot or change your government for free. Otherwise, there will be a cost to make these changes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Các loại chính sách</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Có 4 loại chính sách khác nhau để khám phá, từng loại tạo ra các phong cách khác nhau cho chính phủ. Tất cả các loại phải được áp dụng ở slot tương ứng của từng loại trong chính phủ, nhưng một slot Bất ngờ có thể chứa bất kỳ loại chính sách nào.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Quân sự: Là chính sách tốt cho các người chơi muốn quân đội mạnh mẽ cả trên đất liền lẫn biển cả.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_3">
+			<Text>Kinh tế: Là chính sách giúp tăng tất cả sản lượng thông qua việc tăng thưởng các khu đặc khu liền kề hoặc giảm chi phí.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_4">
+			<Text>Ngoại giao: Là chính sách tốt cho người chơi có mối quan tâm lớn tới việc xây dựng các mối quan hệ, có thể giúp củng cố với thành phố tự trị hoặc cải thiện các hoạt động gián điệp.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Bất ngờ: Là chính sách đẩy nhanh tốc độ chiêu mộ [ICON_GreatPerson] Vĩ nhân.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GREATPEOPLE_NAME">
+			<Text>Vĩ nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_GreatPerson] Vĩ nhân là các nghệ sĩ, thương gia, kĩ sư, nhà khoa học, đại tướng, đô đốc, người mà có thể giúp thay đổi nền văn minh. Có 9 loại của [ICON_GreatPerson] Vĩ nhân: [ICON_GreatArtist] Họa sĩ vĩ đại, [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatMusician] Nhạc sĩ vĩ đại, [ICON_GreatEngineer] Kỹ sư vĩ đại, [ICON_GreatMerchant] Thương gia vĩ đại, [ICON_GreatScientist] Nhà khoa học vĩ đại, [ICON_GreatProphet] Nhà tiên tri vĩ đại, [ICON_GreatAdmiral] Đại Đô Đốc, và [ICON_GreatGeneral] Đại Tướng Quân.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Chiêu mộ Vĩ nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_GreatPerson] Vĩ nhân có thể được chiêu mộ thông qua hệ thống điểm của từng loại. Họ sẽ hiển thị cho các người chơi, và sẽ thấy được sự canh tranh giữa các người chơi này. Chỉ nền văn minh lớn mới có thể chiêu mộ [ICON_GreatPerson] Vĩ nhân, không phải quân man di hay thành phố tự trị. Mỗi loại của [ICON_GreatPerson] Vĩ nhân đều có điểm riêng lẻ. Chẳng hạn điểm [ICON_GreatScientist] Nhà khoa học vĩ đại không được tính cho [ICON_GreatArtist] Họa sĩ vĩ đại. Số điểm cần để chiêu mộ [ICON_GreatPerson] Vĩ nhân cụ thể sẽ phụ thuộc vào thời đại của [ICON_GreatPerson] Vĩ nhân. Thời đại phục hưng có phí [ICON_GreatScientist] Nhà khoa học vĩ đại ít hơn [ICON_GreatScientist] Nhà khoa học vĩ đại thời đại khác. Điểm đến từ nhiều nguồn khác nhau.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Mỗi đặc khu, và các kiến trúc trong nó, cung cấp các điểm tương ứng với từng kiểu [ICON_GreatPerson] Vĩ nhân. Tuy mất nhiều thời gian nhưng đây là nguồn điểm ổn định. Các Đặc khu cũng cho phép thành phố sử dụng [ICON_Production] Sản phẩm cho các dự án, mà khi hoàn thành, sẽ cung cấp các điểm [ICON_GreatPerson] Vĩ nhân.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Sử dụng Vĩ Nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Mỗi cá thể Vĩ nhân có một hiệu ứng khác nhau, truyền cảm hứng từ lịch sử của họ. Hầu hết các hiệu ứng liên kết mạnh mẽ đến một thời kỳ cụ thể trong quá trình chơi, và không còn tối ưu khi vượt qua thời kỳ đó. Có hai loại hiệu ứng, hiệu ứng "khai sinh" và hiệu ứng "hành động".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Một hiệu ứng Sản sinh sẽ xảy ra ngay khi một [ICON_GreatPerson] Vĩ nhân được chiêu mộ trên bản đồ, và hiệu ứng này không cần phải kích hoạt. Những hiệu ứng này hầu hết đi kèm với Đại Tướng Quân và Đại Đô Đốc.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Hiệu ứng phải được kích hoạt bởi [ICON_GreatPerson] Vĩ nhân bằng cách sử dụng 1 "kích hoạt" tại một vị trí cụ thể. Số lượng kích hoạt, kiểu địa điểm và hiệu ứng được kích hoạt sẽ dựa theo từng cá nhân. Hầu hết các cá nhân chỉ có một điểm kích hoạt và chỉ có thể kích hoạt tại một đặc khu phù hợp (ví dụ hầu hết các [ICON_GreatScientist] Nhà khoa học vĩ đại có một điểm kích hoạt và phải sử dụng nó tại Khu tri thức). Cũng giống như các Vĩ nhân khác, các cá thể sẽ biến mất khi toàn bộ điểm kích hoạt được sử dụng hết.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_TITLE">
+			<Text>Di chuyển Vĩ Nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_GreatPerson] Vĩ nhân có thể di chuyển giống như các đơn vị khác. Họ không phải là đơn vị chiến đấu, như vậy họ không thể đứng chung ô với các đơn vị phi chiến đấu khác (Thợ xây, Dân di cư), nhưng họ có thể đứng chung với đơn vị chiến đấu. Nếu một đơn vị đối phương di chuyển vào ô mà [ICON_GreatPerson] Vĩ nhân đang đứng thì [ICON_GreatPerson] Vĩ nhân sẽ tự động lui lại đến thành phố gần bên (miễn là đối phương chưa chiếm được thành phố đó). Đơn vị này cũng được chuyển đến thành phố khác khi ở trong thành phố trung tâm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_AIRCOMBAT_NAME">
+			<Text>Chiến đấu trên không</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới Thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Có 4 loại đơn vị không quân: hỗ trợ trinh sát, hỗ trợ phòng ngự, chiến đấu cơ, và máy bay ném bom chiến lược. Những đơn vị này có thể được sản xuất ở bất kỳ thành phố nào đã xây dựng khu hàng không và nghiên cứu những công nghệ tiên quyết.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Căn cứ không quân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Các đơn vị không quân di chuyển không giống như các đơn vị mặt đất hoặc hải quân. Chúng phải được "dựa" vào một nơi nào đó. Trung tâm thành phố có thể giữ một đơn vị không quân, nhưng các kiến trúc như khu Hàng không, Đường băng, hoặc Tàu sân bay có thể gia tăng các bến đỗ. Khu hàng không có thể tăng lên đến 8 bến đỗ, Đường băng là 3, và Tàu sân bay lúc đầu là 2 nhưng có thể tăng thêm khi thăng cấp.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Tuần tra</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Chiến đấu cơ có thể triển khai đến một ô lục giác trong tầm di chuyển của chúng từ căn cứ không quân. Sau khi được triển khai, tàu bay sẽ bắt đầu bay xung quanh quỹ đạo trong tầm ảnh hưởng đánh chặn của nó (hiện tại là 1 ô lục giác). Điều này làm tăng trạng thái tấn công và phòng thủ của Chiến đấu cơ khi ở trạng thái Tuần tra.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Trạng thái tuần tra đang tiến hành, có phần giống như hoạt động của đơn vị 'Cố Thủ'. Một khi một máy bay được thiết lập Tuần tra nó sẽ thực hiện cho đến khi nào được yêu cầu lệnh khác hoặc bị tiêu diệt. Trong khi Tuần tra, tàu bay sẽ tiếp tục đánh chặn và phòng thủ chống lại các cuộc tấn công.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Tại bất kỳ thời điểm nào trong suốt lượt đi của người chơi, Chiến đấu cơ đều có thể 'Quay về căn cứ' (đóng quân tại căn cứ không quân) để hồi phục. Máy bay đóng quân tại một căn cứ không quân thì không thể đánh chặn các cuộc không chiến. Máy bay có thể được hồi phục khi kết thúc lượt của trò chơi chúng được đóng quân tại Trung tâm thành phố, Khu không quân, Đường băng, hoặc Tàu sân bay nếu như chúng không tham gia chiến trận. Hồi phục nhanh hơn khi ở trên Khu không quân, và chậm hơn khi ở trên các Đường băng và Tàu sân bay. Những giá trị này có thể được tăng lên thông qua việc thăng cấp và/ hoặc các chính sách.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Không kích</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Máy bay ném bom hạng nặng không thể dùng cho việc đi tuần tra, nhưng thay vào đó chúng "đóng quân" tại những căn cứ không quân và có thể triển khai tấn công từ những khu quân sự này. Không như các chiến đấu cơ khác, Máy bay ném bom không tham gia các cuộc chiến trên không, mà chúng đi thẳng đến mục tiêu và tấn công. Máy bay ném bom có thể "cướp" các kiến trúc đặc khu và công trình của thành phố bằng cách tấn công trực tiếp. Các hiệu ứng thì giống như các đơn vị mặt đất nhưng với một ngoại lệ - các cuộc tấn công trên không không thể có được những lợi ích từ việc cướp bóc, trừ khi đơn vị không quân đó phải có lượng máu từ 50% trở lên.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Đánh chặn</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Các máy bay chiến đấu có thể được thiết lập "đánh chặn" các cuộc không kích của đối phương. (Súng phòng không và Tên lửa đất đối không có thể tự động đánh chặn, mà không cần phải đưa ra nhiệm vụ đặc biệt nào.) Nếu một đơn vị trên không cố gắng tấn công một mục tiêu nằm trong vùng của đơn vị đánh chặn, thì các đơn vị này sẽ tấn công chúng. Trừ khi kẻ tấn công bị giết bởi các đơn vị đánh chặn, thì số tiền thu được từ không kích. Chỉ một đơn vị duy nhất có thể đánh chặn một cuộc không kích, và chỉ một, nó không thể đánh chặn thêm một lần nào nữa trong cùng lượt đó.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_NUKES_NAME">
+			<Text>Vũ khí hạt nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Các loại thiết bị hạt nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Có 2 loại vũ khí nguyên tử: bom Hạt nhân và bom Nhiệt hạch. Chúng có thể được sản xuất như là một dự án trong bất kỳ thành phố nào và cả hai đều yêu cầu nguồn Uranium để sản xuất. Không có giới hạn về số lượng sản xuất.[NEWLINE][NEWLINE]Một khi một quả bom Hạt nhân hoặc Nhiệt hạch được tạo ra, thì nó được thêm vào kho của người chơi và có thể được sử dụng bởi bất kỳ đơn vị nào hoặc công trình có khả năng triển khai trên bản đồ. Điều này bao gồm máy bay thả bom, Tàu ngầm hạt nhân, và Silo tên lửa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Bom hạt nhân có bán kính nổ là 1. Khi được phóng từ Silo tên lửa thì [ICON_Range] bán kính là 12. Mất 14 [ICON_Gold] vàng mỗi lượt để duy trì.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Bom nhiệt hạch có bán kính nổ là 2. Khi được phóng từ Silo tên lửa thì chúng có [ICON_Range] bán kính là 15. Mất 16 [ICON_Gold] vàng mỗi lượt để duy trì.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_TITLE">
+			<Text>Sự phá hủy hạt nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Khi một quả bom nguyên tử được kích hoạt, thì toàn bộ các ô lục giác trong phạm vi nổ sẽ bị nhiều tác động. Các công dân "đang làm việc" trong các ô bị ảnh hưởng sẽ bị tiêu diệt hoàn toàn và các đơn vị khác nằm trong vùng ảnh hưởng cũng bị phá hủy. Bất kỳ đặc khu và kiến trúc nào nằm trong các ô bị ảnh hưởng cũng bị phá hủy và phải sửa chữa lại thì mới sử dụng lại được. Toàn bộ các ô bị ảnh hưởng thì bị nhiễm độc phóng xạ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_TITLE">
+			<Text>Ô nhiễm hạt nhân</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Sau cuộc tấn công hạt nhân, bụi phóng xạ sẽ gây ô nhiễm tất cả các ô trong vùng ảnh hưởng từ vụ nổ. Bất kỳ đơn vị nào nằm trong vùng nhiễm phóng xạ sẽ bị chịu 50 sát thương mỗi lượt.[ICON_Production] Sản phẩm không thể áp dụng cho bất kỳ ô bị nhiễm phóng xạ nào, kể cả sửa chữa các kiến trúc cũng như các đặc khu. Các ô bị nhiễm sẽ không thể hoạt động cho thành phố đến khi nào hết nhiễm phóng xạ hoặc các ô được "làm sạch".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Các ô bị nhiễm hạt nhân có thể "làm sạch" bởi các Thợ xây và các đơn vị Kỹ sư quân đội. Để làm sách các ô bị nhiễm phóng xạ cần tiêu hao 1 phí xây dựng. Thợ xây và các đơn vị Kỹ sư quân đội có thể làm sạch các ô lục giác nhiễm phóng xạ sẽ nhận ít tổn thương nếu họ kết thúc lượt ngay tại ô lục giác đó. Bất kỳ ô đất nào của thành phố không bị ảnh hưởng trực tiếp từ vụ nổ hạt nhân vẫn sẽ hoạt động bình thường và phân phối sản lượng cho thành phố.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TOURISM_NAME">
+			<Text>Du Lịch</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới Thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Tourism] Du lịch là yếu tố cần thiết để giành chiến thắng văn minh. Bạn có thể tạo ra [ICON_Tourism] Du lịch thông qua các Thành tựu vĩ đại, các Kỳ quan, Thánh địa, [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật, các Khu nghỉ dưỡng ven biển và các Công viên quốc gia. Bạn có thể tăng điểm [ICON_Tourism] Du lịch thông qua [ICON_TradeRoute] Tuyến đường thương mại, Tự do đi lại, Vĩ nhân, Chính sách, và chia sẻ (hoặc đối nghịch) về các nền chính phủ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
+			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Có 5 loại Thành tựu vĩ đại. Viết lách, Mỹ thuật, và Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật, từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích, được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học, hoặc có được thông qua Làng thổ dân hoặc thành phố tự trị Kandy. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
+			<Text>Khu nghỉ dưỡng ven biển</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Các Khu nghỉ dưỡng ven biển là một sự phát triển quan trọng có thể xây dựng được sau khi nghiên cứu kỹ thuật Sóng vô tuyền. Những điều này tạo ra [ICON_Tourisim] Du lịch dựa trên sức hấp dẫn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_TITLE">
+			<Text>Công Viên Quốc Gia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Tạo Công Viên Quốc gia có thể nâng cao [ICON_Tourism] Du lịch và [ICON_Amenities] Tiện nghi. Công Viên Quốc Gia được tạo bởi Nhà tự nhiên học, một đơn vị có thể mua được trong thành phố bằng [ICON_Faith] Đức tin sau khi nghiên cứu chính sách Bảo tồn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Công viên Quốc Gia có thể được xây dựng dựa trên một cụm gồm bốn ô lục giác xếp gần kề nhau theo yêu cầu:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_3">
+			<Text>1. Các ô đó phải là kỳ quan tự nhiên, Núi, hoặc có sức hấp dẫn Đẹp trở lên.[NEWLINE]2. Tất cả bốn ô này phải cùng chung trong một thành phố.[NEWLINE]3. Các ô phải có hình dáng của kim cương dọc.[NEWLINE]4. Không ô nào có công trình hoặc đặc khu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_4">
+			<Text>Có thể sử dụng Nhà tự nhiên học để thấy được các vị trí hợp lệ trên bản đồ. Đưa Nhà tự nhiên học đến vị trí được đánh dấu và thực hiện tạo Công Viên Quốc Gia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Năng suất [ICON_Tourism] du lịch của một Công viên quốc gia bằng tổng sức hấp dẫn của tất cả các ô trong công công viên. Ngoài ra, thành phố sở hữu công viện nhận 2 [ICON_Amenities] Tiện nghi, và 4 thành phố gần nhất trong nền văn minh của bạn nhận 1 [ICON_Amenities] Tiện nghi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME">
+			<Text>Chiến Thắng và Thất Bại</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giới Thiệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Có nhiều cách để thắng và thua trong game Civilization VI. Điều quan trọng là để mắt đến quá trình phát triển đối thủ và của bạn. Thật không thoải mái chút nào khi gần chiếm được thành phố cuối cùng của kẻ thù, thì lại phải bất lực chứng kiến hắn ta hoặc bà ta hoàn thành thuộc địa trên sao Hỏa và giành chiến thắng Khoa học một cách lãng nhách.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_TITLE">
+			<Text>Chiến Thắng Thống Trị</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Nếu bạn là người cuối cùng vẫn sở hữu [ICON_Capital] Thủ đô chính của mình, bạn là người chiến thắng. Vì vậy nếu bạn thâu tóm toàn bộ các [ICON_Capital] Thủ đô chính của các nền văn minh khác và vẫn bảo vệ được Thủ đô của mình, thì bạn là người giành được chiến thắng. Tuy nhiên, vẫn còn một mẹo khác. Ví dụ bạn đang chơi một bản đồ 5 người và bạn đã chiếm đóng 3 [ICON_Capital] Thủ đô chính của 3 người kia, nhưng người thứ 5 lại lén tấn công và chiếm giữ [ICON_Capital] Thủ đô của bạn - thì người đó sẽ giành chiến thắng ngay lập tức. Nói kiểu khác, không quan trọng bạn chiếm được thành nào; mà quan trọng ai là người cuối cùng giữ được [ICON_Capital]Thủ đô chính của mình.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Nếu bạn mất [ICON_Capital] Thủ đô chính của bạn, nhưng vẫn sở hữu các thành phố khác, bạn vẫn có thể chiến thắng theo các kiểu sau: Văn hóa, Khoa học, Điểm số, hoặc Tôn giáo. Tuy nhiên, bạn không thể giành được chiến thắng Thống trị trừ khi bạn giành lại được [ICON_Capital] Thủ đô chính của mình.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_TITLE">
+			<Text>Chiến thắng khoa học</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Để đạt được chiến thắng khoa học thì người chơi đầu tiên phải thành lập một thuộc địa trên Sao Hỏa. Khi Cuộc chạy đua vào không gian còn đang diễn ra, và ai đó đã phóng thành công vệ tinh đầu tiên, thì người đó đang giành quyền chiến thắng. Người chơi sẽ nhận được các điểm thưởng khi đạt được các mốc. Các mốc sau đây phải được thực hiện theo thứ tự:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Phóng vệ tinh vào không gian:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Hồi tưởng lại con tàu vũ trụ Sputnik vào năm 1957, bạn có thể chế tạo một vệ tinh để phóng lên không gian sau khi nghiên cứu Tên lửa và xây dựng một Trạm không gian. Sau khi hoàn thành dự án Vệ tinh trái đất, vệ tinh của bạn sẽ được phóng lên không gian và bạn sẽ có được tầm nhìn toàn bộ bản đồ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_4">
+			<Text>Đưa con người lên Mặt Trăng:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_5">
+			<Text>Cũng giống như sứ mệnh Apollo 11 năm 1969, bạn sẽ đưa người lên mặt trăng. Điều này đã thành hiện thực sau khi nghiên cứu về công nghệ vệ tinh, và có thể xây một trạm không gian ở bất kỳ thành phố nào. Hãy chọn dự án sản xuất Đáp xuống Mặt Trăng để bắt đầu nhiệm vụ. Sau khi tên lửa của bạn đã được phóng, bạn ngay lập tức sẽ được thưởng lớn Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_6">
+			<Text>Thiết lập một thuộc địa trên sao Hỏa:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_7">
+			<Text>Có thể lúc này chỉ là khoa học viễn tưởng, nhưng biết đâu bạn chính là người đầu tiên đưa người lên Sao Hỏa. Sau khi nghiên cứu về Robot, Phản ứng hạt nhân và công nghệ Nano, bạn có thể xây dựng các dự án Lò phản ứng, Nơi cư trú và Trồng cây thủy canh ở bất kỳ thành phố nào có một trạm không gian. Lưu ý rằng nếu có hai trạm không gian trở lên thì quá trình sản xuất cũng nhân đôi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_8">
+			<Text>Khi mọi mảnh ghép được kích hoạt một lần, thì bạn đã giành chiến thắng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_TITLE">
+			<Text>Chiến thắng văn minh</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Nếu bạn nhắm mục tiêu là trung tâm văn minh của thế giới, thì chiến thắng là của bạn. Nền văn minh đầu tiên sở hữu tổng lượng khách du lịch vượt qua tổng lượng khách của các nền văn minh khác trong cuộc chơi thì bạn sẽ giành chiến thắng văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_2">
+			<Text>[ICON_Tourism] Du lịch được tạo ra bởi [ICON_TradeRoute] Tuyến đường thương mại, Những chế độ chính phủ giống (hoặc khác) nhau, Tự do đi lại, các Thành tựu vĩ đại, [ICON_GreatWork_Relic] Di tích, Thánh địa, Công viên quốc gia, các [ICON_GreatWork_Artifact] Cổ vật và các Kỳ quan trong thành phố của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
+			<Text>Chiến thắng tôn giáo</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Để có được một chiến thắng tôn giáo, bạn phải làm cho tôn giáo của bạn chiếm ưu thế đối với phần lớn mọi nền văn minh khác trong trò chơi. Điều này không có nghĩa là mỗi một thành phố trong các nền văn minh phải tuân theo tôn giáo của bạn, chỉ cần đa số.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Trong khi tôn giáo của bạn lan truyền một cách thụ động đơn giản với những người chơi gần bên, thì những người truyền giáo và tông đồ của bạn chính người mang lại cơ hội tốt để giành thắng lợi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_TITLE">
+			<Text>Chiến thắng điểm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Trong rất nhiều trò chơi, một trong các người chơi sẽ chiến thắng bằng cách nhận được thành tựu trong những chiến thắng. Dù vậy, nếu không có ai nhận được nó trong các chiến thắng ở năm 2050 (hoặc là một lượt thiết lập), người thắng cuộc sẽ được quyết định bằng cách sống sót bằng "điểm" nền văn minh. Điểm sẽ nhận được bằng số hành chính, dân số, số thành phố, số công nghệ, số "Công nghệ tương lai", số kỳ quan, khả năng thực hiện kế hoạch của quân đội, số [ICON_GreatPerson] Vĩ Nhân, và số tín ngưỡng.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

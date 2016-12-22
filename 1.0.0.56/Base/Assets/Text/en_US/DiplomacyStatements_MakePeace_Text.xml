@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Ta chấp nhận điều khoản hòa bình của ngài.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Hòa bình với ngài.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta không muốn nhớ bản thân mình là một kẻ hiếu chiến. Chúng ta hãy cùng đặt những điểm khác biệt ấy sang một bên.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Ta phải thừa nhận rằng, tốt hơn hết là hòa bình với ngài.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Ngài đã chiến đấu kiên cường, và giành được hòa bình. Ta hạnh phúc đề nghị một lệnh ngừng bắn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY">
+			<Text>Vâng, vâng. Đây là một ý tốt.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Ta tôn trọng đối thủ mạnh. Hãy để ta được bình yên.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORGO_ANY">
+			<Text>Cuộc chiến này đã diễn ra theo chiều hướng của nó. Ngài có thể yêu cầu hòa bình, nếu ngài muốn sống.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Rất tốt.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HOJO_ANY">
+			<Text>Thật vinh dự khi đã kiếm được đối trọng của mình trên chiến trường. Ta thà tra kiếm vào vỏ hơn là tiêu diệt đi một chiến binh vĩ đại.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY">
+			<Text>Ta chấp nhận điều khoản hòa bình của ngài.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY">
+			<Text>Một đề nghị tốt, ta chấp nhận.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Ta quan tâm nhiều trong việc theo đuổi cuộc sống hơn là chết chóc. Hãy cùng hòa bình giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Hòa bình cho Đế Chế của ngài. Ta đã quá mệt mỏi vì chiến tranh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY">
+			<Text>Ta rất ấn tượng. Hãy để hòa bình giữa chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SALADIN_ANY">
+			<Text>Có thể chúng ta biết đến sự thông thái và hòa bình thì giờ đây chúng cũng biết quá nhiều về chiến tranh.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Đó là bổn phận của đất nước ta để bảo vệ quyền lợi và lợi ích của chúng tôi. Mọi việc đã chấm dứt; hãy để chúng ta tiếp tục trong hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Ta chấp nhận điều khoản hòa bình của ngài.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Vâng, hãy để ta kêu gọi đình chiến. Cuộc chiến này không đưa chúng ta đến đâu cả.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Thay mặt cho toàn thể Vương Quốc Anh và Ireland, ta phê chuẩn hòa bình giữa hai nước chúng ta.</Text>
+		</Row>
+
+		<!-- AI refuses human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Sẽ không thể có hòa bình giữa chúng ta!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Ta không thể đồng ý.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Tất nhiên là không.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Không! Ta không đồng ý điều này!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Khi nào ta còn sống thì không.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GANDHI_ANY">
+			<Text>Xin lỗi, nhưng không.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh từ chối.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY">
+			<Text>Ta sẽ suy nghĩ lại sau.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Không. ta không thể đồng ý.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HOJO_ANY">
+			<Text>Khi nào ta còn sống thì không.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PEDRO_ANY">
+			<Text>Sẽ không thể có hòa bình giữa chúng ta!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PERICLES_ANY">
+			<Text>Athens từ chối.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Không, vì tất cả người dân nước Nga.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Không, vì Chúa!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY">
+			<Text>Ta sẽ lờ đi những cái cớ của ngươi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SALADIN_ANY">
+			<Text>Ngươi phải dâng hiến những thứ tốt hơn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ngươi không thể nghiêm túc vậy chứ!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Sẽ không thể có hòa bình giữa chúng ta!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Không dành cho toàn bộ đế chế của ngài.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Một chữ "không" nhấn mạnh.</Text>
+		</Row>
+
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Hòa bình nhé, được không?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Hãy để cuộc chiến này đi đến kết thúc. Thay vào đó chúng ta hãy cùng dạo bước dưới ánh bình minh của hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta cầu xin ngài hãy nghĩ đến những người thân yêu của chúng ta, hãy để chúng ta tận hưởng hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Hòa bình lúc nào cũng thú vị hơn chiến tranh, ngài có đồng ý không?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Ngài đã bảo vệ người dân rất tốt. Ta sẽ ban cho ngài hòa bình, ngay bây giờ, nếu như ngài muốn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Mắt đổi mắt chỉ khiến thế giới mù lòa. Thay vào đó, chúng ta nên hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Từ vực thẳm của địa ngục đến những dãy núi của Ea, ta chưa bao giờ phải chạm trán một đối thủ sừng sỏ như ngài. Hãy làm hòa với ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Ngài có thời gian nghỉ chứ... hòa bình?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ta sẽ đồng ý hòa bình nếu ngài muốn. Chúng ta đều có chiến lợi phẩm để đếm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Không còn gì để chiến đấu nữa. Chúng ta hãy thay vào đó suy nghĩ kỹ lại hành động của chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Đã đến lúc cho hòa bình. Ngài có đồng ý chứ?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Nền Dân chủ đã bỏ phiếu cho hòa bình. Ngài có chấp nhận kết thúc cuộc chiến này?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Nếu ngài sẵn sàng thương lượng, ta có thể tìm được điểm chung để kết thúc cuộc chiến này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Hãy để cho chúng ta có sự bình an của Chúa giữa hai chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Đã đến lúc cho hòa bình. Hãy để chúng ta kết thúc cuộc chiến này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Cầu cho hòa bình đến với ngài, và cả hai chúng ta. Hãy kết thúc cuộc chiến này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta chỉ bảo vệ lợi ích quốc gia và quyền lợi của chúng ta. Việc đó đã xong. Bây giờ chúng ta có thể sống trong hòa bình.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Đã đến lúc hòa bình rồi. Ngài có đồng ý không?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Chiến tranh, chiến tranh khủng khiếp! Hãy để La Mã có hòa bình. Câu trả lời của ngài là gì?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ta không thể không nghĩ rằng một thỏa thuận chung là có thể đạt được sự đồng ý của hai chúng ta.</Text>
+		</Row>
+
+		<!-- Human accepts, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Chiến tranh đã kết thúc.</Text>
+		</Row>
+
+		<!-- Human rejects, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Vậy thì chiến tranh lại tiếp tục.</Text>
+		</Row>
+
+		<!-- Choices -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
+			<Text>Từ chối thỏa thuận hòa bình</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_POSITIVE">
+			<Text>Chấp nhận thỏa thuận hòa bình</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

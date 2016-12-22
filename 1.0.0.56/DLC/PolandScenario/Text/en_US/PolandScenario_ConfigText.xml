@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Scenario Name and Description-->
+		<Row Tag="LOC_POLAND_SCENARIO_NAME">
+			<Text>Jadwiga's Legacy</Text>
+		</Row>
+		<Row Tag="LOC_POLAND_SCENARIO_TOOLTIP">
+			<Text>Who can best defend Renaissance Poland from foreign invasions?</Text>
+		</Row>
+		<Row Tag="LOC_POLAND_SCENARIO_DESCRIPTION">
+			<Text>	In this 60 turn scenario, you stand at the crossroads of Europe, protecting the fertile Polish homelands from a constant barraging of invaders from all directions. Rally your Winged Hussars and face off against Teutonic Knights and Ottoman Turks as you grow your civilization.[NEWLINE][NEWLINE]The player with best empire by standard scoring at end of the game is the winner.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_POLAND_SCENARIO">
+			<Text>Yours is a united nation, fusing the Kingdom of Poland and the Grand Duchy of Lithuania into a whole greater than the sum of its parts. You are a shining beacon amidst the chaos of Europe with your elected monarch, religious tolerance, and extensive legal rights shared by your magnates. But bright lights attract unwanted attention. Can you maintain the union you worked so hard to accomplish in the face of intractable foes?</Text>
+		</Row>
+		<Row Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME">
+			<Text>Eastern Europe</Text>
+		</Row>
+		<!-- Civilization Names -->
+		<Row Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME">
+			<Text>Lithuanian Nobility</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME">
+			<Text>Polish Nobility</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME">
+			<Text>Volhynian Nobility</Text>
+		</Row>
+    <Row Tag="LOC_CIVILIZATION_RADZIWILL_NAME">
+      <Text>Lithuanian Nobility</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_POTOCKI_NAME">
+      <Text>Polish Nobility</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_OSTROGSKI_NAME">
+      <Text>Volhynian Nobility</Text>
+    </Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME">
+			<Text>Golden Liberty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION">
+			<Text>Culture Bomb adjacent tiles when completing an Encampment or Fort inside friendly territory. One Military policy slot in the current government is converted to a Wildcard slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME">
+			<Text>Golden Liberty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION">
+			<Text>Culture Bomb adjacent tiles when completing an Encampment or Fort inside friendly territory. One Military policy slot in the current government is converted to a Wildcard slot.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME">
+			<Text>Golden Liberty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION">
+			<Text>Culture Bomb adjacent tiles when completing an Encampment or Fort inside friendly territory. One Military policy slot in the current government is converted to a Wildcard slot.</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME">
+			<Text>Mikołaj Radziwiłł</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME">
+			<Text>Stanisław Potocki</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME">
+			<Text>Konstanty Ostrogski</Text>
+		</Row>
+    		<!-- Leaders -->
+		<Row Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME">
+			<Text>Mikołaj Radziwiłł</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME">
+			<Text>Stanisław Potocki</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME">
+			<Text>Konstanty Ostrogski</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME">
+			<Text>Nesvizh Castle</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION">
+			<Text>Receive a second Military Engineer each time you train one.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION">
+			<Text>Receive a second Builder or Military Engineer each time you train one.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME">
+			<Text>Rotmistrz</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION">
+			<Text>Receive a second Knight or Winged Hussar each time you train one.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME">
+			<Text>Field Hetman</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION">
+			<Text>Receive a second Pikeman each time you train one.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION">
+			<Text>Receive a second Pikeman each time you train one. Receive Cossacks as a second unique unit.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
