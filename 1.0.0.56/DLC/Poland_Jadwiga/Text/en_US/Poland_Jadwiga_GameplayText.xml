@@ -3,22 +3,22 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_POLISH_HUSSAR_NAME">
-			<Text>Polish unique unit: Winged Hussar</Text>
+			<Text>Đơn vị Ba Lan đặc biệt: Kỵ binh Winged Hussar</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION">
-			<Text>Polish Empire</Text>
+			<Text>Đế chế Ba Lan</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_POLAND_ADJECTIVE">
-			<Text>Polish</Text>
+			<Text>Ba Lan</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_SUKIENNICE_NAME">
-			<Text>Polish unique building: Sukiennice</Text>
+			<Text>Kiến trúc Ba Lan đặc biệt: Trung tâm thương mại Cloth Hall</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_SAINT_NAME">
-			<Text>Saint</Text>
+			<Text>Thiêng liêng</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_SAINT_DESCRIPTION">
-			<Text>Tries to build up [ICON_Faith] Faith, and likes civilizations that also focus on [ICON_Faith] Faith.</Text>
+			<Text>Cố gắng tạo dựng [ICON_Faith] Đức tin, và thích những nền văn minh nào cũng tập trung vào [ICON_Faith] Đức tin.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUKIENNICE_CHAPTER_HISTORY_PARA_1">
 			<Text>Thanks to its location between Europe and Russia, Poland’s cities were vibrant with trade, as exemplified by the cloth halls (known as sukiennice in Polish) located in the great cities of the realm. It contained trading stalls, where vendors sold cloth, leather goods, wax, salt, peppers, spices, and silk from the Far East, indeed all sorts of exports and imports. Usually built in the center of towns, these were international marketplaces, larger and more magnificent than the run-of-the-mill markets scattered about Europe. In the halls and porticos, traders from dozens of lands made deals, and the locals—those who could afford it—found all the luxuries they could desire. In Poland, the oldest and largest was the Sukiennice of Krakow, rebuilt in the Renaissance style in 1555 AD after a fire. It was an important center for international trade between West and East until the end of the 16th Century (today its stalls sell snacks and souvenirs to tourists). But the cloth hall was also vital in other Polish cities, doing a booming trade in places such as Poznan, Wroclaw, and Torun.</Text>
@@ -72,10 +72,10 @@
 			<Text>Jadwiga</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE">
-			<Text>Hedvig Rex Poloniae – and a Saint</Text>
+			<Text>Vua của Ba Lan – và là một vị thánh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE">
-			<Text>Whoever  serves God has a good master.</Text>
+			<Text>Ai phụng sự Chúa thì đều có những kết quả tốt đẹp.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_1">
 			<Text>In late 14th century Poland, there was little expectation for the king's third daughter to do much beyond secure her country's future through a marriage alliance. Yet in her short life, the devout Jadwiga would rule all of Poland. Selfless and canny, she sought to bring disparate peoples together through a common (and comprehensible) faith.</Text>
@@ -108,16 +108,16 @@
 			<Text>Polish military reforms of the late 1570s gave birth to the winged hussars, a fearsome heavy cavalry force who would enjoy their elite status for the next two centuries. Rather than fielding cavalry comprised of foreign mercenaries, Transylvanian prince Stephen Bathory (also Grand Duke of Lithuania, King-by-right-of-his-wife of Poland, and collector of increasingly impressive titles) filled the ranks of the winged hussars with Polish nobility and their retinues. The famed "wings" were wooden frames with feathers attached, borne on a rider's back to clearly distinguish them. It was said the distinctive sound of the wings startled enemy horses and demoralized enemy soldiers with an "evil hiss"—by novelists of later centuries, who likely romanticized a ceremonial accessory. Far less contentious a question are the lances, sabers, and pistols the winged hussars brought to the battlefield, which no doubt startled enemy horses and demoralized enemy soldiers.</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_POLAND_LOCATION">
-			<Text>Europe</Text>
+			<Text>Châu Âu</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_POLAND_SIZE">
-			<Text>Est. 120 thousand square miles (312.6 thousand square km)</Text>
+			<Text>Ước tính 120 dặm vuông (312.6 nghìn km vuông)</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_POLAND_POPULATION">
-			<Text>Latest 126.4 million</Text>
+			<Text>Mới nhất là 126.4 triệu</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_POLAND_CAPITAL">
-			<Text>Various (Plock, Poznan, Krakow, Warsaw)</Text>
+			<Text>Khác nhau (Plock, Poznan, Krakow, Warsaw)</Text>
 		</Row>
 		<!--Poland-->
 		<Row Tag="LOC_CITY_NAME_KRAKOW">
@@ -331,109 +331,109 @@
 			<Text>Zofia</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_JADWIGA">
-			<Text>Pious Jadwiga, praise be to the glory of God, the earth, and Poland! Most holy King, you will show your people the truth and the light, and they will move beyond to spread the word to others. Protected by great winged warriors, you will rise to meet any challenge you face with a devout grace unmatched by any other.</Text>
+			<Text>Jadwiga ngoan đạo, ca tụng vinh quang của Chúa, trái đất, và Ba Lan! Giống như các vị Vua, bạn sẽ cho thần dân biết đến chân lý và ánh sáng, đồng thời truyền bá nó tới cho những người khác biết. Được bảo vệ bởi những chiến binh có đôi cánh tuyệt vời, bạn phải phát triển để đối mặt với bất kỳ thử thách cùng với một sự sùng đạo bậc nhất chưa từng ai đạt được.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>Of course we will accept your friendship. You are a shining example of goodness in this world.</Text>
+			<Text>Dĩ nhiên chúng ta sẽ chấp nhận tình hữu nghị này. Ngày là tấm gương sáng tốt đẹp của thế giới này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>I humbly decline your offer of friendship. It is not God’s will at this time.</Text>
+			<Text>Ta khiêm nhường từ chối tình hữu nghị này của ngài. Đây không phải là ý muốn của Chúa tại thời điểm này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>Your nation is as a sister to ours. Let us officially declare our friendship.</Text>
+			<Text>Quốc gia ngài như là một người chị em với ta. Hãy để ta chính thức tuyên bố tình bạn này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>Very good.</Text>
+			<Text>Tuyệt lắm.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>I will ignore this insult.</Text>
+			<Text>Ta sẽ bỏ qua sự sỉ nhục này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>So, you show your true nature: a serpent lying in the grass… easily trampled.</Text>
+			<Text>Rồi, ngươi đã bộc lộ bản chất thật của mình: một mãng xà đang nằm trên cỏ... dễ dàng bị chà đạp.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>I must protect the interests of Poland. Surrender quickly so that this may end without bloodshed.</Text>
+			<Text>Ta phải bảo vệ lợi ích của Ba Lan. Đầu hàng nhanh chóng để kết thúc không phải đổ máu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>We have received your trade delegation, and your gifts as well. They will be treated as guests of honor.</Text>
+			<Text>Ta đã gặp phái đoàn thương mại của ngài cùng với những món quá tuyệt vời. Họ sẽ được đại ngộ như những khách mời danh dự.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>We politely refuse your delegation.</Text>
+			<Text>Ta lịch sự từ chối phái đoàn của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>I have sent a trade delegation to you with gifts of pisanki. They have been blessed and are no longer part of pagan tradition.</Text>
+			<Text>Ta gửi một phái đoàn thương mại cùng món quà trứng phục sinh. Họ linh thiêng và hơn cả những nhà ngoại giao truyền thống.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>I am a pure and humble servant of God. My conscience is clean. I have nothing to hide.</Text>
+			<Text>Ta là đầy tớ trung thành và hèn mọn của Chúa. Lương tâm của ta trong sạch. Ta không có gì để che dấu cả.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>Evil cannot stay hidden for long. God will always bring it to light. (Denounces You).</Text>
+			<Text>Ác quỷ không thể ẩn nấp lâu dài. Chúa luôn mang nó ra ánh sáng. (Lăng mạ bạn).</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JADWIGA_ANY">
-			<Text>A meeting blessed by God, I am sure. I am Jadwiga the King of Greater Poland. Yes, a king.</Text>
+			<Text>Một cuộc gặp được chúc phúc bởi Chúa, ta chắc chắn. Ta là Jadwiga - Vua của Ba Lan hùng mạnh. Vâng, là một vị vua.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JADWIGA_ANY">
-			<Text>I humbly invite you to be our guest of honor and join us in our nearby city. There is a festive folk dance we could enjoy.</Text>
+			<Text>Ta khiêm nhường trịnh trọng mời ngài trở thành khách tới dự lễ hội ở thành phố gần đây. Chúng ta có thể cùng thưởng thức những điệu nhảy dân dã ở đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JADWIGA_ANY">
-			<Text>Yes, I accept your proposal.</Text>
+			<Text>Vâng, ta chấp nhận đề nghị này của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JADWIGA_ANY">
-			<Text>Tell me of your capital. Of course, I am happy to tell you of Poland’s, if you wish.</Text>
+			<Text>Cho ta biết về thủ đô của ngài. Dĩ nhiên ta cũng sẽ cho ngài biết về Ba Lan, nếu như ngài muốn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_JADWIGA_ANY">
-			<Text>A pleasure.</Text>
+			<Text>Vui qué ^^</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JADWIGA_ANY">
-			<Text>I see you have found God’s wisdom, and that you share it with the world. Good.</Text>
+			<Text>Ta thấy ngài tím thấy lối đi của Chúa, và ngài cũng chia sẻ nó cho cả thế giới. Tuyệt lắm.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_ANY">
-			<Text>(You have strong [ICON_Faith] Faith output)</Text>
+			<Text>(Bạn tạo được nhiều [ICON_Faith] Đức tin)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JADWIGA_ANY">
-			<Text>Everyday, I pray for your soul, that you find the wisdom of the Lord.</Text>
+			<Text>Mỗi ngày, ta cầu nguyện cho linh hồn của ngài, để mà ngài tìm thấy được lối đi của Chúa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_LEADER_JADWIGA_REASON_ANY">
-			<Text>(You have weak Faith output.)</Text>
+			<Text>(Bạn tạo được ít Đức tin.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>Would you like to form an alliance?</Text>
+			<Text>Ngài có muốn trở thành đồng minh?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JADWIGA_ANY">
-			<Text>I never wanted this war. I want only peace between us.</Text>
+			<Text>Ta không bao giờ muốn cuộc chiến này. Chỉ muốn hòa bình giữa hai ta mà thôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JADWIGA_ANY">
-			<Text>Certainly not.</Text>
+			<Text>Dẹp đi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>I have seen God’s will, and it is to end this bloodshed. What do you say?</Text>
+			<Text>Ta thấy ước nguyện của Chúa, ngài ấy muốn chấm dứt cuộc đổ máu này. Còn ý ngươi thì sao?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>We welcome your people into Poland. Enjoy your travels through our beautiful country.</Text>
+			<Text>Ta hoan nghênh người của ngài tới Ba Lan. Hãy thưởng thức chuyến đi ở đất nước tươi đẹp này của ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY">
-			<Text>These borders are sacred, and upheld by God. I cannot allow it.</Text>
+			<Text>Biên giới là thiêng liêng, và được nâng đỡ bởi Chúa. Ta không cho phép.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>My people need to move through your nation. They will obey your laws, if you allow them passage.</Text>
+			<Text>Dân ta cần đi qua lãnh thổ của ngài. Nếu ngài cho phép, họ sẽ tuân thủ theo luật lệ của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JADWIGA_ANY">
-			<Text>Your armies have not gone unnoticed. Please remove them from our presence.</Text>
+			<Text>Quân đội của ngài đã bị để ý. Làm ơn rời khỏi tầm mắt của ta.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>No, I am not ready to leave God’s service. I am just beginning his good work!</Text>
+			<Text>Không, ta chưa sẵn sàng rời bỏ Chúa. Ta chỉ mới bắt đầu công việc tốt đẹp của ngài ấy thôi!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>That is troubling.</Text>
+			<Text>Đó là rắc rối.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY">
-			<Text>Thank you very much.</Text>
+			<Text>Xin đa tạ.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SAINT_HIGH_FAITH">
-			<Text>Jadwiga is please that you are gaining lots of Faith</Text>
+			<Text>Jadwiga hài vòng vì bạn tạo được nhiều Đức tin</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_SAINT_LOW_FAITH">
-			<Text>Jadwiga is disappointed that you do not earn much Faith</Text>
+			<Text>Jadwiga thất vọng vì bạn không tạo được nhiều Đức tin</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

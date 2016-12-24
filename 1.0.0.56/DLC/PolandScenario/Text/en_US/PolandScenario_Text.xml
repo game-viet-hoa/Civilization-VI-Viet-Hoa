@@ -4,19 +4,19 @@
 	<BaseGameText>
 		<!-- Full Civs -->
 		<Row Tag="LOC_CIVILIZATION_RADZIWILL_DESCRIPTION">
-			<Text>Lithuanian noble families</Text>
+			<Text>Gia đình quý tộc Litva</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_POTOCKI_DESCRIPTION">
-			<Text>Polish noble families</Text>
+			<Text>Gia đình quý tộc Ba Lan</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_OSTROGSKI_DESCRIPTION">
-			<Text>Volhynian noble families</Text>
+			<Text>Gia đình quý tộc Volhynian</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_RADZIWILL_ADJECTIVE">
-			<Text>Lithuanian</Text>
+			<Text>Litva</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_POTOCKI_ADJECTIVE">
-			<Text>Polish</Text>
+			<Text>Ba Lan</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_OSTROGSKI_ADJECTIVE">
 			<Text>Volhynian</Text>
@@ -242,124 +242,124 @@
 		</Row>
 		<!-- City State Bonuses-->
 		<Row Tag="LOC_LEADER_TRAIT_GDANSK_NAME">
-			<Text>Gdańsk Suzerain Bonus</Text>
+			<Text>Thưởng cho chủ Gdańsk</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GDANSK_DESCRIPTION">
-			<Text>Trade routes to any City-State provide 5 Gold for every specialty district in the origin city.</Text>
+			<Text>Tuyến đường thương mại tới bất kỳ thành phố tự trị này đều cung cấp 5 Vàng cho mỗi đặc khu đặc biệt có trong thành phố xuất phát.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VIENNA_NAME">
-			<Text>Vienna Suzerain Bonus</Text>
+			<Text>Thưởng cho chủ Vienna</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VIENNA_DESCRIPTION">
-			<Text>Pay half the usual cost to levy city-state units.</Text>
+			<Text>Giảm nửa chi phí tuyển quân mua lính của thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRAGUE_NAME">
-			<Text>Prague Suzerain Bonus</Text>
+			<Text>Thưởng cho chủ Prague</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRAGUE_DESCRIPTION">
-			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type (both [ICON_GreatWriter] Great Writer and [ICON_GreatArtist] Great Artist points for Theater Square districts).</Text>
+			<Text>Các đặc khu của bạn +1 điểm [ICON_GreatPerson] Vĩ nhân cho từng loại tương ứng (cả hai điểm [ICON_GreatWriter] Nhà văn vĩ đại và [ICON_GreatArtist] Họa sĩ vĩ đại cho Khu nghệ thuật).</Text>
 		</Row>
 		<!-- Scenario-specific barbarian tribes-->
 		<Row Tag="LOC_BARBARIAN_CAVALRY_1">
-			<Text>Tatars</Text>
+			<Text>Kỵ binh Tatars</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_CAVALRY_2">
-			<Text>Golden Horde</Text>
+			<Text>Kỵ binh Hãn quốc Kim Trướng</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_CAVALRY_3">
-			<Text>Crimean Khanata</Text>
+			<Text>Kỵ binh Hãn quốc Krym</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_COSSACKS_1">
-			<Text>Cossacks</Text>
+			<Text>Lính Cossack</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_COSSACKS_2">
-			<Text>Cossack Hetmanate</Text>
+			<Text>Lính Cossack Hetmanate</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_KNIGHTS_1">
-			<Text>Teutonic Knights</Text>
+			<Text>Hiệp sĩ Teutonic</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_KNIGHTS_2">
-			<Text>Teutonic Order</Text>
+			<Text>Binh đoàn Teutonic</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_KNIGHTS_3">
-			<Text>Livonian Order</Text>
+			<Text>Binh đoàn Livonian</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_MOLDAVA_1">
 			<Text>Moldavians</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_MOLDAVA_2">
-			<Text>Principality of Moldavia</Text>
+			<Text>Công quốc Moldavia</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_OTTOMAN_1">
 			<Text>Ottomans</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_OTTOMAN_2">
-			<Text>Ottoman Empire</Text>
+			<Text>Đế quốc Ottoman</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_RUS_1">
-			<Text>Rus</Text>
+			<Text>Nga</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_RUS_2">
-			<Text>Grand Duchy of Moscow</Text>
+			<Text>Đại công quốc Moscow</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_RUS_3">
-			<Text>Novgorod Republic</Text>
+			<Text>Cộng hòa Novgorod</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_RUS_4">
-			<Text>Tsardom of Russia</Text>
+			<Text>Nga Sa hoàng</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_SWEDES_1">
-			<Text>Swedes</Text>
+			<Text>Thụy Điển</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIAN_SWEDES_2">
-			<Text>Swedish Empire</Text>
+			<Text>Đế quốc Thụy Điển</Text>
 		</Row>
 		<!-- Scenario-specific religion-->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_NAME">
-			<Text>God of the Thunderclap</Text>
+			<Text>Thần sét</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_DESCRIPTION">
-			<Text>+25% [ICON_Production] Production toward Medieval and Renaissance military units.</Text>
+			<Text>+25% [ICON_Production] Sản phẩm đối với đơn vị quân đội thời Trung Cổ và Phục Hưng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ORTHODOX_CHURCH_NAME">
-			<Text>Orthodox Church</Text>
+			<Text>Giáo đường Chính Thống</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORTHODOX_CHURCH_NAME">
-			<Text>Orthodox Church</Text>
+			<Text>Giáo đường Chính Thống</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORTHODOX_CHURCH_DESCRIPTION">
-			<Text>Allows construction of Orthodox Churches (+3 [ICON_Faith] Faith, +2 [ICON_Food] Food).</Text>
+			<Text>Cho phép xây Giáo đường Chính Thống (+3 [ICON_Faith] Đức tin, +2 [ICON_Food] Thực phẩm).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCENARIO_CATHEDRAL_DESCRIPTION">
-			<Text>Allows construction of Cathedrals (+3 [ICON_Faith] Faith, +1 [ICON_Housing] Housing).</Text>
+			<Text>Cho phép xây Thánh đường (+3 [ICON_Faith] Đức tin, +1 [ICON_Housing] Nhà ở).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
-			<Text>Allows construction of Mosques (+5 [ICON_Faith] Faith).</Text>
+			<Text>Cho phép xây Nhà thờ Hồi giáo (+5 [ICON_Faith] Đức tin).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INNER_PEACE_NAME">
-			<Text>Inner Peace</Text>
+			<Text>Tĩnh tâm</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCENARIO_TITHE_DESCRIPTION">
-			<Text>+1% [ICON_Gold] Gold for each follower.</Text>
+			<Text>+1% [ICON_Gold] Vàng cho mỗi tín đồ.</Text>
 		</Row>
 		<!-- Scenario-specific units-->
 		<Row Tag="LOC_UNIT_JANISSARY_NAME">
 			<Text>Janissary</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_JANISSARY_DESCRIPTION">
-			<Text>Renaissance era melee unit for the Ottomans. Heals when destroying an enemy unit.</Text>
+			<Text>Lính cận chiến thời Phục hưng của Ottomans. Hồi sức mỗi khi tiêu diệt kẻ địch.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HORSE_ARCHER_NAME">
-			<Text>Horse Archer</Text>
+			<Text>Tiễn mã</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION">
-			<Text>Medieval era horseback archer for the Tatars.</Text>
+			<Text>Tiễn mã thời Trung Cổ của Tatars.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME">
-			<Text>Teutonic Knight</Text>
+			<Text>Hiệp sĩ Teutonic</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION">
-			<Text>Hard-hitting, Medieval era heavy cavalry unit for the Teutonic Order.</Text>
+			<Text>Cứng cáp, đơn vị kỵ binh hạng nặng thời Trung Cổ của Binh đoàn Teutonic.</Text>
 		</Row>
 		<!-- Scenario-specific Great People-->
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_NAME">
@@ -400,34 +400,34 @@
 		</Row>
 		<!-- Scenario-specific Great Works-->
     <Row Tag="LOC_GREATWORK_SAMOSTRZELNIK_1_NAME">
-      <Text>Portrait of Piotr Tomicki</Text>
+      <Text>Chân dung Piotr Tomicki</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_SAMOSTRZELNIK_2_NAME">
-      <Text>Saint Stanislaus</Text>
+      <Text>Thánh Stanislaus</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_SAMOSTRZELNIK_3_NAME">
-      <Text>Prayer Book of Sigismund I</Text>
+      <Text>Kinh thánh Sigismund I</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_KOBER_1_NAME">
-      <Text>Portrait of Anna Maria Vasa</Text>
+      <Text>Chân dung Anna Maria Vasa</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_KOBER_2_NAME">
-      <Text>King Sigismund III</Text>
+      <Text>Vua Sigismund III</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_KOBER_3_NAME">
-      <Text>Portrait of Queen Anna Jagiellon</Text>
+      <Text>Chân dung Nữ hoàng Anna Jagiellon</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_SKARGA_1_NAME">
-      <Text>The Lives of the Saints</Text>
+      <Text>Cuộc sống của các vị thánh</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_SKARGA_2_NAME">
-      <Text>Sejm Sermons</Text>
+      <Text>Sejm giảng đạo</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_KOCHANOWSKI_1_NAME">
-      <Text>The Dismissal of the Greek Envoys</Text>
+      <Text>Bãi bỏ phái đoàn Hy Lạp</Text>
     </Row>
     <Row Tag="LOC_GREATWORK_KOCHANOWSKI_2_NAME">
-      <Text>Threnodies</Text>
+      <Text>Bài điếu ca</Text>
     </Row>
 	</BaseGameText>
 </GameData>
