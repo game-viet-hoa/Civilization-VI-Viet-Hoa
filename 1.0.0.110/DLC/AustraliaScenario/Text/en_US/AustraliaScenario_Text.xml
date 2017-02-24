@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_PALACE_NAME">
+			<Text>Government House</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+			<Text>Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district.</Text>
+		</Row>
+		<!-- City-Names-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WARWICK">
+			<Text>Warwick</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GYMPIE">
+			<Text>Gympie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TOODYAY">
+			<Text>Toodyay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ALBANY">
+			<Text>Albany</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GERALDTON">
+			<Text>Geraldton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BUNBURY">
+			<Text>Bunbury</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GUILDFORD">
+			<Text>Guildford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CASTLEMAINE">
+			<Text>Castlemaine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BEECHWORTH">
+			<Text>Beechworth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PORT_FAIRY">
+			<Text>Port Fairy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MOUNT_GAMBIER">
+			<Text>Mount Gambier</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MOONTA">
+			<Text>Moonta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WALLAROO">
+			<Text>Wallaroo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PORT_AUGUSTA">
+			<Text>Port Augusta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NARACOORTE">
+			<Text>Naracoorte</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GAWLER">
+			<Text>Gawler</Text>
+		</Row>
+		<!-- City State-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_NAME">
+			<Text>New South Wales</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_DESCRIPTION">
+			<Text>State of New South Wales</Text>
+		</Row>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_NAME">
+			<Text>Penal Colony</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_NAME">
+			<Text>Gold Rush</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_NAME">
+			<Text>Crown Colony</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_SHEEP_REARING_NAME">
+			<Text>Sheep Rearing</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_NAME">
+			<Text>Pastoral Leases</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_NAME">
+			<Text>Federation</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_NAME">
+			<Text>The Great War</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_NAME">
+			<Text>Aerial Services</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_NAME">
+			<Text>World War II</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CRUISE_LINES_NAME">
+			<Text>Passenger Liners</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_DESCRIPTION">
+			<Text>Receive a free Settler in your capital upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_DESCRIPTION">
+			<Text>Receive 2 free Settlers in your capital upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_DESCRIPTION">
+			<Text>Receive a free Settler in your capital upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_DESCRIPTION">
+			<Text>Receive a free Settler in your capital upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_DESCRIPTION">
+			<Text>Receive a free Settler in your capital upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION">
+			<Text>Allows the building of National Parks. Allows units to plant Woods (second-growth). Woods in your territory that have never been removed (old-growth) gain +1 Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_DESCRIPTION">
+			<Text>Receive a free Settler in your capital upon completion.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
+			<Text>Outback Stations receive +1 [ICON_Food] Food for every two adjacent Outback Stations.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Can be completed multiple times, but in this scenario it does NOT increase your points towards the Score Victory.</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_NAME">
+			<Text>Outback Annexation</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_DESCRIPTION">
+			<Text>Completing any district causes a Culture Bomb.</Text>
+		</Row>
+		<!-- Continent Names -->
+		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_HOLLAND_DESCRIPTION">
+			<Text>New Holland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_SOUTH_WALES_DESCRIPTION">
+			<Text>New South Wales</Text>
+		</Row>
+		<!-- Government Names -->
+		<Row Tag="LOC_GOVERNMENT_PENAL_SETTLEMENT_NAME">
+			<Text>Penal Settlement</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_COLONIAL_GOVERNMENT_NAME">
+			<Text>Colonial Government</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_STATE_GOVERNMENT_NAME">
+			<Text>State Government</Text>
+		</Row>
+		<!-- Districts-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_AERODROME_DESCRIPTION">
+			<Text>Cannot be built on Hills.</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+			<Text>Unlocks the Prospector ability to construct Mines.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. +2 [ICON_Gold] Gold. -1 Appeal. Can only be built on Hills or certain resources.[NEWLINE][NEWLINE]If built on Luxury or Strategic resources, city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+			<Text>Unlocks the Grazier ability to construct Pastures.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. +1 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_CATTLE] Cattle, [ICON_RESOURCE_SHEEP] Sheep, or [ICON_RESOURCE_HORSES] Horse resources.[NEWLINE][NEWLINE]If built on a [ICON_RESOURCE_HORSES] Horse resource, the city will gain use of that resource.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_OUTBACK_STATION_DESCRIPTION">
+			<Text>Unlocks the Grazier ability to construct an Outback Station.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_Gold] Gold and +1 [ICON_PRODUCTION] Production. +1 [ICON_Food] Food for each adjacent Pasture. Additional [ICON_FOOD] Food and [ICON_PRODUCTION] Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_BEACH_RESORT_DESCRIPTION">
+			<Text>Unlocks the Naturalist ability to construct Seaside Resorts.[NEWLINE][NEWLINE]Provides [ICON_Gold] equal to the tile's Appeal. Can only be built on Coastal Desert, Coastal Plains, or Coastal Grassland tiles. Minimum Appeal of Breathtaking.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+			<Text>Unlocks the Farmer ability to construct Plantations.[NEWLINE][NEWLINE]+1 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_BANANAS] Bananas, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COTTON] Cotton, [ICON_RESOURCE_SUGAR] Sugar, [ICON_RESOURCE_TEA] Tea, or [ICON_RESOURCE_WINE] Wine resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_KAKADU_NAME">
+			<Text>Kakadu</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PINNACLES_NAME">
+			<Text>Pinnacles</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION">
+			<Text>One tile impassable natural wonder. Provides +2 [ICON_CULTURE] Culture and +2 [ICON_Gold] Gold to adjacent tiles. Provides +4 Appeal to adjacent tiles instead of the usual +2.</Text>
+		</Row>
+		<!--Resources-->
+		<Row Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">
+			<Text>Gold Ore</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_LAND_GRANTS_NAME">
+			<Text>Land Grants</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIRST_FLEET_NAME">
+			<Text>First Fleet</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REWARDS_OFFERED_NAME">
+			<Text>Rewards Offered</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TERRA_NULLIUS_NAME">
+			<Text>Terra Nullius</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_NAME">
+			<Text>Colonial Architects</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_NAME">
+			<Text>Parramatta Road</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_NAME">
+			<Text>Ticket of Leave</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_NAME">
+			<Text>Mounted Stockmen</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_NAME">
+			<Text>Trans-Australian Railway</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_NAME">
+			<Text>Hard Tack</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GALLIPOLLI_NAME">
+			<Text>Gallipoli</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_NAME">
+			<Text>School of the Air</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLYING_DOCTORS_NAME">
+			<Text>Flying Doctors</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_NAME">
+			<Text>War Materiel</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVASION_THREAT_NAME">
+			<Text>Invasion Threat</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_NAME">
+			<Text>Prawn Peddling</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARK_RANGERS_NAME">
+			<Text>Park Rangers</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAND_GRANTS_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Farmers.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIRST_FLEET_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Fishers.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REWARDS_OFFERED_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Prospectors.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TERRA_NULLIUS_DESCRIPTION">
+			<Text>Newly trained Farmers gain 2 extra build actions.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production in all cities.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_DESCRIPTION">
+			<Text>+1 [ICON_Food] Food and +1 [ICON_Production] Production from domestic [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production toward Graziers.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_DESCRIPTION">
+			<Text>Newly trained Graziers gain 2 extra build actions.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_DESCRIPTION">
+			<Text>+6 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold from Farm and Plantation improvements.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GALLIPOLLI_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward AIF projects.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold from all Quarries and Mine improvements on Luxury resources.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLYING_DOCTORS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold from Pasture and Outback Station improvements.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Gold from Mine improvements on Strategic resources.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVASION_THREAT_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production toward AIF projects.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold from Fishing Boat improvements.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARK_RANGERS_DESCRIPTION">
+			<Text>All tiles in your civilization gain +2 Appeal. -1 [ICON_GOLD] Gold from Mine improvements.</Text>
+		</Row>
+		<!-- Technologies-->
+		<Row Tag="LOC_TECH_IRRIGATION_SCENARIO_DESCRIPTION">
+			<Text>Farm improvements now gain +1 [ICON_Food] Food for each adjacent Farm improvement when 3 Farm improvements are adjacent to each other.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_DESCRIPTION">
+			<Text>Allows chopping of Woods and Rainforest. Your units gain a better chance of surviving in the Outback and map more territory if they receive beneficial events in the Outback.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_ABILITY_DESCRIPTION">
+			<Text>Your units gain a better chance of surviving in the Outback and map more territory if they receive beneficial events in the Outback.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_SCENARIO_DESCRIPTION">
+			<Text>Allows harvesting of [ICON_RESOURCE_STONE] Stone.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_SCENARIO_DESCRIPTION">
+			<Text>Upgrades Farm improvements to Mechanized Agriculture. +1 [ICON_Food] Food Adjacency bonus for every Farm improvement they are adjacent to.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_SCENARIO_DESCRIPTION">
+			<Text>Outback Stations receive +1 [ICON_Production] Production for every two adjacent Outback Stations. Pastures receive +1 [ICON_PRODUCTION] for every adjacent Outback Station.</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_UNIT_EXPLORER_NAME">
+			<Text>Explorer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PROSPECTOR_NAME">
+			<Text>Prospector</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRAZIER_NAME">
+			<Text>Grazier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FARMER_NAME">
+			<Text>Farmer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FISHER_NAME">
+			<Text>Fisher</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
+			<Text>Fast moving recon unit.  Civilian unit that cannot attack in this scenario.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PROSPECTOR_DESCRIPTION">
+			<Text>May create Mine, Quarry, Oil Well and Airstrip tile improvements. Prospectors can be used 3 times.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRAZIER_DESCRIPTION">
+			<Text>May create Pasture and Outback Station tile improvements. Graziers can be used 3 times. This can be increased through the Mounted Stockmen policy.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FARMER_DESCRIPTION">
+			<Text>May create Farm, Plantation and Lumber Mill tile improvements. Farmers can be used 3 times. This can be increased through the Terra Nullius policy.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FISHER_DESCRIPTION">
+			<Text>May create Fishing Boat tile improvements. Fishers can be used 3 times.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>May create new cities. Settlers are only received in this scenario by completing Civics.  They can never be built.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_NATURALIST_DESCRIPTION">
+			<Text>A late-game civilian who can create either a single Seaside Resort or a single National Park to increase [ICON_Gold] Gold per [ICON_Turn] Turn. Removed from play after Seaside Resort or National Park is created.</Text>
+		</Row>
+		<!-- Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GOLD_RUSH">
+			<Text>Reveal 1 [ICON_RESOURCE_GOLD] Gold Ore resource.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CROWN_COLONY">
+			<Text>Have a [ICON_GOLD] Gold per [ICON_Turn] Turn of 15.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHEEP_REARING">
+			<Text>Reveal 3 [ICON_RESOURCE_SHEEP] Sheep resources.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY">
+			<Text>Grow your civilization to at least 12 population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES">
+			<Text>Build 3 Pastures.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEDERATION">
+			<Text>Have a [ICON_GOLD] Gold per [ICON_Turn] Turn of 30.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION">
+			<Text>Grow a city to 10 population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION">
+			<Text>Find a natural wonder.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_WAR">
+			<Text>Progress to [ICON_Turn] Turn 45.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_AERIAL_SERVICES">
+			<Text>Build an Airstrip.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_WORLD_WAR_II">
+			<Text>Progress to [ICON_Turn] Turn 53.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CRUISE_LINES">
+			<Text>Create a National Park.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GOLD_RUSH">
+			<Text>Gold fever is upon us! Fortune hunters from every continent rush to Australia to try and strike it rich.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CROWN_COLONY">
+			<Text>The profits are starting to build. The Queen will soon establish your lands as a proper crown colony.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHEEP_REARING">
+			<Text>With so much open space in this land, raising sheep seems like a winning proposition.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_DRAMA_POETRY">
+			<Text>With so many citizens, some are finding time to explore the arts.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PASTORAL_LEASES">
+			<Text>Your tidy profit from pastures is attracting government interest. They may soon lease out crown lands.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FEDERATION">
+			<Text>As you prosper, native-born Australians clamor for their own nation, independent from Britian.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_URBANIZATION">
+			<Text>Your large city is getting overcrowded. It's time to start planning for some suburbs.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CONSERVATION">
+			<Text>The natural beauty of this land is unmatched and must be preserved for future generations.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_WAR">
+			<Text>The Great Powers have been drawn into a bloody conflict. Time to rally to the Mother Country!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_AERIAL_SERVICES">
+			<Text>Aircraft have come to Australia. Surely they are just the ticket to service the vast Outback?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_WORLD_WAR_II">
+			<Text>The forces of fascism have risen in Germany and Japan. Could even Australia itself be at risk?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CRUISE_LINES">
+			<Text>Your new national park could become a major destination for the new, ocean-going passenger liners. </Text>
+		</Row>
+		<!-- Tech Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION">
+			<Text>Grow a city to 6 population.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+			<Text>Maintain 2 [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_INDUSTRIALIZATION">
+			<Text>Build 3 Mines.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>Build 2 Quarries.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>Build 2 Libraries.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ECONOMICS">
+			<Text>Build 2 Markets.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ELECTRICITY">
+			<Text>Build 2 Workshops.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FLIGHT">
+			<Text>Have the The Great War civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMBUSTION">
+			<Text>Have the World War II civic.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RADIO">
+			<Text>Build a Research Lab.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Build a Hangar</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EDUCATION">
+			<Text>Your new urban center is a prime spot for a center of learning featuring a library and university.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_BANKING">
+			<Text>Your lucrative trade network has given us capital to spare. Setting up banks now could fuel further investments.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_INDUSTRIALIZATION">
+			<Text>With numerous mines active, the materials for progress are at hand. Is an Industrial Revolution about to begin?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
+			<Text>The stone from your quarries now give us the foundation for great works of engineering.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>With two libraries active, your scientific community is off and running.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ECONOMICS">
+			<Text>Your commercial successes have encouraged many to make investments in your economy.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ELECTRICITY">
+			<Text>Your industrial production is impressive but could advance further with the introduction of electric power.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FLIGHT">
+			<Text>Australian aviators have returned from the war with stories of their flights over the trenches of Europe.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_COMBUSTION">
+			<Text>With the Japanese empire expanding, competition for Pacific oil resources is growing fierce.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RADIO">
+			<Text>Finishing a modern research facility will let you keep up with the most recent advances in communications.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ADVANCED_FLIGHT">
+			<Text>With an aerodrome and hangar in place, you are ready to begin work on a modern airport.</Text>
+		</Row>
+		<!-- Projects-->
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION">
+			<Text>The Australian Imperial Force (AIF) project recruits troops for overseas deployment during the World Wars. Completing it in a city provides a large boost to that city's [ICON_Gold] Gold per [ICON_Turn] Turn.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_NAME">
+			<Text>AIF Training</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_SHORT_NAME">
+			<Text>AIF Training</Text>
+		</Row>
+		<!-- Scoring-->
+		<Row Tag="LOC_CATEGORY_INCOME_NAME">
+			<Text>Income ([ICON_Gold] Gold per [ICON_Turn] Turn)</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_DIFFICULTY">
+			<Text>Difficulty: {1_DifficultyName}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_CURRENT_GAME_DIFFICULTY">
+			<Text>Current game: {1_Difficulty}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_SINGLE_PLAYER_SCORE">
+			<Text>Required Score for Victory: {1_Score}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TITLE">
+			<Text>THE OUTBACK</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_EFFECTS">
+			<Text>All land tiles not controlled by a player are considered to be a part of the Australian Outback, a dangerous abode plagued by  poisonous plants and animals and home to one of the harshest climates on the planet. Any unit that ends a turn in an Outback tile may experience a special Outback encounter. Although many of these events cause damage or delays, there are a select few that will help your exploring unit gain unique bonuses. In general though you'll want to limit the time your units spend out in such an untamed wilderness.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TOOLTIP">
+			<Text>Outback</Text>
+		</Row>
+	</EnglishText>
+</GameData>

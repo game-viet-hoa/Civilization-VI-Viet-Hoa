@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Cho phép thu hoạch [ICON_RESOURCE_WHEAT] Lúa mì và [ICON_RESOURCE_RICE] Gạo.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>Cho phép thu hoạch [ICON_RESOURCE_CATTLE] Gia súc và [ICON_RESOURCE_SHEEP] Cừu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Cho phép chặt Rừng và thu hoạch [ICON_RESOURCE_Copper] Đồng.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>Thợ Xây lên được tàu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Cho phép loại bỏ đầm lầy.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>Cho phép thu hoạch [ICON_RESOURCE_STONE] Đá.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Cho phép chặt rừng nhiệt đới. Mở khóa [ICON_RESOURCE_IRON] Sắt.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Cho phép tất cả đơn vị mặt đất lên được tàu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Thương nhân lên được tàu, cho phép thu hoạch [ICON_RESOURCE_FISH] Cá.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm cho công trình Mỏ.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Tăng [ICON_Culture] Văn minh cho công trình Vạn lý trường thành liền kề. Có thể đào tạo Gián điệp nếu chơi Catherine de Medici.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng từ công trình Thuyền đánh cá. Tất cả tàu hải quân và đơn vị lên tàu có thể đi lại tự do trên biển. +1 [ICON_Movement] Di chuyển cho đơn vị lên tàu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng từ công trình Mỏ đá.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Cung cấp thêm một tầm nhìn ngoại giao của tất cả nền văn minh khác. Tất cả [ICON_Tourism] Du lịch từ [ICON_GreatWork_Writing] Tác phẩm văn học được x2.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm cho công trình Mỏ.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Cho phép hoạt động Hiệp ước nghiên cứu. +1 [ICON_Food] Thực phẩm cho công trình Đồn Điền.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Giếng bậc thang nhận +1 [ICON_Housing] Nhà ở.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Di chuyển cho đơn vị lên tàu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Thưởng [ICON_Tourism] Du lịch cho tất cả công trình cung cấp [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Nâng cấp công trình Nông Trại thành Nông nghiệp máy móc. +1 [ICON_Food] Thực phẩm cho mỗi ô liền kề Nông Trại.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ công trình Xưởng gỗ.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển cho đơn vị lên tàu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ công trình Mỏ đá.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm cho Thuyền đánh cá.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Thêm khả năng đào tạo gián điệp. Tất cả [ICON_Tourism] Du lịch được x2.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng cho Trại.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm cho Bãi Chăn.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Có thể hoàn thành nhiều lần, giúp tăng điểm đối với Chiến Thắng Điểm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Dựng thành phố cạnh bờ biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Tìm thấy kì quan thiên nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Canh tác một nguồn tài nguyên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Giết một đơn vị bằng Bắn ná.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Gặp nền văn minh khác.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Xây Mỏ đá.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>Giết 3 quân man di.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Đào một nguồn tài nguyên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>Khai thác 2 tài nguyên biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>Tạo [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Xây Bãi Chăn.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Xây Mỏ Sắt.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>Sở hữu 2 Thuyền buồm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>Xây 3 Đặc Khu khác nhau.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Xây Cối xay nước.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Xây Tường xa xưa.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Giết một đơn vị bằng Lính giáo.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>Xây 3 Mỏ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Có Hành chính Chế độ phong kiến.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>Sở hữu 3 Cung tên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Kiếm được Nhà khoa học vĩ đại.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Xây Khu thủy lợi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Có một chính phủ với 6 ô chính sách.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>Xây 2 Khu cảng biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Xây Xưởng gỗ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Có Hành Chính Thương Đoàn.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Xây Kho vũ khí.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>Xây 2 Trường đại học.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Giết một đơn vị bằng Lính Hỏa Mai.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Xây Trường đại học gần núi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>Sở hữu 2 Nỏ tên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>Sở hữu 2 Đại Pháo.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>Xây 3 Xưởng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Có Hành chính Sự Giác Ngộ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Có 2 Pháo đài trong lãnh thổ. Cả hai được xây dựng bởi Kỹ Sư Quân Đội.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Giết một đơn vị bằng Hiệp sĩ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>Xây 2 Xưởng đóng tàu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>Xây 2 Vùng ngoại ô.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>Xây 2 Ngân hàng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Xây Mỏ Diêm Tiêu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Xây kỳ quan từ thời đại Công nghiệp trở đi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>Có 3 Lính Hỏa Mai.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Xây Mỏ than đá.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>Có 3 Tàu cướp biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Xây công viên quốc gia.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Hoàn thành Hiệp ước nghiên cứu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Lấy được một Cổ vật.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>Xây 3 Máy bay hai tầng cánh.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Xây 2 Nhà máy điện.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Xây Đường băng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Xây Giếng dầu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Có chính phủ với 8 ô chính sách.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>Xây 2 Khu hàng không.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>Xây 2 Đài phát thanh.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Giết một Chiến đấu cơ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>Có 3 Xe Tăng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Có Hành chính Toàn cầu hóa.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Xây Mỏ Nhôm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Thúc đẩy thông qua Nhà khoa học vĩ đại hoặc Gián điệp.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Dựng thành phố cạnh bờ biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Tìm thấy kì quan thiên nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Canh tác một nguồn tài nguyên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Giết một đơn vị Bắn ná.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Gặp nền văn minh khác.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Xây mỏ đá.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Giết 3 quân man di.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Đào một nguồn tài nguyên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Khai thác 2 tài nguyên biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Tạo [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Xây Bãi Chăn.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Xây Mỏ Sắt.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Sở hữu 2 Thuyền buồm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Xây 3 Đặc Khu khác nhau.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Xây Cối xay nước.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Xây Tường xa xưa.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Giết một đơn vị bằng Lính giáo.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Xây 3 Mỏ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>Có Hành chính Chế độ phong kiến.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Sở hữu 3 Cung tên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Kiếm được Nhà khoa học vĩ đại.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Xây Khu thủy lợi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Có một chính phủ với 6 ô chính sách.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>Xây 2 Khu cảng biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Xây Xưởng gỗ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Có Hành Chính Thương Đoàn.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Xây Kho vũ khí.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Xây 2 Trường đại học.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>Giết một đơn vị bằng Lính Hỏa Mai.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Xây Trường đại học gần núi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Sở hữu 2 Nỏ tên.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>Sở hữu 2 Đại Pháo.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>Xây 3 Xưởng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>Có Hành chính Sự Giác Ngộ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Có 2 Pháo đài trong lãnh thổ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Giết một đơn vị với Hiệp sĩ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Xây 2 Xưởng đóng tàu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>Xây 2 Vùng ngoại ô.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>Xây 2 Ngân hàng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Xây Mỏ Diêm Tiêu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Xây kỳ quan từ thời đại Công nghiệp trở đi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Có 3 Lính Hỏa Mai.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Xây Mỏ than đá.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Có 3 Tàu cướp biển.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Xây công viên quốc gia.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Hoàn thành Hiệp ước nghiên cứu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Lấy được một Cổ vật.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Xây 3 Máy bay hai tầng cánh.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Xây 2 Nhà máy điện.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Xây Đường băng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Xây Giếng dầu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Có chính phủ với 8 ô chính sách.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>Xây 2 Khu hàng không.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>Xây 2 Đài phát thanh.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Giết một Chiến đấu cơ.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Có 3 Xe Tăng.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Có Hành chính Toàn cầu hóa.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Xây Mỏ Nhôm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>A team member has shared their research notes for a recently acquired technology. Their innovation will improve our own progress dramatically.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

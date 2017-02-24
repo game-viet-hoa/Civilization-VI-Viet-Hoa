@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BaseGameText>
+    <!-- Main menu text -->
+    <Row Tag="LOC_BENCHMARK_GRAPHICS">
+      <Text>Graphics Benchmark</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI">
+      <Text>AI Benchmark</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_GRAPHICS_TT">
+      <Text>Measure graphics performance on your computer</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI_TT">
+      <Text>Measure AI and turn-processing performance on your computer</Text>
+    </Row>
+
+    <!-- Benchmarking UI text -->
+    <Row Tag="LOC_BENCHMARK_TIME">
+      <Text>Time:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_TURN">
+      <Text>Turn:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+      <Text>Average Turn Time:</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

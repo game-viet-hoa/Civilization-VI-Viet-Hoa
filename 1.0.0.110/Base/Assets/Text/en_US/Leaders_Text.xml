@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Leader Names-->
+		<Row Tag="LOC_REPRESENTATIVE">
+			<Text>đại diện</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text>Frederick Barbarossa</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>Catherine de Medici</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>Cleopatra</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GANDHI_NAME">
+			<Text>Gandhi</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Gilgamesh</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Gorgo</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Harald Hardrada</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Hojo Tokimune</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Mvemba a Nzinga</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>Pedro II</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>Philip II</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_QIN_NAME">
+			<Text>Tần Thủy Hoàng</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Saladin</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Tomyris</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Trajan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Teddy Roosevelt</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Victoria</Text>
+		</Row>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+			<Text>Đồng minh của Enkidu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+			<Text>Triều đại Ayybubid</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+			<Text>Căm ghét bị chơi xấu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+			<Text>Chính sách phô trương thế lực</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+			<Text>Hoàng hậu đen</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BUSHIDO_NAME">
+			<Text>Võ sĩ đạo</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+			<Text>Đồng minh thành phố tự trị</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+			<Text>Người chống cải giáo</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+			<Text>Liên minh Delian</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+			<Text>Giáo Đồ Nhiệt Huyết</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+			<Text>Người bảo hộ nghệ thuật</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Vương miện sắt</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+			<Text>Vua Viking cuối cùng</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+			<Text>Hoàng tử Optimus</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PARANOID_NAME">
+			<Text>Hoang tưởng</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+			<Text>Người gìn giữ hòa bình</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+			<Text>Hoàng hậu sông Nile</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+			<Text>Mặt trời không bao giờ lặn</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TLATOANI_NAME">
+			<Text>Nhà vua</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WESTERNIZER_NAME">
+			<Text>Phương Tây hóa</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+			<Text>Chết Vinh Hơn Sống Nhục</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+			<Text>Vạn Lý Trường Thành</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AIRPOWER_NAME">
+			<Text>Không lực</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+			<Text>Đồng minh man di</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+			<Text>Người bảo vệ thành phố tự trị</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CIVILIZED_NAME">
+			<Text>Văn minh</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CULTURED_NAME">
+			<Text>Có giáo dục</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DARWINIST_NAME">
+			<Text>Người theo thuyết tiến hóa</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DEVOUT_NAME">
+			<Text>Sùng đạo</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+			<Text>Nhà môi trường học</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+			<Text>Bóc lột</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLORER_NAME">
+			<Text>Nhà thám hiểm</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FUN_LOVING_NAME">
+			<Text>Lạc Quan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+			<Text>Vĩ Nhân Biện Hộ</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+			<Text>Cuồng tín</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+			<Text>Công nghiệp nặng</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+			<Text>Kẻ hám tiền</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NATURALIST_NAME">
+			<Text>Chuyên gia môi trường</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+			<Text>Thả bom nguyên tử</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_POPULOUS_NAME">
+			<Text>Đông dân</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+			<Text>Đội quân bất khuất</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+			<Text>Người yêu công nghệ</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+			<Text>Say đắm Kỳ quan</Text>
+		</Row>
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+			<Text>Thích những nền văn minh sẵn sàng thiết lập tình hữu nghị lâu dài. Không thích những ai lăng mạ hoặc tấn công bạn hoặc đồng minh của họ.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+			<Text>Muốn những công trình thờ phụng của anh ấy được xây ở nhiều thành phố, và thích những thành phố nào xây nó. Không thích những nền văn minh theo Tôn giáo khác, hoặc những nền văn minh gây chiến với những tín đồ của Tôn giáo anh ấy.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+			<Text>Thích những nền văn minh là tuyên bố bạn bè. Ghét những nền văn minh chơi đâm sau lưng và tuyên bố chiến tranh bất ngờ.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+			<Text>Thích những nền văn minh ôn hòa có thành phố nằm trên lục địa của anh ấy. Ghét những nền văn minh gây chiến chống lại những thành phố tự trị hoặc nền văn minh trên lục địa của anh ấy.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+			<Text>Tuyển thật nhiều Gián Điệp cũng như các truy cập ngoại giao nhất có thể. Không thích những nền văn minh không chấp nhận các hoạt động tình báo này.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+			<Text>Thích các nền văn minh mạnh về quân sự, [ICON_Faith] Đức Tin và [ICON_Culture] Văn minh. Không thích những nền văn minh mạnh về quân sự nhưng lại yếu về [ICON_Faith] Đức Tin và [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+			<Text>Thích những nền văn minh không tranh giành cùng một thành phố tự trị. Không thích những nền văn minh trực tiếp tranh giành chung một thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+			<Text>Thích những nền văn minh cùng Tôn Giáo, và muốn các thành phố của ông ấy đều theo Tôn Giáo đó. Ghét bất cứ ai cố gắng tuyên truyền Tôn Giáo của họ vào đế chế của ông ta.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+			<Text>Thích những nền văn minh không tranh giành cùng một thành phố tự trị. Không thích những nền văn minh trực tiếp tranh giành chung một thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+			<Text>Thích những nền văn minh mang Tôn Giáo đến Kongo. Không thích những nền văn minh đã sáng lập Tôn Giáo nhưng không mang đến thành phố của Kongo.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+			<Text>Thích những nền văn minh không tranh giành các Vĩ Nhân, và sẽ chiêu mộ Vĩ Nhân bất cứ lúc nào có thể. Không thích để mất Vĩ Nhân vào tay người khác.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+			<Text>Thích những nền văn minh không hợp tác với các thành phố tự trị. Không thích chủ của các thành phố tự trị, hoặc nền văn minh đánh chiếm các thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+			<Text>Xây dựng một lực lượng hải quân và tôn trọng các nền văn minh theo sự lãnh đạo của ông ta. Không thích nền văn minh có lực lượng hải quân yếu ớt.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+			<Text>Cố gắng chiếm càng nhiều lãnh thổ càng tốt trong đế chế của ông ta. Không thích nền văn minh có ít lãnh thổ.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+			<Text>Thích những nền văn minh không phải là mối hiểm họa. Không thích những nền văn minh có quân đội mạnh hoặc có thành phố lân cận.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+			<Text>Thích những nền văn minh có quân đội mạnh, và sẽ cố gắng đồng minh với họ để tránh xung đột quân sự. Không thích những nền văn minh có quân đội yếu.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+			<Text>Không bao giờ tuyên bố tham chiến những cuộc chiến mà hắn ta có thể bị xem là kẻ hiếu chiến, cố gắng làm bạn với những người gìn giữ hòa bình. Ghét những kẻ hiếu chiến.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+			<Text>Thích những nền văn minh từ lục địa quê hương của bà ấy, và muốn mở rộng ra tất cả lục địa. Không thích nền văn minh trên lục địa nơi mà Nước Anh không có thành phố ở đó.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+			<Text>Thích những nền văn minh có Tài nguyên quý giống hắn, và sẽ cố gắng thu thập nhiều Tài nguyên quý có sẵn. Không thích những nền văn minh có loại Tài nguyên quý mới mà hắn không có.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+			<Text>Thân thiện với những nền văn minh đi trước hắn về [ICON_Science] Khoa học và [ICON_Culture] Văn minh. Không thích những nền văn minh thiếu hụt về [ICON_Science] Khoa học và [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Không bao giờ trao đổi vật phẩm trong thương thuyết hòa bình, và thích những nền văn minh không làm như thế. Không thích những nền văn minh đầu hàng hoặc chưa bao giờ tham chiến.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+			<Text>Thích những nền văn minh không chạy đua xây dựng kỳ quan, và xây thật nhiều kỳ quan khi có thể. Không thích để lọt kỳ quan vào tay kẻ khác.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+			<Text>Cảm thông với lũ man di. Không thích những nền văn minh có tiêu diệt những tiền đồn của lũ man di.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+			<Text>Ghét lũ man di. Thích những nền văn minh dẹp tan tiền đồn của chúng. Không thích những nền văn minh bỏ mặc những tiền đồn của lũ man di.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+			<Text>Cố gắng phát triển [ICON_Culture] Văn minh, và thích những nền văn minh cũng chú trọng [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+			<Text>Thích những nền văn minh đang tại chiến, và tin vào sự bất ổn kéo dài.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+			<Text>Cố gắng làm cư dân tại mỗi thành phố hạnh phúc nhất có thể. Thích những nền văn minh làm điều tương tự.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+			<Text>Thích thúc đẩy công nghiệp, và thích những nền văn minh cũng chú trọng [ICON_Production] Sản phẩm.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+			<Text>Cố gắng có được nhiều [ICON_Gold] Vàng nhất có thể mỗi lượt. Tôn trọng những nền văn minh giàu có khác.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+			<Text>Cố gắng tìm hết tất cả những kỳ quan thiên nhiên. Thích những nền văn minh giữ gìn Rừng và Rừng nhiệt đới, và những nền văn minh xây dựng Công viên quốc gia.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+			<Text>Không ngần ngại sử dụng vũ khí hạt nhân. Tôn trọng những nền văn minh cho thấy sức mạnh vũ khí hạt nhân.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+			<Text>Cố gắng có dân số khủng nhất. Tôn trọng những nền văn minh khác có dân số cao.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+			<Text>Luôn cố gắng có quân số trên bản đồ lớn nhất. Tôn trọng những nền văn minh có quân đội hùng mạnh.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+			<Text>Cố gắng phát triển [ICON_Science] Khoa học, thích những nền văn minh cũng chú trọng [ICON_Science] Khoa học.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+			<Text>Cố gắng phát triển không lực. Ngưỡng mộ những nền văn minh có không lực mạnh. Không thích những nền văn minh có không lực yếu.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+			<Text>Nhấn mạnh bảo kê chiến tranh. Ngưỡng mộ những nền văn minh bắt đầu bảo kê chiến tranh. Không thích những nền văn minh tấn công Thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+			<Text>San bằng mọi thảm thực vật và cải thiện nhiều ô đất nhất có thể. Thích những nền văn minh có số lượng ô đất được cải thiện cao. Không thích những nền văn minh có số lượng ô đất được cải thiện thấp hoặc những nền văn minh xây dựng Công viên quốc gia.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+			<Text>Xây dựng Công viên quốc gia, không xóa bỏ thảm thực vật, rừng nhiệt đới. Thích những nền văn minh trồng cây gây rừng hoặc xây dựng Công viên quốc gia. Ghét những nền văn minh xóa bỏ thảm thực vật.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+			<Text>Ưa thích những nền văn minh có cùng kiểu chính phủ, không thích những nền văn minh có kiểu chính phủ khác, và rất ghét những nền văn minh có kiểu chính phủ khác trong cùng thời đại của hắn.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+			<Text>Cố gắng phát triển [ICON_Faith] Đức tin, và thích những nền văn minh cũng chú trọng phát triển [ICON_Faith] Đức tin.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+			<Text>Cố gắng khám phá bản đồ, và thích những nền văn minh khám phá ít hơn hắn và không thích những nền văn minh khám phá nhiều hơn hắn.</Text>
+		</Row>
+		<!-- City-State Traits-->
+		<Row Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+			<Text>1 [ICON_Envoy] Phái đoàn:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+			<Text>3 [ICON_Envoy] Phái đoàn:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+			<Text>6 [ICON_Envoy] Phái đoàn:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+			<Text>Thành phố tự trị khoa học</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Khoa học cho [ICON_Capital] Thủ Đô của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Khoa học cho mỗi Khu tri thức.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Thêm +2 [ICON_Science] Khoa học cho mỗi Khu tri thức.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+			<Text>Thành phố tự trị tôn giáo</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Đức Tin cho [ICON_Capital] Thủ Đô của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Đức Tin cho mỗi Thánh Địa.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Thêm +2 [ICON_Faith] Đức Tin cho mỗi Thánh Địa.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+			<Text>Thành phố tự trị thương mại</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Vàng cho mỗi Khu thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Thêm +4 [ICON_Gold] cho mỗi Khu thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+			<Text>Thành phố tự trị văn hóa</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Văn minh cho [ICON_Capital] Thủ Đô của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Văn minh cho mỗi khu nghệ thuật.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Thêm +2 [ICON_Culture] Văn minh cho mỗi khu nghệ thuật.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+			<Text>Thành phố tự trị quân đội</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản phẩm khi sản xuất đơn vị trong [ICON_Capital] Thủ Đô.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản phẩm cho mỗi đơn vị khi sản xuất trong khu quân sự.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Thêm +2 [ICON_Production] Sản phẩm cho mỗi đơn vị khi sản xuất trong khu quân sự.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+			<Text>Thành phố tự trị công nghiệp</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản phẩm khi sản xuất kỳ quan, kiến trúc, đặc khu bên trong [ICON_Capital] Thủ Đô.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản phẩm cho mỗi kỳ quan, kiến trúc, đặc khu sản xuất bên trong khu công nghiệp.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Thêm +2 [ICON_Production] Sản phẩm cho mỗi kỳ quan, kiến trúc, đặc khu sản xuất bên trong khu công nghiệp.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+			<Text>Thưởng cho chủ Amsterdam</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại nước ngoài +1 [ICON_Gold] Vàng cho mỗi tài nguyên quý tại đích đến.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+			<Text>Thưởng cho chủ</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+			<Text>Các thành phố nhận +15% [ICON_Production] Sản phẩm đối với kỳ quan.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+			<Text>Thưởng cho chủ Buenos Aires</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+			<Text>Tài nguyên thưởng đang có sẽ như tài nguyên quý cho 1 [ICON_Amenities] Tiện nghi mỗi loại.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+			<Text>Thưởng cho chủ Carthage</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Mỗi khu quân sự +1 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+			<Text>Thưởng cho chủ Geneva</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+			<Text>Các thành phố +15% [ICON_Science] Khoa học khi không có chiến tranh với bất kỳ nền văn minh nào.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+			<Text>Thưởng cho chủ Hattusa</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+			<Text>Cung cấp 1 trên mỗi tài nguyên chiến thuật được tìm thấy nhưng chưa có chủ sở hữu.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+			<Text>Thưởng cho chủ Hong Kong</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+			<Text>Các thành phố +20% [ICON_Production] Sản phẩm đối với các dự án thành phố.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+			<Text>Thưởng cho chủ Jakarta</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+			<Text>[ICON_TradingPost] Tuyến đường thương mại của bạn ở thành phố nước ngoài cung cấp +1 [ICON_Gold] Vàng cho các [ICON_TradeRoute] Tuyến đường thương mại đi qua nó.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+			<Text>Thưởng cho chủ Jerusalem</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+			<Text>Tự động Cải Giáo sang tôn giáo sáng lập, và tạo sức ép đối với tôn giáo nếu có Thành Phố Thánh.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+			<Text>Thưởng cho chủ Kabul</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+			<Text>Đơn vị của bạn x2 EXP từ trận chiến đầu tiên.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+			<Text>Thưởng cho chủ Kandy</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+			<Text>Nhận một [ICON_GreatWork_Relic] Di tích mỗi lần bạn khám phá ra kỳ quan thiên nhiên, và +50% [ICON_Faith] Đức Tin cho tất cả [ICON_GreatWork_Relic] Di tích.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+			<Text>Thưởng cho chủ Kumasi</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới thành phố tự trị bất kỳ +2 [ICON_Culture] Văn minh và +1 [ICON_Gold] Vàng cho mỗi Đặc Khu đặc biệt trong thành phố gốc.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+			<Text>Thưởng cho chủ La Venta</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+			<Text>Thợ xây có thể xây Đầu khổng lồ.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+			<Text>Thưởng cho chủ Lisbon</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+			<Text>Đơn vị thương gia miễn dịch với cướp biển.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+			<Text>Thưởng cho chủ Mohenjo-Daro</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+			<Text>Các thành phố có đầy đủ [ICON_Housing] Nhà ở từ nước, như là gần một dòng sông.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+			<Text>Thưởng cho chủ Nan Madol</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+			<Text>Đặc Khu trên hoặc cạnh bờ biển +2 [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+			<Text>Thưởng cho chủ Preslav</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Kỵ binh hạng nhẹ và hạng nặng +5 [ICON_Strength] Sức mạnh khi chiến đấu trên đồi.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+			<Text>Thưởng cho chủ Seoul</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+			<Text>Khi bước sang thời đại mới, thúc đẩy ngẫu nhiên 1 [ICON_TechBoosted] công nghệ của thời đại này.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+			<Text>Thưởng cho chủ Stockholm</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Các Đặc Khu +1 điểm [ICON_GreatPerson] Vĩ nhân cho mỗi loại ([ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại cho khu nghệ thuật).</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+			<Text>Thưởng cho chủ Toronto</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+			<Text>Các hiệu ứng từ khu vực trong Khu Công Nghiệp và Khu Giải Trí tăng xa hơn 3 ô.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+			<Text>Thưởng cho chủ Valletta</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+			<Text>Kiến trúc thành phố trung tâm và khu quân sự có thể mua bằng [ICON_Faith] Đức Tin. Chi phí mua tường xa xưa, cổ đại, trung cổ và phục hưng giảm, nhưng chỉ có thể mua bằng [ICON_Faith] Đức Tin.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+			<Text>Thưởng cho chủ Vilnius</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Khi bước sang thời đại mới, thúc đẩy ngẫu nhiên 1 [ICON_CivicBoosted] Hành chính.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+			<Text>Thưởng cho chủ Yerevan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+			<Text>Các đơn vị Tông Đồ của bạn có thể chọn loại huân chương bất kỳ thay vì nhận một huân chương ngẫu nhiên.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+			<Text>Thưởng cho chủ Zanzibar</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+			<Text>Nhận [ICON_RESOURCE_CINNAMON] Quế và [ICON_RESOURCE_CLOVES] Đinh hương. Chúng không thể kiếm được bằng bất kỳ cách nào khác, và cung cấp 6 [ICON_Amenities] Tiện nghi.</Text>
+		</Row>
+		<!--Leader Trait Names-->
+		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Hẻm núi Thermopylae</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Cuộc phiêu lưu của Enkidu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>Nàng dâu của Địa Trung Hải</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>Gió Thánh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>Thánh Địa El Escorial</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>Tòa đại sứ quán</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text>Đế chế Roman thần thánh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Thái Bình Anh Quốc</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>Công Lý của Đức Tin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Cải giáo Tôn Giáo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Hệ Luận Roosevelt</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+			<Text>Khẳng định sự thật</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Lưỡi sét từ phương Bắc</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>Hoàng Đế đầu tiên</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>Phi Đội của Catherine</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Cột Trụ của Trajan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Sát Thủ của Cyrus</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Hào Hiệp</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>Vinh Quang Vây Quanh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Đơn vị đặc biệt của Victoria: Lính áo đỏ Anh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Đơn vị đặc biệt của Harald Hardrada: Thuyền dài Viking</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Đơn vị đặc biệt của Theodore Roosevelt: Kị binh tình nguyện</Text>
+		</Row>
+		<!--Leader Trait Descriptions-->
+		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Chiến thắng trận đánh cung cấp [ICON_Culture] Văn minh bằng 50% [ICON_Strength] Sức mạnh của đơn vị bị hạ gục.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+			<Text>Có thể tuyên chiến với bất kỳ kẻ địch nào của đồng minh mà không bị trừ điểm gây chiến. Khi có chiến tranh với kẻ thù chung, họ và đồng minh chia sẻ phần thưởng cướp bóc và kinh nghiệm nếu trong 5 ô.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới nền văn minh khác +4 [ICON_Gold] Vàng cho Ai Cập. [ICON_TradeRoute] Tuyến đường thương mại của nền văn minh khác tới Ai Cập +2 [ICON_Food] Thực phẩm cho họ và +2 [ICON_Gold] Vàng cho Ai Cập.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>Đơn vị mặt đất +5 [ICON_Strength] Sức mạnh trong ô đất liền kề bờ biển; đơn vị hải quân +5 [ICON_Strength] Sức mạnh trong ô nước cạn. Xây Khu quân sự, Thánh Địa, và Khu nghệ thuật giảm một nửa thời gian.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Thẩm Giáo có thể Loại Bỏ Dị Giáo thêm một lần. Đơn vị chiến đấu có thưởng +4 [ICON_Strength] Sức mạnh khi chống lại người chơi có tôn giáo khác.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>Nhận thêm [ICON_Science] Khoa học hoặc [ICON_Culture] Văn minh từ [ICON_TradeRoute] Tuyến đường thương mại của nền văn minh cao cấp hơn của Nga (+1 mỗi 3 công nghệ hoặc hành chính phía trước).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text>Thêm slot Chính sách quân sự. +7 [ICON_Strength] Sức mạnh khi tấn công thành phố tự trị.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+			<Text>Tất cả thành phố được thành lập hoặc chinh phục ở một lục địa khác lục địa nhà thì nhận một đơn vị cận chiến miễn phí. Nhận được Lính áo đỏ Anh đặc biệt khi công nghệ Khoa học quân sự đã được nghiên cứu.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>Kiến trúc Thánh Đường của Tôn Giáo họ có thể được mua bởi bất kỳ người chơi nào chỉ với giá bằng 1/10 [ICON_Faith] Đức Tin. Kiến trúc Thánh Đường tăng 10% cho [ICON_Science] Khoa học, [ICON_Faith] Đức Tin và [ICON_Culture] Văn minh cho các thành phố của Ả Rập.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>Có thể không thể xây Thánh Địa, chiêu mộ Nhà tiên tri vĩ đại, hoặc sáng lập tôn giáo. Thu thập tất cả Tín Ngưỡng của bất cứ Tôn Giáo nào chiếm đa số trong thành phố của ông ấy. Nhận một Tông Đồ mỗi lần ông ta hoàn tất một khu M'Banza hoặc khu Nghệ Thuật (của Tôn Giáo chiếm đa số trong thành phố đó).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Đơn vị +5 [ICON_Strength] Sức mạnh trên lục địa nhà của họ. +1 Sức Hấp Dẫn cho tất cả ô đất trong thành phố với Công viên quốc gia. Có được Kị Binh Tình Nguyện khi họ nghiên cứu công nghệ Súng Trường.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+			<Text>+5 [ICON_Faith] Đức Tin cho mỗi nền văn minh (bao gồm Ấn Độ) họ gặp mà đã thành lập một tôn giáo và hiện tại không trong chiến tranh. Nền văn minh đối lập nhận được x2 mệt mỏi chiến tránh khi chống lại Gandhi.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Tất cả đơn vị cận chiến hải quân cho phép tấn công ven bờ.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>Khi xây kỳ quan Xa xưa và Cổ Đại, bạn có thể dành số lần của Thợ Xây để hoàn thành 15% giá kỳ quan gốc. Các thợ xây nhận được thêm số lần xây dựng.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>Có 1 level của [ICON_VisLimited] Tầm nhìn ngoại giao tốt hơn bình thường với mỗi nền văn minh mà cô ấy gặp. Nhận khả năng có thêm một Gián điệp với công nghệ Thành trì.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>Các thành phố bắt đầu với thêm một kiến trúc trong thành phố trung tâm. (Bắt đầu với một kiến trúc Đài Tưởng Niệm trong thời đại Cổ Xưa).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>Tất cả đơn vị +5 [ICON_Strength] Sức mạnh khi tấn công với đơn vị bị thương. Khi họ đánh bại một đơn vị thì được hồi sức lên tới 50 điểm.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>Sau khi chiêu mộ hoặc mua một [ICON_GreatPerson] Vĩ nhân, 20% chi phí [ICON_GreatPerson] Vĩ nhân sẽ được trả lại.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>+5% [ICON_Culture] Văn minh mỗi thành thành phố tự trị của bạn.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

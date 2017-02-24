@@ -1,0 +1,54 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+			<Text>Land Down Under</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Housing in coastal cities. Pastures trigger a Culture Bomb. Yields from Campuses, Commercial Hubs, Holy Sites and Theater Squares are +2 in tiles with Charming Appeal, +4 in Breathtaking. </Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Outback Station</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct an Outback Station, unique to Australia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production. +1 [ICON_Food] Food for each adjacent Pasture. Additional [ICON_FOOD] Food and [ICON_PRODUCTION] Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_JOHN_CURTIN_NAME">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
+			<Text>Prime Minister Curtin, you will lead Australia through challenge after challenge, and your people will emerge all the stronger for it. Others will seek friendship for your strength. If these friends prove loyal, your might and protection will carry you far. But stay vigilant, for aggression is not your natural course.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
+			<Text>Citadel of Civilization</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
+			<Text>+100% [ICON_Production] Production if either they have received a declaration of war in the past 10 turns or if they have liberated a city in the past 20 turns.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_DIGGER_NAME">
+			<Text>Digger</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+			<Text>Australian unique Modern era unit that replaces Infantry. +10 [ICON_Strength] Combat Strength when fighting on Coastal tiles. +5 [ICON_Strength] Combat Strength when fighting on Neutral or Foreign Territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_NAME">
+			<Text>Digger</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on Coastal tiles. +5 [ICON_Strength] Combat Strength when fighting on Neutral or Foreign Territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength on Coastal tiles</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength outside of Friendly Territory</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

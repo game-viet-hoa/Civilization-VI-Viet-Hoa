@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_COMPSTOMP_RULESET_TITLE">
+			<Text>Artificial Intransigence</Text>
+		</Row>
+		<Row Tag="LOC_COMPSTOMP_RULESET_TEASER">
+			<Text>Crush the AI with your friends in this cooperative, combat-focused scenario. Lasts until every AI Player has been defeated.[NEWLINE]Victory Conditions[NEWLINE]Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_COMPSTOMP_VICTORY_TITLE">
+			<Text>Stomped the AI</Text>
+		</Row>
+		<Row Tag="LOC_COMPSTOMP_VICTORY_DESC">
+			<Text>Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
+		</Row>
+		<Row Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
+			<Text>"I do not fear computers. I fear the lack of them." —Isaac Asimov</Text>
+		</Row>
+
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_COMPSTOMP_MOD_TITLE">
+			<Text>Multiplayer Scenario: Artificial Intransigence</Text>
+		</Row>
+		<Row Tag="LOC_COMPSTOMP_MOD_TEASER">
+			<Text>Crush the AI with your friends in this cooperative, combat-focused scenario. Lasts until every AI Player has been defeated.</Text>
+		</Row>
+		<Row Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
+			<Text>Victory Conditions[NEWLINE]Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
+			<Text>AI Cities Captured {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
