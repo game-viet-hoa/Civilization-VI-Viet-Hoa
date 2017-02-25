@@ -129,13 +129,19 @@
 			<Text>+1: Nếu trên sông hoặc hồ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
-			<Text>-1: Mỗi Khu Công Nghiệp, Khu Quân Sự, Sân bay hoặc Trạm không gian liền kề</Text>
+			<Text>+1: Cho mỗi Lâu Đài Pháp và Tượng nhân sư.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_14">
-			<Text>-1: Mỗi Rừng nhiệt đới, Đầm lầy hoặc Vùng lũ liền kề</Text>
+			<Text>-1: Mỗi Khu Công Nghiệp, Khu Quân Sự, Sân bay hoặc Trạm không gian liền kề</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_15">
+			<Text>-1: Mỗi Rừng nhiệt đới, Đầm lầy hoặc Vùng lũ liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_16">
 			<Text>-1: Mỗi ô đã bị cướp liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_17">
+			<Text>-1: Mỏ, Mỏ đá, Giếng dầu, Giàn khoan dầu, và Đường băng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_TITLE">
 			<Text>Kiến trúc</Text>
@@ -364,6 +370,9 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_3">
 			<Text>Địa hình có thể gây bất lợi cho trận chiến; hãy chắc chắn không chiến đấu trên vùng lũ và đầm lầy vì sẽ gây những tác động tiêu cực đến sức phòng thủ của bạn. Nếu thấy mình trên địa hình không thể phòng thủ, và cảm thấy mình không thể đánh bại quân địch trong trận chiến, có lẽ việc xây dựng một vài pháo đài sẽ giúp đẩy lùi quân địch. Luôn nhớ tấn công kẻ địch bằng cả hai cánh, đó là điểm yếu nhất và sẽ mang lại lợi thế rất lớn! Sử dụng lực lượng quân sự giàu kinh nghiệm cùng với sự bố trí hợp lý trên địa hình và sự có mặt của Đại Tướng Quân sẽ đảm bảo chiến thắng!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_4">
+			<Text>Flanking and Support bonuses: Outmaneuvering the enemy as well as making sure units in the field are supported by their counterparts is important in order to insure victory in the field. In Civilization VI we simulate this with the Flanking and Support bonuses. Once a player has completed the Military Tradition civic, their military is considered advanced enough in order to benefit from these bonuses.[NEWLINE][NEWLINE]Flanking: If an enemy unit is surrounded by 2 or more adjacent friendly units during an attack, it is considered flanked, granting a +2 combat bonus to the attacker for each additional flanking unit.[NEWLINE][NEWLINE]Support: When defending against an enemy attack, a defending unit can gain a +2 combat bonus for every adjacent friendly unit.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
 			<Text>Kinh nghiệm và Huân chương</Text>
@@ -698,6 +707,21 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_PARA_1">
 			<Text>Sau khi nghiên cứu hành chính Ngoại Thương, tính năng Tham Chiến sẽ được đề xuất giữa các người chơi. Nếu bạn đồng ý hoặc gửi yêu cầu tham chiến, bạn hoặc người chơi khác sẽ ngay lập tức gây chiến tranh với người chơi được chọn làm mục tiêu như trong thỏa thuận.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_TITLE">
+			<Text>Territory</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomatic Territory is divided into 3 types:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_2">
+			<Text>Friendly: Territory owned by your civilization. Friendly territory can also be established by becoming allies with a major civilization, or by becoming the Suzerain of a city-state. Units will heal faster in territory that is friendly to them, as well as take advantage of special abilities and policies associated with friendly territory. Units must be in friendly territory in order to be upgraded.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_3">
+			<Text>Neutral: Territory that is not currently owned by a civilization or city state. This territory may be claimed by a civilization or a city state, through expansion of city borders or by founding a new city there. With the exception of the Fort and Airstrip improvements, players are not allowed to construct items in neutral territory.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_4">
+			<Text>Rival: Territory that is owned by another civilization or city-state. Players cannot move into a rivalâ€™s territory without first establishing Open Borders with that civilization. Unit healing is lowest in rival territory.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_TITLE">
 			<Text>Biện minh chiến tranh</Text>
 		</Row>
@@ -733,6 +757,9 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Gián điệp không di chuyển giống như các đơn vị khác. Họ nhảy từ thành phố này đến thành phố khác bằng đường trên không, đường thủy, đường bộ hoặc đi bộ, mỗi kiểu mất một lượng thời gian riêng. Một khi được thiết lập tại một thành phố, gián điệp có thể được gửi đến một đặc khu cụ thể và bắt đầu nhiệm vụ. Các nhiệm vụ bao gồm đánh cắp các thành tựu công nghệ, tạo ra các đơn vị nổi dậy, hoặc đơn giản là tăng khả năng ngoại giao. Từng nhiệm vụ mất một khoảng thời gian nhất định, và sẽ có kết quả khác nhau. Gián điệp của bạn có thể bị giết hoặc bị bắt giữ, hoặc anh ta thất bại trong nhiệm vụ nhưng hoàn toàn không bị phát hiện, có thể không bị phát hiện cũng đã là thành công trong nhiệm vụ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Every civilization can produce 5 Spies. Play as Catherine to earn the ability to produce 6.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME">
 			<Text>Thành phố tự trị</Text>
@@ -782,9 +809,6 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
 			<Text>Declaring war directly on a city-state removes all [ICON_Envoy] Phái đoàn you had there. Otherwise, [ICON_Envoy] Phái đoàn stay on the city-state permanently. [ICON_Envoy] Phái đoàn at a city-state are visible to all players, and placing them may have diplomatic consequences. The bonuses earned are based on how many [ICON_Envoy] Phái đoàn you have present, regardless of who else has [ICON_Envoy] Phái đoàn there. City-states of a type all share the same Type Bonuses. They are cumulative, so that as a player places more and more [ICON_Envoy] Phái đoàn on a city-state, they stack with the bonuses from before.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_3">
-			<Text>{LOC_PEDIA_CONCEPTS_PAGE_DIPLO_6_CHAPTER_CONTENT_PARA_4}</Text>
-		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_TITLE">
 			<Text>Suzerain</Text>
 		</Row>
@@ -795,9 +819,9 @@
 			<Text>Unique city-state bonus: This is a powerful bonus which no other city-state will provide (ex. Jerusalem acts as a second Holy City for your Religion.)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_3">
-			<Text>Diplomatic allegiance: The city-state will automatically follow its Suzerain into war and peace, matching the diplomatic state of the Suzerain.</Text>
+			<Text>{LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS}</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_4">
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_5">
 			<Text>Resource Sharing: All of the city-state's resources are automatically exported to the Suzerain, and the Suzerain may build improvements in their city-state's territory.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TRADE_NAME">
@@ -827,17 +851,32 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_1">
 			<Text>Trên đất liền, [ICON_TradeRoute] Tuyến đường thương mại có thể hoạt động trong phạm vi 15 ô. Khi người chơi nghiên cứu công nghệ cho phép lên tàu ra biển, Thương gia cũng có thể di chuyển trên nước. Trên nước thì phạm vi này là 30 ô. Thay đổi giữa đất và nước chỉ có thể thực hiện ở Thành phố trung tâm hoặc Khu cảng biển. Nếu thành phố có một điểm giao thương, Thương gia có thể nghỉ chân và cho phép đi đến vùng đất mới xa hơn. Nếu không họ phải dừng lại thành phố đó.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Changing between land and water can only be done at a City Center or Harbor district, and the allowance does not carry over.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Trading Posts</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Trading Posts extend your trade network and make it more lucrative. Not only do they let you reach further destinations, they also provide bonus yields to any of your [ICON_TradeRoute] Tuyến đường thương mại that pass through them (even if they are not the destination). When a player owns a Trading Post in a city, regardless of who owns the city, that player’s [ICON_TradeRoute] Tuyến đường thương mại can “refuel” their [ICON_Movement] Di chuyển range and reach further destinations. Trading Posts are placed at a city once a [ICON_TradeRoute] Tuyến đường thương mại to or from that city successfully completes, and the Trading Post belongs to the player that owned the [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Extend your trade network and make it more lucrative with [ICON_TradingPost] Trading Posts. A [ICON_TradingPost] Trading Post is placed at a city once a [ICON_TradeRoute] Trade Route to or from that city successfully completes. It belongs to the player that owned the [ICON_TradeRoute] Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Your [ICON_TradeRoute] Trade Routes can “refuel” their [ICON_Movement] Movement range in any city that has one of your [ICON_TradingPost] Trading Posts, allowing them to reach further destinations. If the city belongs to another player, the [ICON_TradingPost] Trading Post also makes the [ICON_TradeRoute] Trade Route more valuable, providing +1 [ICON_Gold] Gold for its income.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_TITLE">
-			<Text>Sản lượng</Text>
+			<Text>Sản lượng của chủ tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
 			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại cung cấp sản lượng dựa trên những nơi họ đi qua và thu thập được. Các đặc khu bên trong thành phố đích sẽ cung cấp sản lượng cho thành phố gốc. Ví dụ, giao thương với một thành phố có một Khu linh thiêng sẽ cung cấp [ICON_Faith] Đức Tin, và giao thương với một thành phố có một Khu nghệ thuật sẽ cung cấp [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_2">
+			<Text>It also gets yields based on the path it takes. If it passes through a [ICON_TradingPost] Trading Post you own in a foreign city, it is worth an additional 1 [ICON_Gold] Gold. Long paths which pass through several [ICON_TradingPost] Trading Posts are very valuable.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_6_CHAPTER_CONTENT_TITLE">
+			<Text>Yields for Cities on Route</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_6_CHAPTER_CONTENT_PARA_1">
+			<Text>A City earns 1 [ICON_Gold] Gold per turn for every [ICON_TradeRoute] Trade Route belonging to another player that routes through its City Center.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
 			<Text>Governments and Policies</Text>
@@ -905,6 +944,9 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_2">
 			<Text>Mỗi đặc khu, và các kiến trúc trong nó, cung cấp các điểm tương ứng với từng kiểu [ICON_GreatPerson] Vĩ nhân. Tuy mất nhiều thời gian nhưng đây là nguồn điểm ổn định. Các Đặc khu cũng cho phép thành phố sử dụng [ICON_Production] Sản phẩm cho các dự án, mà khi hoàn thành, sẽ cung cấp các điểm [ICON_GreatPerson] Vĩ nhân.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Players can also spend [ICON_Gold] Gold or [ICON_Faith] Faith to patronize a Great Person, earning that person instantly. The patronage cost is based on how many more [ICON_GreatPerson] Great Person points the player would need to recruit that person normally.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Sử dụng Vĩ Nhân</Text>
 		</Row>
@@ -912,7 +954,7 @@
 			<Text>Mỗi cá thể Vĩ nhân có một hiệu ứng khác nhau, truyền cảm hứng từ lịch sử của họ. Hầu hết các hiệu ứng liên kết mạnh mẽ đến một thời kỳ cụ thể trong quá trình chơi, và không còn tối ưu khi vượt qua thời kỳ đó. Có hai loại hiệu ứng, hiệu ứng "khai sinh" và hiệu ứng "hành động".</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Một hiệu ứng Sản sinh sẽ xảy ra ngay khi một [ICON_GreatPerson] Vĩ nhân được chiêu mộ trên bản đồ, và hiệu ứng này không cần phải kích hoạt. Những hiệu ứng này hầu hết đi kèm với Đại Tướng Quân và Đại Đô Đốc.</Text>
+			<Text>Một hiệu ứng nội tại sẽ xảy ra ngay khi một [ICON_GreatPerson] Vĩ nhân được chiêu mộ trên bản đồ. Những hiệu ứng này hầu hết đi kèm với Đại Tướng Quân và Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_3">
 			<Text>Hiệu ứng phải được kích hoạt bởi [ICON_GreatPerson] Vĩ nhân bằng cách sử dụng 1 "kích hoạt" tại một vị trí cụ thể. Số lượng kích hoạt, kiểu địa điểm và hiệu ứng được kích hoạt sẽ dựa theo từng cá nhân. Hầu hết các cá nhân chỉ có một điểm kích hoạt và chỉ có thể kích hoạt tại một đặc khu phù hợp (ví dụ hầu hết các [ICON_GreatScientist] Nhà khoa học vĩ đại có một điểm kích hoạt và phải sử dụng nó tại Khu tri thức). Cũng giống như các Vĩ nhân khác, các cá thể sẽ biến mất khi toàn bộ điểm kích hoạt được sử dụng hết.</Text>
@@ -1005,7 +1047,7 @@
 			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Có 5 loại Thành tựu vĩ đại. Viết lách, Mỹ thuật, và Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật, từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích, được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học, hoặc có được thông qua Làng thổ dân hoặc thành phố tự trị Kandy. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
+			<Text>Có 5 loại Thành tựu vĩ đại. [ICON_GreatWork_Writing] Viết lách, [ICON_GreatWork_Landscape] Mỹ thuật, và [ICON_GreatWork_Music] Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật, từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích, được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học, hoặc có được thông qua Làng thổ dân hoặc thành phố tự trị Kandy. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
 			<Text>Khu nghỉ dưỡng ven biển</Text>
@@ -1044,10 +1086,16 @@
 			<Text>Chiến Thắng Thống Trị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Nếu bạn là người cuối cùng vẫn sở hữu [ICON_Capital] Thủ đô chính của mình, bạn là người chiến thắng. Vì vậy nếu bạn thâu tóm toàn bộ các [ICON_Capital] Thủ đô chính của các nền văn minh khác và vẫn bảo vệ được Thủ đô của mình, thì bạn là người giành được chiến thắng. Tuy nhiên, vẫn còn một mẹo khác. Ví dụ bạn đang chơi một bản đồ 5 người và bạn đã chiếm đóng 3 [ICON_Capital] Thủ đô chính của 3 người kia, nhưng người thứ 5 lại lén tấn công và chiếm giữ [ICON_Capital] Thủ đô của bạn - thì người đó sẽ giành chiến thắng ngay lập tức. Nói kiểu khác, không quan trọng bạn chiếm được thành nào; mà quan trọng ai là người cuối cùng giữ được [ICON_Capital]Thủ đô chính của mình.</Text>
+			<Text>Để chiến thắng Thống Trị, bạn phải chiếm tất cả [ICON_Capital] thủ đô gốc của các nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_2">
 			<Text>Nếu bạn mất [ICON_Capital] Thủ đô chính của bạn, nhưng vẫn sở hữu các thành phố khác, bạn vẫn có thể chiến thắng theo các kiểu sau: Văn hóa, Khoa học, Điểm số, hoặc Tôn giáo. Tuy nhiên, bạn không thể giành được chiến thắng Thống trị trừ khi bạn giành lại được [ICON_Capital] Thủ đô chính của mình.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_3">
+			<Text>TEAM DOMINATION VICTORY</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_4">
+			<Text>To win a team domination victory, all team members must control their own original [ICON_Capital] capitals while all other players do not.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng khoa học</Text>
@@ -1076,6 +1124,12 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_8">
 			<Text>Khi mọi mảnh ghép được kích hoạt một lần, thì bạn đã giành chiến thắng.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_9">
+			<Text>TEAM SCIENCE VICTORY</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_10">
+			<Text>To win a Team Science Victory, an individual team member needs to complete the standard Science Victory requirements.  Requirement completion is not shared.  Teammates are encouraged to cooperate towards a Team Science Victory using Team Shared Research.  See the Teams page.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng văn minh</Text>
 		</Row>
@@ -1084,6 +1138,12 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_2">
 			<Text>[ICON_Tourism] Du lịch được tạo ra bởi [ICON_TradeRoute] Tuyến đường thương mại, Những chế độ chính phủ giống (hoặc khác) nhau, Tự do đi lại, các Thành tựu vĩ đại, [ICON_GreatWork_Relic] Di tích, Thánh địa, Công viên quốc gia, các [ICON_GreatWork_Artifact] Cổ vật và các Kỳ quan trong thành phố của bạn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_3">
+			<Text>TEAM CULTURE VICTORY</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_4">
+			<Text>To win a Team Culture Victory, an individual team member's [ICON_Tourism] Visiting Tourists must exceed the [ICON_Tourism] Domestic Tourists of all non-team member civilizations.  [ICON_Tourism] Visiting Tourists are not shared between team members.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng tôn giáo</Text>
@@ -1094,11 +1154,53 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Trong khi tôn giáo của bạn lan truyền một cách thụ động đơn giản với những người chơi gần bên, thì những người truyền giáo và tông đồ của bạn chính người mang lại cơ hội tốt để giành thắng lợi.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_3">
+			<Text>TEAM RELIGIOUS VICTORY</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_4">
+			<Text>To win a Team Religious Victory, Religions founded by the team must be the predominant Religion in every other civilization.  The dominate Religions can be of any combination as long as the Religions were all founded by team members.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng điểm</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_1">
 			<Text>Trong rất nhiều trò chơi, một trong các người chơi sẽ chiến thắng bằng cách nhận được thành tựu trong những chiến thắng. Dù vậy, nếu không có ai nhận được nó trong các chiến thắng ở năm 2050 (hoặc là một lượt thiết lập), người thắng cuộc sẽ được quyết định bằng cách sống sót bằng "điểm" nền văn minh. Điểm sẽ nhận được bằng số hành chính, dân số, số thành phố, số công nghệ, số "Công nghệ tương lai", số kỳ quan, khả năng thực hiện kế hoạch của quân đội, số [ICON_GreatPerson] Vĩ Nhân, và số tín ngưỡng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_2">
+			<Text>TEAM SCORE VICTORY</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_3">
+			<Text>When playing as a team, score is calculated as a summation of the team members' individual civilization scores.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TEAMS_NAME">
+			<Text>Teams</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_TITLE">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Prior to starting a game, individual civilizations can be placed on teams for a more cooperative experience.  When playing as a team, team members share a variety of gameplay benefits and can win the game collectively.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Team play is currently available in standard multiplayer games and most multiplayer scenarios.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_2_CHAPTER_CONTENT_TITLE">
+			<Text>Team Diplomatic Relations</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Team members share a permanent diplomatic alliance.  All the standard alliance rules and benefits apply.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_3_CHAPTER_CONTENT_TITLE">
+			<Text>Team Shared War</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Team members share war status.  If a team member declares war, the declared Casus Belli conditions apply to all team members.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_4_CHAPTER_CONTENT_TITLE">
+			<Text>Team Shared Research</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Team members partially share research progress. Team members receive a technology boost for every technology possessed by a team member.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

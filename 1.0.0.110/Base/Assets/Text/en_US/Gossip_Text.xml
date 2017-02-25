@@ -83,6 +83,9 @@
 		<Row Tag="LOC_GOSSIPDESC_PROJECT_STARTED">
 			<Text>Dự án đã bắt đầu</Text>
 		</Row>
+		<Row Tag="LOC_GOSSIPDESC_SPACE_RACE_PROJECT_COMPLETED">
+			<Text>Dự án Chạy Đua Không gian đã hoàn tất</Text>
+		</Row>
 		<Row Tag="LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED">
 			<Text>Thay đổi chiến thuật chiến thắng</Text>
 		</Row>
@@ -268,6 +271,9 @@
 		</Row>
 		<Row Tag="LOC_GOSSIP_PROJECT_STARTED">
 			<Text>{1_CivName} đã bắt đầu {2_ProjectType}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPACE_RACE_PROJECT_COMPLETED">
+			<Text>{1_CivName} đã hoàn tất dự án chạy đua không gian {2_ProjectType}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_START_VICTORY_STRATEGY">
 			<Text>{1_CivName} đang tìm kiếm {2_VictoryName}}.</Text>

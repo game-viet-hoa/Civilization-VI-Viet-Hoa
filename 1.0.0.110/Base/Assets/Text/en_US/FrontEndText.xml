@@ -211,6 +211,16 @@
 		<Row Tag="LOC_PLAYERS">
 		  <Text>Người chơi</Text>
 		</Row>
+		<Row Tag="LOC_TEAM">
+			<Text>Team|Teams</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_TEAM_GENERIC_NAME">
+			<Text>Team {1_Number}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_UNKNOWN_NAME">
+			<Text>Unknown Team</Text>
+		</Row>
 		<Row Tag="LOC_BACK">
 		  <Text>Quay lại</Text>
 		</Row>
@@ -234,7 +244,13 @@
 			<Text>Khác version với Host.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
-			<Text>Cấu hình Mod lỗi.</Text>
+			<Text>Unable to apply additional content.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+			<Text>Unable to acquire required additional content.[NEWLINE]Content:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+			<Text>This game requires additional content that is not installed.  The automatic download of additional content is currently disabled.  Automatic downloads can be enabled in Game Options.[NEWLINE]Content:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
 			<Text>Mất kết nối.</Text>
@@ -295,9 +311,8 @@
 		<Row Tag="LOC_CHAT_HELP_COMMAND_HINT">
 			<Text>[COLOR:ChatMessage_Help]Gõ /help để nhận trợ giúp.[ENDCOLOR]</Text>
 		</Row>
-		<!-- [TEAMCODE] Cut text for team chat command. "[NEWLINE]/t Send a message to a team channel" -->
 		<Row Tag="LOC_CHAT_HELP_COMMAND_TEXT">
-			<Text>[COLOR:ChatMessage_Help]LỆNH CHAT[NEWLINE]/g Gửi tin đến toàn kênh[NEWLINE]/w [PlayerName] Gửi tin đến người chơi[NEWLINE]/r Trả lời người chơi[NEWLINE]/help Hiển thị trợ giúp[ENDCOLOR]</Text>
+			<Text>[COLOR:ChatMessage_Help]LỆNH CHAT[NEWLINE]/t Gửi tin đến đồng đội[NEWLINE]/g Gửi tin đến toàn kênh[NEWLINE]/w [PlayerName] Gửi tin đến người chơi[NEWLINE]/r Trả lời người chơi[NEWLINE]/help Hiển thị trợ giúp[ENDCOLOR]</Text>
 		</Row>
 		<!-- Multiplayer Lobby Screen -->
 		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
@@ -386,6 +401,9 @@
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LAN_LOBBY">
 			<Text>GAME MẠNG LAN</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS">
+			<Text>Additional Content</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
 			<Text>Không rõ</Text>
@@ -484,8 +502,14 @@
     </Row>
 	<Row Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
 		<Text>Tên người chơi mạng LAN:</Text>
-	</Row>		
-    <Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+	</Row>
+	<Row Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+		<Text>Auto Download Additional Content:</Text>
+	</Row>
+	<Row Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+		<Text>Automatically download community made additional content when it is required to join a multiplayer game.</Text>
+	</Row>
+	<Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
       <Text>Steam Controller cấu hình trong Steam. Phím ESC, chuột trái và phải không thể đảo ngược và gán phím.</Text>
     </Row>
     <Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
@@ -571,6 +595,12 @@
 		</Row>
 		<Row Tag="LOC_ARE_YOU_READY">
 			<Text>Sẵn sàng?</Text>
+		</Row>
+		<Row Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
+			<Text>Game Settings</Text>
+		</Row>
+		<Row Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
+			<Text>Additional Content</Text>
 		</Row>
 		<!-- Multiplayer Status Strings -->
 		<Row Tag="LOC_READY_LABEL">
@@ -988,6 +1018,12 @@
 		</Row>
 		<Row Tag="LOC_GAME_NO_BARBARIANS">
 			<Text>Không có quân man di</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
+			<Text>Allies Share Visibility</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
+			<Text>Allied players will share their visibility of the map.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_TURNTIMER_TYPE">
 			<Text>Thời gian mỗi lượt</Text>
@@ -1441,8 +1477,14 @@
 		<Row Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
 			<Text>Không trùng người lãnh đạo</Text>
 		</Row>
+		<Row Tag="LOC_NO_TEAMS_NAME">
+			<Text>No Teams</Text>
+		</Row>
 		<Row Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
 			<Text>Bật tùy chọn này để hạn chế hai hoặc nhiều người chơi chọn người lãnh đạo giống nhau.</Text>
+		</Row>
+		<Row Tag="LOC_NO_TEAMS_DESCRIPTION">
+			<Text>Enabling this option disables team play.</Text>
 		</Row>
 		<Row Tag="LOC_LIMIT_TURNS_NAME">
 			<Text>Giới hạn lượt</Text>
@@ -1584,6 +1626,9 @@
 		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
 			<Text>Buy It Now</Text>
 		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
+			<Text>Open Steam Store to purchase Sid Meier's Civilization VI</Text>
+		</Row>
 		<Row Tag="LOC_DEMO_COMPLETE_CONTENT">
 			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
 		</Row>
@@ -1649,7 +1694,18 @@
 		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
 			<Text>Yêu cầu một hoặc nhiều gói mở rộng của save không được cài đặt.</Text>
 		</Row>
-
+		<Row Tag="LOC_TEAM_NAME_SELECT_TITLE">
+			<Text>Team Name</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_NAME_ENTRY_TITLE">
+			<Text>Enter Team Name</Text>
+		</Row>
+		<Row Tag="LOC_CHOOSE_TEAM_ICON">
+			<Text>Choose Team Icon</Text>
+		</Row>
+		<Row Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
+			<Text>Message of the Day:</Text>
+		</Row>
 		<!-- -->
 	</FrontEndText>
 </GameData>
