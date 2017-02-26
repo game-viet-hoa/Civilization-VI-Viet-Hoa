@@ -518,7 +518,7 @@
 		</Row>
 		<!--Technologies Boost Description-->
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PORTAGE">
-			<Text>After building archers your larger army hopes to see what is accross the rivers.</Text>
+			<Text>After building archers your larger army hopes to see what is across the rivers.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_STIRRIPS">
 			<Text>Maybe cavalry units would help you pillage more tiles?</Text>
@@ -548,10 +548,10 @@
 			<Text>A Great Admiral has inspired your people to construct new ways of constructing ships.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MEDIEVAL_FAIRES">
-			<Text>With more citzens maybe they would like entertainment?</Text>
+			<Text>With more citizens maybe they would like entertainment?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_ENGINEERING">
-			<Text>After the inspiring capture capture of a city, your people are inspired to come up with even more efficient siege ideas.</Text>
+			<Text>After the inspiring capture of a city, your people are inspired to come up with even more efficient siege ideas.</Text>
 		</Row>
 		<!--Civics Name-->
 		<Row Tag="LOC_CIVIC_SCENARIO_NAVAL_EMPIRE_NAME">
@@ -599,7 +599,7 @@
 			<Text>Have 10 Land units.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RECORDED_HISTORY">
-			<Text>Resarch Machinery</Text>
+			<Text>Research Machinery</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GUILDS">
 			<Text>Build 4 Markets</Text>
@@ -615,7 +615,7 @@
 		</Row>
 		<!--Civics Boost Description-->
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRADITION">
-			<Text>Now that you killed with a beserker can you grow your army?</Text>
+			<Text>Now that you killed with a berserker can you grow your army?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_NAVAL_TRADITION">
 			<Text>After building harbors your navy has expanded.</Text>
@@ -633,13 +633,13 @@
 			<Text>With more Holy Sites your theologians have begun to spread.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RECORDED_HISTORY">
-			<Text>Your discovery of Machinery might fight lost Church records.</Text>
+			<Text>Your discovery of Machinery might oppose lost Church records.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EXPLORATION">
 			<Text>Now that you have found Vinland how shall your government change?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_REFORMED_CHURCH">
-			<Text>Have 2 Missionaries.</Text>
+			<Text>After recruiting theologians your people are starting to form new religious practices.</Text>
 		</Row>
 		<!--Scoring-->
 		<Row Tag="LOC_CATEGORY_SCENARIO_VINLAND_NAME">
@@ -655,16 +655,16 @@
 			<Text>Vinland</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_RELIGION_DESCRIPTION">
-			<Text>You will gain Faith in the scenario, primarily by pillaging Holy Sites and certain Improvements. Each time you earn Faith your cities gain more pressure toward adopting Catholicism.</Text>
+			<Text>You will gain Faith in the scenario, primarily by pillaging Holy Sites, Alcázars, Monasteries, and Plantations. Each time you earn Faith your cities gain more pressure toward adopting Catholicism.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1">
-			<Text>Victory Points are earned as follows:[NEWLINE][ICON_Bullet]Empire: {1_CityVP} VP per city. {2_PopVP} VP per population.[NEWLINE][ICON_Bullet]Great People: {3_GPVP} VP for each Great Person earned.[NEWLINE][ICON_Bullet]Trade: {4_TradeVP} VP per trade route capacity.[NEWLINE][ICON_Bullet]Pillage: {5_PillageVP} VP per tile pillaged.</Text>
+			<Text> Cities cannot be razed. Traders and Admirals cannot be transfered between cities. Victory Points are earned as follows:[NEWLINE][ICON_Bullet]Empire: {1_CityVP} VP per city. {2_PopVP} VP per population.[NEWLINE][ICON_Bullet]Great People: {3_GPVP} VP for each Great Person earned.[NEWLINE][ICON_Bullet]Trade: {4_TradeVP} VP per trade route capacity.[NEWLINE][ICON_Bullet]Pillage: {5_PillageVP} VP per tile pillaged.</Text>
 		</Row>
-    <Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
-      <Text>[NEWLINE][ICON_Bullet]Vinland: {1_VinlandA} VP if first to activate a Great Admiral adjacent to Vinland, {2_VinlandB} for second, {3_VinlandC} for third, {4_VinlandD} afterwards.</Text>
-    </Row>
-    <Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
-			<Text>[NEWLINE][ICON_Bullet]Religion: {1_PillageEarly} VP for pillaging a tile before adopting Catholicism. {2_PopLate} VP for adding population after adopting Catholicism.[NEWLINE][ICON_Bullet]Bonus: On the last turn {3_GoldEnd} VP for every {4_GoldPer} gold in your treasury and {5_FaithEnd} VP for every {6_FaithPer} Faith you currently possess.</Text>
+		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
+			<Text>[NEWLINE][ICON_Bullet]Vinland: {1_VinlandA} VP if first to activate a Great Admiral adjacent to Vinland, {2_VinlandB} for second, {3_VinlandC} for third, {4_VinlandD} afterwards.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
+			<Text>[NEWLINE][ICON_Bullet]Religion: {1_PillageEarly} VP per faith earned for pillaging a tile when less than half your cities have the same religion. {2_PopLate} VP per population added when half or more of your cities have the same religion..[NEWLINE][ICON_Bullet]Bonus: On the last turn {3_GoldEnd} VP for every {4_GoldPer} gold in a Viking player's treasury and {5_FaithEnd} VP for every {6_FaithPer} Faith a Viking player currently possess.</Text>
 		</Row>
 		<!--Features-->
 		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME">
@@ -730,7 +730,7 @@
 		</Row>
 		<!--Continent Descriptions-->
 		<Row Tag="LOC_CONTINENT_SCENARIO_BRITAIN_DESCRIPTION">
-			<Text>Great Britian</Text>
+			<Text>Great Britain</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_SCENARIO_FAROE_DESCRIPTION">
 			<Text>Faroe Islands</Text>
@@ -855,6 +855,16 @@
 		</Row>
 		<Row Tag="LOC_VINLAND_GOLD_DESCRIPTION">
 			<Text>+500 [COLOR_FLOAT_GOLD]Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_POINTS_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num} Points[ENDCOLOR]</Text>
+		</Row>
+		<!--District-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_ENCAMPMENT_DESCRIPTION">
+			<Text>A district in your city for military facilities. Also provides science.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_HOLY_SITE_DESCRIPTION">
+			<Text>A district in your city for religious worship. Also provides culture.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

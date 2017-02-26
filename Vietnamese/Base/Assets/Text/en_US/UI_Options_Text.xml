@@ -195,6 +195,16 @@
 			<Text>4 Passes</Text>
 		</Row>
 
+		<Row Tag="LOC_OPTIONS_100_PERCENT">
+			<Text>100%</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_150_PERCENT">
+			<Text>150%</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_200_PERCENT">
+			<Text>200%</Text>
+		</Row>
+
 		<!-- Graphics Panel - Main -->
 
 		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
@@ -216,7 +226,7 @@
 			<Text>Sets the resolution the game renders at.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
-			<Text>UI Upscaling</Text>
+			<Text>UI Upscaling:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
 			<Text>Increases the size of the user interface.[NEWLINE](Only available at certain resolutions.)</Text>
@@ -456,13 +466,13 @@
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
-			<Text>Time of Day behavior:</Text>
+			<Text>Các hoạt động hàng ngày:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
 			<Text>Tự dộng chuyển đơn vị:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
-			<Text>Plot Tooltip Delay:</Text>
+			<Text>Trì hoãn chú thích:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
 			<Text>{1_Value : number #.##}giây</Text>
@@ -576,6 +586,9 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
 			<Text>Sleep</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
+			<Text>Alert</Text>
+		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
 			<Text>Performs the Found City action if the selected unit is a Settler.</Text>
@@ -604,8 +617,11 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
 			<Text>Performs the Sleep action with the selected unit.</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
+			<Text>Performs the Alert action with the selected unit.</Text>
+		</Row>
 
-
+		
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
 			<Text>Global Actions:</Text>
 		</Row>
@@ -652,6 +668,9 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
 			<Text>Previous City</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
+			<Text>Toggle Resource Icons</Text>
+		</Row>
 		
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
 			<Text>Ends the player's turn if possible.</Text>
@@ -696,6 +715,9 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
 			<Text>Switches to the previous city.</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
+			<Text>Toggles the visibility of the resource icons.</Text>
+		</Row>
 		
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
 			<Text>Online Actions:</Text>
@@ -731,6 +753,9 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
 			<Text>Political</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
+			<Text>Tourism</Text>
+		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
 			<Text>Toggles the Religion lens.</Text>
@@ -749,6 +774,9 @@
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
 			<Text>Toggles the Political lens.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
+			<Text>Toggles the Tourism lens.</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_KEY_UNDERSCORE">

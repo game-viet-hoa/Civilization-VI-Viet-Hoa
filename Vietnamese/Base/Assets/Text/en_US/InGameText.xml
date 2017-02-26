@@ -369,6 +369,9 @@
 		<Row Tag="LOC_ACTION_PANEL_PLEASE_WAIT_TOOLTIP">
 			<Text>Đến lượt người chơi khác, vui lòng chờ...</Text>
 		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CAN_UNREADY_TOOLTIP">
+			<Text>Click to unready your turn if you wish to make additional changes. You can only do so before all other players have readied their turns.</Text>
+		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_TURN">
 			<Text>BỎ LƯỢT</Text>
 		</Row>
@@ -711,6 +714,9 @@
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DAMAGED_DISTRICT_DESC">
 			<Text>[COLOR_RED]{1_Value} Đặc Khu thiệt hại[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_EMBARKED_UNIT_STRENGTH">
+			<Text>[COLOR_RED]Reduced strength when embarked</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
 			<Text>+{1 Value} thưởng tấn công tầm xa</Text>
@@ -1211,7 +1217,7 @@
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RELIGION_NO_CITIZENS">
 			<Text>Không có Tôn Giáo trong thành phố tại thời điểm này.</Text>
-		</Row>
+		</Row>		
 		<Row Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
 			<Text>Tôn Giáo Công Dân</Text>
 		</Row>
@@ -1909,6 +1915,9 @@
 		<Row Tag="LOC_TECH_BOOST_RESEARCH_AGREEMENT">
 			<Text>Hiệp ước nghiên cứu của ngài đã đưa ra một đột phá khoa học.</Text>
 		</Row>
+		<Row Tag="LOC_TECH_BOOST_TEAMMATE">
+			<Text>Your teammate has researched a new technology. Their scientists are anxious to share their findings.</Text>
+		</Row>
 		<Row Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>Nghiên cứu {1_techString} vừa hoàn tất!</Text>
 		</Row>
@@ -1921,6 +1930,9 @@
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_WONDER">
 			<Text>Trong khi thám hiểm thế giới, ngài đã phát hiện ra Hành Chính chưa biết đến từ những người bạn.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOST_TEAMMATE">
+			<Text>Our teammate has completed a new civic. Their expertise will further our own progress.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
 			<Text>Vĩ Nhân đã mở khóa một Hành Chính.</Text>
@@ -2527,7 +2539,7 @@
 			<Text>Phải trong vùng đất thân thiện.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_APOSTLE_REQUIRED_CHARGES">
-			<Text>Phải còn có 2 lần Truyền Đạo.</Text>
+			<Text>Phải còn có 3 lần Truyền Đạo.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_ACCESS">
 			<Text>Nền văn minh của bạn cần {2_AmountNeeded} {1_ResourceName} để nâng cấp loại đơn vị này.</Text>
@@ -3744,6 +3756,9 @@
 		<Row Tag="LOC_WORLD_RANKINGS_RELIGION_CONVERT_SUMMARY">
 			<Text>{1_NumConverts} nước theo {2_ReligionName}</Text>
 		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_RELIGION_TEAMS_RELIGIONS">
+			<Text>team's religions</Text>
+		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
 			<Text>sau {1_NumTurns} lượt</Text>
 		</Row>
@@ -3755,6 +3770,9 @@
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_SIMPLE">
 			<Text>Bạn đang dẫn đầu</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_TEAM_SIMPLE">
+			<Text>Your team is leading</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_DETAILS">
 			<Text>Bạn đang dẫn đầu với {1_Details}</Text>
@@ -3768,6 +3786,9 @@
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_SIMPLE">
 			<Text>Bạn đang đứng thứ {1_Place}</Text>
 		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_TEAM_SIMPLE">
+			<Text>Your team is in {1_Place} place</Text>
+		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_DETAILS">
 			<Text>Bạn đang đứng thứ {1_Place} với {2_Details}</Text>
 		</Row>
@@ -3776,6 +3797,9 @@
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_POSITION_DETAILS">
 			<Text>Bạn đang đứng thứ {1_Place} với {2_Details}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_TEAM">
+			<Text>Team {1_TeamNumber}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_1_PLACE">
 			<Text>nhất</Text>
@@ -3812,6 +3836,30 @@
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_12_PLACE">
 			<Text>12</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_13_PLACE">
+			<Text>13</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_14_PLACE">
+			<Text>14</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_15_PLACE">
+			<Text>15</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_16_PLACE">
+			<Text>16</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_17_PLACE">
+			<Text>17</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_18_PLACE">
+			<Text>18</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_19_PLACE">
+			<Text>19</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_20_PLACE">
+			<Text>20</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_STEPS_COMPLETED">
 			<Text>Các bước hoàn thành</Text>
@@ -4031,7 +4079,7 @@
 			<Text>{1_CityStateName} thưởng đặc biệt:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
-			<Text>Thưởng cho chủ:[NEWLINE][ICON_Bolt]Thành phố tự trị của bạn sẽ chiến tranh và hòa bình với những người chơi khác.[NEWLINE][ICON_Bolt]Đơn vị của bạn có thể tự do đi lại trong thành phố tự trị.[NEWLINE][ICON_Bolt]Thợ xây có thể xây nhiều công trình ở ô thành phố tự trị hơn.[NEWLINE][ICON_Bolt]Thấy 3 ô xung quanh thành phố tự trị.[NEWLINE][ICON_Bolt]Có thể dùng [ICON_Gold] Vàng để tạm thời điều khiển quân đội của thành phố tự trị.[NEWLINE][ICON_Bolt]Cho người chủ tất cả tài nguyên của thành phố:</Text>
+			<Text>Thưởng cho chủ:[NEWLINE][ICON_Bolt]Thành phố tự trị của bạn sẽ chiến tranh và hòa bình với những người chơi khác.[NEWLINE][ICON_Bolt]Đất của thành phố tự trị trở thành thân thiện. Đơn vị của bạn có thể di chuyển, hồi máu, nâng cấp những ô đất đó.[NEWLINE][ICON_Bolt]Thợ xây có thể xây nhiều công trình ở ô thành phố tự trị hơn.[NEWLINE][ICON_Bolt]Thấy 3 ô xung quanh thành phố tự trị.[NEWLINE][ICON_Bolt]Có thể dùng [ICON_Gold] Vàng để tạm thời điều khiển quân đội của thành phố tự trị.[NEWLINE][ICON_Bolt]Cho người chủ tất cả tài nguyên của thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_NO_RESOURCES_AVAILABLE">
 			<Text> không có tài nguyên</Text>
@@ -4874,6 +4922,9 @@
 		<Row Tag="LOC_HUD_REPORTS_CITY_STATE">
 			<Text>Thành phố tự trị</Text>
 		</Row>
+		<Row Tag="LOC_HUD_REPORTS_MISC_RESOURCE_SOURCE">
+			<Text>Gameplay Bonuses</Text>
+		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>Nhập Khẩu</Text>
 		</Row>
@@ -4902,7 +4953,7 @@
 			<Text>{1_Turns : plural 1? lượt; other? lượt;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
-			<Text>Xem báo cáo</Text>
+			<Text>Báo cáo</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_WORKED_LAND">
 			<Text>Đất làm việc</Text>
@@ -5000,6 +5051,9 @@
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_FROM_OTHER">
 			<Text>{Value : number +#.#;-#.#} từ thứ khác</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_GOLD_FROM_NATIONAL_PARKS">
+			<Text>{Value : number +#.#;-#.#} từ Công Viên Quốc Gia</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
@@ -5173,6 +5227,18 @@
 		<Row Tag="LOC_TOOLTIP_PLOT_WOODS_SECONDARY">
 			<Text>(Rừng cải tạo)</Text>
 		</Row>
+		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY">
+			<Text>(Friendly Territory)</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_2">
+			<Text>Friendly Territory</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_3">
+			<Text>(Friendly)</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_4">
+			<Text>Friendly</Text>
+		</Row>
 		<Row Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
 			<Text>Nhấn phím hoặc chuột để gán chắc năng bạn mong muốn. Để hủy, click Hủy hoặc nhấn ESC. Để xóa bỏ gán phím, click nút Loại Bỏ.</Text>
 		</Row>
@@ -5317,5 +5383,45 @@
 		<Row Tag="LOC_DEMO_DIALOG_EXIT_TT">
 			<Text>Main Menu</Text>
 		</Row>
+		<Row Tag="LOC_TURN_REMAINING">
+			<Text>Turn Remaining</Text>
+		</Row>
+		<Row Tag="LOC_TURNS_REMAINING">
+			<Text>Turns Remaining</Text>
+		</Row>
+		<Row Tag="LOC_TURNS_REMAINING_VAL">
+			<Text>{1_Turns} Turns Remaining</Text>
+		</Row>
+		<Row Tag="LOC_TURN_REMAINING_VAL">
+			<Text>{1_Turns} Turn Remaining</Text>
+		</Row>
+		<Row Tag="LOC_TURN_VAL_OF_VAL1">
+			<Text>Turn {1_Turns}/{2_MaxTurns}</Text>
+		</Row>
+		<Row Tag="LOC_TURN_VAL_OF_VAL2">
+			<Text>Turn {1_Turns} of {2_MaxTurns}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_RELIGION_VICTORY_COUNTER">
+			<Text>{1_Civs}/{2_TotalCivs} Civs Converted to team's religions</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_CULTURE_VICTORY_COUNTER">
+			<Text>{1_Team} leading with {2_Tourists}/{3_TotalTourists} tourists attracted</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_RELIGION_CONVERTED_BY_CIV">
+			<Text>Converted by {1_Civ}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_RELIGION_CONVERTED_BY_PLAYER">
+			<Text>Converted by {1_SteamID}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_DOMINATION_CAPTURED_BY_CIV">
+			<Text>Captured by {1_Civ}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_DOMINATION_CAPTURED_BY_PLAYER">
+			<Text>Captured by {1_SteamID}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_LIST_HEADING">
+			<Text>Teams and Civilizations</Text>
+		</Row>
+			
 	</BaseGameText>
 </GameData>

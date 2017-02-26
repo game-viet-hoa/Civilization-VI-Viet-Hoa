@@ -269,6 +269,9 @@
 		<Row Tag="LOC_BARBARIAN_CAVALRY_3">
 			<Text>Kỵ binh Hãn quốc Krym</Text>
 		</Row>
+		<Row Tag="LOC_BARBARIAN_CAVALRY_4">
+			<Text>Lính Tatars từ Hãn quốc Kim Trướng</Text>
+		</Row>
 		<Row Tag="LOC_BARBARIAN_COSSACKS_1">
 			<Text>Lính Cossack</Text>
 		</Row>
@@ -313,6 +316,13 @@
 		</Row>
 		<Row Tag="LOC_BARBARIAN_SWEDES_2">
 			<Text>Đế quốc Thụy Điển</Text>
+		</Row>
+		<!-- Scenario-specific invasion warnings-->
+		<Row Tag="LOC_POLAND_SCENARIO_EARLY_WARNING">
+			<Text>Our commonwealth is at risk once again. An army of {1_InvaderName} is on their way to our lands and should arrive in {2_Turns : plural 1?{2_Turns} turn; other?{2_Turns} turns;}. It looks like they are headed toward {3_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_POLAND_SCENARIO_INVASION_HERE">
+			<Text>The army of {1_InvaderName} has arrived.  Fight off these foreigners.  Poland is not yet lost!</Text>
 		</Row>
 		<!-- Scenario-specific religion-->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_NAME">

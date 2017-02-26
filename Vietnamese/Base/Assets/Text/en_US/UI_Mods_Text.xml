@@ -3,7 +3,7 @@
   <BaseGameText>
     <!-- Mods Section -->
     <Row Tag="LOC_MODS_TITLE">
-      <Text>MODS</Text>
+      <Text>ADDITIONAL CONTENT</Text>
     </Row>
     <Row Tag="LOC_MODS_INSTALLED">
       <Text>INSTALLED</Text>
@@ -20,20 +20,32 @@
     <Row Tag="LOC_MODS_NONE_INSTALLED">
       <Text>There are no mods installed.</Text>
     </Row>
+	<Row Tag="LOC_MODS_NONE_SELECTED">
+      <Text>Select a mod to the left to view details.</Text>
+    </Row>
     <Row Tag="LOC_MODS_NO_SUBSCRIPTIONS">
       <Text>There are no subscriptions.</Text>
     </Row>
-    <Row Tag="LOC_MODS_MOD_TITLE">
-      <Text>Mod Title</Text>
+    <Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED">
+      <Text>Installed</Text>
     </Row>
-    <Row Tag="LOC_MODS_MOD_TEASER">
-      <Text>Mod Teaser</Text>
+    <Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING">
+      <Text>Download Pending...</Text>
     </Row>
+    <Row Tag="LOC_MODS_SUBSCRIPTION_SUBSCRIBED">
+      <Text>Subscribed (but not downloaded)</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOADING">
+      <Text>Downloading... ({1 : number} of {2 : number} total)</Text>
+	</Row>
     <Row Tag="LOC_MODS_ENABLE_MOD">
       <Text>Enable Mod</Text>
     </Row>
     <Row Tag="LOC_MODS_DOWNLOADING">
       <Text>Downloading Item...</Text>
+    </Row>
+	<Row Tag="LOC_MODS_SUBSCRIPTION_NAME_PENDING">
+      <Text>Fetching Subscription Name...</Text>
     </Row>
     <Row Tag="LOC_MODS_UPDATE">
       <Text>Update</Text>
@@ -53,6 +65,9 @@
     <Row Tag="LOC_MODS_GROUP_DELETE_NAME">
       <Text>-</Text>
     </Row>
+	<Row Tag="LOC_MODS_GROUP_ENTER_NAME">
+      <Text>Enter the name of the new mod group.</Text>
+    </Row>
     <Row Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
       <Text>Delete the currently selected group of Mods.  This will not delete the mods, only the group.  The default group may not be deleted.</Text>
     </Row>
@@ -66,10 +81,13 @@
       <Text>Sort By:</Text>
     </Row>
     <Row Tag="LOC_MODS_SORTBY_NAME">
-      <Text>Name</Text>
+      <Text>Sort By: Name</Text>
     </Row>
     <Row Tag="LOC_MODS_SORTBY_ENABLED">
-      <Text>Enabled</Text>
+      <Text>Sort By: Enabled</Text>
+    </Row>
+    <Row Tag="LOC_MODS_LAST_UPDATED">
+      <Text>Last Updated: {1_Time: datetime}</Text>
     </Row>
     <Row Tag="LOC_MODS_FILTER">
       <Text>Filter</Text>
@@ -89,6 +107,9 @@
     <Row Tag="LOC_MODS_ENABLE">
       <Text>Enable</Text>
     </Row>
+	<Row Tag="LOC_MODS_ENABLED">
+      <Text>Enabled</Text>
+    </Row>
 	<Row Tag="LOC_MODS_ENABLE_INCLUDE">
 		<Text>Enabling this will also enable the following:</Text>
 	</Row>
@@ -97,6 +118,9 @@
     </Row>
     <Row Tag="LOC_MODS_DISABLE">
       <Text>Disable</Text>
+    </Row>
+	<Row Tag="LOC_MODS_DISABLED">
+      <Text>Disabled</Text>
     </Row>
 	<Row Tag="LOC_MODS_DISABLE_ERROR">
 		<Text>Cannot disable due to the following:</Text>
@@ -118,9 +142,6 @@
     </Row>
     <Row Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
       <Text>Special Thanks:</Text>
-    </Row>
-    <Row Tag="LOC_MODS_DETAILS_DLC">
-      <Text>Premium Content:</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_DLC_STORE">
       <Text>Click here to visit the store page.</Text>

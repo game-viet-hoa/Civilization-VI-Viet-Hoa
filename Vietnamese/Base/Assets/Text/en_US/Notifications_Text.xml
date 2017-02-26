@@ -761,11 +761,17 @@
 		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
 			<Text>Do phấn khích trên mạng lưới gián điệp mới của bạn, bạn nhận được {1_UnitName} đầu tiên miễn phí. Khi bạn mở khóa công trình nhiều hơn, đào tạo họ trong thành phố của bạn.</Text>
 		</Row>
-    <Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
-      <Text>Thành phố bị bao vây</Text>
-    </Row>
-    <Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
-      <Text>{1_CityName} đang bị vây hãm. Thành phố sẽ không tự chữa lành dến khi hết bao vây.</Text>
-    </Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
+			<Text>Thành phố bị bao vây</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
+			<Text>{1_CityName} đang bị vây hãm. Thành phố sẽ không tự chữa lành dến khi hết bao vây.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
+			<Text>Territory Lost</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
+			<Text>We have lost territory to a Culture Bomb initiated by {1_CivName}.</Text>
+		</Row>
 	</BaseGameText>
 </GameData>

@@ -30,7 +30,7 @@
 			<Text>Liền kề: Thưởng [ICON_Culture] Văn minh cho mỗi kỳ quan liền kề. Thưởng ít [ICON_Culture] Văn minh cho mỗi Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
-			<Text>Một Đặc Khu cho hoạt động biển. Loại bỏ điểm phạt [ICON_Movement] Di chuyển lên tàu và xuống tàu từ ô đất này. Phải xây trên bờ biển hoặc hồ gần kề đất.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại Thủ Đô</Text>
+			<Text>Một Đặc Khu cho hoạt động biển. Loại bỏ điểm phạt [ICON_Movement] Di chuyển lên tàu và xuống tàu từ ô đất này. Phải xây trên bờ biển hoặc hồ gần kề đất.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại Thủ Đô nếu thành phố này vẫn chưa có Khu Thương Mại.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề: Thưởng [ICON_Gold] Vàng cho mỗi tài nguyên biển liền kề. Thưởng ít [ICON_Gold] Vàng cho Đặc Khu liền kề.</Text>
@@ -45,7 +45,7 @@
 			<Text>Liền kề:  Thưởng [ICON_Production] Sản phẩm cho mỗi Mỏ hoặc Mỏ Đá liền kề. Thưởng ít [ICON_Production] Sản phẩm cho mỗi Đặc Khu liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
-			<Text>Đặc Khu trong thành phố phục vụ thương mại.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại</Text>
+			<Text>Đặc Khu trong thành phố phục vụ thương mại.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại nếu thành phố này chưa có Khu Cảng Biển.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề: Thưởng nhiều [ICON_Gold] Vàng cho mỗi khu hải cảng liền kề, hoặc ô đất có chứa sông. Thưởng ít [ICON_Gold] Vàng cho mỗi Đặc Khu liền kề.</Text>
@@ -84,7 +84,7 @@
 			<Text>Đặc Khu đặc biệt của Brazil. Thay thế khu giải trí, và +2 [ICON_Amenities] Tiện nghi. Cũng mở hóa dự án Lễ hội Carnival, cho phép +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loại điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Anh cho hoạt động hải quân. Thay thế Khu hải cảng. Loại bỏ điểm phạt [ICON_Movement] Di chuyển khi lên tàu và xuống tàu từ ô này. Phải xây trên bờ biển hoặc đất gần hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân được xây dựng ở xưởng[NEWLINE]+2 [ICON_Gold] Vàng khi xây trên lục địa khác[NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại</Text>
+			<Text>Đặc Khu đặc biệt của Anh cho hoạt động hải quân. Thay thế Khu hải cảng. Loại bỏ điểm phạt [ICON_Movement] Di chuyển khi lên tàu và xuống tàu từ ô này. Phải xây trên bờ biển hoặc đất gần hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân được xây dựng ở xưởng[NEWLINE]+2 [ICON_Gold] Vàng khi xây trên lục địa khác[NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại nếu thành phố này chưa có Khu Thương Mại.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề:  Thưởng [ICON_Gold] Vàng cho mỗi tài nguyên biển liền kề. Thưởng ít [ICON_Gold] Vàng cho Đặc Khu liền kề.</Text>
@@ -220,6 +220,21 @@
 		</Row>
 		<Row Tag="LOC_DISTRICT_RESOURCE_PRODUCTION">
 			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?tài nguyên; other?tài nguyên;} liền kề.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the tile's Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the tile's Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the tile's Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the tile's Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the tile's Appeal.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
 			<Text>[COLOR_RED]Công trình sẽ được gỡ bỏ khi xây Đặc Khu.[ENDCOLOR]</Text>

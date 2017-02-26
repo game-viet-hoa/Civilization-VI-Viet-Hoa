@@ -192,7 +192,7 @@
 			<Text>Có Hành chính Sự Giác Ngộ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_BALLISTICS">
-			<Text>Có 2 Pháo đài trong lãnh thổ.</Text>
+			<Text>Có 2 Pháo đài trong lãnh thổ. Cả hai được xây dựng bởi Kỹ Sư Quân Đội.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
 			<Text>Giết một đơn vị bằng Hiệp sĩ.</Text>
@@ -439,6 +439,9 @@
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
 			<Text>Xây Mỏ Nhôm.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>A team member has shared their research notes for a recently acquired technology. Their innovation will improve our own progress dramatically.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

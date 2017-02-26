@@ -21,13 +21,13 @@
 			<Text>Naval combat units that enter adjacent plots are granted their next promotion.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_QUOTE">
-			<Text>“A number of stones rolled down the mountain, followed by an enormous and lofty column of flame, which allowed the people in Holt to read as perfectly at night as if it had been day.”[NEWLINE]– Liverpool Mercury</Text>
+			<Text>“An enormous and lofty column of flame allowed the people in Holt to read as perfectly at night as if it had been day.”[NEWLINE]– Liverpool Mercury</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_QUOTE">
-			<Text>“The remains of some mighty fabric, hurled into desolation by a tremendous earthquake, or some other equally terrible convulsion of nature.”[NEWLINE]– Philip Dixon Hardy</Text>
+			<Text>“Here the dark brown amorphous basalt, there the red ochre, and below that again the slender but distinct lines of the wood-coal.”[NEWLINE]– Dublin Penny Journal</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_LYSEFJORDEN_QUOTE">
-			<Text>“The water is black and heavy, and subject to intermitting storms. In this sea, and in the midst of this solitude, rises a great sombre street—a street for no human footsteps. None ever pass through there; no ship ever ventures in.”[NEWLINE]– Victor Hugo</Text>
+			<Text>“In this sea, and in the midst of this solitude, rises a great sombre street—a street for no human footsteps. None ever pass through there; no ship ever ventures in.”[NEWLINE]– Victor Hugo</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUCKLAND_NAME">
 			<Text>Auckland</Text>
@@ -120,7 +120,7 @@
 			<Text>Palenque Suzerain Bonus</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION">
-			<Text>Shallow water tiles worked by [ICON_Citizen] Citizens provide +1 [ICON_Production] Production. Additional +1 when you reach the Industrial era.</Text>
+			<<Text>Shallow water tiles you own provide +1 [ICON_Production] Production. Additional +1 when you reach the Industrial era.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_DESCRIPTION">
 			<Text>Your Civilization gains +2% [ICON_Culture] Culture for each Great Person it has ever earned.</Text>

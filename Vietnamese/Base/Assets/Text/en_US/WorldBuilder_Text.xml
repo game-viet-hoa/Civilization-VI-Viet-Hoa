@@ -13,5 +13,200 @@
 		<Row Tag="LOC_WORLDBUILDER_TAB_UNITS">
 			<Text>Đơn vị</Text>
 		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_GENERAL">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
+			<Text>Districts</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
+			<Text>Buildings</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_MOD">
+			<Text>Dependencies</Text>
+		</Row>
+		
+		<Row Tag="LOC_WORLDBUILDER_TAB_TEXT">
+			<Text>Text</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
+			<Text>Add Player</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
+			<Text>Add AI Player</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
+			<Text>Remove Player</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
+			<Text>Add City</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
+			<Text>Remove City</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
+			<Text>Pillaged</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
+			<Text>Faith</Text>
+		</Row>		
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
+			<Text>Garrison Damage</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
+			<Text>Outer Damage</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
+			<Text>Population</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
+			<Text>Terrain</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
+			<Text>Feature</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
+			<Text>Resource</Text>
+		</Row>		
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
+			<Text>Resource Amount</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
+			<Text>Improvement Pillaged</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
+			<Text>Route</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
+			<Text>Route Pilaged</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
+			<Text>Owner</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
+			<Text>Terrain</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
+			<Text>Features</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
+			<Text>Continent</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
+			<Text>Rivers</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
+			<Text>Cliffs</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
+			<Text>Resources</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
+			<Text>Cities</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
+			<Text>Districts</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
+			<Text>Buildings</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
+			<Text>Units</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
+			<Text>Improvements</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
+			<Text>Routes</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
+			<Text>Start Positions</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
+			<Text>Owner</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
+			<Text>Terrain Visibility</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
+			<Text>Map Editor</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
+			<Text>Player Editor</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
+			<Text>Left Click to place. Right Click to Remove.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
+			<Text>No plot selected</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
+			<Text>ID</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
+			<Text>Generate New ID...</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
+			<Text>Width</Text>
+		</Row>
+		
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
+			<Text>Height</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
+			<Text>Ruleset</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
+			<Text>Map Script</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
+			<Text>Map is a Mod</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
+			<Text>If checked, the World Builder map is a self-contained Mod and can be used as a Map Type when starting a game.  If not checked, the map is assumed to be used as part of a larger Mod.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
+			<Text>Untitled Map</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
+			<Text>An Untitled Map made by World Builder</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
+			<Text>Untitled Map Mod</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
+			<Text>A Map Mod made by World Builder</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ADD_BUTTON">
+			<Text>Add</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
+			<Text>Remove</Text>
+		</Row>
+
 	</BaseGameText>
 </GameData>

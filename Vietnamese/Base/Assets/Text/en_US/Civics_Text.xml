@@ -82,10 +82,13 @@
 			<Text>Cho phép vận chuyển các đơn vị mặt đất giữa các Khu Hàng Không có chứa Sân bay.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Vàng cho Đồn Điền. Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
+			<Text>+1 [ICON_Gold] Vàng cho Đồn Điền.</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_DESCRIPTION">
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
 			<Text>Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
+			<Text>Thưởng {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?Phái Đoàn; other?Phái Đoàn;}</Text>
 		</Row>
 		<!-- Civic Boosts-->
 		<Row Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
@@ -594,7 +597,7 @@
 			<Text>+100% liền kề Khu thương mại và Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
-			<Text>Chi phí Dân Di Cư giảm 50%. Giá mua ô đất giảm 20%.</Text>
+			<Text>+50% Sản Phẩm đối với Dân Di Cư. Giá mua ô đất giảm 20%.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
 			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Trung cổ và Phục hưng.</Text>
