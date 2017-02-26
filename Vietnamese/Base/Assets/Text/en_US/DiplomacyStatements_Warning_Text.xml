@@ -181,6 +181,15 @@
     <!-- Confirmation of War -->
     <Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
       <Text>Động thái này sẽ bắt đầu chiến tranh với {1_CivName}!</Text>
+	  </Row>
+	<Row Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+	  <Text>Thực hiện động thái này là sẽ tự đánh vào lãnh thổ của bạn.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+	  <Text>Làm cho cuộc tấn công này sẽ gây hậu quả với một trong những đồng minh.</Text>
+	</Row>
+	<Row Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+	  <Text>Tấn công một cách mù quáng sẽ dẫn đến nhiều hậu quả khôn lường.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
       <Text>Bạn có chắc muốn làm điều này?</Text>

@@ -46,7 +46,7 @@
 			<Text>Ảnh hưởng [ICON_Tourism] Du Lịch Tôn Giáo giảm một nửa so với nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
 			<Text>Có thể xây Nông Trại trên Đồng cỏ (Đồi) và Đồng bằng (Đồi). Mở khóa Phòng Thủ Đô thị, cho tất cả thành phố tự động củng cố 200 Sức mạnh tường thành và khả năng bắn pháo.</Text>
@@ -55,19 +55,16 @@
 			<Text>Khả năng đào tạo một Gián điệp. Cho phép hai đơn vị nhất định ghép lại trở thành Trung đội hoặc Hải đoàn. Cho phép sử dụng lý do biện minh chiến tranh: Chiến tranh thuộc địa.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
-			<Text>Tiết lộ [ICON_RESOURCE_ANTIQUITY_SITE] Di tích cổ. Cho phép đào tạo Nhà khảo cổ. Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+			<Text>Tiết lộ [ICON_RESOURCE_ANTIQUITY_SITE] Di tích cổ. Cho phép đào tạo Nhà khảo cổ. Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
-		</Row>
-		<Row Tag="LOC_CIVIC_CAPITALISM_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công Viên Quốc Gia và mua Nhà Tự Nhiên Học với [ICON_Faith] Đức Tin. Cho phép Thợ xây chặt Rừng (rừng cải tạo). Rừng lâu năm chưa được loại bỏ (rừng nguyên sinh) sẽ cho +1 Sức Hấp Dẫn.</Text>
+			<Text>Thưởng 3 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công Viên Quốc Gia và mua Nhà Tự Nhiên Học với [ICON_Faith] Đức Tin. Cho phép Thợ xây chặt Rừng (rừng cải tạo). Rừng lâu năm chưa được loại bỏ (rừng nguyên sinh) sẽ cho +1 Sức Hấp Dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Cho phép hình thành Hiệp Ước Phòng Thủ. Cho phép 3 đơn vị nhất định hợp lại thành Quân Đội hoặc Hạm Đội. Cho phép sử dụng biện minh chiến tranh: Chiến tranh mở rộng lãnh thổ.</Text>
@@ -75,14 +72,11 @@
 		<Row Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
 			<Text>Khả năng đào tạo thêm một Gián điệp.</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
-		</Row>
 		<Row Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
 			<Text>Khả năng đào tạo thêm một Gián điệp.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
-			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn. </Text>
+			<Text>Tiết lộ [ICON_RESOURCE_SHIPWRECK] Tàu đắm, và cho phép Nhà khảo cổ trục vớt để lấy [ICON_GreatWork_Artifact] Cổ vật từ chúng. Thưởng 3 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
 			<Text>Cho phép vận chuyển các đơn vị mặt đất giữa các Khu Hàng Không có chứa Sân bay.</Text>
@@ -552,7 +546,7 @@
 			<Text>+2 điểm Ảnh hưởng mỗi lượt đối với việc đạt được Phái Đoàn với thành phố tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
-			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị kỵ binh hạng nặng và nhẹ của thời đại Trung cổ, Phục hưng, Công nghiệp.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị kỵ binh hạng nặng và nhẹ của thời đại Trung cổ, Phục hưng, Công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
 			<Text>+10% [ICON_Culture] Văn minh cho mỗi thành phố tự trị của bạn.</Text>
@@ -669,7 +663,7 @@
 			<Text>+1 [ICON_Amenities] Tiện nghi cho tất cả các thành phố với ít nhất 2 Đặc Khu.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
-			<Text>+100% [ICON_Production] Sản phẩm đối với Kỵ binh hạng nặng và nhẹ thời đại Hiện đại, Nguyên tử và Thông tin.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với Kỵ binh hạng nặng và nhẹ thời đại Hiện đại, Nguyên tử và Thông tin.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LIMES_DESCRIPTION">
 			<Text>+100% [ICON_Production] Sản phẩm đối với kiến trúc phòng thủ.</Text>
@@ -684,7 +678,7 @@
 			<Text>+50% [ICON_Production] Sản phẩm đối với Gián điệp. Điện viên hoạt đồng thời gian ít hơn 25%.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
-			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị Kỵ binh hạng nặng và nhẹ trong thời đại Xa xưa và Cổ đại.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị Kỵ binh hạng nặng và nhẹ trong thời đại Xa xưa và Cổ đại.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
 			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị hải quân thời đại Xa xưa và Cổ đại.</Text>

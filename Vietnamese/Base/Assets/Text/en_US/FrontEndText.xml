@@ -201,46 +201,6 @@
 		<Row Tag="LOC_LOADSAVE_QUICK_SAVE">
 			<Text>(Save nhanh)</Text>
 		</Row>
-		<!-- Mods Section -->
-		<Row Tag="LOC_MODS_TITLE">
-			<Text>MODS</Text>
-		</Row>
-		<Row Tag="LOC_MODS_INSTALLED">
-			<Text>ĐÃ CÀI</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_SUBSCRIPTIONS">
-			<Text>SUBSCRIPTIONS</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_BROWSE_WORKSHOP">
-			<Text>BROWSE WORKSHOP</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_WORLD_BUILDER">
-			<Text>WORLD BUILDER</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_NONE_INSTALLED">
-			<Text>Không có Mod nào hết.</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_NO_SUBSCRIPTIONS">
-			<Text>There are no subscriptions.</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_MOD_TITLE">
-			<Text>Tiêu đề Mod</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_MOD_TEASER">
-			<Text>Mod Teaser</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_ENABLE">
-			<Text>Bật</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_DOWNLOADING">
-			<Text>Đang tải...</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_UPDATE">
-			<Text>Cập nhật</Text>
-		</Row>
- 		<Row Tag="LOC_MODS_VIEW">
-			<Text>View</Text>
-		</Row>
     <!-- Advanced Game Setup -->
 		 <Row Tag="LOC_NETWORK_NAME_TT">
 			<Text>Tên mạng[NEWLINE]Đây là tên sẽ xuất hiện cho người chơi khác thấy.</Text>
@@ -248,18 +208,18 @@
 		<Row Tag="LOC_NUMBER_OF_CIVILIZATIONS">
 			<Text>Số nền văn minh</Text>
 		</Row>
-    <Row Tag="LOC_PLAYERS">
-      <Text>Người chơi</Text>
-    </Row>
-    <Row Tag="LOC_BACK">
-      <Text>Quay lại</Text>
-    </Row>
-    <Row Tag="LOC_GAME_HANDICAP">
-      <Text>Độ khó</Text>
-    </Row>
-    <Row Tag="LOC_MAP_OPTIONS">
-      <Text>Tùy chọn bản đồ</Text>
-    </Row>
+		<Row Tag="LOC_PLAYERS">
+		  <Text>Người chơi</Text>
+		</Row>
+		<Row Tag="LOC_BACK">
+		  <Text>Quay lại</Text>
+		</Row>
+		<Row Tag="LOC_GAME_HANDICAP">
+		  <Text>Độ khó</Text>
+		</Row>
+		<Row Tag="LOC_MAP_OPTIONS">
+		  <Text>Tùy chọn bản đồ</Text>
+		</Row>
 		<!-- Multiplayer Game Abandoned Popup -->
 		<Row Tag="LOC_GAME_ABANDONED_KICKED">
 			<Text>Bạn đã bị kick.</Text>
@@ -522,6 +482,9 @@
     <Row Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
       <Text>Số tự động lưu được giữ:</Text>
     </Row>
+	<Row Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+		<Text>Tên người chơi mạng LAN:</Text>
+	</Row>		
     <Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
       <Text>Steam Controller cấu hình trong Steam. Phím ESC, chuột trái và phải không thể đảo ngược và gán phím.</Text>
     </Row>
@@ -617,10 +580,10 @@
 		  <Text>Chưa sẵn sàng</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE">
-			<Text>[COLOR:StagingStatus_Invalid]Kích thước bản đô không hợp lệ[ENDCOLOR]</Text>
+			<Text>[COLOR:StagingStatus_Invalid]Kích thước bản đồ không hợp lệ[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
-			<Text>Slot người chơi này không hợp lệ với kích thước bản đồ. Hoàn đổi cho người chơi có slot hợp lệ.</Text>
+			<Text>Slot người chơi này không khả dụng với kích thước bản đồ hiện tại. Host tăng kích thước bản đồ hoặc đổi chỗ cho slot người chơi hợp lệ.</Text>
 		</Row>		
 		<!-- Multiplayer Status Strings END -->
 		<Row Tag="LOC_JOIN">
@@ -975,6 +938,19 @@
 		</Row>
 		<Row Tag="LOC_RANDOM_CIVILIZATION">
 			<Text>Nền văn minh ngẫu nhiên</Text>
+		</Row>
+		
+		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+			<Text>Không trùng người lãnh đạo</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+			<Text>Tùy chọn không hợp lệ</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+			<Text>Không sở hữu</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+			<Text>Tùy chọn của một hoặc nhiều người chơi không hợp lệ.</Text>
 		</Row>
 		<!-- Configuration Parameters.  Move these to a better location -->
 		<Row Tag="LOC_RULESET">
@@ -1447,6 +1423,12 @@
 		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
 			<Text>Mới từ Civilization VI</Text>
 		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+			<Text>Không trùng người lãnh đạo</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+			<Text>Bật tùy chọn này để hạn chế hai hoặc nhiều người chơi chọn người lãnh đạo giống nhau.</Text>
+		</Row>
 		<Row Tag="LOC_LIMIT_TURNS_NAME">
 			<Text>Giới hạn lượt</Text>
 		</Row>
@@ -1470,6 +1452,12 @@
 		</Row>
 		<Row Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
 			<Text>Game sẽ kết thúc sau số lượt nhất định.</Text>
+		</Row>
+		<Row Tag="LOC_CITYSTATE_COUNT_NAME">
+			<Text>Thành phố tự trị:</Text>
+		</Row>
+		<Row Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+			<Text>Số thành phố tưu trị có trong game này.</Text>
 		</Row>
 		<Row Tag="LOC_MAX_TURNS_NAME">
 			<Text>Lượt tối đa:</Text>
@@ -1596,5 +1584,54 @@
 		<Row Tag="LOC_ARX_GOSSIP_LOG">
 			<Text>Gossip Log</Text>
 		</Row>
+		
+		<!-- File Errors -->
+		<Row Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+			<Text>Save không thể load trong phiên bản game này.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+			<Text>Không thể mở save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+			<Text>Không thể ghi save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+			<Text>Không thể đọc save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+			<Text>Không thể xóa save.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+			<Text>File này không phải là save game.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+			<Text>Save game bị hỏng.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+			<Text>Tải save lỗi.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+			<Text>Không thể phục hồi trạng thái game.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+			<Text>Không thể tìm đường dẫn.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+			<Text>Thiết bị lưu không hợp lệ.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+			<Text>Không thể lấy danh sách save từ thiết bị.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+			<Text>Yêu cầu một hoặc nhiều Mod của save không được cài đặt.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+			<Text>Yêu cầu một hoặc nhiều gói DLC của save không được cài đặt.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Yêu cầu một hoặc nhiều gói mở rộng của save không được cài đặt.</Text>
+		</Row>
+
+		<!-- -->
 	</FrontEndText>
 </GameData>

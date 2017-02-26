@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
+			<Text>There are known issues that may occur when running the DirectX 12 version of Civilization VI with your current hardware configuration. The DirectX 12 version currently requires a compatible graphics card, either AMD or NVidia (Maxwell series or later).</Text>
+		</Row>
+		<Row Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
+			<Text>Proceed Anyway</Text>
+		</Row>
+		<Row Tag="LOC_USER_WARNING_QUIT">
+			<Text>Quit</Text>
+		</Row>
+
+	</FrontEndText>
+</GameData>

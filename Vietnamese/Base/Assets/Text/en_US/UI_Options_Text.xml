@@ -203,6 +203,12 @@
 		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
 			<Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
+			<Text>Split-screen Multi-GPU</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
+			<Text>Only available on DX12 multi-GPU setups.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
 			<Text>Resolution:</Text>
 		</Row>
@@ -452,7 +458,17 @@
 		<Row Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
 			<Text>Time of Day behavior:</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
+			<Text>Tự dộng chuyển đơn vị:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
+			<Text>Plot Tooltip Delay:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
+			<Text>{1_Value : number #.##}giây</Text>
+		</Row>
 
+		
 
 		<!-- Hotkeys Panel -->
 
@@ -609,7 +625,34 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
 			<Text>QuickLoad</Text>
 		</Row>
-
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT">
+			<Text>Next Ready Unit</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT">
+			<Text>Previous Ready Unit</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD">
+			<Text>Toggle Yield Icons</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
+			<Text>Pan up</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
+			<Text>Pan down</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
+			<Text>Pan left</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
+			<Text>Pan right</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
+			<Text>Next City</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
+			<Text>Previous City</Text>
+		</Row>
+		
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
 			<Text>Ends the player's turn if possible.</Text>
 		</Row>
@@ -625,7 +668,35 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
 			<Text>Loads the most recent quick save, if one exists.</Text>
 		</Row>
-
+		
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
+			<Text>Switches to the next ready unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP">
+			<Text>Switches to the previous ready unit.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
+			<Text>Toggles the visibility of the yield icons.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
+			<Text>Pans the view of the map up</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP">
+			<Text>Pans the view of the map down</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP">
+			<Text>Pans the view of the map left</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP">
+			<Text>Pans the view of the map right</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
+			<Text>Switches to the next city.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
+			<Text>Switches to the previous city.</Text>
+		</Row>
+		
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
 			<Text>Online Actions:</Text>
 		</Row>

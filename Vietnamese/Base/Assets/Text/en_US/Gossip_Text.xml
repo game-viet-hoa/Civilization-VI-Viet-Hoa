@@ -270,16 +270,16 @@
 			<Text>{1_CivName} đã bắt đầu {2_ProjectType}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_START_VICTORY_STRATEGY">
-			<Text>{1_CivName} đang tìm kiếm chiến thắng {2_VictoryName}}.</Text>
+			<Text>{1_CivName} đang tìm kiếm {2_VictoryName}}.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_STOP_VICTORY_STRATEGY">
-			<Text>{1_CivName} không còn muốn chiến thắng {2_VictoryType}.</Text>
+			<Text>{1_CivName} không còn muốn {2_VictoryType}.</Text>
 		</Row>
     <Row Tag="LOC_GOSSIP_WMD_BUILT">
       <Text>{1_CivName} đã xây dựng {2_WMDCount} vũ khí hủy diệt hoàng loạt.</Text>
     </Row>
 		<Row Tag="LOC_GOSSIP_WMD_STRIKE">
-			<Text>{1_CivName} vừa tung ra một vũ khí hủy diệt hàng loạt! Một {2_UnitName}! Tìm chỗ ẩn nấp!</Text>
+			<Text>{1_CivName} vừa tung ra một vũ khí hủy diệt hàng loạt! Một {2_UnitName}! Hãy tìm chỗ ẩn nấp!</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_WONDER_STARTED">
 			<Text>{1_CivName} đã dọn dẹp đất trong {2_CityName} cho {3_BuildingName}.</Text>

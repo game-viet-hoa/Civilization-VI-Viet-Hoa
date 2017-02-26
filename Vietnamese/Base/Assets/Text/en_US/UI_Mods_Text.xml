@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <BaseGameText>
+    <!-- Mods Section -->
+    <Row Tag="LOC_MODS_TITLE">
+      <Text>MODS</Text>
+    </Row>
+    <Row Tag="LOC_MODS_INSTALLED">
+      <Text>INSTALLED</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SUBSCRIPTIONS">
+      <Text>SUBSCRIPTIONS</Text>
+    </Row>
+    <Row Tag="LOC_MODS_BROWSE_WORKSHOP">
+      <Text>BROWSE WORKSHOP</Text>
+    </Row>
+    <Row Tag="LOC_MODS_WORLD_BUILDER">
+      <Text>WORLD BUILDER</Text>
+    </Row>
+    <Row Tag="LOC_MODS_NONE_INSTALLED">
+      <Text>There are no mods installed.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_NO_SUBSCRIPTIONS">
+      <Text>There are no subscriptions.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_MOD_TITLE">
+      <Text>Mod Title</Text>
+    </Row>
+    <Row Tag="LOC_MODS_MOD_TEASER">
+      <Text>Mod Teaser</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ENABLE_MOD">
+      <Text>Enable Mod</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DOWNLOADING">
+      <Text>Downloading Item...</Text>
+    </Row>
+    <Row Tag="LOC_MODS_UPDATE">
+      <Text>Update</Text>
+    </Row>
+    <Row Tag="LOC_MODS_VIEW">
+      <Text>View</Text>
+    </Row>
+    <Row Tag="LOC_MODS_GROUP_DEFAULT_NAME">
+      <Text>(Default)</Text>
+    </Row>
+    <Row Tag="LOC_MODS_GROUP_ADD_NAME">
+      <Text>+</Text>
+    </Row>
+    <Row Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
+      <Text>Create a new group of Mods.  Groups can be used to quickly change which mods are enabled.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_GROUP_DELETE_NAME">
+      <Text>-</Text>
+    </Row>
+    <Row Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
+      <Text>Delete the currently selected group of Mods.  This will not delete the mods, only the group.  The default group may not be deleted.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SEARCH_NAME">
+      <Text>Search...</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SEARCH_DESCRIPTION">
+      <Text>Search for content based on title and teaser.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SORTBY">
+      <Text>Sort By:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SORTBY_NAME">
+      <Text>Name</Text>
+    </Row>
+    <Row Tag="LOC_MODS_SORTBY_ENABLED">
+      <Text>Enabled</Text>
+    </Row>
+    <Row Tag="LOC_MODS_FILTER">
+      <Text>Filter</Text>
+    </Row>
+    <Row Tag="LOC_MODS_FIRAXIAN_CONTENT">
+      <Text>Built-in Content</Text>
+    </Row>
+    <Row Tag="LOC_MODS_USER_CONTENT">
+      <Text>User Content</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ENABLE_ALL">
+      <Text>Enable All</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DISABLE_ALL">
+      <Text>Disable All</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ENABLE">
+      <Text>Enable</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DISABLE">
+      <Text>Disable</Text>
+    </Row>
+    <Row Tag="LOC_MODS_YES">
+      <Text>Yes</Text>
+    </Row>
+    <Row Tag="LOC_MODS_NO">
+      <Text>No</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_VERSION">
+      <Text>Version:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_AUTHOR">
+      <Text>Author(s):</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
+      <Text>Special Thanks:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_DLC">
+      <Text>Premium Content:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_DLC_STORE">
+      <Text>Click here to visit the store page.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
+      <Text>Single Player?</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_MULTIPLAYER">
+      <Text>Multiplayer?</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
+      <Text>Affects Saved Games:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_OWNERSHIP">
+      <Text>Ownership:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_TAGS">
+      <Text>Tags:</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
+      <Text>Owned</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
+      <Text>Not owned</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_DESCRIPTION">
+      <Text>Description</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_REFERENCES">
+      <Text>References</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
+      <Text>Depends On</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
+      <Text>References</Text>
+    </Row>
+    <Row Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
+      <Text>Blocks</Text>
+    </Row>
+    <Row Tag="LOC_MODS_EXCLUSIVE">
+      <Text>This is an exclusive mod.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
+      <Text>This is a partially exclusive mod.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
+      <Text>Currently enabled mods are not compatible with this saved game.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
+      <Text>Not all required mods are installed.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
+      <Text>Another version of this mod is already enabled.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
+      <Text>Mod is blocked by another mod.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
+      <Text>Mod is missing required dependencies.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+      <Text>Mod is blocked by exclusivity.</Text>
+    </Row>
+    <Row Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
+      <Text>This version of the game is not compatible with this mod.</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

@@ -100,6 +100,12 @@
 		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
 			<Text>Một người chơi không rõ đã thua cuộc.</Text>
 		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
+			<Text>Bạn mất {1_UnitName} do địch chiếm.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
+			<Text>Kẻ địch đã ép buộc {1_UnitName} của bạn phải rút lui.</Text>
+		</Row>
 		<!-- Diplomacy Notifications-->
 		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
 			<Text>Tuyên bố chiến tranh</Text>
@@ -139,6 +145,30 @@
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
 			<Text>Đồng minh với {1_leader} đã chấm dứt, nó cần phải gia hạn.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
+			<Text>Có được biện minh chiến tranh</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
+			<Text>Bạn có được biện minh chiến tranh {1_WarType} với {2_leader}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
+			<Text>Chiến tranh thuộc địa</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
+			<Text>Thánh chiến</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
+			<Text>Chiến tranh giải phóng</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
+			<Text>Chiến tranh bảo kê</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
+			<Text>Chiến tranh chống xâm lược</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
+			<Text>Chiến tranh mở rộng lãnh thổ</Text>
 		</Row>
 		<!-- Espionage Notifications -->
 		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">

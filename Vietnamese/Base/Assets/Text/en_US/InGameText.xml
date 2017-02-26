@@ -123,6 +123,21 @@
 		<Row Tag="LOC_SELECT_POST_THIS_MOMENT_IN_TIME">
 			<Text>Đăng thời điểm này đúng lúc.</Text>
 		</Row>
+		<Row Tag="LOC_HUD_ALERTED">
+			<Text>Cảnh báo</Text>
+		</Row>
+		<Row Tag="LOC_HUD_ALERTED_ABOUT">
+			<Text>Cảnh báo về {1_name}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_WOKEN_UP_ALERTED">
+			<Text>Đã bị đánh thức bởi cảnh báo</Text>
+		</Row>
+		<Row Tag="LOC_HUD_BARBARIAN_SPOTTED_YOUR_CITY">
+			<Text>Quan man di được phát hiện trong thành phố của bạn!</Text>
+		</Row>
+		<Row Tag="LOC_HUD_BARBARIAN_SPOTTED_CITY">
+			<Text>Quân man di đã được phát hiện trong thành phố của {1_CivName}.</Text>
+		</Row>
 		<Row Tag="LOC_UI_ACTION_CLICK">
 			<Text>Click</Text>
 		</Row>
@@ -267,6 +282,12 @@
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUIT_WARNING">
 			<Text>Có chắc muốn thoát?</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
+			<Text>Bạn có chắc là muốn tắt Sid Meier's Civilization VI?</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_SHUTDOWN_SAVE_WARNING">
+			<Text>Lưu game trước khi thoát?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RETIRE_WARNING">
 			<Text>Có chắc muốn rút lui?</Text>
@@ -990,6 +1011,9 @@
 		<Row Tag="LOC_HUD_CITY_CITIZENS">
 			<Text>Dân số</Text>
 		</Row>
+		<Row Tag="LOC_HUD_CITY_CITIZENS_LABEL">
+			<Text>{1_Amount : plural 1?Công dân; other?Công dân;}</Text>
+		</Row>
 		<Row Tag="LOC_HUD_CITY_CITIZENS_SATISFIED">
 			<Text>Dân cư đều hài lòng, không có tác động tích cực hay tiêu cực.</Text>
 		</Row>
@@ -1041,6 +1065,9 @@
 		<Row Tag="LOC_HUD_CITY_HOUSING">
 			<Text>Nhà Ở</Text>
 		</Row>
+		<Row Tag="LOC_HUD_CITY_HOUSING_LABEL">
+			<Text>Nhà Ở</Text>
+		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
 			<Text>Nước {1_Water}, Kiến Trúc {2_Buildings}, Công Trình {3_Improvements}, Vùng Ngoại Ô {4_Districts}, Hành Chính {5_Civics}</Text>
 		</Row>
@@ -1085,6 +1112,9 @@
 		</Row>
 		<Row Tag="LOC_HUD_CITY_LOSS_IN">
 			<Text>Mất trong</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_SPECIALISTS">
+			<Text>Hiện tại {1_num} trong {2_maxNum} chuyên gia đang làm việc trong ô đất này.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_MAXIMIZE_SPECIFIC_YIELDS">
 			<Text>Tối đa sản lượng đặc biệt trong thành phố</Text>
@@ -1249,7 +1279,7 @@
 			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa tăng trưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GROWTH">
-			<Text>{1_Turns : plural 1? lượt; other? lượt;} nữa mở rộng biên giới</Text>
+			<Text>{1_Turns : plural 1?lượt; other?lượt;} nữa mở rộng biên giới</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_BORN">
 			<Text>{1_Turns : plural 1? {1_Turns} lượt; other?{1_Turns} lượt;} nữa công dân mới ra đời.</Text>
@@ -1551,9 +1581,6 @@
 		</Row>
 		<Row Tag="LOC_UI_VICTORY">
 			<Text>Hết Giờ</Text>
-		</Row>
-		<Row Tag="LOC_UI_END_GAME_DEMO">
-			<Text>Than ôi, thời gian của ngài với Sid Meier's Civilization 6 sắp kết thúc. Đừng lo, ngài có thể bắt đầu lại lần nữa!</Text>
 		</Row>
 		<!-- ==================== Top Panel ==================== -->
 		<Row Tag="LOC_TOP_PANEL_SCIENCE">
@@ -2517,6 +2544,9 @@
 		<Row Tag="LOC_UNITOPERATION_FORTIFY_DESCRIPTION">
 			<Text>Cố Thủ</Text>
 		</Row>
+		<Row Tag="LOC_UNITOPERATION_ALERT">
+			<Text>Đưa đơn vị vào chế độ cố thủ và ngủ đến khi phát hiện ra kẻ địch.</Text>
+		</Row>
 		<Row Tag="LOC_UNITOPERATION_HEAL_DESCRIPTION">
 			<Text>Cố thủ đến khi khỏe lại</Text>
 		</Row>
@@ -2555,6 +2585,9 @@
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_DELETE_DESCRIPTION">
 			<Text>Xóa đơn vị</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_DELETE_GOLD_REFUND">
+			<Text>Sẽ cung cấp {1_GoldAmount} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_GIFT_DESCRIPTION">
 			<Text>Tặng đơn vị</Text>
@@ -2835,7 +2868,7 @@
 			<Text>Nâng cấp đường lên {1_RouteName}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL">
-			<Text>{diplomaticReason} {diplomaticValue}</Text>
+			<Text>{diplomaticReason}</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_DIPLOMACY_UNKNOWN_REASON">
 			<Text>Không rõ lý do</Text>
@@ -3074,6 +3107,9 @@
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_GREAT_WORKS_CATHEDRAL_SLOTS">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Religious] slot Tác phẩm tôn giáo</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_GREAT_WORKS_PALACE_SLOTS">
+			<Text>{1_Amount: number +#,###;-#,###} Thành tựu vĩ đại {1_Amount : plural 1?slot; other?slot;} (chứa bất kỳ loại nào)</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
 			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} liền kề Đặc Khu này.</Text>
@@ -4299,7 +4335,7 @@
 			<Text>{1_name} ({2_type})[NEWLINE]Tạo bởi {3_author}[NEWLINE]Năm {4_date}[NEWLINE]Cung cấp {5_providing} mỗi lượt khi không có chủ đề.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_TOOLTIP_DUPLICATE">
-			<Text>Cung cấp 1 [ICON_Culture] Văn minh 1 [ICON_Tourism] Du lịch mỗi lượt khi sản phẩm của vĩ nhân đã được trưng bày ở đây.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Được tạo bởi {3_author}[NEWLINE]Trong {4_date}[NEWLINE]Cung cấp 1 [ICON_Culture] Văn minh 1 [ICON_Tourism] Du lịch mỗi lượt khi sản phẩm của vĩ nhân đã được trưng bày ở đây.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ARTIFACT_TOOLTIP">
 			<Text>{1_name} ({2_type})[NEWLINE]Tạo bởi {3_author}[NEWLINE]Năm {4_date}[NEWLINE]Cung cấp {5_providing} mỗi lượt.</Text>
@@ -4748,8 +4784,14 @@
 		<Row Tag="LOC_HUD_REPORTS_STATUS_STARVING">
 			<Text>Đói</Text>
 		</Row>
+		<Row Tag="LOC_HUD_REPORTS_BONUSES">
+			<Text>Thưởng</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_LUXURIES">
+			<Text>Quý</Text>
+		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURIES_AND_BONUSES">
-			<Text>Xa xỉ và thưởng</Text>
+			<Text>Quý và thưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURY_RESOURCES_AND_BONUSES">
 			<Text>Tài nguyên quý và thưởng</Text>
@@ -4811,11 +4853,32 @@
 		<Row Tag="LOC_HUD_REPORTS_TRADE">
 			<Text>Thương Mại</Text>
 		</Row>
+		<Row Tag="LOC_HUD_REPORTS_TRADE_DEAL_WITH">
+			<Text>Thỏa thuận với {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_GREAT_PERSON_ACTIVATED">
+			<Text>Vĩ nhân đã được kích hoạt</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_GREAT_PERSON_ACTIVATED_NAME">
+			<Text>Vĩ nhân {1_Name} đã được kích hoạt</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_CITY_STATE">
+			<Text>Thành phố tự trị</Text>
+		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>Nhập Khẩu</Text>
 		</Row>
+		<Row Tag="LOC_HUD_REPORTS_TRADE_IMPORTED_TURNS">
+			<Text>Nhập khẩu - {1_Turns : plural 1? lượt; other? lượt;}</Text>
+		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_EXPORTED">
 			<Text>Xuất Khẩu</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_TRADE_EXPORTED_TURNS">
+			<Text>Xuất Khẩu - {1_Turns : plural 1? lượt; other? lượt;}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_TRADE_DIPLOMACY">
+			<Text>Ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_OWNED">
 			<Text>Chủ</Text>
@@ -5122,6 +5185,12 @@
 		<Row Tag="LOC_DEFEAT_DEFAULT_TEXT">
 			<Text>Bạn đã thua cuộc.</Text>
 		</Row>
+		<Row Tag="LOC_DEFEAT_TIME_NAME">
+			<Text>Hết giờ</Text>
+		</Row>
+		<Row Tag="LOC_DEFEAT_TIME_TEXT">
+			<Text>Bạn đã hết thời gian.</Text>
+		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_TEXT">
 			<Text>Từ một khởi đầu khiêm tốn từ nhiều năm trước bạn đã xây dựng lên được 1 nền văn minh tồn tại qua nhiều giai đoạn. Với rất nhiều những nền văn minh khác đang phát triển và sụp đổ, chúng ta không chỉ tồn tại mà còn rất phát triển.</Text>
 		</Row>
@@ -5207,6 +5276,25 @@
 		</Row>
 		<Row Tag="LOC_LAUNCH_WMD_DIALOG_CANCEL">
 			<Text>Bình tĩnh</Text>
+		</Row>
+		<!-- Demo popup text -->
+		<Row Tag="LOC_DEMO_DIALOG_TITLE">
+			<Text>End of Time</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_DIALOG_TEXT">
+			<Text>You have taken the first steps towards building a Civilization that will stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people's culture flourish? Your science enlighten? Your faith inspire? Your military dominate? How will you lead in Sid Meier's Civilization VI? Continue your journey now.[NEWLINE][NEWLINE]Build.Conquer.Inspire.</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_DIALOG_BUY">
+			<Text>Achieve Greatness</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_DIALOG_BUY_TT">
+			<Text>Buy It Now</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_DIALOG_EXIT">
+			<Text>Fade into History</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_DIALOG_EXIT_TT">
+			<Text>Main Menu</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

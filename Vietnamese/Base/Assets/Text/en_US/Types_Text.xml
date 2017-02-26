@@ -253,7 +253,7 @@
 			<Text>Nhà máy điện</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PYRAMIDS_NAME">
-			<Text>Kim tự pháp</Text>
+			<Text>Kim tự tháp</Text>
       <Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_RESEARCH_LAB_NAME">
@@ -698,12 +698,18 @@
 		<Row Tag="LOC_CONTINENT_NENA_DESCRIPTION">
 			<Text>Nena</Text>
 		</Row>
+		<Row Tag="LOC_CONTINENT_NORTH_AMERICA_DESCRIPTION">
+      		<Text>Bắc Mỹ</Text>
+   		</Row>
 		<Row Tag="LOC_CONTINENT_NOVOPANGAEA_DESCRIPTION">
 			<Text>Novopangaea</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_NUNA_DESCRIPTION">
 			<Text>Nuna</Text>
 		</Row>
+		<Row Tag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
+      		<Text>Đại Dương</Text>
+    	</Row>
 		<Row Tag="LOC_CONTINENT_PANGAEA_DESCRIPTION">
 			<Text>Pangaea</Text>
 		</Row>
@@ -719,6 +725,9 @@
 		<Row Tag="LOC_CONTINENT_SIBERIA_DESCRIPTION">
 			<Text>Siberia</Text>
 		</Row>
+		<Row Tag="LOC_CONTINENT_SOUTH_AMERICA_DESCRIPTION">
+      		<Text>Nam Mỹ</Text>
+    	</Row>
 		<Row Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
 			<Text>Úc Địa</Text>
 		</Row>
