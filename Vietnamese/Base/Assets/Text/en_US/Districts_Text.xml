@@ -222,19 +222,19 @@
 			<Text>+{1_num} [ICON_Production] Sản phẩm từ {1_Num : plural 1?tài nguyên; other?tài nguyên;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Science from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa Học từ Sức Hấp Dẫn của ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Culture from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn Minh từ Sức Hấp Dẫn của ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Production] Sản Phẩm từ Sức Hấp Dẫn của ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ Sức Hấp Dẫn của ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ Sức Hấp Dẫn của ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
 			<Text>[COLOR_RED]Công trình sẽ được gỡ bỏ khi xây Đặc Khu.[ENDCOLOR]</Text>

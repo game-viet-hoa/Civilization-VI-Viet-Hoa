@@ -410,67 +410,67 @@
 		</Row>
 		<!-- Multiplayer Notifications -->
 		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
-			<Text>{1_playerName} Joining</Text>
+			<Text>{1_playerName} đang vào</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
-			<Text>{1_playerName} is joining the game.  This process might take a few minutes.</Text>
+			<Text>{1_playerName} đang vào game. Quá trình này có thể mất ít phút.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
-			<Text>{1_playerName} Joined</Text>
+			<Text>{1_playerName} đã tham gia</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
-			<Text>{1_playerName} has finished joining the game.</Text>
+			<Text>{1_playerName} đã hoàn tất tham gia vào game.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
-			<Text>{1_playerName} Disconnected</Text>
+			<Text>{1_playerName} đã mất kết nối</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
-			<Text>{1_playerName} has disconnected from the game.</Text>
+			<Text>{1_playerName} đã mất kết nối khỏi game.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED">
-			<Text>{1_playerName} Kicked</Text>
+			<Text>{1_playerName} đã bị kick.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
-			<Text>{1_playerName} has been kicked from the game.</Text>
+			<Text>{1_playerName} đã bị kick khỏi game.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFCATION_HOST_MIGRATION">
-			<Text>Host Migration</Text>
+			<Text>Chuyển chủ phòng</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFCATION_HOST_MIGRATION_TT">
-			<Text>The game is migrating to a new game host.  The game will resume shortly.</Text>
+			<Text>Game đang được chuyển sang chủ phòng mới. Game sẽ tiếp tục trở lại trong thời gian ngắn.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFCATION_HOST_CHANGED">
-			<Text>Host Migrated</Text>
+			<Text>Đã chuyển chủ phòng</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFCATION_HOST_CHANGED_TT">
-			<Text>{1_playerName} is the new game host.</Text>
+			<Text>{1_playerName} là chủ phòng mới.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
-			<Text>[color:Civ6Red]Wrong Phase[ENDCOLOR]</Text>
+			<Text>[color:Civ6Red]Sai giai đoạn[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
-			<Text>Simultaneous Turns</Text>
+			<Text>Các lượt đồng thời</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
 			<Text>Your war with a human player has ended. Your turns will be played simultaneously with all non-warring civilizations.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
-			<Text>Sequential Turns</Text>
+			<Text>Các lượt tuần tự</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
 			<Text>You are at war with a human player.  Your turns will be played sequentially with all warring civilizations until the conflict is over.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
-			<Text>{1_playerName} Desynced</Text>
+			<Text>{1_playerName} hủy đồng bộ</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
-			<Text>{1_playerName}'s game has deviated from the host's.  They are reloading to correct the problem.</Text>
+			<Text>Game của {1_playerName} đã bị lạc trôi ra khỏi chủ phòng. Chúng đang tải lại để khắc phục sự cố.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
-			<Text>{1_playerName} Resync Complete</Text>
+			<Text>{1_playerName} tái đồng bộ hoàn tất</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
-			<Text>{1_playerName} has finished loading.</Text>
+			<Text>{1_playerName} đã hoàn tất tải.</Text>
 		</Row>
 		<!-- Great Work Notifications -->
 		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
@@ -768,10 +768,10 @@
 			<Text>{1_CityName} đang bị vây hãm. Thành phố sẽ không tự chữa lành dến khi hết bao vây.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
-			<Text>Territory Lost</Text>
+			<Text>Mất Lãnh Thổ</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
-			<Text>We have lost territory to a Culture Bomb initiated by {1_CivName}.</Text>
+			<Text>Chúng ta đã mất lãnh thổ do Bon Văn Hóa của {1_CivName}.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

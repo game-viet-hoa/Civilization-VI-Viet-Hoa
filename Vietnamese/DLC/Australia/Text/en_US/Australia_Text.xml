@@ -3,29 +3,29 @@
 	<BaseGameText>
 		<!-- Civ Info-->
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION">
-			<Text>Australian Empire</Text>
+			<Text>Đế chế Úc</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE">
-			<Text>Australian</Text>
+			<Text>Người Úc</Text>
 		</Row>
 		<!-- Leader Agenda-->
 		<Row Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME">
-			<Text>Perpetually on Guard</Text>
+			<Text>Bảo Vệ Vĩnh Viễn</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION">
-			<Text>Forms Defensive Pacts with friends and likes civilizations that liberate cities. Dislikes civilizations in a war that are occupying enemy cities.</Text>
+			<Text>Ký kết hiệp ước phòng thủ với bạn bè và thích những nền văn minh mà giải phóng các thành phố. Không thích những nền văn minh trong chiến tranh mà chiếm giữ lấy các thành phố của kẻ địch.</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AUSTRALIA_LOCATION">
-			<Text>The Australian Continent</Text>
+			<Text>Úc Đại Lục</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AUSTRALIA_SIZE">
-			<Text>Around 2.97 million square miles (7.7 million square km)</Text>
+			<Text>Khoảng 2.97 triệu dặm vuông (7.7 triệu km vuông)</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AUSTRALIA_POPULATION">
-			<Text>Roughly 24 million (2017 estimate)</Text>
+			<Text>Khoảng 24 triệu (theo ước tính 2017)</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL">
-			<Text>Melbourne, now Canberra</Text>
+			<Text>Melbourne, bây giờ là Canberra</Text>
 		</Row>
 		<!-- City Names -->
 		<Row Tag="LOC_CITY_NAME_CANBERRA">
@@ -271,111 +271,111 @@
 			<Text>Uluru</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_ULURU_DESCRIPTION">
-			<Text>One tile impassable natural wonder. Provides +2 [ICON_CULTURE] Culture and +2 [ICON_FAITH] Faith to adjacent tiles. Provides +4 Appeal to adjacent tiles instead of the usual +2.</Text>
+			<Text>Một ô kỳ quan thiên nhiên không thể băng qua. +2 [ICON_CULTURE] Văn minh và +2 [ICON_FAITH] Đức tin cho các ô đất liền kề. +4 Sức hấp dẫn cho các ô đất liền kề thay vì +2.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_ULURU_QUOTE">
-			<Text>"What a grand sight this must present in the wet season; waterfalls in every direction!''[NEWLINE]– William Gosse</Text>
+			<Text>"Thật là một cảnh tượng hũng chỉ có trong mùa mưa; những thác nước đều có ở mọi nơi!"[NEWLINE]– William Gosse</Text>
 		</Row>
 		<!-- Trait Info-->
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME">
-			<Text>Australian unique improvement: Outback Station</Text>
+			<Text>Công trình đặc biệt của Úc: Nông Trại Ngoại Thành</Text>
 		</Row>
 		<!-- Diplo Text -->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>We would gladly recognize the strong friendship between our nations.</Text>
+			<Text>Chúng tôi rất sẵn lòng công nhận tình hữu nghị mạnh mẽ giữa các quốc gia.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>I hope you'll understand, we just can't commit to any official gestures at this time.</Text>
+			<Text>Hy vọng ngài sẽ hiểu, ta chỉ không thể cam kết bất kỳ yêu cầu chính thức gì tại thời điểm này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>I believe our friendship is built on a mutual interest in maintaining stability and protecting those in need. I hope you agree.</Text>
+			<Text>Ta tin rằng tình hữu nghị của chúng ta được xây dựng dựa trên lợi ích chung trong việc duy trì sự ổn định và phòng vệ khi cần thiết. Hy vọng ngài đồng ý.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>I appreciate everything you've done.</Text>
+			<Text>Ta đánh giá cao tất cả mọi thứ mà ngài đã làm.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>An unwelcome turn.</Text>
+			<Text>Một lần nữa không được hoan nghênh.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>We will mobilize every means of resistance to stop this transgression against our nation!</Text>
+			<Text>Ta sẽ tập hợp mọi phương tiện để ngăn chặn sự vi phạm này đối với đất nước ta!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, war is upon us.</Text>
+			<Text>Sau khi cân nhắc kỹ lưỡng, Úc nhận ra mình đang ở bước ngoặt. Chiến tranh cần tới ta, hãy chuẩn bị tinh thần đi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>Australia has warmly welcomed the delegation you sent to visit our capital. I plan on meeting them personally to discuss our latest efforts.</Text>
+			<Text>Nước Úc nhiệt liệt chào mừng đoàn đại biểu của ngài đến thăm thủ đô của ta. Ta sẽ lên kế hoạch gặp gỡ từng cá nhân để thảo luận về những nỗ lực mới nhất.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>I respectfully decline your delegation.</Text>
+			<Text>Ta trân trọng từ chối phái đoàn của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>I've sent a trade delegation to your territories with a small selection of meats contributed by our ranchers. I hope you will receive them with my sincerest thanks.</Text>
+			<Text>Ta đã gửi một phái đoàn thương mại đến lãnh thổ của ngài cùng với một ít thịt trong trang trại. Ta hy vọng ngài sẽ nhận được chúng cùng lời cảm ơn chân thành của phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>Your slander of Australia and her people will be known far and wide when your enfeebled nation crumbles!</Text>
+			<Text>Phỉ báng nước Úc và người dân của họ sẽ được lan truyền xa và rộng khi quốc gia của ngài yếu đi và sụp đổ!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>The reprehensible words and actions you've demonstrated can only lead your people down a path of ignorance and destitution. (Denounces You).</Text>
+			<Text>Những lời chỉ trích và hành động của ngài đã chứng minh ngài chỉ có thể lãnh đạo người dân của mình đi xuống với một lối sống của sự ngu dốt và thiếu thốn. (Lăng mạ bạn).</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY">
-			<Text>John Curtin, I speak for the people of Australia as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.</Text>
+			<Text>John Curtin , ta thông báo cho người dân Úc biết đây là Thủ tướng của họ. Bọn ta sẽ tìm kiếm các đồng minh ủng hộ ta trong cuộc chiến chống lại những con diều hâu của chiến tranh.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY">
-			<Text>If you see fit, I'd ask that you visit our nearest city. Perhaps we can tempt you with some roasted macadamia nuts?</Text>
+			<Text>Nếu ngài có hứng, ta muốn ngài ghé thăm thành phố gần nhất của bọn ta. Có lẽ ngài sẽ bị lôi cuốn với món thịt quay cùng hạt cây macadamia?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY">
-			<Text>Of course.</Text>
+			<Text>Tất nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY">
-			<Text>I think an exchange of knowledge, the stories of our capitals perhaps, would be a great boon to our budding friendship.</Text>
+			<Text>Ta nghĩ rằng việc trao đổi kiến thức, tiểu sử của các thủ đô của chúng ta có lẽ sẽ là một lợi ích rất lớn đối với tình hữu nghị vừa nảy nở.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY">
-			<Text>Good to see you!</Text>
+			<Text>Rất vinh dự khi được gặp ngài!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY">
-			<Text>I commend your perseverance. We share a common interest in protecting those who often cannot protect themselves.</Text>
+			<Text>Ta khen ngợi sự kiên trì của ngài. Bọn ta chia sẻ quyền lợi chung trong việc bảo vệ những người không thể tự bảo vệ mình.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY">
-			<Text>War can only bring us loss. Loss of lives, loss of productivity, loss of our very humanity!</Text>
+			<Text>Chiến tranh chỉ mang lại cho chúng ta những mất mát. Mất tính mạng, mất khả năng sản suất, mất nhân tính!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>Would you like to form an alliance?</Text>
+			<Text>Ngài có muốn hình thành một liên minh?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY">
-			<Text>We would welcome a lasting peace between our nations.</Text>
+			<Text>Bọn ta luôn chào đón một nền hòa bình lâu dài giữa các quốc gia.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY">
-			<Text>No, that won't do.</Text>
+			<Text>Không, điều đó sẽ không được thực hiện.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>Countries that want to live in amity must pay a price for peace. We are willing. The question is, are you?</Text>
+			<Text>Các nước muốn sống trong tình hữu nghị phải trả giá cho hòa bình. Bọn ta rất sẵn lòng. Câu hỏi đặt ra là, ngài có muốn không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>As long as your efforts are in the spirit of goodwill, we have no issue with this.</Text>
+			<Text>Miễn là những nỗ lực của ngài mang tinh thần thiện chí, ta không có vấn đề gì với điều này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
-			<Text>With the current climate and footing of Australia's forces, I'm afraid that wouldn't be prudent now.</Text>
+			<Text>Với hoàn cảnh và nền tảng hiện tại các lực lượng của nước Úc, ta sợ rằng bây giờ là không khôn ngoan.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>To maintain the peace, it may be necessary for Australia's forces to pass through your territories. </Text>
+			<Text>Để duy trì hòa bình, hãy cho lực lượng của nước Úc đi qua lãnh thổ của ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY">
-			<Text>You can imagine how the mustering of your forces along our borders must look? I'm assuming it's some sort of mistake.</Text>
+			<Text>Ngài có thể tưởng tượng việc tập trung lực lượng của ngài dọc theo biên giới được nhìn nhận như thế nào? Đó là điều sai lầm ngạo mạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>The principles for which we have fought will survive longer than any nation you could ever build.</Text>
+			<Text>Những nguyên tắc mà bọn ta đã đấu tranh sẽ tồn tại lâu hơn bất kỳ quốc gia nào mà ngươi có thể xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>An unwelcome turn.</Text>
+			<Text>Một lượt không mong muốn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
-			<Text>Then we're agreed!</Text>
+			<Text>Sau đó chúng tôi đã đồng ý!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE">
-			<Text>John Curtin is pleased that you liberated a city</Text>
+			<Text>John Curtin hài lòng khi ngài giải phóng một thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY">
-			<Text>John Curtin is unhappy you are occupying enemy cities</Text>
+			<Text>John Curtin không vui khi ngài đang chiếm đóng thành phố của đối phương</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
