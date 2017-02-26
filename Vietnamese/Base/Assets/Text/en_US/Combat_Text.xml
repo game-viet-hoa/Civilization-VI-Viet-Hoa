@@ -188,15 +188,21 @@
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
 			<Text>Giữ thành phố này trong đế chế của bạn.</Text>
-		</Row>
+		</Row>		
 		<Row Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
-			<Text>Hình phạt chiến tranh khi giữ thành phố này là: {1_WarmongerLevel}[NEWLINE][NEWLINE]Hình phạt sẽ được hoàn trả hoặc x2 vào cuối chiến tranh tùy thuộc vào việc bạn chọn giữ hay không giữ thành phố.</Text>
+			<Text>Hình phạt chiến tranh của việc giữ thành phố bây giờ là: {1_WarmongerLevel}[NEWLINE][NEWLINE]Hình phạt này sẽ được trả lại hoặc x2 vào cuối chiến tranh tùy thuộc vào việc bạn có giữ thành phố đó hay không.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Hành phạt chiến tranh cho việc giữ thành phố cuối cùng của người chơi là dựa theo hình phạt chiến tranh bất ngờ của thời đại đó. Sẽ được [COLOR_RED]x2[ENDCOLOR] nếu chiếm thành phố này giúp loại bỏ một nền văn minh lớn (không phải thành phố tự trị).</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
 			<Text>San phẳng thành phố sẽ loại bỏ nó và tất cả đặc khu, kiến trúc ra khỏi bản đồ. Lựa chọn này chỉ được chọn khi đã chiếm được thành phố.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
 			<Text>Hình phạt chiến tranh là [COLOR_RED]x3[ENDCOLOR] cho việc san phẳng thành phố.[NEWLINE][NEWLINE]Hình phạt chiến tranh cho việc san phẳng thành phố bây giờ là: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>[COLOR_RED]x3[ENDCOLOR] hình phạt "Tuyên bố chiến tranh" của thời đại này khi bạn san phẳng thành phố cuối cùng của một người chơi.</Text>
 		</Row>
 		<Row Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
 			<Text>Bạn không thể san phẳng thủ đô gốc của nền văn minh lớn hoặc một thành phố mà bạn hoặc đồng minh sáng lập ra hoặc người chủ bắt đầu chiến tranh này.</Text>

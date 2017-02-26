@@ -1307,7 +1307,7 @@
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VINLAND">
 			<Text>Vinland</Text>
-    </Row>
+		</Row>
 		<!--Rome-->
 		<Row Tag="LOC_CITY_NAME_ROME">
 			<Text>Rome</Text>
@@ -1615,9 +1615,6 @@
 		<Row Tag="LOC_CITY_NAME_BILBAO">
 			<Text>Bilbao</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_GRANADA">
-			<Text>Granada</Text>
-		</Row>
 		<Row Tag="LOC_CITY_NAME_A_CORUNA">
 			<Text>A Coruña</Text>
 		</Row>
@@ -1677,6 +1674,9 @@
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BURGOS">
 			<Text>Burgos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GIJON">
+			<Text>Gijón</Text>
 		</Row>
 		<!--Sumeria-->
 		<Row Tag="LOC_CITY_NAME_URUK">
@@ -1773,361 +1773,145 @@
 		<Row Tag="LOC_CITY_NAME_AMSTERDAM_1">
 			<Text>Amsterdam</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_AMSTERDAM_2">
-			<Text>Amsterdam</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AMSTERDAM_3">
-			<Text>Amsterdam</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AMSTERDAM_4">
-			<Text>Amsterdam</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AMSTERDAM_5">
+		<Row Tag="LOC_CITY_NAME_AMSTERDAM">
 			<Text>Amsterdam</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRUSSELS_1">
 			<Text>Brussels</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_BRUSSELS_2">
-			<Text>Molenbeek-Saint-Jean</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BRUSSELS_3">
-			<Text>Schaerbeek</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BRUSSELS_4">
-			<Text>Anderlecht</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BRUSSELS_5">
-			<Text>Uccle</Text>
+		<Row Tag="LOC_CITY_NAME_BRUSSELS">
+			<Text>Brussels</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BUENOS_AIRES_1">
 			<Text>Buenos Aires</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_BUENOS_AIRES_2">
-			<Text>Buenos Aires</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BUENOS_AIRES_3">
-			<Text>Buenos Aires</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BUENOS_AIRES_4">
-			<Text>Buenos Aires</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BUENOS_AIRES_5">
+		<Row Tag="LOC_CITY_NAME_BUENOS_AIRES">
 			<Text>Buenos Aires</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CARTHAGE_1">
 			<Text>Carthage</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_CARTHAGE_2">
-			<Text>Carthage</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CARTHAGE_3">
-			<Text>Carthage</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CARTHAGE_4">
-			<Text>Carthage</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CARTHAGE_5">
+		<Row Tag="LOC_CITY_NAME_CARTHAGE">
 			<Text>Carthage</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GENEVA_1">
 			<Text>Geneva</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_GENEVA_2">
-			<Text>Geneva</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_GENEVA_3">
-			<Text>Geneva</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_GENEVA_4">
-			<Text>Geneva</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_GENEVA_5">
+		<Row Tag="LOC_CITY_NAME_GENEVA">
 			<Text>Geneva</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HATTUSA_1">
 			<Text>Hattusa</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_HATTUSA_2">
-			<Text>Hattusa</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HATTUSA_3">
-			<Text>Hattusa</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HATTUSA_4">
-			<Text>Hattusa</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HATTUSA_5">
+		<Row Tag="LOC_CITY_NAME_HATTUSA">
 			<Text>Hattusa</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HONG_KONG_1">
 			<Text>Hong Kong</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_HONG_KONG_2">
-			<Text>Hong Kong</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HONG_KONG_3">
-			<Text>Hong Kong</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HONG_KONG_4">
-			<Text>Hong Kong</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HONG_KONG_5">
+		<Row Tag="LOC_CITY_NAME_HONG_KONG">
 			<Text>Hong Kong</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_JAKARTA_1">
 			<Text>Jakarta</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_JAKARTA_2">
-			<Text>Jakarta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_JAKARTA_3">
-			<Text>Jakarta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_JAKARTA_4">
-			<Text>Jakarta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_JAKARTA_5">
+		<Row Tag="LOC_CITY_NAME_JAKARTA">
 			<Text>Jakarta</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_JERUSALEM_1">
 			<Text>Jerusalem</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_JERUSALEM_2">
-			<Text>Jerusalem</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_JERUSALEM_3">
-			<Text>Jerusalem</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_JERUSALEM_4">
-			<Text>Jerusalem</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_JERUSALEM_5">
+		<Row Tag="LOC_CITY_NAME_JERUSALEM">
 			<Text>Jerusalem</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KABUL_1">
 			<Text>Kabul</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_KABUL_2">
-			<Text>Kabul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KABUL_3">
-			<Text>Kabul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KABUL_4">
-			<Text>Kabul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KABUL_5">
+		<Row Tag="LOC_CITY_NAME_KABUL">
 			<Text>Kabul</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KANDY_1">
 			<Text>Kandy</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_KANDY_2">
-			<Text>Kandy</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KANDY_3">
-			<Text>Kandy</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KANDY_4">
-			<Text>Kandy</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KANDY_5">
+		<Row Tag="LOC_CITY_NAME_KANDY">
 			<Text>Kandy</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KUMASI_1">
 			<Text>Kumasi</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_KUMASI_2">
-			<Text>Kumasi</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KUMASI_3">
-			<Text>Kumasi</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KUMASI_4">
-			<Text>Kumasi</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KUMASI_5">
+		<Row Tag="LOC_CITY_NAME_KUMASI">
 			<Text>Kumasi</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LA_VENTA_1">
 			<Text>La Venta</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_LA_VENTA_2">
-			<Text>La Venta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LA_VENTA_3">
-			<Text>La Venta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LA_VENTA_4">
-			<Text>La Venta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LA_VENTA_5">
+		<Row Tag="LOC_CITY_NAME_LA_VENTA">
 			<Text>La Venta</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LISBON_1">
 			<Text>Lisbon</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_LISBON_2">
-			<Text>Lisbon</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LISBON_3">
-			<Text>Lisbon</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LISBON_4">
-			<Text>Lisbon</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LISBON_5">
+		<Row Tag="LOC_CITY_NAME_LISBON">
 			<Text>Lisbon</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_1">
 			<Text>Mohenjo-Daro</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_2">
-			<Text>Mohenjo-Daro</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_3">
-			<Text>Mohenjo-Daro</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_4">
-			<Text>Mohenjo-Daro</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_5">
+		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO">
 			<Text>Mohenjo-Daro</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PRESLAV_1">
 			<Text>Preslav</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_PRESLAV_2">
-			<Text>Preslav</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PRESLAV_3">
-			<Text>Preslav</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PRESLAV_4">
-			<Text>Preslav</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PRESLAV_5">
+		<Row Tag="LOC_CITY_NAME_PRESLAV">
 			<Text>Preslav</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAN_MADOL_1">
 			<Text>Nan Madol</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_NAN_MADOL_2">
-			<Text>Nan Madol</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NAN_MADOL_3">
-			<Text>Nan Madol</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NAN_MADOL_4">
-			<Text>Nan Madol</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NAN_MADOL_5">
+		<Row Tag="LOC_CITY_NAME_NAN_MADOL">
 			<Text>Nan Madol</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SEOUL_1">
 			<Text>Seoul</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_SEOUL_2">
-			<Text>Seoul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SEOUL_3">
-			<Text>Seoul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SEOUL_4">
-			<Text>Seoul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SEOUL_5">
+		<Row Tag="LOC_CITY_NAME_SEOUL">
 			<Text>Seoul</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STOCKHOLM_1">
 			<Text>Stockholm</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_STOCKHOLM_2">
-			<Text>Stockholm</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_STOCKHOLM_3">
-			<Text>Stockholm</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_STOCKHOLM_4">
-			<Text>Stockholm</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_STOCKHOLM_5">
+		<Row Tag="LOC_CITY_NAME_STOCKHOLM">
 			<Text>Stockholm</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TORONTO_1">
 			<Text>Toronto</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_TORONTO_2">
-			<Text>Toronto</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TORONTO_3">
-			<Text>Toronto</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TORONTO_4">
-			<Text>Toronto</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TORONTO_5">
+		<Row Tag="LOC_CITY_NAME_TORONTO">
 			<Text>Toronto</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VALLETTA_1">
 			<Text>Valletta</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_VALLETTA_2">
-			<Text>Valletta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VALLETTA_3">
-			<Text>Valletta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VALLETTA_4">
-			<Text>Valletta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VALLETTA_5">
+		<Row Tag="LOC_CITY_NAME_VALLETTA">
 			<Text>Valletta</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VILNIUS_1">
 			<Text>Vilnius</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_VILNIUS_2">
-			<Text>Vilnuis</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VILNIUS_3">
-			<Text>Vilnuis</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VILNUIS_4">
-			<Text>Vilnuis</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VILNUIS_5">
-			<Text>Vilnuis</Text>
+		<Row Tag="LOC_CITY_NAME_VILNIUS">
+			<Text>Vilnius</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YEREVAN_1">
 			<Text>Yerevan</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_YEREVAN_2">
-			<Text>Yerevan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_YEREVAN_3">
-			<Text>Yerevan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_YEREVAN_4">
-			<Text>Yerevan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_YEREVAN_5">
+		<Row Tag="LOC_CITY_NAME_YEREVAN">
 			<Text>Yerevan</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZANZIBAR_1">
 			<Text>Zanzibar</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_ZANZIBAR_2">
-			<Text>Zanzibar</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ZANZIBAR_3">
-			<Text>Zanzibar</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ZANZIBAR_4">
-			<Text>Zanzibar</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ZANZIBAR_5">
+		<Row Tag="LOC_CITY_NAME_ZANZIBAR">
 			<Text>Zanzibar</Text>
 		</Row>
 	</BaseGameText>

@@ -965,7 +965,10 @@
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_LUXURIES">
 			<Text>Tiện Nghi từ Tài Nguyên Quý:</Text>
-		</Row>
+		</Row>		
+		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_CITY_STATES">
+			<Text>Tiện nghi từ thành phố tự trị:</Text>
+		</Row>		
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_RELIGION">
 			<Text>Tiện Nghi từ Tôn Giáo:</Text>
 		</Row>
@@ -2544,8 +2547,8 @@
 		<Row Tag="LOC_UNITOPERATION_FORTIFY_DESCRIPTION">
 			<Text>Cố Thủ</Text>
 		</Row>
-		<Row Tag="LOC_UNITOPERATION_ALERT">
-			<Text>Đưa đơn vị vào chế độ cố thủ và ngủ đến khi phát hiện ra kẻ địch.</Text>
+		<Row Tag="LOC_UNITOPERATION_ALERT_DESCRIPTION">
+			<Text>Báo động.</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_HEAL_DESCRIPTION">
 			<Text>Cố thủ đến khi khỏe lại</Text>
@@ -3000,7 +3003,7 @@
 			<Text>Yêu cầu</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
-			<Text>Làm lỗi thời</Text>
+			<Text>Làm lỗi thời:</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_LAKE">
 			<Text>Hồ</Text>
@@ -3727,7 +3730,7 @@
 			<Text>Có tổng [ICON_Capital] Thủ Đô.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]THỐNG TRỊ[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ Đô của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
+			<Text>Để chiến thắng [COLOR:ResMilitaryLabelCS]THỐNG TRỊ[ENDCOLOR], bạn phải chinh phục [ICON_Capital] Thủ Đô gốc của các nền văn minh khác.[NEWLINE][NEWLINE]Khuyến cáo sức mạnh quân sự hùng hậu.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_DOMINATION_SUMMARY">
 			<Text>Đã chiếm {1_NumCaptured : plural 1?{1_NumCaptured} Thủ Đô; other?{1_NumCaptured} Thủ Đô;}</Text>
@@ -4705,7 +4708,13 @@
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_HEADER_FOOD">
 			<Text>Thực phẩm</Text>
+		</Row>		
+		<Row Tag="LOC_HUD_REPORTS_HEADER_UNITNAME">
+			<Text>Tên đơn vị</Text>
 		</Row>
+		<Row Tag="LOC_HUD_REPORTS_HEADER_UNITCOUNT">
+			<Text>Số đơn vị</Text>
+		</Row>		
 		<Row Tag="LOC_HUD_REPORTS_HEADER_GOLD">
 			<Text>Vàng</Text>
 		</Row>
@@ -4928,7 +4937,10 @@
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Row>
+		</Row>	
+		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
+		</Row>	
 		<Row Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ANARCHY">
 			<Text>Không có Văn minh do hỗn loạn.</Text>
 		</Row>
@@ -4951,6 +4963,9 @@
 			<Text>{Value : number +#.#;-#.#} từ thứ khác</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_TRIBUTARIES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
+		</Row>		
+		<Row Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_FROM_ANARCHY">
@@ -4988,7 +5003,10 @@
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Row>
+		</Row>		
+		<Row Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
+		</Row>	
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
 			<Text>{Value : number -#.#;+#.#} từ Kiến Trúc</Text>
 		</Row>
@@ -5046,6 +5064,9 @@
 		<Row Tag="LOC_PLAYER_YIELD_FAITH_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
 		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAITH_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
+		</Row>	
 		<!-- City Yields ToolTips -->
 		<Row Tag="LOC_CITY_YIELD_FROM_BUILDINGS_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} từ {1_BuildingName}</Text>
@@ -5204,7 +5225,7 @@
 			<Text>Giá trị của một nền văn hóa không được tính bằng những thành tựu, mà dựa vào những thành tựu cuối cùng, và cái cách mà mọi người nhớ về nó. Nét đẹp mà bạn đã truyền cảm hứng đến mọi người sẽ làm cho nền văn hóa của chúng ta được trường tồn.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DOMINATION_TEXT">
-			<Text>Có những người ngụy biện về việc sử dụng quyền lực. Bạo lực chỉ mang lại bạo lực nhiều hơn. Những câu hỏi này không hề liên quan. Chính bạn, Người đứng đầu, đã làm điều này như vậy.</Text>
+			<Text>Mặc dù diện mạo của nó thay đổi theo các thời đại, lịch sử được dựng nên bởi những bàn tay của người chiến thắng. Bằng những hành động của bạn trong hôm nay, người dân luôn luôn được vinh quanh đến tận muôn đời.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DEFAULT_TEXT">
 			<Text>Mọi người khác đều đã thua... Vì vậy bạn đã chiến thắng!</Text>

@@ -29,9 +29,6 @@
 		<Row Tag="LOC_GOLDEN_HORDE_MOD_DESCRIPTION">
 			<Text>Victory Conditions[NEWLINE]Survivor Victory - Survive and have the highest score at the turn limit.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Barbarians are more plentiful.[NEWLINE][ICON_Bullet]Barbarians are more aggressive.</Text>
 		</Row>
-		<Row Tag="LOC_GOLDEN_HORDE_MOD_AUTHORS">
-			<Text>Firaxis</Text>
-		</Row>
 		<Row Tag="LOC_VICTORY_SURVIVOR_PROGRESS">
 			<Text>Victory Points {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Barbarians Killed {BarbsKilled}*1 {BarbsKilledIcon}[NEWLINE]Barbarian Camps Cleared {BarbCamps}*3 {BarbCampsIcon}[NEWLINE]Unpillaged Improvements {UnpillagedNum}*5 {UnpillagedIcon}</Text>
 		</Row>

@@ -873,6 +873,15 @@
 		<Row Tag="LOC_SETUP_CREATE_GAME">
 			<Text>Tạo Game</Text>
 		</Row>
+		<Row Tag="LOC_SETUP_CHOOSE_SCENARIO">
+			<Text>Chọn kịch bản</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SCENARIOS">
+			<Text>Kịch bản</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SCENARIO">
+			<Text>Kịch bản</Text>
+		</Row>
 		<Row Tag="LOC_SETUP_CIVILIZATION">
 			<Text>Nền văn minh</Text>
 		</Row>
@@ -1093,6 +1102,12 @@
 		</Row>
 		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
 			<Text>Huyền thoại</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+			<Text>Vị trí bắt đầu được xác định trước</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+			<Text>Sử dụng vị trí bắt đầu đã được xác định trước trên bản đồ.</Text>
 		</Row>
 		<!--Game Speed Descriptions -->
 		<Row Tag="LOC_GAMESPEED_MARATHON_HELP">
@@ -1476,6 +1491,9 @@
 		</Row>
 		<Row Tag="LOC_MAINMENU_CREATE_GAME_TT">
 			<Text>Tạo game mới với tùy chọn của chính bạn.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_SCENARIOS_TT">
+			<Text>Chơi một kịch bản có trải nghiệm độc đáo với luật, người lãnh đạo và mục tiêu riêng.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
 			<Text>Chơi luôn, tạo game mới hay tiếp tục game.</Text>

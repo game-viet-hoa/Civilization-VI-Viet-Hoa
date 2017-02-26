@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_NAME">
+			<Text>Eyjafjallajökull</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_NAME">
+			<Text>Giant's Causeway</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_NAME">
+			<Text>Lysefjord</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_DESCRIPTION">
+			<Text>Adjacent land plots yield +1 Culture and +2 Food.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_DESCRIPTION">
+			<Text>Land combat units that enter adjacent plots receive the ability 'Spear of Fionn' (+5 combat strength).</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_DESCRIPTION">
+			<Text>Naval combat units that enter adjacent plots are granted their next promotion.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_QUOTE">
+			<Text>“A number of stones rolled down the mountain, followed by an enormous and lofty column of flame, which allowed the people in Holt to read as perfectly at night as if it had been day.”[NEWLINE]– Liverpool Mercury</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_QUOTE">
+			<Text>“The remains of some mighty fabric, hurled into desolation by a tremendous earthquake, or some other equally terrible convulsion of nature.”[NEWLINE]– Philip Dixon Hardy</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_QUOTE">
+			<Text>“The water is black and heavy, and subject to intermitting storms. In this sea, and in the midst of this solitude, rises a great sombre street—a street for no human footsteps. None ever pass through there; no ship ever ventures in.”[NEWLINE]– Victor Hugo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_NAME">
+			<Text>Auckland</Text>
+		</Row>		
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_NAME">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_NAME">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_NAME">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_NAME">
+			<Text>Muscat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_NAME">
+			<Text>Palenque</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION">
+			<Text>Auckland city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_DESCRIPTION">
+			<Text>Antananarivo city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_DESCRIPTION">
+			<Text>Armagh city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_DESCRIPTION">
+			<Text>Granada city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_DESCRIPTION">
+			<Text>Muscat city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_DESCRIPTION">
+			<Text>Palenque city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_ADJECTIVE">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_ADJECTIVE">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_ADJECTIVE">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_ADJECTIVE">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_ADJECTIVE">
+			<Text>Muscat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_ADJECTIVE">
+			<Text>Palenque</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AUCKLAND">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTANANARIVO">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARMAGH">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRANADA">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUSCAT">
+			<Text>Muscat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PALENQUE">
+			<Text>Palenque</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_NAME">
+			<Text>Auckland Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_NAME">
+			<Text>Antananarivo Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_NAME">
+			<Text>Armagh Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_NAME">
+			<Text>Granada Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_NAME">
+			<Text>Muscat Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PALENQUE_NAME">
+			<Text>Palenque Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION">
+			<Text>Shallow water tiles worked by [ICON_Citizen] Citizens provide +1 [ICON_Production] Production. Additional +1 when you reach the Industrial era.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_DESCRIPTION">
+			<Text>Your Civilization gains +2% [ICON_Culture] Culture for each Great Person it has ever earned.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_DESCRIPTION">
+			<Text>Your Builders can now make Monastery improvements.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_DESCRIPTION">
+			<Text>Your Builders can now make Alcázar improvements.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PALENQUE_DESCRIPTION">
+			<Text>City growth rate is 15% higher in cities with a Campus district.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPEAR_OF_FIONN_NAME">
+			<Text>Spear of Fionn</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPEAR_OF_FIONN_DESCRIPTION">
+			<Text>Spear of Fionn: +5 Combat Strength</Text>
+		</Row>
+    <Row Tag="LOC_IMPROVEMENT_ALCAZAR_NAME">
+      <Text>Alcázar</Text>
+    </Row>
+    <Row Tag="LOC_IMPROVEMENT_MONASTERY_NAME">
+      <Text>Monastery</Text>
+    </Row>
+    <Row Tag="LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION">
+      <Text>Unlocks the Builder ability to construct an Alcázar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Culture. Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification. Cannot be built next to another Alcázar.</Text>
+    </Row>
+    <Row Tag="LOC_IMPROVEMENT_MONASTERY_DESCRIPTION">
+      <Text>Unlocks the Builder ability to construct a Monastery.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +15 HP healing for friendly religious unit on this tile that has not attacked this turn. Cannot be built next to another Monastery.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

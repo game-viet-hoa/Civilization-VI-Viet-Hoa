@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CIVILIZATION_POLAND_NAME">
+			<Text>Ba Lan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JADWIGA_NAME">
+			<Text>Jadwiga</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
+			<Text>Tự do vàng</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION">
+			<Text>Đánh bom văn hóa các ô liền kề khi hoàn thành Khu quân sự hoặc Pháo đài trong lãnh thổ thân thiện. Một ô chính sách quân sự trong chính phủ hiện tại được chuyển thành ô chính sách bất ngờ.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME">
+			<Text>Liên minh Lithuanian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION">
+			<Text>Tôn giáo sáng lập bởi Ba Lan sẽ trở nên chiếm ưu thế ở thành phố liền kề mà có ô đất bị Ba Lan đánh bom văn hóa. Thánh địa thưởng Đức tin từ những đặc khu liền kề. Tất cả di tích cung cấp thêm Đức tin (+2), Văn minh (+2) và vàng (+4).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION">
+			<Text>Tôn giáo sáng lập bởi Ba Lan sẽ trở nên chiếm ưu thế ở thành phố liền kề mà có ô đất bị Ba Lan đánh bom văn hóa. Thánh địa thưởng nhiều Đức tin từ Khu quân sự liền kề. Tất cả di tích cung cấp thêm Đức tin (+2), Văn minh (+2) và vàng (+4).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_NAME">
+			<Text>Trung tâm thương mại Cloth Hall</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION">
+			<Text>Một kiến trúc đặc biệt của Ba Lan. [ICON_TradeRoute] Tuyến đường thương mại quốc tế từ thành phố này được +2 [ICON_Production] Sản phẩm; [ICON_TradeRoute] Tuyến đường thương mại trong nước +4 [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_NAME">
+			<Text>Kỵ binh Winged Hussar</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
+			<Text>Đơn vị đặc biệt của Ba Lan thời Trung Cổ. Đẩy kẻ dịch đang phòng thủ lùi ra khỏi ô của chúng khi gây được nhiều sát thương hơn. Kẻ phòng thủ mà không rút lui sẽ bị nhận thêm sát thương.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

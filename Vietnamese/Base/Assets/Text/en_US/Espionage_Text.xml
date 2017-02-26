@@ -428,7 +428,7 @@
 		  <Text>Nhiệm vụ trong thành phố của {1_CityName} thất bại nhưng gián điệp bị giết sau khi bị phát hiện.</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_GOLD">
-		  <Text>{1_AmountOfGold} vàng</Text>
+		  <Text>[ICON_Gold] {1_AmountOfGold} vàng</Text>
 		</Row>
 		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED">
 		  <Text>Gián điệp đã bị giết trong nhiệm vụ tại thành phố của {1_CityName}.</Text>

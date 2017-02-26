@@ -75,10 +75,10 @@
       <Text>Filter</Text>
     </Row>
     <Row Tag="LOC_MODS_FIRAXIAN_CONTENT">
-      <Text>Built-in Content</Text>
+      <Text>Official Content</Text>
     </Row>
     <Row Tag="LOC_MODS_USER_CONTENT">
-      <Text>User Content</Text>
+      <Text>Community Created Content</Text>
     </Row>
     <Row Tag="LOC_MODS_ENABLE_ALL">
       <Text>Enable All</Text>
@@ -89,9 +89,21 @@
     <Row Tag="LOC_MODS_ENABLE">
       <Text>Enable</Text>
     </Row>
+	<Row Tag="LOC_MODS_ENABLE_INCLUDE">
+		<Text>Enabling this will also enable the following:</Text>
+	</Row>
+	<Row Tag="LOC_MODS_ENABLE_ERROR">
+		<Text>Cannot enable due to the following:</Text>
+    </Row>
     <Row Tag="LOC_MODS_DISABLE">
       <Text>Disable</Text>
     </Row>
+	<Row Tag="LOC_MODS_DISABLE_ERROR">
+		<Text>Cannot disable due to the following:</Text>
+	</Row>
+	<Row Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
+		<Text>Cannot disable because the following mods depend on this:</Text>
+	</Row>
     <Row Tag="LOC_MODS_YES">
       <Text>Yes</Text>
     </Row>
@@ -176,5 +188,8 @@
     <Row Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
       <Text>This version of the game is not compatible with this mod.</Text>
     </Row>
+	<Row Tag="LOC_MOD_AUTHORS_FIRAXIS">
+		<Text>Firaxis</Text>
+	</Row>
   </BaseGameText>
 </GameData>

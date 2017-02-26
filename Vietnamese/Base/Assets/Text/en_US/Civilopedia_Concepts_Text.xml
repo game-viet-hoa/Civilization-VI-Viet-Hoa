@@ -39,7 +39,7 @@
 			<Text>Thành phố của bạn sẽ phát triển, hoặc thêm nhiều [ICON_Citizen] Dân Số, với lượng [ICON_Food] Thực Phẩm dư. Bất kỳ số lượng [ICON_Food] Thực Phẩm trên tổng mức tiêu thụ của [ICON_Citizen] Dân Cư, 2 cho mỗi người, được tính là số dư thừa, và được thêm vào tiến độ phát triển thêm một [ICON_Citizen] Dân Cư mới.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
-			<Text>Một thành phố cộng thêm tất cả số [ICON_Food] Thực Phẩm dư và mức tăng trưởng nếu số [ICON_Citizen] Dân Cư hiện tại ít hơn (2 hoặc hơn) giới hạn [ICON_Housing] Nhà Ở của thành phố. Nếu thành phố có thấp hơn 1 [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở, mức tăng trưởng sẽ chậm hơn 50%. Khi [ICON_Citizen] Dân Cư đang ở mức giới hạn của [ICON_Housing] Nhà Ở, nó sẽ chỉ tăng 75% tốc độ bình thường. Một thành phố chỉ có thể tăng đến mức 5 lần [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở giới hạn, đó là mức giới hạn của nó, và sau đó nó sẽ ngừng tăng trưởng hoàn toàn.</Text>
+			<Text>Một thành phố cộng thêm tất cả số [ICON_Food] Thực Phẩm dư và mức tăng trưởng nếu số [ICON_Citizen] Dân Cư hiện tại ít hơn (2 hoặc hơn) giới hạn [ICON_Housing] Nhà Ở của thành phố. Nếu thành phố có thấp hơn 1 [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở, mức tăng trưởng sẽ chậm hơn 50%. Khi [ICON_Citizen] Dân Cư đang ở mức giới hạn của [ICON_Housing] Nhà Ở, nó sẽ chỉ tăng 25% tốc độ bình thường. Một thành phố chỉ có thể tăng đến mức 5 lần [ICON_Citizen] Dân Cư so với số [ICON_Housing] Nhà Ở giới hạn, đó là mức giới hạn của nó, và sau đó nó sẽ ngừng tăng trưởng hoàn toàn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
 			<Text>Một thành phố sẽ bị ngưng đọng và không phát triển nếu không có [ICON_Food] Thực Phẩm dư. Nếu nó tạo ra [ICON_Food] Thực Phẩm ít hơn mức [ICON_Citizen] Dân cư tiêu thụ, thành phố sẽ bị đói và từ từ mất [ICON_Citizen] Dân cư cho đến khi nó có thể cung cấp lương thực lại.</Text>
@@ -177,7 +177,7 @@
 			<Text>Nguồn tiện nghi</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Amenities] Tiện nghi có thể đến từ nhiều nguồn khác nhau. Mỗi tài nguyên quý có thể cung cấp đến 4 [ICON_Amenities] Tiện nghi cho 4 thành phố nào cần chúng nhất (1 cho mỗi thành phố). Nó sẽ được tự động phân phối, miễn là tài nguyên quý được khai thác (như xây Vườn ươm trên tài nguyên Gia vị). Đấu trường xây trong Khu giải trí cung cấp [ICON_Amenities] Tiện nghi cho thành phố đó. Sở thú và Sân vận động cũng cung cấp  [ICON_Amenities] Tiện nghi. Một số Kỳ quan cũng cung cấp [ICON_Amenities] Tiện nghi. Hơn nữa, một vài Tín ngưỡng tôn giáo và Chính sách cung cấp [ICON_Amenities] Tiện nghi.</Text>
+			<Text>[ICON_Amenities] Tiện nghi có thể đến từ nhiều nguồn khác nhau. Mỗi tài nguyên quý có thể cung cấp đến 4 [ICON_Amenities] Tiện nghi cho 4 thành phố nào cần chúng nhất (1 cho mỗi thành phố). Nó sẽ được tự động phân phối, miễn là tài nguyên quý được khai thác (như xây Vườn ươm trên tài nguyên Gia vị). Đấu trường xây trong Khu giải trí cung cấp [ICON_Amenities] Tiện nghi cho thành phố đó. Sở thú và Sân vận động cũng cung cấp  [ICON_Amenities] Tiện nghi. Một số Kỳ quan cũng cung cấp [ICON_Amenities] Tiện nghi. Hơn nữa, một vài Tín ngưỡng tôn giáo và Chính sách cung cấp [ICON_Amenities] Tiện nghi. Một số [ICON_GreatPerson] Vĩ Nhân cũng cung cấp [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_2">
 			<Text>Chiến tranh dai dẳng và phá sản sẽ làm giảm [ICON_Amenities] Tiện nghi trong một thành phố.</Text>
@@ -188,6 +188,27 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
 			<Text>Các chuyên gia được đưa ra thay thế cho [ICON_Citizen] Công dân, người mà làm việc trong Đặc khu hay một ô đất bình thường. Nhưng quy luật chung, các chuyên gia là một cách tốt để tạo sản lượng theo đúng mục đích, tuy nhiên thành phố cần phải có sự hỗ trợ vững vàng về [ICON_Food] Thực phẩm cho họ một cách lâu dài. Các chuyên gia rất có ích khi các thành phố phát triển vào cuối game, và có nhiều [ICON_Citizen] Công dân hơn ô đất bình thường. Có nhiều loại chuyên gia khác nhau, mỗi chuyên gia với các hiệu ứng khác nhau. Tất cả các loại chuyên gia ngoại trừ [ICON_Citizen] Công dân có một giới hạn về số lượng trong một thành phố. Giới hạn này được xác định bởi số lượng các kiến trúc trong Đặc khu tương ứng với mỗi loại chuyên gia.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Nhà khoa học làm việc trong Khu tri thức và cung cấp +2 [ICON_Science] Khoa học.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_3">
+			<Text>Thầy tu làm việc trong Thánh địa và cung cấp +2 [ICON_Faith] Đức tin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_4">
+			<Text>Sĩ quan chỉ huy làm việc trong Khu quân sự và cung cấp +1 [ICON_Production] Sản phẩm và +1 [ICON_Culture] Văn minh.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_5">
+			<Text>Thuyền trưởng làm việc trong Khu cảng biển và cung cấp +1 [ICON_Science] Khoa học và +2 [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_6">
+			<Text>Lái buôn làm việc trong Khu thương mại và cung cấp +4 [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_7">
+			<Text>Kĩ sư làm việc trong Khu công nghiệp và cung cấp +2 [ICON_Production] Sản phẩm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_8">
+			<Text>Nghệ sĩ làm việc trong khu nghệ thuật và cung cấp +2 [ICON_Culture] Văn minh.</Text>
+		</Row>	
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
 			<Text>Thế Giới</Text>
 		</Row>
@@ -255,7 +276,7 @@
 			<Text>Ống kính là công cụ được sử dụng để thay đổi cái nhìn về thế giới. Mỗi ống kính sẽ hiển thị các thông tin quan trọng để giúp bạn đưa ra các quyết định chiến thuật. Một số ống kính được kích hoạt tự động, như khi chọn vị trí để xây Đặc khu từ Menu Sản Phẩm. Một số ống kính khác được kích hoạt thủ công từ nút Ống kinh trên Minimap. Các Ống kính có thể sử dụng để:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
-			<Text>Sức hấp dẫn. Hiển thị mức độ sức hấp dẫn của mỗi ô đất.[NEWLINE][NEWLINE]Lục địa. Hiển thị vị trí địa lý của mỗi lục địa.[NEWLINE][NEWLINE]Vị trí Đặc khu. Hiển thị vị trí hợp lệ để đặt Kỳ quan và Đặc khu, cũng như thông tin thưởng của các khu vực liền kề. Nó chỉ xuất hiện khi nghiên cứu xây dựng một Đặc khu hoặc Kỳ quan.[NEWLINE][NEWLINE]Chính phủ. Hiển thị sự phân bố của chính phủ trên bản đồ.[NEWLINE][NEWLINE]Chính trị. Hiển thị chủ sở hữu của mỗi ô đất.[NEWLINE][NEWLINE]Tôn giáo. Hiển thị tôn giáo chiếm ưu thế và sự phân bố tín đồ trên bản đồ. Chỉ xuất hiện khi đơn vị Tôn giáo đươc lựa chọn.[NEWLINE][NEWLINE]Dân di cư. Hiển thị vụ trí khuyến cáo đặt thành phố mới và lượng nước có sẵn cho mỗi ô đất.</Text>
+			<Text>Sức hấp dẫn. Hiển thị mức độ sức hấp dẫn của mỗi ô đất.[NEWLINE][NEWLINE]Lục địa. Hiển thị vị trí địa lý của mỗi lục địa.[NEWLINE][NEWLINE]Vị trí Đặc khu. Hiển thị vị trí hợp lệ để đặt Kỳ quan và Đặc khu, cũng như thông tin thưởng của các khu vực liền kề. Nó chỉ xuất hiện khi nghiên cứu xây dựng một Đặc khu hoặc Kỳ quan.[NEWLINE][NEWLINE]Chính phủ. Hiển thị sự phân bố của chính phủ trên bản đồ.[NEWLINE][NEWLINE]Chính trị. Hiển thị chủ sở hữu của mỗi ô đất.[NEWLINE][NEWLINE]Tôn giáo. Hiển thị tôn giáo chiếm ưu thế và sự phân bố tín đồ trên bản đồ. Chỉ xuất hiện khi đơn vị Tôn giáo đươc lựa chọn.[NEWLINE][NEWLINE]Dân di cư. Hiển thị vụ trí khuyến cáo đặt thành phố mới và lượng nước có sẵn cho mỗi ô đất.[NEWLINE][NEWLINE]Du lịch. Hiển thị số [ICON_Tourism] khách thu lịch thu hút của mỗi ô.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_COMBAT_NAME">
 			<Text>Trận chiến</Text>
@@ -342,7 +363,7 @@
 			<Text>In combining your military might with the right force organization of combined arms, leadership, and intuitive use of terrain you can have the power to destroy your enemies armies, no matter how big or small, advanced or not. Using terrain to your advantage, you can position your forces on Hills, in Rainforests or Woods, and across Rivers from your enemy to ensure a distinct defensive advantage. Looking at the enemies movements across terrain as they approach you can also help you better understand what their battle plan is or where they look to strike.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Terrain can also be detrimental to your fight; be sure to avoid fighting on Flood Plains and Marshes as these have a negative effect on your defensibility. If you find yourself on indefensible terrain, and do not feel you can defeat your enemy on the attack, perhaps building a few Forts will help you push back the enemy. Remember to attack the enemies flanks, it is their weakest point and will also grant you advantage! Using a well-rounded military force with the proper terrain dispositions while having the use of a Đại Tướng Quân will ensure victory!</Text>
+			<Text>Địa hình có thể gây bất lợi cho trận chiến; hãy chắc chắn không chiến đấu trên vùng lũ và đầm lầy vì sẽ gây những tác động tiêu cực đến sức phòng thủ của bạn. Nếu thấy mình trên địa hình không thể phòng thủ, và cảm thấy mình không thể đánh bại quân địch trong trận chiến, có lẽ việc xây dựng một vài pháo đài sẽ giúp đẩy lùi quân địch. Luôn nhớ tấn công kẻ địch bằng cả hai cánh, đó là điểm yếu nhất và sẽ mang lại lợi thế rất lớn! Sử dụng lực lượng quân sự giàu kinh nghiệm cùng với sự bố trí hợp lý trên địa hình và sự có mặt của Đại Tướng Quân sẽ đảm bảo chiến thắng!</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
 			<Text>Kinh nghiệm và Huân chương</Text>
@@ -366,19 +387,19 @@
 			<Text>Thống trị một thành phố</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_PARA_1">
-			<Text>Khi đơn vị của bạn đi vào thành phố kẻ địch, bạn có 2 lựa chọn: có thể phá hủy thành phố (nếu nó không phải là [ICON_Capital] Thủ đô) hoặc thôn thánh để đưa nó vào đế chế của bạn.</Text>
+			<Text>Khi đơn vị của bạn đi vào thành phố kẻ địch, bạn có 2 lựa chọn: có thể phá hủy thành phố (nếu nó không phải là [ICON_Capital] Thủ đô) hoặc thôn thánh để đưa nó vào đế chế của bạn. Nếu thành phố từng thuộc về nền văn minh khác, bạn có thể lựa chọn Giải phóng để trả về chủ ban đầu.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_TITLE">
-			<Text>Formations</Text>
+			<Text>Đội hình</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Formations allow you to easily move units together. This can be useful for escorting civilian units in hostile lands, or even creating stronger units in Corps and Armies. A military unit can create a formation with a support or civilian unit at any time. Naval military units may also create a formation with embarked land units. Support units, such as siege units, are most effective in battle when linked with another military unit.</Text>
+			<Text>Đội hình cho phép bạn dễ dàng di chuyển các đơn vị cùng với nhau. Điều này có ích cho các đoàn hộ tống trong vùng đất thù địch, hoặc tạo ra những đơn vị quân mạnh hơn Trung Đội và Đại Đội. Một đơn vị quân đội có thể tạo ra đội hình với sự hỗ trợ từ đơn vị dân sự bất cứ lúc nào. Các đơn vị hải quân cũng có thể tạo ra một đội hình từ các đơn vị mặt đất. Đơn vị hỗ trợ, như đơn vị bao vây, có hiệu quả nhất trong trận chiến khi liên kết với một đơn vị quân khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_2">
-			<Text>Starting in the Industrial era after completing the Nationalism civic, players will be able to unlock the ability to combine multiple military units of the same type into a single stronger unit. Two military units of the same type will be able to combine to create a Corps, giving them +10 to their base [ICON_Strength] Combat Strength. After researching Mobilization, three units of the same type may be combined into an Army, giving +7 to their base [ICON_Strength] Combat Strength. Keep in mind that their HP is NOT increased when units are combined in this way.</Text>
+			<Text>Thời đại công nghiệp bắt đầu sau khi hoàn thành hành chính Chủ nghĩa dân tộc, người chơi có thể mở khoá khả năng kết hợp các đơn vị quân đội cùng loại thành một đơn vị mạnh hơn. Hai đơn vị quân đội cùng loại có thể kết hợp để tạo ra một Trung Đội, sẽ được thêm +10 [ICON_Strength] sức mạnh chiến đấu. Sau khi nghiên cứu Cơ động, ba đơn vị cùng loại có thể kết hợp tạo thành Đại Đội, sẽ được thêm +7 [ICON_Strength] sức mạnh chiến đấu. Hãy nhớ rằng HP KHÔNG được tăng lên khi các đơn vị được kết hợp theo cách này.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_3">
-			<Text>Once a Corps or Army has been formed, the units may not be broken apart into individual units again. The experience and promotions of the highest experience unit is preserved when creating this type of formation, so it is beneficial to combine rookies with more experienced units. Naval units may also be combined into Fleets and Armadas.</Text>
+			<Text>Khi Trung Đội hoặc Đại Đội được hình thành, các đơn vị này không thể chia ra thành các đơn vị cá nhân như trước. Những kinh nghiệm và chính sách áp dụng của đơn vị có kinh nghiệm cao nhất được giữ nguyên khi hình thành, vì vậy rất có lợi khi kết hợp những tân binh với các đơn vị có kinh nghiệm. Các đơn vị hải quân cũng có thể được kết hợp thành Hải Đoàn và Hạm Đội.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_TITLE">
 			<Text>Pillaging</Text>
@@ -408,19 +429,19 @@
 			<Text>Roads are an important part of moving around the world. Placed by Trader units beginning in the Ancient Era, roads begin by reducing the [ICON_Movement] Di chuyển cost of a tile to 1 when moving from one road tile to another. As technology progresses, you will unlock the ability to build better and better roads, and even bridges. Modern roads, for example, reduce [ICON_Movement] Di chuyển to a half [ICON_Movement] Di chuyển point per tile, when moving from one road tile to another. All roads allow units to ignore terrain-based movement penalties.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Roads are placed by Traders, but may also be placed manually by Military Engineers.</Text>
+			<Text>Các con đường được tạo bảo Thương gia, nhưng cũng có thể được xây bởi Kỹ sư quân đội.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_TITLE">
 			<Text>Zone of Control</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Many combat units exert a "Zone of Control" (ZOC) over the tiles around them. When a unit moves into an enemy's ZOC with [ICON_Movement] Di chuyển leftover, its [ICON_Movement] Di chuyển is stopped or it may attack.</Text>
+			<Text>Many combat units exert a "Zone of Control" (ZOC) over the tiles around them. When a unit moves into an enemy's ZOC with [ICON_Movement] Di chuyển leftover, its [ICON_Movement] Di chuyển is stopped or it may attack. Ranged unit do not exercise a ZOC.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_TITLE">
-			<Text>Naval Movement</Text>
+			<Text>Hải quân di chuyển</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Generally, naval units follow the same rules as land units, except that they move in the water rather than on land. Early naval units are often limited to coastal waters (those adjacent to land tiles) and coastal cities. Eventually, you'll produce naval units that can enter deep ocean tiles, and thus explore the world.</Text>
+			<Text>Tổng quát, đơn vị hải quân tuân theo quy tắc như các đơn vị mặt đất, ngoại trừ việc chúng di chuyển trên nước thay vì trên đất. Các đơn vị tiền hải quân thường bị giới hạn vùng nước ven biển (vùng tiếp giáp với đất liền) và các thành phố ven biển. Sau cùng, bạn có thể tạo ra các đơn vị hải quân có thể đi vào biển sâu, và khám phá thế giới.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_TITLE">
 			<Text>Embarking Units</Text>
@@ -482,6 +503,15 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_PARA_1">
 			<Text>To see how all of this works in the game, check out the amazing Civics Tree. It displays all of the civics and shows how they are intertwined. You can click on a civic to order your civilization to study it – if your civilization doesn't know the prerequisite civic it will research them as well. The Civics Tree will plot the quickest route to the requested civic, and you will study the necessary precursors in the order it displays. </Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_TITLE">
+			<Text>Culture Bombs</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_1">
+			<Text>A Culture Bomb is an action that allows you to wrest control of adjacent tiles from another player and add them to your own empire. Tiles gained in this way must be within 3 spaces of your city that is expanding. Tiles that already contain a completed district or wonder do not switch ownership from Culture Bombs. Incomplete district or wonder tiles will switch ownership, but the partially-built contents of those tiles will be destroyed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
+			<Text>To initiate a Culture Bomb, play as Poland and complete an Encampment or Fort in friendly territory.</Text>
+		</Row>		
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOLD_NAME">
 			<Text>Gold and the Economy</Text>
 		</Row>
@@ -675,10 +705,10 @@
 			<Text>Biện minh chiến tranh là lý do để đi đến chiến tranh mà ở đó hình phạt gây chiến sẽ được giảm xuống or capturing cities are reduced or eliminated.  Once you reach the Renaissance era civic Diplomatic Service, you may accumulate Casus Belli against other powers.  See the table below for the conditions for each Casus Belli, the civic that unlocks them, and the percentage of the usual warmonger penalty that is applied.[NEWLINE][NEWLINE]Holy War: if one of your cities is converted to the enemy's religion[NEWLINE](Diplomatic Service, 50% warmongering)[NEWLINE][NEWLINE]War of Liberation: if a friend or ally had cities conquered[NEWLINE](Diplomatic Service, no warmongering if liberate cities conquered)[NEWLINE][NEWLINE]War of Reconquest: if you had cities conquered in a previous war[NEWLINE](Diplomatic Service, no warmongering if retake your previous cities)[NEWLINE][NEWLINE]Protectorate War: if a city-state you are Suzerain of is attacked[NEWLINE](Diplomatic Service, no warmongering if liberate city-state target)[NEWLINE][NEWLINE]Colonial War: if target civilization is two eras behind you in technology[NEWLINE](Nationalism, 50% warmongering)[NEWLINE][NEWLINE]War of Territorial Expansion: if target civilization borders your nation[NEWLINE](Mobilization, 75% warmongering)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_TITLE">
-			<Text>Agendas</Text>
+			<Text>Chương trình Nghị Sự</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_1">
-			<Text>Diplomatic Agendas are a major driving force in your relationship with other leaders. They drive the desires and behavior of those leaders. You can use Agendas to know how to get on a leader's good side, or what to do to avoid making them angry.</Text>
+			<Text>Chương trình Nghị sự Ngoại giao là một động lực quan trọng trong mối quan hệ của bạn với các nhà lãnh đạo khác. Chúng sẽ hướng các mong muốn và hành vi của các nhà lãnh đạo. Bạn có thể sử dụng Chương trình Nghị sự để biết cách khai thác mặt tốt của một nhà lãnh đạo, cũng như là tránh làm họ tức giận.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_2">
 			<Text>Leaders have a Historic Agenda and a Secret Agenda. The Historic Agenda is based on that leader's real-world historical personality and achievements. The Secret Agenda is assigned at beginning of every game, and could be a wide variety of things—maybe they like other civilizations with lots of culture or gold, or maybe they dislike warmongers. Revealing the Secret Agenda is important to knowing what pleases and displeases a leader. Increase your Diplomatic Visibility with each civilization to find out what their leaders' Secret Agendas are.</Text>
@@ -891,7 +921,7 @@
 			<Text>Di chuyển Vĩ Nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_GreatPerson] Vĩ nhân có thể di chuyển giống như các đơn vị khác. Họ không phải là đơn vị chiến đấu, như vậy họ không thể đứng chung ô với các đơn vị phi chiến đấu khác (Thợ xây, Dân di cư), nhưng họ có thể đứng chung với đơn vị chiến đấu. Nếu một đơn vị đối phương di chuyển vào ô mà [ICON_GreatPerson] Vĩ nhân đang đứng thì [ICON_GreatPerson] Vĩ nhân sẽ tự động lui lại đến thành phố gần bên (miễn là đối phương chưa chiếm được thành phố đó).</Text>
+			<Text>[ICON_GreatPerson] Vĩ nhân có thể di chuyển giống như các đơn vị khác. Họ không phải là đơn vị chiến đấu, như vậy họ không thể đứng chung ô với các đơn vị phi chiến đấu khác (Thợ xây, Dân di cư), nhưng họ có thể đứng chung với đơn vị chiến đấu. Nếu một đơn vị đối phương di chuyển vào ô mà [ICON_GreatPerson] Vĩ nhân đang đứng thì [ICON_GreatPerson] Vĩ nhân sẽ tự động lui lại đến thành phố gần bên (miễn là đối phương chưa chiếm được thành phố đó). Đơn vị này cũng được chuyển đến thành phố khác khi ở trong thành phố trung tâm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_AIRCOMBAT_NAME">
 			<Text>Chiến đấu trên không</Text>
@@ -993,7 +1023,7 @@
 			<Text>Công viên Quốc Gia có thể được xây dựng dựa trên một cụm gồm bốn ô lục giác xếp gần kề nhau theo yêu cầu:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_3">
-			<Text>1. Các ô đó phải là kỳ quan tự nhiên, Núi, hoặc có sức hấp dẫn Đẹp trở lên.[NEWLINE]2. Tất cả bốn ô này phải cùng chung trong một thành phố.[NEWLINE]3. Các ô phải có hình dáng của kim cương.[NEWLINE]4. Không ô nào có công trình hoặc đặc khu.</Text>
+			<Text>1. Các ô đó phải là kỳ quan tự nhiên, Núi, hoặc có sức hấp dẫn Đẹp trở lên.[NEWLINE]2. Tất cả bốn ô này phải cùng chung trong một thành phố.[NEWLINE]3. Các ô phải có hình dáng của kim cương dọc.[NEWLINE]4. Không ô nào có công trình hoặc đặc khu.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_4">
 			<Text>Có thể sử dụng Nhà tự nhiên học để thấy được các vị trí hợp lệ trên bản đồ. Đưa Nhà tự nhiên học đến vị trí được đánh dấu và thực hiện tạo Công Viên Quốc Gia.</Text>

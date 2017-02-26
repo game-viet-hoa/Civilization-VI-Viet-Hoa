@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
 <GameData>
 	<FrontEndText>
@@ -20,6 +20,7 @@
 [3]LuongYeuH
 [3]Đạt Đoàn
 [3]Thông Nguyễn
+[3]...
 
 [2]TEAM LEADERSHIP
 [3]Lead Designer
@@ -31,8 +32,14 @@
 [3]Art Director
 [4]Brian Busatti
 
+[3]DLC Art Director
+[4]Jason Johnson
+
 [3]Senior Producer
 [4]Dennis Shirk
+
+[3]DLC Senior Producer
+[4]Andrew Frederiksen
 
 [i]TechTree_Meter_Done
 
@@ -57,16 +64,20 @@
 [3]Senior Producer
 [4]Dennis Shirk
 
+[3]DLC Senior Producer
+[4]Andrew Frederiksen
+
 [3]Associate Producer
 [4]Sarah Darney
 
 [3]Additional Production
 [4]Amy Pickens, Technical Animation Group
-[4]Stuart Zissu, Systems and IHV Support
+[4]Stuart E. Zissu, Systems and IHV Support
 
 [3]Writers
 [4]Alexander Horn
 [4]Rex Martin
+[4]Zach Bush
 
 [3]Additional Writing
 [4]Steffen Drees
@@ -121,7 +132,7 @@
 [4]Tronster
 
 [3]Interface Engineers
-[4]Sam Batista
+[4]Samuel Batista
 [4]Whitney Bell
 [4]Joe Cortese
 
@@ -155,10 +166,13 @@
 [3]Art Director
 [4]Brian Busatti
 
+[3]DLC Art Director
+[4]Jason Johnson
+
 [3]Lead Interface Designer
 [4]Whitney Bell
 
-[3]Interface Designers
+[3]DLC Lead Interface Designer
 [4]David Cory
 
 [3]Interface Artists
@@ -167,10 +181,12 @@
 [3]Lead Animator
 [4]Hector Antunez
 
+[3]DLC Lead Animator
+[4]Grant Chang
+
 [3]Animators
 [4]Rachel Anchors
 [4]Aaron Andersen
-[4]Grant Chang
 [4]Lou Ferina
 [4]Alex Kim
 [4]Greg Marlow
@@ -190,7 +206,7 @@
 [3]Additional Technical Animation
 [4]Savannah Myers
 
-[3]Lead Character Modeler
+[3]Lead Character Artist
 [4]Matthew Kean
 
 [3]Lead Unit Modeling
@@ -223,7 +239,7 @@
 [4]Clark Coots
 [4]Tommy Cox
 [4]Alex Llivicura
-[4]Matt MacAuliffe
+[4]Matt McAuliffe
 [4]Rambo Siu
 
 [3]Additional Structure Modelers
@@ -242,17 +258,24 @@
 [3]Lead Concept Artist
 [4]Sang Han
 
-[3]Concept Artists
+[3]DLC Lead Concept Artist
 [4]Kat Berkley
+
+[3]Concept Artists
 [4]Taylor Fischer
 [4]Sam Gauss
 [4]Michael Tassie
+[4]Ryan Andrade
+[4]Aaron Whitehead
 
 [3]Additional Concept Artists
 [4]Andrew Bosley
 [4]Eric Ehoff
 [4]Jeff Paulsrud
 [4]Colleen Peck
+
+[3]Motion Graphics Designer
+[4]Steve Ogden
 
 [i]TechTree_Meter_Done
 
@@ -344,12 +367,28 @@
 
 [3]Cinematic and Main Menu Score 
 [4]Main Menu: "Sogno di Volare (The Dream of Flight)"
-[4]Opening Movie: "A New Course"
- 
 [4]Composed by Christopher Tin
 [4]Lyrics by Leonardo da Vinci, adapted by Chiara Cortez
+[4]Performed by Angel City Chorale, Cappella SF and the Macedonian Symphonic Orchestra
+[4]Mixed by Jason Schweitzer
+[4]Recorded at Abbey Road Studios, Skywalker Sound, The Bridge and MRTV Studio M1
+[4]Recording Engineers: Andrew Dudman, Leslie Ann Jones, Milton Gutierrez and Giorgi Hristovski
+
+[4]Opening Movie: "A New Course"
+[4]Composed by Christopher Tin
+[4]Lyrics by Leonardo da Vinci, adapted by Chiara Cortez
+[4]Performed by Cappella SF and the Macedonian Symphonic Orchestra
+[4]Mixed by Leslie Ann Jones
+[4]Recorded at Skywalker Sound, The Bridge, and MRTV Studio M1
+[4]Recording Engineers: Leslie Ann Jones, Milton Gutierrez and Giorgi Hristovski
+
+[4]Additional Arrangements by Alex Williamson
+[4]Additional Orchestrations by Jerome Leroy
  
-[4]Performed by Cappella SF
+[3]Angel City Chorale
+[4]Music Director: Sue Fink
+ 
+[3]Cappella SF
 [4]Music Director: Ragnar Bohlin
  
 [3]Orchestra: Macedonian Symphonic Orchestra
@@ -405,7 +444,7 @@
 [4]Timothy McCracken
 
 [3]QA Lead
-[4]Carl Harrison
+[4]Carlton Harrison
 
 [3]Testers
 [4]Daron Carlock 
@@ -1019,6 +1058,8 @@
 [4]Brian Reiss
 [4]Jake Merryman
 [4]Keith Rische
+[4]Summer Breeze
+[4]Todd White
 
 [3]Testers 
 [4]Anthony Garland
@@ -1048,12 +1089,12 @@
 [4]Preston Chapin-Soriano
 [4]Richard Pugh
 [4]Robb Bryant
+[4]Sacha Moctezuma
 [4]Sampson Brier
+[4]Seth Kent
 [4]Shaylea Gallagher
 [4]Steven Danner
-[4]Summer Breeze
 [4]Tiffany Chung
-[4]Todd White
 [4]Vanessa Derhousoff
 [4]Victoria Cormier
 [4]Wenceslao Concina
@@ -1162,6 +1203,8 @@
 [4]Harald Raschen
 [4]Johanna Cohen
 [4]Sergio Accettura
+[4]Benny Johnson 
+[4]Tristan Breeden
 
 [3]Localization QA Technicians 
 [4]Clement Mosca
@@ -1354,6 +1397,7 @@
 [3]IT Engineers
 [4]Hu Xiang
 [4]Zhao Hong Wei
+[4]Jiang Fei Kai 
 
 [i]TechTree_Meter_Done
 
@@ -1481,8 +1525,8 @@
 [3]Cleopatra
 [4]Nirvana Hisham
 
-[3]Tần Thủy Hoàng
-[4]Junchao Hunag
+[3]Qin Shi Huang
+[4]Junchao Huang
 
 [3]Mvemba a Nzinga
 [4]Mamengi Alfredo Lombisi
@@ -1510,6 +1554,9 @@
 
 [3]Philip II
 [4]Anton Carmano Vega
+
+[3]Jadwiga
+[4]Julia Jakubowska
 
 [2]French Cast
 
