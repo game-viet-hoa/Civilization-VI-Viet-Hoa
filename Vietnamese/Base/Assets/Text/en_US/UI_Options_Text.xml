@@ -2,28 +2,28 @@
 <GameData>
 	<FrontEndText>
 		<Row Tag="LOC_OPTIONS_TITLE">
-			<Text>OPTIONS</Text>
+			<Text>TÙY CHỌN</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
-			<Text>This will reset ALL options to their default values.[NEWLINE][NEWLINE][COLOR_RED]Some changes may not take effect until you restart the application.[ENDCOLOR][NEWLINE][NEWLINE]Reset options?</Text>
+			<Text>Nó sẽ đặt lại TẤT CẢ tùy chọn về mặc định.[NEWLINE][NEWLINE][COLOR_RED]Một số thay đổi có thể không hiệu quả cho đến khi khởi động lại ứng dụng.[ENDCOLOR][NEWLINE][NEWLINE]Đặt lại tùy chọn?</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
-			<Text>Some changes may not take effect until you restart the application.</Text>
+			<Text>Một số thay đổi có thể không hiệu quả cho đến khi khởi động lại ứng dụng.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
-			<Text>Some changes may not take effect until you restart the current game.</Text>
+			<Text>Một số thay đổi có thể không hiệu quả cho đến khi khởi động lại trò chơi hiện tại.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESOLUTION_OK">
-			<Text>Do you want to keep the current resolution settings?</Text>
+			<Text>Bạn có muốn giữ lại cài đặt độ phân giải hiện tại?</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
 			<Text>OK</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
-			<Text>Yes</Text>
+			<Text>Có</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
-			<Text>No</Text>
+			<Text>Không</Text>
 		</Row>
 
 		<!-- Option Enums -->
@@ -54,10 +54,10 @@
 			<Text>Tùy chỉnh</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_NONE">
-			<Text>None</Text>
+			<Text>Không</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_REAL_LIFE">
-			<Text>Match local time</Text>
+			<Text>Giống thời gian địa phương</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_X_TURNS">
 			<Text>Mỗi {1_num} lượt</Text>
@@ -66,13 +66,13 @@
 			<Text>Mỗi 10 lượt</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
-			<Text>As eras progress</Text>
+			<Text>Như tiến bộ các thời đại</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_NEVER">
-			<Text>Never</Text>
+			<Text>Không bao giờ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_ALWAYS">
-			<Text>Always</Text>
+			<Text>Luôn luôn</Text>
 		</Row>
 
 		<!-- Gameplay Panel -->
@@ -84,10 +84,10 @@
 			<Text>Mới từ Civilization</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
-			<Text>New to turn-based strategy</Text>
+			<Text>Mới từ game chiến thuật theo lượt</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
-			<Text>Animated Time of Day:</Text>
+			<Text>Hoạt cảnh ngày đêm:</Text>
 		</Row>
 
 		<!-- Graphics Panel - Option Enums -->
@@ -170,16 +170,16 @@
 		</Row>
 			
 		<Row Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
-			<Text>Low (Memory-Optimized)</Text>
+			<Text>Thấp (Tối ưu bộ nhớ)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
-			<Text>Low (Performance-Optimized)</Text>
+			<Text>Thấp (Tối ưu hiệu năng)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
-			<Text>Medium (Memory-Optimized)</Text>
+			<Text>Trung bình (Tối ưu bộ nhớ)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
-			<Text>Medium (Performance-Optimized)</Text>
+			<Text>Trung bình (Tối ưu hiệu năng)</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_REFLECTION_1PASS">
@@ -208,261 +208,261 @@
 		<!-- Graphics Panel - Main -->
 
 		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
-			<Text>GPU Selection:</Text>
+			<Text>Chọn GPU:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
-			<Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+			<Text>Cho trò chơi biết Card đồ họa nào được sử dụng.[NEWLINE][NEWLINE][COLOR_RED]Yêu cầu khởi động lại ứng dụng![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
-			<Text>Split-screen Multi-GPU</Text>
+			<Text>Chia màn hình Đa GPU</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
-			<Text>Only available on DX12 multi-GPU setups.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+			<Text>Chỉ khả dụng trên Đa GPU DX12.[NEWLINE][NEWLINE][COLOR_RED]Yêu cầu khởi động lại ứng dụng![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
-			<Text>Resolution:</Text>
+			<Text>Độ phân giải:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
-			<Text>Sets the resolution the game renders at.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
+			<Text>Chọn độ phân giải để trò chơi dựng hình.[NEWLINE][NEWLINE]Giáp trị thấp sẽ [COLOR_Civ6DarkRed]tăng hiệu năng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
-			<Text>UI Upscaling:</Text>
+			<Text>Tỉ lệ UI:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
-			<Text>Increases the size of the user interface.[NEWLINE](Only available at certain resolutions.)</Text>
+			<Text>Tăng kích thước tỉ lệ giao diện người dùng.[NEWLINE](Chỉ khả dụng tại một số độ phân giải nhất định.)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
-			<Text>Window Mode:</Text>
+			<Text>Chế độ cửa sổ:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
-			<Text>Modifies how the game's window is displayed.</Text>
+			<Text>Thay đổi cửa sổ trò chơi dể được hiển thị.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
-			<Text>Performance Impact:</Text>
+			<Text>Tác động hiệu năng:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
-			<Text>Changes advanced settings to match the desired performance impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
+			<Text>Thay đổi cài đặt nâng cao để phù hợp với hiệu suất mong muốn.[NEWLINE][NEWLINE]Giá trị thấp làm giảm độ trung thực của hình ảnh, nhưng lại [COLOR_Civ6DarkRed]tăng hiệu năng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
-			<Text>Memory Impact:</Text>
+			<Text>Tác động bộ nhớ:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
-			<Text>Changes advanced settings to match the desired memory impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi cài đặt nâng cao để phù hợp với bộ nhớ mong muốn.[NEWLINE][NEWLINE]Giá trị thấp làm giảm độ trung thực của hình ảnh, nhưng lại [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Advanced -->
 
 		<Row Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
-			<Text>Show Advanced Options</Text>
+			<Text>Hiển Thị Cài Đặt Nâng Cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
-			<Text>Hide Advanced Options</Text>
+			<Text>Ẩn Cài Đặt Nâng Cao</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
-			<Text>Advanced Graphics Settings</Text>
+			<Text>Cài Đặt Đồ Họa Nâng Cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
-			<Text>Vertical Sync</Text>
+			<Text>Đồng Bộ Dọc</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
-			<Text>Prevents visual tearing.</Text>
+			<Text>Chống lệch hình ảnh.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
-			<Text>Frame Limiter:</Text>
+			<Text>Giới hạn khung hình:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
-			<Text>Limits the rate at which the game renders.[NEWLINE][NEWLINE]Might increase battery life on portable devices when enabled.</Text>
+			<Text>Giới hạn tỷ lệ trò chơi dựng hình.[NEWLINE][NEWLINE]Có thể tăng tuổi thọ thiết bị di động nếu được bật.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
-			<Text>Anti-Aliasing:</Text>
+			<Text>Khử răng cưa:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
-			<Text>Smooths out jagged edges.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Làm mềm các góc lởm chởm.[NEWLINE][NEWLINE]Giá trị thấp sẽ [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR] và [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
-			<Text>High-Resolution Asset Textures</Text>
+			<Text>Cấu tạo đối tượng độ phân giải cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
-			<Text>Uses high-detail textures for game assets.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+			<Text>Sử dụng hình ảnh nhiều chi tiết cho đối tượng.[NEWLINE][NEWLINE]Tắt để [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
-			<Text>High-Quality Visual Effects:</Text>
+			<Text>Hiệu ứng hình ảnh chất lượng cao:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
-			<Text>Spawns more particle effects.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Tạo ra nhiều hiệu ứng hơn.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Lighting -->
 
 		<Row Tag="LOC_OPTIONS_LIGHTING">
-			<Text>Lighting</Text>
+			<Text>Ánh sáng</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
-			<Text>Ambient Occlusion</Text>
+			<Text>Đổ bóng góc khuất</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
-			<Text>Darkens areas of objects that are less exposed to ambient light.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Làm tối những chỗ mà có ít ánh sáng tiếp xúc.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
-			<Text>Ambient Occlusion Depth Resolution:</Text>
+			<Text>Chiều sâu đổ bóng góc khuất:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
-			<Text>Changes the ambient occlusion detail.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi chi tiết đổ bóng góc khuất.[NEWLINE][NEWLINE]Giá trị thấp sẽ [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
-			<Text>Ambient Occlusion Render Resolution:</Text>
+			<Text>Dựng hình đổ bóng góc khuất:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
-			<Text>Changes the ambient occlusion quality.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi chất lượng đổ bóng góc khuất.[NEWLINE][NEWLINE]Giá trị thấp sẽ [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
-			<Text>Bloom</Text>
+			<Text>Rực rỡ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
-			<Text>Adds glow to bright lights and reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Thêm ánh sáng rực rỡ và phản chiếu.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
-			<Text>Dynamic Lighting</Text>
+			<Text>Ánh sáng động</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
-			<Text>Adds light sources other than the sun.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Thêm nguồn sáng hơn mặt trời.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Shadows -->
 
 		<Row Tag="LOC_OPTIONS_SHADOWS">
-			<Text>Shadows</Text>
+			<Text>Đổ bóng</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
-			<Text>Shadows</Text>
+			<Text>Đổ bóng</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
-			<Text>Add dark areas where light is blocked by an object.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Thêm vùng tối ở chỗ ánh sáng bị chắn bởi đối tượng khác.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
-			<Text>Shadow Resolution:</Text>
+			<Text>Độ phân giải đổ bóng:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
-			<Text>Changes the sharpness and detail of shadows.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi độ chi tiết và sắc nét của bóng.[NEWLINE][NEWLINE]Giá trị thấp sẽ [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Overlay -->
 
 		<Row Tag="LOC_OPTIONS_OVERLAY">
-			<Text>Overlay</Text>
+			<Text>Lớp phủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT">
-			<Text>Overlay Resolution:</Text>
+			<Text>Độ phân giải lớp phủ:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP">
-			<Text>Changes the sharpness and detail of overlays.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi độ chi tiết và sắc nét của lớp phủ.[NEWLINE][NEWLINE]Giá trị thấp sẽ [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
-			<Text>Screen-Space Overlay</Text>
+			<Text>Vị trí lớp phủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
-			<Text>Draws the overlays on top of everything, not just on top of the terrain.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Vẽ lớp phủ nằm trên mọi thứ khác, không chỉ trên mỗi địa hình.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Terrain -->
 
 		<Row Tag="LOC_OPTIONS_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Địa hình</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
-			<Text>Quality:</Text>
+			<Text>Chất lượng:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
-			<Text>Changes the terrain detail.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and/or [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi chất lượng địa hình.[NEWLINE][NEWLINE]Giá trị thấp để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR] và/hoặc [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
-			<Text>High-Resolution Geometry</Text>
+			<Text>Cấu trúc hình học độ phân giải cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
-			<Text>Terrain geometry becomes sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Cấu trúc địa hình trở nên sắc nén và chi tiết hơn.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT">
-			<Text>High-Resolution Textures</Text>
+			<Text>Cấu tạo độ phân giải cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP">
-			<Text>Terrain textures become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+			<Text>Cấu tạo địa hình trở nên sắc nén và chi tiết hơn.[NEWLINE][NEWLINE]Tắt để [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
-			<Text>High-Quality Shader</Text>
+			<Text>Đổ bóng chi tiết cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
-			<Text>Changes the terrain lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Thay đổi ánh sáng địa hình.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
-			<Text>High-Detail Clutter</Text>
+			<Text>Sự lộn xộn chi tiết cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
-			<Text>Increases the amount of trees and ice chunks.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Tăng số lượng cây và khối đá.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Water -->
 
 		<Row Tag="LOC_OPTIONS_WATER">
-			<Text>Water</Text>
+			<Text>Nước</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
-			<Text>High-Resolution Water</Text>
+			<Text>Nước độ phân giải cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
-			<Text>Water waves and highlights become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+			<Text>Sóng nước trên nên sắc nét và chi tiết hơn.[NEWLINE][NEWLINE]Tắt để [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
-			<Text>High-Quality Shader</Text>
+			<Text>Đổ bóng chi tiết cao</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
-			<Text>Changes the water lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Thay đổi ánh sáng nước.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
-			<Text>Reflections:</Text>
+			<Text>Phản chiếu:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
-			<Text>Control the quality of water reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+			<Text>Thay đổi chất lượng của nước phản chiếu.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Graphics Panel - Leaders -->
 
 		<Row Tag="LOC_OPTIONS_LEADERS">
-			<Text>Animated Leaders</Text>
+			<Text>Hoạt cảnh người lãnh đạo</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
-			<Text>Quality:</Text>
+			<Text>Chất lượng:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
-			<Text>Changes the appearance of leaders.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR] and lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+			<Text>Thay đổi sự xuất hiện của người lãnh đạo.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR] và giá trị thấp để [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Row>
 
 		<!-- Application Panel -->
 
 		<Row Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
-			<Text>Show Intro Video:</Text>
+			<Text>Hiện phim mở đầu:</Text>
 		</Row>
 
 		<!-- Interface Panel -->
 
 		<Row Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
-			<Text>Lock Mouse to Window:</Text>
+			<Text>Khóa chuột vào cửa sổ:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
-			<Text>Scroll when Mouse at Edge:</Text>
+			<Text>Cuộn chuột tại viền cửa sổ:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
-			<Text>Clock Format:</Text>
+			<Text>Kiểu đồng hồ:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_12HOUR">
-			<Text>12-Hour</Text>
+			<Text>12 Giờ</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_24HOUR">
-			<Text>24-Hour</Text>
+			<Text>24 Giờ</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
@@ -477,117 +477,114 @@
 		<Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
 			<Text>{1_Value : number #.##}giây</Text>
 		</Row>
-
-		
-
+ 
 		<!-- Hotkeys Panel -->
-
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
-			<Text>User Interface:</Text>
+			<Text>Giao diện người dùng:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
-			<Text>Toggle Tech Tree</Text>
+			<Text>Cây công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
-			<Text>Toggle Civics Tree</Text>
+			<Text>Cây hành chính</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
-			<Text>Toggle Government Screen</Text>
+			<Text>Màn hình chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
-			<Text>Toggle Religion Screen</Text>
+			<Text>Màn hình tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
-			<Text>Toggle Great People Screen</Text>
+			<Text>Màn hình vĩ nhân</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
-			<Text>Toggle Great Works Screen</Text>
+			<Text>Màn hình thành tựu vĩ đại</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
-			<Text>Toggle Rankings Screen</Text>
+			<Text>Màn hình bảnh xếp hạng</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
-			<Text>Toggle City-States Screen</Text>
+			<Text>Màn hình thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
-			<Text>Toggle Espionage Screen</Text>
+			<Text>Màn hình gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
-			<Text>Toggle Trade Routes Screen</Text>
+			<Text>Màn hình tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
-			<Text>Open the Civilopedia</Text>
+			<Text>Mở Civilopedia</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
-			<Text>Toggles visibility of the Tech Tree</Text>
+			<Text>Hiển thị cây công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
-			<Text>Toggles visibility of the Civics Tree</Text>
+			<Text>Hiển thị cây hành chính</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
-			<Text>Toggles visibility of the Government Screen</Text>
+			<Text>Hiển thị màn hình chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
-			<Text>Toggles visibility of the Religion Screen</Text>
+			<Text>Hiển thị màn hình tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
-			<Text>Toggles visibility of the Great People Screen</Text>
+			<Text>Hiển thị màn hình vĩ nhân</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
-			<Text>Toggles visibility of the Great Works Screen</Text>
+			<Text>Hiển thị màn hình thành tựu vĩ đại</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
-			<Text>Toggles visibility of the Rankings Screen</Text>
+			<Text>Hiển thị màn hình bảng xếp hạng</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
-			<Text>Toggles visibility of the City-States Screen</Text>
+			<Text>Hiển thị màn hình thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
-			<Text>Toggles visibility of the Espionage Screen</Text>
+			<Text>Hiển thị màn hình gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
-			<Text>Toggles visibility of the Trade Routes Screen</Text>
+			<Text>Hiển thị màn hình tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
-			<Text>Opens the Civilopedia</Text>
+			<Text>Mở Civilopedia</Text>
 		</Row>
 
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
-			<Text>Unit Actions:</Text>
+			<Text>Đơn vị hành động:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
-			<Text>Found City</Text>
+			<Text>Sáng lập thành phố</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
-			<Text>Move To</Text>
+			<Text>Di chuyển</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
-			<Text>Fortify</Text>
+			<Text>Cố Thủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
 			<Text>Xóa đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
-			<Text>Attack</Text>
+			<Text>Tấn công</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
-			<Text>Ranged Attack</Text>
+			<Text>Đánh Xa</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
 			<Text>Tự khám phá</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
-			<Text>Skip Turn</Text>
+			<Text>Qua lượt</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
-			<Text>Sleep</Text>
+			<Text>Ngủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
-			<Text>Alert</Text>
+			<Text>Cảnh báo</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
@@ -623,53 +620,53 @@
 
 		
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
-			<Text>Global Actions:</Text>
+			<Text>Hành Động Chung:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
-			<Text>Next Action</Text>
+			<Text>Kết thúc lượt</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
-			<Text>Toggle Grid</Text>
+			<Text>Bật tắt lưới</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
-			<Text>In-Game Menu</Text>
+			<Text>Menu trong Game</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
-			<Text>QuickSave</Text>
+			<Text>Lưu nhanh</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
-			<Text>QuickLoad</Text>
+			<Text>Tải nhanh</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT">
-			<Text>Next Ready Unit</Text>
+			<Text>Đơn vị tiếp</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT">
-			<Text>Previous Ready Unit</Text>
+			<Text>Đơn vị trươc</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD">
-			<Text>Toggle Yield Icons</Text>
+			<Text>Bật tắt biểu tượng sản lượng</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
-			<Text>Pan up</Text>
+			<Text>Di chuyển lên</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
-			<Text>Pan down</Text>
+			<Text>Di chuyển xuống</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
-			<Text>Pan left</Text>
+			<Text>Di chuyển trái</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
-			<Text>Pan right</Text>
+			<Text>Di chuyển phải</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
-			<Text>Next City</Text>
+			<Text>Thành phố tiếp</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
-			<Text>Previous City</Text>
+			<Text>Thành phố trước</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
-			<Text>Toggle Resource Icons</Text>
+			<Text>Bật tắt biểu tượng tài nguyên</Text>
 		</Row>
 		
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
@@ -720,10 +717,10 @@
 		</Row>
 		
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
-			<Text>Online Actions:</Text>
+			<Text>Hành động Online:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
-			<Text>Online Pause</Text>
+			<Text>Dừng Online</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
@@ -732,29 +729,29 @@
 
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
-			<Text>Lenses:</Text>
+			<Text>Ống kính:</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
-			<Text>Religion</Text>
+			<Text>Tên giáo</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
-			<Text>Continent</Text>
+			<Text>Lục địa</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
-			<Text>Appeal</Text>
+			<Text>Sức hấp dẫn</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
-			<Text>Settler</Text>
+			<Text>Dân di cư</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
-			<Text>Political</Text>
+			<Text>Chính sách</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Du lịch</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
@@ -1230,7 +1227,7 @@
 			<Text>Num Keys</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SUBTITLES">
-			<Text>Cinematic Subtitles:</Text>
+			<Text>Phụ đề phim:</Text>
 		</Row>
 	</FrontEndText>
 </GameData>

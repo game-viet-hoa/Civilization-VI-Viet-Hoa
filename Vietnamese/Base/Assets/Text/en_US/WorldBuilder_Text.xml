@@ -27,7 +27,7 @@
 		</Row>
 		
 		<Row Tag="LOC_WORLDBUILDER_TAB_TEXT">
-			<Text>Text</Text>
+			<Text>Văn bản</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
@@ -55,10 +55,10 @@
 			<Text>Đức tin</Text>
 		</Row>		
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
-			<Text>Garrison Damage</Text>
+			<Text>Thiệt hại Đồn Trú</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
-			<Text>Outer Damage</Text>
+			<Text>Thiệt hại bên ngoài</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
 			<Text>Dân sô</Text>
@@ -134,22 +134,22 @@
 			<Text>Chủ</Text>
 		</Row>
 		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
-			<Text>Terrain Visibility</Text>
+			<Text>Tầm nhìn địa hình</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
-			<Text>Map Editor</Text>
+			<Text>Bộ chỉnh sửa bản đồ</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
-			<Text>Player Editor</Text>
+			<Text>Bộ chỉnh sửa người chơi</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
-			<Text>Left Click to place. Right Click to Remove.</Text>
+			<Text>Click trái để đặt. Click phải để loại bỏ.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
-			<Text>No plot selected</Text>
+			<Text>Không có ô đất được lựa chọn.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
@@ -157,23 +157,23 @@
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
-			<Text>Generate New ID...</Text>
+			<Text>Tạo ID mới...</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
-			<Text>Width</Text>
+			<Text>Chiều rộng</Text>
 		</Row>
 		
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
-			<Text>Height</Text>
+			<Text>Chiều dài</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
-			<Text>Ruleset</Text>
+			<Text>Luật</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
-			<Text>Map Script</Text>
+			<Text>Script Bản đồ</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
@@ -181,7 +181,7 @@
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
-			<Text>If checked, the World Builder map is a self-contained Mod and can be used as a Map Type when starting a game.  If not checked, the map is assumed to be used as part of a larger Mod.</Text>
+			<Text>Nếu được đánh dấu, bộ tạo thế giới tạo ra Mod bản đồ khép kín và chỉ có thể sử dụng như một Loại Bản Đồ khi bắt đầu trò chơi. Nếu không được đánh dấu, bản đồ được giả định sử dụng như một phần của Mod lớn hơn.</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
@@ -189,15 +189,15 @@
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
-			<Text>Một bản đồ không tên được tạo bởi Bộ TạoAn Untitled Map made by World Builder</Text>
+			<Text>Một bản đồ không tên được tạo bởi Bộ Tạo Thế Giới</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
-			<Text>Untitled Map Mod</Text>
+			<Text>Mod bản đồ không tên</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
-			<Text>A Map Mod made by World Builder</Text>
+			<Text>Một Mod bản đồ không tên được tạo bởi Bộ Tạo Thế Giới</Text>
 		</Row>
 
 		<Row Tag="LOC_WORLDBUILDER_ADD_BUTTON">

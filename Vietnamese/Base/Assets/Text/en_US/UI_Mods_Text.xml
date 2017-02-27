@@ -3,211 +3,211 @@
   <BaseGameText>
     <!-- Mods Section -->
     <Row Tag="LOC_MODS_TITLE">
-      <Text>ADDITIONAL CONTENT</Text>
+      <Text>NỘI DUNG BỔ SUNG</Text>
     </Row>
     <Row Tag="LOC_MODS_INSTALLED">
-      <Text>INSTALLED</Text>
+      <Text>ĐÃ CÀI ĐẶT</Text>
     </Row>
     <Row Tag="LOC_MODS_SUBSCRIPTIONS">
-      <Text>SUBSCRIPTIONS</Text>
+      <Text>THEO DÕI</Text>
     </Row>
     <Row Tag="LOC_MODS_BROWSE_WORKSHOP">
-      <Text>BROWSE WORKSHOP</Text>
+      <Text>DUYỆT WORKSHOP</Text>
     </Row>
     <Row Tag="LOC_MODS_WORLD_BUILDER">
-      <Text>WORLD BUILDER</Text>
+      <Text>XÂY DỰNG THẾ GIỚI</Text>
     </Row>
     <Row Tag="LOC_MODS_NONE_INSTALLED">
-      <Text>There are no mods installed.</Text>
+      <Text>Không có mod nào được cài đặt.</Text>
     </Row>
 	<Row Tag="LOC_MODS_NONE_SELECTED">
-      <Text>Select a mod to the left to view details.</Text>
+      <Text>Chọn mod ở bên trái để xem chi tiết.</Text>
     </Row>
     <Row Tag="LOC_MODS_NO_SUBSCRIPTIONS">
-      <Text>There are no subscriptions.</Text>
+      <Text>Không có mục nào được theo dõi.</Text>
     </Row>
     <Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED">
-      <Text>Installed</Text>
+      <Text>Đã cài đặt</Text>
     </Row>
     <Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING">
-      <Text>Download Pending...</Text>
+      <Text>Đang tải về...</Text>
     </Row>
     <Row Tag="LOC_MODS_SUBSCRIPTION_SUBSCRIBED">
-      <Text>Subscribed (but not downloaded)</Text>
+      <Text>Theo dấu (nhưng chưa được tải về)</Text>
     </Row>
     <Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOADING">
-      <Text>Downloading... ({1 : number} of {2 : number} total)</Text>
+      <Text>Đang tải... ({1 : number} trong tổng {2 : number})</Text>
 	</Row>
     <Row Tag="LOC_MODS_ENABLE_MOD">
-      <Text>Enable Mod</Text>
+      <Text>Kích hoạt Mod</Text>
     </Row>
     <Row Tag="LOC_MODS_DOWNLOADING">
-      <Text>Downloading Item...</Text>
+      <Text>Đang tải...</Text>
     </Row>
 	<Row Tag="LOC_MODS_SUBSCRIPTION_NAME_PENDING">
-      <Text>Fetching Subscription Name...</Text>
+      <Text>Đang lấy mục theo dõi...</Text>
     </Row>
     <Row Tag="LOC_MODS_UPDATE">
-      <Text>Update</Text>
+      <Text>Cập nhật</Text>
     </Row>
     <Row Tag="LOC_MODS_VIEW">
-      <Text>View</Text>
+      <Text>Xem</Text>
     </Row>
     <Row Tag="LOC_MODS_GROUP_DEFAULT_NAME">
-      <Text>(Default)</Text>
+      <Text>(Mặc định)</Text>
     </Row>
     <Row Tag="LOC_MODS_GROUP_ADD_NAME">
       <Text>+</Text>
     </Row>
     <Row Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
-      <Text>Create a new group of Mods.  Groups can be used to quickly change which mods are enabled.</Text>
+      <Text>Tạo một nhóm Mod mới. Nhóm này có thể sử dụng nhanh để bật tất cả các mod.</Text>
     </Row>
     <Row Tag="LOC_MODS_GROUP_DELETE_NAME">
       <Text>-</Text>
     </Row>
 	<Row Tag="LOC_MODS_GROUP_ENTER_NAME">
-      <Text>Enter the name of the new mod group.</Text>
+      <Text>Nhập tên của nhóm Mod mới.</Text>
     </Row>
     <Row Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
-      <Text>Delete the currently selected group of Mods.  This will not delete the mods, only the group.  The default group may not be deleted.</Text>
+      <Text>Xóa nhóm Mod hiện tại. Nó sẽ không xóa mod, chỉ xóa nhóm. Nhóm mặc định không thể bị xóa.</Text>
     </Row>
     <Row Tag="LOC_MODS_SEARCH_NAME">
-      <Text>Search...</Text>
+      <Text>Tìm kiếm...</Text>
     </Row>
     <Row Tag="LOC_MODS_SEARCH_DESCRIPTION">
-      <Text>Search for content based on title and teaser.</Text>
+      <Text>Tìm kiếm nội dung dựa vào tiêu đề.</Text>
     </Row>
     <Row Tag="LOC_MODS_SORTBY">
-      <Text>Sort By:</Text>
+      <Text>Sắp xếp:</Text>
     </Row>
     <Row Tag="LOC_MODS_SORTBY_NAME">
-      <Text>Sort By: Name</Text>
+      <Text>Sắp xếp: Tên</Text>
     </Row>
     <Row Tag="LOC_MODS_SORTBY_ENABLED">
-      <Text>Sort By: Enabled</Text>
+      <Text>Sắp xếp: Kích hoạt</Text>
     </Row>
     <Row Tag="LOC_MODS_LAST_UPDATED">
-      <Text>Last Updated: {1_Time: datetime}</Text>
+      <Text>Cập nhật lần cuối: {1_Time: datetime}</Text>
     </Row>
     <Row Tag="LOC_MODS_FILTER">
-      <Text>Filter</Text>
+      <Text>Bộ lọc</Text>
     </Row>
     <Row Tag="LOC_MODS_FIRAXIAN_CONTENT">
-      <Text>Official Content</Text>
+      <Text>Nội dung chính chủ</Text>
     </Row>
     <Row Tag="LOC_MODS_USER_CONTENT">
-      <Text>Community Created Content</Text>
+      <Text>Nội dung được tạo bởi cộng đồng</Text>
     </Row>
     <Row Tag="LOC_MODS_ENABLE_ALL">
-      <Text>Enable All</Text>
+      <Text>Kích hoạt tất cả</Text>
     </Row>
     <Row Tag="LOC_MODS_DISABLE_ALL">
-      <Text>Disable All</Text>
+      <Text>Bỏ kích hoạt tất cả</Text>
     </Row>
     <Row Tag="LOC_MODS_ENABLE">
-      <Text>Enable</Text>
+      <Text>Kích hoạt</Text>
     </Row>
 	<Row Tag="LOC_MODS_ENABLED">
-      <Text>Enabled</Text>
+      <Text>Đã kích hoạt</Text>
     </Row>
 	<Row Tag="LOC_MODS_ENABLE_INCLUDE">
-		<Text>Enabling this will also enable the following:</Text>
+		<Text>Kích hoạt nó cũng sẽ kích hoạt thêm:</Text>
 	</Row>
 	<Row Tag="LOC_MODS_ENABLE_ERROR">
-		<Text>Cannot enable due to the following:</Text>
+		<Text>Không thể kích hoạt do:</Text>
     </Row>
     <Row Tag="LOC_MODS_DISABLE">
       <Text>Disable</Text>
     </Row>
 	<Row Tag="LOC_MODS_DISABLED">
-      <Text>Disabled</Text>
+      <Text>Bỏ kích hoạt</Text>
     </Row>
 	<Row Tag="LOC_MODS_DISABLE_ERROR">
-		<Text>Cannot disable due to the following:</Text>
+		<Text>Không thể bỏ kích hoạt do:</Text>
 	</Row>
 	<Row Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
-		<Text>Cannot disable because the following mods depend on this:</Text>
+		<Text>Không thể bỏ kích hoạt vì các Mod sau đây có phụ thuộc:</Text>
 	</Row>
     <Row Tag="LOC_MODS_YES">
-      <Text>Yes</Text>
+      <Text>Có</Text>
     </Row>
     <Row Tag="LOC_MODS_NO">
-      <Text>No</Text>
+      <Text>Không</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_VERSION">
-      <Text>Version:</Text>
+      <Text>Phiên bản:</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_AUTHOR">
-      <Text>Author(s):</Text>
+      <Text>Tác giả(s):</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
-      <Text>Special Thanks:</Text>
+      <Text>Chân thành cảm ơn:</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_DLC_STORE">
-      <Text>Click here to visit the store page.</Text>
+      <Text>Click vào đây để tới trang cửa hàng.</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
-      <Text>Single Player?</Text>
+      <Text>Chơi đơn?</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_MULTIPLAYER">
-      <Text>Multiplayer?</Text>
+      <Text>Chơi nhiều người?</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
-      <Text>Affects Saved Games:</Text>
+      <Text>Ảnh hướng tới save game:</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_OWNERSHIP">
-      <Text>Ownership:</Text>
+      <Text>Quyền sở hữu:</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_TAGS">
       <Text>Tags:</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
-      <Text>Owned</Text>
+      <Text>Sở hữu</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
-      <Text>Not owned</Text>
+      <Text>Không sở hữu</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_DESCRIPTION">
-      <Text>Description</Text>
+      <Text>Mô tả</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_REFERENCES">
-      <Text>References</Text>
+      <Text>Tham khảo</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
-      <Text>Depends On</Text>
+      <Text>Phụ thuộc</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
-      <Text>References</Text>
+      <Text>Tham khảo</Text>
     </Row>
     <Row Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
-      <Text>Blocks</Text>
+      <Text>Chặn</Text>
     </Row>
     <Row Tag="LOC_MODS_EXCLUSIVE">
-      <Text>This is an exclusive mod.</Text>
+      <Text>Đây là mod độc quyền.</Text>
     </Row>
     <Row Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
-      <Text>This is a partially exclusive mod.</Text>
+      <Text>Đây là mod độc quyền một phần.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
-      <Text>Currently enabled mods are not compatible with this saved game.</Text>
+      <Text>Các mod kích hoạt hiện tại không tương thích với save game này.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
-      <Text>Not all required mods are installed.</Text>
+      <Text>Các mod cần thiết không được cài đặt.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
-      <Text>Another version of this mod is already enabled.</Text>
+      <Text>Phiên bản khác của mod này đã được kích hoạt.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
-      <Text>Mod is blocked by another mod.</Text>
+      <Text>Mod đã bị chặn bởi mod khác.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
-      <Text>Mod is missing required dependencies.</Text>
+      <Text>Mod này thiếu thành phần phụ thuộc.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
-      <Text>Mod is blocked by exclusivity.</Text>
+      <Text>Mod bị chặn do độc quyền.</Text>
     </Row>
     <Row Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
-      <Text>This version of the game is not compatible with this mod.</Text>
+      <Text>Phiên bản của game không tương thích với Mod này.</Text>
     </Row>
 	<Row Tag="LOC_MOD_AUTHORS_FIRAXIS">
 		<Text>Firaxis</Text>

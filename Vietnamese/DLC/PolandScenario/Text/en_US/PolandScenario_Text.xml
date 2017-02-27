@@ -32,13 +32,13 @@
 			<Text>Prague</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GDANSK_DESCRIPTION">
-			<Text>Gdańsk city-state</Text>
+			<Text>Thành phố tự trị Gdańsk</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_VIENNA_DESCRIPTION">
-			<Text>Vienna city-state</Text>
+			<Text>Thành phố tự trị Vienna</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PRAGUE_DESCRIPTION">
-			<Text>Prague city-state</Text>
+			<Text>Thành phố tự trị Prague</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GDANSK_ADJECTIVE">
 			<Text>Gdańsk</Text>
@@ -319,10 +319,10 @@
 		</Row>
 		<!-- Scenario-specific invasion warnings-->
 		<Row Tag="LOC_POLAND_SCENARIO_EARLY_WARNING">
-			<Text>Our commonwealth is at risk once again. An army of {1_InvaderName} is on their way to our lands and should arrive in {2_Turns : plural 1?{2_Turns} turn; other?{2_Turns} turns;}. It looks like they are headed toward {3_CityName}.</Text>
+			<Text>Quốc gia của chúng ta có thể bị nguy hiểm một lần nữa. Một đội quân của {1_InvaderName} đang trên đường đến vùng đất của chúng ta và sẽ đến trong vòng {2_Turns : plural 1?{2_Turns} lượt; other?{2_Turns} lượt;} nữa. Có vẻ như họ đang đi về phía {3_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_POLAND_SCENARIO_INVASION_HERE">
-			<Text>The army of {1_InvaderName} has arrived.  Fight off these foreigners.  Poland is not yet lost!</Text>
+			<Text>Quân đội của {1_InvaderName} đã đến. Chống lại những kẻ nước ngoài xâm lược. Ba Lan vẫn chưa mất!</Text>
 		</Row>
 		<!-- Scenario-specific religion-->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_NAME">

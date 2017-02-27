@@ -444,7 +444,7 @@
 			<Text>Vùng kiểm soát</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Many combat units exert a "Zone of Control" (ZOC) over the tiles around them. When a unit moves into an enemy's ZOC with [ICON_Movement] Di chuyển leftover, its [ICON_Movement] Di chuyển is stopped or it may attack. Ranged unit do not exercise a ZOC.</Text>
+			<Text>Nhiều đơn vị chiến đấu tạo thành "Vùng kiểm soát" (ZOC) ảnh hướng tới các vùng xung quanh. Đơn vị chiến đấu di chuyển vào vùng ZOC của kẻ thù phải dừng lại, không phân biệt bất kỳ khả năng [ICON_Movement] Di chuyển nào. Các đơn vị đã dừng lại bởi ZOC của kẻ thù có thể tấn công nếu họ có đủ điểm [ICON_Movement] Di chuyển.[NEWLINE][NEWLINE]Đơn vị tầm xa và đơn vị ném bom không thể vượt qua ZOC. Đơn vị Kỵ Binh, cũng như đơn Hải Tặc có thể vượt qua ZOC của kẻ thù.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Khả năng di chuyển của hải quân</Text>
@@ -456,7 +456,7 @@
 			<Text>Hạ thủy các đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_PARA_1">
-			<Text>At the start of the game, your land units cannot enter any water tiles. However, once you've learned the Sailing technology, Builders will be able to move into coastal water tiles. After Celestial Navigation, Traders will be able to embark. And after Shipbuilding, all units will be able to embark. To embark a unit, move the unit to a coastal tile and then click on the "Embark" Action. Once embarked, the unit must move into water.</Text>
+			<Text>Khi bắt đầu trò chơi, các đơn vị mặt đất không thể di chuyển trên mặt nước. Tuy nhiên, khi học được công nghệ Ra Khơi, thợ xây sẽ có thể di chuyển vào ranh giới mặt nước. Sau khi có Thiên văn hàng hải, Thương Gia sẽ có thể hạ thuỷ tàu. Sau khi Đóng Tàu, tất cả các đơn vị sẽ có thể vào trong tàu. Để chuyển một đơn vị lên tàu, di chuyển ra ven biển và sau đó nhấp vào "Hạ thuỷ". Khi hạ thuỷ, đơn vị có thể di chuyển tự do trên mặt nước.[NEWLINE]Đơn vị mặt đất có thể đưa lên một con tàu vận tải, và không có khả năng chiến đấu giống như trên mặt đất. Đơn vị mặt đất khi ở trên tàu phải chịu giảm sức mạnh chiến đấu, và chỉ có thể chữa trị trong vùng nước an toàn, làm cho họ dễ bị tấn công từ các đơn vị hải quân của đối phương.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_SCIENCE_NAME">
 			<Text>Khoa học và Công nghệ</Text>
@@ -516,7 +516,7 @@
 			<Text>Đánh Bom Văn Hóa</Text>
 		</Row>		
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_1">
-			<Text>A Culture Bomb is an action that allows you to wrest control of adjacent tiles from another player and add them to your own empire. Tiles gained in this way must be within 3 spaces of your city that is expanding. Tiles that already contain a completed district or wonder do not switch ownership from Culture Bombs. Incomplete district or wonder tiles will switch ownership, but the partially-built contents of those tiles will be destroyed.</Text>
+			<Text>Dội bom văn hoá là hành động cho phép giành quyền kiểm soát các vùng lãnh thổ từ người chơi khác và thêm chúng vào đế chế của mình, ngay cả khi thuộc sở hữu của người chơi khác. Để đạt được theo cách này bạn phải mở rộng thành phố của mình thêm 3 ô. Vùng lãnh thổ này bao gồm Đặc Khu hoặc Kỳ Quan không thuộc hành động Dội Bom Văn Hóa. Các Đặc Khu hoặc Kỳ Quan chưa hoàn thành sẽ được chuyển quyền sở hữu, nhưng công trình đang xây dựng này sẽ bị phá dỡ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Để dội bom văn hoá, hãy chơi như Ba Lan và hoàn thành xây Khu Quân Sự hoặc Pháo đài trong lãnh thổ thân thiện.</Text>
@@ -546,7 +546,7 @@
 			<Text>Phá sản</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_PARA_1">
-			<Text>If your treasury is at zero and you're running a negative budget, you will begin to receive a -1 penalty to your [ICON_Amenities] Tiện nghi per every 10 [ICON_Gold] Vàng you drop below 0. Additionally, at -10 [ICON_Gold] Vàng you will automatically disband a unit, at -20 [ICON_Gold] Vàng, two units will be disbanded, and so forth.</Text>
+			<Text>Bạn đang thực hiện một ngân sách tiêu cực, nếu ngân sách của bạn là con số không, bạn sẽ bị hình phạt -1 [ICON_Amenities] Tiện nghi cho mỗi 10 [ICON_Gold] Vàng và sẽ giảm xuống dưới 0. Ngoài ra, ở mức -10 [ICON_Gold] Vàng thì một đơn vị của bạn sẽ tự động giải tán, ở mức -20 [ICON_Gold] Vàng hai đơn vị của bạn sẽ giải tán, và cứ thế tiếp tục.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_FAITH_NAME">
 			<Text>Đức tin và Tôn giáo</Text>
@@ -558,148 +558,148 @@
 			<Text>Sự lựa chọn Tôn giáo của bạn rất là quan trọng và nó có thể làm thay đổi - cuộc chơi. Với chiến thắng Tôn giáo và Cuộc chiến Thần học, bạn có nhiều lựa chọn thú vị để truyền bá Tôn giáo đến các thành phố và nền văn minh khác theo sở thích của mình.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_TITLE">
-			<Text>Earning Faith</Text>
+			<Text>Kiếm Đức tin</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Faith] Đức Tin is the currency of Religion and can be earned from wonders, policies, leader abilities, natural wonders, city-states, Beliefs, [ICON_TradeRoute] Tuyến đường thương mại, and of course the Holy Site district and its buildings. Look through the Civilopedia to find sources of [ICON_Faith] Đức Tin.</Text>
+			<Text>[ICON_Faith] Đức Tin xem như tiền tệ của tôn giáo và có thể kiếm được từ các kỳ quan, các chính sách, khả năng lãnh đạo, kỳ quan thiên nhiên, các thành phố tự trị, tín ngưỡng, [ICON_TradeRoute] Tuyến đường thương mại, các Thánh Địa và các kiến trúc của nó. Hãy xem qua Civilopedia để tìm hiểu [ICON_Faith] Đức Tin.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_TITLE">
-			<Text>Pantheons</Text>
+			<Text>Vị Thần</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Once you accumulate enough [ICON_Faith] Đức Tin, you’ll be prompted to found a Pantheon, a precursor to the full-blown Religions to be founded later. Choosing which Pantheon to found depends on your short- and long-term goals for your civilization. After earning a Pantheon, you are well on your way to establishing your Religion. Unlike a full Religion, a Pantheon you choose will be unique to your civilization, and cannot spread outside your borders, or be displaced. </Text>
+			<Text>Khi bạn tích lũy đủ [ICON_Faith] Đức Tin, trò chơi sẽ nhắc bạn lựa chọn Vị Thần, đây là tiền thân của một tôn giáo toàn phần được thành lập sau này. Việc lựa chọn Vị Thần phụ thuộc vào mục tiêu ngắn hạn hay dài hạn cho nền văn minh của bạn. Sau khi chọn Vị Thần, bạn đang trên con đường để thiết lập tôn giáo riêng của mình sau này. Không giống như một tôn giáo toàn phần, chọn Vị Thần là lựa chọn duy nhất không thể thay đổi với nền văn minh của bạn, và không thể truyền bá ra ngoài biên giới.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_TITLE">
 			<Text>Nhà tiên tri vĩ đại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_PARA_1">
-			<Text>You may found your Religion once you have earned (or purchased) a [ICON_GreatProphet] Great Prophet. Religious buildings will accumulate the [ICON_GreatProphet] Great Prophet points necessary to bring this special unit to your civilization. After the [ICON_GreatProphet] Great Prophet has been earned, send the unit to your Holy Site, and then found your Religion. [ICON_GreatProphet] Nhà tiên tri vĩ đại may also be earned from Stonehenge.</Text>
+			<Text>Bạn có thể sáng lập tôn giáo của bạn khi tìm thấy (hoặc mua) một [ICON_GreatProphet] Nhà tiên tri vĩ đại. Các kiến trúc tôn giáo sẽ tích lũy số điểm [ICON_GreatProphet] Nhà tiên tri vĩ đại cần thiết để mang đơn vị đặc biệt đến với nền văn minh của bạn. Sau khi có được [ICON_GreatProphet] Nhà tiên tri vĩ đại, hãy đưa đơn vị này vào trong thánh địa của bạn, và sau đó bắt đầu sáng lập tôn giáo riêng của bạn.[ICON_GreatProphet] Nhà tiên tri vĩ đại cũng có thể tìm thấy ở Bãi đá Stonehenge.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_TITLE">
-			<Text>Founding Your Religion</Text>
+			<Text>Sáng lập một Tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_1">
-			<Text>After founding your Religion, you will be prompted to choose a name and icon to represent your beliefs. You may choose a historical Religion, or create one of your own! A newly established Religion will consist of two beliefs: a Follower belief, and one of three additional types of beliefs that can be tailored to your play style. Once your Religion is founded, all of your cities with Holy Sites will automatically convert to the Religion.</Text>
+			<Text>Sau khi sáng lập tôn giáo, trò chơi sẽ nhắc bạn chọn tên và biểu tượng đại diện cho tôn giáo của bạn. Bạn có thể chọn tôn giáo có thật trong lịch sử, hoặc tạo ra tôn giáo của riêng bạn! Một tôn giáo mới được sáng lập sẽ bao gồm hai đức tin: một là đức tin của tín đồ, và một là trong ba loại đức tin được tạo ra bằng cách chơi của bạn. Khi Tôn giáo của bạn được sáng lập, tất cả các thành phố của bạn có thánh địa sẽ tự động chuyển sang tôn giáo vừa sáng lập.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_2">
-			<Text>You can then use the Evangelize Belief action on Apostles to add additional beliefs to your Religion. You can have a total of 4 beliefs in a Religion.</Text>
+			<Text>Bạn có thể áp dụng các hoạt động tín ngưỡng, như truyền đạo để tăng thêm đức tin cho tôn giáo của mình. Như vậy bạn sẽ có tổng 4 tín ngưỡng trong một Tôn Giáo.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_3">
-			<Text>Follower beliefs provide some kind of yield or other inherent bonus. This applies to all cities and civilizations that follow that Religion.[NEWLINE][NEWLINE]Founder beliefs provide a bonus that relies on the number of followers it has. Followers are citizens that follow that religion in all cities, regardless of whether or not that Religion is predominant in a city. This bonus is applied only to the civilization that founded that Religion.[NEWLINE][NEWLINE]Worship beliefs grant a unique type of building that can be built in Holy Sites, or purchased there with [ICON_Faith] Đức Tin. Every Worship building has different benefits.[NEWLINE][NEWLINE]Enhancer beliefs help spread the religion by making its natural religious pressure stronger or by making Missionaries and Apostles cheaper.</Text>
+			<Text>Niềm tin của tín đồ cung cấp một số khả năng hoặc điểm thưởng. Điều này áp dụng cho tất cả thành phố và các nền văn minh theo tôn giáo đó.[NEWLINE][NEWLINE]Người sáng lập tín ngưỡng mang lại điểm thưởng dựa theo số lượng tín đố. Tín đồ là những công dân theo tôn giáo đó trong tất cả các thành phố, bất kể tôn giáo đó có chiếm ưu thế trong thành phố hay là không. Số điểm thưởng này chỉ áp dụng cho các nền văn minh thành lập bằng tôn giáo.[NEWLINE][NEWLINE]Nơi thờ phụng cung cấp khả năng đặt biệt khi được đặt trong thánh địa, hoặc được mua bằng [ICON_Faith] Đức Tin. Mỗi nơi thời phụng mang lại những lợi ích khác nhau.[NEWLINE][NEWLINE]Gia tăng niềm tin giúp truyền bá tốt hơn bằng cách lấn át tôn giáo khác hoặc giảm số tiền mua nhà truyền giáo và tông đồ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_TITLE">
-			<Text>Religious Units and Pressure</Text>
+			<Text>Đơn vị tôn giáo và sức ảnh hưởng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_1">
-			<Text>There are three types of Religious units: Missionaries, Apostles, and Inquisitors. Religious units may be purchased through your city with [ICON_Faith] Đức Tin and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.[NEWLINE][NEWLINE]If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.</Text>
+			<Text>Có ba loại đơn vị tôn giáo: Nhà truyền giáo, Tông đồ, và Thẩm giáo. Đơn vị tôn giáo được mua thông qua thành phố của bạn bằng [ICON_Faith] Đức Tin và cũng áp dụng như vậy với tôn giáo của thành phố mà họ chiếm đa số. Mục đích của các đơn vị tôn giáo là truyền bá tôn giáo của họ đến các thành phố khác. Để làm như vậy, phải di chuyển các đơn vị tôn giáo đến sát cạnh—hoặc vào trong thành phố, nếu là thành phố của bạn—và thực hiện hành động truyền bá tôn giáo. Điều này sẽ chuyển đổi công dân của thành phố đó theo tôn giáo của bạn.[NEWLINE][NEWLINE]Nếu có hơn một nửa người dân trong thành phố là tín đồ của một tôn giáo và tôn giáo có đa phần người theo trong thành phố, thì tôn giáo đó sẽ trở nên nổi trội trong thành phố đó. Các thành phố có một tôn giáo chiếm ưu thế sẽ gây áp lực tôn giáo đến các thành phố khác trong vòng 10 ô, và các công dân các thành phố khác sẽ từ từ chuyển sang tôn giáo đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_2">
-			<Text>Missionaries may be purchased with [ICON_Faith] Đức Tin in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.</Text>
+			<Text>Nhà truyền giáo có thể mua bằng [ICON_Faith] Đức Tin tại bất kỳ thành phố nào có Miếu và một tôn giáo đang chiếm ưu thế, và Nhà truyền giáo có khả năng truyền bá tôn giáo của bạn đến bất kỳ thành phố nào trong vị trí liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_3">
-			<Text>Apostles may be purchased with [ICON_Faith] Đức Tin in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.[NEWLINE][NEWLINE]Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.</Text>
+			<Text>Tông đồ có thể mua bằng [ICON_Faith] Đức Tin tại bất kỳ thành phố nào có Đền thờ và một tôn giáo đang chiếm ưu thế, và mạnh mẽ hơn nhà truyền giáo. Tông đồ có thể lựa chọn các khả năng đặc biệt khi được tạo ra giúp đơn vị này trở nên mạnh mẽ hơn, chẳng hạn như khả năng loại bỏ các tôn giáo khác ra khỏi thành phố.[NEWLINE][NEWLINE]Tông Đồ có một số khả năng đặt biệt ngoài việc truyền bá tôn giáo. Họ có thể truyền giáo, bổ sung thêm nềm tin cho tôn giáo của bạn, hoặc phát động Thẩm Tra, cung cấp chính sách bản án tôn giáo. Hơn nữa, tông đồ có thể chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
-			<Text>Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors in cities that follow the religion of the Apostle that launched the Inquisition with [ICON_Faith] Đức Tin. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a city. They may also engage in theological combat against other Religious units.</Text>
+			<Text>Thẩm giáo là một khả năng đặc biệt phải được mở khóa bằng Thẩm Tra của Tông đồ. Bạn chỉ cần áp dụng khả năng này một lần duy nhất; một khi bạn đã bắt đầu Thẩm Tra, nó sẽ không bao giờ kết thúc! Sau đó bạn có thể mua Thẩm Giáo ở các thành phố theo tôn giáo của các Tông tồ và đặt ra Thẩm Tra bằng [ICON_Faith] Đức Tin. Thẩm Giáo không giúp truyền bá tôn giáo tốt hơn, thay vì phải loại bỏ các tôn giáo khác trong một thành phố. Họ có thể tham gia chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
-			<Text>Theological Combat</Text>
+			<Text>Chiến tranh Thần học</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_1">
-			<Text>Theological combat is the best way to defend against other Religions trying to spread across the map. Only Apostles and Inquisitors may initiate theological combat, and then only against other Religious units.</Text>
+			<Text>Chiến tranh thần học là cách tốt nhất để bảo vệ và chống lại các tôn giáo khác đang cố gắng lây lan trên bản đồ. Chỉ có Tông đồ và Thẩm Giáo mới có quyền bắt đầu chiến tranh thần học, và sau đó chống lại các đơn vị tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_2">
-			<Text>Theological combat works just like combat with military units, just attack one Religious unit with another. They will deal damage to each other based on their strength. Religious units can get bonuses to their theological combat strength from promotions, policies, the Theocracy government, if they are in or adjacent to a Holy Site following their Religion, if they are in the territory of a city following their Religion, or a huge bonus if they are in the territory of their Religion's Holy City.</Text>
+			<Text>Chiến tranh thần học chiến đấu giống như đơn vị quân đội, chỉ có thể tấn công giữa các đơn vị tôn giáo. Họ sẽ gây tổn thất dựa trên sức tấn công của họ. Đơn vị tôn giáo cũng nhận được điểm thưởng cho sức tấn công từ việc thăng cấp, chính sách, từ chính quyền thần học, nếu họ ở trong hoặc kế cạnh thánh tích của mình, nếu họ đang ở trong thành phố theo tôn giáo của họ, hoặc nếu đang ở trong trung tâm tôn giáo họ sẽ nhận được những lợi thế rất lớn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_3">
-			<Text>A damaged Religious unit suffers a penalty to the strength of its Spread Religion action, meaning it will convert fewer Followers. If a Religious unit is reduced to 0 Hit Points from theological combat, it will die. When a Religious unit is defeated this way, all cities within 10 tiles have a religious pressure drop of the defeated unit's Religion equal to the strength of an Apostle at full health and then a boost in the victorious unit's Religion of the same amount. If a Religious unit is killed by a hostile military unit, then the religious pressure drop occurs just like in theological combat.</Text>
+			<Text>Đơn vị tôn giáo bị thiệt hại bởi sức tấn công của hành động truyền bá ôn giáo, nghĩa là điều này làm chuyển đổi các tín đồ. Nếu sức chiến đấu của một đơn vị tôn giáo giảm về 0, đơn vị đó sẽ chết. Khi một đơn vị tôn giáo bị đánh bại, tất cả các thành phố trong phạm vi 10 ô sẽ chịu sự áp đặt tôn giáo của các đơn vị tôn giáo mới ngang bằng sức mạnh của một tông đồ và sau đó giúp gia tăng khả năng chiến thắng bằng hình thức tôn giáo. Nếu một đơn vị tôn giáo bị giết bởi một đơn vị quân sự, sau đó áp đặt tôn giáo của họ điều này cũng tương tự như trong chiến đấu tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_4">
-			<Text>Religious units can heal any damage they have by staying adjacent to or in a Holy Site that follows their Religion.</Text>
+			<Text>Đơn vị tôn giáo có thể chữa lành bất cứ thiệt hại nào bằng cách đứng gần hoặc ở trong một thánh địa của chính Tôn Giáo đấy.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_DIPLO_NAME">
-			<Text>Diplomacy</Text>
+			<Text>Ngoại Giao</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_1_CHAPTER_CONTENT_PARA_1">
-			<Text>You can accomplish a lot through diplomacy. You can gain allies and isolate your enemies. You can create defensive and offensive pacts. You can increase your technology through cooperative research ventures. You can end wars that are going badly for you. You can bluff the credulous and bully the timid. </Text>
+			<Text>Bạn có thể đạt được rất nhiều điều thông qua ngoại giao. Bạn có thể gây dựng đồng minh và cô lập kẻ thù. Bạn có thể thoả thuận tạo ra các hiệp ước phòng vệ và tấn công. Bạn có thể gia tăng trình độ công nghệ thông qua hợp tác nghiên cứu. Bạn có thể chấm dứt cuộc chiến bằng ngoại giao. Bạn có thể lừa bịp lòng tin của đối phương và hăm doạ kẻ nhút nhát.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_TITLE">
-			<Text>Diplomacy with Civilizations</Text>
+			<Text>Ngoại giao với các nền văn minh khác</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_1">
-			<Text>To initiate diplomacy, click on the leader you wish to contact in the upper right portion of the screen. The Diplomacy Panel will appear, displaying all known civilizations. Click on any leader to speak with them. Alternatively, you can click on a civilization's city banner to open communications with them. </Text>
+			<Text>Để bắt đầu ngoại giao, hãy nhấp vào các nhà lãnh đạo bạn muốn liên lạc ở phía góc trên bên phải màn hình. Bảng ngoại giao sẽ xuất hiện, hiển thị tất cả các nền văn minh đã nhận biết. Nhấp vào nhà lãnh đạo để nói chuyện với họ. Ngoài ra, bạn có thể nhấp vào thành phố của của họ để liên lạc với họ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_2">
-			<Text>When you engage in diplomacy with civilizations, you will have a number of options available, depending on your current relationship. This screen will also provide important information about your relationship, as well as the latest gossip about what that leader has been doing.</Text>
+			<Text>Khi tham dự ngoại giao với các nền văn minh, sẽ cung cấp cho bạn một số lựa chọn có sẵn, tùy thuộc vào mối quan hệ của bạn. Màn hình này sẽ cung cấp thông tin quan trọng về mối quan hệ của bạn, cũng như các tin mới nhất về những gì lãnh đạo đó đã làm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_3">
-			<Text>You may choose to declare war, or denounce the leader. You may also negotiate a trade deal, or demand stuff from another civilization. You can also propose friendship, defensive pacts, and send delegations.</Text>
+			<Text>Bạn có thể chọn tuyên bố chiến tranh, hoặc lăng mạ các nhà lãnh đạo. Bạn có thể đàm phán thỏa thuận thương mại, hoặc yêu cầu tài nguyên từ nền văn minh khác. Bạn có thể đề xuất quan hệ hữu nghị, hiệp ước phòng vệ, và gửi các phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_TITLE">
-			<Text>Diplomatic Relationships</Text>
+			<Text>Mối quan hệ Ngoại giao</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Every other leader in the game has an opinion of you. Their opinion might be positive or it might be negative; it is in constant flux from events in the game. You can tell what your relationship with another leader is by the icon on their leader portrait, or by selecting Our Relationship with that leader on the Diplomacy Panel. The following relationship states exist in the game:</Text>
+			<Text>Mỗi nhà lãnh đạo trong trò chơi có những ý kiến riêng về bạn. Ý kiến của họ có thể tích cực hoặc tiêu cực; các ý kiến này diễn ra xuyên suốt trong trò chơi. Bạn có thể cho các nhà lãnh đạo khác biết những mối quan hệ của bạn bằng cách nhấp vào biểu tượng đại diện của họ, hoặc nhấp chọn mối quan hệ lãnh đạo trên bảng ngoại giao. Các trạng thái quan hệ này luôn tồn tại trong trò chơi:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_2">
-			<Text>Allies. When in an Alliance with a leader, you may not declare war on each other, you automatically share Open Borders, you may make Research Agreements and Defensive Pacts, and deals you make with each other are likely to be very favorable.[NEWLINE][NEWLINE]Declared Friend. When you choose to declare your friendship with a leader, you may not declare war on each other, you may make Research Agreements, and deals you make with each other will be more favorable. This relationship state is required to make an Alliance.[NEWLINE][NEWLINE]Friendly. This means the leader thinks positively of you and you have a better chance of getting favorable deals with them.[NEWLINE][NEWLINE]Neutral. You have done nothing to upset or impress the leader, and your interactions with them will be standard.[NEWLINE][NEWLINE]Unfriendly. For some reason, you have done something to upset this leader, and deals with them will likely be unfavorable for you, or you can choose to make demands of them. [NEWLINE][NEWLINE]Denounced. This leader has let the other leaders in the world know that you have done something to offend them. Your deals with them will be unfavorable if they will make them at all, but you can declare a Formal War against them and make demands.[NEWLINE][NEWLINE]At War. Open hostilities have broken out between you, and you can attack or invade this leader but you will accrue warmongering and war weariness penalties.</Text>
+			<Text>Đồng minh. Khi bạn ở trong liên minh với một nhà lãnh đạo, bạn có thể không tuyên chiến với nhau, hai bên sẽ tự động mở cửa biên giới, bạn có thể thực hiện hiệp định hợp tác nghiên cứu và hiệp ước phòng vệ, những giao dịch với nhau sẽ mang lại rất nhiều lợi ích. Lãnh thổ thuộc sở hữu của nền văn minh khác trong Đồng Minh thì được coi là Thân Thiện, cho phép cùng đặc quyền như lãnh thổ của bạn.[NEWLINE][NEWLINE]Hữu nghị. Khi bạn tuyên bố tình hữu nghị với một nhà lãnh đạo, bạn có thể không tuyên chiến với nhau, bạn có thể thực hiện hiệp định hợp tác nghiên cứu, và những giao dịch thực hiện với nhau sẽ thuận lợi hơn. Trạng thái này là điều cần thiết để tiến tới một liên minh.[NEWLINE][NEWLINE]Thân thiện. Điều này có nghĩa các nhà lãnh đạo suy nghĩ tích cực về bạn và bạn có cơ hội tốt để giao dịch thuận lợi với họ.[NEWLINE][NEWLINE]Trung lập. Bạn làm gì để gây ấn tượng hoặc ác cảm với các nhà lãnh đạo, và các tác động của bạn với họ sẽ là tiêu chuẩn sau này.[NEWLINE][NEWLINE]Không thân thiện. Vì một số lý do, bạn đã làm điều gì đó gây ác cảm với các nhà lãnh đạo, và giao dịch với họ nhiều khả năng sẽ không mang lại lợi ích cho bạn, hoặc bạn có thể lựa chọn đáp ứng yêu cầu của họ.[NEWLINE][NEWLINE]Đối địch. Nhà lãnh đạo này đã cho các nhà lãnh đạo khác biết rằng bạn đã xúc phạm đến họ. Giao dịch của bạn với họ sẽ không có lợi nếu họ làm cho số ít hoặc tất cả quay lưng lại với bạn, nhưng bạn có thể tuyên bố chiến tranh với họ và bắt họ đáp ứng các yêu cầu của mình.[NEWLINE][NEWLINE]Chiến tranh. Sự thù địch đã nổ ra giữa các bên và bạn có thể tiến hành tấn công hoặc xâm lược nhà lãnh đạo đó, nhưng bạn có thể được coi là kẻ hiếu chiến và ưa thích chiến tranh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_TITLE">
-			<Text>Trade, Demand, and Discuss</Text>
+			<Text>Trao Đổi, Yêu Cầu và Thảo Luận</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_1">
-			<Text>You can make trade deals with other players by selecting Make Deal from the Diplomacy Panel with a leader selected. You will enter a negotiation table with that leader.[NEWLINE][NEWLINE]On the left of the table are items you are able to trade, and on the right of the table are items the other player has available to trade. You can trade anything from [ICON_Gold] Vàng to resources to cities! Select items from the other leader's side of the table to request they trade them to you, and select items from your side of the table to offer in exchange.[NEWLINE][NEWLINE]When the other leader finds the deal acceptable, an "Accept Deal" button will appear, which will confirm the trade that is on the table. You will lose any items you proposed and gain any items from the other leader.[NEWLINE][NEWLINE]If the leader does not like the deal, you can select the "Make this deal more equitable" button to cause the leader to propose a deal they believe is fair. You may then adjust their offer to suit your needs, and see if they accept. You can also ask the leader for something and select "What would it take?" to see what they want from you in trade.[NEWLINE][NEWLINE]If you propose an item but do not ask anything in return, you can select "Give Gift" to give the item to the leader for free. Who doesn't like gifts? Or you can select "What would you give me?" to ask the leader what they would be willing to pay.</Text>
+			<Text>Bạn có thể giao dịch với người chơi khác bằng cách chọn Tạo Thảo Thuận trong bảng ngoại giao với nhà lãnh đạo được lựa chọn. Bạn sẽ bắt đầu đàm phán với nhà lãnh đạo đó.[NEWLINE][NEWLINE]Bảng bên trái là danh sách các mục giao dịch của bạn, bảng bên phải là danh sách các mục giao dịch của người chơi khác. Bạn có thể giao dịch mọi thứ từ [ICON_Gold] Vàng đến các nguồn lực của thành phố! Hãy chọn các mục trong bảng của nhà lãnh đạo để yêu cầu họ đáp ứng cho bạn, và chọn các mục trong bảng của bạn để đáp ứng lại cho họ.[NEWLINE][NEWLINE]Khi nhà lãnh đạo đồng ý giao dịch, một nút “Chấp nhận giao dịch” sẽ xuất hiện, dùng để xác nhận cuộc giao dịch giữa hai bên. Các mục của bạn sẽ được gửi đi và bạn sẽ nhận lại được các mục từ nhà lãnh đạo đó.[NEWLINE][NEWLINE]Nếu nhà lãnh đạo không đồng ý giao dịch, hãy chọn nút “Hãy thỏa thuận hợp lý hơn” để đưa ra cho nhà lãnh đạo một đề xuất khác hợp lý hơn. Sau đó bạn có thể thay đổi các mục của họ để phù hợp với yêu cầu của bạn, và xem họ có đồng ý không. Bạn có thể yêu cầu nhà lãnh đạo gửi cho bạn một mục nào đó và chọn “Những mục nhận được?” để biết những mục gì họ muốn từ bạn.[NEWLINE][NEWLINE]Nếu bạn gửi cho họ các mục nhưng không yêu cầu gì từ họ, hãy chọn “Gửi quà tặng” để gửi miễn phí các mục tới nhà lãnh đạo. Hoặc bạn hãy chọn “Hãy gửi quà cho tôi?” để yêu cầu nhà lãnh đạo gửi cho bạn các mục bạn muốn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_2">
-			<Text>If you are Unfriendly with a leader or either of you has Denounced each other, you will see the Make Demand option on the Diplomacy Panel with that leader selected. This option will take you to a negotiation table, but your side of the table will be blank. Instead, you select items from their side of the table to demand as tribute! Select "Demand Deal" to see if they will pay you what you ask. The leader may not take kindly to your demands.</Text>
+			<Text>Nếu bạn không thân thiện với một nhà lãnh đạo hoặc một trong hai người đối địch nhau, bạn sẽ thấy tùy chọn Tạo Yêu Cầu trên bảng ngoại giao với nhà lãnh đạo đó. Tùy chọn này sẽ đưa bạn đến một bàn đàm phán, nhưng phía bảng đàm phán của bạn sẽ được để trống. Thay vào đó, bạn hãy lựa chọn các mục từ phía họ đưa ra trong bảng yêu cầu xem như là cống nạp! Nhấp chọn “đồng ý thoả thuận” để biết họ đã đưa cho bạn những gì. Các nhà lãnh đạo có thể không chân thành với yêu cầu đặt ra của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Whether making a Deal or a Demand, some items are given permanently and some are only loaned to the leader. Sums of [ICON_Gold] Vàng, Great Works, [ICON_GreatWork_Relic] Relics, [ICON_GreatWork_Artifact] Artifacts, and captured Spies are all permanent trades—once you give those items away, you have to trade again to get them back. Resources and gold per turn, however, are temporary, and once the deal has run its course you will get them back.</Text>
+			<Text>Khi bắt đầu Thoả Thuận hoặc Yêu Cầu, một số mục được cố định và một số mục cho mượn từ các nhà lãnh đạo. Tổng số [ICON_Gold] Vàng, Thành tựu vĩ đại, [ICON_GreatWork_Relic] Thánh tích, [ICON_GreatWork_Artifact] Cổ vật, và các điệp viên bị bắt trong những lần thương mại—khi bạn cung cấp những mặt hàng họ yêu cầu, bạn phải trao đổi một lần nữa để có được chúng. Tài nguyên và vàng mỗi lượt, tuy nhiên, chỉ là tạm thời, và một khi thỏa thuận được diễn ra, bạn sẽ nhận được chúng trở lại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_4">
-			<Text>Depending on your interactions with a leader, you might also have the Discuss option on the Diplomacy Panel. Selecting it will show you a list of actions you can ask the leader to promise to stop doing towards you, but only if the leader has already done that action at least once. You can ask them to stop settling new cities near you, to stop spreading their religion to you, to stop spying on you, or to stop attacking a City State you are Suzerain of.</Text>
+			<Text>Tùy thuộc vào sự tương tác của bạn với nhà lãnh đạo, bạn có thể nhận được tùy chọn thảo luận trên bảng ngoại giao. Lựa chọn này sẽ cung cấp một danh sách các hành động bạn có thể yêu cầu các nhà lãnh đạo cam kết ngừng thực hiện với bạn, nhưng chỉ khi các nhà lãnh đạo này đã thực hiện hành động mà ít nhất một lần. Bạn có thể yêu cầu họ ngưng thiết lập các thành phố mới ngay bên cạnh mình, ngăn chặn truyền tôn giáo của họ, ngăn chặn gián điệp của họ, hoặc để ngăn chặn tấn công vào thành phố tự trị mà bạn đang làm chủ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_5">
-			<Text>All Deals, Demands, and Promises last for 30 turns, at which point they need to be renewed.</Text>
+			<Text>Tất cả thoả thuận, yêu cầu, và hứa hẹn sẽ kết thúc trong 30 lượt, khi này hiệp ước cần phải được gia hạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_TITLE">
-			<Text>Delegations and Embassies</Text>
+			<Text>Phái đoàn và Đại sứ quán</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Delegations and Resident Embassies can be established between players to improve relations and gain Diplomatic Visibility. </Text>
+			<Text>Các phái đoàn và Đại sứ quán có thể được thiết lập giữa người chơi để cải thiện quan hệ và có được tầm nhìn ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_2">
-			<Text>A Delegation, or Embassy, needs to be sent to every leader individually. Delegations cost 10 [ICON_Gold] Vàng and Embassies cost 25 [ICON_Gold] Vàng, which is paid to the other leader. This will give you a small positive bonus in your relationship with that leader. It also gives you 1 level of Diplomatic Visibility.  See the Diplomatic Visibility and Gossip section of the Civilopedia for more information on Diplomatic Visibility.</Text>
+			<Text>Phái đoàn, hoặc Đại sứ quán, cần được gửi đến tất cả các nhà lãnh đạo. Phái đoàn có giá 10 [ICON_Gold] Vàng và Đại sứ quán có giá 25 [ICON_Gold] Vàng, và được trả cho các nhà lãnh đạo. Điều này sẽ mang lại cho bạn một số nhỏ điểm thưởng nhưng đem đến sự tích cực trong mối quan hệ của bạn với nhà lãnh đạo đó. Việc này giúp tăng cấp độ tầm nhìn ngoại giao của bạn lên 1 cấp. Hãy xem qua Civilopedia để biết thêm thông tin về tầm nhìn ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_3">
-			<Text>Resident Embassies are unlocked with the Diplomatic Service Civic, at which point they replace Delegations. The effects of Resident Embassies and Delegations do not stack.</Text>
+			<Text>Đại sứ quán được mở khóa trong cây hành chính bằng hành chính Ngoại Giao, và sẽ thay thế phái đoàn. Các hiệu ứng ảnh hưởng của đại sứ quán và phái đoàn không cộng dồn lên nhau.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_TITLE">
 			<Text>Tự do đi lại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Open Borders is an agreement with another leader to allow them to move their units, military or civilian, through your territory. Without this agreement, entering another leader's territory is an act of war, except with Religious Units, who can ignore borders entirely. If you have Open Borders with a leader, their border will appear as a dotted line instead of a solid one. Open Borders is unlocked with the Early Empire Civic. Prior to that, your borders are open to everyone.</Text>
+			<Text>Mở cửa biên giới là thỏa thuận giữa các nhà lãnh đạo cho phép di chuyển các đơn vị, quân sự hay dân sự băng qua lãnh thổ của bạn. Nếu không có thỏa thuận này, tiến vào lãnh thổ của nhà lãnh đạo khác là hành động chiến tranh, ngoại trừ các đơn vị tôn giáo, những người có thể đi tự do qua biên giới. Nếu bạn mở cửa biên giới với một nhà lãnh đạo, biên giới của họ sẽ xuất hiện bằng đường nét đứt. Mở cửa biên giới được mở khóa ở hành chính Đế chế đầu tiên. Trước lúc đó, biên giới của bạn được mở ra cho tất cả mọi người.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_2">
-			<Text>Open Borders can be offered as part of a Deal trade agreement, but it is offered individually by each leader—you can be granted Open Borders with a leader without granting them Open Borders in return. The deal lasts for 30 turns, and then it needs to be renewed.</Text>
+			<Text>Mở cửa biên giới có thể xem là một phần của thỏa thuận thương mại, nhưng có thể đàm phán riêng lẻ với từng lãnh đạo—bạn có thể yêu cầu nhà lãnh đạo mở cửa biên giới của họ mà không cần mở cửa biên giới của mình. Các thỏa thuận này kéo dài trong 30 lượt, và sau đó cần phải được gia hạn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_3">
-			<Text>If you are in an Alliance with another leader, you both grant each other Open Borders automatically.</Text>
+			<Text>Nếu bạn đang liên minh với nhà lãnh đạo khác, biên giới hai bên sẽ tự động được mở ra .</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_10_CHAPTER_CONTENT_TITLE">
-			<Text>Research Agreements</Text>
+			<Text>Hiệp ước Nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_10_CHAPTER_CONTENT_PARA_1">
-			<Text>After researching Scientific Theory, two allied or declared friendly players can enter into a Research Agreement to get a tech boost for a chosen tech. As a part of forming this deal, a specific technology must be agreed upon. The number of turns it will take to complete the research will depend on the current research rates of both users. If either player earns the boost or tech by any other means, the agreement ends and the other player will get the boost immediately.</Text>
+			<Text>Sau khi nghiên cứu Lý thuyết khoa học, hai người chơi thân thiện hoặc đồng minh có thể thỏa thuận hiệp ước nghiên cứu để đẩy nhanh việc nghiên cứu công nghệ. Như là một phần của hiệp ức, nghiên cứu một công nghệ cụ thể phải được sự đồng ý của cả hai bên. Số lượt hoàn thành việc nghiên cứu sẽ phụ thuộc vào mức độ nghiên cứu hiện tại của cả hai bên. Nếu một trong hai người đẩy nhanh hoặc có được công nghệ theo một cách khác, hiệp ước nghiên cứu sẽ chấm dứt và người chơi khác sẽ nhận được công nghệ đó ngay lập tức.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_TITLE">
-			<Text>Defensive Pact</Text>
+			<Text>Hiệp ước phòng thủ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_1">
-			<Text>A Defensive Pact is an agreement between to leaders to come to each other's aid when targeted by a Declaration of War. If either member of the Defensive Pact is targeted, the other member will also declare war against the aggressor. Defensive Pacts are available through the Make Deal negotiation table. The two leaders must be in an Alliance to make the deal.</Text>
+			<Text>Hiệp ước phòng thủ là thỏa thuận giữa hai nhà lãnh đạo để giúp đỡ lẫn nhau khi bị tuyên bố chiến tranh. Nếu một trong hai nhà lãnh đạo của hiệp ước phòng vệ là mục tiêu, các nhà lãnh đạo khác cũng sẽ tuyên chiến chống lại kẻ xâm lược. Hiệp ước phòng thủ đạt được thông qua bàn đàm phán. Cần có ít nhất hai nhà lãnh đạo trong liên minh để thực hiện hiệp ước này.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_TITLE">
 			<Text>Tham gia chiến tranh</Text>
@@ -726,7 +726,7 @@
 			<Text>Biện minh chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Biện minh chiến tranh là lý do để đi đến chiến tranh mà ở đó hình phạt gây chiến sẽ được giảm xuống or capturing cities are reduced or eliminated.  Once you reach the Renaissance era civic Diplomatic Service, you may accumulate Casus Belli against other powers.  See the table below for the conditions for each Casus Belli, the civic that unlocks them, and the percentage of the usual warmonger penalty that is applied.[NEWLINE][NEWLINE]Holy War: if one of your cities is converted to the enemy's religion[NEWLINE](Diplomatic Service, 50% warmongering)[NEWLINE][NEWLINE]War of Liberation: if a friend or ally had cities conquered[NEWLINE](Diplomatic Service, no warmongering if liberate cities conquered)[NEWLINE][NEWLINE]War of Reconquest: if you had cities conquered in a previous war[NEWLINE](Diplomatic Service, no warmongering if retake your previous cities)[NEWLINE][NEWLINE]Protectorate War: if a city-state you are Suzerain of is attacked[NEWLINE](Diplomatic Service, no warmongering if liberate city-state target)[NEWLINE][NEWLINE]Colonial War: if target civilization is two eras behind you in technology[NEWLINE](Nationalism, 50% warmongering)[NEWLINE][NEWLINE]War of Territorial Expansion: if target civilization borders your nation[NEWLINE](Mobilization, 75% warmongering)</Text>
+			<Text>Biện minh chiến trang là sự tuyên bố lý do dẫn đến chiến tranh chính là đòn trừng phạt khi bị gây chiến hoặc lời đe doạ chiếm đóng hay san bằng. Một khi đạt tới thời kỳ Phục hưng, bạn có thể khơi mào chiến tranh để chống lại các cường quốc khác. Xem bảng dưới đây để biết các điều kiện cho mỗi lần khơi mào chiến tranh, mở khoá các mục hành chính, và tỷ lệ phần trăm hình phạt áp dụng cho kẻ hiếu chiến.[NEWLINE][NEWLINE]Thánh chiến: nếu một trong các thành phố của bạn bị chuyển đổi theo tôn giáo của kẻ thù[NEWLINE](trạng thái ngoại giao, nhận 50% kẻ hiếu chiến)[NEWLINE][NEWLINE]Chiến tranh giải phóng: nếu nước bạn hoặc đồng minh có thành phố bị chiếm đóng)[NEWLINE](trạng thái ngoại giao, không có hình phạt kẻ hiếu chiến khi giải phóng các thành phố đã bị chiếm đóng)[NEWLINE][NEWLINE]Chiến trang chống xâm lược: nếu thành phố của bạn đã bị chiếm đóng trong cuộc chiến tranh trước đó[NEWLINE](trạng thái ngoại giao, không có hình phạt kẻ hiếu chiến khi chiếm lại thành phố của bạn)[NEWLINE][NEWLINE]Bảo kê chiến tranh: nếu thành phố-trự trị mà bạn làm bá chủ bị tấn công[NEWLINE](trạng thái ngoại giao, không có hình phạt kẻ hiếu chiến khi giải phóng thành phố-tự trị)[NEWLINE][NEWLINE]Chiến tranh thuộc địa: nếu nền văn minh mục tiêu thua sau bạn hai thời kỳ trong công nghệ[NEWLINE](trạng thái yêu nước, nhận 50% kẻ hiếu chiến)[NEWLINE][NEWLINE]Chiến tranh mở rộng lãnh thổ: nếu nền văn minh mục tiêu nằm giáp giới với bạn[NEWLINE](trạng thái động viên, nhận 75% kẻ hiếu chiến)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_TITLE">
 			<Text>Chương trình Nghị Sự</Text>
@@ -735,19 +735,19 @@
 			<Text>Chương trình Nghị sự Ngoại giao là một động lực quan trọng trong mối quan hệ của bạn với các nhà lãnh đạo khác. Chúng sẽ hướng các mong muốn và hành vi của các nhà lãnh đạo. Bạn có thể sử dụng Chương trình Nghị sự để biết cách khai thác mặt tốt của một nhà lãnh đạo, cũng như là tránh làm họ tức giận.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_2">
-			<Text>Leaders have a Historic Agenda and a Secret Agenda. The Historic Agenda is based on that leader's real-world historical personality and achievements. The Secret Agenda is assigned at beginning of every game, and could be a wide variety of things—maybe they like other civilizations with lots of culture or gold, or maybe they dislike warmongers. Revealing the Secret Agenda is important to knowing what pleases and displeases a leader. Increase your Diplomatic Visibility with each civilization to find out what their leaders' Secret Agendas are.</Text>
+			<Text>Lịch sử chương trình nghị sự và chương trình nghị sự bí mật là của riêng mỗi nhà lãnh đạo. Lịch sử chương trình nghị sự dựa trên lịch sử thế giới thực và các thành tựu của nhà lãnh đạo đó. Chương trình nghị sự bí mật được chỉ định vào lúc bắt đầu trò chơi, và có thể đa dạng hoá các chương trình này—có thể họ ưa thích nền văn minh với nhiều nền văn hóa hoặc có nhiều vàng, hoặc có thể họ không thích kẻ hiếu chiến. Khám phá ra chương trình nghị sự bí mật là điều quan trọng để biết những điều làm hài lòng và phật lòng một nhà lãnh đạo. Gia tăng tầm nhìn ngoại giao của bạn với mỗi nền văn minh để tìm ra những chương trình nghị sự bí mật của riêng họ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_TITLE">
-			<Text>Diplomatic Visibility and Gossip</Text>
+			<Text>Tầm nhìn ngoại giao và Tin hành lang</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Diplomatic Visibility allows you to receive Gossip, information about another player's actions. You gain more detailed Gossip based on your level of visibility, of which there are 5 levels: None, Limited, Open, Secret, and Top Secret. For example, when you have just met a civilization, you will receive information about their declarations of war, denouncements, friendships, alliances, and when they do something like found a Pantheon or complete a wonder. If you gain Limited Diplomatic Visibility, you will find out some information about their opinion of you and what government they have. At the Open level, you will have access to that civilization's diplomatic agendas, their relationships with other civilizations, and know when they have launched an inquisition.</Text>
+			<Text>Tầm nhìn ngoại giao cho phép bạn nhận được tin hành lang, là thông tin về hành động của người chơi khác. Sự chi tiết của tin hành lang dựa trên cấp độ tầm nhìn ngoại giao của bạn, có 5 cấp độ: không có, hạn chế, không hạn chế, bí mật, và tuyệt mật. Ví dụ, khi bạn bắt gặp một nền văn minh, bạn sẽ nhận được thông tin liệt kê về các trận chiến, các tuyên bố, quan hệ hữu nghị, liên minh, và cả khi họ làm một điều gì đó như lựa thần linh hoặc hoàn thành một kỳ quan. Nếu bạn có được giới hạn cao nhất của tầm nhìn ngoại giao, bạn sẽ có được thông tin quan điểm của họ về bạn và những gì chính phủ họ có. Ở cấp độ không hạn chế, bạn sẽ có quyền truy cập vào chương trình nghị sự ngoại giao của nền văn minh đó, mối quan hệ của họ với các nền văn minh khác, và biết được khi nào họ bắt đầu thẩm tra.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_2">
-			<Text>You must accumulate Diplomatic Visibility levels individually for each civilization. Levels may be gained by accumulating various sources of Gossip, including:</Text>
+			<Text>Bạn phải tích lũy các mức tầm nhìn ngoại giao riêng lẻ cho từng nền văn minh. Các cấp độ này được gia tăng bằng việc tích lũy tin hành lang từ nhiều nguồn khác nhau, bao gồm:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_3">
-			<Text>Traders. Establish a [ICON_TradeRoute] Tuyến đường thương mại to a civilization to increase visibility by one level.[NEWLINE][NEWLINE]Send a Delegation. Send a Delegation to a civilization to increase visibility by one level. Once Embassies are available, establishing an Embassy will replace this.[NEWLINE][NEWLINE]Spying or forming an Alliance. Establish a spy in another civilization's city to increase visibility by one level, or you can form an alliance with a friendly civilization. These two actions do not add separate Diplomatic Visibility levels - it does no good to spy on your allies![NEWLINE][NEWLINE]Send a spy on a Listening Post Mission. Performing the Listening Post mission in another civilization's city increases visibility by one level.[NEWLINE][NEWLINE]Research the Printing Press technology. This will increase your visibility with ALL civilizations by one level.[NEWLINE][NEWLINE]Play as Catherine de Medici. She gives France one level of access above normal at all times with civilizations she has met.</Text>
+			<Text>Thương gia. Thiết đặt một [ICON_TradeRoute] Tuyến đường thương mại đến một nền văn minh để tăng cấp độ tầm nhìn ngoại giao.[NEWLINE][NEWLINE]Gửi phái đoàn. Gửi phái đoàn đến một nền văn minh để tăng cấp độ tầm nhìn ngoại giao. Khi có đại sứ quán, hãy thành lập đại sứ quán để thay thế phái đoàn.[NEWLINE][NEWLINE]Gửi gián điệp thực hiện nhiệm vụ nghe ngóng. Thực hiện nhiệm vụ nghe ngóng trong thành phố của nền văn minh khác để tăng cấp độ tầm nhìn công nghệ.[NEWLINE][NEWLINE]Hình thành một liên minh. Ngoài lựa chọn gián điệp, bạn có thể hình thành liên minh với một nền văn minh thân thiện. Hai hành động này không tăng thêm cấp độ tầm nhìn ngoại giao của bạn – bạn không nên gửi gián điệp đến đồng minh![NEWLINE][NEWLINE]Nghiên cứu công nghệ in ấn báo chí. Điều này làm tăng cấp độ tầm nhìn ngoại giao của bạn với tất cả các nền văn minh khác.[NEWLINE][NEWLINE]Chơi bằng Catherine de Medici. Cô cho nước Pháp quyền lợi truy cập cao hơn bình thường so với mọi nền văn minh khác mà cô đã gặp.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_TITLE">
 			<Text>Điệp viên và Gián điệp</Text>
@@ -795,34 +795,34 @@
 			<Text>Một thành phố tự trị công nghiệp có thể cung cấp [ICON_Production] Sản phẩm đối với Kỳ quan, Kiến trúc và Đặc khu.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_TITLE">
-			<Text>Communicating with City-States</Text>
+			<Text>Giao tiếp với các thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>In order to communicate with a city-state, you must find it first. When one of your units encounters a city-state, the city-state will tell you what type it is, and if you're the first to discover it, you will automatically earn an [ICON_Envoy] Phái đoàn with that city-state. Once you have met, you will be able to undertake "quests" from that city-state. If you want to get in touch with the city-state, you can click on the city itself, or you can go through the City-State Panel. </Text>
+			<Text>Để giao tiếp với thành phố-tự trị, trước tiên bạn phải tìm thấy nó. Khi một trong các đơn vị của bạn tìm được một thành phố-tự trị, thành phố-tự trị sẽ cho bạn biết đây là kiểu tự trị gì, và nếu bạn là người đầu tiên tìm ra, bạn sẽ tự động nhận được [ICON_Envoy] Phái đoàn của thành phố-tự trị. Và khi bạn đón tiếp phái đoàn, bạn có thể thực hiện "các nhiệm vụ" của thành phố-tự trị đó. Nếu bạn muốn liên lạc với thành phố-tự trị, hãy nhấp vào thành phố đó, hoặc bạn có thể chọn thành phố đó thông qua bảng thành phố-tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_TITLE">
-			<Text>Envoys</Text>
+			<Text>Phái Đoàn</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_1">
-			<Text>The bonuses you earn from a city-state depend on how many [ICON_Envoy] Phái đoàn you have sent to the city-state. After earning [ICON_Envoy] Phái đoàn, you will receive a prompt to choose which city-states to send them to. If you have multiple [ICON_Envoy] Phái đoàn, you may divide them between city-states as you desire.</Text>
+			<Text>Các điểm thưởng kiếm được từ thành phố-tự trị phụ thuộc vào có bao nhiêu [ICON_Envoy] Phái đoàn bạn đã gửi đến thành phố-tự trị. [ICON_Envoy] Phái đoàn kiếm được qua thời gian thông qua điểm ảnh hưởng (đến từ Chính Phủ và Chính Sách), hoặc hoàn tất nghiên cứu hành chính. Một khi đã kiếm được, bạn sẽ nhận được lời nhắc nhở chọn thành phố-tự trị để gửi họ đi. Nếu bạn có nhiều [ICON_Envoy] Phái đoàn, bạn có thể phân chia họ đến các thành phố-tự trị theo ý bạn muốn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Declaring war directly on a city-state removes all [ICON_Envoy] Phái đoàn you had there. Otherwise, [ICON_Envoy] Phái đoàn stay on the city-state permanently. [ICON_Envoy] Phái đoàn at a city-state are visible to all players, and placing them may have diplomatic consequences. The bonuses earned are based on how many [ICON_Envoy] Phái đoàn you have present, regardless of who else has [ICON_Envoy] Phái đoàn there. City-states of a type all share the same Type Bonuses. They are cumulative, so that as a player places more and more [ICON_Envoy] Phái đoàn on a city-state, they stack with the bonuses from before.</Text>
+			<Text>Tuyên bố chiến tranh với thành phố-tự trị sẽ loại bỏ tất cả [ICON_Envoy] Phái đoàn bạn đã gửi đến. Nếu không có, [ICON_Envoy] Phái đoàn sẽ lưu lại vĩnh viễn trong thành phố-tự trị. [ICON_Envoy] Phái đoàn ở thành phố-tự trị được nhìn thấy cho mọi người chơi, và việc gửi phái đoàn có thể gây hậu quả ngoại giao. Các điểm thưởng kiếm dựa trên có bao nhiêu [ICON_Envoy] Phái đoàn được gửi đi, bất kể người chơi khác đã gửi [ICON_Envoy] Phái đoàn. Tất cả thành phố-tự trị thuộc cùng một loại sẽ chia sẻ bằng nhau điểm thưởng này. Hãy tích lũy điểm thưởng, và gửi nhiều và thật nhiều các [ICON_Envoy] Phái đoàn đến thành phố- tự trị, các đểm thưởng này sẽ cộng dồn với nhau.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_TITLE">
-			<Text>Suzerain</Text>
+			<Text>Bá chủ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_1">
-			<Text>The civilization with the most [ICON_Envoy] Phái đoàn on a city-state, and at least 3 [ICON_Envoy] Phái đoàn, is considered that city-state's Suzerain. There can be at most one Suzerain; ties are not allowed. If nobody has [ICON_Envoy] Phái đoàn on a city-state, there is no Suzerain. The Suzerain gets several significant benefits:</Text>
+			<Text>Một nền văn minh với đa số [ICON_Envoy] Phái đoàn trên một thành phố-tự trị, và có ít nhất 3 [ICON_Envoy] Phái đoàn, được xem là bá chủ thành phố-tự trị đó. Chỉ tồn tại nhiều nhất một bá chủ; các quan hệ khác không được cho phép. Nếu không một ai có [ICON_Envoy] Phái đoàn trên một thành phố-tự trị, sẽ không có bá chủ. Các bá chủ nhận được một số lợi ích quan trọng:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_2">
-			<Text>Unique city-state bonus: This is a powerful bonus which no other city-state will provide (ex. Jerusalem acts as a second Holy City for your Religion.)</Text>
+			<Text>Phần thưởng đặc biệt: Đây là phần thưởng rất mạnh mà không có thành phố-tự trị nào khác mang lại được (ví dụ. Jerusalem sẽ đóng vai trò như một điểm tôn giáo linh thiêng thứ hai trong tôn giáo của bạn.)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_3">
 			<Text>{LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_5">
-			<Text>Resource Sharing: All of the city-state's resources are automatically exported to the Suzerain, and the Suzerain may build improvements in their city-state's territory.</Text>
+			<Text>Lãnh thổ thân thiện: lãnh thổ của thành phố-tự trị được xem là 'thân thiện' với bá chủ của nó, cho phép lãnh thổ của bá chủ đạt được cùng đặc quyền như thành phố-tự trị.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TRADE_NAME">
 			<Text>Ngoại thương</Text>
@@ -834,7 +834,7 @@
 			<Text>Thương gia là đơn vị được mở khóa bởi hành chính Ngoại thương, và đào tạo từ trong các thành phố. Thương gia là đơn vị đứng trên lớp bản đồ riêng biệt, và không tương tác với hầu hết mọi thứ trên bản đồ. Họ có thể đứng chung ô với đơn vị khác và bỏ qua giới hạn biên giới đi lại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Khi một Thương gia ở trong thành phố của người chơi, họ có thể bắt đầu một [ICON_TradeRoute] Tuyến đường thương mại giữa thành phố này và một thành phố khác trong phạm vi, miễn là [ICON_TradeRoute] Tuyến đường thương mại giữa 2 thành phố chưa được kích hoạt (ví dụ nếu đã có một [ICON_TradeRoute] Tuyến đường thương mại từ Rome sang Athens thì không thể tạo tuyến đường thứ hai y hệt), và người chơi vẫn còn đủ số lượng [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Khi một Thương gia ở trong thành phố của người chơi, họ có thể bắt đầu một [ICON_TradeRoute] Tuyến đường thương mại giữa thành phố này và một thành phố khác trong phạm vi, miễn là không ai trong số bạn đã dùng [ICON_TradeRoute] Tuyến đường thương mại này (ví dụ nếu tôi đã có một [ICON_TradeRoute] Tuyến đường thương mại đến thành phố Athens, tôi không thể gửi một lần nữa), và người chơi vẫn còn đủ số lượng [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_3">
 			<Text>Khi thực hiện, [ICON_TradeRoute] Tuyến đường thương mại sẽ kéo dài ít nhất 20 lượt ở tốc độ bình thường. Thương gia sẽ tự di chuyển theo con đường của họ trong thời gian hoạt động, nhưng sẽ không được hoàn tất cho đến khi đơn vị quay trở về thành phố gốc. Khi kích hoạt tuyến đường, Thương gia sẽ bỏ qua hạn chế địa hình và di chuyển mỗi ô một lượt, đồng thời tạo một Con Đường ở đó. Đừng quên bảo vệ Thương gia khỏi Quan man di hoặc kẻ địch, vì họ rất dễ bị cướp bóc.</Text>
@@ -849,16 +849,16 @@
 			<Text>Phạm vị tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Trên đất liền, [ICON_TradeRoute] Tuyến đường thương mại có thể hoạt động trong phạm vi 15 ô. Khi người chơi nghiên cứu công nghệ cho phép lên tàu ra biển, Thương gia cũng có thể di chuyển trên nước. Trên nước thì phạm vi này là 30 ô. Thay đổi giữa đất và nước chỉ có thể thực hiện ở Thành phố trung tâm hoặc Khu cảng biển. Nếu thành phố có một điểm giao thương, Thương gia có thể nghỉ chân và cho phép đi đến vùng đất mới xa hơn. Nếu không họ phải dừng lại thành phố đó.</Text>
+			<Text>Trên đất liền, [ICON_TradeRoute] Tuyến đường thương mại có thể hoạt động trong phạm vi 15 ô. Khi người chơi nghiên cứu công nghệ cho phép lên tàu ra biển, Thương gia cũng có thể di chuyển trên nước. Trên nước thì phạm vi này là 30 ô. Nếu bạn có một [ICON_TradingPost] Trạm Thông Thương trong thành phố, Thương gia có thể nghỉ chân và cho phép đi đến vùng đất mới xa hơn. Nếu không họ phải dừng lại thành phố đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_2">
 			<Text>Changing between land and water can only be done at a City Center or Harbor district, and the allowance does not carry over.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
-			<Text>Trading Posts</Text>
+			<Text>Trạm thông thương</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Extend your trade network and make it more lucrative with [ICON_TradingPost] Trading Posts. A [ICON_TradingPost] Trading Post is placed at a city once a [ICON_TradeRoute] Trade Route to or from that city successfully completes. It belongs to the player that owned the [ICON_TradeRoute] Trade Route.</Text>
+			<Text>Trạm thông thương giúp mở rộng mạng lưới thương mại và giúp sinh lợi hơn. Không chỉ giúp họ đến được các đích đến xa hơn, mà họ cũng cung cấp các điểm thưởng cho bất kỳ [ICON_TradeRoute] Tuyến đường thương mại họ đi qua (ngay cả khi đó không phải là đích đến). Khi người chơi sở hữu một trạm thông thương trong thành phố, và bất kỳ ai sở hữu thành phố đó, [ICON_TradeRoute] Tuyến đường thương mại sẽ “làm mới” điểm [ICON_Movement] Di chuyển của họ để họ tiếp tục đi đến các điểm đến kế tiếp. Trạm thông thương chỉ được đặt một lần ở thành phố nằm trên [ICON_TradeRoute] Tuyến đường thương mại hoặc thành phố nằm ở cuối tuyến đường, các trạm thông thương sẽ thuộc về người chơi sở hữu[ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_2">
 			<Text>Your [ICON_TradeRoute] Trade Routes can “refuel” their [ICON_Movement] Movement range in any city that has one of your [ICON_TradingPost] Trading Posts, allowing them to reach further destinations. If the city belongs to another player, the [ICON_TradingPost] Trading Post also makes the [ICON_TradeRoute] Trade Route more valuable, providing +1 [ICON_Gold] Gold for its income.</Text>
@@ -927,16 +927,17 @@
 			<Text>Bất ngờ: Là chính sách đẩy nhanh tốc độ chiêu mộ [ICON_GreatPerson] Vĩ nhân.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_TITLE">
-			<Text>Anarchy</Text>
+			<Text>Vô chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Switching to a previously adopted government briefly places your civilization into a state of Anarchy, which has the following negative effects:</Text>
+			<Text>Chuyển đổi tức thì sang một chính phủ khác thay cho chính phủ đã được thông qua trước đó sẽ đặt nền văn minh của bạn vào tình trạng vô chính phủ, điều này sẽ gây ra những tác động tiêu cực như:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_2">
-			<Text>1. You receive no [ICON_Gold] Gold, [ICON_Science] Science, [ICON_Culture] Culture, or [ICON_Faith] Faith from any source.[NEWLINE]2. Anarchy has no government special bonus or Legacy.[NEWLINE]3. Your policies provide no benefit and cannot be slotted.[NEWLINE]4. You won't be able to change governments until the state of Anarchy ends.</Text>
+			<Text>1. Bạn sẽ không nhận được [ICON_Gold] Vàng, [ICON_Science] Khoa học, [ICON_Culture] Văn hóa, hoặc [ICON_Faith] Đức tin từ bất kỳ nguồn nào.[NEWLINE]2. Không nhận được điểm thưởng hoặc di sản khi bị vô chính phủ.[NEWLINE]3. Bạn không nhận được bất kỳ lợi ích nào từ các chính sách trước đó.[NEWLINE]4. Bạn không thể thay đổi chính phủ cho đến khi tình trạng vô chính phủ kết thúc.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_3">
-			<Text>Anarchy lasts a minimum of three turns. The more you previously adopted this form of government, the longer Anarchy will last.</Text>
+			<Text>Hỗn loạn kéo dài tối thiểu ba lượt. Bạn càng giữ đướng lối chính sách này, thì hỗn loạn càng dâng cao.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GREATPEOPLE_NAME">
 			<Text>Vĩ nhân</Text>
 		</Row>

@@ -166,22 +166,22 @@
 			<Text>Gõ Đúp</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_TWO_FINGER_HOLD">
-			<Text>Two Finger Hold</Text>
+			<Text>Giữ Hai Ngón Tay</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_TWO_FINGER_TAP">
-			<Text>Two Finger Tap</Text>
+			<Text>Gõ Hai Ngón Tay</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_THREE_FINGER_TAP">
-			<Text>Three Finger Tap</Text>
+			<Text>Gõ Ba Ngón Tay</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_FOUR_FINGER_TAP">
-			<Text>Four Finger Tap</Text>
+			<Text>Gõ Bốn Ngón Tay</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_MOUSE_WHEEL_DOWN">
-			<Text>Mouse-Wheel Down</Text>
+			<Text>Cuộn chuột Xuống</Text>
 		</Row>
 		<Row Tag="LOC_UI_ACTION_MOUSE_WHEEL_UP">
-			<Text>Mouse-Wheel Up</Text>
+			<Text>Cuộn chuột Lên</Text>
 		</Row>
 		<Row Tag="LOC_UI_CLICK">
 			<Text>Click</Text>
@@ -370,7 +370,7 @@
 			<Text>Đến lượt người chơi khác, vui lòng chờ...</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CAN_UNREADY_TOOLTIP">
-			<Text>Click to unready your turn if you wish to make additional changes. You can only do so before all other players have readied their turns.</Text>
+			<Text>Click để bỏ sẵn sàng lượt của bạn nếu muốn thực hiện thay đổi bổ sung. Bạn chỉ có thể làm trước khi tất cả người chơi khác đã sẵn sàng.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_TURN">
 			<Text>BỎ LƯỢT</Text>
@@ -716,7 +716,7 @@
 			<Text>[COLOR_RED]{1_Value} Đặc Khu thiệt hại[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_EMBARKED_UNIT_STRENGTH">
-			<Text>[COLOR_RED]Reduced strength when embarked</Text>
+			<Text>[COLOR_RED]Giảm sức mạnh khi lên tàu</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
 			<Text>+{1 Value} thưởng tấn công tầm xa</Text>
@@ -829,7 +829,7 @@
 		</Row>
 		<!-- ==================== Player Change Popup ==================== -->
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
-			<Text>'s Turn</Text>
+			<Text> đang có lượt</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
 			<Text>Bắt Đầu Lượt</Text>
@@ -1916,7 +1916,7 @@
 			<Text>Hiệp ước nghiên cứu của ngài đã đưa ra một đột phá khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_TEAMMATE">
-			<Text>Your teammate has researched a new technology. Their scientists are anxious to share their findings.</Text>
+			<Text>Đồng đội của bạn đã hoàn thành nghiên cứu một công nghệ mới. Các nhà khoa học của họ đang nóng lòng muốn chia sẽ những phát kiến của họ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>Nghiên cứu {1_techString} vừa hoàn tất!</Text>
@@ -1932,7 +1932,7 @@
 			<Text>Trong khi thám hiểm thế giới, ngài đã phát hiện ra Hành Chính chưa biết đến từ những người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_TEAMMATE">
-			<Text>Our teammate has completed a new civic. Their expertise will further our own progress.</Text>
+			<Text>Đồng đội của bạn đã hoàn thành một hành chính mới. Chuyên môn của họ sẽ thúc đẩy tiến độ của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
 			<Text>Vĩ Nhân đã mở khóa một Hành Chính.</Text>
@@ -2150,7 +2150,7 @@
 			<Text>Thỏa Thuận</Text>
 		</Row>
 		<Row Tag="LOC_CIVICS_KEY_ABILITY">
-			<Text>Ability</Text>
+			<Text>Khả năng</Text>
 		</Row>
 		<!-- ==================== Governments Screen ==================== -->
 		<Row Tag="LOC_GOVT_ASSIGN_ALL_POLICIES">
@@ -3757,7 +3757,7 @@
 			<Text>{1_NumConverts} nước theo {2_ReligionName}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_RELIGION_TEAMS_RELIGIONS">
-			<Text>team's religions</Text>
+			<Text>tôn giáo của đội</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
 			<Text>sau {1_NumTurns} lượt</Text>
@@ -3772,7 +3772,7 @@
 			<Text>Bạn đang dẫn đầu</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_TEAM_SIMPLE">
-			<Text>Your team is leading</Text>
+			<Text>Đội của bạn đang dẫn đầu</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_DETAILS">
 			<Text>Bạn đang dẫn đầu với {1_Details}</Text>
@@ -3787,7 +3787,7 @@
 			<Text>Bạn đang đứng thứ {1_Place}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_TEAM_SIMPLE">
-			<Text>Your team is in {1_Place} place</Text>
+			<Text>Đội của bạn đang đứng thứ {1_Place}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_DETAILS">
 			<Text>Bạn đang đứng thứ {1_Place} với {2_Details}</Text>
@@ -3799,7 +3799,7 @@
 			<Text>Bạn đang đứng thứ {1_Place} với {2_Details}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_TEAM">
-			<Text>Team {1_TeamNumber}</Text>
+			<Text>Đội {1_TeamNumber}</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_1_PLACE">
 			<Text>nhất</Text>
@@ -4279,10 +4279,10 @@
 		</Row>
 		<!-- ==================== Turn Phase Text ==================== -->
 		<Row Tag="LOC_STRATEGIC_PHASE">
-			<Text>Empire Phase</Text>
+			<Text>Giao đoạn đế chế</Text>
 		</Row>
 		<Row Tag="LOC_TACTICAL_PHASE">
-			<Text>Movement Phase</Text>
+			<Text>Giai đoạn di chuyển</Text>
 		</Row>
 		<Row Tag="LOC_YOUR_TURN_BANNER">
 			<Text>Lượt của bạn!</Text>
@@ -4923,7 +4923,7 @@
 			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_MISC_RESOURCE_SOURCE">
-			<Text>Gameplay Bonuses</Text>
+			<Text>Thưởng</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>Nhập Khẩu</Text>
@@ -5228,16 +5228,16 @@
 			<Text>(Rừng cải tạo)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY">
-			<Text>(Friendly Territory)</Text>
+			<Text>(Lãnh thổ thân thiện)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_2">
-			<Text>Friendly Territory</Text>
+			<Text>Lãnh thổ thân thiện</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_3">
-			<Text>(Friendly)</Text>
+			<Text>(Thân thiện)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_4">
-			<Text>Friendly</Text>
+			<Text>Thân thiện</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
 			<Text>Nhấn phím hoặc chuột để gán chắc năng bạn mong muốn. Để hủy, click Hủy hoặc nhấn ESC. Để xóa bỏ gán phím, click nút Loại Bỏ.</Text>
@@ -5384,43 +5384,43 @@
 			<Text>Main Menu</Text>
 		</Row>
 		<Row Tag="LOC_TURN_REMAINING">
-			<Text>Turn Remaining</Text>
+			<Text>Lượt còn lại</Text>
 		</Row>
 		<Row Tag="LOC_TURNS_REMAINING">
-			<Text>Turns Remaining</Text>
+			<Text>Lượt còn lại</Text>
 		</Row>
 		<Row Tag="LOC_TURNS_REMAINING_VAL">
-			<Text>{1_Turns} Turns Remaining</Text>
+			<Text>{1_Turns} Lượt còn lại</Text>
 		</Row>
 		<Row Tag="LOC_TURN_REMAINING_VAL">
-			<Text>{1_Turns} Turn Remaining</Text>
+			<Text>{1_Turns} Lượt còn lại</Text>
 		</Row>
 		<Row Tag="LOC_TURN_VAL_OF_VAL1">
-			<Text>Turn {1_Turns}/{2_MaxTurns}</Text>
+			<Text>Lượt {1_Turns}/{2_MaxTurns}</Text>
 		</Row>
 		<Row Tag="LOC_TURN_VAL_OF_VAL2">
-			<Text>Turn {1_Turns} of {2_MaxTurns}</Text>
+			<Text>Lượt {1_Turns} trong {2_MaxTurns}</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_RELIGION_VICTORY_COUNTER">
-			<Text>{1_Civs}/{2_TotalCivs} Civs Converted to team's religions</Text>
+			<Text>{1_Civs}/{2_TotalCivs} Nền văn minh đã chuyển sang Tôn giáo của đội</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_CULTURE_VICTORY_COUNTER">
-			<Text>{1_Team} leading with {2_Tourists}/{3_TotalTourists} tourists attracted</Text>
+			<Text>{1_Team} đang dẫn đầu với {2_Tourists}/{3_TotalTourists} khách du lịch đã thu hút</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_RELIGION_CONVERTED_BY_CIV">
-			<Text>Converted by {1_Civ}</Text>
+			<Text>Đã cải giáo bởi {1_Civ}</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_RELIGION_CONVERTED_BY_PLAYER">
-			<Text>Converted by {1_SteamID}</Text>
+			<Text>Đã cải giáo bởi {1_SteamID}</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_DOMINATION_CAPTURED_BY_CIV">
-			<Text>Captured by {1_Civ}</Text>
+			<Text>Đã bị chiếm bởi {1_Civ}</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_DOMINATION_CAPTURED_BY_PLAYER">
-			<Text>Captured by {1_SteamID}</Text>
+			<Text>Đã bị chiếm bởi {1_SteamID}</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_LIST_HEADING">
-			<Text>Teams and Civilizations</Text>
+			<Text>Các Đội và Nền Văn Minh</Text>
 		</Row>
 			
 	</BaseGameText>
