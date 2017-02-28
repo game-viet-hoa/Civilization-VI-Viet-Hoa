@@ -867,7 +867,7 @@
 			<Text>Sản lượng của chủ tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại cung cấp sản lượng dựa trên những nơi họ đi qua và thu thập được. Các đặc khu bên trong thành phố đích sẽ cung cấp sản lượng cho thành phố gốc. Ví dụ, giao thương với một thành phố có một Khu linh thiêng sẽ cung cấp [ICON_Faith] Đức Tin, và giao thương với một thành phố có một Khu nghệ thuật sẽ cung cấp [ICON_Culture] Văn minh.</Text>
+			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại cung cấp lợi nhuận mỗi lượt cho thành phố chính, chủ yếu trên các đặc khu nằm trên đường đi của nó. Ví dụ, giao thương với thành phố có Thánh Địa sẽ cung cấp [ICON_Faith] Đức Tin, và giao thương với một thành phố có Khu nghệ thuật sẽ cung cấp [ICON_Culture] Văn minh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_2">
 			<Text>It also gets yields based on the path it takes. If it passes through a [ICON_TradingPost] Trading Post you own in a foreign city, it is worth an additional 1 [ICON_Gold] Gold. Long paths which pass through several [ICON_TradingPost] Trading Posts are very valuable.</Text>

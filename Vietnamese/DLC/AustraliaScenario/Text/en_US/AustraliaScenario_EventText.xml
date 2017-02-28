@@ -61,280 +61,280 @@
 		</Row>
 		<!-- Danger Event Gameplay Effects-->
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_1">
-			<Text>Your {1_UnitName} has suffered {2_Damage} damage.</Text>
+			<Text>{1_UnitName} của bạn nhận {2_Damage} thiệt hại.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_2">
-			<Text>Your {1_UnitName} has been killed.</Text>
+			<Text>{1_UnitName} của bạn đã bị giết.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_3">
-			<Text>Your {1_UnitName} has permanently lost 1 [ICON_Movement] Movement.</Text>
+			<Text>{1_UnitName} của bạn bị mất 1 [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_4">
-			<Text>You lose {1_Amount} [ICON_Gold] Gold.</Text>
+			<Text>Bạn mất {1_Amount} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_5">
-			<Text>Your {1_UnitName} has returned to the nearest city of {2_CityName}.</Text>
+			<Text>{1_UnitName} của bạn đã trở lại thành phố gần nhất {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_6">
-			<Text>Your nearby {1_Improvement} has been pillaged.</Text>
+			<Text>{1_Improvement} gần nhất của bạn đã bị cướp.</Text>
 		</Row>
 		<!-- Delay Event Gameplay Effects-->
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_1">
-			<Text>Your {1_UnitName} has lost {2_Movement} movement points for this turn.</Text>
+			<Text>{1_UnitName} của bạn mất {2_Movement} điểm di chuyển ở lượt này.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_2">
-			<Text>Your {1_UnitName} will not be able to move this turn.</Text>
+			<Text>{1_UnitName} của bạn không thể di chuyển ở lượt này.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_3">
-			<Text>Knowledge of some of the terrain near {1_UnitName} has been lost.</Text>
+			<Text>Hiểu biết về địa hình gần nhất {1_UnitName} đã mất.</Text>
 		</Row>
 		<!-- Benefit Event Gameplay Effects-->
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_1">
-			<Text>A {1_UnitName} has arrived in the closest city of {2_CityName}.</Text>
+			<Text>Một {1_UnitName} đã tiến sát thành phố {2_CityName}.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_2">
-			<Text>A {1_UnitName} has arrived next to your {2_UnitName}.</Text>
+			<Text>Một {1_UnitName} đã tiến sát đơn vị {2_UnitName}..</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_3">
-			<Text>Unexplored territory near your {1_UnitName} has been revealed.</Text>
+			<Text>Vùng lãnh thổ chưa khám phá gần bạn đã được {1_UnitName} tiết lộ.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_4">
-			<Text>Your {1_UnitName} has permanently gained +1 [ICON_Movement] Movement.</Text>
+			<Text>{1_UnitName} của bạn tăng thêm +1 [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_5">
-			<Text>Your {1_UnitName} has been completely healed.</Text>
+			<Text>{1_UnitName} của bạn đã hồi phục hoàn toàn.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_6">
-			<Text>Your {1_UnitName} has had {2_HitPoints} points of damage healed.</Text>
+			<Text>{1_UnitName} của bạn hồi {2_HitPoints} điểm HP.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_7">
-			<Text>Your nearby city of {1_CityName} has gained 1 Population.</Text>
+			<Text>Gần thành phố {1_CityName} của bạn tăng 1 dân số.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_8">
-			<Text>You gain {1_Amount} [ICON_Gold] Gold.</Text>
+			<Text>Tăng thêm {1_Amount} [ICON_Gold] Vàng cho bạn.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_9">
-			<Text>You receive a Eureka for the technology {1_TechName}.</Text>
+			<Text>Bạn nhận được khoảng khắc Eureka cho công nghệ {1_TechName}.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_10">
-			<Text>Your receive an Inspiration for the civic {1_CivicName}.</Text>
+			<Text>Bạn nhận được khoảng khắc Thúc đẩy hành chính cho {1_CivicName}.</Text>
 		</Row>
 		<!-- Exploration Event Titles-->
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_1">
-			<Text>Caught in Rip Current</Text>
+			<Text>Vá lại chỗ hiện tại bị rách </Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_2">
-			<Text>Brushed Against Box Jellyfish</Text>
+			<Text>Đánh bắt Sứa Hộp sáng mờ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_3">
-			<Text>Collected a Cone Shell</Text>
+			<Text>Thu hoạch ốc nón</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_4">
-			<Text>Delayed by Perilous Fog</Text>
+			<Text>Trì hoãn bởi màn sương nguy hiểm</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_5">
-			<Text>Resupplied by Aboriginal Fishermen</Text>
+			<Text>Tiếp tế bởi ngư dân bản xứ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_6">
-			<Text>Rock Hoppers For Hire</Text>
+			<Text>Thuê tiểu bang Rock Hopper</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_7">
-			<Text>Bountiful Waters Located</Text>
+			<Text>Vị trí nguồn nước dồi dào</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_1">
-			<Text>Woefully Underestimated Water Needs</Text>
+			<Text>Thật đáng tiếc không đánh giá đúng mức nhu cầu cấp nước</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_2">
-			<Text>Stampeding Camels</Text>
+			<Text>Đàn lạc đà chạy tán loạn</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_3">
-			<Text>Stepped on Death Adder</Text>
+			<Text>Bước vào ổ rắn lục chết người</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_4">
-			<Text>Delayed by Incessant Dust Storm</Text>
+			<Text>Trì hoãn bởi bão bụi</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_5">
-			<Text>Oasis Spotted</Text>
+			<Text>Ốc đảo bị ô nhiễm</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_6">
-			<Text>Found Unguarded Dingo Litter</Text>
+			<Text>Tìm thấy ổ chó Dingo không được bảo vệ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_1">
-			<Text>Waylaid by Bushrangers</Text>
+			<Text>Bị phục kích bởi thổ dân</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_2">
-			<Text>Caught in Bushfire</Text>
+			<Text>Chặn đứng đám cháy</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_3">
-			<Text>Harassed by Dingoes</Text>
+			<Text>Bị quấy phá bởi chó Dingo</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_4">
-			<Text>Ate the Wrong Berries</Text>
+			<Text>Ăn nhầm quả mọng</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_5">
-			<Text>Resupplied by Squatters</Text>
+			<Text>Được cung cấp lại bởi kẻ cướp.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_6">
-			<Text>Swagmen For Hire</Text>
+			<Text>Thuê người lang thang</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_1">
-			<Text>Rockslide!</Text>
+			<Text>Đá lở!</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_2">
-			<Text>Exceptionally Freezing Nights</Text>
+			<Text>Những đêm lạnh giá khác thường</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_3">
-			<Text>Supplies Fell Into Gorge</Text>
+			<Text>Cung cấp da thú vào Gorge</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_4">
-			<Text>Fruitless Passage</Text>
+			<Text>Chuyến đi thất bại</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_5">
-			<Text>Fossickers For Hire</Text>
+			<Text>Thuê người lục soát</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_6">
-			<Text>Discovered Mountain Spring</Text>
+			<Text>Tìm thấy mùa xuân trên núi</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_1">
-			<Text>Altercation With Red Kangaroo</Text>
+			<Text>Ẩu đả với Kangaroo đỏ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_2">
-			<Text>Continuing Drought Conditions</Text>
+			<Text>Đang tồn tại điều kiện hạn hán</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_3">
-			<Text>Spinifex Infection</Text>
+			<Text>Đầu đọc bởi có thường xanh</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_4">
-			<Text>Complete Loss of Direction</Text>
+			<Text>Hoàn toàn mất phương hướng</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_5">
-			<Text>Stockmen For Hire</Text>
+			<Text>Thuê người coi kho</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_6">
-			<Text>Led to Water by Galah Flock</Text>
+			<Text>Dẫn đến nguồn nước bởi Galah Flock</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_1">
-			<Text>Malarial Woes</Text>
+			<Text>Tai hoạ sốt rét</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_2">
-			<Text>Starved Out By Plague Locusts</Text>
+			<Text>Cắt đường lương thực bởi Plague Locusts</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_3">
-			<Text>Washed Away in Flash Flood</Text>
+			<Text>Mọi thứ bị cuốn mất trong lũ quét</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_4">
-			<Text>Bogged Down in Mudflats</Text>
+			<Text>Bị sa lầy trong vũng bùn</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_5">
-			<Text>Caught Yabbies In Stream</Text>
+			<Text>Bắt được tôm Tích trong suối</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_1">
-			<Text>Consumed By Saltwater Crocodile</Text>
+			<Text>Bị thu hút bởi Saltwater Corcodile</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_2">
-			<Text>Horrid Infested Wounds</Text>
+			<Text>Vết thương quá nặng</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_3">
-			<Text>Bitten by Funnel Web Spider</Text>
+			<Text>Mạng nhện giăng kín ống khói</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_4">
-			<Text>Ate the Wrong Fish</Text>
+			<Text>Ăn nhầm loại cá</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_5">
-			<Text>Lost in the Swamp</Text>
+			<Text>Mất tích trong cơn lũ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_6">
-			<Text>Frightful Bunyip Rumors</Text>
+			<Text>Sợ hãi tin đồi quái vật đầm lầy Úc</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_1">
-			<Text>Infested With Threadworms</Text>
+			<Text>Phá hoại bởi giun kim</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_2">
-			<Text>Drank Too Much Water Too Quickly</Text>
+			<Text>Uống quá nhiều nước và uống quá nhanh</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_3">
-			<Text>Averted a Near Mutiny</Text>
+			<Text>Ngăn chặn cuộc nổi loạn đang tới gần</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_4">
-			<Text>Recuperated at Billabong</Text>
+			<Text>Phục hồi vùng cửa sông</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_5">
-			<Text>Peaceful Recuperation</Text>
+			<Text>Hồi phục hoàn toàn sức khoẻ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_1">
-			<Text>Everything Here Is Poison</Text>
+			<Text>Mọi thứ ở đây là thuốc độc</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_2">
-			<Text>Startled a Cassowary</Text>
+			<Text>Đà điểu Úc bị giật mình</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_3">
-			<Text>Afflicted With Dengue Fever</Text>
+			<Text>Khổ sở bởi bệnh sốt xuất huyết</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_4">
-			<Text>Plagued by Stinging Ant Swarm</Text>
+			<Text>Bệnh dịch bởi đàn kiến độc</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_5">
-			<Text>Uncovered Scientific Mystery</Text>
+			<Text>Bí ẩn khoa học được phát hiện</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_1">
-			<Text>Agitated Eastern Brown Snake</Text>
+			<Text>Kích động rắn râu phương đông</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_2">
-			<Text>Burnt Firewood From Gum Tree</Text>
+			<Text>Củi đốt từ cây Gum</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_3">
-			<Text>Angered Territorial Emu</Text>
+			<Text>Chim Emu giận giữ khi vi phạm lãnh thổ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_4">
-			<Text>Spurious Drop Bear Rumors</Text>
+			<Text>Tin đồn giả tạo gấu xuống núi</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_5">
-			<Text>Discovered Emu Egg Clutch</Text>
+			<Text>Tìm thấy tổ trứng chim Emu</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_1">
-			<Text>Inauspicious Fall</Text>
+			<Text>Mùa thu bất hạnh</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_2">
-			<Text>Stricken By Scurvy</Text>
+			<Text>Ảnh hưởng bởi bệnh Scurvy</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_3">
-			<Text>Conflicted Direction</Text>
+			<Text>Chỉ đạo mâu thuẫn</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_4">
-			<Text>Forgot to Tether Horses</Text>
+			<Text>Quên buộc ngựa vào cọc</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_5">
-			<Text>Discovered a Shortcut</Text>
+			<Text>Tìm thấy một lối tắt</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_6">
-			<Text>Resupplied by Aboriginal Clan</Text>
+			<Text>Tiếp tế bởi bộ lạc bản xứ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_7">
-			<Text>Followed Dingo Trail</Text>
+			<Text>Đi theo dấu chân chó Dingo</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_8">
-			<Text>Dispute With Rival Explorers</Text>
+			<Text>Xung đột với người thám hiểm</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_9">
-			<Text>Discovered Inaccuracies In Maps</Text>
+			<Text>Tìm thấy điểm không đúng trong bản đồ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_10">
-			<Text>Treasure!</Text>
+			<Text>Kho báu!</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_11">
-			<Text>Aboriginal Guides For Hire</Text>
+			<Text>Thuê hướng dẫn viên bản xứ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_12">
-			<Text>Inadvertently Offended Aboriginals</Text>
+			<Text>Vô tình xúc phạm người bản xứ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_13">
-			<Text>Accidentally Started Bushfire</Text>
+			<Text>Vô tình làm cháy rừng</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_14">
-			<Text>Aboriginal Migration</Text>
+			<Text>Di cư của người bản xứ</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_15">
-			<Text>Fruitless Discourse With Aboriginals</Text>
+			<Text>Đàm phán thất bại với người bản xứ</Text>
 		</Row>
 		<!-- Exploration Event Descriptions-->
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_1">

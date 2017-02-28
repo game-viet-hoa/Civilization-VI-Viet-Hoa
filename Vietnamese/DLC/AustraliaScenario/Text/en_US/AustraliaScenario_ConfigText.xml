@@ -3,108 +3,108 @@
 <GameData>
 	<EnglishText>
 		<Row Tag="LOC_AUSTRALIA_SCENARIO_NAME">
-			<Text>Outback Tycoon</Text>
+			<Text>Trùm Khai Hoang</Text>
 		</Row>
 		<Row Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP">
-			<Text>Which colony will make the most of Australia's natural riches?</Text>
+			<Text>Những thuộc địa nào sẽ tận dụng tối đa tài nguyên tự nhiên của nước Úc?</Text>
 		</Row>
 		<Row Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION">
-			<Text>In this 60 turn scenario, you race to explore Australia, find its natural resources, and use them to enrich your colony. This competitive economic scenario has no combat. It emphasizes exploration and territorial expansion to increase your [ICON_Gold] Gold Per Turn net income, which is your score.[NEWLINE][NEWLINE]Single-player: Each difficulty has a [ICON_Gold] Gold Per Turn threshold. Exceed that number before the end of the game to win.[NEWLINE][NEWLINE]Multiplayer: The player with the highest [ICON_Gold] Gold Per Turn at end of the game is the winner.</Text>
+			<Text>Trong 60 lượt, hãy chạy đua để khám phá nước Úc, tìm kiếm nguồn tài nguyên thiên nhiên, và sử dụng chúng để làm giàu cho thuộc địa của bạn. Kịch bản chơi này không có chiến đấu mà chỉ có cạnh tranh kinh tế. Nó nhấn mạnh sự thăm dò và mở rộng lãnh thổ để tăng lượng [ICON_Gold] Vàng mỗi lượt thu được, đó là điểm số của bạn.[NEWLINE][NEWLINE]Chơi một người: Ở mỗi độ khó đều có một ngưỡng [ICON_Gold] Vàng mỗi lượt. Hãy vượt qua con số đó trước khi trò chơi kết thúc để giành chiến thắng.[NEWLINE][NEWLINE]Chơi nhiều người: Người chơi với số [ICON_Gold] Vàng mỗi lượt cao nhất vào cuối trò chơi là người chiến thắng.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO">
-			<Text>Your fledgling Australian colony seeks not to repeat the success found in New South Wales, but to exceed it. Can you gain fame in these desolate lands where so many others have failed? Will your fortune come from locating long-rumored goldfields, fielding massive herds of livestock, or preserving the land's natural beauty for future generations?</Text>
+			<Text>Hãy cố gắng không lặp lại thành công như ở New South Wales với thuộc địa Úc non trẻ của bạn, nhưng để vượt qua điều đó. Bạn có thể đạt được danh tiếng trong những vùng đất hoang vu nơi nhiều người khác đã thất bại? Vận may của bạn có thể đến từ lời đồn vị trí các mỏ vàng, những đàn gia súc lớn, hoặc bảo tồn vẻ đẹp tự nhiên của vùng đất này cho các thế hệ tương lai?</Text>
 		</Row>
 		<Row Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME">
-			<Text>Australia Map</Text>
+			<Text>Bản đồ nước Úc</Text>
 		</Row>
 		<Row Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION">
-			<Text>A randomly generated Australian continent with the real-world outline.</Text>
+			<Text>Lục địa Úc được tạo ngẫu nhiên với hình dáng tương tự thế giới-thực.</Text>
 		</Row>
 		<!-- Civilizations-->
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME">
-			<Text>Queensland</Text>
+			<Text>Bang Queensland</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME">
-			<Text>Western Australia</Text>
+			<Text>Tiểu bang Tây Úc</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME">
-			<Text>Victoria</Text>
+			<Text>Tiểu bang Victoria</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME">
-			<Text>South Australia</Text>
+			<Text>Bang Nam Úc</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION">
-			<Text>State of Queensland</Text>
+			<Text>Chính quyền bang Queensland</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION">
-			<Text>State of Western Australia</Text>
+			<Text>Chính quyền tiểu bang Tây Úc</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION">
-			<Text>State of Victoria</Text>
+			<Text>Chính quyền tiểu bang Victoria</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION">
-			<Text>State of South Australia</Text>
+			<Text>Chính quyền bang Nam Úc</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME">
-			<Text>Land Down Under</Text>
+			<Text>Vùng Hạ Dưới</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME">
-			<Text>Land Down Under</Text>
+			<Text>Vùng Hạ Dưới</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME">
-			<Text>Land Down Under</Text>
+			<Text>Vùng Hạ Dưới</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME">
-			<Text>Land Down Under</Text>
+			<Text>Vùng Hạ Dưới</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION">
-			<Text>+3 Housing for any city on the Coast. Pastures trigger a Culture Bomb. Yields from Campuses, Commercial Hubs, and Theater Squares are +2 in tiles with Charming Appeal, +4 in Breathtaking. </Text>
+			<Text>+3 Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION">
-			<Text>+3 Housing for any city on the Coast. Pastures trigger a Culture Bomb. Yields from Campuses, Commercial Hubs, and Theater Squares are +2 in tiles with Charming Appeal, +4 in Breathtaking. </Text>
+			<Text>+3 Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION">
-			<Text>+3 Housing for any city on the Coast. Pastures trigger a Culture Bomb. Yields from Campuses, Commercial Hubs, and Theater Squares are +2 in tiles with Charming Appeal, +4 in Breathtaking. </Text>
+			<Text>+3 Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION">
-			<Text>+3 Housing for any city on the Coast. Pastures trigger a Culture Bomb. Yields from Campuses, Commercial Hubs, and Theater Squares are +2 in tiles with Charming Appeal, +4 in Breathtaking. </Text>
+			<Text>+3 Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
 		</Row>
 		<!-- Leaders -->
 		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME">
-			<Text>Premier of Queensland</Text>
+			<Text>Thống đốc bang Queensland</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME">
-			<Text>Premier of Western Australia</Text>
+			<Text>Thống đốc tiểu bang Tây Úc</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME">
-			<Text>Premier of Victoria</Text>
+			<Text>Thống đốc tiểu bang Victoria</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME">
-			<Text>Premier of South Australia</Text>
+			<Text>Thống đốc bang Nam Úc</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME">
-			<Text>Sunshine State</Text>
+			<Text>Bang Sunshine</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME">
-			<Text>Golden Outback</Text>
+			<Text>Bang Golden Outback</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME">
-			<Text>Victorian Gold Rush</Text>
+			<Text>Cơn sốt vàng bang Victoria</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME">
-			<Text>Free Colony</Text>
+			<Text>Thuộc địa tự do</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION">
-			<Text>All tiles gain +1 Appeal.</Text>
+			<Text>Tất cả ô +1 Sức Hấp dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION">
-			<Text>Gain additional tiles when settling cities.</Text>
+			<Text>Có thêm ô đất khi thành lập thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION">
-			<Text>Start the game with a Prospector.  All Prospectors trained in one of their cities gain 1 extra build action.</Text>
+			<Text>Bắt đầu trò chơi với Người Thăm Dò. Tất cả những Người Thăm Dò được đào tạo tại thành phố của họ sẽ được tăng thêm 1 hành động xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION">
-			<Text>Start the game with a Grazier.  All Graziers trained in one of their cities gain 1 extra build action.</Text>
+			<Text>Bắt đầu trò chơi với Người Chăn Nuôi. Tất cả Người Chăn Nuôi được đào tạo tại thành phố của họ sẽ được tăng thêm 1 hành động xây dựng.</Text>
 		</Row>
 	</EnglishText>
 </GameData>

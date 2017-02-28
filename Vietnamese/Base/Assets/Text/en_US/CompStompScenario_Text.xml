@@ -3,34 +3,34 @@
 	<BaseGameText>
 		<!-- Ruleset -->
 		<Row Tag="LOC_COMPSTOMP_RULESET_TITLE">
-			<Text>Artificial Intransigence</Text>
+			<Text>Không khoan nhượng đối thủ máy</Text>
 		</Row>
 		<Row Tag="LOC_COMPSTOMP_RULESET_TEASER">
-			<Text>Crush the AI with your friends in this cooperative, combat-focused scenario. Lasts until every AI Player has been defeated.[NEWLINE]Victory Conditions[NEWLINE]Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
+			<Text>Đè bẹp máy bằng sự phối với bạn bè của bạn, kịch bản chơi này nêu cao việc tập trung-chiến đấu. Kéo dài cho đến khi mọi đối thủ máy bị đánh bại.[NEWLINE]Điều kiện chiến thắng[NEWLINE]Đánh bại tất cả đối thủ máy! Người chiến thắng là người chiếm được hầu hết các thành phố do máy điều khiển.</Text>
 		</Row>
 		<!-- Victories  -->
 		<Row Tag="LOC_COMPSTOMP_VICTORY_TITLE">
-			<Text>Stomped the AI</Text>
+			<Text>Đè bẹp đối thủ máy</Text>
 		</Row>
 		<Row Tag="LOC_COMPSTOMP_VICTORY_DESC">
-			<Text>Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
+			<Text>Đánh bại tất cả đối thủ máy! Người chiến thắng là người chiếm được hầu hết các thành phố do máy điều khiển.</Text>
 		</Row>
 		<Row Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
-			<Text>"I do not fear computers. I fear the lack of them." —Isaac Asimov</Text>
+			<Text>"Tôi không sợ máy tính. Tôi sợ không có chúng." —Isaac Asimov</Text>
 		</Row>
 
 		<!-- Mod Package Text -->
 		<Row Tag="LOC_COMPSTOMP_MOD_TITLE">
-			<Text>Multiplayer Scenario: Artificial Intransigence</Text>
+			<Text>Kịch bản chơi nhiều người: Không khoan nhượng đối thủ máy</Text>
 		</Row>
 		<Row Tag="LOC_COMPSTOMP_MOD_TEASER">
-			<Text>Crush the AI with your friends in this cooperative, combat-focused scenario. Lasts until every AI Player has been defeated.</Text>
+			<Text>Đè bẹp máy bằng sự phối với bạn bè của bạn, kịch bản chơi này nêu cao việc tập trung-chiến đấu. Kéo dài cho đến khi mọi đối thủ máy bị đánh bại.</Text>
 		</Row>
 		<Row Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
-			<Text>Victory Conditions[NEWLINE]Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
+			<Text>Điều kiện chiến thắng[NEWLINE]Đánh bại tất cả đối thủ máy! Người chiến thắng là người chiếm được hầu hết các thành phố do máy điều khiển.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
-			<Text>AI Cities Captured {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
+			<Text>Chiếm các thành phố của máy {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

@@ -7,7 +7,7 @@
       <Text>Midgard</Text>
     </Row>
     <Row Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION">
-      <Text>The land of the Vikings.</Text>
+      <Text>Vùng đất của người Viking.</Text>
     </Row>
 		<!--Game Speed-->
 		<Row Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME">
@@ -37,19 +37,19 @@
 		</Row>
 		<!-- Empire Names-->
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION">
-			<Text>Danish Empire</Text>
+			<Text>Đế chế Đan Mạch</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION">
-			<Text>Swedish Empire</Text>
+			<Text>Đế chế Thuỵ Điển</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION">
-			<Text>Caliphate of Al-Andalus</Text>
+			<Text>Quốc vương Al-Andalus</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION">
-			<Text>Byzantine Empire</Text>
+			<Text>Đế chế Byzantine</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION">
-			<Text>Frankish Empire</Text>
+			<Text>Đế chế Frankish</Text>
 		</Row>
 		<!--Leader Names-->
 		<Row Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME">
@@ -88,46 +88,46 @@
 			<Text>Viking</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION">
-			<Text>Units ignore additional movement costs from embarking and disembarking.</Text>
+			<Text>Các đơn vị bỏ qua chi phí di chuyển cho việc hạ thuỷ và lên bờ.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME">
 			<Text>Frankish</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION">
-			<Text>The Mt. St. Michel wonder is located in Rouen.</Text>
+			<Text>Kỳ quan Mt. St. Michel nằm tại Rouen.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME">
 			<Text>Moorish</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION">
-			<Text>The Alhambra wonder is located in Išbiliya.</Text>
+			<Text>Kỳ quan Alhambra nằm tại Išbiliya.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME">
 			<Text>Byzantine</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION">
-			<Text>The Hagia Sophia Wonder is located in Constantinople.</Text>
+			<Text>Kỳ quan Hagia Sophia nằm tại Constantinople.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME">
-			<Text>North Sea Empire</Text>
+			<Text>Đế chế Biển Bắc</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION">
-			<Text>Has an extra military policy slot. Can build the Settler, Viking Longship, Missionaries, and Harbor.</Text>
+			<Text>Có thể mở rộng thêm ô chính sách quân sự. Có thể đào tạo Dân đi cư, Thuyền dài Viking, Nhà Truyền Giáo, và Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION">
-			<Text>Naval units have +2 movement. Can build the Settler, Viking Longship, Missionaries, and the Harbor District.</Text>
+			<Text>Các đơn vị hải quân +2 Di chuyển. Có thể đào tạo Dân đi cư, Thuyền dài Viking, Nhà Truyền Giáo, và Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME">
-			<Text>Treasure King</Text>
+			<Text>Kho báu nhà Vua</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION">
-			<Text>Has an extra economic policy slot. Can build the Settler, Viking Longship, Missionaries, and the Harbor District.</Text>
+			<Text>Có thể mở rộng thêm ô chính sách kinh tế. Có thể đào tạo Dân đi cư, Thuyền dài Viking, Nhà Truyền Giáo, và Khu cảng biển.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_PIOUS_NAME">
-			<Text>Pious</Text>
+			<Text>Sùng đạo</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION">
-			<Text>Starts with Theocracy and the ability to build Knights.</Text>
+			<Text>Bắt đầu với Chế độ thần quyền và khả năng đào tạo Hiệp sĩ.</Text>
 		</Row>
 		<!-- Scenario Name and Description-->
 		<Row Tag="LOC_VIKING_SCENARIO_NAME">
@@ -177,14 +177,14 @@
 			<Text>Alcázar</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME">
-			<Text>Monastery</Text>
+			<Text>Tu Viện</Text>
 		</Row>
 		<!--Improvements Description-->
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION">
-			<Text>Al-Andulus Improvement that provides fortification, [ICON_Faith] Faith, and [ICON_Gold] Gold.</Text>
+			<Text>Công trình Al-Andulus này cung cấp khả năng phòng thủ, [ICON_Faith] Đức tin, và [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION">
-			<Text>Frankish, Byzantine, and City-State, Improvement that provides [ICON_Faith] Faith.</Text>
+			<Text>Frankish, Byzantine, thành phố tự trị, công  trình cung cấp [ICON_Faith] Đức tin.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

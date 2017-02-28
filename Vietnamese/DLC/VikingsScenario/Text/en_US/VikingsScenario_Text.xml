@@ -63,19 +63,19 @@
 		</Row>
 		<!--Traits-->
 		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ALCAZAR_NAME">
-			<Text>Andalusian unique improvement: Alcázar</Text>
+			<Text>Công trình đặc biệt của Andalusian: Alcázar</Text>
 		</Row>
 		<Row Tag="TRAIT_CIVILIZATION_UNIT_MOORISH_FARFANES_NAME">
-			<Text>Andalusian unique unit: Farfanes</Text>
+			<Text>Đơn vị đặc biệt của Andalusian: Farfanes</Text>
 		</Row>
 		<Row Tag="TRAIT_CIVILIZATION_IMPROVEMENT_MONASTERY_NAME">
-			<Text>Unique improvement: Monastery</Text>
+			<Text>Công trình đặc biệt: Tu Viện</Text>
 		</Row>
 		<Row Tag="TRAIT_CIVILIZATION_UNIT_QUADRIREME_NAME">
-			<Text>Byzantine unique unit: Quadrireme</Text>
+			<Text>Đơn vị đặc biệt của Byzantine: Quadrireme</Text>
 		</Row>
 		<Row Tag="TRAIT_CIVILIZATION_UNIT_FRANKISH_CABALLARII_NAME">
-			<Text>Frankish unique unit: Caballarii</Text>
+			<Text>Đơn vị đặc biệt của Frankish: Caballarii</Text>
 		</Row>
 		<!--Denmark City Names-->
 		<Row Tag="LOC_CITY_NAME_SCENARIO_ODENSE">
@@ -403,7 +403,7 @@
 			<Text>Hálfdan Ragnarsson</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_RORIK_NAME">
-			<Text>Rorik of Dorestad</Text>
+			<Text>Rorik của Dorestad</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_SVIATOSLAV_NAME">
 			<Text>Sviatoslav the Brave</Text>
@@ -418,228 +418,228 @@
 			<Text>Thorfinn the Mighty</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ROGER_NAME">
-			<Text>Roger I of Sicily</Text>
+			<Text>Roger I của Sicily</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ADJACENT_PIOPIOTAHI_GOLD">
-			<Text>When adjacent to Vinland earn +500 [ICON_Gold] Gold and Victory Points based on order of activation.</Text>
+			<Text>Khi đứng kề với Vinland sẽ kiếm được +500 [ICON_Gold] Vàng và điểm Chiến thắng dựa trên thứ tự kích hoạt.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_HALFDAN_ACTIVE">
-			<Text>Grant 1 Berserker unit.</Text>
+			<Text>Cấp 1 đơn vị Kẻ điên Na Uy.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_OLAF_ACTIVE">
-			<Text>Grant 1 Missionary unit.</Text>
+			<Text>Cấp một đơn vị Nhà truyền giáo.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_WILLIAM_ACTIVE">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity. Grants a Trader unit.</Text>
+			<Text>+1 [ICON_TradeRoute] Tuyến đường thương mại. Cấp một đơn vị Thương gia.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ROGER_ACTIVE">
-			<Text>Grant 1 Catapult unit with 1 promotion level.</Text>
+			<Text>Cấp 1 đơn vị Máy Bắn Đá với một huân chương.</Text>
 		</Row>
 		<!--Technologies Name-->
 		<Row Tag="LOC_TECH_SCENARIO_LONGSHIPS_NAME">
-			<Text>Longships</Text>
+			<Text>Thuyền dài</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_MEAD_HALLS_NAME">
-			<Text>Mead Halls</Text>
+			<Text>Nhà dài</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_PORTAGE_NAME">
-			<Text>Portage</Text>
+			<Text>Vận tải</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_SHIELDWALL_NAME">
-			<Text>Shield Wall</Text>
+			<Text>Tường Khiên</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_KNARRS_NAME">
-			<Text>Knarrs</Text>
+			<Text>Thuyền Knarrs</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_LANCES_NAME">
-			<Text>Lances</Text>
+			<Text>Giáo dài</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_GREAT_HEATHEN_ARMY_NAME">
-			<Text>Great Heathen Army</Text>
+			<Text>Đội quan ngoại đạo tinh nhuệ</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_HACKSILVER_NAME">
-			<Text>Hacksilver</Text>
+			<Text>Đơn vị tiền tệ Hacksilver</Text>
 		</Row>
 		<!--Technologies Description-->
 		<Row Tag="LOC_TECH_SCENARIO_SAILING_DESCRIPTION">
-			<Text>+1 Movement for all naval units and allows all land units to embark.</Text>
+			<Text>+1 Di chuyển cho tất cả đơn vị hải quân và cho phép tất cả đơn vị mắt đất hạ thuỷ.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_PORTAGE_DESCRIPTION">
-			<Text>River crossings do not cost more movement.</Text>
+			<Text>Vượt sông không tốn chi phí di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_KNARRS_DESCRIPTION">
-			<Text>All units can move onto Ocean.</Text>
+			<Text>Tất cả các đơn vị có thể đi vào đại dương.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCENARIO_HACKSILVER_DESCRIPTION">
-			<Text>Commercial Hubs and Harbors have +1 Trade Routes.</Text>
+			<Text>Các Khu thương mại và Bến cảng được +1 Tuyến đường thương mại.</Text>
 		</Row>
 		<!--Technologies Boost-->
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PORTAGE">
-			<Text>Have 2 Archers.</Text>
+			<Text>Có 2 Cung Thủ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_STIRRIPS">
-			<Text>Pillage a tile.</Text>
+			<Text>Cướp một ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIELDWALL">
-			<Text>Have a Settler unit.</Text>
+			<Text>Có đơn vị Dân Di Cư.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_KNARRS">
-			<Text>Have the Naval Empire Civic.</Text>
+			<Text>Có hành chính Đế quốc Hải quân.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
-			<Text>Have 5 Cities.</Text>
+			<Text>Có 5 Thành Phố.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LANCES">
-			<Text>Kill a Knight unit.</Text>
+			<Text>Giết đơn vị Hiệp Sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_HEATHEN_ARMY">
-			<Text>Have 3 Longship units.</Text>
+			<Text>Có 3 đơn vị Thuyền Dài.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_HACKSILVER">
-			<Text>Make 4 Trade Routes.</Text>
+			<Text>Tạo 4 tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
-			<Text>Build 2 Stables.</Text>
+			<Text>Xây 2 Chuồng Ngựa.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TACTICS">
-			<Text>Have 2 Knight units.</Text>
+			<Text>Có 2 đơn vị Hiệp sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIPBUILDING">
-			<Text>Earn a Great Admiral.</Text>
+			<Text>Kiếm được Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MEDIEVAL_FAIRES">
-			<Text>Have a City with 12 Population.</Text>
+			<Text>Có một thành phố với 12 Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_ENGINEERING">
-			<Text>Capture a City.</Text>
+			<Text>Chiếm một thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CASTLES">
-			<Text>Have 2 Crossbowman.</Text>
+			<Text>Có 2 Nỏ tên.</Text>
 		</Row>
 		<!--Technologies Boost Description-->
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PORTAGE">
-			<Text>After building archers your larger army hopes to see what is across the rivers.</Text>
+			<Text>Có 2 Cung Thủ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_STIRRIPS">
-			<Text>Maybe cavalry units would help you pillage more tiles?</Text>
+			<Text>Cướp một ô đất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIELDWALL">
-			<Text>The new cities are creating a new unit to defend themselves.</Text>
+			<Text>Có đơn vị Dân Di Cư.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_KNARRS">
-			<Text>With a greater naval fleet could they expand to the Ocean?</Text>
+			<Text>Có hành chính Đế quốc Hải quân.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
-			<Text>Your engineers are developing better plumbing for vast number of cities.</Text>
+			<Text>Có 5 Thành Phố.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_LANCES">
-			<Text>Now that you have slayed a Knight maybe your Vikings could conquer with one?</Text>
+			<Text>Giết đơn vị Hiệp Sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_HEATHEN_ARMY">
-			<Text>With 3 longships you army can invade any town.</Text>
+			<Text>Có 3 đơn vị Thuyền Dài.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_HACKSILVER">
-			<Text>Now that you have made four trade routes, how your trade empire expand?</Text>
+			<Text>Tạo 4 tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TACTICS">
-			<Text>Your army has more cavalry now, maybe you should add infantry?</Text>
+			<Text>Có 2 đơn vị Hiệp sĩ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIPBUILDING">
-			<Text>A Great Admiral has inspired your people to construct new ways of constructing ships.</Text>
+			<Text>Kiếm được Đại Đô Đốc.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MEDIEVAL_FAIRES">
-			<Text>With more citizens maybe they would like entertainment?</Text>
+			<Text>Có một thành phố với 12 Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_ENGINEERING">
-			<Text>After the inspiring capture of a city, your people are inspired to come up with even more efficient siege ideas.</Text>
+			<Text>Chiếm một thành phố.</Text>
 		</Row>
 		<!--Civics Name-->
 		<Row Tag="LOC_CIVIC_SCENARIO_NAVAL_EMPIRE_NAME">
-			<Text>Naval Empire</Text>
+			<Text>Đế quốc Hải quân</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_MONOTHEISM_NAME">
-			<Text>Monotheism</Text>
+			<Text>Chủ nghĩa độc thần</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_VIKING_NAME">
 			<Text>Viking</Text>
 		</Row>
 		<!--Civics Description-->
 		<Row Tag="LOC_CIVIC_SCENARIO_VIKING_DESCRIPTION">
-			<Text>Grants flanking and support combat bonuses to all melee units.</Text>
+			<Text>Thưởng sức mạnh khi chiến đấu thọc sườn hoặc hỗ trợ cho tất cả đơn vị cận chiến.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_FEUDALISM_DESCRIPTION">
-			<Text>Farms now gain [ICON_Food] Food bonuses when 3 Farms are adjacent to each other.</Text>
+			<Text>Nông trại có thể kiếm thêm [ICON_Food] Thực phẩm khi 3 Nông trại xây liền kề nhau.</Text>
 		</Row>
 		<!--Civics Boost-->
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_TRADITION">
-			<Text>Build 3 Harbors.</Text>
+			<Text>Xây 3 Khu Cảng Biển</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRADITION">
-			<Text>Kill a unit with a Berserker unit.</Text>
+			<Text>Giết một đơn vị bằng Kẻ điên Na Uy.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_EMPIRE">
-			<Text>Win a battle with a Viking Longship.</Text>
+			<Text>Chiến thắng trận đánh bằng Thuyền Dài Viking.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRAINING">
-			<Text>Have 6 Land units.</Text>
+			<Text>Có 6 đơn vị mặt đất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MONOTHEISM">
-			<Text>Have a Majority Religion.</Text>
+			<Text>Có Tôn Giáo chiếm đa số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_VIKING">
-			<Text>Have 2 Huscarls</Text>
+			<Text>Có 2 Lính Huscarl</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
-			<Text>Have 6 Farms.</Text>
+			<Text>Có 6 Nông Trại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
-			<Text>Have 2 Holy Sites</Text>
+			<Text>Có 2 Thánh Địa</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MERCENARIES">
-			<Text>Have 10 Land units.</Text>
+			<Text>Có 10 đơn vị mặt đất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RECORDED_HISTORY">
-			<Text>Research Machinery</Text>
+			<Text>Nghiên cứu Máy Móc</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GUILDS">
-			<Text>Build 4 Markets</Text>
+			<Text>Xây 4 khu Chợ</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
-			<Text>Have a 4 slot Government.</Text>
+			<Text>Có 4 ô Chính Phủ</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EXPLORATION">
-			<Text>Find the Natural Wonder.</Text>
+			<Text>Tìm thấy kỳ quan tự nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_REFORMED_CHURCH">
-			<Text>Have 2 Missionaries.</Text>
+			<Text>Có 2 Nhà Truyền Giáo.</Text>
 		</Row>
 		<!--Civics Boost Description-->
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRADITION">
-			<Text>Now that you killed with a berserker can you grow your army?</Text>
+			<Text>Giết một đơn vị bằng Kẻ điên Na Uy.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_NAVAL_TRADITION">
-			<Text>After building harbors your navy has expanded.</Text>
+			<Text>Xây 3 Khu Cảng Biển.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRAINING">
-			<Text>With a large military your army wants to diversify.</Text>
+			<Text>Có 6 đơn vị mặt đất.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MONOTHEISM">
-			<Text>Your people have started to shift away from their Pagan ideas. They now are starting to build wooden churches.</Text>
+			<Text>Có Tôn Giáo chiếm đa số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_VIKING">
-			<Text>Now that your army is larger it is time to go Viking!</Text>
+			<Text>Có 2 Lính Huscarl</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_THEOLOGY">
-			<Text>With more Holy Sites your theologians have begun to spread.</Text>
+			<Text>Có 2 Thánh Địa</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RECORDED_HISTORY">
-			<Text>Your discovery of Machinery might oppose lost Church records.</Text>
+			<Text>Nghiên cứu Máy Móc</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EXPLORATION">
-			<Text>Now that you have found Vinland how shall your government change?</Text>
+			<Text>Tìm thấy kỳ quan tự nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_REFORMED_CHURCH">
-			<Text>After recruiting theologians your people are starting to form new religious practices.</Text>
+			<Text>Có 2 Nhà Truyền Giáo.</Text>
 		</Row>
 		<!--Scoring-->
 		<Row Tag="LOC_CATEGORY_SCENARIO_VINLAND_NAME">
@@ -671,7 +671,7 @@
 			<Text>Vinland</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_DESCRIPTION">
-			<Text>VP Points: 1000 for first, 500 for second, 300 for third, 100 for fourth, and 100 for fifth.</Text>
+			<Text>Điểm chiến thắng: 1000 cho lần đầu, 500 cho lần hai, 300 cho lần ba, 100 cho lần bốn, và 100 cho lần năm.</Text>
 		</Row>
 		<!--Policies-->
 		<Row Tag="LOC_POLICY_SCENARIO_LEIDANGR_NAME">
@@ -688,45 +688,45 @@
 		</Row>
 		<!--Policies Descriptions-->
 		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSERIES_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+2 [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_CHIVALRY_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward mounted units.</Text>
+			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị kỵ binh.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward melee units.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_MARITIME_INDUSTRIES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward naval units.</Text>
+			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị hải quân.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
-			<Text>Each city receives +1 [ICON_Faith] Faith for each specialty district it constructs.</Text>
+			<Text>Mỗi thành phố được +1 [ICON_Faith] Đức tin cho mỗi Đặc Khu đặc biệt được xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_NATURAL_PHILOSOPHY_DESCRIPTION">
-			<Text>+100% Encampment [ICON_Science] Science.</Text>
+			<Text>+100% [ICON_Science] Khoa học Khu quân sự.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_SIEGE_TACTICS_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward siege and support units.</Text>
+			<Text>+100% [ICON_Production] Sản Phẩm đối với đơn vị Công thành và hỗ trợ.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+4 [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_DESCRIPTION">
-			<Text>Domestic [ICON_TradeRoute] Trade Routes +2 [ICON_Faith] Faith.</Text>
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại nội địa +2 [ICON_Faith] Đức tin.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_VOLLEY_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward ranged units.</Text>
+			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị tầm xa.</Text>
 		</Row>
 		<!--Units Name-->
 		<Row Tag="LOC_UNIT_SCENARIO_HUSCARL_NAME">
-			<Text>Huscarl</Text>
+			<Text>Lính Huscarl</Text>
 		</Row>
 		<!--Units Description-->
 		<Row Tag="LOC_UNIT_SCENARIO_HUSCARL_DESCRIPTION">
-			<Text>Melee unit that is strong against ranged attacks. Low [ICON_Production] Production cost.</Text>
+			<Text>Đơn vị cận chiến rất mạnh khi chống lại các đơn vị tầm xa. Giá [ICON_Production] Sản phẩm thấp.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_MISSIONARY_DESCRIPTION">
-			<Text>Viking unique unit that may convert [ICON_Citizen] citizens to their religion.</Text>
+			<Text>Viking là đơn vị duy nhất có thể cải giáo [ICON_Citizen] Công dân theo tôn giáo của họ.</Text>
 		</Row>
 		<!--Continent Descriptions-->
 		<Row Tag="LOC_CONTINENT_SCENARIO_BRITAIN_DESCRIPTION">
@@ -828,43 +828,43 @@
 		</Row>
 		<!--Religion-->
 		<Row Tag="LOC_BELIEF_ODIN_NAME">
-			<Text>Odin</Text>
+			<Text>Ôdin</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ODIN_DESCRIPTION">
-			<Text>+100 [ICON_Gold]  Gold when you pillage a tile and you do not have a dominant religion.</Text>
+			<Text>+100 [ICON_Gold] Vàng khi cướp bóc một ô đất và tôn giáo của bạn không chiếm ưu thế.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_POPULATION_GROWTH_NAME">
-			<Text>Population Growth</Text>
+			<Text>Tăng trưởng dân số</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_POPULATION_GROWTH_DESCRIPTION">
-			<Text>Double victory points for population if this religion is the dominant religion.</Text>
+			<Text>Chiến thắng gấp đôi điểm cho dân số nếu tôn giáo đó là tôn giáo chiếm ưu thế.</Text>
 		</Row>
 		<!--Buildings-->
 		<Row Tag="LOC_BUILDING_SCENARIO_HAGIA_SOPHIA_DESCRIPTION">
-			<Text>Unique wonder for Byzantium.</Text>
+			<Text>Kỳ quan đặc biệt của Byzantium.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SCENARIO_ALHAMBRA_DESCRIPTION">
-			<Text>Unique wonder for Al-Andalus.</Text>
+			<Text>Kỳ quan đặc biệt của Al-Andalus.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SCENARIO_MONT_ST_MICHEL_DESCRIPTION">
-			<Text>Unique wonder for Francia.</Text>
+			<Text>Kỳ quan đặc biệt của Francia.</Text>
 		</Row>
 		<!--Float-->
 		<Row Tag="LOC_PILLAGE_GOLD_DESCRIPTION">
-			<Text>+100 [COLOR_FLOAT_GOLD]Gold[ENDCOLOR]</Text>
+			<Text>+100 [COLOR_FLOAT_GOLD]Vàng[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_VINLAND_GOLD_DESCRIPTION">
-			<Text>+500 [COLOR_FLOAT_GOLD]Gold[ENDCOLOR]</Text>
+			<Text>+500 [COLOR_FLOAT_GOLD]Vàng[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_POINTS_FLOATER">
-			<Text>[COLOR_GREEN]+{1_Num} Points[ENDCOLOR]</Text>
+			<Text>[COLOR_GREEN]+{1_Num} Điểm[ENDCOLOR]</Text>
 		</Row>
 		<!--District-->
 		<Row Tag="LOC_DISTRICT_SCENARIO_ENCAMPMENT_DESCRIPTION">
-			<Text>A district in your city for military facilities. Also provides science.</Text>
+			<Text>Một đặc khu trong thành phố dành cho các hoạt động quân sự. Ngoài ra cũng cung cấp khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SCENARIO_HOLY_SITE_DESCRIPTION">
-			<Text>A district in your city for religious worship. Also provides culture.</Text>
+			<Text>Một đặc khu trong thành phố để thờ phụng tôn giáo. Ngoài ra cũng cung cấp văn hóa.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

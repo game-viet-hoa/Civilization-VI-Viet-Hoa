@@ -452,13 +452,13 @@
 			<Text>Các lượt đồng thời</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
-			<Text>Your war with a human player has ended. Your turns will be played simultaneously with all non-warring civilizations.</Text>
+			<Text>Cuộc chiến của bạn với người chơi khác đã kết thúc. Lượt tiếp bạn sẽ phải chơi với tất cả nền văn minh không có-chiến tranh.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
 			<Text>Các lượt tuần tự</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
-			<Text>You are at war with a human player.  Your turns will be played sequentially with all warring civilizations until the conflict is over.</Text>
+			<Text>Bạn đang chiến tranh với người chơi khác. Lượt tiếp bạn sẽ phải chơi liên tiếp với tất cả nền văn minh đang có chiến tranh cho đến khi mọi xung đột kết thúc.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
 			<Text>{1_playerName} hủy đồng bộ</Text>

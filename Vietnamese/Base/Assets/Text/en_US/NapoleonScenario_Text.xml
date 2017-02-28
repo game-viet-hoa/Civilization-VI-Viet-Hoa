@@ -3,81 +3,81 @@
 	<BaseGameText>
 		<!-- Ruleset -->
 		<Row Tag="LOC_NAPOLEON_RULESET_TITLE">
-			<Text>Cavalry and Cannonades</Text>
+			<Text>Kỵ binh và Pháo binh</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_RULESET_TEASER">
-			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+			<Text>Bạn hãy chiếm đoạt lãnh thổ của kẻ thù trong kịch bản chơi tập trung-chiến đấu này ở thời đại Công nghiệp. Trong vòng 50 lượt. Điều kiện chiến thắng[NEWLINE]Chứng minh bạn là chiến lược gia vĩ đại nhất của thời đại Công Nghiệp bằng cách sở hữu nhiều lãnh thổ nhất ở số lượt bị giới hạn.</Text>
 		</Row>
 		<!-- Victories  -->
 		<Row Tag="LOC_NAPOLEON_VICTORY_TITLE">
-			<Text>No Waterloo For You</Text>
+			<Text>Không được bại trận</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_VICTORY_TITLE_ALT">
-			<Text>For Iron, Land, and Glory!</Text>
+			<Text>Vì quặng sắt, đất đai, và vinh quang!</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_VICTORY_DESC">
-			<Text>Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+			<Text>Chứng minh bạn là chiến lược gia vĩ đại nhất của thời đại Công Nghiệp bằng cách sở hữu nhiều lãnh thổ nhất ở số lượt bị giới hạn.</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
-			<Text>"The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos, both his own and the enemies." —Napoleon Bonaparte</Text>
+			<Text>"Chiến trường là một cảnh tượng hỗn loạn liên hồi. Người chiến thắng là người kiểm soát sự hỗn loạn đó, bao gồm chính mình và kẻ thù." —Napoleon Bonaparte</Text>
 		</Row>
 
 		<!-- Mod Package Text -->
 		<Row Tag="LOC_NAPOLEON_MOD_TITLE">
-			<Text>Multiplayer Scenario: Cavalry and Cannonades</Text>
+			<Text>Kịch bản chơi nhiều người: Kỵ binh và Pháo binh</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_MOD_TEASER">
-			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.</Text>
+			<Text>Bạn hãy chiếm đoạt lãnh thổ của kẻ thù trong kịch bản chơi tập trung-chiến đấu này ở thời đại Công nghiệp. Trong vòng 50 lượt.</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_MOD_DESCRIPTION">
-			<Text>Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+			<Text>Điều kiện chiến thắng[NEWLINE]Chứng minh bạn là chiến lược gia vĩ đại nhất của thời đại Công Nghiệp bằng cách sở hữu nhiều lãnh thổ nhất ở số lượt bị giới hạn.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_NAPOLEON_PROGRESS">
-			<Text>Territory Size {TerritorySize} {TerritorySizeIcon}</Text>
+			<Text>Kích thước lãnh thổ {TerritorySize} {TerritorySizeIcon}</Text>
 		</Row>
 		<Row Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
-			<Text>Turn Limit {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
+			<Text>Giới hạn số lượt {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
 		</Row>
 		
 		<!-- End Game Leader Ranking -->
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
-			<Text>"Victory belongs to the most persevering." —Napoleon Bonaparte</Text>
+			<Text>"Chiến thắng chỉ thuộc về người kiên trì nhất." —Napoleon Bonaparte</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME">
-			<Text>The Emperor Napoleon I</Text>
+			<Text>Hoàng Đế Napoleon I</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME">
-			<Text>First Consul Bonaparte</Text>
+			<Text>Tổng Lãnh Bonaparte</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME">
-			<Text>Napoleon, General of the Interior</Text>
+			<Text>Tổng Nội Napoleon</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME">
-			<Text>Brigadier General Bonaparte</Text>
+			<Text>Chuẩn Tướng Bonaparte</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME">
-			<Text>Lieutenant Napoleon Bonaparte</Text>
+			<Text>Trung Uý Napoleon Bonaparte</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME">
 			<Text>Napoleone di Buonaparte</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT">
-			<Text>Sovereign of the Iron Empire</Text>
+			<Text>Sovereign của Đế chế Sắt</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT">
-			<Text>Grand Admiral of the Fleet</Text>
+			<Text>Đại Đô Đốc Hạm đội</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT">
-			<Text>Brigadier General of the Army</Text>
+			<Text>Chuẩn Tướng quân đội</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT">
-			<Text>Cavalry Colonel</Text>
+			<Text>Đại Uý Kỵ binh</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT">
-			<Text>Captain of Artillery</Text>
+			<Text>Đại Uý Pháo binh</Text>
 		</Row>
 		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
-			<Text>Lieutenant Martinet</Text>
+			<Text>Trung Uý Martinet</Text>
 		</Row>
 		
 	</BaseGameText>
