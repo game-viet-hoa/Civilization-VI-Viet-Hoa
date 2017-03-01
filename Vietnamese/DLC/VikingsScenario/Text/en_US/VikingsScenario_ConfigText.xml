@@ -14,26 +14,26 @@
 			<Text>Valhalla</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP">
-			<Text>The speed of eternal combat.</Text>
+			<Text>Tốc độ chiến đấu không đổi.</Text>
 		</Row>
 		<!-- Eras -->
 		<Row Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME">
 			<Text>Lindisfarne</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION">
-			<Text>The Lindisfarne Era the beginning of Vikings.</Text>
+			<Text>Bắt đầu Thời Đại Lindisfarne của người Viking.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME">
 			<Text>Rus</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION">
-			<Text>The Rus Era the zenith of the Vikings.</Text>
+			<Text>Thời Đại Rus đỉnh cao của người Viking.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME">
 			<Text>Hastings</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION">
-			<Text>The Hastings Era the twilight of the Vikings.</Text>
+			<Text>Thời Đại Hastings thoái trào của người Viking.</Text>
 		</Row>
 		<!-- Empire Names-->
 		<Row Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION">
@@ -131,16 +131,16 @@
 		</Row>
 		<!-- Scenario Name and Description-->
 		<Row Tag="LOC_VIKING_SCENARIO_NAME">
-			<Text>Vikings, Traders, and Raiders!</Text>
+			<Text>Quân Viking, Thương Nhân, và Kỵ binh!</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_TOOLTIP">
-			<Text>As a viking king, can you amass the greatest wealth?</Text>
+			<Text>Là vua Viking, ngươi có thể tích luỹ một kho của cải vĩ đại?</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_DESCRIPTION">
-			<Text>Bring Europe under your rule as the mightiest Viking lord in this 60 turn scenario. Play as one of three unique Viking rulers from Denmark, Norway, or Sweden and pillage and raid your way through Europe. Launch a naval invasion of England, conquer Paris, or sail around Gibraltar and raid the Mediterranean Sea.[NEWLINE][NEWLINE]Back home, build a merchant empire as you accumulate trade routes with the most profitable cities that you can. And if you find yourself following a religion, spread the good word and generate [ICON_Faith] Faith for your people.</Text>
+			<Text>Là một Chúa Tể Viking hùng mạnh hãy đem Châu Âu đặt dưới sự cai trị của ngươi trong 60 lượt. Hãy chọn một trong ba nhà lãnh đạo Viking như Đan Mạch, Na-Uy, Thuỵ Điển, hãy cướp bóc và tấn công theo cách của ngươi trên toàn Châu Âu. Phát động cuộc xâm chiếm vào Hải quân Anh, chiếm đóng Paris, hoặc dạo thuyền quanh Gibraltar và cướp bóc trên biển Địa Trung Hải. [NEWLINE][NEWLINE]Khi trở về, hãy xây dựng một đế chế bằng của cải tích luỹ được trên các tuyến đường thương mại và những thành phố đem lại lợi nhuận cao nhất cho ngươi. Và nếu ngươi tìm thấy cho mình một tôn giáo, hãy truyền bá và tạo nên [ICON_Faith] đức tin cho mọi người.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_VIKING_SCENARIO">
-			<Text>What is the worth of a Viking lord? At your command are seafaring warriors who would follow you across the oceans of the known world. Your longships cast shadows in the hearts of those who would keep their wealth within sight of the coast. But pillage for its own sake is simple banditry. You, my lord, are neither simple nor a bandit. Teach them the hard truth of the wealth they flaunt—if they can't protect it, then it was never theirs to keep.</Text>
+			<Text>Đâu là giá trị của Chúa tể Viking? Theo lệnh của ngài, mọi chiến binh biển cả, những người phục tùng trên khắp đại dương đều biết đến ngài. Thuyền dài của ngài ẩn mình bóng tối giống như trong trái tim những người canh giữ tài sản của mình khỏi mọi sự nhòm ngó. Nhưng sự cướp bóc vì lợi ích riêng cũng chỉ đơn giản là cướp bóc. Chúa tể của tôi, Ngài không đơn giản chỉ là một tên cướp. Hãy dạy cho chúng sự thật đau lòng khi khoe khoang của cải—nếu không thể bảo vệ nó, sau đó nó sẽ không bao giờ thuộc về chúng.</Text>
 		</Row>
 		<!--Units Name-->
 		<Row Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME">
@@ -151,26 +151,26 @@
 		</Row>
 		<!--Units Description-->
 		<Row Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION">
-			<Text>Viking unique unit. 4 [ICON_Movement] Movement if this unit starts in enemy territory. +7 [ICON_Strength] Combat Strength when attacking and -7 [ICON_Strength] Combat Strength when defending. Earns Great General points from Kills.</Text>
+			<Text>Đơn vị đặc biệt của Viking. 4 [ICON_Movement] Di chuyển nếu đơn vị này bắt đầu trong lãnh thổ đối phương. +7 [ICON_Strength] Sức chiến đấu khi tấn công và -7 [ICON_Strength] Sức chiến đấu khi phòng thủ. Kiếm được kiểm Đại Tướng Quân từ việc giết chóc.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION">
-			<Text>Viking unique naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent. Can heal in neutral territory. Earns Great Admiral points from Kills.</Text>
+			<Text>Đơn vị hải quân đặc biệt của Viking thay thế Thuyền buồm. Có thể cướp bóc ở các vùng ven biển và bắt cóc dân của đối phương. Có thể hồi phục trong lãnh thổ trung lập. Kiếm được kiểm Đại Đô Đốc từ việc giết chóc.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION">
-			<Text>Francia unique unit that replaces the Knight. Does not suffer combat penalties when damaged.</Text>
+			<Text>Francia là đơn vị đặc biệt có thể thay thế cho Hiệp sĩ. Không bị giảm sức mạnh khi bị thương.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION">
-			<Text>Al-Andulus unique unit. light cavalry unit that fghts better adjacent to or in home territory. Can move after attacking if movement points remain.</Text>
+			<Text>Al-Andalus là đơn vị đặc biệt. Đơn vị kỵ binh hạng nhẹ chiến đấu mạnh hơn khi ở cạnh hoặc trong lãnh thổ nhà. Có thể di chuyển sau khi tấn công nếu điểm di chuyển vẫn còn.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
-			<Text>Viking unique unit that may create new cities.</Text>
+			<Text>Đơn vị đặc biệt của Viking có thể tạo ra những thành phố mới.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION">
-			<Text>Byzantine unique unit. First naval ranged unit.</Text>
+			<Text>Byzantine là đơn vị đặc biệt. Đơn vị hải quân tầm xa đầu tiên.</Text>
 		</Row>
 		<!--District Description-->
 		<Row Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION">
-			<Text>A district unique to the Vikings for naval activity in your city. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Commercial Hub district. [NEWLINE][NEWLINE]Adjacency: Standard [ICON_Gold] Gold bonus for each adjacent coastal resource. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+			<Text>Một đặc khu đặc biệt của Hải quân Viking hoạt động trong thành phố của bạn. Đồng thời cũng loại bỏ chi phí [ICON_Movement] Di chuyển khi hạ thuỷ và lên bờ tính từ vùng này. Phải xây dựng trên địa hình Bờ Biển hoặc Hồ tiếp giáp đất liền.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại tạo ra, nếu thành phố chưa có một khu Thương Mại.[NEWLINE][NEWLINE]Liền Kề: thưởng theo tiêu chuẩn [ICON_Gold] Vàng cho mỗi tài nguyên liền kề bờ biển. Thưởng ít hơn tiêu chuẩn [ICON_Gold] Vàng cho các đặc khu liền kề.</Text>
 		</Row>
 		<!--Improvements Name-->
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME">

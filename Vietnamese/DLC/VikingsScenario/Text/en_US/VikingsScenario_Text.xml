@@ -643,28 +643,28 @@
 		</Row>
 		<!--Scoring-->
 		<Row Tag="LOC_CATEGORY_SCENARIO_VINLAND_NAME">
-			<Text>Vinland</Text>
+			<Text>Vùng ven biển</Text>
 		</Row>
 		<Row Tag="LOC_LINE_ITEM_PLUNDER_NAME">
-			<Text>Plunder</Text>
+			<Text>Cướp bóc</Text>
 		</Row>
 		<Row Tag="LOC_LINE_ITEM_TRADE_NAME">
-			<Text>Trade</Text>
+			<Text>Trao đổi</Text>
 		</Row>
 		<Row Tag="LOC_LINE_ITEM_VINLAND_NAME">
-			<Text>Vinland</Text>
+			<Text>Vùng ven biển</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_RELIGION_DESCRIPTION">
-			<Text>You will gain Faith in the scenario, primarily by pillaging Holy Sites, Alcázars, Monasteries, and Plantations. Each time you earn Faith your cities gain more pressure toward adopting Catholicism.</Text>
+			<Text>Có thể kiếm được Đức Tin trong phần chơi kịch bản này, chủ yếu bằng việc cướp bóc Thánh Địa, Alcázars, Tu Viện, và các Vườn ươm. Mỗi lần kiếm được Đức Tin thành phố của bạn sẽ chịu nhiều áp lực khi áp dụng đạo Công giáo.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1">
-			<Text> Cities cannot be razed. Traders and Admirals cannot be transfered between cities. Victory Points are earned as follows:[NEWLINE][ICON_Bullet]Empire: {1_CityVP} VP per city. {2_PopVP} VP per population.[NEWLINE][ICON_Bullet]Great People: {3_GPVP} VP for each Great Person earned.[NEWLINE][ICON_Bullet]Trade: {4_TradeVP} VP per trade route capacity.[NEWLINE][ICON_Bullet]Pillage: {5_PillageVP} VP per tile pillaged.</Text>
+			<Text>Các thành phố không thể bị san bằng. Các Thương Gia và Đô Đốc không thể di chuyển giữa các thành phố. Điểm Chiến Thắng VP kiếm được như sau:[NEWLINE][ICON_Bullet]Đế Chế: {1_CityVP} VP cho mỗi thành phố. {2_PopVP} VP cho mỗi dân số.[NEWLINE][ICON_Bullet]Vĩ Nhân: {3_GPVP} VP cho mỗi Vĩ Nhân có được.[NEWLINE][ICON_Bullet]Thương Mại: {4_TradeVP} VP cho mỗi tuyến đường thương mại tạo ra.[NEWLINE][ICON_Bullet]Cướp Bóc: {5_PillageVP} VP cho mỗi ô bị cướp.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
-			<Text>[NEWLINE][ICON_Bullet]Vinland: {1_VinlandA} VP if first to activate a Great Admiral adjacent to Vinland, {2_VinlandB} for second, {3_VinlandC} for third, {4_VinlandD} afterwards.</Text>
+			<Text>[NEWLINE][ICON_Bullet]Vùng ven biển: {1_VinlandA} VP nếu lần đầu đưa Đại Đô Đốc tiến sát Vùng ven biển, {2_VinlandB} cho lần hai, {3_VinlandC} cho lần ba, {4_VinlandD} lần sau nữa.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
-			<Text>[NEWLINE][ICON_Bullet]Religion: {1_PillageEarly} VP per faith earned for pillaging a tile when less than half your cities have the same religion. {2_PopLate} VP per population added when half or more of your cities have the same religion..[NEWLINE][ICON_Bullet]Bonus: On the last turn {3_GoldEnd} VP for every {4_GoldPer} gold in a Viking player's treasury and {5_FaithEnd} VP for every {6_FaithPer} Faith a Viking player currently possess.</Text>
+			<Text>[NEWLINE][ICON_Bullet]Tôn Giáo: {1_PillageEarly} VP cho mỗi đức tin kiếm được khi cướp bóc một vùng khi đức tin ở các thành phố có cùng tôn giáo của bạn ít hơn một nửa. {2_PopLate} VP cho mỗi tín đồ thêm vào khi đức tin ở các thành phố có cùng tôn giáo của bạn có một nửa hoặc cao hơn.[NEWLINE][ICON_Bullet]Thưởng thêm: lượt cuối cùng {3_GoldEnd} VP cho mỗi {4_GoldPer} Vàng trong kho tàng của người Viking và {5_FaithEnd} VP cho mỗi {6_FaithPer} Đức tin mà người Viking hiện đang sở hữu.</Text>
 		</Row>
 		<!--Features-->
 		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME">
@@ -675,16 +675,16 @@
 		</Row>
 		<!--Policies-->
 		<Row Tag="LOC_POLICY_SCENARIO_LEIDANGR_NAME">
-			<Text>Leiðangr</Text>
+			<Text>Chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_VOLLEY_NAME">
-			<Text>Volley</Text>
+			<Text>Loạt đạn răn đe</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_THING_NAME">
-			<Text>Thing</Text>
+			<Text>Hành động</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_NAME">
-			<Text>Traveling Monks</Text>
+			<Text>Vi hành của các nhà Sư</Text>
 		</Row>
 		<!--Policies Descriptions-->
 		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSERIES_DESCRIPTION">

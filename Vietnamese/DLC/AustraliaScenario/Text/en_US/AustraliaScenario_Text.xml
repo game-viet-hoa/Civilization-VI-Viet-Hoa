@@ -4,10 +4,10 @@
 	<EnglishText>
 		<!-- Buildings-->
 		<Row Tag="LOC_BUILDING_SCENARIO_PALACE_NAME">
-			<Text>Government House</Text>
+			<Text>Toà nhà chính phủ</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
-			<Text>Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district.</Text>
+			<Text>Thưởng thêm [ICON_Production] Sản phẩm bằng với thưởng liền kề của Khu cảng biển.</Text>
 		</Row>
 		<!-- City-Names-->
 		<Row Tag="LOC_CITY_NAME_SCENARIO_WARWICK">
@@ -97,38 +97,38 @@
 			<Text>Passenger Liners</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_DESCRIPTION">
-			<Text>Receive a free Settler in your capital upon completion.</Text>
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_DESCRIPTION">
-			<Text>Receive 2 free Settlers in your capital upon completion.</Text>
+			<Text>Nhận 2 Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_DESCRIPTION">
-			<Text>Receive a free Settler in your capital upon completion.</Text>
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_DESCRIPTION">
-			<Text>Receive a free Settler in your capital upon completion.</Text>
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_DESCRIPTION">
-			<Text>Receive a free Settler in your capital upon completion.</Text>
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION">
-			<Text>Allows the building of National Parks. Allows units to plant Woods (second-growth). Woods in your territory that have never been removed (old-growth) gain +1 Appeal.</Text>
+			<Text>Cho phép xây Công Viên Quốc Gia. Cho phép các đơn vị trồng Rừng cải tạo. Rừng già trong lãnh thổ không bị chặt bỏ sẽ +1 Sức Hấp Dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_DESCRIPTION">
-			<Text>Receive a free Settler in your capital upon completion.</Text>
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
-			<Text>Outback Stations receive +1 [ICON_Food] Food for every two adjacent Outback Stations.</Text>
+			<Text>Nông trại ngoại thành được +1 [ICON_Food] Thực phẩm cho mỗi 2 Nông trại ngoại thành liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
-			<Text>Can be completed multiple times, but in this scenario it does NOT increase your points towards the Score Victory.</Text>
+			<Text>Có thể hoàn thành nhiền lần, nhưng trong kịch bản này sẽ không tăng điểm chiến thắng đối với Chiến Thắng Điểm.</Text>
 		</Row>
 		<!-- Civilizations-->
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_NAME">
-			<Text>Outback Annexation</Text>
+			<Text>Sát nhập vùng Hoang vu</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_DESCRIPTION">
-			<Text>Completing any district causes a Culture Bomb.</Text>
+			<Text>Hoàn thành dội bom văn hoá bất kỳ đặc khu nào đó.</Text>
 		</Row>
 		<!-- Continent Names -->
 		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_HOLLAND_DESCRIPTION">
@@ -139,33 +139,33 @@
 		</Row>
 		<!-- Government Names -->
 		<Row Tag="LOC_GOVERNMENT_PENAL_SETTLEMENT_NAME">
-			<Text>Penal Settlement</Text>
+			<Text>Trừng phạt người dân</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_COLONIAL_GOVERNMENT_NAME">
-			<Text>Colonial Government</Text>
+			<Text>Chính quyền thuộc địa</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_STATE_GOVERNMENT_NAME">
-			<Text>State Government</Text>
+			<Text>Chính quyền bang</Text>
 		</Row>
 		<!-- Districts-->
 		<Row Tag="LOC_DISTRICT_SCENARIO_AERODROME_DESCRIPTION">
-			<Text>Cannot be built on Hills.</Text>
+			<Text>Không thể xây dựng trên những ngọn đồi.</Text>
 		</Row>
 		<!-- Improvements-->
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
-			<Text>Unlocks the Prospector ability to construct Mines.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. +2 [ICON_Gold] Gold. -1 Appeal. Can only be built on Hills or certain resources.[NEWLINE][NEWLINE]If built on Luxury or Strategic resources, city will gain use of that resource.</Text>
+			<Text>Người thăm dò xây Mỏ.[NEWLINE][NEWLINE]+1 [ICON_Production] Sản phẩm. +2 [ICON_Gold] Vàng. -1 Sức hấp dẫn. Chỉ có thể xây trên đồi hoặc các tài nguyên nhất định.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý hoặc chiến thuật, thành phố sẽ được sử dụng nguồn tài nguyên đó.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
-			<Text>Unlocks the Grazier ability to construct Pastures.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. +1 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_CATTLE] Cattle, [ICON_RESOURCE_SHEEP] Sheep, or [ICON_RESOURCE_HORSES] Horse resources.[NEWLINE][NEWLINE]If built on a [ICON_RESOURCE_HORSES] Horse resource, the city will gain use of that resource.</Text>
+			<Text>Người chăn nuôi xây Bãi chăn.[NEWLINE][NEWLINE]+1 [ICON_Production] Sản phẩm. +1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_CATTLE] Sữa bò, [ICON_RESOURCE_SHEEP] Cừu, hoặc [ICON_RESOURCE_HORSES] Ngựa.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên [ICON_RESOURCE_HORSES] Ngựa, thành phố sẽ được sử dụng nguồn tài nguyên đó.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_OUTBACK_STATION_DESCRIPTION">
-			<Text>Unlocks the Grazier ability to construct an Outback Station.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_Gold] Gold and +1 [ICON_PRODUCTION] Production. +1 [ICON_Food] Food for each adjacent Pasture. Additional [ICON_FOOD] Food and [ICON_PRODUCTION] Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.</Text>
+			<Text>Người chăn nuôi xây Nông trại ngoại thành.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Thực phẩm, +1 [ICON_Gold] Vàng và +1 [ICON_PRODUCTION] Sản phẩm. +1 [ICON_Food] Thực phẩm cho mỗi Bãi chăn liền kề. Cộng thêm [ICON_FOOD] Thực phẩm và [ICON_PRODUCTION] Sản phẩm nếu nghiên cứu công nghệ và hành chính giúp Nông trại ngoại thành và Bãi chăn liền kề nhau có thưởng. Chỉ có thể xây trên Sa mạc, Đồi sa mạc, Đồng cỏ và Đồng bằng.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_BEACH_RESORT_DESCRIPTION">
-			<Text>Unlocks the Naturalist ability to construct Seaside Resorts.[NEWLINE][NEWLINE]Provides [ICON_Gold] equal to the tile's Appeal. Can only be built on Coastal Desert, Coastal Plains, or Coastal Grassland tiles. Minimum Appeal of Breathtaking.</Text>
+			<Text>Nhà tự nhiên học xây Khu nghỉ dưỡng ven biển.[NEWLINE][NEWLINE]Cung cấp [ICON_Gold] Vàng bằng với Sức hấp dẫn của ô đất. Chỉ có thể xây trên Bờ biển sa mạc, Bờ biển đồng bằn hoặc Bờ biển đồng cỏ. Sức hấp dẫn tối thiểu là ngây ngất.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
-			<Text>Unlocks the Farmer ability to construct Plantations.[NEWLINE][NEWLINE]+1 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_BANANAS] Bananas, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COTTON] Cotton, [ICON_RESOURCE_SUGAR] Sugar, [ICON_RESOURCE_TEA] Tea, or [ICON_RESOURCE_WINE] Wine resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>
+			<Text>Nông dân xây Vườn ươm.[NEWLINE][NEWLINE]+1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_SUGAR] Đường, [ICON_RESOURCE_TEA] Trà, hoặc [ICON_RESOURCE_WINE] Rượu.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý, thành phố sẽ được sử dụng tài nguyên đó.</Text>
 		</Row>
 		<!-- Natural Wonders -->
 		<Row Tag="LOC_FEATURE_KAKADU_NAME">
@@ -175,11 +175,11 @@
 			<Text>Pinnacles</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION">
-			<Text>One tile impassable natural wonder. Provides +2 [ICON_CULTURE] Culture and +2 [ICON_Gold] Gold to adjacent tiles. Provides +4 Appeal to adjacent tiles instead of the usual +2.</Text>
+			<Text>Một ô kỳ quan thiên nhiên không thể đi qua. Đem lại +2 [ICON_CULTURE] Văn minh và +2 [ICON_Gold] Vàng tới các ô liền kề. Đem lại +4 Sức Hấp dẫn tới các ô liền kề thay vì +2 như thường lệ.</Text>
 		</Row>
 		<!--Resources-->
 		<Row Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">
-			<Text>Gold Ore</Text>
+			<Text>Quặng Vàng</Text>
 		</Row>
 		<!--Policies-->
 		<Row Tag="LOC_POLICY_LAND_GRANTS_NAME">
@@ -234,283 +234,283 @@
 			<Text>Park Rangers</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LAND_GRANTS_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Farmers.</Text>
+			<Text>+30% [ICON_Production] Sản phẩm đối với Nông dân.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FIRST_FLEET_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Fishers.</Text>
+			<Text>+30% [ICON_Production] Sản phẩm đối với Ngư dân.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_REWARDS_OFFERED_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Prospectors.</Text>
+			<Text>+30% [ICON_Production] Sản phẩm đối với Người thăm dò.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TERRA_NULLIUS_DESCRIPTION">
-			<Text>Newly trained Farmers gain 2 extra build actions.</Text>
+			<Text>Nông dân mới có thêm 2 lần xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production in all cities.</Text>
+			<Text>+1 [ICON_Production] Sản Phẩm trong tất cả các thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_DESCRIPTION">
-			<Text>+1 [ICON_Food] Food and +1 [ICON_Production] Production from domestic [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+1 [ICON_Food] Thực phẩm và +1 [ICON_Production] Sản phẩm từ [ICON_TradeRoute] Tuyến đường thương mại trong nước.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Graziers.</Text>
+			<Text>+30% [ICON_Production] Sản phẩm đối với Người chăn nuôi.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_DESCRIPTION">
-			<Text>Newly trained Graziers gain 2 extra build actions.</Text>
+			<Text>Người chăn nuôi mới có thêm 2 lần xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_DESCRIPTION">
-			<Text>+6 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+6 [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from Farm and Plantation improvements.</Text>
+			<Text>+1 [ICON_Gold] Vàng từ Nông trại và Vườn ươm.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GALLIPOLLI_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward AIF projects.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với dự án AIF.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Gold from all Quarries and Mine improvements on Luxury resources.</Text>
+			<Text>+2 [ICON_Gold] Vàng từ tất cả Mỏ đá và Mỏ trên tài nguyên quý.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FLYING_DOCTORS_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from Pasture and Outback Station improvements.</Text>
+			<Text>+1 [ICON_Gold] Vàng từ Bãi chăn và Nông trại ngoại thành.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Gold from Mine improvements on Strategic resources.</Text>
+			<Text>+4 [ICON_Gold] Vàng từ Mỏ trên tài nguyên chiến thuật.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_INVASION_THREAT_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward AIF projects.</Text>
+			<Text>+100% [ICON_Production] Sản phẩm đối với dự án AIF.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Gold from Fishing Boat improvements.</Text>
+			<Text>+2 [ICON_Gold] Vàng từ Thuyền Đánh Cá.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PARK_RANGERS_DESCRIPTION">
-			<Text>All tiles in your civilization gain +2 Appeal. -1 [ICON_GOLD] Gold from Mine improvements.</Text>
+			<Text>Tất cả ô đất trong nền văn minh được +2 Sức hấp dẫn. -1 [ICON_GOLD] Vàng từ Mỏ.</Text>
 		</Row>
 		<!-- Technologies-->
 		<Row Tag="LOC_TECH_IRRIGATION_SCENARIO_DESCRIPTION">
-			<Text>Farm improvements now gain +1 [ICON_Food] Food for each adjacent Farm improvement when 3 Farm improvements are adjacent to each other.</Text>
+			<Text>Nông trại được +1 [ICON_Food] Thực phẩm cho mỗi Nông trại liền kề khi 3 Nông trại liền kề nhau.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_DESCRIPTION">
-			<Text>Allows chopping of Woods and Rainforest. Your units gain a better chance of surviving in the Outback and map more territory if they receive beneficial events in the Outback.</Text>
+			<Text>Cho phép chặt Rừng và Rừng nhiệt đới. Các đơn bị có cơ hội sinh tồn tốt hơn ở vùng Khai Hoang và bản đồ lãnh thổ rộng hơn nếu họ nhận được sự kiện có lợi ở vùng Khai Hoang.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_ABILITY_DESCRIPTION">
-			<Text>Your units gain a better chance of surviving in the Outback and map more territory if they receive beneficial events in the Outback.</Text>
+			<Text>Các đơn bị có cơ hội sinh tồn tốt hơn ở vùng Khai Hoang và bản đồ lãnh thổ rộng hơn nếu họ nhận được sự kiện có lợi ở vùng Khai Hoang.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MINING_SCENARIO_DESCRIPTION">
-			<Text>Allows harvesting of [ICON_RESOURCE_STONE] Stone.</Text>
+			<Text>Cho phép khai thác [ICON_RESOURCE_STONE] Đá.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_SCENARIO_DESCRIPTION">
-			<Text>Upgrades Farm improvements to Mechanized Agriculture. +1 [ICON_Food] Food Adjacency bonus for every Farm improvement they are adjacent to.</Text>
+			<Text>Nâng cấp nông trại thành Nông nghiệp cơ giới. +1 [ICON_Food] Thực phẩm cho mỗi Nông trại liền kề nó.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_FLIGHT_SCENARIO_DESCRIPTION">
-			<Text>Outback Stations receive +1 [ICON_Production] Production for every two adjacent Outback Stations. Pastures receive +1 [ICON_PRODUCTION] for every adjacent Outback Station.</Text>
+			<Text>Nông trại ngoại thành được +1 [ICON_Production] Sản phẩm cho mỗi 2 Nông trại ngoại thành liền kề. Bãi chăn được +1 [ICON_PRODUCTION] Sản phẩm cho mỗi Nông trại ngoại thành liền kề.</Text>
 		</Row>
 		<!-- Units-->
 		<Row Tag="LOC_UNIT_EXPLORER_NAME">
-			<Text>Explorer</Text>
+			<Text>Nhà thám hiểm</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PROSPECTOR_NAME">
-			<Text>Prospector</Text>
+			<Text>Người thăm dò</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GRAZIER_NAME">
-			<Text>Grazier</Text>
+			<Text>Người chăn nuôi</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FARMER_NAME">
-			<Text>Farmer</Text>
+			<Text>Nông dân</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FISHER_NAME">
-			<Text>Fisher</Text>
+			<Text>Ngư dân</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
-			<Text>Fast moving recon unit.  Civilian unit that cannot attack in this scenario.</Text>
+			<Text>Đơn vị do thám di chuyển nhanh. Không thể tấn công đơn vị trong kịch bản này.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_PROSPECTOR_DESCRIPTION">
-			<Text>May create Mine, Quarry, Oil Well and Airstrip tile improvements. Prospectors can be used 3 times.</Text>
+			<Text>Có thể xây Mỏ, Mỏ Đá, Giếng dầu và Đường băng. Người thăm dò có thể sử dụng 3 lần.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GRAZIER_DESCRIPTION">
-			<Text>May create Pasture and Outback Station tile improvements. Graziers can be used 3 times. This can be increased through the Mounted Stockmen policy.</Text>
+			<Text>Có thể xây Bãi chăn và Nông Trại Ngoại Thành. Người chăn nuôi có thể sử dụng 3 lần. Số lần sử dụng có thể tăng thông qua chính sách Mounted Stockmen.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FARMER_DESCRIPTION">
-			<Text>May create Farm, Plantation and Lumber Mill tile improvements. Farmers can be used 3 times. This can be increased through the Terra Nullius policy.</Text>
+			<Text>Có thể xây Nông trại, Vườn ươm và Xưởng gỗ. Nông dân có thể sử dụng 3 lần. Số lần sử dụng có thể tăng thông qua chính sách Lãnh Thổ Vô Chủ.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FISHER_DESCRIPTION">
-			<Text>May create Fishing Boat tile improvements. Fishers can be used 3 times.</Text>
+			<Text>Có thể tạo ra Thuyền Đánh Cá. Ngư dân có thể sử dụng 3 lần.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
-			<Text>May create new cities. Settlers are only received in this scenario by completing Civics.  They can never be built.</Text>
+			<Text>Có thể tạo các thành phố mới. Dân di cư chỉ có thể nhận được trong kịch bản này bằng cách hoàn thành các Hành chính. Không thể đào tạo ra họ được.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SCENARIO_NATURALIST_DESCRIPTION">
-			<Text>A late-game civilian who can create either a single Seaside Resort or a single National Park to increase [ICON_Gold] Gold per [ICON_Turn] Turn. Removed from play after Seaside Resort or National Park is created.</Text>
+			<Text>Một dân thường về cuối game có thể tạo ra một Khu nghỉ dưỡng ven biển hoặc một Công viên quốc gia để tăng [ICON_Gold] Vàng mỗi [ICON_Turn] Lượt. Sẽ bị loại bỏ sau khi Khu nghỉ dưỡng ven biển hoặc Công viên quốc gia được tạo.</Text>
 		</Row>
 		<!-- Civic Boosts-->
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GOLD_RUSH">
-			<Text>Reveal 1 [ICON_RESOURCE_GOLD] Gold Ore resource.</Text>
+			<Text>Tìm ra 1 [ICON_RESOURCE_GOLD] Quặng Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CROWN_COLONY">
-			<Text>Have a [ICON_GOLD] Gold per [ICON_Turn] Turn of 15.</Text>
+			<Text>Có 15 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHEEP_REARING">
-			<Text>Reveal 3 [ICON_RESOURCE_SHEEP] Sheep resources.</Text>
+			<Text>Tìm ra 3 [ICON_RESOURCE_SHEEP] Cừu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY">
-			<Text>Grow your civilization to at least 12 population.</Text>
+			<Text>Tăng số dân cư nền văn minh của bạn tối thiểu là 12.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES">
-			<Text>Build 3 Pastures.</Text>
+			<Text>Xây 3 Bãi Chăn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEDERATION">
-			<Text>Have a [ICON_GOLD] Gold per [ICON_Turn] Turn of 30.</Text>
+			<Text>Có 30 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION">
-			<Text>Grow a city to 10 population.</Text>
+			<Text>Tăng số dân cư một thành phố lên 10.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION">
-			<Text>Find a natural wonder.</Text>
+			<Text>Tìm thấy kỳ quan thiên nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_WAR">
-			<Text>Progress to [ICON_Turn] Turn 45.</Text>
+			<Text>Chơi tới [ICON_Turn] Lượt 45.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_AERIAL_SERVICES">
-			<Text>Build an Airstrip.</Text>
+			<Text>Xây Đường Băng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_WORLD_WAR_II">
-			<Text>Progress to [ICON_Turn] Turn 53.</Text>
+			<Text>Chơi tới [ICON_Turn] Lượt 53.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CRUISE_LINES">
-			<Text>Create a National Park.</Text>
+			<Text>Tạo lập công viên quốc gia.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GOLD_RUSH">
-			<Text>Gold fever is upon us! Fortune hunters from every continent rush to Australia to try and strike it rich.</Text>
+			<Text>Tìm ra 1 [ICON_RESOURCE_GOLD] Quặng Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CROWN_COLONY">
-			<Text>The profits are starting to build. The Queen will soon establish your lands as a proper crown colony.</Text>
+			<Text>Có 15 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHEEP_REARING">
-			<Text>With so much open space in this land, raising sheep seems like a winning proposition.</Text>
+			<Text>Tìm ra 3 [ICON_RESOURCE_SHEEP] Cừu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_DRAMA_POETRY">
-			<Text>With so many citizens, some are finding time to explore the arts.</Text>
+			<Text>Tăng số dân cư nền văn minh của bạn tối thiểu là 12.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PASTORAL_LEASES">
-			<Text>Your tidy profit from pastures is attracting government interest. They may soon lease out crown lands.</Text>
+			<Text>Xây 3 Bãi Chăn.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FEDERATION">
-			<Text>As you prosper, native-born Australians clamor for their own nation, independent from Britian.</Text>
+			<Text>Có 30 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_URBANIZATION">
-			<Text>Your large city is getting overcrowded. It's time to start planning for some suburbs.</Text>
+			<Text>Tăng số dân cư một thành phố lên 10.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CONSERVATION">
-			<Text>The natural beauty of this land is unmatched and must be preserved for future generations.</Text>
+			<Text>Tìm thấy kỳ quan thiên nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_WAR">
-			<Text>The Great Powers have been drawn into a bloody conflict. Time to rally to the Mother Country!</Text>
+			<Text>Chơi tới [ICON_Turn] Lượt 45.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_AERIAL_SERVICES">
-			<Text>Aircraft have come to Australia. Surely they are just the ticket to service the vast Outback?</Text>
+			<Text>Xây Đường Băng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_WORLD_WAR_II">
-			<Text>The forces of fascism have risen in Germany and Japan. Could even Australia itself be at risk?</Text>
+			<Text>Chơi tới [ICON_Turn] Lượt 53.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CRUISE_LINES">
-			<Text>Your new national park could become a major destination for the new, ocean-going passenger liners. </Text>
+			<Text>Tạo lập công viên quốc gia.</Text>
 		</Row>
 		<!-- Tech Boosts-->
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION">
-			<Text>Grow a city to 6 population.</Text>
+			<Text>Tăng tưởng một thành phố lên 6 Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
-			<Text>Maintain 2 [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>Bảo dưỡng 2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_INDUSTRIALIZATION">
-			<Text>Build 3 Mines.</Text>
+			<Text>Xây 3 Mỏ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
-			<Text>Build 2 Quarries.</Text>
+			<Text>Xây 2 Mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SCIENTIFIC_THEORY">
-			<Text>Build 2 Libraries.</Text>
+			<Text>Xây 2 Thư Viện.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ECONOMICS">
-			<Text>Build 2 Markets.</Text>
+			<Text>Xây 2 Chợ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ELECTRICITY">
-			<Text>Build 2 Workshops.</Text>
+			<Text>Xây 2 Xưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FLIGHT">
-			<Text>Have the The Great War civic.</Text>
+			<Text>Có hành chính Cuộc Chiến Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMBUSTION">
-			<Text>Have the World War II civic.</Text>
+			<Text>Có hành chính Thế Chiến II</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RADIO">
-			<Text>Build a Research Lab.</Text>
+			<Text>Xây Viện Nghiên Cứu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ADVANCED_FLIGHT">
-			<Text>Build a Hangar</Text>
+			<Text>Xây Xưởng máy bay</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EDUCATION">
-			<Text>Your new urban center is a prime spot for a center of learning featuring a library and university.</Text>
+			<Text>Tăng tưởng một thành phố lên 6 Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_BANKING">
-			<Text>Your lucrative trade network has given us capital to spare. Setting up banks now could fuel further investments.</Text>
+			<Text>Bảo dưỡng 2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_INDUSTRIALIZATION">
-			<Text>With numerous mines active, the materials for progress are at hand. Is an Industrial Revolution about to begin?</Text>
+			<Text>Xây 3 Mỏ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
-			<Text>The stone from your quarries now give us the foundation for great works of engineering.</Text>
+			<Text>Xây 2 Mỏ đá</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SCIENTIFIC_THEORY">
-			<Text>With two libraries active, your scientific community is off and running.</Text>
+			<Text>Xây 2 Thư Viện.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ECONOMICS">
-			<Text>Your commercial successes have encouraged many to make investments in your economy.</Text>
+			<Text>Xây 2 Chợ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ELECTRICITY">
-			<Text>Your industrial production is impressive but could advance further with the introduction of electric power.</Text>
+			<Text>Xây 2 Xưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FLIGHT">
-			<Text>Australian aviators have returned from the war with stories of their flights over the trenches of Europe.</Text>
+			<Text>Có hành chính Cuộc Chiến Vĩ Đại</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_COMBUSTION">
-			<Text>With the Japanese empire expanding, competition for Pacific oil resources is growing fierce.</Text>
+			<Text>Có hành chính Thế Chiến II</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RADIO">
-			<Text>Finishing a modern research facility will let you keep up with the most recent advances in communications.</Text>
+			<Text>Xây Viện Nghiên Cứu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ADVANCED_FLIGHT">
-			<Text>With an aerodrome and hangar in place, you are ready to begin work on a modern airport.</Text>
+			<Text>Xây Xưởng máy bay</Text>
 		</Row>
 		<!-- Projects-->
 		<Row Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION">
-			<Text>The Australian Imperial Force (AIF) project recruits troops for overseas deployment during the World Wars. Completing it in a city provides a large boost to that city's [ICON_Gold] Gold per [ICON_Turn] Turn.</Text>
+			<Text>Quân Hoàng Gia Úc (AIF) là dự án tuyển mộ binh lính cho công tác triển khai ở nước ngoài trong Thế Chiến. Hoàn thành trong một thành phố sẽ mang lại sự thúc đẩy mạnh mẽ [ICON_Gold] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_AIF_SCENARIO_NAME">
-			<Text>AIF Training</Text>
+			<Text>Đào tạo AIF</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_AIF_SCENARIO_SHORT_NAME">
-			<Text>AIF Training</Text>
+			<Text>Đào tạo AIF</Text>
 		</Row>
 		<!-- Scoring-->
 		<Row Tag="LOC_CATEGORY_INCOME_NAME">
-			<Text>Income ([ICON_Gold] Gold per [ICON_Turn] Turn)</Text>
+			<Text>Thu nhập ([ICON_Gold] Vàng mỗi [ICON_Turn] Lượt)</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_DIFFICULTY">
-			<Text>Difficulty: {1_DifficultyName}</Text>
+			<Text>Độ khó: {1_DifficultyName}</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_CURRENT_GAME_DIFFICULTY">
-			<Text>Current game: {1_Difficulty}</Text>
+			<Text>Game hiện tại: {1_Difficulty}</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_SINGLE_PLAYER_SCORE">
-			<Text>Required Score for Victory: {1_Score}</Text>
+			<Text>Điểm cần thiết để chiến thắng: {1_Score}</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TITLE">
-			<Text>THE OUTBACK</Text>
+			<Text>KHAI HOANG</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_EFFECTS">
-			<Text>All land tiles not controlled by a player are considered to be a part of the Australian Outback, a dangerous abode plagued by  poisonous plants and animals and home to one of the harshest climates on the planet. Any unit that ends a turn in an Outback tile may experience a special Outback encounter. Although many of these events cause damage or delays, there are a select few that will help your exploring unit gain unique bonuses. In general though you'll want to limit the time your units spend out in such an untamed wilderness.</Text>
+			<Text>Tất cả các vùng đất chưa thuộc kiểm soát bởi người chơi được xem là một phần trong vùng Hoang vắng của nước Úc, là một nơi nguy hiểm bởi thực vật và động vật có độc và một trong những vùng khí hậu khắc nghiệt nhất hành tinh. Bất kỳ đơn vị nào kết thúc lượt trong vùng Hoang vắng sẽ chịu những ảnh hưởng đặc biệt. Mặc dù những sự việc này gây thiệt hại hoặc chậm trễ cho người chơi, nhưng có một vài lựa chọn giúp đơn vị nhận thêm điểm thưởng. Nói chung bạn sẽ muốn giới hạn thời gian đơn vị của bạn ở trong một sa mạc hoang vu như vậy.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TOOLTIP">
-			<Text>Outback</Text>
+			<Text>Khai Hoang</Text>
 		</Row>
 	</EnglishText>
 </GameData>
