@@ -244,13 +244,16 @@
 			<Text>Khác version với Host.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
-			<Text>Unable to apply additional content.</Text>
+			<Text>Không thể áp dụng nội dung bổ sung.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING">
-			<Text>Unable to acquire required additional content.[NEWLINE]Content:[NEWLINE]</Text>
+			<Text>Không thể tải thêm nội dung yêu cầu.[NEWLINE]Nội dung:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+			<Text>Steam Workshop từ chối truy cập nội dung yêu cầu.[NEWLINE]Nội dung:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
-			<Text>This game requires additional content that is not installed.  The automatic download of additional content is currently disabled.  Automatic downloads can be enabled in Game Options.[NEWLINE]Content:[NEWLINE]</Text>
+			<Text>Nội dung thêm mà game yêu cầu không được cài đặt. Tự tải nội dung thêm đã bị tắt. Tự tải có thể bật trong Tùy Chọn Game.[NEWLINE]Nội dung:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
 			<Text>Mất kết nối.</Text>
@@ -403,7 +406,13 @@
 			<Text>GAME MẠNG LAN</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS">
-			<Text>Additional Content</Text>
+			<Text>Nội dung thêm</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
+			<Text>Nội dung chính chủ:</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
+			<Text>Nội dung cộng đồng:</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
 			<Text>Không rõ</Text>
@@ -1569,9 +1578,42 @@
 		<Row Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Tiếp tục</Text>
 		</Row>
-    <Row Tag="LOC_VICTORY_DEFAULT_NAME">
-      <Text>Chiến thắng</Text>
-    </Row>
+		<Row Tag="LOC_VICTORY_DEFAULT_NAME">
+			<Text>Chiến thắng</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_HEADER">
+			<Text>CHIẾN THẮNG!</Text>
+		</Row>
+		<Row Tag="LOC_DEFEATED_SUBHEADER">
+			<Text>THẤT BẠI</Text>
+		</Row>
+		<Row Tag="LOC_ELIMINATED_SUBHEADER">
+			<Text>LOẠI BỎ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCORE_SUBHEADER">
+			<Text>CHIẾN THẮNG ĐIỂM</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
+			<Text>CHIẾN THẮNG KHOA HỌC</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_SUBHEADER">
+			<Text>CHIẾN THẮNG VĂN MINH</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
+			<Text>CHIẾN THẮNG THỐNG TRỊ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
+			<Text>CHIẾN THẮNG TÔN GIÁO</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
+			<Text>CHIẾN THẮNG: {1_ScenarioName}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
+			<Text>{1_ScenarioVictoryType}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
+			<Text>CHIẾN THẮNG</Text>
+		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_NAME">
 			<Text>Điểm</Text>
 		</Row>

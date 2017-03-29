@@ -81,7 +81,7 @@
 			<Text>Trong Civilization VI, các kiến trúc không còn bị giới hạn trong Thành Phố Trung Tâm nữa, nhưng sẽ được rải rác ra khắp vùng đất của đặc khu. Bản đồ sẽ quan trọng hơn vì bạn sẽ đối mặt với các lựa chọn vị trí chiến lược quan trọng. Mỗi Khu Trí Thức và Thánh Địa nhận thưởng đặc biệt từ các ô Núi liền kề, nhưng Khu Tri Thức cũng hưởng lợi từ ô Rừng Nhiệt Đới gần đó.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_2">
-			<Text>Một thành phố phải gia tăng [ICON_Citizen] Dân cư trước khi có thể xây dựng nhiều Đặc Khu:[NEWLINE]• 1 [ICON_Citizen] Dân cư cho 1 Đặc Khu[NEWLINE]• 4 [ICON_Citizen] Dân cư cho 2 Đặc Khu[NEWLINE]• 7 [ICON_Citizen] Dân cư cho 3 Đặc Khu[NEWLINE]• Thêm mỗi Đặc Khu cần +3 [ICON_Citizen] Dân cư[NEWLINE]Khu thủy lợi, Vùng ngoại ô, và bất kỳ Đặc Khu đặc biệt của nền văn minh sẽ không có yêu cầu [ICON_Citizen] Dân cư.</Text>
+			<Text>Một thành phố phải gia tăng [ICON_Citizen] Dân cư trước khi có thể xây dựng nhiều Đặc Khu:[NEWLINE]• 1 [ICON_Citizen] Dân cư cho 1 Đặc Khu[NEWLINE]• 4 [ICON_Citizen] Dân cư cho 2 Đặc Khu[NEWLINE]• 7 [ICON_Citizen] Dân cư cho 3 Đặc Khu[NEWLINE]• Thêm mỗi Đặc Khu cần +3 [ICON_Citizen] Dân cư[NEWLINE]Khu thủy lợi, Vùng ngoại ô, và Trạm không gian không có yêu cầu [ICON_Citizen] Dân cư.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_3">
 			<Text>Khi một thành phố sẵn sàng xây dựng một cái gì đó, nút Chọn Sản Phẩm sẽ xuất hiện. Nếu Đặc Khu có thể xây dựng, nó sẽ xuất hiện trong Menu này. Click vào Đặc Khu để bắt đầu xây dựng, ống kinh đặc khu sẽ được mở. Ở đây, bạn sẽ có cái nhìn tổng quan về sản lượng thu được của các ô đất khác nhau xung quanh thành phố trung tâm, và có thể gợi ý cho bạn một vị trị xây dựng Đặc Khu có lợi. Ống kính cũng hiển thị cả những ô đất chưa có chủ, cũng như một số Đặc Khu có yêu cầu về vị trí xây dựng (ví dụ, Khu quân sự không thể xây gần thành phố trung tâm). Còn nữa, tất cả đặc khu phải xây trong vòng 3 ô cách thành phố trung tâm.</Text>
@@ -273,6 +273,9 @@
 			<Text>Tiền đồn kỵ binh, xuất hiện trên đất liền và gần nguồn tài nguyên ngựa, sẽ sản sinh ra các đơn vị kỵ binh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_4">
+			<Text>Tiền đồn cận chiến bao gồm các trường hợp Quân man di khác sinh ra.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_5">
 			<Text>Mỗi tiền đồn đầu tiên sẽ tạo ra một do thám, để tìm kiếm các mục tiêu. Nếu bạn bị phát hiện bởi một do thám của quân Man di, chúng sẽ nhanh chóng trở về tiền đồn và bắt đầu xây dựng các đơn vị để xâm lược hoặc khám xét. Hãy cẩn thận, bởi vì bạn sẽ là mục tiêu tiếp theo. Nếu bạn không nhanh chóng chuẩn bị, thì bạn sẽ sớm nhìn thấy một nhóm quân Man di tiến sát biên giới của mình, sẵn sàng phá hủy các công trình hoặc xâm chiếm thành phố của bạn. Đó là lý do quan trọng tại sao phải rà soát định kỳ các vùng đất xung quanh thành phố của mình, và phá hủy các tiền đồn trước khi chúng trở thành mối đe dọa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_TITLE">
@@ -303,7 +306,7 @@
 			<Text>Chiến tranh dai dẳng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Quốc gia nào liên tục có chiến tranh thì sẽ làm giảm năng suất và hạnh phú của mọi người. Chiến tranh dai dẳng sẽ phát triển cho mỗi trận chiến của bạn. Tích lũy này sẽ tồi tệ hơn khi chiến đấu trên lãnh thổ nước ngoài hoặc các đơn vị của bạn bị giết. Tồi tệ hơn là bị giết chết bởi vũ khí hạt nhân, nhưng phóng vũ khí hạt nhân mới là tồi tệ nhất. Tất cả chiến tranh dai dẳng sẽ tăng lên nếu bạn tuyên chiến mà không sử dụng Biện minh chiến tranh.</Text>
+			<Text>Quốc gia nào liên tục có chiến tranh thì sẽ làm giảm năng suất và hạnh phú của mọi người. Chiến tranh dai dẳng sẽ phát triển cho mỗi trận chiến của bạn. Tích lũy này sẽ tồi tệ hơn khi chiến đấu trên lãnh thổ nước ngoài hoặc các đơn vị của bạn bị giết. Tồi tệ hơn là bị giết chết bởi vũ khí hạt nhân, nhưng phóng vũ khí hạt nhân mới là tồi tệ nhất. Tất cả chiến tranh dai dẳng sẽ tăng lên tùy thuộc vào thời đại và nếu bạn tuyên chiến mà không sử dụng Biện minh chiến tranh.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_2">
 			<Text>Chiến tranh dai dẳng được áp dụng cho mỗi thành phố của bạn làm giảm [ICON_Amenities] Tiện nghi, giảm tăng trưởng và năng suất của thành phố. Có [ICON_Amenities] Tiện nghi thấp trong thời gian dài sẽ tạo ra quân nổi dậy trong các thành phố của bạn. Đơn vị thù địch này sẽ tấn công đơn vị của bạn và cướp các ô đất và Đặc khu.</Text>
@@ -471,13 +474,13 @@
 			<Text>Nghiên cứu Khoa học</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Science] Khoa học kiếm được được từ nhiều nguồn khác nhau, bao gồm [ICON_Citizen] Công dân, cung điện, các chính sách, tín ngưỡng tôn giáo, các tài nguyên, kỳ quan, thương mại, và tất nhiên từ các Khu Tri Thức và các kiến trúc của nó. Hãy xem qua Civilopedia để tìm hiểu kỹ hơn về [ICON_Science] Khoa học.</Text>
+			<Text>[ICON_Science] Khoa học kiếm được được từ nhiều nguồn khác nhau, bao gồm [ICON_Citizen] Công dân (0.7 mỗi [ICON_Citizen]), cung điện, các chính sách, tín ngưỡng tôn giáo, các tài nguyên, kỳ quan, thương mại, và tất nhiên từ các Khu Tri Thức và các kiến trúc của nó. Hãy xem qua Civilopedia để tìm hiểu kỹ hơn về [ICON_Science] Khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Khoảnh khắc Eureka</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Khoảnh khắc Eureka, có thể hiểu là "thúc đẩy công nghệ", cho phép đẩy nhanh và rút ngắn thời gian nghiên cứu một công nghệ. Những khoảnh khắc thúc đẩy công nghệ sẽ xảy ra một cách tự nhiên khi chơi trò chơi, và các hành động của bạn sẽ quyết định các khoảnh khắc Eureka này. Ví dụ, xây dựng thành phố bên bờ biển sẽ thúc đẩy công nghệ hàng hải hay việc xây dựng một bãi chăn thả sẽ thúc đẩy kỹ năng cưỡi ngựa. Để nắm bắt được khoảnh khắc Eureka, hãy nhìn vào cây công nghệ.</Text>
+			<Text>Khoảnh khắc Eureka, có thể hiểu là "thúc đẩy công nghệ", cho phép đẩy nhanh và rút ngắn thời gian nghiên cứu một công nghệ. Những khoảnh khắc thúc đẩy công nghệ sẽ xảy ra một cách tự nhiên khi chơi trò chơi, và các hành động của bạn sẽ quyết định các khoảnh khắc Eureka này. Ví dụ, xây dựng thành phố bên bờ biển sẽ thúc đẩy công nghệ hàng hải hay việc xây dựng một bãi chăn thả sẽ thúc đẩy kỹ năng cưỡi ngựa. Cây công nghệ liệt kê những thúc đẩy gắn liền với mỗi công nghệ, nhưng bạn có thể có được chúng từ các nguồn khác (như Vĩ Nhân, Hiệp ước nghiên cứu, hoặc đội chia sẻ nghiên cứu).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Cây công nghệ</Text>
@@ -504,7 +507,7 @@
 			<Text>Khoảnh khắc cảm hứng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Khoảnh khắc cảm hứng, có thể hiểu là "thúc đẩy hành chính", cho phép đẩy nhanh và rút ngắn thời gian nghiên cứu hành chính. Những khoảnh khắc thúc đẩy hành chính sẽ xảy ra một cách tự nhiên khi chơi trò chơi, và các hành động của bạn sẽ quyết định các khoảnh khắc này. Ví dụ, xây dựng kỳ quan sẽ thúc đẩy nghiên cứu Thơ và kịch, hay việc xây dựng một đặc khu sẽ thúc đẩy Biên chế nhà nước. Để nắm bắt được khoảnh khắc cảm hứng này, hãy nhìn vào cây hành chính.</Text>
+			<Text>Khoảnh khắc cảm hứng, có thể hiểu là "thúc đẩy hành chính", cho phép đẩy nhanh và rút ngắn thời gian nghiên cứu hành chính. Những khoảnh khắc thúc đẩy hành chính sẽ xảy ra một cách tự nhiên khi chơi trò chơi, và các hành động của bạn sẽ quyết định các khoảnh khắc này. Ví dụ, xây dựng kỳ quan sẽ thúc đẩy nghiên cứu Thơ và kịch, hay việc xây dựng một đặc khu sẽ thúc đẩy Biên chế nhà nước. Cây hành chính liệt kê các thúc đẩy với mỗi hành chính, nhưng bạn có thể có được chúng từ nhiều nguồn khác nhau (như Vĩ Nhân hoặc đội chia sẻ nghiên cứu).</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Cây hành chính</Text>
@@ -519,7 +522,7 @@
 			<Text>Dội bom văn hoá là hành động cho phép giành quyền kiểm soát các vùng lãnh thổ từ người chơi khác và thêm chúng vào đế chế của mình, ngay cả khi thuộc sở hữu của người chơi khác. Để đạt được theo cách này bạn phải mở rộng thành phố của mình thêm 3 ô. Vùng lãnh thổ này bao gồm Đặc Khu hoặc Kỳ Quan không thuộc hành động Dội Bom Văn Hóa. Các Đặc Khu hoặc Kỳ Quan chưa hoàn thành sẽ được chuyển quyền sở hữu, nhưng công trình đang xây dựng này sẽ bị phá dỡ.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
-			<Text>Để dội bom văn hoá, hãy chơi như Ba Lan và hoàn thành xây Khu Quân Sự hoặc Pháo đài trong lãnh thổ thân thiện.</Text>
+			<Text>Dội bom văn hóa thường bị giới hạn bởi những khả năng đặc biệt của các nền văn minh, như Úc hoặc Ba Lan. Tham khảo mục này để biết thêm chi tiết về cách kích hoạt Dội bom văn hóa.</Text>
 		</Row>		
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOLD_NAME">
 			<Text>Vàng và Kinh tế</Text>
@@ -600,19 +603,19 @@
 			<Text>Tông đồ có thể mua bằng [ICON_Faith] Đức Tin tại bất kỳ thành phố nào có Đền thờ và một tôn giáo đang chiếm ưu thế, và mạnh mẽ hơn nhà truyền giáo. Tông đồ có thể lựa chọn các khả năng đặc biệt khi được tạo ra giúp đơn vị này trở nên mạnh mẽ hơn, chẳng hạn như khả năng loại bỏ các tôn giáo khác ra khỏi thành phố.[NEWLINE][NEWLINE]Tông Đồ có một số khả năng đặt biệt ngoài việc truyền bá tôn giáo. Họ có thể truyền giáo, bổ sung thêm nềm tin cho tôn giáo của bạn, hoặc phát động Thẩm Tra, cung cấp chính sách bản án tôn giáo. Hơn nữa, tông đồ có thể chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
-			<Text>Thẩm giáo là một khả năng đặc biệt phải được mở khóa bằng Thẩm Tra của Tông đồ. Bạn chỉ cần áp dụng khả năng này một lần duy nhất; một khi bạn đã bắt đầu Thẩm Tra, nó sẽ không bao giờ kết thúc! Sau đó bạn có thể mua Thẩm Giáo ở các thành phố theo tôn giáo của các Tông tồ và đặt ra Thẩm Tra bằng [ICON_Faith] Đức Tin. Thẩm Giáo không giúp truyền bá tôn giáo tốt hơn, thay vì phải loại bỏ các tôn giáo khác trong một thành phố. Họ có thể tham gia chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
+			<Text>Thẩm giáo là một khả năng đặc biệt phải được mở khóa bằng Thẩm Tra của Tông đồ. Bạn chỉ cần áp dụng khả năng này một lần duy nhất; một khi bạn đã bắt đầu Thẩm Tra, nó sẽ không bao giờ kết thúc! Sau đó bạn có thể mua Thẩm Giáo ở các thành phố theo tôn giáo của các Tông tồ và đặt ra Thẩm Tra bằng [ICON_Faith] Đức Tin. Thẩm Giáo không giúp truyền bá tôn giáo tốt hơn, thay vì phải loại bỏ các tôn giáo khác trong một thành phố người dùng sở hữu. Họ có thể tham gia chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến tranh Thần học</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_1">
-			<Text>Chiến tranh thần học là cách tốt nhất để bảo vệ và chống lại các tôn giáo khác đang cố gắng lây lan trên bản đồ. Chỉ có Tông đồ và Thẩm Giáo mới có quyền bắt đầu chiến tranh thần học, và sau đó chống lại các đơn vị tôn giáo khác.</Text>
+			<Text>Chiến tranh thần học là cách tốt nhất để bảo vệ và chống lại các tôn giáo khác đang cố gắng lây lan trên bản đồ. Chỉ có Tông đồ và Thẩm Giáo mới có quyền bắt đầu chiến tranh thần học, và sau đó chống lại các đơn vị tôn giáo khác. Bạn không cần phải chiến đấu với nền văn minh khác để tham gia vào trận chiến thần học. Làm như vậy sẽ không gây ra chiến tranh, mặc dù nó có thể dẫn đến những kết quả tiêu cực từ việc giảm sút áp lực tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_2">
 			<Text>Chiến tranh thần học chiến đấu giống như đơn vị quân đội, chỉ có thể tấn công giữa các đơn vị tôn giáo. Họ sẽ gây tổn thất dựa trên sức tấn công của họ. Đơn vị tôn giáo cũng nhận được điểm thưởng cho sức tấn công từ việc thăng cấp, chính sách, từ chính quyền thần học, nếu họ ở trong hoặc kế cạnh thánh tích của mình, nếu họ đang ở trong thành phố theo tôn giáo của họ, hoặc nếu đang ở trong trung tâm tôn giáo họ sẽ nhận được những lợi thế rất lớn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_3">
-			<Text>Đơn vị tôn giáo bị thiệt hại bởi sức tấn công của hành động truyền bá ôn giáo, nghĩa là điều này làm chuyển đổi các tín đồ. Nếu sức chiến đấu của một đơn vị tôn giáo giảm về 0, đơn vị đó sẽ chết. Khi một đơn vị tôn giáo bị đánh bại, tất cả các thành phố trong phạm vi 10 ô sẽ chịu sự áp đặt tôn giáo của các đơn vị tôn giáo mới ngang bằng sức mạnh của một tông đồ và sau đó giúp gia tăng khả năng chiến thắng bằng hình thức tôn giáo. Nếu một đơn vị tôn giáo bị giết bởi một đơn vị quân sự, sau đó áp đặt tôn giáo của họ điều này cũng tương tự như trong chiến đấu tôn giáo.</Text>
+			<Text>Đơn vị tôn giáo bị thiệt hại bởi sức tấn công của hành động truyền bá ôn giáo, nghĩa là điều này làm chuyển đổi các tín đồ. Nếu sức chiến đấu của một đơn vị tôn giáo giảm về 0, đơn vị đó sẽ chết. Khi một đơn vị tôn giáo bị đánh bại, tất cả các thành phố trong phạm vi 10 ô sẽ chịu sự áp đặt tôn giáo của các đơn vị tôn giáo mới ngang bằng sức mạnh của một tông đồ và sau đó giúp gia tăng khả năng chiến thắng bằng hình thức tôn giáo. Nếu một đơn vị tôn giáo bị giết bởi một đơn vị quân sự, sau đó áp đặt tôn giáo của họ điều này cũng tương tự như trong chiến đấu tôn giáo các thành phố trong vòng 6 ô, và giảm áp lực tôn giáo đi một nửa.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_4">
 			<Text>Đơn vị tôn giáo có thể chữa lành bất cứ thiệt hại nào bằng cách đứng gần hoặc ở trong một thánh địa của chính Tôn Giáo đấy.</Text>
@@ -753,7 +756,7 @@
 			<Text>Điệp viên và Gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Bắt đầu vào thời kỳ Công nghiệp, Gián điệp sẽ xuất hiện. Bạn có thể mua Gián điệp sau khi nghiên cứu thành công các mục hành chính và công nghệ nhất định, và đơn vị này có thể được mua ở bất kỳ thành phố nào. Gián điệp bắt đầu ở cấp độ Tuyển dụng, và sẽ đạt được những cấp tiếp theo từ những hoạt động phá hoại thành công, hoặc bắt giữ một đơn vị gián điệp. Sau khi đạt được cấp độ 2, các Gián điệp sẽ đạt được thêm các kỹ năng.</Text>
+			<Text>Bắt đầu vào thời kỳ Công nghiệp, Gián điệp sẽ xuất hiện. Bạn có thể mua Gián điệp sau khi nghiên cứu thành công các mục hành chính và công nghệ nhất định. Đơn vị này có thể được mua ở bất kỳ thành phố nào, nhưng chúng không thể mua bằng [ICON_Gold] Vàng hoặc [ICON_Faith] Đức tin. Gián điệp bắt đầu ở cấp độ Tuyển dụng, và sẽ đạt được những cấp tiếp theo từ những hoạt động phá hoại thành công, hoặc bắt giữ một đơn vị gián điệp. Sau khi đạt được cấp độ 2, các Gián điệp sẽ đạt được thêm các kỹ năng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Gián điệp không di chuyển giống như các đơn vị khác. Họ nhảy từ thành phố này đến thành phố khác bằng đường trên không, đường thủy, đường bộ hoặc đi bộ, mỗi kiểu mất một lượng thời gian riêng. Một khi được thiết lập tại một thành phố, gián điệp có thể được gửi đến một đặc khu cụ thể và bắt đầu nhiệm vụ. Các nhiệm vụ bao gồm đánh cắp các thành tựu công nghệ, tạo ra các đơn vị nổi dậy, hoặc đơn giản là tăng khả năng ngoại giao. Từng nhiệm vụ mất một khoảng thời gian nhất định, và sẽ có kết quả khác nhau. Gián điệp của bạn có thể bị giết hoặc bị bắt giữ, hoặc anh ta thất bại trong nhiệm vụ nhưng hoàn toàn không bị phát hiện, có thể không bị phát hiện cũng đã là thành công trong nhiệm vụ.</Text>
@@ -807,7 +810,7 @@
 			<Text>Các điểm thưởng kiếm được từ thành phố-tự trị phụ thuộc vào có bao nhiêu [ICON_Envoy] Phái đoàn bạn đã gửi đến thành phố-tự trị. [ICON_Envoy] Phái đoàn kiếm được qua thời gian thông qua điểm ảnh hưởng (đến từ Chính Phủ và Chính Sách), hoặc hoàn tất nghiên cứu hành chính. Một khi đã kiếm được, bạn sẽ nhận được lời nhắc nhở chọn thành phố-tự trị để gửi họ đi. Nếu bạn có nhiều [ICON_Envoy] Phái đoàn, bạn có thể phân chia họ đến các thành phố-tự trị theo ý bạn muốn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Tuyên bố chiến tranh với thành phố-tự trị sẽ loại bỏ tất cả [ICON_Envoy] Phái đoàn bạn đã gửi đến. Nếu không có, [ICON_Envoy] Phái đoàn sẽ lưu lại vĩnh viễn trong thành phố-tự trị. [ICON_Envoy] Phái đoàn ở thành phố-tự trị được nhìn thấy cho mọi người chơi, và việc gửi phái đoàn có thể gây hậu quả ngoại giao. Các điểm thưởng kiếm dựa trên có bao nhiêu [ICON_Envoy] Phái đoàn được gửi đi, bất kể người chơi khác đã gửi [ICON_Envoy] Phái đoàn. Tất cả thành phố-tự trị thuộc cùng một loại sẽ chia sẻ bằng nhau điểm thưởng này. Hãy tích lũy điểm thưởng, và gửi nhiều và thật nhiều các [ICON_Envoy] Phái đoàn đến thành phố- tự trị, các đểm thưởng này sẽ cộng dồn với nhau.</Text>
+			<Text>Tuyên bố chiến tranh với thành phố-tự trị sẽ loại bỏ tất cả [ICON_Envoy] Phái đoàn bạn đã gửi đến. Nếu không có, [ICON_Envoy] Phái đoàn sẽ lưu lại vĩnh viễn trong thành phố-tự trị. [ICON_Envoy] Phái đoàn ở thành phố-tự trị được nhìn thấy cho mọi người chơi, và việc gửi phái đoàn có thể gây hậu quả ngoại giao. Các điểm thưởng kiếm dựa trên có bao nhiêu [ICON_Envoy] Phái đoàn được gửi đi, bất kể người chơi khác đã gửi [ICON_Envoy] Phái đoàn. Tất cả thành phố-tự trị thuộc cùng một loại sẽ chia sẻ bằng nhau điểm thưởng này. Hãy tích lũy điểm thưởng, và gửi nhiều và thật nhiều các [ICON_Envoy] Phái đoàn đến thành phố- tự trị, các đểm thưởng này sẽ cộng dồn với nhau. Mỗi [ICON_Envoy] Phái đoàn đặt trong một thành phố tự trị mở rộng biên giới của mình bằng 1 ô.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_TITLE">
 			<Text>Bá chủ</Text>
@@ -843,7 +846,7 @@
 			<Text>Tăng Tuyến đường thương mại</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Một người chơi chỉ có thể duy trì một số lượng [ICON_TradeRoute] Tuyến đường thương mại hạn chế. Số lượng này chủ yếu được xác định bởi Khu thương mại và Khu cảng biển mà người chơi có, tất nhiên cũng có thể tăng bởi các yếu tố khác.</Text>
+			<Text>Một người chơi chỉ có thể duy trì một số lượng [ICON_TradeRoute] Tuyến đường thương mại hạn chế. Số lượng này chủ yếu được xác định bởi Khu thương mại và Khu cảng biển mà người chơi có, tất nhiên cũng có thể tăng bởi các yếu tố khác. Lưu ý rằng [ICON_TradeRoute] Tuyến đường thương mại từ Khu thương mại hoặc Cảng biển không nằm trong cùng một thành phố - lợi ích chỉ áp dụng với tuyến đường đầu tiên mà bạn xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Phạm vị tuyến đường thương mại</Text>
@@ -963,7 +966,7 @@
 			<Text>Sử dụng Vĩ Nhân</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Mỗi cá thể Vĩ nhân có một hiệu ứng khác nhau, truyền cảm hứng từ lịch sử của họ. Hầu hết các hiệu ứng liên kết mạnh mẽ đến một thời kỳ cụ thể trong quá trình chơi, và không còn tối ưu khi vượt qua thời kỳ đó. Có hai loại hiệu ứng, hiệu ứng "khai sinh" và hiệu ứng "hành động".</Text>
+			<Text>Mỗi cá thể Vĩ nhân có một hiệu ứng khác nhau, truyền cảm hứng từ lịch sử của họ. Hầu hết các hiệu ứng liên kết mạnh mẽ đến một thời kỳ cụ thể trong quá trình chơi, và không còn tối ưu khi vượt qua thời kỳ đó. Có hai loại hiệu ứng, hiệu ứng bị động và hiệu ứng "hành động".</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
 			<Text>Một hiệu ứng nội tại sẽ xảy ra ngay khi một [ICON_GreatPerson] Vĩ nhân được chiêu mộ trên bản đồ. Những hiệu ứng này hầu hết đi kèm với Đại Tướng Quân và Đại Đô Đốc.</Text>
@@ -1059,7 +1062,7 @@
 			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Có 5 loại Thành tựu vĩ đại. [ICON_GreatWork_Writing] Viết lách, [ICON_GreatWork_Landscape] Mỹ thuật, và [ICON_GreatWork_Music] Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật, từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích, được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học, hoặc có được thông qua Làng thổ dân hoặc thành phố tự trị Kandy. Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
+			<Text>Có 5 loại Thành tựu vĩ đại. [ICON_GreatWork_Writing] Viết lách, [ICON_GreatWork_Landscape] Mỹ thuật, và [ICON_GreatWork_Music] Âm nhạc được tạo ra thông qua các [ICON_GreatPerson] Vĩ nhân, Các [ICON_GreatWork_Artifact] Cổ vật, từ thời Cổ đại được thu thập bởi các nhà Khảo cổ học, và các [ICON_GreatWork_Relic] Di tích, được tạo bởi các Tông đồ có kỹ năng Tử Vì Đạo khi họ chết trong cuộc chiến Thần học. (Di tích có thể lấy được từ nhiều nguồn khác nhau như làng thổ dân, thành phố tự trị Kandy, hoặc Jeanne D'Arc khi về hưu.) Khi đạt được một thành tựu vĩ đại, thì nó có thể được lưu trữ trong các công trình tương đương hoặc Kỳ quan.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
 			<Text>Khu nghỉ dưỡng ven biển</Text>
@@ -1084,6 +1087,13 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
 			<Text>Năng suất [ICON_Tourism] du lịch của một Công viên quốc gia bằng tổng sức hấp dẫn của tất cả các ô trong công công viên. Ngoài ra, thành phố sở hữu công viện nhận 2 [ICON_Amenities] Tiện nghi, và 4 thành phố gần nhất trong nền văn minh của bạn nhận 1 [ICON_Amenities] Tiện nghi.</Text>
+		</Row>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_5_CHAPTER_CONTENT_TITLE">
+			<Text>Chủ đề</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Một cố kiến trúc (như Bảo tàng nghệ thuật hoặc Bảo tàng khảo cổ) cho phép trưng bày Thành Tựu Vĩ Đại theo chủ đề để tăng đáng kể [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch. Để nhận thưởng chủ đề, trưng bày các [ICON_GreatWork_Landscape] Nghệ thuật cùng loại của nhiều nghệ sĩ khác nhau hoặc [ICON_GreatWork_Artifact] Cổ vật cùng thời đại từ nhiều nền văn minh khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME">
 			<Text>Chiến Thắng và Thất Bại</Text>

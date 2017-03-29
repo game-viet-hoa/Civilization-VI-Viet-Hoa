@@ -352,5 +352,12 @@
 		<Row Tag="LOC_DIPLO_MODIFIER_ALLIANCE_BROKEN">
 			<Text>Chúng ta đã phá vỡ liên minh giữa nhau</Text>
 		</Row>
+		<!-- Non-leader specific versions of modifiers (to use in scenarios, etc.) -->
+		<Row Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Họ ghét các cuộc tấn công vào các nền văn minh trên lục địa của họ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Họ thích nền văn minh hòa bình trên lục địa của họ</Text>
+		</Row>
 	</BaseGameText>
 </GameData>

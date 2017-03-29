@@ -817,6 +817,9 @@
 		<Row Tag="LOC_MAP_PIN_SEND_TO_CHAT_TT">
 			<Text>Thêm gim bản đồ này tới Chat.</Text>
 		</Row>
+		<Row Tag="LOC_MAP_PIN_SEND_TO_CHAT_NOT_VISIBLE_TT">
+			<Text>Gim bản đồ không hiển thị trong mục tiêu trò chuyện hiện tại.</Text>
+		</Row>
 		<!-- ==================== Plot Info ==================== -->
 		<Row Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
 			<Text>Cần thêm {1_num} [ICON_Gold] để mua ô đất này.</Text>
@@ -1918,6 +1921,9 @@
 		<Row Tag="LOC_TECH_BOOST_TEAMMATE">
 			<Text>Đồng đội của bạn đã hoàn thành nghiên cứu một công nghệ mới. Các nhà khoa học của họ đang nóng lòng muốn chia sẽ những phát kiến của họ.</Text>
 		</Row>
+		<Row Tag="LOC_TECH_BOOST_CAPTURED_CITY">
+			<Text>Bạn có được hiểu biết về khoa học mới từ thành phố đã chiếm đóng này.</Text>
+		</Row>
 		<Row Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>Nghiên cứu {1_techString} vừa hoàn tất!</Text>
 		</Row>
@@ -1932,7 +1938,10 @@
 			<Text>Trong khi thám hiểm thế giới, ngài đã phát hiện ra Hành Chính chưa biết đến từ những người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_TEAMMATE">
-			<Text>Đồng đội của bạn đã hoàn thành một hành chính mới. Chuyên môn của họ sẽ thúc đẩy tiến độ của chúng ta.</Text>
+			<Text>Đồng đội của chúng ta đã hoàn thành một hành chính mới. Chuyên môn của họ sẽ thúc đẩy tiến độ của chúng ta.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOST_CAPTURED_CITY">
+			<Text>Bạn đã tiếp xúc với những ý tưởng văn hóa mới của các công dân trong thành phố chiếm đóng này.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
 			<Text>Vĩ Nhân đã mở khóa một Hành Chính.</Text>
@@ -2167,6 +2176,9 @@
 		</Row>
 		<Row Tag="LOC_GOVT_CHOOSE_POLICIES">
 			<Text>Thay đổi chính sách</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_GOVERNMENT_UNLOCKED">
+			<Text>Chính phủ đã khóa</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_COMPLETED_THIS_TURN">
 			<Text>{1_Civic} mở khóa lượt này!</Text>
@@ -3017,7 +3029,10 @@
 		<Row Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
 			<Text>Làm lỗi thời:</Text>
 		</Row>
-		<Row Tag="LOC_TOOLTIP_LAKE">
+		<Row Tag="LOC_TOOLTIP_COAST">
+			<Text>Bờ biển</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_RIVER">
 			<Text>Hồ</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_RIVER">
@@ -3392,7 +3407,7 @@
 			<Text>Thành Phố Thánh: {1_HolyCity}</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_HOLY_CITY_NONE">
-			<Text>Thành Phố Thánh: Đã chinh phục, người sáng lập đã bị loại bỏ.</Text>
+			<Text>Thành Phố Thánh: Đã chinh phục</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_CITY_NAME">
 			<Text>{1_CityName} ({2_OwnerName})</Text>
@@ -3872,6 +3887,9 @@
 		</Row>
 		<Row Tag="LOC_WORLD_RANKINGS_REQUIREMENTS_LABEL">
 			<Text>Yêu cầu</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_VICTORY_DISABLED">
+			<Text>Chưa hoàn thành chiến thắng</Text>
 		</Row>
 		<!-- ==================== Scoring Categories ==================== -->
 		<Row Tag="LOC_CATEGORY_CIVICS_NAME">
@@ -5383,6 +5401,7 @@
 		<Row Tag="LOC_DEMO_DIALOG_EXIT_TT">
 			<Text>Main Menu</Text>
 		</Row>
+		<!-- Turn Remaining UI text -->
 		<Row Tag="LOC_TURN_REMAINING">
 			<Text>Lượt còn lại</Text>
 		</Row>
@@ -5401,6 +5420,7 @@
 		<Row Tag="LOC_TURN_VAL_OF_VAL2">
 			<Text>Lượt {1_Turns} trong {2_MaxTurns}</Text>
 		</Row>
+		<!-- Team Related text -->
 		<Row Tag="LOC_TEAM_RELIGION_VICTORY_COUNTER">
 			<Text>{1_Civs}/{2_TotalCivs} Nền văn minh đã chuyển sang Tôn giáo của đội</Text>
 		</Row>
@@ -5422,6 +5442,18 @@
 		<Row Tag="LOC_TEAM_LIST_HEADING">
 			<Text>Các Đội và Nền Văn Minh</Text>
 		</Row>
-			
+		<!-- World Builder -->
+		<Row Tag="LOC_WORLDBUILDER_SELECT_TOOL">
+			<Text>Chọn ô</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACE_TOOL">
+			<Text>Vị trí ô</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TEXT_STRING">
+			<Text>Chuỗi chữ</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TEXT_TAG">
+			<Text>Thẻ Tag</Text>
+		</Row>
 	</BaseGameText>
 </GameData>

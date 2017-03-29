@@ -655,16 +655,16 @@
 			<Text>Vùng ven biển</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_RELIGION_DESCRIPTION">
-			<Text>Có thể kiếm được Đức Tin trong phần chơi kịch bản này, chủ yếu bằng việc cướp bóc Thánh Địa, Alcázars, Tu Viện, và các Vườn ươm. Mỗi lần kiếm được Đức Tin thành phố của bạn sẽ chịu nhiều áp lực khi áp dụng đạo Công giáo.</Text>
+			<Text>Có thể kiếm được [ICON_Faith] Đức Tin trong phần chơi kịch bản này, chủ yếu bằng việc cướp bóc Thánh Địa, Alcázars, Tu Viện, và các Vườn ươm. Mỗi lần kiếm được [ICON_Faith] Đức Tin thành phố của bạn sẽ chịu nhiều áp lực khi áp dụng đạo Công giáo.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1">
-			<Text>Các thành phố không thể bị san bằng. Các Thương Gia và Đô Đốc không thể di chuyển giữa các thành phố. Điểm Chiến Thắng VP kiếm được như sau:[NEWLINE][ICON_Bullet]Đế Chế: {1_CityVP} VP cho mỗi thành phố. {2_PopVP} VP cho mỗi dân số.[NEWLINE][ICON_Bullet]Vĩ Nhân: {3_GPVP} VP cho mỗi Vĩ Nhân có được.[NEWLINE][ICON_Bullet]Thương Mại: {4_TradeVP} VP cho mỗi tuyến đường thương mại tạo ra.[NEWLINE][ICON_Bullet]Cướp Bóc: {5_PillageVP} VP cho mỗi ô bị cướp.</Text>
+			<Text>Các thành phố không thể bị san bằng. Các Thương Gia và Đô Đốc không thể di chuyển giữa các thành phố. Điểm Chiến Thắng VP kiếm được như sau:[NEWLINE][ICON_Bullet]Đế Chế: {1_CityVP} VP cho mỗi thành phố. {2_PopVP} VP cho mỗi dân số.[NEWLINE][ICON_Bullet]Vĩ Nhân: {3_GPVP} VP cho mỗi [ICON_GreatPerson] Vĩ Nhân có được.[NEWLINE][ICON_Bullet]Thương Mại: {4_TradeVP} VP cho mỗi [ICON_TradeRoute] tuyến đường thương mại tạo ra.[NEWLINE][ICON_Bullet]Cướp Bóc: {5_PillageVP} VP cho mỗi ô bị cướp.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
-			<Text>[NEWLINE][ICON_Bullet]Vùng ven biển: {1_VinlandA} VP nếu lần đầu đưa Đại Đô Đốc tiến sát Vùng ven biển, {2_VinlandB} cho lần hai, {3_VinlandC} cho lần ba, {4_VinlandD} lần sau nữa.</Text>
+			<Text>[NEWLINE][ICON_Bullet]Vùng ven biển: {1_VinlandA} VP nếu lần đầu đưa [ICON_GreatAdmiral] Đại Đô Đốc tiến sát Vùng ven biển, {2_VinlandB} cho lần hai, {3_VinlandC} cho lần ba, {4_VinlandD} lần sau nữa.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
-			<Text>[NEWLINE][ICON_Bullet]Tôn Giáo: {1_PillageEarly} VP cho mỗi đức tin kiếm được khi cướp bóc một vùng khi đức tin ở các thành phố có cùng tôn giáo của bạn ít hơn một nửa. {2_PopLate} VP cho mỗi tín đồ thêm vào khi đức tin ở các thành phố có cùng tôn giáo của bạn có một nửa hoặc cao hơn.[NEWLINE][ICON_Bullet]Thưởng thêm: lượt cuối cùng {3_GoldEnd} VP cho mỗi {4_GoldPer} Vàng trong kho tàng của người Viking và {5_FaithEnd} VP cho mỗi {6_FaithPer} Đức tin mà người Viking hiện đang sở hữu.</Text>
+			<Text>[NEWLINE][ICON_Bullet]Tôn Giáo: {1_PillageEarly} VP cho mỗi [ICON_Faith] đức tin kiếm được khi cướp bóc một vùng khi đức tin ở các thành phố có cùng tôn giáo của bạn ít hơn một nửa. {2_PopLate} VP cho mỗi tín đồ thêm vào khi đức tin ở các thành phố có cùng tôn giáo của bạn có một nửa hoặc cao hơn.[NEWLINE][ICON_Bullet]Thưởng thêm: lượt cuối cùng {3_GoldEnd} VP cho mỗi {4_GoldPer} Vàng trong kho tàng của người Viking và {5_FaithEnd} VP cho mỗi {6_FaithPer} [ICON_Faith] Đức tin mà người Viking hiện đang sở hữu.</Text>
 		</Row>
 		<!--Features-->
 		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME">

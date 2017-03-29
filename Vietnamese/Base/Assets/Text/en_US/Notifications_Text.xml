@@ -433,6 +433,12 @@
 		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
 			<Text>{1_playerName} đã bị kick khỏi game.</Text>
 		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
+			<Text>{1_playerName} đang tải Mod</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
+			<Text>{1_playerName} đang tải Mod yêu cầu để chơi ván game này. ({2 : number}/{3 : number})</Text>
+		</Row>
 		<Row Tag="LOC_NOTIFCATION_HOST_MIGRATION">
 			<Text>Chuyển chủ phòng</Text>
 		</Row>
@@ -612,7 +618,7 @@
 			<Text>Thủ Đô Đã Bị Chiếm</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
-			<Text>Thủ Đô của {1_CivName} đã bị chiếm bởi {2_CivName}!</Text>
+			<Text>[ICON_Capital] Thủ Đô của {1_CivName} đã bị chiếm bởi {2_CivName}!</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
 			<Text>Thủ Đô Đã Được Đòi Lại</Text>

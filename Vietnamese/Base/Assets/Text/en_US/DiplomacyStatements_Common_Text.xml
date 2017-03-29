@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLO_PERSON_CLEO">
@@ -104,17 +103,21 @@
 		<Row Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
 			<Text>Không có sẵn item để thỏa thuận.</Text>
 		</Row>
-    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
-      <Text>Hứa không gián điệp</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
-      <Text>Hứa dân di cư không gần các thành phố của ta</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
-      <Text>Hứa không cải giáo tôn giáo thành phố của ta</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
-      <Text>Hứa không đào cổ vật</Text>
-    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Hứa không gián điệp</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Hứa dân di cư không gần các thành phố của ta</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Hứa không cải giáo tôn giáo thành phố của ta</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Hứa không đào cổ vật</Text>
+		</Row>
+		<!-- Action Failure Reasons -->
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>Không thể tuyên chiến: một số thành viên trong đội của bạn là bạn hoặc đồng mình của một thành viên trong đội này.</Text>
+		</Row>
 	</BaseGameText>
 </GameData>

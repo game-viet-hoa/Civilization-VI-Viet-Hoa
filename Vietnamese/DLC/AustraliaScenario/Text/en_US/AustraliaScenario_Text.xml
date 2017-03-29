@@ -114,7 +114,10 @@
 		<Row Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION">
 			<Text>Cho phép xây Công Viên Quốc Gia. Cho phép các đơn vị trồng Rừng cải tạo. Rừng già trong lãnh thổ không bị chặt bỏ sẽ +1 Sức Hấp Dẫn.</Text>
 		</Row>
-		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_DESCRIPTION">
+		<Row Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_DESCRIPTION">
+			<Text>Phần thưởng cho việc hoàn thành dự án AIF tăng từ +10 lên +20 [ICON_Gold] Vàng mỗi lượt.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
 			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
@@ -351,7 +354,7 @@
 			<Text>Tìm ra 3 [ICON_RESOURCE_SHEEP] Cừu.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY">
-			<Text>Tăng số dân cư nền văn minh của bạn tối thiểu là 12.</Text>
+			<Text>Tăng số [ICON_Citizen] dân cư nền văn minh của bạn tối thiểu là 12.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES">
 			<Text>Xây 3 Bãi Chăn.</Text>
@@ -360,7 +363,7 @@
 			<Text>Có 30 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION">
-			<Text>Tăng số dân cư một thành phố lên 10.</Text>
+			<Text>Tăng số [ICON_Citizen] dân cư một thành phố lên 10.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION">
 			<Text>Tìm thấy kỳ quan thiên nhiên.</Text>
@@ -415,7 +418,7 @@
 		</Row>
 		<!-- Tech Boosts-->
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION">
-			<Text>Tăng tưởng một thành phố lên 6 Dân số.</Text>
+			<Text>Tăng tưởng một thành phố lên 6 [ICON_Citizen] Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
 			<Text>Bảo dưỡng 2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
@@ -482,7 +485,7 @@
 		</Row>
 		<!-- Projects-->
 		<Row Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION">
-			<Text>Quân Hoàng Gia Úc (AIF) là dự án tuyển mộ binh lính cho công tác triển khai ở nước ngoài trong Thế Chiến. Hoàn thành trong một thành phố sẽ mang lại sự thúc đẩy mạnh mẽ [ICON_Gold] Vàng mỗi [ICON_Turn] Lượt.</Text>
+			<Text>Quân Hoàng Gia Úc (AIF) là dự án tuyển mộ binh lính cho công tác triển khai ở nước ngoài trong Thế Chiến. Hoàn thành trong một thành phố sẽ được +10 [ICON_Gold] Vàng mỗi [ICON_Turn] Lượt.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_AIF_SCENARIO_NAME">
 			<Text>Đào tạo AIF</Text>
