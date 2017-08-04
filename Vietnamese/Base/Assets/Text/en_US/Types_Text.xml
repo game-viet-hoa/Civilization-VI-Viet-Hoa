@@ -18,9 +18,12 @@
 		<Row Tag="LOC_DISTRICT_NAME">
 			<Text>Đặc Khu</Text>
 		</Row>
-    <Row Tag="LOC_DISTRICT_NAME_REPLACES">
-      <Text>Đặc Khu (thay thế {1_DistrictName})</Text>
-    </Row>
+		<Row Tag="LOC_DISTRICT_NAME_REPLACES">
+			<Text>Đặc Khu (thay thế {1_DistrictName})</Text>
+		</Row>
+		<Row Tag="LOC_ENVOY_NAME">
+			<Text>Phái đoàn</Text>
+		</Row>
 		<Row Tag="LOC_ERA_NAME">
 			<Text>Thời đại</Text>
 		</Row>
@@ -41,6 +44,9 @@
 		</Row>
 		<Row Tag="LOC_ROUTE_NAME">
 			<Text>Tuyến đường</Text>
+		</Row>
+		<Row Tag="LOC_SPY_NAME">
+			<Text>Gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_TECHNOLOGY_NAME">
 			<Text>Công nghệ</Text>

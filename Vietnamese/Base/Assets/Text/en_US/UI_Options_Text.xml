@@ -471,6 +471,9 @@
 		<Row Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
 			<Text>Tự dộng chuyển đơn vị:</Text>
 		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
+			<Text>Kích thước Minimap:</Text>
+		</Row>
 		<Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
 			<Text>Trì hoãn chú thích:</Text>
 		</Row>
@@ -668,7 +671,9 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
 			<Text>Bật tắt biểu tượng tài nguyên</Text>
 		</Row>
-		
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW">
+			<Text>Bật tắt tầm nhìn chiến thuật</Text>
+		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
 			<Text>Ends the player's turn if possible.</Text>
 		</Row>
@@ -715,7 +720,9 @@
 		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
 			<Text>Toggles the visibility of the resource icons.</Text>
 		</Row>
-		
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
+			<Text>Toggles the game between standard and strategic (2D) views.</Text>
+		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
 			<Text>Hành động Online:</Text>
 		</Row>

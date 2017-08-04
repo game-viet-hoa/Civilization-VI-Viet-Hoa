@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- OVERRIDES-->
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_11"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_12"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_13"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_14"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_15"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_11"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_12"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_13"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_14"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_11"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_12"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_13"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_14"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_11"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_12"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_13"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_14"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_15"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_16"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_11"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_12"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_13"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_14"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_11"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_12"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_13"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_14"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_15"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_16"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_17"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_18"/>
+		<Delete Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_19"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_TITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_SUBTITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_QUOTE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_10"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_CAPSULE_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_DETAILED_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_TITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_SUBTITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_QUOTE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_9"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_CAPSULE_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_DETAILED_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_TITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_SUBTITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_QUOTE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_CAPSULE_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_DETAILED_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_TITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_SUBTITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_QUOTE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_CAPSULE_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_DETAILED_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_TITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_SUBTITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_QUOTE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_CAPSULE_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_DETAILED_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_TITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_SUBTITLE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_QUOTE"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_2"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_3"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_4"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_5"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_6"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_7"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_8"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_CAPSULE_BODY"/>
+		<Delete Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_DETAILED_BODY"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- Civs-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Hyksos arrived in the Nile region from lands to the east. Theories suggest they either migrated without resistance into a politically fragmented Egypt or arrived to conquer a land plagued with … well, a series of plagues.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_2">
+			<Text>We know that the existing Egyptian dynasties collapsed in 1650 BCE. In the ensuing power vacuum, the Hyksos established the Fifteenth Dynasty. Though they would retain their hold on the region for another century, native Egyptians eventually pushed them out and removed all traces of their rule. All recorded accounts subsequently portrayed them as interlopers in Egyptian lands.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Assyrian and Egyptian interests often clashed, particularly over control of Canaan. To the Assyrians, the Egyptians were foreign meddlers who sought to interfere in their territories. The Egyptians saw the Assyrians as a compact but deadly kingdom with imperial aspirations. Both were right.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Over the centuries, the two regional powers engaged in proxy conflicts, diplomatic chicanery, and a substantial amount of khopesh-rattling, but it was not until 671 BCE that everything came to a head. Egypt, then ruled by the Nubian Kingdom of Kush, was in turn conquered by the Assyrian king Esarhaddon. Egypt would remain Assyria’s vassal for the next 50 years.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_1">
+			<Text>When Cyrus the Great's son Cambyses II attempted to bind Persia and Egypt's futures through marriage in 526 BCE, Pharaoh Amasis sent the surviving daughter of a family he had ordered killed, claiming she was of his own blood. The false daughter immediately explained the pharaoh's ruse to the Persian king, because getting someone on board with a ridiculous plan is nearly impossible when you have killed their entire family. Cambyses promptly invaded and conquered Egypt.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Egypt remained under Achaemenid control for over a century. The death of Darius II in 404 BCE led to Egypt's revolt, at which point Persia spent decades struggling to regain control over their lost satrapy. Egypt kept the Achaemenids at bay until 343 BCE, when Artaxerxes III arrived with 350,000 seasoned troops and promptly drove the last truly Egyptian dynasty from the country. The Persians would hold onto a relatively stable Egypt for a decade--until the arrival of Alexander the Great.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_1">
+			<Text>To the delight of Persian-occupied Egyptians, Alexander the Great invaded Egypt in 332 BCE and claimed it for Macedon. Any lingering resentment was mollified when the oracle at Memphis named him the living son of the god Amun. He left a conquering hero of Macedon's new satrap, with Egypt's riches backing his further conquests to the east. After his death in 322 BCE, Alexander's trusted general Ptolemy took charge of Egyptian affairs. A succession crisis in Alexander's disintegrating empire saw Egypt as a particularly large and self-sustaining fragment--now ruled by the man declaring himself King Ptolemy I Soter.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_2">
+			<Text>Ptolemaic Egypt lasted for three centuries, though its decline began much earlier. Increasingly weak rulers led to short-sighted decisions. The once mighty fusion of Macedon's best and Egypt's millennia-long pharaonic line found itself reduced to a protectorate of the upstart Roman Republic, charged with feeding its many legions. However, the true end of Ptolemaic Egypt died with Cleopatra in 30 BCE.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_1">
+			<Text>The newly ascendant Roman Republic had an appetite for conquest. This required a reliable source of food, both for its legions on the march and the many who lived within its lands. When Egypt--the breadbasket of the Mediterranean--faced a particularly difficult loss at the hands of Macedon and the Seleucid Empire, Rome took the opportunity to declare an alliance. As the years passed and Egypt continued to falter, Rome made itself ever more necessary until a vastly weakened Egypt found its own affairs were the concern of Roman puppetmasters.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_2">
+			<Text>What turned Rome to invade its own protectorate is detailed in the story of Cleopatra, but doing so effectively ended three millennia of dynastic Egyptian rule. Swiftly elevated to the status of a Roman province, Egypt fed Rome until its eventual dissolution.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Egypt saw enough conflict with Libyan tribes to build coastal forts by the 13th Century BCE. Stretching far west of the Nile Delta, the forts could delay any Libyan attack from the west and alert the capital of an invasion. So went the theory. The forts certainly weren't effective in 1208 BCE when the Libu tribe led Libyan troops to attack the Nile Delta itself, along with the aid of the mysterious Sea People. It didn't matter that Egypt swiftly repelled the invasion. A direct incursion into the heart of Egypt was a powerful lesson to the surviving Libyans.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_2">
+			<Text>After decades of simmering conflict between Libya and Egypt, the Libyan Berber tribe known as the Meshwesh took this lesson to heart. They assembled their allies, which once more included the Sea People, and invaded in 1181 BCE. Egypt held off the armies and lined the shores of the Nile with archers to pelt Sea People invaders. A 1175 BCE invasion led solely by the Meshwesh brought them to utter defeat, internment, and subsequent incorporation into Egypt.</Text>
+		</Row>
+		<!-- City States -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ASHMUNEIN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Once part of Egypt's Old Kingdom, the city of Ashmunein now sits astride the border of Upper and Lower Egypt."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BAHARIYA_CHAPTER_HISTORY_PARA_1">
+			<Text>"West of the Nile delta is the oasis of Bahariya. With access, we could trade with the Libyan tribes."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BYBLOS_CHAPTER_HISTORY_PARA_1">
+			<Text>"The city of cedar has existed longer than the Nile had people. Only the best goods flow through it."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DAKHLA_CHAPTER_HISTORY_PARA_1">
+			<Text>"The oasis of Dakhla lies deep in the Western Desert. It is a vital stop for traders who venture far from the Nile's embrace."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IHNASIYA_CHAPTER_HISTORY_PARA_1">
+			<Text>"Ihnasiya, the House of the Royal Child, has been the putative capital of Lower Egypt since the collapse of the Old Kingdom."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IREM_CHAPTER_HISTORY_PARA_1">
+			<Text>"Perched on the Nile beyond the Sixth Cataract, the remote Irem is known for its trade in ivory."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KHARGA_CHAPTER_HISTORY_PARA_1">
+			<Text>"Much gold flows through Kharga. This vital oasis lies northwest of the First Cataract."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NEKHEN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Pharaoh Khasekhemwy improved Nekhen when it was part of Egypt's Old Kingdom. Its painted tombs are an inspiring sight."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ON_CHAPTER_HISTORY_PARA_1">
+			<Text>"The pyramids of Egypt's Old Kingdom cast their shadow on the city of On, near where the Nile ends and its delta begins."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PUNT_CHAPTER_HISTORY_PARA_1">
+			<Text>"Spices from the east pass through the city of Punt. A source of trade on the Red Sea is a valuable partner to have."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHARUHEN_CHAPTER_HISTORY_PARA_1">
+			<Text>"You wish to trade with Palestine? Sharuhen controls the route like lions at an oasis. Best to deal with them when they're sated."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SERABIT_EL_KHADIM_CHAPTER_HISTORY_PARA_1">
+			<Text>"The mining town of Serabit el-Khadim is graced with wealth pulled from the earth. Their allies benefit from the excess."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THINIS_CHAPTER_HISTORY_PARA_1">
+			<Text>"The oldest pharaonic dynasties claimed Thinis as the capital of Egypt. It remains a gateway to vital oases in the Western Desert."</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_1">
+			<Text>Cambyses II was the son of Cyrus the Great. He conquered Egypt at the battle of Pelusium in 525 BCE but was less successful when he tried to push his campaign up the Nile into Nubia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_1">
+			<Text>Asurbanipal inherited the Assyrian Empire in 668 BCE, a time when Nubia ruled Egypt. In a series of campaigns his armies pushed the Nubians out of Egypt allowing him to plunder the riches of Thebes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Alexander the Great conquered Egypt in 332 BCE, liberating it from Persian rule and founding Alexandria as the capital of Ptolemaic Egypt.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Osorkon's thirty-five year reign in Egypt started in 922 BCE, making him one of the greatest Libyans who ruled Egypt as part of the 22nd Dynasty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_1">
+			<Text>The king Sakir-Har was mentioned as one of the first three rulers of 15th Dynasty Egypt, a time of Hyksos domination.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Octavian, soon to be known as the mighty Augustus Caesar, defeated the forces of Mark Antony and Cleopatra at the Battle of Actium in 31 BCE. Soon thereafter he landed forces at Alexandria and made Egypt the newest Roman province.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIGH_PRIESTESS_CHAPTER_HISTORY_PARA_1">
+			<Text>High priestesses upheld religious traditions and maintained the temples along the Nile. They held significant sway among the Nile people, at times having more power than Nubian royal lines and Egyptian dynasties. Later rulers would learn not to put the bulk of the country’s wealth in buildings controlled by the priesthood.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDJAY_CHAPTER_HISTORY_PARA_1">
+			<Text>Once referring to the people from the Nubian land of Medja, by the 16th Century BCE the name “medjay” was synonymous with an elite force employing both Nubians and Egyptians. Charged with protecting monuments, palaces, and tombs, the mostly autonomous medjay reported to regional captains who oversaw their allocation.</Text>
+		</Row>
+		<!-- NPC Civs -->
+		<!-- Buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OBELISK_CHAPTER_HISTORY_PARA_1">
+			<Text>Pairs of these large pillars of stone commonly flanked the entrances to temples in the Nile region. By the Second Millennium BCE they were associated with the sun god Ra (then eventually Amun, and finally Amun-Ra). Carving the obelisks as a single piece, transporting them, and finally lift them into place were impressive feats of ancient engineering.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUBIAN_SHRINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Small temple shrines littered the Nile region, dedicated to both the gods and to people seen as godly—though the latter were ostensibly religious, such dedications were certainly quite political. These shrines contained religious artifacts and were attended by both the priests assigned to them and the guards who kept away thieves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TEMPLE_AMUN_CHAPTER_HISTORY_PARA_1">
+			<Text>To understand the god Amun’s importance to the Nile region, look to his temples. The Temple of Amun at Karnak is so vast it could hold five Great Pyramids. The Temple of Amun at Jebel Barkal in Nubia might have attained such splendor, if the Romans hadn't smashed it to pieces in 25 BCE.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NILOMETER_CHAPTER_HISTORY_PARA_1">
+			<Text>The people of the Nile Valley depended upon its annual floods (or “inundations”) for their very survival. The ingenious nilometers measured the height of the floodwaters: too high, and people could expect dangerous floods. Too low, and they would see famine. Anything between those marks indicated a relatively prosperous season.</Text>
+		</Row>
+		<!-- Terrain/Features-->
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CATARACT_CHAPTER_HISTORY_PARA_1">
+			<Text>The six cataracts of the Nile river vary between shallows and rapids. Depending on the water level, it was possible to cross the cataracts by fording or by boat. Traditionally, Egypt claimed the portion of the Nile north of the First Cataract, while Nubia claimed the portion to the south.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_NILE_RIVER_CHAPTER_HISTORY_PARA_1">
+			<Text>Flowing from eastern central Africa to a northern delta in the Mediterranean Sea, the regular inundations of the Nile flood plains brought life to what would otherwise be inhospitable desert terrain.  Without the Nile, Egypt and Nubia would never have existed.</Text>
+		</Row>
+		<!-- Techs -->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FISHING_CHAPTER_HISTORY_PARA_1">
+			<Text>With a well-aimed spear, the people who relied upon the Nile to sustain them could fish to feed themselves. A simple hook, some bait, and a line held in the hand was enough to feed their families. However, fishing nets led to the bulk collection needed to feed whole cities.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDICINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Though its methods were crude, medical knowledge in the Nile region was surprisingly comprehensive. Extensive knowledge of anatomy led to hygienic practices, surgical knowledge, and incantations against demons thought to spread disease. As of 1550 BCE, a medical papyrus identified cancer as “a tumor against the god Xenus.” Sadly, there was no known treatment.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>As the fortunes of the Nile people grew, so did the envy of their neighbors. Consequently, the Egyptians and Nubians built permanent fortresses at least as early as the Second Millennium BCE. These fortress settlements typically had massive mud brick walls, allowing them to exert control at strategic points of the Nile.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_TOMB_BUILDING_CHAPTER_HISTORY_PARA_1">
+			<Text>The Nile people who could afford the expense entombed their dead, for religious and practical reasons. Whether simple shaft tombs, massive Egyptian pyramids, or far less ostentatious Nubian pyramids, a thick layer of stone and earth protected one’s posthumous existence and an extravagant collection of grave goods.</Text>
+		</Row>
+		<!-- Civics -->
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_ROYAL_DYNASTIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Conceptually, a royal dynasty is simple—a ruler transfers power to a descendant born of the ruler’s bloodline, thereby maintaining a consistent standard of consolidated power. Egypt enjoyed this proven concept of stability so much that they had 30 different royal dynasties through 343 BCE, when Persia’s Artaxerxes aggressively introduced them to the concept of satrapies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_HIEROGLYPHICS_CHAPTER_HISTORY_PARA_1">
+			<Text>If you want your words to last forever, why not set them in stone? So thought the ancient Egyptians, whose stylized logograms remain after four millennia. The Kingdom of Meroë developed a far more comprehensible variation, still visible on Nubian monuments and tombs constructed after the 2nd Century BCE.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MUMMIFICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>The burial practices of the Nile people sought to preserve the deceased through the process of mummification. This process removed internal organs, washed the insides with spices, and sealed the corpse in salt for a few months, which dehydrated the body and inured it against hungry insects.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SCRIBES_CHAPTER_HISTORY_PARA_1">
+			<Text>When your civilization worships a god of knowledge, writing, and mathematics, the people entrusted to read, write, and ‘rithmetic were considered a privileged caste. Such was the case with scribes in the Nile region—the Egyptians went so far as to consider them members of the royal court.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOOK_OF_THE_DEAD_CHAPTER_HISTORY_PARA_1">
+			<Text>Books of the Dead were collections of funerary instructions offering both practical advice for the treatment of corpses and ritual incantations designed to guide the recently deceased through the Underworld. Those who could afford to commission them kept a copy in their tombs—a readily available afterlife instruction manual.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_INSTITUTION_OF_THE_MUSES_CHAPTER_HISTORY_PARA_1">
+			<Text>Founded in approximately the Third Century BCE, the “Institution of the Muses” at Alexandria brought the brightest scientific, artistic, and philosophic minds together to teach, create, and wax philosophic. Similar to the modern concept of a university, the “Musaeum” may have hosted a young Archimedes (prior to his own Eureka moment).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SEPATS_CHAPTER_HISTORY_PARA_1">
+			<Text>Civilizations that wound along the Nile’s path could not easily govern every section of their territory from a central location. The Nile peoples solved this with sepats, or “nomes,” as the Greek-speaking Ptolemaics later called them. These administrative districts were responsible for each segment of the Nile or portion of the Nile Delta. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOARDGAMES_ATHLETICS_CHAPTER_HISTORY_PARA_1">
+			<Text>The Nile people developed board games and athletics as an extension of war. Subjects who could run races, wrestle opponents, and hit distant targets with sling stone or arrow could apply those lessons to war. Likewise, those who could outwit opponents at senet or mehen could understand the importance of battlefield stratagems.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AMUN_LORD_OF_ALL_GODS_CHAPTER_HISTORY_PARA_1">
+			<Text>Amun, patron god of Thebes, held great significance to the Nile people. The god of the wind was eventually recognized as king of the gods by the Egyptians and later the Nubian people. Thought to champion all that was good and just, he was believed to defend the downtrodden against those who would wrong them.</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1">
+			<Text>The Nile people derived great wealth from gold ore in their lands. Though Egypt claimed numerous sources of gold, its pharaohs and priests always hungered for more. Nubia's abundant gold mines to the south were a constant point of contention between the two civilizations--Egypt wanted them, and Nubia refused to provide them.</Text>
+		</Row>
+		<!-- Governments -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_KANDAKE_CHAPTER_HISTORY_PARA_1">
+			<Text>The rulers of Nubia practiced co-rulership between royal husband and wife. A kandake, or queen, had as much or more power as her husband, with the ultimate form of veto—should the king displease the kandake, she could order him to take his own life.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PHARAOH_CHAPTER_HISTORY_PARA_1">
+			<Text>The long line of Egyptian monarchs went by the title of pharaoh, roughly meaning "Great House." These rulers had near absolute power in Egypt, though this waned over millennia when Egyptian high priests proved to counterbalance pharaonic authority.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1">
+			<Text>"A great temple will do more than impress our neighbors—it will proclaim our primacy to all who observe it. With time, our neighbors will accept this without question."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FRONTIER_FORTRESSES_CHAPTER_HISTORY_PARA_1">
+			<Text>"As our wealth grows, so do the enemies who wish to take it from us. A series of fortresses built at the edges of our civilization will warn us of approaching armies."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INUNDATION_CALENDAR_CHAPTER_HISTORY_PARA_1">
+			<Text>"The Nile brings both life and death. Knowing when this year's floods arrived allows us to predict the next year's inundations. More life, less death."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MERCENARIES_CHAPTER_HISTORY_PARA_1">
+			<Text>"Armies are expensive to maintain. We can temporarily supplement our forces with mercenaries for a fraction of the cost--and if we purchase their service first, our enemies cannot."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_COMMUNICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>"It does us no good to send armies into the desert wastes if they cannot coordinate their movements. Our swift chariots can deliver vital messages to our commanders."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MUSAEUM_CHAPTER_HISTORY_PARA_1">
+			<Text>"We have long benefited from scholarly discoveries. Paying scholars to congregate and discover harvests the fruit of their intellectual orchards."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_RECORDKEEPING_CHAPTER_HISTORY_PARA_1">
+			<Text>"Meticulous records allow our scribes to track the disposition of our soldiers and their supplies. A few less khopeshes will vanish from our wagons."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROYAL_BODYGUARDS_CHAPTER_HISTORY_PARA_1">
+			<Text>"It is a cold reality that some would do harm to our royal family. We must protect them with a peerless cadre of soldiers loyal to the crown."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCORPION_KING_CHAPTER_HISTORY_PARA_1">
+			<Text>"Why must we go to war only when the harvest is complete? If we keep a band of soldiers fed and fighting, we can unite our lands no matter the time of year."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRADE_AGREEMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>"Our merchants have long traded with remote lands. A formal agreement will both fill our coffers and dissuade our foreign neighbors from war."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_VALLEY_OF_THE_KINGS_CHAPTER_HISTORY_PARA_1">
+			<Text>"After their passage from this world to the next, we stock the tombs of our leaders with treasure. Best to do so in a location we can place under constant guard."</Text>
+		</Row>
+		<!-- Beliefs -->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_CREATION_ATUM_CHAPTER_HISTORY_PARA_1">
+			<Text>"Atum, the first god, created himself from the watery abyss. Prophecy states he will be present at the world's end."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WATERY_ABYSS_NUN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Nun, the watery abyss, is the formless mass from which all creation derives."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_MUMMIFICATION_ANUBIS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Anubis, dog-headed god of mummification, ushers souls to the afterlife. He watches over cemeteries and tombs."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_THE_OASES_ASH_CHAPTER_HISTORY_PARA_1">
+			<Text>"Ash, god of the oases, watches over the islands of life found in harsh deserts. He wears the heads of animals connected to Set."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WAR_APEDEMAK_CHAPTER_HISTORY_PARA_1">
+			<Text>"Apedemak, god of war, champions Nubia's people. He bears the head of a lion—sometimes three."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GODDESS_OF_FERTILITY_ISIS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Isis, goddess of fertility, provides more than just her blessings for offspring. Indeed, the Nile's annual inundations are caused by her tears."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GUARDIAN_GOD_SEBIUMEKER_CHAPTER_HISTORY_PARA_1">
+			<Text>"Sebiumeker, Guardian God of ancient Kush, protects Nubian temples from interlopers."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_HOUSE_GOD_BES_CHAPTER_HISTORY_PARA_1">
+			<Text>"Bes, the house god, protects various households against snakes. He has a leonine countenance."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_LORD_OF_ALL_GODS_AMUN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Amun, lord of all gods, has grown to such importance that all other gods are seen as aspects of him."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_PROTECTOR_OF_THE_PHARAOHS_HORUS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Horus, protector of the pharaohs, is the son of Isis and Osiris. He bears the head of the falcon—fitting for the god of the sky."</Text>
+		</Row>
+	</EnglishText>
+</GameData>

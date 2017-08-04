@@ -37,10 +37,10 @@
 			<Text>Bãi Chăn +1 [ICON_Food] Thực phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
-			<Text>Cho phép Đại sứ quan và khả năng đào tạo Gián điệp. Có thể biện minh cho hành động chiến tranh. Những biện minh chiến tranh là: Thánh chiến, Chiến tranh giải phóng, Tái chiếm lược, và Bảo kê.</Text>
+			<Text>Khả năng đào tạo một Gián điệp.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
-			<Text>Trại +1 [ICON_Production] Thực phẩm. </Text>
+			<Text>Trại +1 [ICON_Production] Sản phẩm và +1 [ICON_Food] Thực phẩm.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
 			<Text>Ảnh hưởng [ICON_Tourism] Du Lịch Tôn Giáo giảm một nửa so với nền văn minh của bạn.</Text>
@@ -49,7 +49,7 @@
 			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
-			<Text>Có thể xây Nông Trại trên Đồng cỏ (Đồi) và Đồng bằng (Đồi). Mở khóa Phòng Thủ Đô thị, cho tất cả thành phố tự động củng cố 200 Sức mạnh tường thành và khả năng thực hiện một cuộc tấn công tầm xa.</Text>
+			<Text>Có thể xây Nông Trại trên Đồng cỏ (Đồi) và Đồng bằng (Đồi).</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
 			<Text>Khả năng đào tạo một Gián điệp. Cho phép hai đơn vị nhất định ghép lại trở thành Trung đội hoặc Hải đoàn. Cho phép sử dụng lý do biện minh chiến tranh: Chiến tranh thuộc địa.</Text>
@@ -64,7 +64,7 @@
 			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
-			<Text>Thưởng 3 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công Viên Quốc Gia và mua Nhà Tự Nhiên Học với [ICON_Faith] Đức Tin. Cho phép Thợ xây chặt Rừng (rừng cải tạo). Rừng lâu năm chưa được loại bỏ (rừng nguyên sinh) sẽ cho +1 Sức Hấp Dẫn.</Text>
+			<Text>Thưởng 3 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công Viên Quốc Gia và mua Nhà Tự Nhiên Học với [ICON_Faith] Đức Tin. Cho phép Thợ xây chặt Rừng (rừng cải tạo). Rừng lâu năm chưa được loại bỏ (rừng nguyên sinh) sẽ cho +1 Sức Hấp Dẫn. Thêm [ICON_TOURISM] Du Khách từ Tường.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Cho phép hình thành Hiệp Ước Phòng Thủ. Cho phép 3 đơn vị nhất định hợp lại thành Quân Đội hoặc Hạm Đội. Cho phép sử dụng biện minh chiến tranh: Chiến tranh mở rộng lãnh thổ.</Text>
@@ -82,7 +82,7 @@
 			<Text>Cho phép vận chuyển các đơn vị mặt đất giữa các Khu Hàng Không có chứa Sân bay.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Vàng cho Đồn Điền.</Text>
+			<Text>+2 [ICON_Gold] Vàng cho Đồn Điền.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
 			<Text>Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
@@ -101,7 +101,7 @@
 			<Text>Đánh bại một Trại Man Di.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
-			<Text>Xây một Đặc Khu bất kỳ.</Text>
+			<Text>Xây một Đặc Khu chuyên biệt bất kỳ.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
 			<Text>Một thành phố đạt 6 dân số.</Text>
@@ -434,7 +434,7 @@
 			<Text>Tất cả thành phố với một Đặc Khu được +1 [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
-			<Text>+2 [ICON_Housing] Nhà ở cho bất kỳ thành phố có Tường Trung cổ.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối tới kiến trúc phòng thủ. +1 [ICON_Housing] Nhà Ở cho mỗi level của Tường thành.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
 			<Text>Có thể mua lính mặt đất bằng Đức Tin. Tất cả đơn vị +5 [ICON_Religion] Sức mạnh tôn giáo trong chiến đấu thần học.</Text>

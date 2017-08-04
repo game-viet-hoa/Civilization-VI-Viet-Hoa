@@ -33,6 +33,12 @@
 		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
 			<Text>Di chuyển hay làm gì đó đơn vị.</Text>
 		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
+			<Text>Thánh phố tấn công tầm xa</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
+			<Text>Thành phố của bạn có thể thực hiện tấn công tầm xa.</Text>
+		</Row>
 		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
 			<Text>Xem xét thay đổi chính phủ</Text>
 		</Row>
@@ -313,7 +319,7 @@
 			<Text>Phản gián điệp {1_unitName} của bạn là công cụ chiến thắng cho lực lượng an ninh của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
-			<Text>Gián điẹp {1_unitName} của bạn đã trốn thoát và sẽ trở lại Thủ Đô sau {2_turns} lượt.</Text>
+			<Text>Gián điẹp {1_unitName} của bạn đã trốn thoát và sẽ trở lại [ICON_Capital] Thủ Đô sau {2_turns} lượt.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
 			<Text>Gián điệt trốn thoát</Text>
@@ -477,6 +483,19 @@
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
 			<Text>{1_playerName} đã hoàn tất tải.</Text>
+		</Row>
+		<!-- Multiplayer deferred popup notifications -->
+		<Row Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
+			<Text>Thúc đẩy công nghệ</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
+			<Text>Đạt được thúc đẩy công nghệ: {1_Name} +{2_Boost}%</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
+			<Text>Thúc đẩy hành chính</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
+			<Text>Đạt được thúc đẩy hành chính: {1_Name} +{2_Boost}%</Text>
 		</Row>
 		<!-- Great Work Notifications -->
 		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">

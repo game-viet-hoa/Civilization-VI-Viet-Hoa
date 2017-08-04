@@ -69,6 +69,9 @@
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
 			<Text>Tính chất</Text>
 		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
+			<Text>Feature Direction</Text>
+		</Row>
 		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
 			<Text>Tài nguyên</Text>
 		</Row>		
@@ -208,5 +211,40 @@
 			<Text>Bỏ</Text>
 		</Row>
 
+		<Row Tag="LOC_WORLDBUILDER_NO_FEATURE">
+			<Text>No Feature</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_DIRECTION">
+			<Text>No Direction</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
+			<Text>Northeast</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
+			<Text>East</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
+			<Text>Southeast</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
+			<Text>Southwest</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
+			<Text>West</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
+			<Text>Northwest</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_RESOURCE">
+			<Text>No Resource</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
+			<Text>No Improvement</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_ROUTE">
+			<Text>No Route</Text>
+		</Row>
 	</BaseGameText>
 </GameData>

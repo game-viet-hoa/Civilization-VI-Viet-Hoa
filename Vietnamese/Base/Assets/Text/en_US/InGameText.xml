@@ -283,6 +283,9 @@
 		<Row Tag="LOC_GAME_MENU_QUIT_WARNING">
 			<Text>Có chắc muốn thoát?</Text>
 		</Row>
+		<Row Tag="LOC_GAME_MENU_RESTART_WARNING">
+			<Text>Có chắc muốn bắt đầu lại?</Text>
+		</Row>
 		<Row Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
 			<Text>Bạn có chắc là muốn tắt Sid Meier's Civilization VI?</Text>
 		</Row>
@@ -427,7 +430,7 @@
 			<Text>Nhà Khảo Cổ cần phải quyết định [ICON_GreatWork_Artifact] Cổ Vật cho nền văn minh khi anh ấy muốn quay về Bảo Tàng ở quê hương.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CITY_RANGED_ATTACK_TOOLTIP">
-			<Text>Thành phố của bạn có thể thực hiện tấn công tầm xa.</Text>
+			<Text>Thành phố của bạn có thể thực hiện tấn công tầm xa. Click phải để từ chối tấn công hiện tại.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_PRODUCTION">
 			<Text>CHỌN SẢN PHẨM</Text>
@@ -834,14 +837,35 @@
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
 			<Text> đang có lượt</Text>
 		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_PLAYBYCLOUD">
+			<Text>Đang tải lượt lên Đám Mây</Text>
+		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
 			<Text>Bắt Đầu Lượt</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_POPUP_WAITING_FOR_CLOUD_UPLOAD">
+			<Text>Đang upload save game. Vui lòng chờ...</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_SAVE_GAME">
 			<Text>Lưu Game</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_PASSWORD">
 			<Text>Mật khẩu</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_POPUP_CANCEL_UPLOAD">
+			<Text>Hủy</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_POPUP_CANCEL_UPLOAD_TOOLTIP">
+			<Text>Dừng xác nhận lượt của bạn. Bạn sẽ mất quá trình chơi của lượt này.</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_UPLOAD_IN_PROGRESS">
+			<Text>Upload đang trong quá trình</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_UPLOAD_FAILED">
+			<Text>Upload thất bại. Thử lại.</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_CHANGE_UPLOAD_SUCCESS">
+			<Text>Upload thành công. Đang quay về Menu chính.</Text>
 		</Row>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
@@ -986,6 +1010,9 @@
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_STARTING_ERA">
 			<Text>Tiện Nghi từ thời đại bắt đầu:</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_AMENITIES_FROM_IMPROVEMENTS">
+			<Text>Tiện nghi từ Công trình:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_WAR_WEARINESS">
 			<Text>Tiện nghi từ chiến tranh dai dẳng:</Text>
@@ -3102,6 +3129,12 @@
 		<Row Tag="LOC_TYPE_TRAIT_AIRSLOTS">
 			<Text>Sức chứa máy bay: {1_Amount}</Text>
 		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_ENVOYS">
+			<Text>Thưởng {1_Count} [ICON_Envoy] {1_Count : plural 1?Phái đoàn; other?Phái đoàn;}</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_SPIES">
+			<Text>Thưởng {1_Count} {1_Count : plural 1?Gián điệp; other?Gián điệp;}</Text>
+		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_CITIZENSLOTS">
 			<Text>Sức chứa công dân: {1_Amount}</Text>
 		</Row>
@@ -3164,6 +3197,9 @@
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_SEA_RESOURCE">
 			<Text>tài nguyên biển</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE_CLASS">
+			<Text>kết hợp lớp tài nguyên</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RIVER">
 			<Text>sông</Text>
@@ -4014,6 +4050,9 @@
 		<Row Tag="LOC_CITY_STATES_DISTRICT_QUEST">
 			<Text>Nhiệm Vụ Đặc Khu</Text>
 		</Row>
+		<Row Tag="LOC_CITY_STATES_AT_WAR_WTIH">
+			<Text>{1_CityState} đang chiến tranh với {2_PlayerAtWar}</Text>
+		</Row>
 		<Row Tag="LOC_CITY_STATES_ENVOYS">
 			<Text>Phái đoàn</Text>
 		</Row>
@@ -4059,6 +4098,15 @@
 		</Row>
 		<Row Tag="LOC_CITY_STATES_QUESTS">
 			<Text>Nhiệm vụ:</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_RELATIONSHIPS">
+			<Text>Mối quan hệ:</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_CIVILIZATION_HEADER">
+			<Text>Nền văn minh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_CITY_STATES">
+			<Text>Thành phố tự trị</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_REMOVE_AN_ENVOY">
 			<Text>Loại bỏ một [ICON_Envoy] Phái đoàn giữa nền văn minh của bạn và thành phố tự trị này.</Text>
@@ -4107,6 +4155,9 @@
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TITLE">
 			<Text>Thành phố tự trị</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_TURNS_WAR_NO_PEACE">
+			<Text>Hiện tại trong chiến tranh.[NEWLINE](Không thể cầu hòa.)</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_TURNS_WAR">
 			<Text>Hiện tại đang chiến tranh.[NEWLINE](Hòa bình có thể trong {1_Turns} lượt.)</Text>
@@ -4525,6 +4576,9 @@
 		<Row Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
 			<Text>BẮT ĐẦU LỘ TRÌNH</Text>
 		</Row>
+		<Row Tag="LOC_ROUTECHOOSER_REPEAT_ROUTE_BUTTON">
+			<Text>LẶP LẠI LỘ TRÌNH</Text>
+		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
 			<Text>{1_City} nhận:</Text>
 		</Row>
@@ -4619,6 +4673,13 @@
 		<Row Tag="LOC_DECLARE_WAR_DEALS_TOOLTIP">
 			<Text>Thỏa thuận mất:</Text>
 		</Row>
+		<Row Tag="LOC_JOINT_WAR_CANNOT_EDIT_THEIRS_TOOLTIP">
+			<Text>Chỉ có thể thay đổi mục tiêu của một Chiến Tranh Hợp Tác trong đề nghị của bạn.</Text>
+		</Row>
+		<!-- ==================== DenouncePopup ==================== -->
+		<Row Tag="LOC_DENOUNCE_POPUP_BODY">
+			<Text>CÓ chắc muốn lăng mạ {1_PlayerName}?</Text>
+		</Row>
 		<!-- ==================== Victory Status Text ==================== -->
 		<Row Tag="LOC_VICTORYSTATUS_PANEL_HEADER">
 			<Text>Trạng Thái Chiến Thắng</Text>
@@ -4681,6 +4742,9 @@
 		<Row Tag="TXT_KEY_MP_LAST_PLAYER">
 			<Text>Bạn là người chơi cuối cùng còn lại trong game.</Text>
 		</Row>
+		<Row Tag="TXT_KEY_MP_LAST_PLAYER_TITLE">
+			<Text>Tất cả một mình</Text>
+		</Row>
 		<Row Tag="LOC_PARTIALSCREEN_CITYSTATES_TOOLTIP">
 			<Text>THÀNH PHỐ TỰ TRỊ</Text>
 		</Row>
@@ -4723,6 +4787,9 @@
 		<!-- ==================== REPORTS =================== -->
 		<Row Tag="LOC_HUD_REPORTS_AMOUNT">
 			<Text>Số lượng</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_ADJACENCY_BONUS">
+			<Text>Thưởng liền kề</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TITLE">
 			<Text>BÁO CÁO</Text>
@@ -4982,6 +5049,9 @@
 		<Row Tag="LOC_HUD_REPORTS_WORKED_TILES">
 			<Text>Các ô đất làm việc</Text>
 		</Row>
+		<Row Tag="LOC_REPORTS_NUMBER_OF_TURNS">
+			<Text>cho {1_Turns} lượt</Text>
+		</Row>
 		<!-- Player Yields ToolTips -->
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_ANARCHY">
 			<Text>Không có Khoa học do hỗn loạn.</Text>
@@ -5075,10 +5145,10 @@
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Row>		
+		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Row>	
+		</Row>		
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
 			<Text>{Value : number -#.#;+#.#} từ Kiến Trúc</Text>
 		</Row>
@@ -5309,7 +5379,7 @@
 			<Text>Giá trị của một nền văn hóa không được tính bằng những thành tựu, mà dựa vào những thành tựu cuối cùng, và cái cách mà mọi người nhớ về nó. Nét đẹp mà bạn đã truyền cảm hứng đến mọi người sẽ làm cho nền văn hóa của chúng ta được trường tồn.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DOMINATION_TEXT">
-			<Text>Mặc dù diện mạo của nó thay đổi theo các thời đại, lịch sử được dựng nên bởi những bàn tay của người chiến thắng. Bằng những hành động của bạn trong hôm nay, người dân luôn luôn được vinh quanh đến tận muôn đời.</Text>
+			<Text>Mặc dù diện mạo có thể thay đổi theo các thời đại, lịch sử được dựng nên bởi những bàn tay của người chiến thắng. Bằng những hành động của bạn trong hôm nay, người dân luôn luôn được vinh quanh đến tận muôn đời.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DEFAULT_TEXT">
 			<Text>Mọi người khác đều đã thua... Vì vậy bạn đã chiến thắng!</Text>

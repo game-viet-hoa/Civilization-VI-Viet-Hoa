@@ -296,5 +296,41 @@
 		<Row Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
 			<Text>Đề xuất hòa bình.</Text>
 		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
+			<Text>Chọn Công Nghệ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
+		  <Text>Chọn Đồng Minh</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
+		  <Text>Chọn Mục Tiêu</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
+		  <Text>Bao nhiêu</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
+		  <Text>Ta sẽ nhận lấy món quà này</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
+		  <Text>Món quà sẽ cải thiện mối quan hệ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
+		  <Text>Ta thích thương lượng.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
+		  <Text>Tạo thỏa thuận sẽ làm tổn hại mối quan hệ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_UNFAIR">
+		  <Text>Ta không thể chấp nhận, đây là một thỏa thuận không công bằng.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
+		  <Text>Hỏi lãnh đạo này muốn thêm gì vào lời đề nghị.[NEWLINE]Nó sẽ chỉ thêm những thứ để cân bằng thỏa thuận đôi bên.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
+		  <Text>Không thể chấp nhận đề nghị này trong bất kỳ trường hợp nào.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
+		  <Text>Chặn thỏa thuận</Text>
+		</Row>
 	</BaseGameText>
 </GameData>

@@ -381,7 +381,7 @@
 			<Text>Kinh nghiệm và Huân chương</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Một đơn vị sống sốt sau các trận chiến sẽ nhận được điểm kinh nghiệm (XP). Mỗi khi đơn vị đạt đủ XP thì sẽ được 'lên cấp', tại thời điểm đó đơn vị sẽ nhận được một Huân chương. Huân chương sẽ giúp tăng sức mạnh cho đơn vị theo nhiều cách khác nhau. Khi lựa chọn một Huân chương, đơn vị sẽ hồi một lượng HP. Đơn vị sẽ không nhận XP cho đến khi lựa chọn một Huân chương.</Text>
+			<Text>Một đơn vị sống sốt sau các trận chiến hoặc tìm thấy một Làng thổ dân thì sẽ nhận được điểm kinh nghiệm (XP). Mỗi khi đơn vị đạt đủ XP thì sẽ được 'lên cấp', tại thời điểm đó đơn vị sẽ nhận được một Huân chương. Huân chương sẽ giúp tăng sức mạnh cho đơn vị theo nhiều cách khác nhau. Khi lựa chọn một Huân chương, đơn vị sẽ hồi một lượng HP. Đơn vị sẽ không nhận XP cho đến khi lựa chọn một Huân chương.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_TITLE">
 			<Text>Tấn công thành phố</Text>
@@ -390,7 +390,7 @@
 			<Text>Các thành phố có thể bị tấn công và chiếm bởi đơn vị quân sự. Mỗi thành phố đều có "Sức mạnh thành phố chiến đấu" được dùng để xác định sức mạnh khi bị tấn công bởi đơn vị khác. Sức mạnh cao thì khó chiếm được thành phố hơn. Trừ khi thành phố rất yếu hoặc đơn vị tấn công quá mạnh thì cần phải mất nhiều lượt để có thể chiếm được thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_2">
-			<Text>Tường thành thêm khả năng bảo vệ cho thành phố hoặc khu quân sự, làm cho nó khó bị chiếm hơn. Thứ bảo vệ này giống như giáp, che chở thành phố khỏi tấn công. Các đơn vị đánh gần chỉ gây 15% thiệt hại lên tường thành, và đơn vị đánh xa gây 50% thiệt hại. Chỉ có bắn pháo mới gây 100% thiệt hại, giúp cho việc chiếm một thành phố kiên cố dễ dàng hơn. Nếu tường thành bị thiệt hại hoàn toàn, chúng sẽ dừng việc bảo vệ và thành phố sẽ bị ảnh hưởng trực tiếp từ cuộc tấn công. Tường thành chỉ có thể được sửa với Dự án trong mục Sản xuất của thành phố, việc này giống như sửa chữa kiến trúc đặc khu, có thể làm việc này nếu đặc khu không bị tấn công trong 3 lượt liên tiếp. Mỗi thành phố có tường thành thì có thể tấn công từ xa kẻ địch bằng cách sử dụng "THÀNH PHỐ TẤN CÔNG TẦM XA".[NEWLINE][NEWLINE]Sức mạnh thành phố chiến đấu dựa trên [ICON_Strength] Sức mạnh chiến đấu của đơn vị cận chiến mạnh nhất trong nền văn minh của bạn trừ đi 10 hoặc bằng Sức mạnh chiến đấu của đơn vị đóng quân.[NEWLINE][NEWLINE]Sức mạnh thành phố tấn công tầm xa dựa trên [ICON_Ranged] Sức mạnh tầm xa của đơn vị đánh xa mạnh nhất trong nền văn minh của bạn.[NEWLINE][NEWLINE]Thành phố sẽ nhận được thưởng bổ chúng từ những khu vực không bị cướp bóc, thành phố lớn hay lợi thế địa hình thì sẽ khó bị chiếm hơn.</Text>
+			<Text>Tường thành thêm khả năng bảo vệ cho thành phố hoặc khu quân sự, làm cho nó khó bị chiếm hơn. Thứ bảo vệ này giống như giáp, che chở thành phố khỏi tấn công. Các đơn vị đánh gần chỉ gây 15% thiệt hại lên tường thành, và đơn vị đánh xa gây 50% thiệt hại. Chỉ có bắn pháo mới gây 100% thiệt hại, giúp cho việc chiếm một thành phố kiên cố dễ dàng hơn. Nếu tường thành bị thiệt hại hoàn toàn, chúng sẽ dừng việc bảo vệ và thành phố sẽ bị ảnh hưởng trực tiếp từ cuộc tấn công. Tường thành chỉ có thể được sửa với Dự án trong mục Sản xuất của thành phố, việc này giống như sửa chữa kiến trúc đặc khu, có thể làm việc này nếu đặc khu không bị tấn công trong 3 lượt liên tiếp. Mỗi thành phố có tường thành thì có thể tấn công từ xa kẻ địch bằng cách sử dụng "THÀNH PHỐ TẤN CÔNG TẦM XA".[NEWLINE][NEWLINE]Sức mạnh thành phố chiến đấu dựa trên [ICON_Strength] Sức mạnh chiến đấu của đơn vị cận chiến mạnh nhất trong nền văn minh của bạn trừ đi 10 hoặc bằng [ICON_Strength] Sức mạnh chiến đấu của đơn vị đóng quân.[NEWLINE][NEWLINE]Sức mạnh thành phố tấn công tầm xa dựa trên [ICON_Ranged] Sức mạnh tầm xa của đơn vị đánh xa mạnh nhất trong nền văn minh của bạn.[NEWLINE][NEWLINE]Thành phố sẽ nhận được thưởng bổ chúng từ những khu vực không bị cướp bóc, thành phố lớn hay lợi thế địa hình thì sẽ khó bị chiếm hơn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_3">
 			<Text>Các thành phố có thể bị bao vây bởi các đơn vị tấn công. Thành phố trung tâm và đặc khu phòng thủ khác như Khu Quân Sự bị coi là bao vây khi 6 ô xung quanh bị chiếm bởi kẻ địch, hoặc không thể đi qua như núi hoặc kỳ quan thiên nhiên. Trong trường hợp này, khu vực sẽ không thể hồi tự động lại lượng máu bị mất trong mỗi lượt như cách thông thường.</Text>
@@ -459,7 +459,7 @@
 			<Text>Hạ thủy các đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Khi bắt đầu trò chơi, các đơn vị mặt đất không thể di chuyển trên mặt nước. Tuy nhiên, khi học được công nghệ Ra Khơi, thợ xây sẽ có thể di chuyển vào ranh giới mặt nước. Sau khi có Thiên văn hàng hải, Thương Gia sẽ có thể hạ thuỷ tàu. Sau khi Đóng Tàu, tất cả các đơn vị sẽ có thể vào trong tàu. Để chuyển một đơn vị lên tàu, di chuyển ra ven biển và sau đó nhấp vào "Hạ thuỷ". Khi hạ thuỷ, đơn vị có thể di chuyển tự do trên mặt nước.[NEWLINE]Đơn vị mặt đất có thể đưa lên một con tàu vận tải, và không có khả năng chiến đấu giống như trên mặt đất. Đơn vị mặt đất khi ở trên tàu phải chịu giảm sức mạnh chiến đấu, và chỉ có thể chữa trị trong vùng nước an toàn, làm cho họ dễ bị tấn công từ các đơn vị hải quân của đối phương.</Text>
+			<Text>Khi bắt đầu trò chơi, các đơn vị mặt đất không thể di chuyển trên mặt nước. Tuy nhiên, khi học được công nghệ Ra Khơi, thợ xây sẽ có thể di chuyển vào ranh giới mặt nước. Sau khi có Thiên văn hàng hải, Thương Gia sẽ có thể hạ thuỷ tàu. Sau khi Đóng Tàu, tất cả các đơn vị sẽ có thể vào trong tàu. Để chuyển một đơn vị lên tàu, di chuyển ra ven biển và sau đó nhấp vào "Di Chuyển". Khi hạ thuỷ, đơn vị có thể di chuyển tự do trên mặt nước.[NEWLINE]Đơn vị mặt đất có thể đưa lên một con tàu vận tải, và không có khả năng chiến đấu giống như trên mặt đất. Đơn vị mặt đất khi ở trên tàu phải chịu giảm sức mạnh chiến đấu, và chỉ có thể chữa trị trong vùng nước an toàn, làm cho họ dễ bị tấn công từ các đơn vị hải quân của đối phương.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_SCIENCE_NAME">
 			<Text>Khoa học và Công nghệ</Text>
@@ -543,7 +543,7 @@
 			<Text>Chi tiêu vàng</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Bạn có rất nhiều cách để chi tiêu [ICON_Gold] Vàng. Các đơn vị và kiến trúc đều có "chi phí duy trì" phải chi trả ở mỗi lượt. Bạn có thể mở rộng lãnh thổ nền văn minh của mình bằng cách mua thêm ô, hoặc bạn có thể sử dụng [ICON_Gold] Vàng để mua các đơn vị và kiến trúc khác. Nâng cấp đơn vị có sẵn sẽ tốn một số lượng [ICON_Gold] Vàng. [ICON_Gold] Vàng có thể được trao đổi với các nền văn minh khác thông qua ngoại giao, và nếu bạn bị mất một thành phố, bạn sẽ mất một lượng [ICON_Gold] Vàng khá lớn.</Text>
+			<Text>Bạn có rất nhiều cách để chi tiêu [ICON_Gold] Vàng. Các đơn vị, vũ khí hạt nhân, đặc khu và kiến trúc có "chi phí duy trì" phải chi trả ở mỗi lượt. Bạn có thể mở rộng lãnh thổ nền văn minh của mình bằng cách mua thêm ô, hoặc bạn có thể sử dụng [ICON_Gold] Vàng để mua các đơn vị và kiến trúc khác. Nâng cấp đơn vị có sẵn sẽ tốn một số lượng [ICON_Gold] Vàng. [ICON_Gold] Vàng có thể được trao đổi với các nền văn minh khác thông qua ngoại giao, và nếu bạn bị mất một thành phố, bạn sẽ mất một lượng [ICON_Gold] Vàng khá lớn.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_TITLE">
 			<Text>Phá sản</Text>
@@ -1047,7 +1047,7 @@
 			<Text>Sau cuộc tấn công hạt nhân, bụi phóng xạ sẽ gây ô nhiễm tất cả các ô trong vùng ảnh hưởng từ vụ nổ. Bất kỳ đơn vị nào nằm trong vùng nhiễm phóng xạ sẽ bị chịu 50 sát thương mỗi lượt.[ICON_Production] Sản phẩm không thể áp dụng cho bất kỳ ô bị nhiễm phóng xạ nào, kể cả sửa chữa các kiến trúc cũng như các đặc khu. Các ô bị nhiễm sẽ không thể hoạt động cho thành phố đến khi nào hết nhiễm phóng xạ hoặc các ô được "làm sạch".</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Các ô bị nhiễm hạt nhân có thể "làm sạch" bởi các Thợ xây và các đơn vị Kỹ sư quân đội. Để làm sách các ô bị nhiễm phóng xạ cần tiêu hao 1 phí xây dựng. Thợ xây và các đơn vị Kỹ sư quân đội có thể làm sạch các ô lục giác nhiễm phóng xạ sẽ nhận ít tổn thương nếu họ kết thúc lượt ngay tại ô lục giác đó. Bất kỳ ô đất nào của thành phố không bị ảnh hưởng trực tiếp từ vụ nổ hạt nhân vẫn sẽ hoạt động bình thường và phân phối sản lượng cho thành phố.</Text>
+			<Text>Các ô bị nhiễm hạt nhân có thể "làm sạch" bởi các Thợ xây và các đơn vị Kỹ sư quân đội. Để làm sách các ô bị nhiễm phóng xạ cần tiêu hao 1 phí xây dựng. Thợ xây, Kỹ sư quân đội và Lính Lê Dương La Mã có thể làm sạch các ô lục giác nhiễm phóng xạ sẽ nhận ít tổn thương nếu họ kết thúc lượt ngay tại ô lục giác đó. Bất kỳ ô đất nào của thành phố không bị ảnh hưởng trực tiếp từ vụ nổ hạt nhân vẫn sẽ hoạt động bình thường và phân phối sản lượng cho thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TOURISM_NAME">
 			<Text>Du Lịch</Text>
@@ -1056,7 +1056,7 @@
 			<Text>Giới Thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Tourism] Du lịch là yếu tố cần thiết để giành chiến thắng văn minh. Bạn có thể tạo ra [ICON_Tourism] Du lịch thông qua các Thành tựu vĩ đại, các Kỳ quan, Thánh địa, [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật, các Khu nghỉ dưỡng ven biển và các Công viên quốc gia. Bạn có thể tăng điểm [ICON_Tourism] Du lịch thông qua [ICON_TradeRoute] Tuyến đường thương mại, Tự do đi lại, Vĩ nhân, Chính sách, và chia sẻ (hoặc đối nghịch) về các nền chính phủ.</Text>
+			<Text>[ICON_Tourism] Du lịch là yếu tố cần thiết để giành chiến thắng văn minh. Bạn có thể tạo ra [ICON_Tourism] Du lịch thông qua các Thành tựu vĩ đại, các Kỳ quan, Thánh địa, [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật, các Khu nghỉ dưỡng ven biển và các Công viên quốc gia. Bạn có thể tăng điểm [ICON_Tourism] Du lịch thông qua [ICON_TradeRoute] Tuyến đường thương mại, Tự do đi lại, Vĩ nhân, Chính sách, và chia sẻ (hoặc đối nghịch) về các nền chính phủ.[NEWLINE][NEWLINE]Xây dựng một kỳ quan sẽ có thể là một trong những cách đầu tiên để thu hút được [ICON_Tourism] Du Khách. Mỗi Kỳ Quan cung cấp 2 [ICON_Tourism] Du Khách mỗi lượt, thêm 1 cho mỗi thời đại Kỳ Quan đã trải qua. Vì thế một kỳ quan Xa Xưa như Bãi đá Stonehenge có thể thu hút được 9 [ICON_Tourism] Du Khách vào cuối Game.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
 			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>

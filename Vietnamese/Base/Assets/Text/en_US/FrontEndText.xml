@@ -52,12 +52,24 @@
 		<Row Tag="LOC_PLAY_MULTIPLAYER">
 			<Text>Chơi nhiều người</Text>
 		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_TURN">
+			<Text>[ICON_Exclamation] Chơi nhiều người</Text>
+		</Row>
 		<Row Tag="LOC_LOAD_GAME">
 			<Text>Tải game</Text>
 		</Row>
-    <Row Tag="LOC_NO_FILE_SELECTED">
-      <Text>Không có tập tin đang được chọn</Text>
-    </Row>
+		<Row Tag="LOC_LOAD_CONFIG">
+			<Text>Tải cấu hình</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MAP">
+			<Text>Tải bản đồ</Text>
+		</Row>
+		<Row Tag="LOC_OPEN_DIRECTORY">
+			<Text>Mở</Text>
+		</Row>
+		<Row Tag="LOC_NO_FILE_SELECTED">
+			<Text>Không có tập tin đang được chọn</Text>
+		</Row>
 		<Row Tag="LOC_MAIN_MENU_OPTIONS">
 			<Text>Tùy chọn</Text>
 		</Row>
@@ -95,6 +107,12 @@
 		<Row Tag="LOC_NO_SAVED_GAMES">
 			<Text>Không có Save</Text>
 		</Row>
+		<Row Tag="LOC_NO_SAVED_CONFIGS">
+			<Text>Không có cấu hình đã lưu</Text>
+		</Row>
+		<Row Tag="LOC_NO_SAVED_MAPS">
+			<Text>Không có bản đồ đã lưu</Text>
+		</Row>
 		<Row Tag="LOC_SORTBY_NAME">
 			<Text>Xếp theo tên</Text>
 		</Row>
@@ -111,7 +129,10 @@
 			<Text>Lưu Game</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_MAP_BUTTON">
-			<Text>Lưu Map</Text>
+			<Text>Lưu Bản Đồ</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_CONFIG">
+			<Text>Lưu Cấu Hình</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
 			<Text>Đám mây đã lưu đủ số lượng. Ghi đè hoặc xóa Save khác.</Text>
@@ -298,8 +319,14 @@
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
 			<Text>Game Đám Mây</Text>
 		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN">
+			<Text>[ICON_Exclamation] Game Đám Mây</Text>
+		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
 			<Text>Chơi nhiều người sử dụng đám mây FiraxisLive.  Yêu cầu kết nối tới FiraxisLive.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT">
+			<Text>It is your turn in one of your cloud games.[NEWLINE][NEWLINE]Play a multiplayer game using FiraxisLive cloud computing technology.  Requires an active connection to FiraxisLive.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
 			<Text>Máy Chủ</Text>
@@ -332,6 +359,24 @@
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_BACK">
 			<Text>QUAY LẠI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_END_GAME">
+			<Text>XÓA GAME</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
+			<Text>Đang kết thúc Game...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
+			<Text>Lỗi trong khi kết thúc Game.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
+			<Text>Ok</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
+			<Text>Game đã lỗi để chạy.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
+			<Text>Ok</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME">
 			<Text>Tham gia</Text>
@@ -396,8 +441,20 @@
 		<Row Tag="LOC_MULTIPLAYER_MODSHOSTED">
 			<Text>Mods</Text>
 		</Row>
+		<Row Tag="LOC_STAGING_ROOM_LOADING_SAVE">
+			<Text>Tải Save Game</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
+			<Text>Đang chơi</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_JOIN_CODE">
+			<Text>Mã tham gia:</Text>
+		</Row>
 		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
 			<Text>GAME MÁY CHỦ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LOBBY">
+			<Text>GAME ĐÁM MÂY</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
 			<Text>GAME INTERNET</Text>
@@ -417,11 +474,26 @@
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
 			<Text>Không rõ</Text>
 		</Row>
+		<Row Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
+			<Text>Không rõ kích thước bản đồ</Text>
+		</Row>
 		<Row Tag="LOC_MULTIPLAYER_TRUE">
 			<Text>Đúng</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_FALSE">
 			<Text>Sai</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Đang chơi</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Đang tải Save</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
+			<Text>Lượt của bạn trong Game này.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_YOUR_TURN">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
 		</Row>
 		<!-- Cloud Game Screen -->
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
@@ -438,6 +510,12 @@
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
 			<Text>Bắt đầu</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES">
+			<Text>Game của tôi</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES">
+			<Text>Mở Game</Text>
 		</Row>
     <!-- Options -->
     <Row Tag="LOC_CONFIRM_KEY_BINDING">
@@ -494,6 +572,12 @@
     <Row Tag="LOC_OPTIONS_AUTO_END_TURN">
       <Text>Tự kết thúc lượt:</Text>
     </Row>
+	<Row Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+		<Text>Lượt chặn thành phố tấn công tầm xa:</Text>
+	</Row>
+	<Row Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+		<Text>Khi bật, thành phố tấn công tầm xa bị chặn lượt.</Text>
+	</Row>
     <Row Tag="LOC_OPTIONS_TIME_OF_DAY">
       <Text>Thời gian của ngày:</Text>
     </Row>
@@ -582,6 +666,9 @@
 		</Row>
 		<Row Tag="LOC_MP_JOIN_FAILED">
 			<Text>Lỗi phiên kết nối.</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_GAME_STARTED">
+			<Text>Game đã bắt đầu.</Text>
 		</Row>
 		<!-- Multiplayer Staging Room Screen -->
 		<Row Tag="LOC_MP_SWAP_PLAYER">
@@ -912,6 +999,9 @@
 		<Row Tag="LOC_SETUP_CREATE_GAME">
 			<Text>Tạo Game</Text>
 		</Row>
+		<Row Tag="LOC_SETUP_CHOOSE_RULESET">
+			<Text>Chọn quy tắc</Text>
+		</Row>
 		<Row Tag="LOC_SETUP_CHOOSE_SCENARIO">
 			<Text>Chọn kịch bản</Text>
 		</Row>
@@ -990,6 +1080,9 @@
 		
 		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
 			<Text>Không trùng người lãnh đạo</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
+			<Text>Yêu cầu thêm người</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Tùy chọn không hợp lệ</Text>
@@ -1552,6 +1645,9 @@
 		<Row Tag="LOC_MAINMENU_MULTIPLAYER_TT">
 			<Text>Chơi nhiều người bằng kết nối tới Internet, LAN...</Text>
 		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT">
+			<Text>It is your turn in one of your cloud games.[NEWLINE][NEWLINE]Internet, network, and hot seat matches can be setup or joined here.</Text>
+		</Row>	
 		<Row Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
 			<Text>Tùy chọn đồ họa, âm thanh, điều khiển.</Text>
 		</Row>
@@ -1732,9 +1828,6 @@
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
 			<Text>Yêu cầu một hoặc nhiều gói DLC của save không được cài đặt.</Text>
-		</Row>
-		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
-			<Text>Yêu cầu một hoặc nhiều gói mở rộng của save không được cài đặt.</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_NAME_SELECT_TITLE">
 			<Text>Team Name</Text>

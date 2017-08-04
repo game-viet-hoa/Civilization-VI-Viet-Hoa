@@ -38,13 +38,22 @@
 			<Text>[SIZE_16]Tuyên bố thánh chiến[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh giải phóng[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố bạn bè)[NEWLINE]</Text>
+			<Text>[SIZE_16]Tuyên bố chiến tranh giải phóng[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Không bị phạt nếu chiếm thành phố bạn bè)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh chống xâm lược[NEWLINE][SIZE_12](Không bị phạt nếu chiếm thành phố của bạn)[NEWLINE]</Text>
+			<Text>[SIZE_16]Tuyên bố chiến tranh chống xâm lược[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Không bị phạt nếu chiếm lại thành phố của bạn)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
-			<Text>[SIZE_16]Tuyên bố chiến tranh bảo kê[NEWLINE][SIZE_12](Không bị phạt nếu phòng thủ thành phố tự trị đồng minh)[NEWLINE]</Text>
+			<Text>[SIZE_16]Tuyên bố chiến tranh bảo kê[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Không bị phạt nếu phòng thủ thành phố tự trị đồng minh)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
 			<Text>[SIZE_16]Tuyên bố chiến tranh thuộc địa[NEWLINE][SIZE_12]</Text>
@@ -117,7 +126,34 @@
 		</Row>
 		<!-- Action Failure Reasons -->
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
-			<Text>Không thể tuyên chiến: một số thành viên trong đội của bạn là bạn hoặc đồng mình của một thành viên trong đội này.</Text>
+			<Text>Không thể {1_WarActionType}[NEWLINE]Một số thành viên trong đội của bạn là bạn hoặc đồng mình của một thành viên trong đội này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Không lăng mạ người chơi này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi lăng mạ (có sẵn trong {3_Remaining} lượt nữa).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Có một Hiệp ước Phòng Thủ với lãnh đạo này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>Không thể {1_WarActionType}[NEWLINE][COLOR_RED]Không thỏa mãn các điều điện cho Biện Minh Chiến Tranh này.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi làm hòa (có sẵn trong {3_Remaining} lượt nữa).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ đến lượt thứ {2_TurnNumber} để tuyên bố chiến tranh với một nền văn minh chính trong Game này.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>Không thể {1_ActionType}[NEWLINE]Cần {2_GoldRequirement} [ICON_Gold] Vàng.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi tuyên bố chiến tranh (có sẵn trong {3_Remaining} lượt nữa).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Chiến tranh bất tận trong Game này.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
