@@ -360,7 +360,7 @@
 			<Text>Ô đất gần thành phố của bạn nhất sẽ thuộc lãnh thổ.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_TINY">
-			<Text>Nhận {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Nhận {Amount : number #} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
 			<Text>Tăng [ICON_TradeRoute] Tuyến đường thương mại thêm 1. [ICON_TradeRoute] Tuyến đường thương mại nước ngoài tới thành phố này +2 [ICON_Gold] Vàng cho cả 2 thành phố.</Text>
@@ -381,7 +381,7 @@
 			<Text>Tăng [ICON_TradeRoute] Tuyến đường thương mại thêm {Amount}.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_SMALL">
-			<Text>Nhận {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Nhận {Amount : number #} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
 			<Text>Nhận {Amount} [ICON_Envoy] {Amount : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
@@ -414,7 +414,7 @@
 			<Text>Nhận {Amount} [ICON_RESOURCE_JEANS] Quần Jean, một tài nguyên quý được sản xuất duy nhất cung cấp +4 [ICON_Amenities] Tiện nghi.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_LARGE">
-			<Text>Nhận {Amount} [ICON_Gold] Vàng.</Text>
+			<Text>Nhận {Amount : number #} [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PERFUME">
 			<Text>Nhận {Amount} [ICON_RESOURCE_PERFUME] Nước hoa, một tài nguyên quý được sản xuất duy nhất cung cấp +6 [ICON_Amenities] Tiện nghi.</Text>

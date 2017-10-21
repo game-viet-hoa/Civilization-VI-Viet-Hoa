@@ -111,7 +111,7 @@
 			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ các ô Rừng nhiệt đới liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_GOLD">
 			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : plural 1?Rừng nhiệt đới; other?Rừng nhiệt đới;} liền kề.</Text>
@@ -150,7 +150,7 @@
 			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Đức Tin từ {1_Num : plural 1?Rừng; other?Rừng;} liền kề.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức Tin từ các ô Rừng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
 			<Text>+{1_num} [ICON_Faith] Đức Tin từ Đặc Khu liền kề.</Text>

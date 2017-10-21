@@ -278,7 +278,7 @@
 			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ chống lại đơn vị đánh xa, có thể nhìn xuyên qua tính chất địa hình, và có thể di chuyển qua Rừng và Rừng nhiệt đới mà không bị phạt [ICON_Movement] Di chuyển.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Sức mạnh khi có Tông đồ, Thẩm giáo hoặc nhà truyền giáo đứng cùng một ô. Nếu đơn vị này chiếm thành phố hoặc liền kề thành phố bị chiếm thì sẽ tự động cải giáos.</Text>
+			<Text>+10 [ICON_Strength] Sức mạnh khi có các đơn vị tôn giáo đứng cùng một ô. Nếu đơn vị này chiếm thành phố hoặc liền kề thành phố bị chiếm thì sẽ tự động cải giáos.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Sức mạnh khi trên cùng lục địa với [ICON_Capital] Thủ Đô. +10 điểm Đại Tướng Quân cho việc giết kẻ địch.</Text>
@@ -414,7 +414,7 @@
 			<Text>+{1_Amount} Sức mạnh khi phòng thủ đánh xa</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Sức mạnh khi có Tông đồ, Nhà truyền giáo hoặc Thẩm giáo đứng cùng một ô</Text>
+			<Text>+{1_Amount} Sức mạnh khi có các đơn vị tôn giáo đứng cùng một ô</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} Sức mạnh khi trên cùng lục địa chứa Thủ Đô</Text>

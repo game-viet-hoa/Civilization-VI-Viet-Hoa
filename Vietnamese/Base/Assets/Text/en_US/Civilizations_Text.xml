@@ -64,6 +64,9 @@
 		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
 			<Text>Thành phố tự trị Amsterdam</Text>
 		</Row>
+		<Row Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+			<Text>Thành phố tự trị Bandar Brunei</Text>
+		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
 			<Text>Thành phố tự trị Brussels</Text>
 		</Row>
@@ -199,6 +202,10 @@
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
 			<Text>Amsterdamer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+			<Text>Bandar Bruneian</Text>
+			<Gender>Masculine:an</Gender>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
 			<Text>Brussels</Text>

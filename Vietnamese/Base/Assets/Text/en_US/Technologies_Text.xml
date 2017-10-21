@@ -39,7 +39,10 @@
 			<Text>Tăng [ICON_Culture] Văn minh cho công trình Vạn lý trường thành liền kề. Nhận được một Gián điệp miễn phí nếu chơi Catherine de Medici.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Vàng từ công trình Thuyền đánh cá. Tất cả tàu hải quân và đơn vị lên tàu có thể đi lại tự do trên biển. +1 [ICON_Movement] Di chuyển cho đơn vị lên tàu.</Text>
+			<Text>+2 [ICON_Gold] Vàng từ công trình Thuyền đánh cá. Tất cả tàu hải quân và đơn vị lên tàu có thể đi lại tự do trên biển. +1 [ICON_Movement] Di chuyển cho đơn vị lên tàu. +1 [ICON_Movement] Di chuyển cho đơn vị đã lên tàu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển cho đơn vị đã lên tàu.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BANKING_DESCRIPTION">
 			<Text>+2 [ICON_Gold] Vàng từ công trình Mỏ đá.</Text>

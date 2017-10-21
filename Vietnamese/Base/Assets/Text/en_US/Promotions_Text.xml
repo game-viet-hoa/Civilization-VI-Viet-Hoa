@@ -322,6 +322,28 @@
 		<Row Tag="LOC_PROMOTION_CHAPLAIN_NAME">
 			<Text>Giáo Sĩ</Text>
 		</Row>
+		<!--Warrior Monk-->
+		<Row Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
+			<Text>Shadow Strike</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
+			<Text>Twilight Veil</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
+			<Text>Exploding Palms</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
+			<Text>Disciples</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
+			<Text>Sweeping Wind</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
+			<Text>Dancing Crane</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
+			<Text>Cobra Strike</Text>
+		</Row>
 		<!--Spy-->
 		<Row Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
 			<Text>Kỹ Sư Công Nghệ</Text>
@@ -359,6 +381,27 @@
 		<!---->
 		<!-- PROMOTION DESCRIPTION TEXT -->
 		<!---->
+		<Row Tag="LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Thắng cấp)</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Chính sách)</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Chính phủ)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Vĩ Nhân)</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Tôn giáo)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Khả năng)</Text>
+		</Row>
+		<Row Tag="LOC_WONDER_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Kỳ quan)</Text>
+		</Row>
 		<!--Recon-->
 		<Row Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
 			<Text>[ICON_Movement] Di chuyển nhanh hơn trong Rừng và Rừng nhiệt đới.</Text>
@@ -672,6 +715,28 @@
 		</Row>
 		<Row Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
 			<Text>Tông Đồ hoạt động như Quân Y, cung cấp thêm chữa lành cho các đơn vị trong vòng 1 ô.</Text>
+		</Row>
+		<!--Warrior Monk-->
+		<Row Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
+			<Text>2x thưởng thọc sườn.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
+			<Text>Chỉ đơn vị địch liền kề mới có thể nhìn thấy.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh chiến đấu trong tất cả các tình huống.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION">
+			<Text>Khi đang phòng thủ một đơn vị địch, lan truyền tôn giáo của họ tới các thành phố liền kề</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION">
+			<Text>Thêm +1 tấn công mỗi lượt nếu cho phép [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Sức mạnh chiến đấu trong tất cả các tình huống.</Text>
 		</Row>
 		<!--Spy-->
 		<Row Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">

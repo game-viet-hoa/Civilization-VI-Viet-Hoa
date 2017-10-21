@@ -605,6 +605,9 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
 			<Text>Thẩm giáo là một khả năng đặc biệt phải được mở khóa bằng Thẩm Tra của Tông đồ. Bạn chỉ cần áp dụng khả năng này một lần duy nhất; một khi bạn đã bắt đầu Thẩm Tra, nó sẽ không bao giờ kết thúc! Sau đó bạn có thể mua Thẩm Giáo ở các thành phố theo tôn giáo của các Tông tồ và đặt ra Thẩm Tra bằng [ICON_Faith] Đức Tin. Thẩm Giáo không giúp truyền bá tôn giáo tốt hơn, thay vì phải loại bỏ các tôn giáo khác trong một thành phố người dùng sở hữu. Họ có thể tham gia chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_5">
+			<Text>Gurus serve as Religious support units, providing healing to the Religious units nearby. When it expends a healing charge, the Guru heals itself and all adjacent units of the same religion.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến tranh Thần học</Text>
 		</Row>
@@ -619,6 +622,9 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_4">
 			<Text>Đơn vị tôn giáo có thể chữa lành bất cứ thiệt hại nào bằng cách đứng gần hoặc ở trong một thánh địa của chính Tôn Giáo đấy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_5">
+			<Text>Religious units are also vulnerable to attack from combat units. Condemn Heretic is an action that combat units may take against them when on the same tile, and works similarly to plundering a Trade Route.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_DIPLO_NAME">
 			<Text>Ngoại Giao</Text>
@@ -1056,7 +1062,7 @@
 			<Text>Giới Thiệu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Tourism] Du lịch là yếu tố cần thiết để giành chiến thắng văn minh. Bạn có thể tạo ra [ICON_Tourism] Du lịch thông qua các Thành tựu vĩ đại, các Kỳ quan, Thánh địa, [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật, các Khu nghỉ dưỡng ven biển và các Công viên quốc gia. Bạn có thể tăng điểm [ICON_Tourism] Du lịch thông qua [ICON_TradeRoute] Tuyến đường thương mại, Tự do đi lại, Vĩ nhân, Chính sách, và chia sẻ (hoặc đối nghịch) về các nền chính phủ.[NEWLINE][NEWLINE]Xây dựng một kỳ quan sẽ có thể là một trong những cách đầu tiên để thu hút được [ICON_Tourism] Du Khách. Mỗi Kỳ Quan cung cấp 2 [ICON_Tourism] Du Khách mỗi lượt, thêm 1 cho mỗi thời đại Kỳ Quan đã trải qua. Vì thế một kỳ quan Xa Xưa như Bãi đá Stonehenge có thể thu hút được 9 [ICON_Tourism] Du Khách vào cuối Game.</Text>
+			<Text>[ICON_Tourism] Du lịch là yếu tố cần thiết để giành chiến thắng văn minh. Bạn có thể tạo ra [ICON_Tourism] Du lịch thông qua các Thành tựu vĩ đại, các Kỳ quan, Thành phố Thánh địa, [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật, các Khu nghỉ dưỡng ven biển và các Công viên quốc gia. Bạn có thể tăng điểm [ICON_Tourism] Du lịch thông qua [ICON_TradeRoute] Tuyến đường thương mại, Tự do đi lại, Vĩ nhân, Chính sách, và chia sẻ (hoặc đối nghịch) về các nền chính phủ.[NEWLINE][NEWLINE]Xây dựng một kỳ quan sẽ có thể là một trong những cách đầu tiên để thu hút được [ICON_Tourism] Du Khách. Mỗi Kỳ Quan cung cấp 2 [ICON_Tourism] Du Khách mỗi lượt, thêm 1 cho mỗi thời đại Kỳ Quan đã trải qua. Vì thế một kỳ quan Xa Xưa như Bãi đá Stonehenge có thể thu hút được 9 [ICON_Tourism] Du Khách vào cuối Game.[NEWLINE][NEWLINE]Tourism is divided into Religious Tourism (from creating a Holy City and from Relics) and Non-Religious Tourism. Some Civics (Enlightenment) and Wonders (Cristo Redentor) specifically affect the impact of your Religious Tourism.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
 			<Text>Thành tựu vĩ đại, Di tích, và Cổ vật</Text>

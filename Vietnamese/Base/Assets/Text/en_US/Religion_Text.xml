@@ -141,6 +141,9 @@
 		<Row Tag="LOC_BELIEF_CATHEDRAL_NAME">
 			<Text>Thánh Đường</Text>
 		</Row>
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+			<Text>Dar-e Mehr</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_GURDWARA_NAME">
 			<Text>Thánh Đường Sikh</Text>
 		</Row>
@@ -153,6 +156,9 @@
 		<Row Tag="LOC_BELIEF_PAGODA_NAME">
 			<Text>Chùa</Text>
 		</Row>
+		<Row Tag="LOC_BELIEF_STUPA_NAME">
+			<Text>Phù đồ</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_SYNAGOGUE_NAME">
 			<Text>Giáo Đường Do Thái</Text>
 		</Row>
@@ -160,6 +166,9 @@
 			<Text>Tu Viện Phật Giáo</Text>
 		</Row>
 		<!--3. FOLLOWER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+			<Text>Đồng Ca</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
 			<Text>Cảm Hứng Từ Thần Thánh</Text>
 		</Row>
@@ -174,6 +183,9 @@
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
 			<Text>Cộng Đồng Tín Ngưỡng</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+			<Text>Chiến Binh Tu Sĩ</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_WORK_ETHIC_NAME">
 			<Text>Việc Luân Lý</Text>
@@ -194,6 +206,9 @@
 		<Row Tag="LOC_BELIEF_PILGRIMAGE_NAME">
 			<Text>Hành Lễ</Text>
 		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+			<Text>Đồng Lòng Tôn Giáo</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_STEWARDSHIP_NAME">
 			<Text>Quản Lý</Text>
 		</Row>
@@ -204,6 +219,9 @@
 			<Text>Thánh Đường Thế Giới</Text>
 		</Row>
 		<!--5. ENHANCER BELIEFS-->
+		<Row Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+			<Text>Khu Mai Táng</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
 			<Text>Người Bảo Vệ Tín Ngưỡng</Text>
 		</Row>
@@ -221,6 +239,9 @@
 		</Row>
 		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
 			<Text>Tu Viện Biệt Lập</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+			<Text>Thuộc Địa Tôn Giáo</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCRIPTURE_NAME">
 			<Text>Lời Kinh Thánh</Text>
@@ -266,7 +287,7 @@
 			<Text>+2 [ICON_Faith] Đức Tin từ Mỏ đá.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Đức Tin từ Mỏ tài nguyên quý và thưởng.</Text>
+			<Text>+2 [ICON_Faith] Đức Tin từ Mỏ tài nguyên quý và thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
 			<Text>+1 [ICON_Production] Sản phẩm từ Mỏ tài nguyên chiến thuật.</Text>
@@ -300,9 +321,18 @@
 		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
 			<Text>Thu hoặc một tài nguyên hoặc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Đức Tin bằng với số sản lượng khác.</Text>
 		</Row>
+		<Row Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+			<Text>+25% [ICON_Production] Sản phẩm đối với đặc khu trong các thành phố không có một đặc khu chuyên biệt.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+			<Text>+1 Đức tin [ICON_Faith] từ các ô với Sức Hấp Dẫn từ Đẹp trở lên.</Text>
+		</Row>
 		<!--2. WORSHIP BELIEFS-->
 		<Row Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
 			<Text>Cho phép xây dựng Thánh đường (+3 [ICON_Faith] Đức Tin, 1 slot nghệ thuật tôn giáo).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+			<Text>Cho phép xây dựng Dar-e Mehrs (+3 [ICON_Faith] Đức tin, thêm +1 [ICON_FAITH] cho mỗi thời đại đã đi qua kể từ khi xây dựng hoặc sửa chữa lần cuối).</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
 			<Text>Cho phép xây dựng Thánh đường Sikh (+3 [ICON_Faith] Đức Tin, +2 [ICON_Food] Thực phẩm).</Text>
@@ -316,6 +346,9 @@
 		<Row Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
 			<Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Đức Tin, +1 [ICON_Housing] Nhà ở).</Text>
 		</Row>
+		<Row Tag="LOC_BELIEF_STUPA_DESCRIPTION">
+			<Text>Cho phép xây dựng Phù Đồ (+3 [ICON_Faith] Đức Tin, +1 [ICON_Amenities] Tiện Nghi).</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
 			<Text>Cho phép xây dựng Giáo đường (+5 [ICON_Faith] Đức Tin).</Text>
 		</Row>
@@ -323,6 +356,9 @@
 			<Text>Cho phép xây dựng Tu viện phật giáo (+3 [ICON_Faith] Đức Tin, +2 [ICON_Science] Khoa học).</Text>
 		</Row>
 		<!--3. FOLLOWER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+			<Text>Miếu và Đền thờ cung cấp [ICON_Culture] Văn minh bằng với sản lượng [ICON_Faith] Đức Tin nội tại.</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
 			<Text>Tất cả kỳ quan thế giới +4 [ICON_Faith] Đức Tin.</Text>
 		</Row>
@@ -338,6 +374,9 @@
 		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Mỗi Miếu và Đền thờ cung cấp +1 [ICON_Housing] Nhà ở.</Text>
 		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+			<Text>Cho phép dùng [ICON_Faith] Đức Tin để đào tạo Chiến Binh Tu Sĩ, đạo quân mặt đất thời trung cổ với cây thăng cấp độc nhất. Chỉ có thể trong Đền thời ở thánh địa.</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
 			<Text>+1% [ICON_Production] Sản phẩm cho mỗi tín đồ.</Text>
 		</Row>
@@ -347,6 +386,9 @@
 		<!--4. FOUNDER BELIEFS-->
 		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
 			<Text>+2 [ICON_Gold] Vàng cho mỗi thành phố theo đạo tôn giáo này.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+			<Text>+1 [ICON_Science] Khoa học cho mỗi 5 tín đồ của tôn giáo này trong các nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
 			<Text>Mỗi Thánh Địa hoặc Khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
@@ -367,6 +409,9 @@
 			<Text>+1 [ICON_Culture] Văn minh cho mỗi 5 tín đồ theo tôn giáo này ở bên trong nền văn minh khác.</Text>
 		</Row>
 		<!--5. ENHANCER BELIEFS-->
+		<Row Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+			<Text>Bom Văn Hóa các ô liền kề khi hoàn thành một thánh địa.</Text>
+		</Row>
 		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
 			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở trong biên giới thành phố thân thiện mà có theo đạo tôn giáo này.</Text>
 		</Row>
@@ -384,6 +429,9 @@
 		</Row>
 		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
 			<Text>Áp lực tôn giáo không bao giờ giảm do thua trong trận chiến thần học.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+			<Text>Các thành phố bắt đầu tôn giáo này tại chỗ nếu được thành lập bởi một người chơi mà có tôn giáo này là tôn giáo của họ.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
 			<Text>Truyền đạo Tôn giáo từ các thành phố lân cận mạnh hơn 25%. Thúc đẩy 50% thúc đẩy công nghệ In ấn.</Text>

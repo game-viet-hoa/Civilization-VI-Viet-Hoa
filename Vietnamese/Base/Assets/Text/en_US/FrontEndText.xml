@@ -52,9 +52,6 @@
 		<Row Tag="LOC_PLAY_MULTIPLAYER">
 			<Text>Chơi nhiều người</Text>
 		</Row>
-		<Row Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_TURN">
-			<Text>[ICON_Exclamation] Chơi nhiều người</Text>
-		</Row>
 		<Row Tag="LOC_LOAD_GAME">
 			<Text>Tải game</Text>
 		</Row>
@@ -198,6 +195,9 @@
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
 			<Text>Tùy chọn</Text>
 		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
+			<Text>Luật:</Text>
+		</Row>
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
 			<Text>Loại bản đồ:</Text>
 		</Row>
@@ -316,24 +316,6 @@
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
 			<Text>Nhiều người chơi thay phiên nhau chơi trên một máy.</Text>
 		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
-			<Text>Game Đám Mây</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN">
-			<Text>[ICON_Exclamation] Game Đám Mây</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
-			<Text>Chơi nhiều người sử dụng đám mây FiraxisLive.  Yêu cầu kết nối tới FiraxisLive.</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT">
-			<Text>It is your turn in one of your cloud games.[NEWLINE][NEWLINE]Play a multiplayer game using FiraxisLive cloud computing technology.  Requires an active connection to FiraxisLive.</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
-			<Text>Máy Chủ</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
-			<Text>Chơi nhiều người bằng một máy chủ chuyên dụng.</Text>
-		</Row>
 		<Row Tag="LOC_MENU_BACK">
 			<Text>Quay lại</Text>
 		</Row>
@@ -450,12 +432,6 @@
 		<Row Tag="LOC_STAGING_ROOM_JOIN_CODE">
 			<Text>Mã tham gia:</Text>
 		</Row>
-		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
-			<Text>GAME MÁY CHỦ</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_LOBBY">
-			<Text>GAME ĐÁM MÂY</Text>
-		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
 			<Text>GAME INTERNET</Text>
 		</Row>
@@ -483,41 +459,7 @@
 		<Row Tag="LOC_MULTIPLAYER_FALSE">
 			<Text>Sai</Text>
 		</Row>
-		<Row Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
-			<Text>Đang chơi</Text>
-		</Row>
-		<Row Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
-			<Text>Đang tải Save</Text>
-		</Row>
-		<Row Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
-			<Text>Lượt của bạn trong Game này.</Text>
-		</Row>
-		<Row Tag="LOC_LOBBY_GAME_NAME_YOUR_TURN">
-			<Text>[ICON_Exclamation] {1_gameName}</Text>
-		</Row>
-		<!-- Cloud Game Screen -->
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
-			<Text>Danh sách</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
-			<Text>Mẫu</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
-			<Text>Host</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
-			<Text>Tham gia</Text>
-		</Row>
-		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
-			<Text>Bắt đầu</Text>
-		</Row>
-		<Row Tag="LOC_LOBBY_MY_GAMES">
-			<Text>Game của tôi</Text>
-		</Row>
-		<Row Tag="LOC_LOBBY_OPEN_GAMES">
-			<Text>Mở Game</Text>
-		</Row>
-    <!-- Options -->
+	<!-- Options -->
     <Row Tag="LOC_CONFIRM_KEY_BINDING">
       <Text>Xác nhận gán phím</Text>
     </Row>
@@ -661,6 +603,9 @@
 		<Row Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
 			<Text>Đang cấu hình nội dung Game...</Text>
 		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
+			<Text>Đang kết nối tới các người chơi...</Text>
+		</Row>
 		<Row Tag="LOC_MP_ROOM_FULL">
 			<Text>Phòng đầy.</Text>
 		</Row>
@@ -722,10 +667,10 @@
 			<Text>Slot mở có thể bị chiếm bởi người chơi đang tham gia.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMANREQ">
-			<Text>Yêu cầu người</Text>
+			<Text>Mở</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMANREQ_TT">
-			<Text>Slot yêu cầu người chơi trước khi game có thể bắt đầu.</Text>
+			<Text>Slot Mở yêu cầu người chơi trước khi game có thể bắt đầu.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_HOST">
 			<Text>[ICON_Host] Host</Text>
@@ -1082,7 +1027,7 @@
 			<Text>Không trùng người lãnh đạo</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
-			<Text>Yêu cầu thêm người</Text>
+			<Text>Chờ thêm người</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Tùy chọn không hợp lệ</Text>
@@ -1641,9 +1586,6 @@
 		</Row>
 		<Row Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
 			<Text>Chơi luôn, tạo game mới hay tiếp tục game.</Text>
-		</Row>
-		<Row Tag="LOC_MAINMENU_MULTIPLAYER_TT">
-			<Text>Chơi nhiều người bằng kết nối tới Internet, LAN...</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT">
 			<Text>It is your turn in one of your cloud games.[NEWLINE][NEWLINE]Internet, network, and hot seat matches can be setup or joined here.</Text>

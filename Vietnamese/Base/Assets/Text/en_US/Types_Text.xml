@@ -132,6 +132,9 @@
 			<Text>Tượng Chúa Kitô Cứu Thế</Text>
       <Gender>Masculine:no_article</Gender>
 		</Row>
+		<Row Tag="LOC_BUILDING_DAR_E_MEHR_NAME">
+			<Text>Dar-e Mehr</Text>
+		</Row>
 		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
 			<Text>Tháp Eiffel</Text>
       <Gender>Masculine:the</Gender>
@@ -302,9 +305,12 @@
 		<Row Tag="LOC_BUILDING_STONEHENGE_NAME">
 			<Text>Bãi đá Stonehenge</Text>
 		</Row>
+		<Row Tag="LOC_BUILDING_STUPA_NAME">
+			<Text>Phù đồ</Text>
+		</Row>
 		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_NAME">
 			<Text>Nhà hát Opera Sydney</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_SYNAGOGUE_NAME">
 			<Text>Giáo đường Do thái</Text>
@@ -552,6 +558,9 @@
 		<!--City-States-->
 		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_NAME">
 			<Text>Amsterdam</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_NAME">
+			<Text>Bandar Brunei</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRUSSELS_NAME">
 			<Text>Brussels</Text>
@@ -2756,6 +2765,9 @@
 		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
 			<Text>Chiến xa hạng nặng</Text>
 		</Row>
+		<Row Tag="LOC_UNIT_GURU_NAME">
+			<Text>Đại Tu Sĩ</Text>
+		</Row>
 		<Row Tag="LOC_UNIT_HELICOPTER_NAME">
 			<Text>Trực thăng</Text>
 		</Row>
@@ -2870,6 +2882,9 @@
 		</Row>
 		<Row Tag="LOC_UNIT_WARRIOR_NAME">
 			<Text>Chiến binh</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARRIOR_MONK_NAME">
+			<Text>Chiến binh tu sĩ</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
 			<Text>Tiễn mã Ai Cập</Text>

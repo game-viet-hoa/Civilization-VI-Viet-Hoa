@@ -499,6 +499,9 @@
 		<Row Tag="LOC_HUD_UNIT_PANEL_SPREADS">
 			<Text>Truyền Đạo</Text>
 		</Row>
+		<Row Tag="LOC_HUD_UNIT_PANEL_HEALS">
+			<Text>Hồi phục</Text>
+		</Row>
 		<Row Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_ACTIONS">
 			<Text>Hành động</Text>
 		</Row>
@@ -837,35 +840,14 @@
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
 			<Text> đang có lượt</Text>
 		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_PLAYBYCLOUD">
-			<Text>Đang tải lượt lên Đám Mây</Text>
-		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
 			<Text>Bắt Đầu Lượt</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_POPUP_WAITING_FOR_CLOUD_UPLOAD">
-			<Text>Đang upload save game. Vui lòng chờ...</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_SAVE_GAME">
 			<Text>Lưu Game</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_PASSWORD">
 			<Text>Mật khẩu</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_POPUP_CANCEL_UPLOAD">
-			<Text>Hủy</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_POPUP_CANCEL_UPLOAD_TOOLTIP">
-			<Text>Dừng xác nhận lượt của bạn. Bạn sẽ mất quá trình chơi của lượt này.</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_UPLOAD_IN_PROGRESS">
-			<Text>Upload đang trong quá trình</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_UPLOAD_FAILED">
-			<Text>Upload thất bại. Thử lại.</Text>
-		</Row>
-		<Row Tag="LOC_PLAYER_CHANGE_UPLOAD_SUCCESS">
-			<Text>Upload thành công. Đang quay về Menu chính.</Text>
 		</Row>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
@@ -946,6 +928,18 @@
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_WEAPON_UNAVAILABLE">
 			<Text>Vũ khí không khả dụng</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_CONVERTS_IN_X_TURNS">
+			<Text>Chuyển đổi trong {1_Turns}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_RELIGIOUS_PRESSURE">
+			<Text>+{1_Pressure}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HOUSING_INSUFFICIENT">
+			<Text>Không đủ Nhà ở</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_AMENITIES_INSUFFICIENT">
+			<Text>Không đủ Tiện nghi</Text>
 		</Row>
 		<!-- ==================== City Panel ==================== -->
 		<Row Tag="LOC_HUD_CITY_OVERVIEW_CITIZENS_TOOLTIP">
@@ -1388,6 +1382,9 @@
 		</Row>
 		<Row Tag="LOC_HUD_CHAT_COLLAPSE_TOOLTIP">
 			<Text>Ẩn khung chat.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_WILL_NOT_COMPLETE">
+			<Text>Sản phẩm mỗi lượt quá thấp để hoàn thành.</Text>
 		</Row>
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Row Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
@@ -2238,7 +2235,7 @@
 			<Text>Thay đổi chính sách</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_FILTER_NONE">
-			<Text>Không</Text>
+			<Text>Tất cả</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_FILTER_MILITARY">
 			<Text>Quân sự</Text>
@@ -2273,6 +2270,9 @@
 		<Row Tag="LOC_GOVT_MY_GOVERNMENT">
 			<Text>Chính phủ của tôi</Text>
 		</Row>
+		<Row Tag="LOC_GOVT_NEED_FAITH">
+			<Text>Ngài cần {1_Faith} [ICON_FaithLarge] Đức tin</Text>
+			</Row>
 		<Row Tag="LOC_GOVT_NEED_GOLD">
 			<Text>Ngài cần {1_Gold} [ICON_GoldLarge] Vàng</Text>
 		</Row>
@@ -2305,6 +2305,9 @@
 		</Row>
 		<Row Tag="LOC_GOVT_SET_POLICIES">
 			<Text>Đặt chính sách</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_UNLOCK_FAITH">
+			<Text>Mở khóa bằng {1_Faith} [ICON_FaithLarge] Đức tin</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_UNLOCK_GOLD">
 			<Text>Mở khóa bằng {1_Gold} [ICON_GoldLarge] Vàng</Text>
@@ -2478,6 +2481,15 @@
 		<Row Tag="LOC_OPERATION_PLANT_REQUIRES_CIVIC">
 			<Text>Yêu cầu hình chính: {1_Civic}</Text>
 		</Row>
+		<Row Tag="LOC_OPERATION_SIMULATE_SPREAD_RELIGION">
+			<Text>[NEWLINE]Sau hành động này, thành phố sẽ có {1_NumFollowers} {1_NumFollowers: plural 1?tín đồ; other?tín đồ;} theo {2_ReligionName}.[NEWLINE]{3_MajorityReligionString}</Text>
+		</Row>
+		<Row Tag="LOC_OPERATION_SIMULATE_SPREAD_RELIGION_MAJORITY">
+			<Text>Tôn giáo chính của thành phố sẽ là: {1_MajorityReligionName}</Text>
+		</Row>
+		<Row Tag="LOC_OPERATION_SIMULATE_SPREAD_RELIGION_NO_MAJORITY">
+			<Text>Không có tôn giáo chính ở đây.</Text>
+		</Row>
 		<Row Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
 			<Text>Di chuyển tới</Text>
 		</Row>
@@ -2504,6 +2516,9 @@
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_REBASE_DESCRIPTION">
 			<Text>Đặt lại Base</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_RELIGIOUS_HEAL_DESCRIPTION">
+			<Text>Hồi phục đơn vị tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_REMOVE_FEATURE_DESCRIPTION">
 			<Text>Loại bỏ tính chất ô đất</Text>
@@ -2615,6 +2630,9 @@
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CANNOT_HEAL_IN_ENEMY_TERRITORY">
 			<Text>{LOC_UNITOPERATION_CANNOT_HEAL_OUTSIDE_FRIENDLY_TERRITORY}</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_RESOURCE_REQUIRED">
+			<Text>Cần {1_Resource} tài nguyên để sửa</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATION_CANNOT_DESIGNATE_PARK">
 			<Text>Phải là một Công Viên Quốc Gia hợp lệ.</Text>
@@ -2756,6 +2774,18 @@
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_PLUNDER_TRADE_ROUTE_BLOCKED_BY_IMMUNITY">
 			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại trong ô đất này có khả năng ngăn ngừa cướp bóc.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_DESCRIPTION">
+			<Text>Lên Án Dị Giáo</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_REQUIRES_WAR_DECLARATION">
+			<Text>Một đơn vị tôn giáo trong ô này thuộc về người chơi mà bạn không gây chiến.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_STARTED_THIS_RELIGION">
+			<Text>Một đơn vị tôn giáo trong ô này trung thành với tôn giáo bạn đã sáng lập.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_FOLLOWING_THIS_RELIGION">
+			<Text>Một đơn vị tôn giáo trong ô này trung thành với tôn giáo chính của các thành phố của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_NAME_UNIT_DESCRIPTION">
 			<Text>Đổi tên đơn vị</Text>
@@ -3550,6 +3580,9 @@
 		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_INQUISITOR_TT">
 			<Text>Nền tôn giáo này chúng ta cần dành ra một Tông Đồ đề Thẩm Tra tôn giáo trước khi mua các Thẩm Giáo. Cần phải có một Đền Thờ trong thành phố để mua được họ.</Text>
 		</Row>
+		<Row Tag="LOC_UI_RELIGION_HOW_TO_MAKE_GURU_TT">
+			<Text>Phải có Đền thờ trong Thánh Địa để mua Đại Tu Sĩ.</Text>
+		</Row>
 		<Row Tag="LOC_UI_RELIGION_APOSTLE_TT">
 			<Text>Tông Đồ có thể cải giáo [ICON_Citizen] Dân Cư sang Tôn Giáo của họ và bắt đầu chiến tranh thần thánh với đơn vị của tôn giáo khác.</Text>
 		</Row>
@@ -3558,6 +3591,9 @@
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_INQUISITOR_TT">
 			<Text>Thẩm Giáo có thể loại bỏ sự hiện diện của tôn giáo khác trong lãnh thổ của mình, và có thể bắt đầu chiến tranh thần thánh với đơn vị thuộc tôn giáo khác.</Text>
+		</Row>
+		<Row Tag="LOC_UI_RELIGION_GURU_TT">
+			<Text>Đại Tu Sĩ có thể hồi phục bản thân hoặc các đơn vị tôn giáo thân thiện liền kề. Không thể bắt đầu chiến tranh tôn giáo (nhưng có thể phòng thủ).</Text>
 		</Row>
 		<Row Tag="LOC_UI_RELIGION_UNKNOWN_CITY">
 			<Text>Thành phố lạ</Text>
@@ -4159,6 +4195,9 @@
 		<Row Tag="LOC_CITY_STATES_TURNS_WAR_NO_PEACE">
 			<Text>Hiện tại trong chiến tranh.[NEWLINE](Không thể cầu hòa.)</Text>
 		</Row>
+		<Row Tag="LOC_CITY_STATES_SUZERAIN_WAR_NO_PEACE">
+			<Text>Hiện tại đang gây chiến với chủ của thành phố tự trị.[NEWLINE](Không thể cầu hòa.)</Text>
+		</Row>
 		<Row Tag="LOC_CITY_STATES_TURNS_WAR">
 			<Text>Hiện tại đang chiến tranh.[NEWLINE](Hòa bình có thể trong {1_Turns} lượt.)</Text>
 		</Row>
@@ -4617,6 +4656,9 @@
 		</Row>
 		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
 			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} tổng</Text>
+		</Row>
+		<Row Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
+			<Text>{1_PressureAmount} {2_PressureIconString} áp lực tôn giáo cho {3_ReligionName} từ tôn giáo chính trong {4_CityName}.</Text>
 		</Row>
 		<!-- ==================== DeclareWarPopup ==================== -->
 		<Row Tag="LOC_DECLARE_WAR_HEADER">
@@ -5246,6 +5288,9 @@
 		<Row Tag="LOC_CITY_YIELD_FROM_DISTRICT_PRODUCTION_BONUS">
 			<Text>{Value : number +#.#;-#.#} đối với các Đặc Khu</Text>
 		</Row>
+		<Row Tag="LOC_CITY_GET_DISTRICT_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% đối với các Đặc Khu</Text>
+		</Row>
 		<Row Tag="LOC_CITY_YIELD_FROM_GREATWORKS_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} từ các Thành Tựu Vĩ Đại</Text>
 		</Row>
@@ -5404,7 +5449,7 @@
 			<Text>{1_TourismInfo}Thành Phố Thấn Thánh của {2_ReligionName} cung cấp +{3_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Du khách được thêm bởi Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Du khách được thêm bởi Tường hoặc Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Du khách từ Thành Tựu Vĩ Đại trong {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>

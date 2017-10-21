@@ -423,8 +423,11 @@
 		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Tuyến đường thương mại nước ngoài +1 [ICON_Gold] Vàng cho mỗi tài nguyên quý tại đích đến.</Text>
 		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
+			<Text>Thưởng cho chủ Bandar Brunei</Text>
+		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
-			<Text>Thưởng cho chủ</Text>
+			<Text>Thưởng cho chủ Brussels</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
 			<Text>Các thành phố nhận +15% [ICON_Production] Sản phẩm đối với kỳ quan.</Text>
@@ -463,7 +466,7 @@
 			<Text>Thưởng cho chủ Jakarta</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
-			<Text>[ICON_TradingPost] Tuyến đường thương mại của bạn ở thành phố nước ngoài cung cấp +1 [ICON_Gold] Vàng cho các [ICON_TradeRoute] Tuyến đường thương mại đi qua nó.</Text>
+			<Text>[ICON_TradingPost] Tuyến đường thương mại của bạn ở thành phố nước ngoài cung cấp +1 [ICON_Gold] Vàng cho các [ICON_TradeRoute] Tuyến đường thương mại đi qua nó hoặc tới đó.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
 			<Text>Thưởng cho chủ Jerusalem</Text>

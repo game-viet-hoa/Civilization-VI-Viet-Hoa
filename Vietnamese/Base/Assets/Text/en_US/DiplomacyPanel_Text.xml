@@ -40,9 +40,9 @@
 		<Row Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
 			<Text>Để [COLOR_Civ6Red]hạ thấp[ENDCOLOR] mối quan hệ:[NEWLINE]</Text>
 		</Row>
-    <Row Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
-      <Text>Hiệp định:</Text>
-    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+			<Text>Hiệp định:</Text>
+		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
 			<Text>Chương trình nghị sự:</Text>
 		</Row>
@@ -152,6 +152,9 @@
 	<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
       <Text>Xem tất cả tin tức kiếm được cũng như kết quả của mức độ truy cập của bạn.</Text>
     </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
+      <Text>Tổng quan</Text>
+	</Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
       <Text>Các thông tin quan trọng được phân làm nhiều mức độ. Cần phải có khả năng truy cập để có thể lấy được tin tức.</Text>
     </Row>
@@ -163,6 +166,39 @@
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
       <Text>Chính phủ hiện hành của nền văn minh này.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
+      <Text>Tin tức</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
+      <Text>Mức độ truy cập</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOVERNMENT">
+      <Text>Chính phủ</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGENDAS">
+      <Text>Chương trình nghị sự</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGREEMENTS">
+      <Text>Hiệp định</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_OUR_RELATIONSHIP">
+      <Text>Mối quan hệ của ta</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_OTHER_RELATIONSHIPS">
+      <Text>Mối quan hệ</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_OVERVIEW">
+      <Text>Báo cáo : Tổng quan</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_GOSSIP">
+      <Text>Báo cáo : Tin tức</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_ACCESS_LEVEL">
+      <Text>Báo cáo : Mức độ truy cập</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
+      <Text>Báo cáo : Mối quan hệ</Text>
     </Row>
   </BaseGameText>
 </GameData>

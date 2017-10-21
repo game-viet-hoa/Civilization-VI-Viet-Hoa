@@ -54,6 +54,9 @@
 		<Row Tag="LOC_PROMOTION_CLASS_SPY_NAME">
 			<Text>Gián điệp</Text>
 		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MONK_NAME">
+		<Text>Chiến binh tu sĩ</Text>
+		</Row>
 		<!-- Formation Class Names -->
 		<Row Tag="LOC_FORMATION_CLASS_AIR_NAME">
 			<Text>Không quân</Text>
@@ -124,6 +127,12 @@
 		</Row>
 		<Row Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
 			<Text>Có thể loại bỏ tôn giáo khác bên trong lãnh thổ họ, và chiến đấu thần học với đơn vị có tôn giáo khác.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GURU_DESCRIPTION">
+			<Text>Có thể sử dụng số lần phí để trị thương bản thân hoặc tất cả đơn vị tôn giáo thân thiện. Không thể bắt đầu chiến tranh tôn giáo với đơn vị tôn giáo khác (nhưng có thể phòng thủ).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
+			<Text>Đơn vị chiến đấu di chuyển nhanh trên đất trung cổ với cây thăng cấp độc nhất.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
 			<Text>Tìm và khai quật [ICON_GreatWork_Artifact] Cổ vật từ [ICON_RESOURCE_ANTIQUITY_SITE] Khu di tích cổ để trưng bày trong Bảo tàng.</Text>
@@ -368,7 +377,7 @@
 			<Text>Đơn vị Trung cổ đặc biệt của Trung Hoa. Tầm đánh 1 [ICON_Range] và sức mạnh cao.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một Nhà truyền giáo, Thẩm Giáo, hoặc Tông Đồ khi đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt tôn giáo của Kẻ chinh phục thành tôn giáo chiếm ưu thế.</Text>
+			<Text>Đợn vị thời phục hưng thay thế Lính Hỏa Mai của Tây Ban Nha. +10 [ICON_Strength] Sức mạnh khi có một đơn vị tôn giáo đứng cùng một ô. Khi đơn vị này chiếm được thành phố hoặc ở gần một thành phố đã bị chiếm, thành phố sẽ tự áp đặt tôn giáo của Kẻ chinh phục thành tôn giáo chiếm ưu thế.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
 			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>

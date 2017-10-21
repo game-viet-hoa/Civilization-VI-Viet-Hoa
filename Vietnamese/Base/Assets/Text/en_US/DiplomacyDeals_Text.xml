@@ -332,5 +332,14 @@
 		<Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
 		  <Text>Chặn thỏa thuận</Text>
 		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
+			<Text>How about this?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
+			<Text>I'm not willing to trade that</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
+			<Text>I have nothing I'm willing to trade for that</Text>
+		</Row>
 	</BaseGameText>
 </GameData>
