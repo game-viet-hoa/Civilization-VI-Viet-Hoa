@@ -1,0 +1,54 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+			<Text>Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+			<Text>Vùng Hạ Dưới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+			<Text>'+3 [ICON_Housing] Nhà Ở cho các thành phố ven biển. Bãi Chăn kích hoạt một Bom Văn Hóa. Sản lượng từ Khu Tri Thức, Khu Thương Mại, Thánh Địa và Khu Nghệ Thuật là +1 khi nằm trong ô đất có Sức Hấp Dẫn Đẹp, +3 trong Ngây Ngất.</Text>
+		</Replace>
+		<!-- Improvement Info-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Nông Trại Ngoại Thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+			<Text>Thợ xây mở khóa khả năng xây dựng Nông Trại Ngoại Thành, công trình đặc biệt của Úc.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Thực Phẩm và +1 [ICON_PRODUCTION] Sản Phẩm. +1 [ICON_Food] Thực Phẩm cho mỗi Bãi Chăn. Cộng thêm [ICON_FOOD] Thực Phẩm và [ICON_PRODUCTION] Sản Phẩm khi nghiên cứu Công Nghệ và Hành Chính cho Nông Trại Ngoại Thành và Bãi Chăn liền kề nhau. Chỉ có thể xây trên Sa Mạc, Sa mạc (Đồi), Đồng cỏ và Đồng bằng.</Text>
+		</Replace>
+		<!-- Leader Info-->
+		<Replace Language='en_US' Tag="LOC_LEADER_JOHN_CURTIN_NAME">
+			<Text>John Curtin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
+			<Text>Thủ tướng Curtin, ngài hãy lãnh đạo nước Úc vượt qua những khó khăn thử thách, và tất cả mọi người dân của ngài sẽ trở lại một cách mạnh mẽ hơn trước kia. Những người chơi khác sẽ mưu cầu tình hữu nghị vì sức mạnh của ngài. Nếu những người chơi khác chứng minh lòng trung thành, ngài hãy dùng sức mạnh của mình để bảo vệ họ. Nhưng hãy thận trọng, gây hấn không phải là cách cư xử phù hợp với ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
+			<Text>Thành lũy của nền văn minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
+			<Text>+100% [ICON_Production] Sản Phẩm nếu như họ nhận được tuyên bố chiến tranh trong 10 gần đây hoặc nếu họ giải phóng cho một thành phố trong 20 gần đây.</Text>
+		</Replace>
+		<!-- Unit Info-->
+		<Replace Language='en_US' Tag="LOC_UNIT_DIGGER_NAME">
+			<Text>Lính Digger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+			<Text>Đơn vị lính thời hiện đại của Úc thay thế Bộ Binh. +10 [ICON_Strength] Sức mạnh khi chiến đấu trên ô đất bờ biển. +5 [ICON_Strength] Sức mạnh khi chiến đấu trên lãnh thổ trung lập hoặc lãnh thổ nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_DIGGER_NAME">
+			<Text>Lính Digger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trên ô đất bờ biển. +5 [ICON_Strength] Sức mạnh khi chiến đấu trên lãnh thổ trung lập hoặc nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh trên ô đất bờ biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi bên ngoài lãnh thổ thân thiện</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

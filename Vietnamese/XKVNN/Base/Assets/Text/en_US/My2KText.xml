@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K">
+			<Text>my2K</Text>
+		</Replace>		
+		
+		<!-- String needed for MY2K but not (yet) provided by the server system... -->
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
+			<Text>Đăng ký my2K</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
+		  <Text>Để đăng ký my2K, làm ơn nhập địa chỉ email hợp lệ vào ô bên dưới. Một Email xác thực sẽ được gửi đến địa chỉ này để hoàn tất việc xác nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
+			<Text>Đăng xuất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
+			<Text>Bạn có muốn đăng xuất?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_YES">
+			<Text>Có</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_NO">
+			<Text>Không</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
+		  <Text>Đăng nhập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_OK">
+		  <Text>OK</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
+		  <Text>Hủy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_READ">
+		  <Text>Đọc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
+		  <Text>Tạo Người Dùng Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
+		  <Text>Đăng Ký</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
+		  <Text>Vấn đề kết nối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
+		  <Text>Một kết nối tới Civilization VI không được thiết lập. Các tính năng của Civilization VI sẽ không thể sử dụng được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MOTD">
+		  <Text>Truyền đến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
+			<Text>Chào mừng trở lại!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
+			<Text>Đã đăng nhập.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
+			<Text>Thông báo đăng nhập im lặng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
+			<Text>Bạn cần đăng nhập thủ công vào m2K.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
+			<Text>Kết nối được khôi phục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
+			<Text>Liên kết tới tài khoàn đang tồn tại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
+			<Text>Tài khoản gốc đã được liên kết tới tài khoản My2K.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
+			<Text>Không thể liên kết tài khoản gốc tới tài khoản My2K.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
+			<Text>Hủy liên kết tài khoản</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
+      <Text>Liên kết tài khoản</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
+			<Text>Bạn có chắc muốn hủy liên kết my2k? Bạn có thể quản lý tài khoản hoặc xem xét các chính sách riêng tư và phát luật tại www.2k.com.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
+      <Text>Offline</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
+      <Text>Đã liên kết - Online</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
+      <Text>Đã liên kết - Offline</Text>
+    </Replace>
+
+  </LocalizedText>
+</GameData>

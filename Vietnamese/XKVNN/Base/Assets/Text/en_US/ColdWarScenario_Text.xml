@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+		<!-- Victories -->
+		<Replace Language='en_US' Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
+			<Text>Chiến tranh Xúi Giục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
+			<Text>Chiếm 3 thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
+			<Text>Đây là chiến thuật của tôi trong Chiến Tranh Lạnh: Ta thắng họ thua. -  Ronald Reagan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
+			<Text>Chúa tể của trận Armageddon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
+			<Text>Nếu bất kỳ thành phố trung tâm nào bị phá hủy bởi vũ khí hạt nhân, phá hủy nhiều thành phố trung tâm nhất trước khi đến lượt giới hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
+			<Text>Cách duy nhất để chiến thắng là dừng chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
+			<Text>Trùm xe Tăng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
+			<Text>Nếu không có thành phố thủ đô bị phá hủy bởi vũ khí hạt nhân, có số lượng xe tăng nhiều nhất vào lượt giới hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
+			<Text>Bạn có nhiều xe tăng nhất vào cuối trò chơi! Bạn đã chiến thắng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_RULESET_TITLE">
+			<Text>Chiến tranh Nhiệt hạch Toàn cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_RULESET_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
+			<Text>Cuộc Chiến tranh lạnh diễn ra căng thẳng trong kịch bản dựa trên chiến đấu được thiết lập vào Thời Đại Nguyên Tử. Kéo dài 50 lượt.[NEWLINE]Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chúa tể trận Armageddon: Nếu bất kỳ thành phố trung tâm nào bị phá hủy bởi vũ khí hạt nhân, hãy phá hủy số lượng thành phố nhiều nhất trước lượt giới hạn.[Icon_Bullet]Trùm xe Tăng: Nếu không có thành phố thủ đô bị phá hủy bởi vũ khí hạt nhân, có số lượng xe tăng nhiều nhất vào lượt giới hạn.[NEWLINE][NEWLINE][ICON_Bullet]Chiến tranh Xúi Giục: Chiếm 3 thành phố tự trị.[NEWLINE]Thay đổi cách chơi[NEWLINE][ICON_Bullet]Các đơn vị và thiết bị hạt nhân có chi phí xây dựng và duy trì rẻ hơn. Không yêu cầu tài nguyên chiến thuật.[NEWLINE][ICON_Bullet]Mở rộng phạm vi cho Tấn công vũ khí hủy diệt hàng loạt và Bomber.[NEWLINE][ICON_Bullet]Thợ xây xây được nhiều hơn để phát triển nhanh hơn.[NEWLINE][ICON_Bullet]Không có làng bộ lạc.[NEWLINE][ICON_Bullet]Không có quân Man Di.[NEWLINE][ICON_Bullet]Chiến tranh dai dẳng cũng bị vô hiệu hóa.</Text>
+		</Replace>
+		
+		<!-- Mod Package Text -->
+		<Replace Language='en_US' Tag="LOC_COLDWAR_MOD_TITLE">
+			<Text>Kịch bản nhiều người chơi: Chiến tranh Nhiệt hạch Toàn cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_MOD_TEASER">
+			<Text>Cuộc Chiến tranh lạnh diễn ra căng thẳng trong kịch bản dựa trên chiến đấu được thiết lập vào Thời Đại Nguyên Tử. Kéo dài 50 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COLDWAR_MOD_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
+			<Text>Cuộc Chiến tranh lạnh diễn ra căng thẳng trong kịch bản dựa trên chiến đấu được thiết lập vào Thời Đại Nguyên Tử. Kéo dài 50 lượt.[NEWLINE]Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chúa tể trận Armageddon: Nếu bất kỳ thành phố trung tâm nào bị phá hủy bởi vũ khí hạt nhân, hãy phá hủy số lượng thành phố nhiều nhất trước lượt giới hạn.[Icon_Bullet]Trùm xe Tăng - Nếu không có thành phố thủ đô bị phá hủy bởi vũ khí hạt nhân, có số lượng xe tăng nhiều nhất vào lượt giới hạn.[NEWLINE][NEWLINE][ICON_Bullet]Chiến tranh Xúi Giục - Chiếm 3 thành phố tự trị.[NEWLINE]Thay đổi cách chơi[NEWLINE][ICON_Bullet]Các đơn vị và vũ khí hạt nhân có chi phí xây dựng và duy trì rẻ hơn; không yêu cầu tài nguyên chiến thuật.[NEWLINE][ICON_Bullet]Thợ Xây có nhiều lượng tích lũy hơn để phát triển nhanh hơn.[NEWLINE][ICON_Bullet]Không có làng bộ lạc.[NEWLINE][ICON_Bullet]Không có quân Man Di.[NEWLINE][ICON_Bullet]Chiến tranh dai dẳng cũng bị vô hiệu hóa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Giới Hạn Lượt {ElapsedTurns}/{MinGameTurn}{Status ICON}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
+			<Text>Thành phố tự trị chiếm giữ {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
+			<Text>Thành phố trung tâm bị phá hủy bằng vũ khí hạt nhân {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Thành phố trung tâm bất kỳ bị phá hủy bằng vũ khí hạt nhân {NukeWarStatusIcon}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
+			<Text>Số xe Tăng bị phá hủy bằng vũ khí hạt nhân {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Không có thành phố trung tâm bị phá hủy bằng vũ khí hạt nhân {NoNukeWarStatusIcon}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

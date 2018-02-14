@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- AI accepts from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY">
+			<Text>Ta rất vui khi cho phép ngài xây dựng đại sứ quán tại Thủ Đô.</Text>
+		</Replace>
+		
+		<!-- AI rejects from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY">
+			<Text>Tạm thời ta không quan tâm.</Text>
+		</Replace>
+
+		<!-- AI requests from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY">
+			<Text>Ngài có cho phép xây dựng đại sứ quán ở trong Thủ Đô?</Text>
+		</Replace>
+
+		<!-- Human accepts AI, AI responds -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY">
+			<Text>Một ngày tuyệt vời!</Text>
+		</Replace>
+
+		<!-- Human rejects AI, AI responds -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY">
+			<Text>Thất vọng.</Text>
+		</Replace>
+
+		<!-- Choices -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_EMBASSY_CHOICE_NEGATIVE">
+			<Text>Thủ Đô của ta tạm thời không chấp nhận những cư dân mới tại thời điểm này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_EMBASSY_CHOICE_POSITIVE">
+			<Text>Đại sứ quán của ngài được chào đón trong Thủ Đô của ta.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

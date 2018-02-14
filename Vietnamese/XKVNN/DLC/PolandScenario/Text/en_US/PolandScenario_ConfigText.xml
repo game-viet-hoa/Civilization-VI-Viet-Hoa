@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Scenario Name and Description-->
+		<Replace Language='en_US' Tag="LOC_POLAND_SCENARIO_NAME">
+			<Text>Di sản của Jadwiga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLAND_SCENARIO_TOOLTIP">
+			<Text>Người nào bảo vệ Ba Lan phục hưng khỏi quân xâm lược giỏi nhất? Trong vòng 60 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLAND_SCENARIO_DESCRIPTION">
+			<Text>Trong vòng 60 lượt kịch bản, đứng giữa trung tâm của châu Âu, bạn phải bảo vệ quê hương Ba Lan màu mỡ khỏi quân xâm lược liên tục từ nhiều hướng. Tập hợp Kỵ binh Winged Hussars của bạn đối mặt với Hiệp sĩ Teuton và đế quốc Kỳ Ottoman Thổ Nhĩ Kỳ cũng như phát triển nền văn minh.[NEWLINE][NEWLINE]Người chơi nào với đế chế có điểm số cao nhất vào cuối Game sẽ chiến thắng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_POLAND_SCENARIO">
+			<Text>Bạn có một liên hợp quốc, liên minh với Vương Quốc Ba Lan và Đại Công quốc Litva trở thành một thể thống nhất. Bạn là ngọn hải đăng sáng rực giữa châu Âu hỗn loạn, là vị vua được dân bầu lên, khoan dung tôn giáo, là một tầng lớp quý tộc hiểu biết pháp lý cặn kẽ. Tuy nhiên, ánh sáng này thu hút những sự chú ý không mong muốn. Liệu bạn có thể duy trì liên hợp quốc làm việc chăm chỉ để đối mặc với thế lực quân xâm lược?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME">
+			<Text>Đông Âu</Text>
+		</Replace>
+		<!-- Civilization Names -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME">
+			<Text>Quý tộc Litva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME">
+			<Text>Quý tộc Ba Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME">
+			<Text>Quý tộc Volhynian</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_CIVILIZATION_RADZIWILL_NAME">
+      <Text>Quý tộc Litva</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CIVILIZATION_POTOCKI_NAME">
+      <Text>Quý tộc Ba Lan</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CIVILIZATION_OSTROGSKI_NAME">
+      <Text>Quý tộc Volhynian</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME">
+			<Text>Tự do vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION">
+			<Text>Đánh bom văn hóa các ô liền kề khi hoàn thành Khu quân sự hoặc Pháo đài trong lãnh thổ thân thiện. Một ô chính sách quân sự trong chính phủ hiện tại được chuyển thành ô chính sách bất ngờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME">
+			<Text>Tự do vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION">
+			<Text>Đánh bom văn hóa các ô liền kề khi hoàn thành Khu quân sự hoặc Pháo đài trong lãnh thổ thân thiện. Một ô chính sách quân sự trong chính phủ hiện tại được chuyển thành ô chính sách bất ngờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME">
+			<Text>Tự do vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION">
+			<Text>Đánh bom văn hóa các ô liền kề khi hoàn thành Khu quân sự hoặc Pháo đài trong lãnh thổ thân thiện. Một ô chính sách quân sự trong chính phủ hiện tại được chuyển thành ô chính sách bất ngờ.</Text>
+		</Replace>
+		<!-- Leaders -->
+		<Replace Language='en_US' Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME">
+			<Text>Mikołaj Radziwiłł</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME">
+			<Text>Stanisław Potocki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME">
+			<Text>Konstanty Ostrogski</Text>
+		</Replace>
+    		<!-- Leaders -->
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME">
+			<Text>Mikołaj Radziwiłł</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME">
+			<Text>Stanisław Potocki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME">
+			<Text>Konstanty Ostrogski</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME">
+			<Text>Lâu đài Nesvizh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION">
+			<Text>Nhận thêm kĩ sư quân đội thứ hai mỗi khi đào tạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION">
+			<Text>Nhận thêm thợ xây hoặc kĩ sư quân đội thứ hai mỗi khi đào tạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME">
+			<Text>Thuyền trưởng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION">
+			<Text>Nhận thêm Hiệp sĩ hoặc Kỵ binh Winged Hussar thứ hai mỗi khi đào tạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME">
+			<Text>Chỉ huy chiến trường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION">
+			<Text>Nhận thêm Lính dùng thương thứ hai mỗi khi đào tạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION">
+			<Text>Nhận thêm Lính dùng thương thứ hai mỗi khi đào tạo. Có Lính Cossack là đơn bị đặc biệt thứ hai.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

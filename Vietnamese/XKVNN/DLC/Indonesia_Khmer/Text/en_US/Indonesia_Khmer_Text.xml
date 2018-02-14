@@ -1,0 +1,675 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civs [Majors] -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KHMER_ADJECTIVE">
+			<Text>Khơ-me</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INDONESIA_ADJECTIVE">
+			<Text>Người Indonesia</Text>
+			<Gender>Nam giới:an</Gender>
+		</Replace>
+		<!-- Leader Agendas-->
+		<Replace Language='en_US' Tag="LOC_AGENDA_END_TO_SUFFERING_NAME">
+			<Text>Kết thúc nỗi đau khổ của người đàn ông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_END_TO_SUFFERING_DESCRIPTION">
+			<Text>Thích những nền văn minh với các Khu Tôn giáo và với một thành phố có mức trung bình [ICON_Citizen] Dân cư cao. Không thích những nền văn mình thiếu một trong hai điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_ARCHIPELAGIC_STATE_NAME">
+			<Text>Nhà nước Archipelagic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_ARCHIPELAGIC_STATE_DESCRIPTION">
+			<Text>Thích các nền văn minh tránh định cư hoặc xâm chiếm các thành phố trên những vùng đất nhỏ. Ghét bất kỳ ai có nhiều thành phố trên các hòn đảo như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ARCHIPELAGIC_STATE">
+			<Text>Muốn kiểm soát tất cả các hòn đảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_END_TO_SUFFERING">
+			<Text>Thích những nền văn minh với các Khu Tôn giáo và các thành phố đông dân cư</Text>
+		</Replace>
+		<!-- Citizen Names [Indonesia]-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_1">
+			<Text>Adityawarman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_2">
+			<Text>Airlangga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_3">
+			<Text>Anusapati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_4">
+			<Text>Jayakatwang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_5">
+			<Text>Jayapangus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_6">
+			<Text>Kertanegara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_7">
+			<Text>Nambi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_8">
+			<Text>Prapanca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_9">
+			<Text>Samaragrawira</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MALE_10">
+			<Text>Wijaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_1">
+			<Text>Gayatri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_2">
+			<Text>Kidul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_3">
+			<Text>Kusumawardhani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_4">
+			<Text>Mahendradatta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_5">
+			<Text>Melati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_6">
+			<Text>Pitaloka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_7">
+			<Text>Rajapatni</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_8">
+			<Text>Sinta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_9">
+			<Text>Suhita</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_FEMALE_10">
+			<Text>Susilawati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_1">
+			<Text>Adhy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_2">
+			<Text>Arief</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_3">
+			<Text>Bayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_4">
+			<Text>BIntang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_5">
+			<Text>Hanifah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_6">
+			<Text>Lingga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_7">
+			<Text>Raden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_8">
+			<Text>Rafian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_9">
+			<Text>Randika</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_10">
+			<Text>Zulfikri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_1">
+			<Text>Anisah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_2">
+			<Text>Ayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_3">
+			<Text>Citra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_4">
+			<Text>Dewi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_5">
+			<Text>Hanifah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_6">
+			<Text>Megawati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_7">
+			<Text>Puti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_8">
+			<Text>Sukarna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_9">
+			<Text>Vidia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_10">
+			<Text>Yuvashi</Text>
+		</Replace>
+		<!-- Citizen Names [Khmer]-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_1">
+			<Text>Balarama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_2">
+			<Text>Boran</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_3">
+			<Text>Damkhat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_4">
+			<Text>Indravarman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_5">
+			<Text>Laksmana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_6">
+			<Text>Nimol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_7">
+			<Text>Rama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_8">
+			<Text>Suryavarman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_9">
+			<Text>Thomma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MALE_10">
+			<Text>Yasovarman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_1">
+			<Text>Bormey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_2">
+			<Text>Indradevi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_3">
+			<Text>Jayarajadevi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_4">
+			<Text>Lakshmi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_5">
+			<Text>Parvati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_6">
+			<Text>Romchang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_7">
+			<Text>Sorpheny</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_8">
+			<Text>Suryavana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_9">
+			<Text>Tevoda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_FEMALE_10">
+			<Text>Viralakshmi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_1">
+			<Text>Chakra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_2">
+			<Text>Chhay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_3">
+			<Text>Heng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_4">
+			<Text>Kiri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_5">
+			<Text>Maly</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_6">
+			<Text>Nimol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_7">
+			<Text>Phala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_8">
+			<Text>Rathanak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_9">
+			<Text>Serey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_MALE_10">
+			<Text>Sophal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_1">
+			<Text>Bopha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_2">
+			<Text>Chantha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_3">
+			<Text>Dara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_4">
+			<Text>Jorani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_5">
+			<Text>Leakena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_6">
+			<Text>Phhoung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_7">
+			<Text>Poeu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_8">
+			<Text>Rachana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_9">
+			<Text>Sophon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_10">
+			<Text>Thyda</Text>
+		</Replace>
+		<!-- City Names [Indonesia] -->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAJAPAHIT">
+			<Text>Majapahit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TUBAN">
+			<Text>Tuban</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PALEMBANG">
+			<Text>Palembang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JAMBI">
+			<Text>Jambi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TERNATE">
+			<Text>Ternate</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BADUNG">
+			<Text>Badung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MATARAM">
+			<Text>Mataram</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SURABAYA">
+			<Text>Surabaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BANJARMASIN">
+			<Text>Banjarmasin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BIMA">
+			<Text>Bima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAKASSAR">
+			<Text>Makassar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAMPUNG">
+			<Text>Lampung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BARUS">
+			<Text>Barus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BANTEN">
+			<Text>Banten</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GELGEL">
+			<Text>Gelgel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BOGOR">
+			<Text>Bogor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PAGARUYUNG">
+			<Text>Pagaruyung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GORONTALO">
+			<Text>Gorontalo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PEKALONGAN">
+			<Text>Pekalongan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SUKADANA">
+			<Text>Sukadana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MALANG">
+			<Text>Malang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAMBRI">
+			<Text>Lambri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SUKABUMI">
+			<Text>Sukabumi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAHURIPAN">
+			<Text>Kahuripan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BENGKULU">
+			<Text>Bengkulu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KEDIRI">
+			<Text>Kediri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TANJUNGPINANG">
+			<Text>Tanjungpinang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAU_BAU">
+			<Text>Bau-Bau</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GRESIK">
+			<Text>Gresik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PONTIANAK">
+			<Text>Pontianak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PANGKALPINANG">
+			<Text>Pangkalpinang </Text>
+		</Replace>
+		<!-- City Names [Khmer] -->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANGKOR_THOM">
+			<Text>Angkor Thom</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANGKOR_WAT">
+			<Text>Angkor Wat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HARIHARALAYA">
+			<Text>Hariharalaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YASODHARAPURA">
+			<Text>Yaśodharapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAHENDRAPARVATA">
+			<Text>Mahendraparvata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VIMAYAPURA">
+			<Text>Vimayapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_INDRAPURA">
+			<Text>Indrapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LINGAPURA">
+			<Text>Lingapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PREAH_VIHEAR">
+			<Text>Preah Vihear</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BHAVAPURA">
+			<Text>Bhavapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOMPONG_SVAY">
+			<Text>Kompong Svay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAGARA_JAYASRI">
+			<Text>Nagara Jayasri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VYADHAPURA">
+			<Text>Vyadhapura </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHATURMUKHA">
+			<Text>Chaturmukha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DVIRADAPURA">
+			<Text>Dviradapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RAJAVIHARA">
+			<Text>Rajavihara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMARENDRAPURA">
+			<Text>Amarendrapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHANOM_RUNG">
+			<Text>Phanom Rung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ISVARAPURA">
+			<Text>Iśvarapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MUANG_TAM">
+			<Text>Muang Tam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANGKOR_BOREI">
+			<Text>Angkor Borei</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BANTEAY_KDEI">
+			<Text>Banteay Kdei</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHETCHABURI">
+			<Text>Phetchaburi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHAIYA">
+			<Text>Chaiya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ISANAPURA">
+			<Text>Isanapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PRE_RUP">
+			<Text>Pre Rup </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BENG_MELEA">
+			<Text>Beng Melea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAVODAYAPURA">
+			<Text>Lavodayapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHRESTAPURA">
+			<Text>Shrestapura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANINDITAPURA">
+			<Text>Aninditapura</Text>
+		</Replace>
+		<!-- Natural Wonders -->
+		<Replace Language='en_US' Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
+			<Text>Vịnh Hạ Long</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
+			<Text>Hai ô Kỳ quan thiên nhiên có thể được tìm thấy trên địa hình ven biển và cung cấp +3 [ICON_FOOD] Thực phẩm, +1 [ICON_PRODUCTION] Sản xuất, và +1 [ICON_CULTURE] Văn Hoá. +15 [ICON_Strength] Sức chiến đấu khi phòng thủ trong ô này.</Text>
+		</Replace>
+		<!-- Unit Abilities  -->
+		<Replace Language='en_US' Tag="LOC_ABILITY_MARTYR_DESCRIPTION">
+			<Text>Một [ICON_GreatWork_Relic] Thánh tích được tạo ra nếu đơn vị này chết trong Trận chiến Tôn giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_JONG_DESCRIPTION">
+			<Text>+{1_Amount} thưởng khi ở trong một đội hình</Text>
+		</Replace>
+		<!-- World Wonders -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_ANGKOR_WAT_NAME">
+			<Text>Angkor Wat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ANGKOR_WAT_DESCRIPTION">
+			<Text>+1 [ICON_Citizen] Dân số cho tất cả các Thành phố khi xây dựng. +1 [ICON_Housing] Nhà ở cho tất cả các thành phố.[NEWLINE][NEWLINE]Phải được xây dựng liền kề với Khu thủy lợi.</Text>
+		</Replace>
+		<!-- New adjacency bonuses-->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_NUSANTARA_FAITH">
+			<Text>+{1_num} [ICON_Faith] Đức tin cho (các) dải Bờ biển liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_NUSANTARA_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Khoa học cho (các) dải Bờ biển liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_NUSANTARA_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Sản xuất cho (các) dải Bờ biển liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_NUSANTARA_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Văn hoá cho (các) dải Bờ biển liền kề.</Text>
+		</Replace>
+		<!-- Indonesia Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Một sự trùng hợp may mắn—ta đã định hỏi như vậy. Tốt! Vấn đề đã được giải quyết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Tôi sẽ không nghi ngờ khi gọi bạn là "Bạn". Cho đến khi tôi biết động cơ thực sự của bạn, chúng ta phải giữ nguyên vị trí cũ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Người dân của tôi rất vui mừng chào đón bạn. Nếu bạn cảm thấy giống như Indonesia, chúng ta hãy tuyên bố với thế giới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Tốt, tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Bạn có đang cố xúc phạm ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Đúng không? Ngươi không biết sự trả thù của ta như một cơn gió mùa? Ngươi sẽ biết sớm thôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Trước khi chiến tranh kết thúc, ngươi sẽ biết sự giận dữ của hàng ngàn chiếc thuyền.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Phái đoàn của bạn không làm xấu hổ chính họ. Điều này nói lên người dân của bạn như thế nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Không phải bây giờ. Một cơn thủy triều dữ là điềm xấu bên trong—tốt nhất người dân của ta không nên kết giao với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Phái đoàn của chúng tôi mang đến những cái bánh ngọt oncom. Bánh oncom đỏ cần có nước sốt gừng, nhưng bánh đen là ngon nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Ngươi gọi đó là một sự xúc phạm? Một cố gắng thảm hại từ một kẻ bám dai như đỉa!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Ngươi giống như những thứ kinh tởm bám đầy xung quanh những con tàu. Khi ngươi hiện diện, tốt nhất ta nên lái thuyền xa khỏi ngươi. (Tố cáo Bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_GITARJA_ANY">
+			<Text>Ta là Gitarja, nữ hoàng và là người bảo vệ Indonesia. Những kẻ nghĩ chúng tôi yếu ớt sẽ chôn thân ở đáy đại dương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GITARJA_ANY">
+			<Text>Thành phố của chúng tôi khá gần. Hãy đến, bạn nên ghé thăm! Hãy đi qua nhà chài kampung.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GITARJA_ANY">
+			<Text>Ta đã biết bạn đã có nó trong bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GITARJA_ANY">
+			<Text>Thủ đô của bạn ở đâu? Tôi sẽ chia sẻ vị trí của chúng tôi, tất nhiên rồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_GITARJA_ANY">
+			<Text>Ta thấy bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GITARJA_ANY">
+			<Text>Bạn nên tránh xa các bờ biển nhỏ. Sự tôn trọng đó được ghi nhận—và được xem trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GITARJA_ANY">
+			<Text>Bạn không thể bảo vệ hòn đảo lãnh thổ của bạn. Bạn nên giao cho những người có khả năng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Hạm đội của bạn và tôi, cùng nhau sát cánh. Bạn nghĩ gì về điều đó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GITARJA_ANY">
+			<Text>Ta có thể sống với điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GITARJA_ANY">
+			<Text>Lời đề nghị đó thật gây khó chịu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Đủ rồi. Cuộc chiến này không có gì ngoài mục đích khích bác kẻ thù thực sự của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Tất nhiên. Chúng ta không có gì để giấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GITARJA_ANY">
+			<Text>Không. Bạn muốn ngắm nhìn đất nước Indonesia? Làm điều đó từ phía xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Các vùng đất của bạn hấp dẫn với người dân Indonesia. Với biên giới mở, chúng ta có thể khám phá lẫn nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GITARJA_ANY">
+			<Text>Quân đội của bạn sẽ đói khát trước khi tổ chức tiệc thắng trận trên đất Indonesia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Giấc mơ về đại quần đảo Nusantara đã mất đi khi thủy triều đổi hướng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Ta không thích nó, nhưng ta hiểu nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GITARJA_ANY">
+			<Text>Tốt!</Text>
+		</Replace>
+		<!-- Khmer Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Có lẽ … vâng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Ta phải từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Niết Bàn mỉm cười với bạn—cũng như người Khơ-me. Thế giới nên biết về tình hữu nghị của chúng ta. Chúng ta có thể tuyên bố không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Bạn thật sáng suốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Hmm. Ta hiểu rồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Chiến tranh, sau đó? Thật ngu ngốc khi nghĩ rằng vận mệnh ở phía họ. Bạn sẽ đổ lỗi cho ai khi bạn chạy trốn nó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Hành động của bạn tiết lộ mong muốn chiến tranh của bạn. Người Khơ-me sẽ giúp đỡ bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Phái đoàn của bạn đã đến thủ đô của chúng tôi. Người Khơ-me đánh giá cao món quà của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Chúng tôi không thể chấp nhận. Người Khơ-me không cần những món quà từ những vùng đất ngoại bang.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Phái đoàn của chúng tôi mang đến a-ping, món nhện chiên. Tốt nhất nên ăn chân trước khi ăn phần còn lại của tarantula.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Bạn phản đối Niết Bàn bằng những lời lẽ khắc nghiệt. Thật là một cảm giác quen thuộc!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Bạn có biết làm thế nào để sống một cuộc sống siêu phàm—bạn làm thế nào để dạy cho người dân của bạn làm điều ngược lại? (Tố cáo Bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_JAYAVARMAN_ANY">
+			<Text>Ta là Jayavarman VII, và ngườ Khơ-me cho phép ta dẫn dắt họ. Nỗi đau khổ của họ là đau khổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JAYAVARMAN_ANY">
+			<Text>Bạn nên đến thăm thủ đô của chúng tôi. Hãy ngắm nhìn cánh đồng prasat của chúng tôi để hiểu những gì người Khơ-me yêu quý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JAYAVARMAN_ANY">
+			<Text>Rất tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JAYAVARMAN_ANY">
+			<Text>Rất tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_JAYAVARMAN_ANY">
+			<Text>Tại sao bạn làm cho ta lo lắng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JAYAVARMAN_ANY">
+			<Text>Chấm dứt sự đau khổ tinh thần cũng quan trọng như nới lỏng sự đau khổ về thể chất. Bạn hiểu điều này chứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JAYAVARMAN_ANY">
+			<Text>Làm cách nào để người dân của bạn đạt được sự hợp nhất khi không có những thí dụ từ thần linh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Hành động của bạn chứng tỏ mối liên minh giữa chúng ta. Bạn có sát cánh cùng người Khơ-me không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JAYAVARMAN_ANY">
+			<Text>Thật sáng suốt trong việc tạo ra hòa bình. Ta chấp nhận điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JAYAVARMAN_ANY">
+			<Text>Điều này không có lợi cho người dân của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Người dân của hai chúng ta đều chịu đau khổ. Liệu chúng ta có nên chấm dứt cuộc chiến vô nghĩa này?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Đồng ý. Nếu người dân của bạn sống tốt hơn, họ nên trải nghiệm lối sống người Khơ-me.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
+			<Text>Quá nhiều ảnh hưởng độc hại từ bên ngoài tới lối sống người Khơ-me. Ta không thể cho phép điều này. Không phải vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Không có rào cản nào giữa người dân của chúng ta. Bạn có đồng ý không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JAYAVARMAN_ANY">
+			<Text>Bạn diễu hành binh lính của bạn quá gần lãnh thổ Khơ-me. Quá sức gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Khiêm tốn chỉ có được trong bại trận. Ta cầu cho ngươi có được sự khiêm tốn lớn lao nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Ta không thấy sự sáng suốt trong vấn đề này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JAYAVARMAN_ANY">
+			<Text>Phải. Điều đó tốt cho người Khơ-me.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

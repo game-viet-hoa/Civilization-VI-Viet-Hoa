@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--RELIGIONS-->
+		<Replace Language='en_US' Tag="LOC_RELIGION_PANTHEON">
+			<Text>Vị thần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_BUDDHISM">
+			<Text>Đạo Phật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_CATHOLICISM">
+			<Text>Công Giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_CONFUCIANISM">
+			<Text>Đạo Khổng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_HINDUISM">
+			<Text>Đạo Hindu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_ISLAM">
+			<Text>Đạo Hồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_JUDAISM">
+			<Text>Đạo Do Thái</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_ORTHODOXY">
+			<Text>Chính thống giáo Đông Phương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_PROTESTANTISM">
+			<Text>Đạo Tin Lành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_SHINTO">
+			<Text>Đạo Thần Nhật Bản</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_SIKHISM">
+			<Text>Đạo Sikh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_TAOISM">
+			<Text>Đạo Giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_ZOROASTRIANISM">
+			<Text>Hỏa Giáo</Text>
+		</Replace>
+		<!--BELIEF CLASSES-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
+			<Text>Vị thần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
+			<Text>Tín đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
+			<Text>Thờ phụng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+			<Text>Người sáng lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
+			<Text>Người cải thiện</Text>
+		</Replace>
+		<!--MISCELLANEOUS-->
+		<Replace Language='en_US' Tag="LOC_RELIGION_MARTYRED_APOSTLE">
+			<Text>Tử Ðạo</Text>
+		</Replace>
+		<!--PANTHEON NAMES-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
+			<Text>Vũ Điệu Của Bình Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
+			<Text>Sa Mạc Folklore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SACRED_PATH_NAME">
+			<Text>Thánh Đạo</Text>
+		</Replace>
+		<!--Pantheon - Amenity Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
+			<Text>Nữ Thần Sông</Text>
+		</Replace>
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
+			<Text>Đài tưởng niệm Các Vị Thần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
+			<Text>Ánh Chớp Thần Thánh</Text>
+		</Replace>
+		<!--Pantheon - Local Feature Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
+			<Text>Nữ Thần Đầm Lầy</Text>
+		</Replace>
+		<!--Pantheon - Local Resource Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
+			<Text>Hải Thần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
+			<Text>Thần Không Trung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
+			<Text>Nữ Thần Săn Bắn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
+			<Text>Viên Thạch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
+			<Text>Biểu Tượng Tôn Giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
+			<Text>Thần Kỹ Nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
+			<Text>Nữ Thần Lễ Hội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
+			<Text>Truyền Thống Được Truyền Miệng</Text>
+		</Replace>
+		<!--Pantheon - Military -->
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
+			<Text>Thần Rèn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
+			<Text>Thần Chiến Tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_INITIATION_RITES_NAME">
+			<Text>Nghi Thức Truyền Thụ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
+			<Text>Thần Hồi Phục</Text>
+		</Replace>
+		<!--Pantheon - General Purpose-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
+			<Text>Nghi Thức Sản Sinh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
+			<Text>Tín Ngưỡng Thuộc Địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
+			<Text>Nữ Thần Vụ Mùa</Text>
+		</Replace>
+		<!--2. WORSHIP BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CATHEDRAL_NAME">
+			<Text>Thánh Đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+			<Text>Dar-e Mehr</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GURDWARA_NAME">
+			<Text>Thánh Đường Sikh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
+			<Text>Nhà Thờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MOSQUE_NAME">
+			<Text>Nhà Thờ Hồi giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAGODA_NAME">
+			<Text>Chùa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_STUPA_NAME">
+			<Text>Phù đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SYNAGOGUE_NAME">
+			<Text>Giáo Đường Do Thái</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WAT_NAME">
+			<Text>Tu Viện Phật Giáo</Text>
+		</Replace>
+		<!--3. FOLLOWER BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+			<Text>Đồng Ca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
+			<Text>Cảm Hứng Từ Thần Thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
+			<Text>Nuôi Dưỡng Thế Giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
+			<Text>Lời Dạy Từ Tông Đồ Của Chúa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIQUARIES_NAME">
+			<Text>Hòm Thánh Tích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
+			<Text>Cộng Đồng Tín Ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+			<Text>Chiến Binh Tu Sĩ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WORK_ETHIC_NAME">
+			<Text>Việc Luân Lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
+			<Text>Thiền Viện</Text>
+		</Replace>
+		<!--4. FOUNDER BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
+			<Text>Tài Sản Của Thánh Đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
+			<Text>Thánh Chức Không Chuyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
+			<Text>Quyền Lực Của Giáo Hoàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PILGRIMAGE_NAME">
+			<Text>Hành Lễ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+			<Text>Đồng Lòng Tôn Giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_STEWARDSHIP_NAME">
+			<Text>Quản Lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_TITHE_NAME">
+			<Text>Thuế Thập Phân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
+			<Text>Thánh Đường Thế Giới</Text>
+		</Replace>
+		<!--5. ENHANCER BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+			<Text>Khu Mai Táng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
+			<Text>Người Bảo Vệ Tín Ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_HOLY_ORDER_NAME">
+			<Text>Hội Thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
+			<Text>Người Thuyết Giảng Lữ Hành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_JUST_WAR_NAME">
+			<Text>Thập Tự Chinh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
+			<Text>Người Truyền Giáo Nhiệt Huyết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
+			<Text>Tu Viện Biệt Lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+			<Text>Thuộc Địa Tôn Giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCRIPTURE_NAME">
+			<Text>Lời Kinh Thánh</Text>
+		</Replace>
+		<!--PANTHEON DESCRIPTIONS-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
+			<Text>Thánh Địa +1 [ICON_Faith] Đức Tin từ Đài nguyên gần kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
+			<Text>Thánh Địa +1 [ICON_Faith] Đức Tin từ địa hình Sa mạc gần kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
+			<Text>Thánh Địa +1 [ICON_Faith] Đức Tin từ địa hình Rừng nhiệt đới gần kề.</Text>
+		</Replace>
+		<!--Pantheon - Amenity Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi cho các thành phố nếu Thánh Địa gần kề một dòng sông.</Text>
+		</Replace>
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan thời Xa xưa và Cổ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
+			<Text>+1 điểm [ICON_GreatPerson] Vĩ nhân từ Thánh Địa (Nhà tiên tri), khu tri thức (Nhà khoa học), và Khu nghệ thuật (Nhà văn).</Text>
+		</Replace>
+		<!--Pantheon - Local Feature Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ Đầm lầy, Ốc đảo và Vùng lũ.</Text>
+		</Replace>
+		<!--Pantheon - Local Resource Bonuses-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ Thuyến đánh cá.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh từ Bãi Chăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm từ Trại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
+			<Text>+2 [ICON_Faith] Đức Tin từ Mỏ đá.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
+			<Text>+2 [ICON_Faith] Đức Tin từ Mỏ tài nguyên quý và thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm từ Mỏ tài nguyên chiến thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm từ Đồn Điền [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Trầm Hương, [ICON_RESOURCE_COCOA] Ca cao, [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_COFFEE] Cà phê và [ICON_RESOURCE_TEA] Trà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh từ Đồn Điền [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_DYES] Thuốc nhuộm, [ICON_RESOURCE_SILK] Tơ, [ICON_RESOURCE_SPICES] Gia vị và [ICON_RESOURCE_SUGAR] Đường.</Text>
+		</Replace>
+		<!--Pantheon - Military -->
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
+			<Text>+25% [ICON_Production] Sản phẩm đối với đơn vị quân sự thời Xa xưa và Cổ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
+			<Text>+30 chữa trị trong Thánh Địa hoặc bất kỳ ô đất liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
+			<Text>Thưởng [ICON_Faith] Đức Tin bằng 50% sức mạnh kẻ địch bị giết trong vòng 8 ô của Thánh Địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+			<Text>+50 [ICON_Faith] Đức Tin mỗi khi Trại Man Di bị xóa bỏ.</Text>
+		</Replace>
+		<!--Pantheon - General Purpose-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
+			<Text>Tỉ lệ thành phố tăng trưởng cao hơn 10%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
+			<Text>Tỉ lệ mở rộng biên giới cao hơn 15%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
+			<Text>Thu hoặc một tài nguyên hoặc loại bỏ tính chất của ô đó nhận được [ICON_Faith] Đức Tin bằng với số sản lượng khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+			<Text>+25% [ICON_Production] Sản phẩm đối với đặc khu trong các thành phố không có một đặc khu chuyên biệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+			<Text>+1 Đức tin [ICON_Faith] từ các ô với Sức Hấp Dẫn từ Đẹp trở lên.</Text>
+		</Replace>
+		<!--2. WORSHIP BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
+			<Text>Cho phép xây dựng Thánh đường (+3 [ICON_Faith] Đức Tin, 1 slot nghệ thuật tôn giáo).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+			<Text>Cho phép xây dựng Dar-e Mehrs (+3 [ICON_Faith] Đức tin, thêm +1 [ICON_FAITH] cho mỗi thời đại đã đi qua kể từ khi xây dựng hoặc sửa chữa lần cuối).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
+			<Text>Cho phép xây dựng Thánh đường Sikh (+3 [ICON_Faith] Đức Tin, +2 [ICON_Food] Thực phẩm).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
+			<Text>Cho phép xây dựng Nhà thờ (+3 [ICON_Faith] Đức Tin, +2 [ICON_Production] Sản phẩm).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
+			<Text>Cho phép xây dựng Nhà thờ Hồi giáo (+3 [ICON_Faith] Đức Tin). Các Nhà truyền giáo và Tông đồ +1 Truyền Đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+			<Text>Cho phép xây dựng Chùa (+3 [ICON_Faith] Đức Tin, +1 [ICON_Housing] Nhà ở).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_STUPA_DESCRIPTION">
+			<Text>Cho phép xây dựng Phù Đồ (+3 [ICON_Faith] Đức Tin, +1 [ICON_Amenities] Tiện Nghi).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
+			<Text>Cho phép xây dựng Giáo đường (+5 [ICON_Faith] Đức Tin).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WAT_DESCRIPTION">
+			<Text>Cho phép xây dựng Tu viện phật giáo (+3 [ICON_Faith] Đức Tin, +2 [ICON_Science] Khoa học).</Text>
+		</Replace>
+		<!--3. FOLLOWER BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+			<Text>Miếu và Đền thờ cung cấp [ICON_Culture] Văn minh bằng với sản lượng [ICON_Faith] Đức Tin nội tại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
+			<Text>Tất cả kỳ quan thế giới +4 [ICON_Faith] Đức Tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
+			<Text>Miếu và Đền thờ cung cấp [ICON_Food] Thực phẩm cũng như đức tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
+			<Text>Có thể mua Khu tri thức và Khu nghệ thuật bằng [ICON_Faith] Đức Tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Di tích được x3 sản lượng cho cả hai [ICON_Faith] Đức Tin và [ICON_Tourism] Du lịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
+			<Text>Mỗi Miếu và Đền thờ cung cấp +1 [ICON_Housing] Nhà ở.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+			<Text>Cho phép dùng [ICON_Faith] Đức Tin để đào tạo Chiến Binh Tu Sĩ, đạo quân mặt đất thời trung cổ với cây thăng cấp độc nhất. Chỉ có thể trong Đền thời ở thánh địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
+			<Text>+1% [ICON_Production] Sản phẩm cho mỗi tín đồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi trong tất cả thành phố với 2 Đặc Khu.</Text>
+		</Replace>
+		<!--4. FOUNDER BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng cho mỗi thành phố theo đạo tôn giáo này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+			<Text>+1 [ICON_Science] Khoa học cho mỗi 5 tín đồ của tôn giáo này trong các nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
+			<Text>Mỗi Thánh Địa hoặc Khu nghệ thuật trong một thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Faith] Đức Tin hoặc +1 [ICON_Culture] Văn minh tương ứng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Thưởng các loại từ thành phố tự trị theo đạo tôn giáo của bạn hơn 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
+			<Text>+2 [ICON_Faith] Đức Tin cho mỗi thành phố theo đạo tôn giáo này ở trong nền văm minh khác và các thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
+			<Text>Mỗi khu tri thức hoặc Khu thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_TITHE_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng cho mỗi 4 tín đồ theo tôn giáo này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh cho mỗi 5 tín đồ theo tôn giáo này ở bên trong nền văn minh khác.</Text>
+		</Replace>
+		<!--5. ENHANCER BELIEFS-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+			<Text>Bom Văn Hóa các ô liền kề khi hoàn thành một thánh địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở trong biên giới thành phố thân thiện mà có theo đạo tôn giáo này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
+			<Text>Mua Các Nhà truyền giáo và Tông đồ rẻ hơn 30%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
+			<Text>Truyền Đạo Tôn giáo tới các thành phố đi xa hơn 30%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
+			<Text>Đơn vị chiến đấu +10 [ICON_Strength] Sức mạnh khi ở gần thành phố nước ngoài có theo đạo tôn giáo này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
+			<Text>Đơn vị tôn giáo bỏ qua điểm phạt [ICON_Movement] Di chuyển trên các địa hình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
+			<Text>Áp lực tôn giáo không bao giờ giảm do thua trong trận chiến thần học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+			<Text>Các thành phố bắt đầu tôn giáo này tại chỗ nếu được thành lập bởi một người chơi mà có tôn giáo này là tôn giáo của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
+			<Text>Truyền đạo Tôn giáo từ các thành phố lân cận mạnh hơn 25%. Thúc đẩy 50% thúc đẩy công nghệ In ấn.</Text>
+		</Replace>
+		<!--BELIEF COMBAT BONUSES-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>+{1_Value} Phòng thủ của Niềm tin tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
+			<Text>+{1_Value} Chiến dịch Tín ngưỡng</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

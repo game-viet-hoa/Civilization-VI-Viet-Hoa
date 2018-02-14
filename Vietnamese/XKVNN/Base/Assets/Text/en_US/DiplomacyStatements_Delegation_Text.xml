@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		
+		<!-- AI Accepts -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Ta rất vui khi được chào đón phái đoàn của ngài đến với thủ đô của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Phái đoàn giao thương của ngài đã đến thành phố của ta, nơi họ sẽ được chào đón nồng hậu. Và cảm ơn về món quà của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta đã nhận được lễ phẩm của ngài tại cung điện. Xin cảm ơn. Các món quà sẽ được trân trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ta đã nhận được để nghị của ngài về Isis mới. Ta sẽ ghi nhớ lòng tốt của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Đặc sứ của ngài đã đến nơi và đích thân ta đã chào đón họ. Đất nước của ta có thể được hưởng lợi từ chính sách ngoại giao này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ngài thật là tốt bụng, bạn của ta. Các món quà của ngài đã đến cùng với phái đoàn, và ta đã tự mình cảm ơn họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh đã nhận được cống vật và sứ giả từ ngài. Ngài sẽ cho phép họ vào Uruk.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Người Sparta không hứng thú với những món hàng nguyên liệu, nhưng cũng cảm ơn về những món quà mà phái đoàn của ngài mang đến cho ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Phái đoàn của ngài đã đến. Ta đã chào đón họ bằng một bữa tiệc tại sảnh đường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Phái đoàn của ngài đã đến, và ta cảm thấy thật hèn mọn trước sự rộng lượng của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Ta vui mừng chào đón phái đoàn của ngài đến với thủ đô của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Người dân đã vui mừng tiếp nhận phái đoàn và những món quà của ngài. Thật lòng cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Phái đoàn thương mại của ngài đã đến, và ta luôn vui mừng khi tiếp đón du khách nước ngoài, đặc biệt là khi họ mang theo những món quà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ta đã nhận được heret - Ý ta là, phái đoàn thương mại của ngài. Ta sẽ bảo đảm chỉ dẫn họ theo cách của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ta vui mừng chào đón phái đoàn thương mại của ngài. Họ sẽ được thiết đãi với sự tôn kính họ đáng được nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Nghìn lời cảm ơn tới những món quà của ngài. Phái đoàn của ngài sẽ được thiết đãi với sự quan tâm sâu sắc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tôi chào đón phái đoàn của ngài đến với nước Mỹ vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Phái đoàn của ngài đã đến cùng với cống phẩm cho Nữ Hoàng. Điều đó thật sự đáng trân trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Phái đoàn thương mại của ngài đã đến, đã nhìn thấy, và đã chinh phục ta bằng sự tốt bụng của họ. Cảm ơn ngài vì những món quà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Ta đã tiếp nhận phái đoàn thương mại của ngài và ngài có thể yên tâm rằng ta sẽ thiết đãi xứng với chức vị của họ.</Text>
+		</Replace>
+		
+		<!-- AI Rejects -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Chúng tôi xin từ chối phái đoàn của ngài một cách lịch sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ta không thể đồng ý được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Hấp dấn đấy, nhưng không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Một lúc nào khác vậy?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Không, tất nhiên là không rồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Thật đáng tiếc, không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Tôi nghĩ là không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Không phải lần này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Không. Tôi không thể chấp nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Không, cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Chúng tôi xin từ chối phái đoàn của ngài một cách lịch sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Thành Athens từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ta không thể chấp nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ta không thể chấp nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Chúng tôi từ chối đề nghị của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Không, chúng tôi không thể đồng ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Chúng tôi buộc phải từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ta sẽ không chấp nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Một lời để nghị tốt, nhưng ta không thể nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Quốc hội của chúng tôi không tán thành.</Text>
+		</Replace>
+		<!-- AI Requests -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Ngài sẽ tiếp phái đoàn ngoại giao của ta ở Thủ Đô của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Phái đoàn thương mại của ta sẽ đến với món Fufu sớm thôi. Hãy thưởng thức bữa ăn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta đã gửi cho ngài một phái đoàn thương mại với các tặng phầm theo thông lệ: thảo dược, dầu oliu, các loại pho mát, và tất nhiên là cùng với bánh mỳ Pháp ăn kèm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Phái đoàn ngoại giao của ta mang đến cho ngài một món quà mọn, cây chỉ thảo của xứ New Isis. Hãy chào đón họ như cách ngài chào đón ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Ta đã gửi một phái đoàn đến với ngài. Hãy đối xử với họ như cách ngài đối xử với ta, Công Tước xứ Swabia, Vua xứ Burgundy, Vua của nước Đức, Vua của La Mã, Vua của nước Ý, và Hoàng Đế của Đế Quốc La Mã thần thoại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ta đã gửi một phái đoàn thương mại đến ngài với những món quà từ xứ sở của ta: các loại trà, các tấm áo sari, và sitars.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Phái đoàn của vua Gilgamesh mang đến ngài những món quà: châu báu của xứ Sumerian, và những chiếc thất huyền cầm của xứ Ur. Liệu ngài sẽ chấp nhận họ vào thành phố của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Một phái đoàn của người Spartan tôn vinh ngài với những món quà từ dầu ô liu và nước broth đen. Hãy tiếp nhận với sự tôn kính.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ta đã gửi những thương gia mang đến ngài những món quà gồm các loại đá cổ. Chúng rất quyền năng - ý ta là những viên đá, không phải lũ thương gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ta đã gửi đến ngài một phái đoàn mang những món quà là những pho tượng điêu khắc yosogi-zukuri, một trong những tuyệt tác vĩ đại nhất của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Liệu ngài sẽ tiếp nhận phái đoàn ngoại giao của ta vào Thủ Đô của ngài chứ ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Ta đã gửi đến ngài một phát đoàn mang theo những món quà. Đừng cảnh giác, không có gì liên quan đến một con ngựa lớn bằng gỗ đâu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ta đã gửi đến ngài một phái đoàn thương mại mang theo những món quà là món trứng cá muối thượng hạng. Hãy thưởng thức nhé.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Ta đã gửi một phái đoàn đến thành phố của ngài. Xin mời thưởng thức món churros và hãy chào đón họ nhiệt tình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY">
+			<Text>Phái đoàn của ta sẽ sớm đến với những món quà là những loại ớt hảo hạng, trà, và tơ lụa của Trung Hoa. Xin mời thưởng thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Ta đã gửi một phái đoàn mang đến ngài những món quà từ đế quốc. Họ mang loại hoa quả ngọt nhất, tuyết quý hiếm để làm dịu ngài ngay cả trong những ngày oi ả, đồng thời cả những con ngựa xuất chúng nhất. Xin hãy chấp nhận chúng như phép lịch sự của ta. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Thật tốt khi được gặp ngài. Phái đoàn ngoại giao của ta sẽ sớm đến với những loại bánh táo nóng hổi vừa ra lò. Ta tin chắc rằng ngài sẽ mang đến cho họ sư chào đón ấm áp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Ta đã gửi một phái đoàn thương mại mang theo những bao cung cổ gorytos được chạm khắc tinh xảo làm quà cho ngài. Ngài có một cây cung mà, phải không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Ta đã gửi một phái đoàn thương mại đến ngài. Xin hãy thưởng thức Pecorino Romano: loại phô mai làm từ sữa cừu được tẩm muối tốt nhất mà ngài từng thưởng thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Xin chào. Ta đã gửi một sứ đoàn Hoàng Gia thay mặt cho Vương Quốc Anh. Ta mong họ sẽ được tiếp đãi chu đáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE">
+			<Text>Thủ Đô của ta không mở cửa cho du khách vào thời điểm này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE">
+			<Text>Ta rất hoan nghênh phái đoàn của ngài.</Text>
+		</Replace>
+		
+		<!-- Human Accepts -->		
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Tuyệt vời!</Text>
+		</Replace>
+
+		<!-- Human Rejects -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Điều đó thật tệ, có lẽ vào một ngày khác.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY">
+			<Text>Ta không tuân thủ yêu cầu này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY">
+			<Text>Ta sẽ tuân thủ.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY">
+			<Text>Ngài rất khôn ngoan trong việc chấp nhận yêu cầu của ta.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY">
+			<Text>Ta cần phải có những biện pháp hỗ trợ khác!</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

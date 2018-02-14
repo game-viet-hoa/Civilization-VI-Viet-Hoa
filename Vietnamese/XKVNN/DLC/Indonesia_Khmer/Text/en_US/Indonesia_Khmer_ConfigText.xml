@@ -1,0 +1,103 @@
+<GameData>
+	<LocalizedText>
+		<!--Indonesia-->
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_GITARJA">
+			<Text>Daring Gitarja, nữ hoàng Majapahit của một vạn hòn đảo, biển của Indonesia là sức mạnh lớn nhất của bạn. Là Nữ thần Cao quý của tam thế giới, bạn sẽ truyền bá sức ảnh hưởng thần thánh của bạn tới tất cả các vùng biển nơi ánh dương chạm vào. Dựa vào hạm đội trung kiên của bạn, một nữ hoàng táo bạo! Đem đén một cơn bão tố khủng khiếp cho những kẻ dám tạo ra tranh chấp ở vùng biển Indonesia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INDONESIA_NAME">
+			<Text>Indonesia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
+			<Text>Đế chế Indonesia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Nhà chài Kampung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
+			<Text>Mở khoá khả năng của Thợ Xây để xây dựng nhà chài Kampung, công trình đặc biệt của Indonesia.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Sản phẩm và +1 [ICON_Housing] Nhà ở.+1 [ICON_FOOD] Thực phẩm cho mỗi Thuyền đánh cá gần đó. Thêm [ICON_PRODUCTION] Sản phẩm, [ICON_Housing] Nhà ở, và [ICON_TOURISM] Du khách khi thông qua Cây Công nghệ và Cây Hành chính. Phải được xây ở bờ Biển hoặc Hồ liền kệ một nguồn tài nguyên biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_GITARJA_NAME">
+			<Text>Gitarja</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Công trình đặc biệt của Indonesia: Nhà chài Kampung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
+			<Text>Đại Quần Đảo Nusantara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+			<Text>Bờ biển và Hồ cung cấp một khoản thưởng nhỏ cho Thánh Địa, Khu Tri thức, Khu Công nghiệp và Khu Nghệ thuật. +1 [ICON_AMENITIES] Tiện nghi cho mỗi Khu Giải trí nằm liền kề bờ Biển hoặc Hồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Đơn vị đặc biệt của Indonesia: Thuyền Jong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
+			<Text>Nữ thần Cao quý của tam thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
+			<Text>Các đơn vị hải quân này có thể mua được bằng [ICON_FAITH] Đức tin. Các đơn vị tôn giáo này không bị mất điểm di chuyển khi lên hoặc xuống thuyền. +2[ICON_FAITH] Đức Tin cho Thành phố Trung tâm khi nằm liền kề bờ Biển hoặc Hồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Thuyền Jong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
+			<Text>Đơn vị hải quân đặc biệt của Indonesia trong thời Trung Cổ thay thế cho Thuyền Chiến. Các đơn vị này đều có tốc độ [ICON_Movement] Di chuyển nhanh và +5 [ICON_Strength] Sức chiến đấu khi ở trong đội hình.</Text>
+		</Replace>
+		<!--Khmer-->
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN">
+			<Text>Quốc vương Jayavarman thông thái, được người Khơ-me tôn sùng vì sự cống hiến lớn lao cho hạnh phúc của dân chúng. Vua những vùng đất tràn đầy nước ngọt cho phép nuôi sống những người dân đói khát, cũng như đưa bạn đến gần cõi Niết Bàn hơn. Làm đi, hỡi kiến trúc sư siêu việt! Hãy xây dựng một đế chế hoàn hảo—và kẻ thù của bạn nhận được kết cục tồi tệ dưới chân đàn voi chiến hùng mạnh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_PRASAT_NAME">
+			<Text>Chùa Prasat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
+			<Text>Công trình đặc biệt của Khơ-me. Công trình bắt buộc để mua Tông Đồ và Thẩm Giáo bằng [ICON_Faith] Đức Tin. Các Nhà Truyền giáo mua ở nơi này nhận được khả năng Tử Vì đạo giúp tăng [ICON_GreatWork_Relic] Thánh tích nếu Nhà Truyền giáo chết trong khi chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KHMER_NAME">
+			<Text>Khơ-me</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
+			<Text>Đế chế Khơ-me</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_JAYAVARMAN_NAME">
+			<Text>Jayavarman VII</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
+			<Text>Công trình đặc biệt của Khơ-me: Chùa Prasat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
+			<Text>Cánh đồng Barays</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
+			<Text>+3 [ICON_FAITH] Đức tin và +1 [ICON_AMENITIES] Tiện nghi cho mỗi thành phố có Khu thủy lợi. Nông trại cung cấp +2 [ICON_FOOD] Thực phẩm nếu liền kề với Khu thủy lợi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
+			<Text>Đơn vị đặc biệt của Khơ-me: Voi chiến Domrey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME">
+			<Text>Quốc vương những Tu Viện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
+			<Text>Thánh địa cung cấp +2 [ICON_FOOD] Thực phẩm và +1 [ICON_HOUSING] Nhà ở nếu được đặt trên sông. Các Thánh địa góp phần trong việc tấn công văn hóa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_KHMER_DOMREY_NAME">
+			<Text>Voi chiến Domrey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thời Trung Cổ của Khơ-me. Có thể di chuyển và bắn trong cùng một lượt và hạn chế vùng kiểm soát.</Text>
+		</Replace>
+		<!--Map-->
+		<Replace Language='en_US' Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+			<Text>Bắt đầu vị trí chính xác ở Đông Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Các nền văn minh bắt đầu tại vị trí của thủ đô sơ khởi của họ trên bản đồ Châu Á.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+			<Text>Đông Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Một đại diện của Đông Á với các nguồn lực, địa hình, và các đặc điểm phản ánh vị trí lịch sử của họ.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

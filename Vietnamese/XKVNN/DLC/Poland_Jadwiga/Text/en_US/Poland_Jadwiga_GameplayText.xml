@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_POLISH_HUSSAR_NAME">
+			<Text>Đơn vị Ba Lan đặc biệt: Kỵ binh Winged Hussar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION">
+			<Text>Đế chế Ba Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POLAND_ADJECTIVE">
+			<Text>Ba Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_SUKIENNICE_NAME">
+			<Text>Kiến trúc Ba Lan đặc biệt: Trung tâm thương mại Cloth Hall</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SAINT_NAME">
+			<Text>Thiêng liêng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SAINT_DESCRIPTION">
+			<Text>Cố gắng tạo dựng [ICON_Faith] Đức tin, và thích những nền văn minh nào cũng tập trung vào [ICON_Faith] Đức tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUKIENNICE_CHAPTER_HISTORY_PARA_1">
+			<Text>Thanks to its location between Europe and Russia, Poland’s cities were vibrant with trade, as exemplified by the cloth halls (known as sukiennice in Polish) located in the great cities of the realm. It contained trading stalls, where vendors sold cloth, leather goods, wax, salt, peppers, spices, and silk from the Far East, indeed all sorts of exports and imports. Usually built in the center of towns, these were international marketplaces, larger and more magnificent than the run-of-the-mill markets scattered about Europe. In the halls and porticos, traders from dozens of lands made deals, and the locals—those who could afford it—found all the luxuries they could desire. In Poland, the oldest and largest was the Sukiennice of Krakow, rebuilt in the Renaissance style in 1555 AD after a fire. It was an important center for international trade between West and East until the end of the 16th Century (today its stalls sell snacks and souvenirs to tourists). But the cloth hall was also vital in other Polish cities, doing a booming trade in places such as Poznan, Wroclaw, and Torun.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_1">
+			<Text>The most salient feature of Poland’s topography is the extensive plain that stretches from the Baltic Sea in the north to the Carpathian Mountains to the south. Unfortunately for Poland, that plain served as the gateway for invasion—from Europe at the western borders and from Asia to the east. Poland also had the inconvenience to lie between Germany and Russia, who (for more than a millennium) cast covetous eyes on its rich lands and resources. Despite this, Poland managed to hold its own, and was once itself the biggest bully on the block.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_2">
+			<Text>According to semi-legendary accounts, Mieszko ruled the Polanie tribe from the fortified settlement of Gniezno. When marauding Magyars threatened the Wislanie tribe of Krakow, with whom Mieszko had close ties, he united both tribes—and in doing so, founded the Piast Dynasty. Mieszko converted to Christianity after Roman Catholic missionaries from Bohemia preached the spiritual and practical benefits, and was baptized in 966. Despite some debate, even most skeptical scholars now accept this date as the beginning of Poland.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_3">
+			<Text>A series of strong (or strong-arm) successors to Mieszko slowly converted the pagan Poles, established a firm dynastic grip, and dragged reluctant Poland into the broader European culture. Mieszko's son Boleslaw established a purely Polish-Catholic ecclesiastical organization, and his secular authority was recognized by the Germanic Holy Roman Emperor. This led to Boleslaw’s coronation in 1025, making him the first "King of Poland."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4">
+			<Text>Poland soon stretched from the Baltic to the Carpathians, loosely establishing its historical borders by 1100.  However, the death of Boleslaw III in 1138 brought complications to the century-old kingdom. With no tradition of primogeniture, Poland was divided among Boleslaw's several sons. The resulting fragmentation led to continuous internal conflict and external pressures throughout the next few centuries.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_5">
+			<Text>Wladyslaw, a minor duke of Piast lineage, spent his life reunifying the realm and was crowned King Wladyslaw I for his troubles. In defending Poland, Wladyslaw waged crusades against the pagan Lithuanians and Mongols, as well as a war to expel the self-righteous and greedy Teutonic Knights. Wladyslaw was succeeded by his even more able son, who began his reign as Casimir III and ended it as Casimir the Great. He would not only secure his father’s gains through astute diplomacy and brief, victorious warfare, but make Poland a center of culture, learning, and trade. Casimir more than doubled the size of the kingdom, reorganized the nation's economy and legal system, and provided the impetus for the establishment of Poland’s first university. Under Casimir’s liberal rule, Poland became a haven for the dispossessed and persecuted; Germans settled in the cities, Armenian and Slavic refugees in the rural lowlands, and thousands of Jews moved in and flourished. However, having no male heirs, Casimir the Great was the last Piast king, dying in 1370.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_6">
+			<Text>Casimir's designated successor was his nephew Louis I of Hungary (where Louis spent most of his time). His death in 1382 resulted in the recalcitrant Polish nobles crowning his youngest daughter Jadwiga king of Poland. Her marriage to Jogaila, the Grand Duke of Lithuania, also made him a Polish king—after he converted to Catholicism and took the good Polish name Wladyslaw II. The two co-kings ruled until her death in 1399, when it became far less confusing to deliver messages to the (sole) King of Poland.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_7">
+			<Text>Wladyslaw II brought the Poles into the conflict in 1401. They came to the aid of the Lithuanians, who were locked in a vicious war with the Teutonic Knights. At Grunwald in July 1410, after one of the most ferocious battles of the Middle Ages, his combined Lithuanian-Polish force won a victory so overwhelming that the Teutonic Order was virtually annihilated, with most of its leaders killed or captured.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_8">
+			<Text>The Jagiellonian monarchs would spend the following decades at (mostly victorious) war with their covetous neighbors—the resurgent Teutonic Knights, the Duchy of Prussia, the kingdoms of Bohemia and Hungary, the Grand Duchy of Moscow, and, to the south, the Ottoman Turks and the Crimean Tatars. The latter launched no less than 75 separate incursions between 1474 and 1569. They all just never seemed to learn. Overall, Poland’s kings were able to maintain its borders and influence throughout the dynasty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_9">
+			<Text>More significant and enduring than all those victories were the social and scientific advances under the Jagiellonians. In 1505, the Nihil Novi Act transferred most legislative power from the monarch to the Sejm, a parliament composed of the Polish nobility—a stumbling step towards democracy. Protestant Reformation movements, notably that led by John Hus of Bohemia, made inroads into Polish Catholicism and resulted in the establishment of laws promoting religious tolerance. Renaissance ideals evoked an urge to promote Polish arts and culture by the Jagiellonian kings Sigismund I and Sigismund II. And in 1543, an epochal work claiming a heliocentric model of the solar system was published by the Polish astronomer Nicolaus Copernicus.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_10">
+			<Text>Spurred by rampant nationalism, "democratic" precepts, and (a few) concerns about foreign intentions, in June 1569 the Sejm passed an act establishing the Polish-Lithuanian Commonwealth, a unified federal state with an elected monarch—governed primarily by the nobility, through local assemblies and a central parliament. The childless Sigismund II, last of the Jagiellonian dynasty, accepted and signed the act. Although this is credited with instituting a period of stability and prosperity and the spread of Western culture to areas such as the Ukraine and western Russia, the Commonwealth found itself repeatedly embroiled in conflicts with Russia, Sweden, the Ottomans, Cossacks, and other unruly neighbors.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_11">
+			<Text>The toll of these wars—notably Poland-Lithuania’s involvement in the Great Northern War, coupled with a succession of weak elected kings—left the nation desperately in need of internal reform. During the middle years of the 18th Century, the Sejm moved to implement commercial, military, social and educational reforms. This effort included the Commission of National Education in 1773, the first state-sponsored education system in Europe, and taught all those peasants to read the Scriptures for themselves. Shortly thereafter, the Polish peasants began to agitate for more rights, and perhaps even a little taste of democracy themselves.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_12">
+			<Text>By this time, the Bible was no longer the most common Polish reading material. In the previous centuries, under various high-minded monarchs, a distinctly Polish culture evolved and flourished. Polish authors cranked out all sorts of moody literature and poetry, like the works of Krasicki and Jan Polocki. Although Polish culture was profoundly affected by Germanic, Slavic, Latin and Byzantine threads, a distinct character arose in its architecture, art and dance. But where the Poles really excelled was in music, compelling in its timbre and tone, tempo and texture. Later world-famous Polish composers such as Chopin built their reputations, in part, on the great works of Mielczewski, Oginski, and Szymanowska.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_13">
+			<Text>Poland grew wealthy due to its export of agricultural goods. The Commonwealth was by far Europe’s largest producer of grain. As agrarian advances spread, Poland became a major exporter of fruit, spices, herring, fabrics, timber, beer and wine. All this produce was barged along the Vistula, Bug, and Neman rivers to Baltic ports such as Gdansk for shipment on to Flanders and the Netherlands. Overland routes ran deep into the Holy Roman Empire. To keep track of all this wealth, the Sejm had created the zloty as the national currency in 1496. During his reign, Poland's last king King Stanislaw August Poniatowski standardized the zloty in the wake of financial reforms … just in time for the Commonwealth to cease to exist.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_14">
+			<Text>Given that all this public spending on reform had emptied the treasury (and thus a way to pay the military), and that the nobles were understandably hesitant to put their lives and fortunes on the line, Poland’s neighbors weren't dissuaded from intervening. In 1772, the First Partition occurred when Russia, Austria and Prussia occupied portions of the country. Following the short Polish-Russian War, Prussia and Russia executed the Second Partition, which stripped Poland of so much territory as to leave it incapable of supporting itself economically or militarily. In 1795 the Third Partition by Austria, Russia and Prussia ceded the nation’s last holdings to these powers and independent Poland ceased to exist.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_15">
+			<Text>Following the last partition, Poland disappeared from the pages of history … almost. The Grand Duchy of Poland was resurrected by Napoleon as a free client state of the French Empire. Following Bonaparte’s defeat, it was ripped apart again by Prussia, Austria and Russia. After World War I Poland was reconstituted as a free nation, but had to fight a two-year war against the infant Soviet Union to maintain that freedom. Come 1939, it was divvied up between the erstwhile allies Nazi Germany and Soviet Russia. Reborn once again, it was Communist occupied behind the Iron Curtain. But in the 1990s, Poland was one of the first to take advantage of the rusted curtain to throw off Russian rule, becoming a free nation once more. If nothing else, the Polish people are persistent in their pursuit of self-rule.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_TITLE">
+			<Text>Jadwiga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE">
+			<Text>Vua của Ba Lan – và là một vị thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE">
+			<Text>Ai phụng sự Chúa thì đều có những kết quả tốt đẹp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_1">
+			<Text>In late 14th century Poland, there was little expectation for the king's third daughter to do much beyond secure her country's future through a marriage alliance. Yet in her short life, the devout Jadwiga would rule all of Poland. Selfless and canny, she sought to bring disparate peoples together through a common (and comprehensible) faith.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_2">
+			<Text>Jadwiga was born in 1373 to Elizabeth of Bosnia and Louis I, King of Hungary and Poland. Raised at the royal residences in Buda and Visegrad, Jadwiga was well-educated, fluent in five languages, and embarrassingly pious. When Louis's death in 1382 led to a succession crisis, Elizabeth sent young Jadwiga to Krakow to end it. Beloved by the Polish people for her kindness, endorsed by the Catholic church for her faith, and condoned by the stiff-necked Polish nobility for her affability, 11-year-old princess Jadwiga found herself crowned king of Greater Poland in 1384.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_3">
+			<Text>The new Polish king to rule in perilous times. A fistful of Casimir’s more tenuous descendants still had claims to the throne. Worse, Poland was threatened by Germanic states and the rulers of Muscovy, as well as possible invasion by the Mongols and Tartars. To shore up allies and safeguard Poland's future, Jadwiga agreed to marry Jogaila, the Grand Duke of Lithuania—provided he (and his subjects) converted from paganism to Catholicism.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_4">
+			<Text>Thus, in 1386 Jadwiga wed the newly-baptized Jogaila, who promptly took the name Wladyslaw II to make his rule palatable to the patriotic Poles. Wladyslaw was hastily crowned King jure uxoris (Latin for “by right of his wife”), two days before Lithuania was invaded by the Order of Brothers of the German House of Saint Mary in Jerusalem (in simpler terms, the Teutonic Knights). They claimed they sought to regain lands lost to Casimir—but really, any land would do.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_5">
+			<Text>The young king was instrumental in turning Lithuania from its pagan ways. She had a number of meetings with “Princes of the Church” concerning conversion and instructing the Lithuanians in their new faith. Wladyslaw was instrumental in this as well; it is said that he even cut down trees in the “sacred” groves of his homeland with his own hands. Jadwiga sponsored an annual scholarship for twenty Lithuanians to study at Prague’s Charles University so they could return to strengthen the faith in their homeland. And she founded a bishopric in Vilnius, that hotbed of sin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_6">
+			<Text>Jadwiga and Wladyslaw made a surprisingly effective team of co-rulers. During Jadwiga's diplomatic mission to meet the Master of the Teutonic Knights, her piety was said to so shame him for his order's greed and bloodthirstiness that they temporarily ceased their depredations. She also reconciled Wladyslaw with his cousin Witold, who sought to take the Lithuanian throne. In 1387 AD, Jadwiga led two military expeditions to reclaim lands in Ruthenia that had been claimed by Hungary. Although not much fighting occurred, Jadwiga’s efforts ended with the province’s return to Poland and Petru I of Moldavia paying homage to the Polish monarchs.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_7">
+			<Text>Being somewhat more polished than most of her subjects, Jadwiga also sought to enlighten them to the finer things. Jadwiga was a patron to many Polish artists and authors. Among her most notable contributions to the culture of Poland was the restoration of the Krakow Academy. She donated much of her personal jewelry to finance the school, which enrolled students in astronomy, law, and theology. Jadwiga also advocated for a wider comprehension of faith, and had the Bible translated from Latin into Polish vernacular.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_8">
+			<Text>Jadwiga's reign ended early. In 1399 she gave birth to her firstborn, a daughter—but within a month both mother and child were dead of complications from the delivery. Though Jadwiga lived only 25 years, she had been king for over half her life. By solidifying ties with Lithuania, she secured the future of both nations. Her co-ruler Wladyslaw managed to rule over Poland and Lithuania for another 35 year.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_CAPSULE_BODY">
+			<Text>Jadwiga’s Poland is a flexible power that has strengths in both the military and religious arenas. Don’t settle too close to her cities for she can steal frontier tiles from you through her Fort or Encampment Culture Bomb.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY">
+			<Text>Poland is a multi-faceted civilization that possesses strong military capabilities that can be repurposed for other means.  One of their Military Policy slots is converted to a Wildcard slot, allowing them to recruit a Great Prophet earlier than other civs and establish a Religion. In addition creation of Forts and Encampments allow them to gain free tiles through their Culture Bomb ability.  And with Jadwiga in charge, cities that lose tiles to Jadwiga also convert to her Religion. So even when Jadwiga plays militarily, perhaps choosing governments with Military slots and fortifying her frontier, Poland should still be very strong on the religious and economic fronts.  </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9">
+			<Text>Jadwiga was barely in her sarcophagus in Wawel Cathedral before her subjects began to venerate her holiness. Stories of Jadwiga's sanctity spread across the land, as well as miracles attributed to her. In one, the figure of Christ on a black crucifix spoke to her as she prayed. In another, she gave a piece of jewelry to a poor stonemason; when she left, her footprint remained behind in the hardened plaster floor. In yet another, a coppersmith’s son drowned while Jadwiga was part of a nearby Corpus Christi procession—she was said to restore his life by throwing her mantle over the boy. These three reported miracles were enough for the Catholic Church to canonize her as a saint in 1997.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_POLISH_HUSSAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Polish military reforms of the late 1570s gave birth to the winged hussars, a fearsome heavy cavalry force who would enjoy their elite status for the next two centuries. Rather than fielding cavalry comprised of foreign mercenaries, Transylvanian prince Stephen Bathory (also Grand Duke of Lithuania, King-by-right-of-his-wife of Poland, and collector of increasingly impressive titles) filled the ranks of the winged hussars with Polish nobility and their retinues. The famed "wings" were wooden frames with feathers attached, borne on a rider's back to clearly distinguish them. It was said the distinctive sound of the wings startled enemy horses and demoralized enemy soldiers with an "evil hiss"—by novelists of later centuries, who likely romanticized a ceremonial accessory. Far less contentious a question are the lances, sabers, and pistols the winged hussars brought to the battlefield, which no doubt startled enemy horses and demoralized enemy soldiers.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_POLAND_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_POLAND_SIZE">
+			<Text>Ước tính 120 dặm vuông (312.6 nghìn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_POLAND_POPULATION">
+			<Text>38.5 triệu (2016 ước tính).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_POLAND_CAPITAL">
+			<Text>Khác nhau (Plock, Poznan, Krakow, Warsaw)</Text>
+		</Replace>
+		<!--Poland-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KRAKOW">
+			<Text>Kraków</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WARSAW">
+			<Text>Warsaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WROCLAW">
+			<Text>Wroclaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POZNAN">
+			<Text>Poznan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GDANSK">
+			<Text>Gdansk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BYDGOSZCZ">
+			<Text>Bydgoszcz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUBLIN">
+			<Text>Lublin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADOM">
+			<Text>Radom</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LODZ">
+			<Text>Lódz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GNIEZNO">
+			<Text>Gniezno</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PLOCK">
+			<Text>Plock</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TARNOW">
+			<Text>Tarnów</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KALISZ">
+			<Text>Kalisz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LEGNICA">
+			<Text>Legnica</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SZCZECIN">
+			<Text>Szczecin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SACZ">
+			<Text>Sacz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PIOTRKOW_TRYBUNALSKI">
+			<Text>Piotrków Trybunalski</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KATOWICE">
+			<Text>Katowice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_INOWROCLAW">
+			<Text>Inowroclaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GLOGOW">
+			<Text>Glogów</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CZESTOCHOWA">
+			<Text>Czestochowa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZAMOSC">
+			<Text>Zamosc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RACIBORZ">
+			<Text>Racibórz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SWIDNICA">
+			<Text>Swidnica</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADOMSKO">
+			<Text>Radomsko</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KONIN">
+			<Text>Konin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SLUPSK">
+			<Text>Slupsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WALBRZYCH">
+			<Text>Walbrzych</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STALOWA_WOLA">
+			<Text>Stalowa Wola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LWOW">
+			<Text>Lwów</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_1">
+			<Text>Alojzy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_2">
+			<Text>Blazej</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_3">
+			<Text>Czeslaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_4">
+			<Text>Dobrogost</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_5">
+			<Text>Grzegorz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_6">
+			<Text>Janusz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_7">
+			<Text>Jaroslaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_8">
+			<Text>Lech</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_9">
+			<Text>Slawomir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MALE_10">
+			<Text>Zbigniew</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_1">
+			<Text>Adelajda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_2">
+			<Text>Aldona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_3">
+			<Text>Berta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_4">
+			<Text>Franciszka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_5">
+			<Text>Jagoda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_6">
+			<Text>Katarzyna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_7">
+			<Text>Milena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_8">
+			<Text>Patka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_9">
+			<Text>Radomila</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_FEMALE_10">
+			<Text>Waleria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_1">
+			<Text>Bartosz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_2">
+			<Text>Cyryl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_3">
+			<Text>Feodor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_4">
+			<Text>Flawiusz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_5">
+			<Text>Janiusz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_6">
+			<Text>Kacper</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_7">
+			<Text>Maclej</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_8">
+			<Text>Syzmon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_9">
+			<Text>Tadeusz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_MALE_10">
+			<Text>Wilus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_1">
+			<Text>Angelika</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_2">
+			<Text>Brygida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_3">
+			<Text>Danika</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_4">
+			<Text>Ewa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_5">
+			<Text>Kaja</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_6">
+			<Text>Lucja</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_7">
+			<Text>Magdalena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_8">
+			<Text>Pola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_9">
+			<Text>Wiktoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_10">
+			<Text>Zofia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_JADWIGA">
+			<Text>Jadwiga ngoan đạo, ca tụng vinh quang của Chúa, trái đất, và Ba Lan! Giống như các vị Vua, bạn sẽ cho thần dân biết đến chân lý và ánh sáng, đồng thời truyền bá nó tới cho những người khác biết. Được bảo vệ bởi những chiến binh có đôi cánh tuyệt vời, bạn phải phát triển để đối mặt với bất kỳ thử thách cùng với một sự sùng đạo bậc nhất chưa từng ai đạt được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Dĩ nhiên chúng ta sẽ chấp nhận tình hữu nghị này. Ngày là tấm gương sáng tốt đẹp của thế giới này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Ta khiêm nhường từ chối tình hữu nghị này của ngài. Đây không phải là ý muốn của Chúa tại thời điểm này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Quốc gia ngài như là một người chị em với ta. Hãy để ta chính thức tuyên bố tình bạn này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Tuyệt lắm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Ta sẽ bỏ qua sự sỉ nhục này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Rồi, ngươi đã bộc lộ bản chất thật của mình: một mãng xà đang nằm trên cỏ... dễ dàng bị chà đạp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Ta phải bảo vệ lợi ích của Ba Lan. Đầu hàng nhanh chóng để kết thúc không phải đổ máu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Ta đã gặp phái đoàn thương mại của ngài cùng với những món quá tuyệt vời. Họ sẽ được đại ngộ như những khách mời danh dự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Ta lịch sự từ chối phái đoàn của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Ta gửi một phái đoàn thương mại cùng món quà trứng phục sinh. Họ linh thiêng và hơn cả những nhà ngoại giao truyền thống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Ta là đầy tớ trung thành và hèn mọn của Chúa. Lương tâm của ta trong sạch. Ta không có gì để che dấu cả.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Ác quỷ không thể ẩn nấp lâu dài. Chúa luôn mang nó ra ánh sáng. (Lăng mạ bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_JADWIGA_ANY">
+			<Text>Một cuộc gặp được chúc phúc bởi Chúa, ta chắc chắn. Ta là Jadwiga - Vua của Ba Lan hùng mạnh. Vâng, là một vị vua.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JADWIGA_ANY">
+			<Text>Ta khiêm nhường trịnh trọng mời ngài trở thành khách tới dự lễ hội ở thành phố gần đây. Chúng ta có thể cùng thưởng thức những điệu nhảy dân dã ở đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JADWIGA_ANY">
+			<Text>Vâng, ta chấp nhận đề nghị này của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JADWIGA_ANY">
+			<Text>Cho ta biết về thủ đô của ngài. Dĩ nhiên ta cũng sẽ cho ngài biết về Ba Lan, nếu như ngài muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_JADWIGA_ANY">
+			<Text>Vui qué ^^</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JADWIGA_ANY">
+			<Text>Ta thấy ngài tím thấy lối đi của Chúa, và ngài cũng chia sẻ nó cho cả thế giới. Tuyệt lắm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_ANY">
+			<Text>(Bạn tạo được nhiều [ICON_Faith] Đức tin)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JADWIGA_ANY">
+			<Text>Mỗi ngày, ta cầu nguyện cho linh hồn của ngài, để mà ngài tìm thấy được lối đi của Chúa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_JADWIGA_REASON_ANY">
+			<Text>(Bạn tạo được ít Đức tin.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Ngài có muốn trở thành đồng minh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JADWIGA_ANY">
+			<Text>Ta không bao giờ muốn cuộc chiến này. Chỉ muốn hòa bình giữa hai ta mà thôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JADWIGA_ANY">
+			<Text>Dẹp đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Ta thấy ước nguyện của Chúa, ngài ấy muốn chấm dứt cuộc đổ máu này. Còn ý ngươi thì sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Ta hoan nghênh người của ngài tới Ba Lan. Hãy thưởng thức chuyến đi ở đất nước tươi đẹp này của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY">
+			<Text>Biên giới là thiêng liêng, và được nâng đỡ bởi Chúa. Ta không cho phép.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Dân ta cần đi qua lãnh thổ của ngài. Nếu ngài cho phép, họ sẽ tuân thủ theo luật lệ của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JADWIGA_ANY">
+			<Text>Quân đội của ngài đã bị để ý. Làm ơn rời khỏi tầm mắt của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Không, ta chưa sẵn sàng rời bỏ Chúa. Ta chỉ mới bắt đầu công việc tốt đẹp của ngài ấy thôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Đó là rắc rối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY">
+			<Text>Xin đa tạ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SAINT_HIGH_FAITH">
+			<Text>Jadwiga hài vòng vì bạn tạo được nhiều Đức tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SAINT_LOW_FAITH">
+			<Text>Jadwiga thất vọng vì bạn không tạo được nhiều Đức tin</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

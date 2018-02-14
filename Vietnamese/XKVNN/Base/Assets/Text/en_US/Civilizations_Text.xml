@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Empire Names-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+			<Text>Đế chế Mỹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+			<Text>Đế chế Ả Rập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Đế chế Man Di</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+			<Text>Đế chế Brazil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+			<Text>Đế chế Trung Hoa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+			<Text>Đế chế Ai Cập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+			<Text>Đế chế Anh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+			<Text>Đế chế Pháp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+			<Text>Đế chế Đức</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+			<Text>Đế chế Hy Lạp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+			<Text>Đế chế Ấn Độ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+			<Text>Đế chế Nhật Bản</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+			<Text>Đế chế Kongo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+			<Text>Đế chế Na Uy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+			<Text>Đế chế La Mã</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+			<Text>Đế chế Nga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+			<Text>Đế chế Scythia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+			<Text>Đế chế Tây Ban Nha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+			<Text>Đế chế Sumerian</Text>
+		</Replace>
+		<!-- City-State Empire Names-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+			<Text>Thành phố tự trị Amsterdam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+			<Text>Thành phố tự trị Bandar Brunei</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+			<Text>Thành phố tự trị Brussels</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+			<Text>Thành phố tự trị Buenos Aires</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+			<Text>Thành phố tự trị Carthage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+			<Text>Thành phố tự trị Geneva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+			<Text>Thành phố tự trị Hattusa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+			<Text>Thành phố tự trị Hong Kong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+			<Text>Thành phố tự trị Jakarta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+			<Text>Thành phố tự trị Jerusalem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+			<Text>Thành phố tự trị Kabul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+			<Text>Thành phố tự trị Kandy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+			<Text>Thành phố tự trị Kumasi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+			<Text>Thành phố tự trị La Venta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+			<Text>Thành phố tự trị Lisbon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+			<Text>Thành phố tự trị Mohenjo-Daro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+			<Text>Thành phố tự trị Preslav</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+			<Text>Thành phố tự trị Nan Madol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+			<Text>Thành phố tự trị Seoul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+			<Text>Thành phố tự trị Stockholm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+			<Text>Thành phố tự trị Toronto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+			<Text>Thành phố tự trị Valletta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+			<Text>Thành phố tự trị Vilnius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+			<Text>Thành phố tự trị Yerevan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+			<Text>Thành phố tự trị Zanzibar</Text>
+		</Replace>
+		<!-- Adjectives -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+			<Text>American</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+			<Text>Arabian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+			<Text>Barbarian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+			<Text>Brazilian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+			<Text>Chinese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+			<Text>Egyptian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+			<Text>English</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+			<Text>French</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+			<Text>German</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+			<Text>Greek</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+			<Text>Indian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+			<Text>Japanese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+			<Text>Kongolese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+			<Text>Norwegian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+			<Text>Roman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+			<Text>Russian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+			<Text>Scythian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+			<Text>Spanish</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+			<Text>Sumerian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+			<Text>Amsterdamer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+			<Text>Bandar Bruneian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
+			<Text>Brussels</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+			<Text>Buenos Aires</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+			<Text>Carthaginian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+			<Text>Genevese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+			<Text>Hattusa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+			<Text>Hongkongese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+			<Text>Jakartan</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+			<Text>Jerusalem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+			<Text>Kabul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+			<Text>Kandyan</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+			<Text>Kumasi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+			<Text>La Venta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+			<Text>Lisbon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+			<Text>Mohenjo-Daro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+			<Text>Preslav</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+			<Text>Nan Madol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+			<Text>Seoulite</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+			<Text>Stockholmer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+			<Text>Torontonian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+			<Text>Valletta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+			<Text>Vilnian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+			<Text>Yerevantsi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+			<Text>Zanzibari</Text>
+		</Replace>
+		<!-- Civ Traits-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_PLACEHOLDER">
+			<Text>[PLACEHOLDER] Không có thuộc tính đặc biệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+			<Text>Rừng Amazon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+			<Text>Rừng nhiệt đới +1 cho khu tri thức, Khu thương mại, Thánh Địa và khu nghệ thuật liền kề. Rừng nhiệt đới +1 [ICON_Housing] Nhà ở cho Vùng ngoại ô xây liền kề chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+			<Text>Chu kỳ của thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+			<Text>Thúc đẩy [ICON_TechBoosted] Công nghệ và [ICON_CivicBoosted] Hành chính thêm 60% thay vì 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+			<Text>Thợ xây rẻ mạt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+			<Text>Đào tạo Thợ Xây mất một nửa thời gian.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+			<Text>Cải cách Minh Trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+			<Text>Tất cả Đặc Khu được thưởng khi liền kề với Đặc Khu khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+			<Text>Bảo tàng Anh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+			<Text>Mỗi Nhà Khảo Cổ giữ 6 [ICON_GreatWork_Artifact] Cổ Vật thay vì 3 và có thể hỗ trợ 2 Nhà Khảo Cổ cùng một lúc. Bảo tàng Khảo Cổ sẽ tự động có Chủ Đề khi có 6 [ICON_GreatWork_Artifact] Cổ vật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+			<Text>Quân của Steppe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+			<Text>Nhận một đơn vị kỵ binh hạng nhẹ thứ hai hoặc Tiễn mã Saka mỗi khi đào tạo kỵ binh hạng nhẹ hoặc Tiễn mã Saka.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+			<Text>Quân man di mọi rợ tàn ác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+			<Text>Thưởng chống lại quân man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+			<Text>Nhiệm vụ đặc biệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+			<Text>Khi chiếm được Trại Man Di, nhận một làng thổ dân ngoài việc được [ICON_Gold] Vàng. Trả một nửa phí để điều khiển quân đội thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+			<Text>Sông Nin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan và Đặc Khu nếu đặt gần sông. Vùng lũ không chặn vị trí của Đặc Khu và kỳ quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+			<Text>Nền cộng hòa Plato</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+			<Text>Một slot chính sách bất ngờ trong chính phủ bất kỳ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+			<Text>Đất mẹ Nga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+			<Text>Thêm lãnh thổ khi thành lập một thành phố. +1 [ICON_Faith] Đức Tin và +1 [ICON_Production] Sản phẩm từ Đài nguyên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+			<Text>Nhà tiên tri cuối cùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+			<Text>Tự động nhận [ICON_GreatProphet] Vĩ nhân cuối cùng khi người gần cuối được chiêu mộ (nếu bạn đã không kiếm được một [ICON_GreatProphet] Vĩ nhân). +1 [ICON_Science] Khoa học cho mỗi thành phố nước ngoài theo tôn giáo của Ả Rập.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+			<Text>Linh hồn Nkisi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+			<Text>+2 [ICON_Food] Thực phẩm, +2 [ICON_Production] Sản phẩm và +4 [ICON_Gold] Vàng từ mỗi [ICON_GreatWork_Relic] Di tích, [ICON_GreatWork_Artifact] Cổ vật và Điêu khắc [ICON_GreatWork_Sculpture] Tác phẩm nghệ thuật ngoài [ICON_Culture] Văn minh. Thêm 50% điểm [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, [ICON_GreatMusician] Nhạc sĩ vĩ đại và [ICON_GreatMerchant] Thương gia vĩ đại. Cung điện có slot cho 5 thành tựu vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+			<Text>Hạm đội săn kho báu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+			<Text>Có thể thành lập Hải Đoàn và Hạm Đội sớm hơn (Chủ nghĩa trọng thương). [ICON_TradeRoute] Tuyến đường thương mại giữa nhiều lục địa nhận thưởng [ICON_Gold] Vàng cho mỗi lộ trình với nền văn minh khác, thưởng [ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm cho lộ trình giữa các thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+			<Text>Nhà sáng lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+			<Text>Kiếm được tất cả phần thưởng kế thừa chính phủ nhanh hơn một nửa thời gian so với bình thường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+			<Text>Tượng trưng tôn giáo Ấn Độ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+			<Text>Nhận thưởng "Tín ngưỡng của tín đồ" trong một thành phố từ mỗi tôn giáo mà có ít nhất một tín đồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+			<Text>Cuộc dạo chơi quý tộc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+			<Text>+20% [ICON_Production] Sản phẩm đối với kỳ quan thời Trung cổ, Phục hưng và Công nghiệp. [ICON_Tourism] Du lịch từ kỳ quan ở bất kỳ thời đại nào đều được x2.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+			<Text>Thành phố không thuộc hoàng gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+			<Text>Mỗi thành phố có thể xây thêm một Đặc Khu hơn bình thường (vượt giá giới hạn bình thường dựa trên [ICON_Citizen] Dân số).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+			<Text>Con đường nào cũng dẫn đến La Mã</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+			<Text>Tất cả thành phố bạn thành lập hoặc chinh phục bắt đầu với một điểm thưởng mại. Nếu [ICON_TradeRoute] Tuyến đường thương mại trong tầm [ICON_Capital] Thủ Đô, họ cũng bắt đầu với một con đường đến đó. [ICON_TradeRoute] Tuyến đường thương mại của bạn +1 [ICON_Gold] Vàng cho mỗi lần đi qua diểm thương mại ở trong các thành phố bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+			<Text>Thuyền của người Viking</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+			<Text>Các đơn vị có được khả năng đi vào ô đại dương sau khi nghiên cứu công nghệ Đóng tàu. Đơn vị hải quân cận chiến được hồi sức trên lãnh thổ trung lập. Đơn vị bỏ phạt [ICON_Movement] Di chuyển cho việc đón và trả.</Text>
+		</Replace>
+		<!-- Civilization Info -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_LOCATION">
+			<Text>Vị trí</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SIZE">
+			<Text>Kích thước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_POPULATION">
+			<Text>Dân số</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CAPITAL">
+			<Text>Thủ Đô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AMERICA_LOCATION">
+			<Text>Bắc Mỹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AMERICA_SIZE">
+			<Text>Khoảng 3.8 triệu dặm vuông (9.6 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AMERICA_POPULATION">
+			<Text>Khoảng 318 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+			<Text>Khác nhau (Philadelphia, New York, hiện tại Washington)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ARABIA_LOCATION">
+			<Text>Á-Phi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ARABIA_SIZE">
+			<Text>Thời Umayyad, ước tính 5.79 triệu dặm vuông (15 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ARABIA_POPULATION">
+			<Text>Thời Umayyad, khoảng 34 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+			<Text>Nhiều (Medina, Kufa, Damascus, Baghdad, Cairo)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+			<Text>Nam Mỹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_BRAZIL_SIZE">
+			<Text>3.29 triệu dặm vuông (8.5 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+			<Text>Ước tính 193 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+			<Text>Khác nhau (Salvador, Rio de Janeiro, hiện tại Brasilia)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CHINA_LOCATION">
+			<Text>Châu Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CHINA_SIZE">
+			<Text>Ước tính 3.7 triệu dặm vuông (9.6 km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CHINA_POPULATION">
+			<Text>1.1 tỷ trong 1990</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CHINA_CAPITAL">
+			<Text>Nhiều (Bốn Thủ Đô chính: Nam Kinh, Lạc Dương, Trường An, và hiện tại là Bắc Kinh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ENGLAND_SIZE">
+			<Text>Khoảng 94 ngàn dặm vuông (243458.88 km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+			<Text>Ước tính 64.1 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+			<Text>London (nói chung)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_EGYPT_LOCATION">
+			<Text>Châu Phi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_EGYPT_SIZE">
+			<Text>Ước tính 390 ngàn dặm vuông (1 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_EGYPT_POPULATION">
+			<Text>Ước tính 7.5 triệu (thời Ptolemaic)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+			<Text>Nhiều (Memphis, Thebes, Alexandria và hiện tại là Cairo)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_FRANCE_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_FRANCE_SIZE">
+			<Text>Ước tính 246.2 ngàn dặm vuông (640.6 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_FRANCE_POPULATION">
+			<Text>Ước tính 66.6 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+			<Text>Khác nhau (Orleans, Tours, Versailles, Vichy, chủ yếu Paris)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GERMANY_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GERMANY_SIZE">
+			<Text>Ước tính 390 ngàn dặm vuông ( 1 triệu km vuông tròn 1050 sau công nguyên)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GERMANY_POPULATION">
+			<Text>Ước tính 26.3 triệu (trong 1780 sau công nguyên)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+			<Text>Hiện tại là Berlin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GREECE_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GREECE_SIZE">
+			<Text>Khoảng 50.9 ngàn dặm vuông (131.9 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GREECE_POPULATION">
+			<Text>Ước tính 667.5 ngàn (trong chiến tranh Peloponnesian)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GREECE_CAPITAL">
+			<Text>Tất cả các thành phố, chủ yếu là Sparta và Athens, hiện tại là Athens</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_INDIA_LOCATION">
+			<Text>Châu Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_INDIA_SIZE">
+			<Text>Ước tính 1.3 dặm vuông (3.3 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_INDIA_POPULATION">
+			<Text>Ước tính 1.2 tỷ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_INDIA_CAPITAL">
+			<Text>Khác nhau (Calcutta, Delhi, bây giờ New Delhi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_JAPAN_LOCATION">
+			<Text>Châu Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_JAPAN_SIZE">
+			<Text>Ước tính 146 ngàn dặm vuông (378 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_JAPAN_POPULATION">
+			<Text>Gần đây nhất 126.4 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+			<Text>Khác nhau (quá nhiều để liệt kê cho đến Kyoto; hiện tại Tokyo)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KONGO_LOCATION">
+			<Text>Châu Phi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KONGO_SIZE">
+			<Text>Ở mức lớn nhất, 49.9 ngàn dặm vuông (129.4 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KONGO_POPULATION">
+			<Text>Ước tính 509 ngàn trong 1650 sau công nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KONGO_CAPITAL">
+			<Text>M'banza Kongo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NORWAY_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NORWAY_SIZE">
+			<Text>Ước tính 148.7 ngàn dặm vuông (385.2 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NORWAY_POPULATION">
+			<Text>Gần nhất ước tính 5.1 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+			<Text>Khác nhau (Trondheim, Bergen, và hiện tại là Oslo)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ROME_LOCATION">
+			<Text>Châu Âu (và tiểu Á, Châu Phi, Trung Đông và một số khác)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ROME_SIZE">
+			<Text>2.5 triệu dặm vuông (6.5 triệu km vuông) dưới thời Trajan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ROME_POPULATION">
+			<Text>Ước tính 88 triệu (ở đỉnh cao)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ROME_CAPITAL">
+			<Text>Rome</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+			<Text>Á-Âu (một thời gian ngắn có một chút Nam Mỹ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_RUSSIA_SIZE">
+			<Text>8.4 triệu dặm vuông (21.8 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+			<Text>Ước tính 181.5 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+			<Text>Moscow rồi St. Petersburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+			<Text>Châu Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+			<Text>Khoảng 384 ngàn dặm vuông (994 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+			<Text>Không rõ, đoán là 40-50 ngàn ở đỉnh cao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+			<Text>Không (thành phố duy nhất được nhắc đến là "Scythian Neapolis", bị phá hủy bởi Goths ở thế kỷ thứ 3 sau công nguyên)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SPAIN_LOCATION">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SPAIN_SIZE">
+			<Text>Ước tính 195 ngàn dặm vuông (504.4 ngàn km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SPAIN_POPULATION">
+			<Text>Ước tính 47.6 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+			<Text>Chủ yếu Madrid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+			<Text>Châu Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SUMERIA_SIZE">
+			<Text>Không thể biết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+			<Text>Ước tính giữa 1.1 và 1.5 triệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+			<Text>Nhiều (Lagash, Eridu, Uruk, Kish, Ur, hoặc bất cứ nơi nào mà các vị vua cai trị)</Text>
+		</Replace>
+		<!-- Uniques -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+			<Text>Kiến trúc đặc biệt của Mỹ: Phim trường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+			<Text>Kiến trúc đặc biệt của Ả Rập: Trường Hồi giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+			<Text>Công trình đặc biệt của Trung Hoa: Vạn Lý Trường Thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+			<Text>Công trình đặc biệt của Ai Cập: Tượng Nhân Sư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>Đơn vị đặc biệt của Ai Cập: Tiễn mã Ai Cập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+			<Text>Đơn vị đặc biệt của Trung Hoa: Ngạo Hổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+			<Text>Công trình đặc biệt của Pháp: Lâu đài Pháp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+			<Text>Đặc khu đặc biệt của Đức: Khu Hansa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+			<Text>Đặc khu đặc biệt của Hy Lạp: Vệ thành Hy Lạp cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+			<Text>Đơn vị đặc biệt của Hy Lạp: Lính xiên Hy Lạp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+			<Text>Công trình đặc biệt của Ấn Độ: Giếng bậc thang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+			<Text>Kiến trúc đặc biệt của Nhật Bản: Nhà máy điện tử</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+			<Text>Đơn vị đặc biệt của Nhật Bản: Samurai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+			<Text>Đặc khu đặc biệt của Kongo: Khu Mbanza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+			<Text>Kiến trúc đặc biệt của Na Uy: Nhà thờ Stave</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+			<Text>Đặc khu đặc biệt của La Mã: Nhà tắm La Mã</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+			<Text>Đơn vị đặc biệt của La Mã: Lính Lê Dương La Mã</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+			<Text>Đơn vị đặc biệt của Kongo: Ngao Mbeba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+			<Text>Đặc khu đặc biệt của Nga: Thánh Địa Lavra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+			<Text>Công trình đặc biệt của Scythia: Nấm mồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+			<Text>Đơn vị đặc biệt của Scythia: Tiễn mã Saka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+			<Text>Công trình đặc biệt của Tây Ban Nha: Tòa nhà truyền giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+			<Text>Đơn vị đặc biệt của Tây Ban Nha: Kẻ chinh phục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+			<Text>Đơn vị đặc biệt của Nga: Lính Cossack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+			<Text>Công trình đặc biệt của Sumerian: Đài chiêm tinh Ziggurat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+			<Text>Đơn vị đặc biệt của Sumerian: Chiến xa Summer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+			<Text>Đơn vị đặc biệt của Ấn Độ: Voi Ấn Độ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>Đơn vị đặc biệt của Anh: Tàu Sea Dog</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+			<Text>Đơn vị đặc biệt của Ả Rập: Chiến binh Mamluk Ả Rập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>Đơn vị đặc biệt của Pháp: Trung đoàn cận vệ Pháp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+			<Text>Đơn vị đặc biệt của Đức: Tàu ngầm U-Boat Đức</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+			<Text>Đơn vị đặc biệt của Mỹ: Phi Cơ Ngựa Hoang P-51</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+			<Text>Đơn vị đặc biệt của Brazil: Tàu Minas Geraes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+			<Text>Đơn vị đặc biệt của Na Uy: Kẻ điên Na Uy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+			<Text>Đặc khu đặc biệt của Brazil: Lễ hội đường phố Carnival</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>Đặc khu đặc biệt của Anh: Xưởng đóng tàu hải quân Hoàng gia</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

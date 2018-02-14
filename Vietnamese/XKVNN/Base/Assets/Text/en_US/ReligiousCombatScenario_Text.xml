@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_RULESET_TITLE">
+			<Text>Vùng đất Thiêng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_RULESET_TEASER">
+			<Text>Chiến đấu để thống trị đạo giáo trong một màn chơi tập trung vào tôn giáo được bắt đầu trong thời đại Trung cổ. Kéo dài đến thời đại Công Nghiệp.[NEWLINE]Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chiến Thắng Thần Thánh - Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)[NEWLINE]Thay đổi cách chơi[NEWLINE][ICON_Bullet]Thánh Địa đầu tiên ban cho một nhà Tiên tri vĩ đại.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_VICTORY_TITLE">
+			<Text>Chiến Thắng Thần Thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_VICTORY_DESC">
+			<Text>Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)</Text>
+		</Replace>	
+		
+		<!-- Mod Package Text -->
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_MOD_TITLE">
+			<Text>Màn chơi dành cho đa người chơi: Vùng đất Thiêng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_MOD_TEASER">
+			<Text>Chiến đấu để thống trị đạo giáo trong một màn chơi tập trung vào tôn giáo được bắt đầu trong thời đại Trung cổ. Kéo dài đến thời đại Công Nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_COMBAT_MOD_DESCRIPTION">
+			<Text>Điều kiện chiến thắng[NEWLINE]Chiến Thắng Thần Thánh - Có những tín đồ ngoan đạo nhất vào buổi bình minh của Thời Đại Công Nghiệp (công nghệ công nghiệp đầu tiên hoặc hành chính)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_RELIGIOUS_HAVE_MOST_FOLLOWERS_PROGRESS">
+			<Text>Tín Đồ Sùng Đạo {NumFollowers} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RC_GAME_ERA_LIMIT_REACHED_PROGRESS">
+			<Text>Đã đạt đến Thời Đại Công Nghiệp {StatusIcon}</Text>
+		</Replace>	
+
+	</LocalizedText>
+</GameData>

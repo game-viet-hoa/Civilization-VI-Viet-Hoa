@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Buildings-->
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_PALACE_NAME">
+			<Text>Toà nhà chính phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+			<Text>Thưởng thêm [ICON_Production] Sản phẩm bằng với thưởng liền kề của Khu cảng biển.</Text>
+		</Replace>
+		<!-- City-Names-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_WARWICK">
+			<Text>Warwick</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GYMPIE">
+			<Text>Gympie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_TOODYAY">
+			<Text>Toodyay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_ALBANY">
+			<Text>Albany</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GERALDTON">
+			<Text>Geraldton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_BUNBURY">
+			<Text>Bunbury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GUILDFORD">
+			<Text>Guildford</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_CASTLEMAINE">
+			<Text>Castlemaine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_BEECHWORTH">
+			<Text>Beechworth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PORT_FAIRY">
+			<Text>Port Fairy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_MOUNT_GAMBIER">
+			<Text>Mount Gambier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_MOONTA">
+			<Text>Moonta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_WALLAROO">
+			<Text>Wallaroo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PORT_AUGUSTA">
+			<Text>Port Augusta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_NARACOORTE">
+			<Text>Naracoorte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GAWLER">
+			<Text>Gawler</Text>
+		</Replace>
+		<!-- City State-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_NAME">
+			<Text>New South Wales</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_DESCRIPTION">
+			<Text>State of New South Wales</Text>
+		</Replace>
+		<!-- Civics-->
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_NAME">
+			<Text>Trừng phạt thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_NAME">
+			<Text>Cơn sốt Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_NAME">
+			<Text>Ban thưởng thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_SHEEP_REARING_NAME">
+			<Text>Nuôi Cừu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_NAME">
+			<Text>Ruộng đồng cho thuê</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_FEDERATION_NAME">
+			<Text>Thành lập liên bang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_NAME">
+			<Text>Cuộc Chiến Vĩ Đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_NAME">
+			<Text>Dịch vụ không lưu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_NAME">
+			<Text>Thế Chiến II</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_CRUISE_LINES_NAME">
+			<Text>Chuyên chở hành khách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_DESCRIPTION">
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_DESCRIPTION">
+			<Text>Nhận 2 Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_DESCRIPTION">
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_DESCRIPTION">
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_FEDERATION_DESCRIPTION">
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION">
+			<Text>Cho phép xây Công Viên Quốc Gia. Cho phép các đơn vị trồng Rừng cải tạo. Rừng già trong lãnh thổ không bị chặt bỏ sẽ +1 Sức Hấp Dẫn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_DESCRIPTION">
+			<Text>Phần thưởng cho việc hoàn thành dự án AIF tăng từ +10 lên +20 [ICON_Gold] Vàng mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
+			<Text>Nhận một Dân Di Cư tại thủ đô của bạn sau khi hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
+			<Text>Nông trại ngoại thành được +1 [ICON_Food] Thực phẩm cho mỗi 2 Nông trại ngoại thành liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Có thể hoàn thành nhiền lần, nhưng trong kịch bản này sẽ không tăng điểm chiến thắng đối với Chiến Thắng Điểm.</Text>
+		</Replace>
+		<!-- Civilizations-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_NAME">
+			<Text>Sát nhập vùng Hoang vu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_DESCRIPTION">
+			<Text>Hoàn thành dội bom văn hoá bất kỳ đặc khu nào đó.</Text>
+		</Replace>
+		<!-- Continent Names -->
+		<Replace Language='en_US' Tag="LOC_CONTINENT_SCENARIO_NEW_HOLLAND_DESCRIPTION">
+			<Text>New Holland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CONTINENT_SCENARIO_NEW_SOUTH_WALES_DESCRIPTION">
+			<Text>New South Wales</Text>
+		</Replace>
+		<!-- Government Names -->
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_PENAL_SETTLEMENT_NAME">
+			<Text>Trừng phạt người dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_COLONIAL_GOVERNMENT_NAME">
+			<Text>Chính quyền thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_STATE_GOVERNMENT_NAME">
+			<Text>Chính quyền bang</Text>
+		</Replace>
+		<!-- Districts-->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_AERODROME_DESCRIPTION">
+			<Text>Không thể xây dựng trên những ngọn đồi.</Text>
+		</Replace>
+		<!-- Improvements-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+			<Text>Người thăm dò xây Mỏ.[NEWLINE][NEWLINE]+1 [ICON_Production] Sản phẩm. +2 [ICON_Gold] Vàng. -1 Sức hấp dẫn. Chỉ có thể xây trên đồi hoặc các tài nguyên nhất định.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý hoặc chiến thuật, thành phố sẽ được sử dụng nguồn tài nguyên đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+			<Text>Người chăn nuôi xây Bãi chăn.[NEWLINE][NEWLINE]+1 [ICON_Production] Sản phẩm. +1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_CATTLE] Sữa bò, [ICON_RESOURCE_SHEEP] Cừu, hoặc [ICON_RESOURCE_HORSES] Ngựa.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên [ICON_RESOURCE_HORSES] Ngựa, thành phố sẽ được sử dụng nguồn tài nguyên đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_OUTBACK_STATION_DESCRIPTION">
+			<Text>Người chăn nuôi xây Nông trại ngoại thành.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Thực phẩm, +1 [ICON_Gold] Vàng và +1 [ICON_PRODUCTION] Sản phẩm. +1 [ICON_Food] Thực phẩm cho mỗi Bãi chăn liền kề. Cộng thêm [ICON_FOOD] Thực phẩm và [ICON_PRODUCTION] Sản phẩm nếu nghiên cứu công nghệ và hành chính giúp Nông trại ngoại thành và Bãi chăn liền kề nhau có thưởng. Chỉ có thể xây trên Sa mạc, Đồi sa mạc, Đồng cỏ và Đồng bằng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_BEACH_RESORT_DESCRIPTION">
+			<Text>Nhà tự nhiên học xây Khu nghỉ dưỡng ven biển.[NEWLINE][NEWLINE]Cung cấp [ICON_Gold] Vàng bằng với Sức hấp dẫn của ô đất. Chỉ có thể xây trên Bờ biển sa mạc, Bờ biển đồng bằn hoặc Bờ biển đồng cỏ. Sức hấp dẫn tối thiểu là ngây ngất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+			<Text>Nông dân xây Vườn ươm.[NEWLINE][NEWLINE]+1 [ICON_Gold] Vàng. Chỉ có thể xây trên [ICON_RESOURCE_BANANAS] Chuối, [ICON_RESOURCE_CITRUS] Cam, [ICON_RESOURCE_COTTON] Bông, [ICON_RESOURCE_SUGAR] Đường, [ICON_RESOURCE_TEA] Trà, hoặc [ICON_RESOURCE_WINE] Rượu.[NEWLINE][NEWLINE]Nếu xây trên tài nguyên quý, thành phố sẽ được sử dụng tài nguyên đó.</Text>
+		</Replace>
+		<!-- Natural Wonders -->
+		<Replace Language='en_US' Tag="LOC_FEATURE_KAKADU_NAME">
+			<Text>Kakadu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_PINNACLES_NAME">
+			<Text>Pinnacles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION">
+			<Text>Một ô kỳ quan thiên nhiên không thể đi qua. Đem lại +2 [ICON_CULTURE] Văn minh và +2 [ICON_Gold] Vàng tới các ô liền kề. Đem lại +4 Sức Hấp dẫn tới các ô liền kề thay vì +2 như thường lệ.</Text>
+		</Replace>
+		<!--Resources-->
+		<Replace Language='en_US' Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">
+			<Text>Quặng Vàng</Text>
+		</Replace>
+		<!--Policies-->
+		<Replace Language='en_US' Tag="LOC_POLICY_LAND_GRANTS_NAME">
+			<Text>Trợ cấp đất đai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FIRST_FLEET_NAME">
+			<Text>Hạm đội đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_REWARDS_OFFERED_NAME">
+			<Text>Chi trả phần thưởng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TERRA_NULLIUS_NAME">
+			<Text>Lãnh thổ vô chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_ARCHITECTS_NAME">
+			<Text>Kiến trúc sư bản xứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PARRAMATTA_ROAD_NAME">
+			<Text>Con đường Parramatta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TICKET_OF_LEAVE_NAME">
+			<Text>Để lại vé phạt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MOUNTED_STOCKMEN_NAME">
+			<Text>Người chăn gia súc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_NAME">
+			<Text>Đường sắt xuyên Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FEED_THE_TROOPS_NAME">
+			<Text>Đường lối cứng rắn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GALLIPOLLI_NAME">
+			<Text>Bán đảo Gallipoli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_NAME">
+			<Text>Giáo dục từ xa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FLYING_DOCTORS_NAME">
+			<Text>Những bác sĩ lưu động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_MATERIEL_NAME">
+			<Text>Trang thiết bị chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INVASION_THREAT_NAME">
+			<Text>Đe doạ xâm lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SEAFOOD_PRESERVATION_NAME">
+			<Text>Bán rong tôm Panđan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PARK_RANGERS_NAME">
+			<Text>Những kiểm lâm viên khu bảo tồn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LAND_GRANTS_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Nông dân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FIRST_FLEET_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Ngư dân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_REWARDS_OFFERED_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Người thăm dò.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TERRA_NULLIUS_DESCRIPTION">
+			<Text>Nông dân mới có thêm 2 lần xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_ARCHITECTS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản Phẩm trong tất cả các thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PARRAMATTA_ROAD_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm và +1 [ICON_Production] Sản phẩm từ [ICON_TradeRoute] Tuyến đường thương mại trong nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TICKET_OF_LEAVE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Người chăn nuôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MOUNTED_STOCKMEN_DESCRIPTION">
+			<Text>Người chăn nuôi mới có thêm 2 lần xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_DESCRIPTION">
+			<Text>+6 [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FEED_THE_TROOPS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng từ Nông trại và Vườn ươm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GALLIPOLLI_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với dự án AIF.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng từ tất cả Mỏ đá và Mỏ trên tài nguyên quý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FLYING_DOCTORS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng từ Bãi chăn và Nông trại ngoại thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_MATERIEL_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Vàng từ Mỏ trên tài nguyên chiến thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INVASION_THREAT_DESCRIPTION">
+			<Text>+100% [ICON_Production] Sản phẩm đối với dự án AIF.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SEAFOOD_PRESERVATION_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng từ Thuyền Đánh Cá.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PARK_RANGERS_DESCRIPTION">
+			<Text>Tất cả ô đất trong nền văn minh được +2 Sức hấp dẫn. -1 [ICON_GOLD] Vàng từ Mỏ.</Text>
+		</Replace>
+		<!-- Technologies-->
+		<Replace Language='en_US' Tag="LOC_TECH_IRRIGATION_SCENARIO_DESCRIPTION">
+			<Text>Nông trại được +1 [ICON_Food] Thực phẩm cho mỗi Nông trại liền kề khi 3 Nông trại liền kề nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_DESCRIPTION">
+			<Text>Cho phép chặt Rừng và Rừng nhiệt đới. Các đơn bị có cơ hội sinh tồn tốt hơn ở vùng Khai Hoang và bản đồ lãnh thổ rộng hơn nếu họ nhận được sự kiện có lợi ở vùng Khai Hoang.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_ABILITY_DESCRIPTION">
+			<Text>Các đơn bị có cơ hội sinh tồn tốt hơn ở vùng Khai Hoang và bản đồ lãnh thổ rộng hơn nếu họ nhận được sự kiện có lợi ở vùng Khai Hoang.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_MINING_SCENARIO_DESCRIPTION">
+			<Text>Cho phép khai thác [ICON_RESOURCE_STONE] Đá.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SCIENTIFIC_THEORY_SCENARIO_DESCRIPTION">
+			<Text>Nâng cấp nông trại thành Nông nghiệp cơ giới. +1 [ICON_Food] Thực phẩm cho mỗi Nông trại liền kề nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_FLIGHT_SCENARIO_DESCRIPTION">
+			<Text>Nông trại ngoại thành được +1 [ICON_Production] Sản phẩm cho mỗi 2 Nông trại ngoại thành liền kề. Bãi chăn được +1 [ICON_PRODUCTION] Sản phẩm cho mỗi Nông trại ngoại thành liền kề.</Text>
+		</Replace>
+		<!-- Units-->
+		<Replace Language='en_US' Tag="LOC_UNIT_EXPLORER_NAME">
+			<Text>Nhà thám hiểm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PROSPECTOR_NAME">
+			<Text>Người thăm dò</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_GRAZIER_NAME">
+			<Text>Người chăn nuôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_FARMER_NAME">
+			<Text>Nông dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_FISHER_NAME">
+			<Text>Ngư dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
+			<Text>Đơn vị do thám di chuyển nhanh. Không thể tấn công đơn vị trong kịch bản này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PROSPECTOR_DESCRIPTION">
+			<Text>Có thể xây Mỏ, Mỏ Đá, Giếng dầu và Đường băng. Người thăm dò có thể sử dụng 3 lần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_GRAZIER_DESCRIPTION">
+			<Text>Có thể xây Bãi chăn và Nông Trại Ngoại Thành. Người chăn nuôi có thể sử dụng 3 lần. Số lần sử dụng có thể tăng thông qua chính sách Người chăn gia súc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_FARMER_DESCRIPTION">
+			<Text>Có thể xây Nông trại, Vườn ươm và Xưởng gỗ. Nông dân có thể sử dụng 3 lần. Số lần sử dụng có thể tăng thông qua chính sách Lãnh Thổ Vô Chủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_FISHER_DESCRIPTION">
+			<Text>Có thể tạo ra Thuyền Đánh Cá. Ngư dân có thể sử dụng 3 lần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>Có thể tạo các thành phố mới. Dân di cư chỉ có thể nhận được trong kịch bản này bằng cách hoàn thành các Hành chính. Không thể đào tạo ra họ được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_NATURALIST_DESCRIPTION">
+			<Text>Một dân thường về cuối game có thể tạo ra một Khu nghỉ dưỡng ven biển hoặc một Công viên quốc gia để tăng [ICON_Gold] Vàng mỗi [ICON_Turn] Lượt. Sẽ bị loại bỏ sau khi Khu nghỉ dưỡng ven biển hoặc Công viên quốc gia được tạo.</Text>
+		</Replace>
+		<!-- Civic Boosts-->
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_GOLD_RUSH">
+			<Text>Tìm ra 1 [ICON_RESOURCE_GOLD] Quặng Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_CROWN_COLONY">
+			<Text>Có 15 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_SHEEP_REARING">
+			<Text>Tìm ra 3 [ICON_RESOURCE_SHEEP] Cừu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY">
+			<Text>Tăng số [ICON_Citizen] dân cư nền văn minh của bạn tối thiểu là 12.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES">
+			<Text>Xây 3 Bãi Chăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_FEDERATION">
+			<Text>Có 30 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION">
+			<Text>Tăng số [ICON_Citizen] dân cư một thành phố lên 10.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION">
+			<Text>Tìm thấy kỳ quan thiên nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_WAR">
+			<Text>Chơi tới [ICON_Turn] Lượt 45.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_AERIAL_SERVICES">
+			<Text>Xây Đường Băng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_WORLD_WAR_II">
+			<Text>Chơi tới [ICON_Turn] Lượt 53.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_CRUISE_LINES">
+			<Text>Tạo lập công viên quốc gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GOLD_RUSH">
+			<Text>Tìm ra 1 [ICON_RESOURCE_GOLD] Quặng Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CROWN_COLONY">
+			<Text>Có 15 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHEEP_REARING">
+			<Text>Tìm ra 3 [ICON_RESOURCE_SHEEP] Cừu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_DRAMA_POETRY">
+			<Text>Tăng số dân cư nền văn minh của bạn tối thiểu là 12.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PASTORAL_LEASES">
+			<Text>Xây 3 Bãi Chăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FEDERATION">
+			<Text>Có 30 [ICON_GOLD] Vàng mỗi [ICON_Turn] Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_URBANIZATION">
+			<Text>Tăng số dân cư một thành phố lên 10.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CONSERVATION">
+			<Text>Tìm thấy kỳ quan thiên nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_WAR">
+			<Text>Chơi tới [ICON_Turn] Lượt 45.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_AERIAL_SERVICES">
+			<Text>Xây Đường Băng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_WORLD_WAR_II">
+			<Text>Chơi tới [ICON_Turn] Lượt 53.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CRUISE_LINES">
+			<Text>Tạo lập công viên quốc gia.</Text>
+		</Replace>
+		<!-- Tech Boosts-->
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION">
+			<Text>Tăng tưởng một thành phố lên 6 [ICON_Citizen] Dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+			<Text>Bảo dưỡng 2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_INDUSTRIALIZATION">
+			<Text>Xây 3 Mỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>Xây 2 Mỏ đá.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>Xây 2 Thư Viện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_ECONOMICS">
+			<Text>Xây 2 Chợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_ELECTRICITY">
+			<Text>Xây 2 Xưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_FLIGHT">
+			<Text>Có hành chính Cuộc Chiến Vĩ Đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_COMBUSTION">
+			<Text>Có hành chính Thế Chiến II</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_RADIO">
+			<Text>Xây Viện Nghiên Cứu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Xây Xưởng máy bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EDUCATION">
+			<Text>Tăng tưởng một thành phố lên 6 Dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_BANKING">
+			<Text>Bảo dưỡng 2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_INDUSTRIALIZATION">
+			<Text>Xây 3 Mỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
+			<Text>Xây 2 Mỏ đá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>Xây 2 Thư Viện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ECONOMICS">
+			<Text>Xây 2 Chợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ELECTRICITY">
+			<Text>Xây 2 Xưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FLIGHT">
+			<Text>Có hành chính Cuộc Chiến Vĩ Đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_COMBUSTION">
+			<Text>Có hành chính Thế Chiến II</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RADIO">
+			<Text>Xây Viện Nghiên Cứu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Xây Xưởng máy bay</Text>
+		</Replace>
+		<!-- Projects-->
+		<Replace Language='en_US' Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION">
+			<Text>Quân Hoàng Gia Úc (AIF) là dự án tuyển mộ binh lính cho công tác triển khai ở nước ngoài trong Thế Chiến. Hoàn thành trong một thành phố sẽ được +10 [ICON_Gold] Vàng mỗi [ICON_Turn] Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_AIF_SCENARIO_NAME">
+			<Text>Đào tạo AIF</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_AIF_SCENARIO_SHORT_NAME">
+			<Text>Đào tạo AIF</Text>
+		</Replace>
+		<!-- Scoring-->
+		<Replace Language='en_US' Tag="LOC_CATEGORY_INCOME_NAME">
+			<Text>Thu nhập ([ICON_Gold] Vàng mỗi [ICON_Turn] Lượt)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_DIFFICULTY">
+			<Text>Độ khó: {1_DifficultyName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_CURRENT_GAME_DIFFICULTY">
+			<Text>Game hiện tại: {1_Difficulty}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_SINGLE_PLAYER_SCORE">
+			<Text>Điểm cần thiết để chiến thắng: {1_Score}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TITLE">
+			<Text>KHAI HOANG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_EFFECTS">
+			<Text>Tất cả các vùng đất chưa thuộc kiểm soát bởi người chơi được xem là một phần trong vùng Hoang vắng của nước Úc, là một nơi nguy hiểm bởi thực vật và động vật có độc và một trong những vùng khí hậu khắc nghiệt nhất hành tinh. Bất kỳ đơn vị nào kết thúc lượt trong vùng Hoang vắng sẽ chịu những ảnh hưởng đặc biệt. Mặc dù những sự việc này gây thiệt hại hoặc chậm trễ cho người chơi, nhưng có một vài lựa chọn giúp đơn vị nhận thêm điểm thưởng. Nói chung bạn sẽ muốn giới hạn thời gian đơn vị của bạn ở trong một sa mạc hoang vu như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TOOLTIP">
+			<Text>Khai Hoang</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

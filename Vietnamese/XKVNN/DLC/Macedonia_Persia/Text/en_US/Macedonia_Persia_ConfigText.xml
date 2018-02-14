@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MACEDON_NAME">
+			<Text>Macedon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
+			<Text>Hy Lạp hợp nhất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
+			<Text>Nhận được thúc đẩy khi chinh phục thành phố: một [ICON_TechBoosted] Eureka cho mỗi Khu quân sự hoặc Khu tri thức trong thành phố đã chinh phục và một [ICON_CivicBoosted] Cảm hứng cho mỗi Thánh địa hoặc Khu nghệ thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PERSIA_NAME">
+			<Text>Ba Tư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+			<Text>Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Tuyến đường thương mại với chính sách Triết học chính trị. Nhận được +2 [ICON_Gold] Vàng và +1 [ICON_Culture] Văn hoá cho các tuyến đường giữa các thành phố của bạn. Những con đường được xây dựng trong lãnh thổ của bạn nhận được một cấp cao hơn bình thường.</Text>
+		</Replace>
+		<!-- Leader Info-->
+		<Replace Language='en_US' Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Alexander</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>Kết thúc thế giới này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>Các thành phố không phải chịu tình trạng mỏi mệt vì chiến tranh. Tất cả đơn vị quân đội được hồi phục hoàn toàn khi người chơi chiếm được thành phố có kỳ quan thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_CYRUS_NAME">
+			<Text>Cyrus Đại Đế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
+			<Text>Babylon sụp đổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Di chuyển trong 10 lượt sau khi tuyên bố Chiến tranh Bất ngờ với một nền văn minh. Không bị phạt sản lượng ở những thành phố bị chiếm đóng. Tuyên bố Chiến tranh Bất ngờ được tính như là Cuộc Chiến Chính thức với ý định hiếu chiến và gây mệt mỏi vì chiến tranh.</Text>
+		</Replace>
+		<!-- Building Info-->
+		<Replace Language='en_US' Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Doanh trại Basilikoi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
+			<Text>Kiến trúc đặc biệt của Macedon. +25% kinh nghiệm chiến đấu cho tất cả đơn vị cận chiến, đơn vị mặt đất tầm xa, và đơn vị Hetairoi được đào tạo trong thành phố này. Đạt được [ICON_SCIENCE] Khoa học chia đều cho 25% chi phí của đơn vị khi một đơn vị không phải là người dân được tạo ra trong thành phố này.[NEWLINE][NEWLINE]Không được phép xây dựng trong Khu quân sự đã có Chuồng Ngựa.</Text>
+		</Replace>
+		<!-- Improvement Info-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>Cung điện Pairidaeza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+			<Text>Mở khoá khả năng của Thợ Xây để xây dựng cung điện Pairidaeza, công trình đặc biệt của Ba Tư.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Văn minh và +2 [ICON_GOLD] Vàng. +2 Sức Hấp dẫn. +1 [ICON_CULTURE] Văn minh cho mỗi Thánh địa và Khu nghệ thuật liền kề. +1 [ICON_GOLD] Vàng cho mỗi Khu Thương mại và Thành phố Trung tâm liền kề. Thêm [ICON_Culture] Văn minh và [ICON_Tourism] Du khách thông qua Cây Công nghệ và Cây Hành chính. Không thể xây dựng trên Tuyết, Đài nguyên, Đồi Tuyết, hoặc Đồi Đài nguyên hoặc gần kề với cung điện Pairidaeza khác.</Text>
+		</Replace>
+		<!-- Unit Info-->
+		<Replace Language='en_US' Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
+			<Text>Lính Hypaspist </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
+			<Text>Kỵ binh Hetairoi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+			<Text>Lính Immortal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+			<Text>Đơn vị cận chiến đặc biệt của Macedonian thay thế cho Kiếm Sĩ. +5 [ICON_Strength] Sức chiến đấu khi bao vây các đặc khu. Thêm 50% thưởng Hỗ trợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+			<Text>Đơn vị kỵ binh hạng nặng đặc biệt của Macedonia thay thế cho Lính ngựa. Cộng thêm +5 [ICON_Strength] Sức chiến đấu khi ở gần Đại Tướng. +5 điểm Đại tướng khi giết một đơn vị địch. Bắt đầu với 1 huân chương miễn phí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+			<Text>Đơn vị cận chiến đặc biệt của Ba Tư thay thế cho Kiếm Sĩ. Đơn vị cận chiến với khả năng đánh xa, [ICON_Range] Tầm xa 2. Sức phòng thủ mạnh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
+			<Text>+5 khi bao vây một đặc khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 Thưởng Chiến Đấu khi ở gần Đại Tướng.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

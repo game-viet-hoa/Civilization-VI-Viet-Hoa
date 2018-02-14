@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Full Civs -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_RADZIWILL_DESCRIPTION">
+			<Text>Gia đình quý tộc Litva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POTOCKI_DESCRIPTION">
+			<Text>Gia đình quý tộc Ba Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_OSTROGSKI_DESCRIPTION">
+			<Text>Gia đình quý tộc Volhynian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_RADZIWILL_ADJECTIVE">
+			<Text>Litva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_POTOCKI_ADJECTIVE">
+			<Text>Ba Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_OSTROGSKI_ADJECTIVE">
+			<Text>Volhynian</Text>
+		</Replace>
+		<!-- City States-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GDANSK_NAME">
+			<Text>Gdańsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VIENNA_NAME">
+			<Text>Vienna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PRAGUE_NAME">
+			<Text>Prague</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GDANSK_DESCRIPTION">
+			<Text>Thành phố tự trị Gdańsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VIENNA_DESCRIPTION">
+			<Text>Thành phố tự trị Vienna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PRAGUE_DESCRIPTION">
+			<Text>Thành phố tự trị Prague</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GDANSK_ADJECTIVE">
+			<Text>Gdańsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_VIENNA_ADJECTIVE">
+			<Text>Viennese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PRAGUE_ADJECTIVE">
+			<Text>Prague</Text>
+		</Replace>
+		<!-- Cities-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_CAPITAL">
+			<Text>Vilnius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_1">
+			<Text>Trakai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_2">
+			<Text>Nesvyžius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_3">
+			<Text>Kėdainiai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_4">
+			<Text>Biržai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_5">
+			<Text>Dubingiai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_6">
+			<Text>Minsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_7">
+			<Text>Naugardukas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_8">
+			<Text>Vitebskas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RADZIWILL_9">
+			<Text>Daugavpils</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_CAPITAL">
+			<Text>Kraków</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_1">
+			<Text>Potok</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_2">
+			<Text>Lublin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_3">
+			<Text>Lviv</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_4">
+			<Text>Warsaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_5">
+			<Text>Częstochowa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_6">
+			<Text>Sandomierz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_7">
+			<Text>Przemyśl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_8">
+			<Text>Chełm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTOCKI_9">
+			<Text>Brześć Litewski</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_CAPITAL">
+			<Text>Ostroh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_1">
+			<Text>Korets</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_2">
+			<Text>Zaslav</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_3">
+			<Text>Rivne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_4">
+			<Text>Zhytomyr</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_5">
+			<Text>Kiev</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_6">
+			<Text>Braclaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_7">
+			<Text>Trembowla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_8">
+			<Text>Kamieniec Podolski</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTROGSKI_9">
+			<Text>Ołyka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GDANSK">
+			<Text>Gdansk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_VIENNA">
+			<Text>Vienna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PRAGUE">
+			<Text>Prague</Text>
+		</Replace>
+		<!-- Citizen Names-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_1">
+			<Text>Krzysztof</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_2">
+			<Text>Grzegorz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_3">
+			<Text>Bogusław</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_4">
+			<Text>Albert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_5">
+			<Text>Aleksander</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_1">
+			<Text>Barbara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_2">
+			<Text>Krystyna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_3">
+			<Text>Ludwika</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_4">
+			<Text>Katarzyna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_5">
+			<Text>Elisa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_MALE_1">
+			<Text>Jakub</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_MALE_2">
+			<Text>Stefan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_MALE_3">
+			<Text>Alfred</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_MALE_4">
+			<Text>Feliks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_MALE_5">
+			<Text>Andrzej</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_FEMALE_1">
+			<Text>Ewa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_FEMALE_2">
+			<Text>Józefina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_FEMALE_3">
+			<Text>Julia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_FEMALE_4">
+			<Text>Konstancja</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_POTOCKI_FEMALE_5">
+			<Text>Natalia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_1">
+			<Text>Daniil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_2">
+			<Text>Feodor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_3">
+			<Text>Władysław</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_4">
+			<Text>Ilia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_5">
+			<Text>Janusz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_1">
+			<Text>Elizaveta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_2">
+			<Text>Zofia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_3">
+			<Text>Anna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_4">
+			<Text>Teofilia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_5">
+			<Text>Alojza</Text>
+		</Replace>
+		<!-- City State Bonuses-->
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_GDANSK_NAME">
+			<Text>Thưởng cho chủ Gdańsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_GDANSK_DESCRIPTION">
+			<Text>Tuyến đường thương mại tới bất kỳ thành phố tự trị này đều cung cấp 5 Vàng cho mỗi đặc khu đặc biệt có trong thành phố xuất phát.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_VIENNA_NAME">
+			<Text>Thưởng cho chủ Vienna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_VIENNA_DESCRIPTION">
+			<Text>Giảm nửa chi phí tuyển quân mua lính của thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_PRAGUE_NAME">
+			<Text>Thưởng cho chủ Prague</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_PRAGUE_DESCRIPTION">
+			<Text>Các đặc khu của bạn +1 điểm [ICON_GreatPerson] Vĩ nhân cho từng loại tương ứng (cả hai điểm [ICON_GreatWriter] Nhà văn vĩ đại và [ICON_GreatArtist] Họa sĩ vĩ đại cho Khu nghệ thuật).</Text>
+		</Replace>
+		<!-- Scenario-specific barbarian tribes-->
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_CAVALRY_1">
+			<Text>Kỵ binh Tatars</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_CAVALRY_2">
+			<Text>Kỵ binh Hãn quốc Kim Trướng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_CAVALRY_3">
+			<Text>Kỵ binh Hãn quốc Krym</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_CAVALRY_4">
+			<Text>Lính Tatars từ Hãn quốc Kim Trướng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_COSSACKS_1">
+			<Text>Lính Cossack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_COSSACKS_2">
+			<Text>Lính Cossack Hetmanate</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_KNIGHTS_1">
+			<Text>Hiệp sĩ Teutonic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_KNIGHTS_2">
+			<Text>Binh đoàn Teutonic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_KNIGHTS_3">
+			<Text>Binh đoàn Livonian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_MOLDAVA_1">
+			<Text>Moldavians</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_MOLDAVA_2">
+			<Text>Công quốc Moldavia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_OTTOMAN_1">
+			<Text>Ottomans</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_OTTOMAN_2">
+			<Text>Đế quốc Ottoman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_RUS_1">
+			<Text>Nga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_RUS_2">
+			<Text>Đại công quốc Moscow</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_RUS_3">
+			<Text>Cộng hòa Novgorod</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_RUS_4">
+			<Text>Nga Sa hoàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_SWEDES_1">
+			<Text>Thụy Điển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BARBARIAN_SWEDES_2">
+			<Text>Đế quốc Thụy Điển</Text>
+		</Replace>
+		<!-- Scenario-specific invasion warnings-->
+		<Replace Language='en_US' Tag="LOC_POLAND_SCENARIO_EARLY_WARNING">
+			<Text>Quốc gia của chúng ta có thể bị nguy hiểm một lần nữa. Một đội quân của {1_InvaderName} đang trên đường đến vùng đất của chúng ta và sẽ đến trong vòng {2_Turns : plural 1?{2_Turns} lượt; other?{2_Turns} lượt;} nữa. Có vẻ như họ đang đi về phía {3_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLAND_SCENARIO_INVASION_HERE">
+			<Text>Quân đội của {1_InvaderName} đã đến. Chống lại những kẻ nước ngoài xâm lược. Ba Lan vẫn chưa mất!</Text>
+		</Replace>
+		<!-- Scenario-specific religion-->
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_NAME">
+			<Text>Thần sét</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_DESCRIPTION">
+			<Text>+25% [ICON_Production] Sản phẩm đối với đơn vị quân đội thời Trung Cổ và Phục Hưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORTHODOX_CHURCH_NAME">
+			<Text>Giáo đường Chính Thống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ORTHODOX_CHURCH_NAME">
+			<Text>Giáo đường Chính Thống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_ORTHODOX_CHURCH_DESCRIPTION">
+			<Text>Cho phép xây Giáo đường Chính Thống (+3 [ICON_Faith] Đức tin, +2 [ICON_Food] Thực phẩm).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_CATHEDRAL_DESCRIPTION">
+			<Text>Cho phép xây Thánh đường (+3 [ICON_Faith] Đức tin, +1 [ICON_Housing] Nhà ở).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
+			<Text>Cho phép xây Nhà thờ Hồi giáo (+5 [ICON_Faith] Đức tin).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_INNER_PEACE_NAME">
+			<Text>Tĩnh tâm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_TITHE_DESCRIPTION">
+			<Text>+1% [ICON_Gold] Vàng cho mỗi tín đồ.</Text>
+		</Replace>
+		<!-- Scenario-specific units-->
+		<Replace Language='en_US' Tag="LOC_UNIT_JANISSARY_NAME">
+			<Text>Janissary</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_JANISSARY_DESCRIPTION">
+			<Text>Lính cận chiến thời Phục hưng của Ottomans. Hồi sức mỗi khi tiêu diệt kẻ địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HORSE_ARCHER_NAME">
+			<Text>Tiễn mã</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION">
+			<Text>Tiễn mã thời Trung Cổ của Tatars.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME">
+			<Text>Hiệp sĩ Teutonic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION">
+			<Text>Cứng cáp, đơn vị kỵ binh hạng nặng thời Trung Cổ của Binh đoàn Teutonic.</Text>
+		</Replace>
+		<!-- Scenario-specific Great People-->
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_NAME">
+			<Text>Stanisław Samostrzelnik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_KOBER_NAME">
+			<Text>Martin Kober</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_BARTOLOMMEO_BERRECCI_NAME">
+			<Text>Bartolommeo Berrecci</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_KOCHANSKI_NAME">
+			<Text>Adam Adamandy Kochański</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAZIMIERZ_SIEMIENOWICZ_NAME">
+			<Text>Kazimierz Siemienowicz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_KRZYSZTOF_GRODZICKI_NAME">
+			<Text>Krzysztof Grodzicki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_SEBASTIANO_MONTELUPI_NAME">
+			<Text>Sebastiano Montelupi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_KONSTANTY_KORNIAKT_NAME">
+			<Text>Konstanty Korniakt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICOLAUS_COPERNICUS_NAME">
+			<Text>Nicolaus Copernicus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_SENDIVOGIUS_NAME">
+			<Text>Sendivogius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIOTR_SKARGA_NAME">
+			<Text>Piotr Skarga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAN_KOCHANOWSKI_NAME">
+			<Text>Jan Kochanowski</Text>
+		</Replace>
+		<!-- Scenario-specific Great Works-->
+    <Replace Language='en_US' Tag="LOC_GREATWORK_SAMOSTRZELNIK_1_NAME">
+      <Text>Chân dung Piotr Tomicki</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_SAMOSTRZELNIK_2_NAME">
+      <Text>Thánh Stanislaus</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_SAMOSTRZELNIK_3_NAME">
+      <Text>Kinh thánh Sigismund I</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_KOBER_1_NAME">
+      <Text>Chân dung Anna Maria Vasa</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_KOBER_2_NAME">
+      <Text>Vua Sigismund III</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_KOBER_3_NAME">
+      <Text>Chân dung Nữ hoàng Anna Jagiellon</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_SKARGA_1_NAME">
+      <Text>Cuộc sống của các vị thánh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_SKARGA_2_NAME">
+      <Text>Sejm giảng đạo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_KOCHANOWSKI_1_NAME">
+      <Text>Bãi bỏ phái đoàn Hy Lạp</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_GREATWORK_KOCHANOWSKI_2_NAME">
+      <Text>Bài điếu ca</Text>
+    </Replace>
+	</LocalizedText>
+</GameData>

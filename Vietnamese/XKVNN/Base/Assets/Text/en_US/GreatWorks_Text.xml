@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Writings-->
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BHASA_1_NAME">
+			<Text>Vở kịch Madhyama Vyayoga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BHASA_2_NAME">
+			<Text>Vở kịch Pratima-nataka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_HOMER_1_NAME">
+			<Text>Truyện về thành Ilium</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_HOMER_2_NAME">
+			<Text>Sử thi Odyssey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_OVID_1_NAME">
+			<Text>Thơ Metamorphoses</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_OVID_2_NAME">
+			<Text>Thơ Heroides</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_QU_YUAN_1_NAME">
+			<Text>Bài hát của Chu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_QU_YUAN_2_NAME">
+			<Text>Khóc thương cho Ying</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CHAUCER_1_NAME">
+			<Text>Chuyện kể ở Canterbury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CHAUCER_2_NAME">
+			<Text>Troilus và Criseyde</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LI_BAI_1_NAME">
+			<Text>Nguyệt Hạ Độc Chước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LI_BAI_2_NAME">
+			<Text>Hạ Nhật Sơn Trung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MURASAKI_1_NAME">
+			<Text>Nhật ký của Murasaki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MURASAKI_2_NAME">
+			<Text>Truyện kể Genji</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CAVENDISH_1_NAME">
+			<Text>Thế giới rực rỡ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CAVENDISH_2_NAME">
+			<Text>Quan sát thử nghiệm Triết học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CERVANTES_1_NAME">
+			<Text>Đôn Kihôtê</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CERVANTES_2_NAME">
+			<Text>Tiểu thuyết kiểu mẫu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MACHIAVELLI_1_NAME">
+			<Text>Các đàm luận về Livy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MACHIAVELLI_2_NAME">
+			<Text>Quân Vương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SHAKESPEARE_1_NAME">
+			<Text>Romeo và Juliet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SHAKESPEARE_2_NAME">
+			<Text>Vở kịch Hamlet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_D_AULNOY_1_NAME">
+			<Text>Truyện cổ tích về Goldilocks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_D_AULNOY_2_NAME">
+			<Text>Con cá heo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_PUSHKIN_1_NAME">
+			<Text>Tiểu thuyết Eugene Onegin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_PUSHKIN_2_NAME">
+			<Text>Truyện về Boris Godunov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_POE_1_NAME">
+			<Text>Trái tim biết kể chuyện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_POE_2_NAME">
+			<Text>Con quạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_AUSTEN_1_NAME">
+			<Text>Kiêu hãnh và định kiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_AUSTEN_2_NAME">
+			<Text>Lý trí và Tình cảm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOETHE_1_NAME">
+			<Text>Tiểu thuyết Faust</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOETHE_2_NAME">
+			<Text>Nỗi đau của chàng Werther</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SHELLEY_1_NAME">
+			<Text>Tiểu thuyết Frankenstein</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SHELLEY_2_NAME">
+			<Text>Người Đàn Ông Cuối Cùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MUIS_1_NAME">
+			<Text>Tiểu thuyết Salah Asuhan (Một sự nuôi dưỡng sai lầm)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MUIS_2_NAME">
+			<Text>Tiểu thuyết Pertemuan Jodoh (Cuộc gặp gỡ của đôi tri kỷ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_JOYCE_1_NAME">
+			<Text>Tiểu thuyết Ulysses</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_JOYCE_2_NAME">
+			<Text>Truyện ngắn Dubliners</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DICKINSON_1_NAME">
+			<Text>Con chim lề đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DICKINSON_2_NAME">
+			<Text>Thành công được tính lá điều ngọt ngào nhất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TOLSTOY_1_NAME">
+			<Text>Danh ngôn Chiến tranh và hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TOLSTOY_2_NAME">
+			<Text>Tiểu thuyết Anna Karenina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TWAIN_1_NAME">
+			<Text>Những cuộc phiêu lưu của Huckleberry Finn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TWAIN_2_NAME">
+			<Text>Những cuộc phiêu lưu của Tom Sawyer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_FITZGERALD_1_NAME">
+			<Text>Phía bên kia địa đàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_FITZGERALD_2_NAME">
+			<Text>Nét đẹp và sự nguyền rủa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_WELLS_1_NAME">
+			<Text>Đại Chiến Thế Giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_WELLS_2_NAME">
+			<Text>Cỗ máy thời gian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TAGORE_1_NAME">
+			<Text>Ngôi nhà và thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TAGORE_2_NAME">
+			<Text>Tâm tình hiến dâng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CAPEK_1_NAME">
+			<Text>Những người máy Tương Lai của Rossum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CAPEK_2_NAME">
+			<Text>Chiến tranh với Loài Bò Sát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SUN_TZU_NAME">
+			<Text>Binh pháp tôn tử</Text>
+		</Replace>
+		<!--Art-->
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RUBLEV_1_NAME">
+			<Text>Lễ truyền tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RUBLEV_2_NAME">
+			<Text>Đấng cứu thế trong vinh quang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RUBLEV_3_NAME">
+			<Text>Hướng thượng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BOSCH_1_NAME">
+			<Text>Khu vườn hưởng lạc trần tục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BOSCH_2_NAME">
+			<Text>Sự phán xét cuối cùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BOSCH_3_NAME">
+			<Text>Bộ ba bức họa về Haywain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DONATELLO_1_NAME">
+			<Text>Thánh Mark</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DONATELLO_2_NAME">
+			<Text>Tượng cưỡi ngựa Gattamelata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DONATELLO_3_NAME">
+			<Text>Judith giết Holofernes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MICHELANGELO_1_NAME">
+			<Text>Trần nhà thờ Sistine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MICHELANGELO_2_NAME">
+			<Text>Tượng David</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MICHELANGELO_3_NAME">
+			<Text>Tượng Pietà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_YING_1_NAME">
+			<Text>Hán cung xuân hiểu đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_YING_2_NAME">
+			<Text>Người câu cá ẩn dật tại suối sen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_YING_3_NAME">
+			<Text>Đại chiến Xích Bích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TITIAN_1_NAME">
+			<Text>Đức Mẹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TITIAN_2_NAME">
+			<Text>Salome với Đầu Thánh Baptist John</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TITIAN_3_NAME">
+			<Text>Chân Dung Cưỡi Ngựa của Thánh Baptist John</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GRECO_1_NAME">
+			<Text>Sự Chầu Thánh Thể của Magi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GRECO_2_NAME">
+			<Text>Giả thuyết về Đức Mẹ Đồng Trinh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GRECO_3_NAME">
+			<Text>Quang Cảnh ở Toledo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_REMBRANDT_1_NAME">
+			<Text>Andries de Graeff</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_REMBRANDT_2_NAME">
+			<Text>Agatha Bas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_REMBRANDT_3_NAME">
+			<Text>Abraham và Isaac</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ANGUISSOLA_1_NAME">
+			<Text>Ba Chị Em Đánh Cờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ANGUISSOLA_2_NAME">
+			<Text>Philip đệ Nhị của Tây Ban Nha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ANGUISSOLA_3_NAME">
+			<Text>Thầy Tu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KAUFFMAN_1_NAME">
+			<Text>Anna Maria Jenkins và Thomas Jenkins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KAUFFMAN_2_NAME">
+			<Text>Chân Dung Johann Joachim Winckelmann</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KAUFFMAN_3_NAME">
+			<Text>Sarah Harrop hóa trang thành Nàng Thơ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_HOKUSAI_1_NAME">
+			<Text>Sóng Lừng ngoài khơi Kanagawa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_HOKUSAI_2_NAME">
+			<Text>Hồ Suwa ở tỉnh Shinano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_HOKUSAI_3_NAME">
+			<Text>Đỉnh Phú Sĩ trong thời tiết trong lành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_EOP_1_NAME">
+			<Text>Samin munnyeondo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_EOP_2_NAME">
+			<Text>Con Gà Trống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_EOP_3_NAME">
+			<Text>Ssangma inmuldo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOGH_1_NAME">
+			<Text>Đêm Đầy Sao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOGH_2_NAME">
+			<Text>Quán Vỉa Hè Buổi Đêm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOGH_3_NAME">
+			<Text>Quán Đêm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LEWIS_1_NAME">
+			<Text>Cái Chết của Cleopatra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LEWIS_2_NAME">
+			<Text>Hôn Lễ của Hiawatha và Minnehaha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LEWIS_3_NAME">
+			<Text>Cô gái người Pompei</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_COLLOT_1_NAME">
+			<Text>Chân Dung Pierre Etienne Falconet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_COLLOT_2_NAME">
+			<Text>Chân Dung Catherine đệ nhị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_COLLOT_3_NAME">
+			<Text>Chân Dung Marie Cathcart</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MONET_1_NAME">
+			<Text>Hoa Súng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MONET_2_NAME">
+			<Text>Ấn Tượng, Bình Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MONET_3_NAME">
+			<Text>Đụn Rơm ở Giverny</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ORLOVSKY_1_NAME">
+			<Text>Thống Lĩnh Mikhail Kutuzov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ORLOVSKY_2_NAME">
+			<Text>Tượng đài Alexander</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ORLOVSKY_3_NAME">
+			<Text>Tượng của Nga Hoàng Alexander</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KLIMT_1_NAME">
+			<Text>Nụ Hôn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KLIMT_2_NAME">
+			<Text>Lối đi trong công viên ở Scloss Kammer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KLIMT_3_NAME">
+			<Text>Hoa Hướng Dương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GIL_1_NAME">
+			<Text>Ba Cô Gái</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GIL_2_NAME">
+			<Text>Phòng tắm của Cô Dâu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GIL_3_NAME">
+			<Text>Chân Dung Tự Họa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CASSATT_1_NAME">
+			<Text>Lydia Dựa trên Bàn Tay Cô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CASSATT_2_NAME">
+			<Text>Buổi Tắm của Em Bé</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CASSATT_3_NAME">
+			<Text>Một Tách Trà</Text>
+		</Replace>
+		<!--Music-->
+		<Replace Language='en_US' Tag="LOC_GREATWORK_VIVALDI_1_NAME">
+			<Text>Bốn Mùa: Mùa Đông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_VIVALDI_2_NAME">
+			<Text>Bản hoà tấu Concerto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BACH_1_NAME">
+			<Text>Bach "Little" Fugue in G minor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BACH_2_NAME">
+			<Text>Cello Suite No. 1 in G Major</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BEETHOVEN_1_NAME">
+			<Text>Ode to Joy (Bản giao hưởng #9)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_BEETHOVEN_2_NAME">
+			<Text>Bản giao hưởng #3 (Bản giao hưởng Eroica) Mvt. 1</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MOZART_1_NAME">
+			<Text>Eine Kleine Nachtmusik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_MOZART_2_NAME">
+			<Text>Bản giao hưởng #40, Mvt. 1</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KENGYO_1_NAME">
+			<Text>Rokudan No Shirabe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KENGYO_2_NAME">
+			<Text>Hachidan No Shirabe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_KENGYO_3_NAME">
+			<Text>Midare</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOMEZ_1_NAME">
+			<Text>Fosca - Mvt. 1 (Abertura)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_GOMEZ_2_NAME">
+			<Text>Alvorada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LISZT_1_NAME">
+			<Text>Hungarian Rhapsody No. 1</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LISZT_2_NAME">
+			<Text>Mephisto Waltz No. 1 "The Dance in the Village Inn"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CHOPIN_1_NAME">
+			<Text>Nocturne in E flat Major</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_CHOPIN_2_NAME">
+			<Text>Valse Brillante Op. 18</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME">
+			<Text>1812 Overture</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TCHAIKOVSKY_2_NAME">
+			<Text>Romeo và Juliet mối tình tuyệt diệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TIANHUA_1_NAME">
+			<Text>Liáng Xiāo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TIANHUA_2_NAME">
+			<Text>Kong Shan Niao Yu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_TIANHUA_3_NAME">
+			<Text>Bēi Gē</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DVORAK_1_NAME">
+			<Text>Bản giao hưởng Thế Giới Mới (no. 9) - Mvt. 4</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_DVORAK_2_NAME">
+			<Text>Serenade for Strings, Op. 22 - Mvt. 2</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SCHUMANN_1_NAME">
+			<Text>Prelude and Fugue Op. 16, No. 3</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_SCHUMANN_2_NAME">
+			<Text>Toccatina in A minor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ROSAS_1_NAME">
+			<Text>Sobre las olas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ROSAS_2_NAME">
+			<Text>Vals Carmen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LILIUOKALANI_1_NAME">
+			<Text>Lili’uokalani’s Prayer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LILIUOKALANI_2_NAME">
+			<Text>Sanoe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_JAAN_1_NAME">
+			<Text>Raga Khamaj Jogiya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_JAAN_2_NAME">
+			<Text>Raga Bhairavi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_JAAN_3_NAME">
+			<Text>Thumri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LEONTOVYCH_1_NAME">
+			<Text>Cả vũ trụ vui mừng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_LEONTOVYCH_2_NAME">
+			<Text>Prelude for Choir</Text>
+		</Replace>
+		<!--Relics-->
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_1_NAME">
+			<Text>Hòm giao ước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_2_NAME">
+			<Text>Râu của người truyền giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_3_NAME">
+			<Text>Máu của kẻ Tử Đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_4_NAME">
+			<Text>Sách Thoth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_5_NAME">
+			<Text>Dấu chân của tông đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_6_NAME">
+			<Text>Thảo Thế Kiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_7_NAME">
+			<Text>Chén thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_8_NAME">
+			<Text>Đá Tạo Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_9_NAME">
+			<Text>Áo choàng của Guru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_10_NAME">
+			<Text>Sọ thánh Aubert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_11_NAME">
+			<Text>Dép của nhà tiên tri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_12_NAME">
+			<Text>Vải liệm của Turin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_13_NAME">
+			<Text>Giấy lụa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_14_NAME">
+			<Text>Mảnh vỡ của Thập Giá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_15_NAME">
+			<Text>Đá của Scone</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_16_NAME">
+			<Text>Răng của nhà tiên tri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_17_NAME">
+			<Text>Bones of the Magi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_18_NAME">
+			<Text>Chains of the Apostle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_19_NAME">
+			<Text>Eight-Hand Mirror</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_20_NAME">
+			<Text>Gundestrup Cauldron</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_21_NAME">
+			<Text>Casket of the Evangelist</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_22_NAME">
+			<Text>Cincture of the Theotokos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_23_NAME">
+			<Text>Grapevine Cross</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_RELIC_24_NAME">
+			<Text>Holy Lance</Text>
+		</Replace>
+		<!--Artifacts-->
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_1_NAME">
+			<Text>Xác ướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_2_NAME">
+			<Text>Bàn đá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_3_NAME">
+			<Text>Lao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_4_NAME">
+			<Text>Cuộn giấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_5_NAME">
+			<Text>Mặt nạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_6_NAME">
+			<Text>Vò nước hai quai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_7_NAME">
+			<Text>Khảm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_8_NAME">
+			<Text>Rìu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_9_NAME">
+			<Text>Khiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_10_NAME">
+			<Text>Lắc tay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_11_NAME">
+			<Text>Cốc Thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_12_NAME">
+			<Text>Đồng bạc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_13_NAME">
+			<Text>Kiếm dài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_14_NAME">
+			<Text>Giáp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_15_NAME">
+			<Text>Nhẫn khắc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_16_NAME">
+			<Text>Vật đo độ cao thiên thể</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_17_NAME">
+			<Text>Đồng đublum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_18_NAME">
+			<Text>Kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_19_NAME">
+			<Text>Tranh nề</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_20_NAME">
+			<Text>Hoa tai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_21_NAME">
+			<Text>Đồng hồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_22_NAME">
+			<Text>Giấy khổ rộng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_23_NAME">
+			<Text>Súng kíp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_24_NAME">
+			<Text>Bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATWORK_ARTIFACT_25_NAME">
+			<Text>Vòng đeo cổ</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

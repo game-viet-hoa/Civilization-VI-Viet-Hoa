@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Name and Description-->
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_NAME">
+			<Text>Bản đồ cân bằng hàng chính chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_DESCRIPTION">
+			<Text>Bản đồ cân bằng rất lý tưởng cho chơi nhiều người.</Text>
+		</Replace>
+		<!--Map Name-->
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
+			<Text>Bản đồ cân bằng</Text>
+		</Replace>
+		<!--Map Description-->
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
+			<Text>Bản đồ cân bằng rất lý tưởng cho chơi nhiều người.</Text>
+		</Replace>
+		<!--Map Description-->
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+			<Text>4 - Cỏ bốn lá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+			<Text>Các nền văn minh bắt đầu trong bốn vùng đất cân bằng. Các người chơi đều cách trung tâm bản đồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+			<Text>6 - Bông tuyết vũ trang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+			<Text>Các nền văn minh bắt đầu trong sáu vùng đất cân bằng cùng với thành phố tự trị kề bên. Các người chơi đều cách trung tâm bản đồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
+			<Text>Miền đất hứa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
+			<Text>Các nền văn minh bắt đầu tại vị trí cân bằng và cạnh tranh các mảnh đất ở trung tâm bản đồ.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

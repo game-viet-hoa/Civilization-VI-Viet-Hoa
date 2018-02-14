@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_TECHS">
+			<Text>Công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_CIVICS">
+			<Text>Hành chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_CITIES">
+			<Text>Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_UNITS">
+			<Text>Đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_GENERAL">
+			<Text>Tổng hợp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
+			<Text>Đặc khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
+			<Text>Kiến trúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_MOD">
+			<Text>Phụ thuộc</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_TEXT">
+			<Text>Văn bản</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
+			<Text>Thêm người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
+			<Text>Thêm máy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
+			<Text>Bỏ người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
+			<Text>Thêm thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
+			<Text>Bỏ thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
+			<Text>Đã bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
+			<Text>Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
+			<Text>Đức tin</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
+			<Text>Thiệt hại Đồn Trú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
+			<Text>Thiệt hại bên ngoài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
+			<Text>Dân sô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
+			<Text>Địa hình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
+			<Text>Tính chất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
+			<Text>Feature Direction</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
+			<Text>Tài nguyên</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
+			<Text>Lượng tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
+			<Text>Công trình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
+			<Text>Công trình đã bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
+			<Text>Tuyến đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
+			<Text>Tuyến đường đã bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
+			<Text>Chủ</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
+			<Text>Địa hình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
+			<Text>Tính chất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
+			<Text>Lục địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
+			<Text>Sông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
+			<Text>Vách đá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
+			<Text>Tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
+			<Text>Các thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
+			<Text>Các đặc khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
+			<Text>Các kiến trúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
+			<Text>Các đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
+			<Text>Các công trình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
+			<Text>Các tuyến đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
+			<Text>Vị trí bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
+			<Text>Chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
+			<Text>Tầm nhìn địa hình</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
+			<Text>Bộ chỉnh sửa bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
+			<Text>Bộ chỉnh sửa người chơi</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
+			<Text>Click trái để đặt. Click phải để loại bỏ.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
+			<Text>Không có ô đất được lựa chọn.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
+			<Text>ID</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
+			<Text>Tạo ID mới...</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
+			<Text>Chiều rộng</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
+			<Text>Chiều dài</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
+			<Text>Luật</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
+			<Text>Script Bản đồ</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
+			<Text>Bản đồ này là một Mod</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
+			<Text>Nếu được đánh dấu, bộ tạo thế giới tạo ra Mod bản đồ khép kín và chỉ có thể sử dụng như một Loại Bản Đồ khi bắt đầu trò chơi. Nếu không được đánh dấu, bản đồ được giả định sử dụng như một phần của Mod lớn hơn.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
+			<Text>Bản đồ không tên</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
+			<Text>Một bản đồ không tên được tạo bởi Bộ Tạo Thế Giới</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
+			<Text>Mod bản đồ không tên</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
+			<Text>Một Mod bản đồ không tên được tạo bởi Bộ Tạo Thế Giới</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ADD_BUTTON">
+			<Text>Thêm</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
+			<Text>Bỏ</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_FEATURE">
+			<Text>No Feature</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DIRECTION">
+			<Text>No Direction</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
+			<Text>Northeast</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
+			<Text>East</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
+			<Text>Southeast</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
+			<Text>Southwest</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
+			<Text>West</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
+			<Text>Northwest</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_RESOURCE">
+			<Text>No Resource</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
+			<Text>No Improvement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_ROUTE">
+			<Text>No Route</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REVEAL_ALL">
+			<Text>Reveal All</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

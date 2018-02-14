@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <!-- Mods Section -->
+    <Replace Language='en_US' Tag="LOC_MODS_TITLE">
+      <Text>NỘI DUNG BỔ SUNG</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_INSTALLED">
+      <Text>ĐÃ CÀI ĐẶT</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SUBSCRIPTIONS">
+      <Text>THEO DÕI</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_BROWSE_WORKSHOP">
+      <Text>DUYỆT WORKSHOP</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_WORLD_BUILDER">
+      <Text>XÂY DỰNG THẾ GIỚI</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_NONE_INSTALLED">
+      <Text>Không có mod nào được cài đặt.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_NONE_SELECTED">
+      <Text>Chọn mod ở bên trái để xem chi tiết.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_NO_SUBSCRIPTIONS">
+      <Text>Không có mục nào được theo dõi.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED">
+      <Text>Đã cài đặt</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING">
+      <Text>Đang tải về...</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SUBSCRIPTION_SUBSCRIBED">
+      <Text>Theo dấu (nhưng chưa được tải về)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SUBSCRIPTION_DOWNLOADING">
+      <Text>Đang tải... ({1 : number} trong tổng {2 : number})</Text>
+	</Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ENABLE_MOD">
+      <Text>Kích hoạt Mod</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DOWNLOADING">
+      <Text>Đang tải...</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_SUBSCRIPTION_NAME_PENDING">
+      <Text>Đang lấy mục theo dõi...</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_UPDATE">
+      <Text>Cập nhật</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_VIEW">
+      <Text>Xem</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_GROUP_DEFAULT_NAME">
+      <Text>(Mặc định)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_GROUP_ADD_NAME">
+      <Text>+</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
+      <Text>Tạo một nhóm Mod mới. Nhóm này có thể sử dụng nhanh để bật tất cả các mod.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_GROUP_DELETE_NAME">
+      <Text>-</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_GROUP_ENTER_NAME">
+      <Text>Nhập tên của nhóm Mod mới.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
+      <Text>Xóa nhóm Mod hiện tại. Nó sẽ không xóa mod, chỉ xóa nhóm. Nhóm mặc định không thể bị xóa.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SEARCH_NAME">
+      <Text>Tìm kiếm...</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SEARCH_DESCRIPTION">
+      <Text>Tìm kiếm nội dung dựa vào tiêu đề.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SORTBY">
+      <Text>Sắp xếp:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SORTBY_NAME">
+      <Text>Sắp xếp: Tên</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_SORTBY_ENABLED">
+      <Text>Sắp xếp: Kích hoạt</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_LAST_UPDATED">
+      <Text>Cập nhật lần cuối: {1_Time: datetime}</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_FILTER">
+      <Text>Bộ lọc</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_FIRAXIAN_CONTENT">
+      <Text>Nội dung chính chủ</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_USER_CONTENT">
+      <Text>Nội dung được tạo bởi cộng đồng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ENABLE_ALL">
+      <Text>Kích hoạt tất cả</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DISABLE_ALL">
+      <Text>Bỏ kích hoạt tất cả</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ENABLE">
+      <Text>Kích hoạt</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_ENABLED">
+      <Text>Đã kích hoạt</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_ENABLE_INCLUDE">
+		<Text>Kích hoạt nó cũng sẽ kích hoạt thêm:</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_ENABLE_ERROR">
+		<Text>Không thể kích hoạt do:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DISABLE">
+      <Text>Disable</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_DISABLED">
+      <Text>Bỏ kích hoạt</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_DISABLE_ERROR">
+		<Text>Không thể bỏ kích hoạt do:</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
+		<Text>Không thể bỏ kích hoạt vì các Mod sau đây có phụ thuộc:</Text>
+	</Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_YES">
+      <Text>Có</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_NO">
+      <Text>Không</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_VERSION">
+      <Text>Phiên bản:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_AUTHOR">
+      <Text>Tác giả(s):</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
+      <Text>Chân thành cảm ơn:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_DLC_STORE">
+      <Text>Click vào đây để tới trang cửa hàng.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
+      <Text>Chơi đơn?</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_MULTIPLAYER">
+      <Text>Chơi nhiều người?</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
+      <Text>Ảnh hướng tới save game:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_OWNERSHIP">
+      <Text>Quyền sở hữu:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_TAGS">
+      <Text>Tags:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
+      <Text>Sở hữu</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
+      <Text>Không sở hữu</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_DESCRIPTION">
+      <Text>Mô tả</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_REFERENCES">
+      <Text>Tham khảo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
+      <Text>Phụ thuộc</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
+      <Text>Tham khảo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
+      <Text>Chặn</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_EXCLUSIVE">
+      <Text>Đây là mod độc quyền.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
+      <Text>Đây là mod độc quyền một phần.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
+      <Text>Các mod kích hoạt hiện tại không tương thích với save game này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
+      <Text>Các mod cần thiết không được cài đặt.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
+      <Text>Phiên bản khác của mod này đã được kích hoạt.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
+      <Text>Mod đã bị chặn bởi mod khác.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
+      <Text>Mod này thiếu thành phần phụ thuộc.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+      <Text>Mod bị chặn do độc quyền.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
+      <Text>Phiên bản của game không tương thích với Mod này.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_MOD_AUTHORS_FIRAXIS">
+		<Text>Firaxis</Text>
+	</Replace>
+  </LocalizedText>
+</GameData>

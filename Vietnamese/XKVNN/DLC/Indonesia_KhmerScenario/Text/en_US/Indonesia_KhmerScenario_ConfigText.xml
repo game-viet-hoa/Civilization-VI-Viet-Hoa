@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME">
+			<Text>Đường tới niết bàn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP">
+			<Text>Tôn giáo nào sẽ tỏa sáng rực rỡ nhất ở châu Á trong 50 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME">
+			<Text>Đông Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION">
+			<Text>Một kịch bản chơi biểu trưng của vùng Đông Á</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>Những vùng đất quanh Ấn Độ Dương phát triển với nhiều người theo nhiều tôn giáo. Thần linh đã chọn bạn để mang ánh sáng đến những vùng đất này. Đức tin của bạn sẽ trải qua thách thức? Bạn có thể thuyết giáo người dân Đông Nam Á theo tôn giáo của bạn không?[NEWLINE][NEWLINE]Trong 50 lượt, hãy cạnh tranh để có nhiều người nhất theo tôn giáo của bạn, đức tin cao nhất ở mỗi lượt, và nhiều thành phố nhất theo tôn giáo của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION">
+			<Text>Niết bàn đạt được bằng cách có được số điểm cao nhất sau số lượt giới hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO">
+			<Text>Nguyện thần linh ban phước lành cho người cai trị! Nhiều tôn giáo được thử thách trong những vùng đất này, và nhiều tín ngưỡng hứa hẹn sự cứu rỗi. Bạn hãy thuyết giáo vào linh hồn họ? Hoặc liệu những linh hồn này có bị các tín ngưỡng khác lay chuyển? Hãy để lại các vấn đề của quốc gia cho các nhà lãnh đạo, và đi trên hành trình giác ngộ của riêng bạn.</Text>
+		</Replace>
+		<!-- China-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME">
+			<Text>Taoism</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Đạo Lão đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Nữ thần sông: +1 [ICON_Amenities] Tiện nghi cho các thành phố nếu có khu Tôn Giáo nằm gần sông.[NEWLINE][ICON_Bullet]Nuôi dưỡng Vạn vật: những miếu thờ và đền thờ cung cấp [ICON_Food] Thực phẩm đồng đều cho mỗi [ICON_Faith] Đức tin xuất ra.[NEWLINE][ICON_Bullet]Chùa: Cho phép xây dựng nhiều Chùa (+3 [ICON_Faith] Đức tin). Đơn vị Thầy tu +1 Xoá bỏ Dị Giáo và Đại Thầy tu +1 Sức Hồi phục. Mở khóa bằng In ấn.[NEWLINE][ICON_Bullet]Cư sĩ: mức độ của Tôn giáo của bạn không bị giảm xuống trong trận chiến Tôn Giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME">
+			<Text>Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION">
+			<Text>Bắt đầu với công dân theo Tiền Đế Chế.</Text>
+		</Replace>
+		<!-- Chola-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME">
+			<Text>Chola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Đế chế Chola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE">
+			<Text>Chola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME">
+			<Text>Shaivism</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Shaivism đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Con đường Thánh: các quận có khu Tôn Giáo được +1 [ICON_Faith] Đức tin khi liền kề với rừng nhiệt đới.[NEWLINE][ICON_Bullet]Linga: Có thể mua các Trung tâm Thương mại và quận Cảng biển bằng [ICON_Faith] Đức tin.[NEWLINE][ICON_Bullet]Quản đạo: mỗi Trung tâm Thương mại hoặc quận Cảng biển thuộc thành phố theo Tôn giáo này cung cấp +1 [ICON_FAITH] Đức tin.[NEWLINE][ICON_Bullet]Yôga: có thể mua các đơn vị dân cư bằng [ICON_Faith] Đức tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME">
+			<Text>Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Bắt đầu với công dân theo Chủ thuyết Niết bàn.</Text>
+		</Replace>
+		<!-- Ghaznavid-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME">
+			<Text>Ghaznavid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Đế chế Ghaznavid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE">
+			<Text>Đế chế Ghaznavid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME">
+			<Text>Đạo Hồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Đạo Hồi đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Văn hoá Sa mạc: các quận có khu Tôn Giáo được +1 [ICON_Faith] Đức tin khi liền kề với Sa mạc.[NEWLINE][ICON_Bullet]Cộng đồng tôn giáo: những miếu thờ và đền thờ cung cấp +1 [ICON_Housing] Nhà ở.[NEWLINE][ICON_Bullet]Thánh đường Hồi giáo: Cho phép xây dựng các Thành đường Hồi giáo (+3 [ICON_Faith] Đức tin). Các đơn vị Truyền giáo và Thầy tu +1 Truyền bá. Mở khóa bằng In ấn.[NEWLINE][ICON_Bullet]Hành hương: +2 [ICON_Faith] Đức tin cho mỗi thành phố theo Tôn giáo này trong nền văn minh và các thành phố-tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME">
+			<Text>Các công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Bắt đầu với các công dân theo Chủ thuyết Niết bàn, Hiện thực, và Tiền Đế chế.</Text>
+		</Replace>
+		<!-- Indonesia-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME">
+			<Text>Đạo Hindu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Đạo Hindu đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Vị thần biển cả: +1 [ICON_Production] Sản xuất cho các Thuyền đánh Cá.[NEWLINE][ICON_Bullet]Đại quần đảo Nusantara: bờ Biển và Hồ cung cấp một khoản thưởng nhỏ cho các quận có Khu Tôn giáo.[NEWLINE][ICON_Bullet]Nhà chài Kampung: Thợ Xây của bạn giờ đây có thể cải tiến Nhà chài Kampung. Mở khóa bằng Hội Nhóm.[NEWLINE][ICON_Bullet]Những Nhà Thuyết giáo: truyền bá Tôn giáo đến các thành phố xa hơn 30%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME">
+			<Text>Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION">
+			<Text>Bắt đầu với công dân theo Chủ thuyết Niết bàn.</Text>
+		</Replace>
+		<!-- Khmer-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME">
+			<Text>Phật giáo Tiểu thừa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Phật giáo Tiểu thừa đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Vòng luân hồi: +2 [ICON_Faith] Đức tin và +2 [ICON_Production] Sản xuất cho các Mỏ đá.[NEWLINE][ICON_Bullet]Dāna: mỗi kho Thóc cung cấp +3 [ICON_FAITH] Đức tin. +1 [ICON_Amenities] Tiện nghi cho mỗi thành phố.[NEWLINE][ICON_Bullet]Tu viện: cho phép xây dựng các Tu Viện (+3 [ICON_Faith] Đức Tin, +1 [ICON_Housing] Nhà ở). Mở khóa bằng In ấn.[NEWLINE][ICON_Bullet]Đại Chùa: +1 [ICON_Culture] Văn hoá cho mỗi 5 người theo tôn giáo này trong các nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME">
+			<Text>Nghĩa vụ công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION">
+			<Text>Bắt đầu với công dân theo Tiền Đế chế, Kỹ thuật, và Chủ nghĩa Thần bí.</Text>
+		</Replace>
+		<!-- Pala-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME">
+			<Text>Pala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION">
+			<Text>Đế chế Pala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE">
+			<Text>Pala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME">
+			<Text>Phật giáo Đại thừa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Phật giáo Đại thừa đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Phật Bà của vạn vật: +1 Đức tin [ICON_Faith] cho ô có sức Hấp dẫn tốt hoặc cao hơn.[NEWLINE][ICON_Bullet]Nhân đức từ thiện: +1% [ICON_Production] Sản xuất cho mỗi tín đồ.[NEWLINE][ICON_Bullet]Di tháp Phật giáo Đại thừa: cho phép xây dựng các Di tháp (+3 [ICON_Faith] Đức tin, +1 [ICON_Amenities] Tiện nghi). Mở khóa bằng In ấn.[NEWLINE][ICON_Bullet]Giáo điều Đức Phật: mua các Nhà Truyền giáo và các Nhà sư rẻ hơn 30%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME">
+			<Text>Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION">
+			<Text>Bắt đầu với công dân theo Chủ nghĩa Thần bí.</Text>
+		</Replace>
+		<!-- Tufan-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME">
+			<Text>Tufan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Đế chế Tufan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE">
+			<Text>Tufan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME">
+			<Text>Phật giáo Kim cương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Bắt đầu với Tôn giáo Phật giáo Kim Cương đã được thành lập. Tôn giáo này có các tín điều sau đây:[NEWLINE][ICON_Bullet]Phật Tổ: +2 [ICON_FOOD] Thực phẩm cho các Bãi chăn.[NEWLINE][ICON_Bullet]Thiền Phật: +1 [ICON_Amenities] Tiện nghi cho các thành phố có 2 quận đặc trưng.[NEWLINE][ICON_Bullet]Di tháp Phật giáo Kim cương: cho phép xây dựng các Di tháp (+3 [ICON_Faith] Đức tin, +1 [ICON_Amenities] Tiện nghi) . Mở khóa bằng In ấn.[NEWLINE][ICON_Bullet]Nhiệt thành Truyền giáo: các đơn vị tôn giáo bỏ qua chi phí [ICON_Movement] Di chuyển trên địa hình và các đặc trưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME">
+			<Text>Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Bắt đầu với công dân theo Chủ nghĩa Thần bí.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

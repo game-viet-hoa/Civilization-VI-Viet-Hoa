@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_BUTTON_DONE">
+			<Text>Xong</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_CITY_FOUNDED">
+			<Text>Một thành phố đã được thành lập bởi {1_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
+			<Text>Một kỳ quan hoàn thành xây dựng bởi {1_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
+			<Text>{1_CivName} đã bị đánh bại bởi {2_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
+			<Text>{1_CivName} đã thất bại.</Text>
+		</Replace>
+		<!-- Victories -->
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
+			<Text>{1_CivName} đã chiến thắng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
+			<Text>{1_CivName} đã chiến thắng bằng thống trị!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
+			<Text>{1_CivName} đã chiến thắng bằng văn minh!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
+			<Text>{1_CivName} đã chiến thắng bằng tôn giáo!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
+			<Text>{1_CivName} đã chiến thắng bằng điểm!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
+			<Text>{1_CivName} đã chiến thắng bằng khoa học!</Text>
+		</Replace>
+		<!-- -->
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_MAKE_PEACE">
+			<Text>{1_CivName} đã làm hòa với {2_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_DECLARE_WAR">
+			<Text>{1_CivName} đã tuyên chiến với {2_CivName}.</Text>
+		</Replace>
+		<!-- Era Change -->
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
+			<Text>{1_CivName} đã bước sang thời đại mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
+			<Text>{1_CivName} đã bước sang thời Xa Xưa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
+			<Text>{1_CivName} đã bước sang thời Cổ Đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
+			<Text>{1_CivName} đã bước sang thời Trung Cổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
+			<Text>{1_CivName} đã bước sang thời Phục hưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
+			<Text>{1_CivName} đã bước sang thời Công nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
+			<Text>{1_CivName} đã bước sang thời Hiện đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
+			<Text>{1_CivName} đã bước sang thời Nguyên tử.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
+			<Text>{1_CivName} đã bước sang thời Thông tin.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

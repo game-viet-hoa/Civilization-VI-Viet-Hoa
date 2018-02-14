@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Names -->
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
+			<Text>Chống kỵ binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
+			<Text>Chiến xa hạng nặng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
+			<Text>Từ chối phí địa hình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
+			<Text>Từ chối phí qua sông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
+			<Text>Từ chối kiểm soát khu vực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
+			<Text>Chiến xa hạng nhẹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
+			<Text>Không di chuyển và bắn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_OCEAN_NAME">
+			<Text>Chỉ bờ biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CANNOT_ATTACK">
+			<Text>Không thể tấn công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
+			<Text>Thưởng lãnh thổ thân thiện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
+			<Text>Cho phép tấn công tường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
+			<Text>Băng qua tường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
+			<Text>Chống vũ khí giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
+			<Text>Phát hiện mục tiêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
+			<Text>Không cản trở tầm nhìn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
+			<Text>Cận chiến Thiểu số chính trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
+			<Text>Chế độ thần quyền</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
+			<Text>Giáo hội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
+			<Text>Chủ nghĩa phát xít tấn công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
+			<Text>Chủ nghĩa cộng sản phòng thủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
+			<Text>Quân y chữa bệnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STEALTH_NAME">
+			<Text>Tàng hình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
+			<Text>Phát hiện tàng hình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COASTAL_RAID_NAME">
+			<Text>Tấn công bờ biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
+			<Text>Tấn công lưỡi sét bờ biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
+			<Text>Tấn công trực tiếp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
+			<Text>Chữa trị trên lãnh thổ trung lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
+			<Text>Miễn dịch cướp biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
+			<Text>Kẻ điên Na Uy giận dữ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
+			<Text>Kẻ điên Na Uy di chuyển</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+      <Text>Thuyền dài Viking di chuyển</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+			<Text>Cướp thuyền</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
+			<Text>Bắt thợ xây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
+			<Text>Kị binh Balkan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
+			<Text>Rèn luyện độ cao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COSSACK_NAME">
+			<Text>Sông Đông êm đềm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_REDCOAT_NAME">
+			<Text>Quân đội toàn cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VARU_NAME">
+			<Text>Sợ hãi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NAGAO_NAME">
+			<Text>Chiến binh rừng rậm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CONQUISTADOR_NAME">
+			<Text>Kẻ chinh phục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GARDE_NAME">
+			<Text>Lính tinh nhuệ của Napoleon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOPLITE_NAME">
+			<Text>Đội hình falăng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UBOAT_NAME">
+			<Text>Người sói</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
+			<Text>Kị binh tình nguyện của Teddy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MUSTANG_NAME">
+			<Text>Phi cơ Ngựa hoang P-51</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAMLUK_NAME">
+			<Text>Cưỡi ngựa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SAMURAI_NAME">
+			<Text>Samurai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
+			<Text>Truyền đạo trong nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Vào lãnh thổ nước ngoài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
+			<Text>Giữ hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
+			<Text>Lợi thế lãnh thổ thân thiện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Bỏ qua tự do đi lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
+			<Text>Đi trên không</Text>
+		</Replace>
+		<!-- Full description -->
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+14 [ICON_Strength] Sức mạnh chống lại đơn vị kỵ binh hạng nhẹ và nặng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh chống lại đơn vị chống bị binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển nếu bắt đầu trong Sa mạc, Đồng bằng, Đồng cỏ hoặc Đài nguyên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Rừng, đồi và đầm lầy chỉ lấy 1 [ICON_Movement] Di chuyển. Mở khóa bởi Người Truyền Giáo Nhiệt Huyết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
+			<Text>Không bị ảnh hưởng bởi vùng kiểm soát của địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Di chuyển nếu bắt đầu trong Sa mạc, Đồng bằng, Đồng cỏ hoặc Đài nguyên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
+			<Text>Không thể di chuyển và tấn công trong cùng một lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
+			<Text>Không thể đi vào ô đại dương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Không thể tấn công địch, chỉ có thể phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
+			<Text>Thưởng sức mạnh trong vùng đất thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
+			<Text>Khi liền kề thành phố địch, đơn vị cận chiến có thể gây toàn sát thương cho tường thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
+			<Text>Khi liền kề thành phố địch, đơn vị cận chiến thân thiện có thể băng qua tường và tấn công trực tiếp thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh đấu với Lính giáo và Lính dùng thương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Range] Tầm liền kề cho đơn vị công thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
+			<Text>Tầm nhìn không bị cản trở bởi địa hình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Sức mạnh từ chính phủ Thiểu số chính trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Religion] Sức mạnh tôn giáo từ chính phủ Chế độ thần quyền.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Religion] Sức mạnh tôn giáo từ chính sách Giáo hội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Sức mạnh khi tấn công từ chính phủ Chủ nghĩa phát xít.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
+			<Text>+6 [ICON_Strength] Sức mạnh khi phòng thủ từ chính phủ Chủ nghĩa cộng sản.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
+			<Text>+20 HP cho các đơn vị trong vòng 1 ô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
+			<Text>Tàng hình với các đơn vị đứng cánh xa hơn một ô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
+			<Text>Phát hiện đơn vị tàng hình trên bản đồ khi đứng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
+			<Text>Hải quân cận chiến của Harald Hardrada có thể cướp bóc các kiến trúc và công trình trên vùng đất ven biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
+			<Text>Hỗ trợ đơn vị tấn công trực tiếp kể cả nếu họ đang trong đoàn hộ tống với một đơn vị chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
+			<Text>Có thể hồi máu trên lãnh thổ trung lập.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
+			<Text>Trong khi trên một ô nước, [ICON_TradeRoute] Tuyến đường thương mại này không thể bị cướp bở kẻ địch. Có được khi là chủ của thành phố tự trị Lisbon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi tấn công, và -7 [ICON_Strength] Sức mạnh khi phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Di chuyển nếu đơn vị này bắt đầu trên lãnh thổ địch.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+      <Text>+1 [ICON_Movement] Di chuyển trong vùng bờ biển.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+			<Text>Có thể bắt kẻ địch bại trận bằng tàu hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
+			<Text>Có thể bắt kẻ địch bại trận của nền văn minh địch về làm Thợ Xây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh cho kỵ binh hạng nhẹ và nặng trên đồi khi là chủ của thành phố tự trị Preslav.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
+			<Text>Nhà truyền giá, thẩm giáo, và tông đồ có thể di chuyển trên đồi nhanh hơn sau khi đứng gần đỉnh núi Everest.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
+			<Text>Có thể di chuyển sau tấn công. +5 [ICON_Strength] Sức mạnh trong lãnh thổ nhà hoặc gần lãnh thổ nhà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trên lục địa khác lục địa Thủ Đô. Không phí xuống tàu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VARU_DESCRIPTION">
+			<Text>-5 [ICON_Strength] Sức mạnh đối với kẻ địch liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ chống lại đơn vị đánh xa, có thể nhìn xuyên qua tính chất địa hình, và có thể di chuyển qua Rừng và Rừng nhiệt đới mà không bị phạt [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi có các đơn vị tôn giáo đứng cùng một ô. Nếu đơn vị này chiếm thành phố hoặc liền kề thành phố bị chiếm thì sẽ tự động cải giáos.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GARDE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi trên cùng lục địa với [ICON_Capital] Thủ Đô. +10 điểm Đại Tướng Quân cho việc giết kẻ địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh nếu ở đấy có Lính xiên Greek liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trên đại dương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
+			<Text>Đánh bại địch sẽ thưởng [ICON_Culture] Văn Minh bằng 50% [ICON_Strength] Sức mạnh cơ bản của đơn vị khi chiến đấu trên lục địa có [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi chiến đấu trên đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
+			<Text>Nhận thêm sức mạnh khi đấu với Chiến đấu cơ, có thêm tầm đánh và kiếm được nhiều EXP hơn từ cuộc chiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
+			<Text>Đơn vị này sẽ hồi máu mỗi lượt, kể cả khi di chuyển hoặc chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
+			<Text>Đơn vị này không bị giảm sức mạnh khi bị thương.</Text>
+		</Replace>
+		<!-- Combat preview description -->
+		<Replace Language='en_US' Tag="LOC_COMBAT_DIFFICULTY_SCALING">
+			<Text>+{Amount} thưởng do khó khăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+10 chống kỵ binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
+			<Text>+5 chống chiến đấu cơ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+1 điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
+			<Text>Tất cả địa hình chỉ mất 1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
+			<Text>Không ảnh hưởng bởi kiểm soát khu vực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+2 điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
+			<Text>Không thể di chuyển sau tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
+			<Text>Không thể đi vào ô đại dương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Ngăn chặn đơn vị khỏi tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Thưởng chiến đấu trên vùng đất thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Cho phép đơn vị cận chiến tấn công tường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
+			<Text>Cho phép đơn vị cần chiến băng qua tường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
+			<Text>+10 Sức mạnh đấu với chống kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
+			<Text>+1 Tầm đánh khi gần pháo công thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
+			<Text>Không cản trở tầm nhìn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 Sức mạnh từ Thiểu số chính trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 Sức mạnh từ Chế độ thần quyền</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 Sức mạnh từ Giáo hội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 Tấn công từ Chủ nghĩa phát xít</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 Phòng thủ từ Chủ nghĩa cộng sản</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
+			<Text>+4 đấu với đơn vị của nền văn minh theo tôn giáo khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
+			<Text>Chiến tranh tôn giáo: +4 đấu với đơn vị của nền văn minh theo tôn giáo khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 Sức mạnh khi trên lục địa nhà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 Sức mạnh đấu với thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
+			<Text>+5 Sức mạnh trên đất ven biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
+			<Text>+5 Sức mạnh trên vùng nước nông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
+			<Text>Hồi +{1_Amount} HP cho đơn vị trong vòng 1 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
+			<Text>+{1_Amount} sức mạnh khi tấn công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
+			<Text>{1_Amount} Sức mạnh khi phòng thủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% cơ hội bắt được kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% cơ hội bắt được kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi chiến đấu trên đồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi ở lãnh thộ của bạn hoặc liền kề lãnh thổ bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi chiến đấu trên lục địa khác lục địa có chưa Thủ Đô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount} Sức mạnh khi liền kề Voi Ấn Độ của địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi phòng thủ đánh xa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi có các đơn vị tôn giáo đứng cùng một ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi trên cùng lục địa chứa Thủ Đô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi liền kề đơn vị Lính xiên Greek khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức mạnh khi chiến đấu trên đại dương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
+			<Text>+{1_Amount} sức mạnh trên đồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
+			<Text>Chỉ có thể Truyền Đạo tôn giáo của họ sang các thành phố trong đế chế họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Không thể tạo chiến đấu thần học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
+			<Text>Lợi thế đáng kể cho chiến đấu thần học trong đế chế họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Không có Tự do đi lại nhưng đơn vị này có thể vào lãnh thỗ nước khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Rừng, đồi và đầm lầy chỉ mất 1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
+			<Text>Không phí di chuyển khi qua sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Không có Tự do đi lại nhưng đơn vị này có thể vào lãnh thỗ nước khác.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

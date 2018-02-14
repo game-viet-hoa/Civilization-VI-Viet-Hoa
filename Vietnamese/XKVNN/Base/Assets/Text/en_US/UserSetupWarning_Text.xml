@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
+			<Text>Có vấn đề xảy ra khi chạy phiên bản DirectX 12 của Civilization VI với cấu hình phần cứng hiện tại của bạn. Phiên bản DirectX 12 yêu cầu một card đồ họa tương thích, hoặc AMD hoặc NVidia (thế hệ Maxwell hoặc cao hơn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
+			<Text>Tiếp tục xử lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_USER_WARNING_QUIT">
+			<Text>Thoát</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Name and Description-->
+		<Replace Language='en_US' Tag="LOC_TSLEARTH_NAME">
+			<Text>Vị Trí Khởi Đầu Chân Thật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Các nền văn minh bắt đầu đúng với vị trí thật trên bản đồ thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Trái đất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>Mô phỏng trái đất với tài nguyên, địa hình và các tính chất phản ánh chính xác với lịch sử của mỗi vùng.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

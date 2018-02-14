@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civics-->
+		<Replace Language='en_US' Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
+			<Text>Cho phép tạo ra [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
+			<Text>Thưởng sức mạnh khi thọc sườn và hỗ trợ cho tất cả đơn bị chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
+			<Text>Mở khóa khả năng tự do đi lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
+			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
+			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
+			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
+			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>Nông Trại +1 [ICON_Food] Thực phẩm cho mỗi Nông Trại liền kề khi có 3 Nông Trại liền kề nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
+			<Text>Cho phép đồng minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
+			<Text>Thưởng 1 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
+			<Text>Bãi Chăn +1 [ICON_Food] Thực phẩm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
+			<Text>Khả năng đào tạo một Gián điệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>Trại +1 [ICON_Production] Sản phẩm và +1 [ICON_Food] Thực phẩm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Ảnh hưởng [ICON_Tourism] Du Lịch Tôn Giáo giảm một nửa so với nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
+			<Text>Có thể xây Nông Trại trên Đồng cỏ (Đồi) và Đồng bằng (Đồi).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
+			<Text>Khả năng đào tạo một Gián điệp. Cho phép hai đơn vị nhất định ghép lại trở thành Trung đội hoặc Hải đoàn. Cho phép sử dụng lý do biện minh chiến tranh: Chiến tranh thuộc địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
+			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
+			<Text>Tiết lộ [ICON_RESOURCE_ANTIQUITY_SITE] Di tích cổ. Cho phép đào tạo Nhà khảo cổ. Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
+			<Text>Thưởng 2 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+			<Text>Thưởng 3 [ICON_Envoy] Phái đoàn. Cho phép xây dựng Công Viên Quốc Gia và mua Nhà Tự Nhiên Học với [ICON_Faith] Đức Tin. Cho phép Thợ xây chặt Rừng (rừng cải tạo). Rừng lâu năm chưa được loại bỏ (rừng nguyên sinh) sẽ cho +1 Sức Hấp Dẫn. Thêm [ICON_TOURISM] Du Khách từ Tường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Cho phép hình thành Hiệp Ước Phòng Thủ. Cho phép 3 đơn vị nhất định hợp lại thành Quân Đội hoặc Hạm Đội. Cho phép sử dụng biện minh chiến tranh: Chiến tranh mở rộng lãnh thổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
+			<Text>Khả năng đào tạo thêm một Gián điệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
+			<Text>Khả năng đào tạo thêm một Gián điệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
+			<Text>Tiết lộ [ICON_RESOURCE_SHIPWRECK] Tàu đắm, và cho phép Nhà khảo cổ trục vớt để lấy [ICON_GreatWork_Artifact] Cổ vật từ chúng. Thưởng 3 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
+			<Text>Cho phép vận chuyển các đơn vị mặt đất giữa các Khu Hàng Không có chứa Sân bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng cho Đồn Điền.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Có thể làm nhiều lần, giúp tăng điểm dành chiến thắng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
+			<Text>Thưởng {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?Phái Đoàn; other?Phái Đoàn;}</Text>
+		</Replace>
+		<!-- Civic Boosts-->
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
+			<Text>Xây công trình cho 3 ô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
+			<Text>Khám phá lục địa thứ hai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+			<Text>Đánh bại một Trại Man Di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
+			<Text>Xây một Đặc Khu chuyên biệt bất kỳ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
+			<Text>Một thành phố đạt 6 dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MYSTICISM">
+			<Text>Tìm thấy một Vị Thần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
+			<Text>Nghiên cứu công nghệ XÂY DỰNG.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
+			<Text>Gặp 3 thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
+			<Text>Xây một Kỳ Quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
+			<Text>Xây một Khu Quân Sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
+			<Text>Trở thành mục tiêu của Tuyên bố chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
+			<Text>Xây 2 Khu tri thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_THEOLOGY">
+			<Text>Sáng lập một tôn giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
+			<Text>Giết một Thuyền mái chèo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_FEUDALISM">
+			<Text>Xây 6 Nông Trại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
+			<Text>Một thành phố đạt 10 dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MERCENARIES">
+			<Text>Có 8 đơn vị lính mặt đất trong quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
+			<Text>Duy trì 4 Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_GUILDS">
+			<Text>Xây 2 Chợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
+			<Text>Xây 2 Đền thờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_EXPLORATION">
+			<Text>Có 2 Thuyền buồm nhỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_HUMANISM">
+			<Text>Kiếm được Họa sĩ vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
+			<Text>Liên minh với nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
+			<Text>Có 6 thành phố theo đuổi tôn giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
+			<Text>Kiếm được Thương gia vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
+			<Text>Kiếm được 3 vĩ nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
+			<Text>Xây 7 Đặc Khu khác nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_NATIONALISM">
+			<Text>Tuyên bố chiến tranh bằng cách sử dụng Biện Minh Chiến Tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
+			<Text>Xây Bảo tàng nghệ thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_COLONIALISM">
+			<Text>Nghiên cứu công nghệ Thiên văn học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
+			<Text>Xây Bảo tàng khảo cổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_URBANIZATION">
+			<Text>Một thành phố đạt 15 dân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
+			<Text>Xây 2 Pháo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CONSERVATION">
+			<Text>Có Vùng Ngoại Ô có Sức Hấp Dẫn Ngây ngất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
+			<Text>Có 3 Trung đội trong quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
+			<Text>Nghiên cứu Radio.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CAPITALISM">
+			<Text>Xây 3 Sàn giao dịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
+			<Text>Xây viện nghiên cứu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
+			<Text>Xây 4 Cống thoát nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
+			<Text>Xây 3 Học viện quân sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
+			<Text>Xây 3 Nhà máy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_COLD_WAR">
+			<Text>Nghiên cứu công nghệ Phản ứng hạt nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
+			<Text>Xây 4 Khu giải trí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
+			<Text>Có một Bảo Tàng có Chủ Đề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
+			<Text>Xây Khu hàng không hoặc Đường băng trên một lục địa nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
+			<Text>Xây trạm không gian.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
+			<Text>Xây 3 Sân bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
+			<Text>Nghiên cứu công nghệ Viễn thông.</Text>
+		</Replace>
+		<!-- Civic Boosts Long Descriptions-->
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
+			<Text>Xây công trình cho 3 ô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Khám phá lục địa thứ hai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
+			<Text>Đánh bại một Trại Man Di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
+			<Text>Xây một Đặc Khu bất kỳ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
+			<Text>Một thành phố đạt 6 dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
+			<Text>Tìm thấy một Vị Thần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+			<Text>Nghiên cứu công nghệ Xây Dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
+			<Text>Gặp 3 thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
+			<Text>Xây một kỳ quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+			<Text>Xây một khu quân sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+			<Text>Tuyên bố chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
+			<Text>Xây 2 khu tri thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
+			<Text>Sáng lập một tôn giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
+			<Text>Giết một Thuyền mái chèo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
+			<Text>Xây 6 Nông Trại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
+			<Text>Một thành phố đạt 10 dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
+			<Text>Có 8 đơn vị lính mặt đất trong quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
+			<Text>Duy trì 4 Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
+			<Text>Xây 2 Chợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
+			<Text>Xây 2 Đền thờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
+			<Text>Có 2 Thuyền buồm nhỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
+			<Text>Kiếm được Họa sĩ vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
+			<Text>Liên minh với nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
+			<Text>Có 6 thành phố theo đuổi tôn giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
+			<Text>Kiếm được Thương gia vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
+			<Text>Kiếm được 3 vĩ nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
+			<Text>Nghiên cứu công nghệ Thiên văn học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
+			<Text>Xây 7 Đặc Khu khác nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
+			<Text>Tuyên bố chiến tranh bằng cách sử dụng Biện Minh Chiến Tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
+			<Text>Xây Bảo tàng nghệ thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
+			<Text>Xây Bảo tàng khảo cổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
+			<Text>Một thành phố đạt 15 dân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
+			<Text>Xây 2 Pháo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
+			<Text>Có Vùng Ngoại Ô có Sức Hấp Dẫn Ngây ngất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
+			<Text>Nghiên cứu Radio.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
+			<Text>Có 3 Quân đoàn trong quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
+			<Text>Xây 3 Sàn giao dịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
+			<Text>Xây viện nghiên cứu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
+			<Text>Xây 4 Cống thoát nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
+			<Text>Xây 3 Học viện quân sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
+			<Text>Xây 3 Nhà máy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
+			<Text>Nghiên cứu công nghệ Phản ứng hạt nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
+			<Text>Xây 4 Khu giải trí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
+			<Text>Có một Bảo Tàng có Chủ Đề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
+			<Text>Xây Khu hàng không hoặc Đường băng trên một lục địa nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
+			<Text>Xây trạm không gian.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
+			<Text>Xây 3 Sân bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
+			<Text>Nghiên cứu công nghệ Viễn thông.</Text>
+		</Replace>
+		<!-- Governments -->
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_OF">
+			<Text>Chính phủ của {1_civ}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CHANGE_GOVERNMENT">
+			<Text>Thay đổi chính phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MY_GOVERNMENT">
+			<Text>Chính phủ của tôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_policIES">
+			<Text>chính sách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENTS">
+			<Text>Chính phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURE_PER_TURN">
+			<Text>Văn minh/lượt: +{1_Culture}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MILITARY">
+			<Text>Quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ECONOMIC">
+			<Text>Kinh tế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMATIC">
+			<Text>Ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WILDCARD">
+			<Text>Bất ngờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMPTY_POLICY_SLOT">
+			<Text>Chính sách {1_policyType} không còn chỗ trống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NO_AVAIL_policIES">
+			<Text>Không có chính sách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIEW_LOCKED_policIES">
+			<Text>Xem chích sách đã khóa</Text>
+		</Replace>
+		<!-- Government Effects-->
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
+			<Text>Không có thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
+			<Text>Thủ Đô được +1 cho tất cả sản lượng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
+			<Text>Tất cả lính cận chiến mặt đất được +4 [ICON_Strength] Sức mạnh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
+			<Text>Tất cả thành phố với một Đặc Khu được +1 [ICON_Amenities] Tiện nghi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>+50% [ICON_Production] Sản phẩm đối tới kiến trúc phòng thủ. +1 [ICON_Housing] Nhà Ở cho mỗi level của Tường thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
+			<Text>Có thể mua lính mặt đất bằng Đức Tin. Tất cả đơn vị +5 [ICON_Religion] Sức mạnh tôn giáo trong chiến đấu thần học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
+			<Text>+2 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
+			<Text>Tất đơn vị quân đội +4 [ICON_Strength] Sức mạnh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
+			<Text>Đơn vị mặt đất +4 [ICON_Strength] Phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
+			<Text>Mua Vĩ nhân giá ít hơn 50% Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
+			<Text>Không có thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
+			<Text>Thưởng Sản phẩm cho Kỳ quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
+			<Text>Kinh nghiệm cho đơn vị quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
+			<Text>Thưởng điểm Vĩ nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
+			<Text>Thưởng điểm ảnh hưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
+			<Text>Giảm giá khi mua bằng Đức Tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
+			<Text>Giảm giá khi mua bằng Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
+			<Text>Thưởng trên đơn vị Sản phẩm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
+			<Text>Thưởng tất cả Sản phẩm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
+			<Text>Thêm sản lượng từ các dự án Đặc Khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
+			<Text>Không có thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
+			<Text>Thưởng [ICON_Production] Sản phẩm (10%, cộng 1% cho mỗi 20 lượt trên tốc độ trung bình) cho Kỳ Quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
+			<Text>Thưởng EXP cho quân đội (20%, cộng 1% cho mỗi 5 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
+			<Text>Thưởng điểm [ICON_GreatPerson] Vĩ nhân (15%, cộng 1% cho mỗi 15 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
+			<Text>Thưởng điểm ảnh hưởng đối với [ICON_Envoy] Phái đoàn (20%, cộng 1% cho mỗi 10 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
+			<Text>Giảm giá mua bằng [ICON_Faith] Đức Tin (15%, cộng 1% cho mỗi 15 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
+			<Text>Giảm giá mua bằng [ICON_Gold] Vàng (15%, cộng 1% cho mỗi 15 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
+			<Text>Thưởng [ICON_Production] Sản phẩm cho đơn vị (20%, cộng 1% cho mỗi 10 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
+			<Text>Tưởng tất cả [ICON_Production] Sản phẩm (10%, cộng 1% cho mỗi 20 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
+			<Text>Thưởng sản lượng cho các dự án Đặc Khu (30%, cộng 1% cho mỗi 10 lượt trên tốc độ trung bình).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
+			<Text>Không còn {1_policyName} có thể đặt cho chính phủ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
+			<Text>Không có {1_policyName} để đặt dưới chính phủ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
+			<Text>Còn hơn {1_Num: number #} chính sách có thể đặt trong {2_policyName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
+			<Text>{1_Num: number #} {1_Num : plural 1?chính sách; other?chính sách;} có thể đặt trong {2_policyName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
+			<Text>Có được {1_InfluencePointRate} điểm Ảnh hưởng mỗi [ICON_Turn] lượt. Đủ {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?điểm; other?điểm;}, kiếm được {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Phái đoàn; other?Phái đoàn;}.</Text>
+		</Replace>
+		<!-- Policy Descriptions-->
+		<Replace Language='en_US' Tag="LOC_POLICY_PLACEHOLDER_DESC">
+			<Text>Khung trống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
+			<Text>Thưởng +100% liền kề Khu nghệ thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_AGOGE_DESCRIPTION">
+			<Text>Thưởng +50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời Xa xưa và Cổ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới thành phố đồng minh được +2 [ICON_Food] Thực phẩm và +2 [ICON_Production] Sản phẩm cho cả hai thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
+			<Text>Thành phố +6 [ICON_Strength] Phòng thủ. Thành phố +5 [ICON_Ranged] Đánh xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng cho tất cả [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
+			<Text>+2 điểm Ảnh hưởng mỗi lượt đối với việc đạt được Phái Đoàn với thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị kỵ binh hạng nặng và nhẹ của thời đại Trung cổ, Phục hưng, Công nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
+			<Text>+10% [ICON_Culture] Văn minh cho mỗi thành phố tự trị của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
+			<Text>+4 [ICON_Food] Thực phẩm từ [ICON_TradeRoute] Tuyến đường thương mại trong nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% gia tăng dân số cho các thành phố không cùng lục địa với [ICON_Capital] Thủ Đô gốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] Vàng cho các thành phố không cùng lục địa với [ICON_Capital] Thủ Đô gốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với Dân di cư.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
+			<Text>Chi phí duy trì giảm 1 [ICON_Gold] Vàng cho mỗi lượt, mỗi đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
+			<Text>Mỗi [ICON_Envoy] Phái đoàn gửi đến thành phố tự trị của bạn sẽ được tính là hai, nếu chủ của nó khác chính phủ với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CORVEE_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan Xa xưa và Cổ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
+			<Text>Thưởng 100% liền kề Khu công nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
+			<Text>Level Gián điệp kẻ địch giảm đi 2 trong vùng đất của bạn. Gián điệp của bạn tăng 1 level cho hoạt động tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
+			<Text>Không có Chiến tranh dai dẳng từ trận chiến trong lãnh thổ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
+			<Text>[ICON_Envoy] Phái đoàn đầu tiên gửi đến mỗi thành phố tự trị được tính là hai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh khi đấu với quân man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
+			<Text>+5 [ICON_Production] Sản phẩm và +10 [ICON_Gold] Vàng từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
+			<Text>+100% liền kề Khu thương mại và Khu cảng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
+			<Text>+50% Sản Phẩm đối với Dân Di Cư. Giá mua ô đất giảm 20%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Trung cổ và Phục hưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị hàng không thời đại Hiện đại và Nguyên tử.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
+			<Text>+100% liền kề Khu tri thức và Khu công nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>+100% sản lượng [ICON_Gold] Vàng từ Khu thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatArtist] Họa sĩ vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
+			<Text>+1 [ICON_Faith] Đức Tin và +1 [ICON_Gold] Vàng cho [ICON_Capital] Thủ Đô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan thời đại Trung cổ và Phục hưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Công nghiệp và Hiện đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>+100% sản lượng [ICON_Culture] Văn minh từ các kiến trúc Khu nghệ thuật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
+			<Text>Tự do đi lại với tất cả thành phố tự trị, và +4 điểm ảnh hưởng mỗi lượt để có được [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] Du lịch từ [ICON_GreatWork_Landscape] Tác phẩm nghệ thuật và [ICON_GreatWork_Artifact] Cổ vật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ILKUM_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Thợ Xây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatScientist] Nhà khoa học vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INSULAE_DESCRIPTION">
+			<Text>+1 [ICON_Housing] Nhà ở trong tất cả các thành phố với ít nhất 2 Đặc Khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm đối với dự án Chạy đua vào không gian nếu một thành phố có Học viện quân sự hoặc Hải cảng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
+			<Text>+10% [ICON_Science] Khoa học cho mỗi thành phố tự trị của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
+			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị hải quân ngoại trừ Tàu sân bay thời Hiện đại, Nguyên tử và Thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INVENTION_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatEngineer] Kỹ sư vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
+			<Text>+4 điểm [ICON_GreatMerchant] Thương gia vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
+			<Text>Giảm giá mua ô đất 20%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
+			<Text>Giảm giá duy trì đơn vị 2 [ICON_Gold] Vàng mỗi lượt, mỗi đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi cho tất cả các thành phố với ít nhất 2 Đặc Khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với Kỵ binh hạng nặng và nhẹ thời đại Hiện đại, Nguyên tử và Thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIMES_DESCRIPTION">
+			<Text>+100% [ICON_Production] Sản phẩm đối với kiến trúc phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatWriter] Nhà văn vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
+			<Text>+1 Di chuyển nếu lượt đang bắt đầu trong lãnh thổ thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với Gián điệp. Điện viên hoạt đồng thời gian ít hơn 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị Kỵ binh hạng nặng và nhẹ trong thời đại Xa xưa và Cổ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+100% [ICON_Production] Sản phẩm đối với đơn vị hải quân thời đại Xa xưa và Cổ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Tuyến đường thương mại quốc tế +1 [ICON_Gold] Vàng mỗi công trình khai thác tài nguyên quý và chiến lược ở đích đến, cũng như +2 [ICON_Culture] Văn minh và +2 [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Tích lũy mệt mỏi chiến tranh ít hơn 25% so với bình thường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
+			<Text>+2 [ICON_Housing] Nhà ở trong tất cả các thành phố có ít nhất 3 Đặc Khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Vàng cho mỗi [ICON_Envoy] Phái đoàn của bạn ở thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
+			<Text>Mỗi thành phố +1 [ICON_Culture] Văn minh cho mỗi Đặc Khu nó xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Nguyên tử và Thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
+			<Text>+4 điểm [ICON_GreatGeneral] Đại Tướng Quân mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
+			<Text>Học viện quân sự và Hải cảng sinh ra +1 [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
+			<Text>Đơn vị còn 50% [ICON_Strength] Sức mạnh giảm do bị thương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
+			<Text>Chiến thắng trận đánh với các đơn vị có thời đại thấp hơn cung cấp [ICON_Gold] Vàng bằng 50% [ICON_Strength] Sức mạnh của đơn vị bị đánh bại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>+100% liền kề Khu tri thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+100% liền kề Khu cảng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatAdmiral] Đại Đô Đốc mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
+			<Text>+4 [ICON_Housing] Nhà ở, +2 [ICON_Amenities] Tiện nghi, -8 [ICON_Gold] Vàng cho tất cả các thành phố có ít nhất 3 Đặc Khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
+			<Text>+4 điểm [ICON_GreatScientist] Nhà khoa học vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
+			<Text>Gián điệp ăn cắp một thúc đẩy công nghệ mà không bị phát hiện sẽ được thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
+			<Text>+50% [ICON_Tourism] Du lịch đến cho các nền văn mình mà bạn có [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
+			<Text>+100% [ICON_Production] Sản phẩm cho đơn vị hỗ trợ thời đại Hiện đại, Nguyên tử và Thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Level gián điệp địch giảm 2 trên vùng đất của bạn. Tuy nhiên tất cả các thành phố bị -1 [ICON_Amenities] Tiện nghi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
+			<Text>100% [ICON_Production] Sản phẩm đối với đơn vị hải quân thời đại Phục hưng và Công nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
+			<Text>Giảm 50% cho tất cả nâng cấp đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
+			<Text>Tích lũy mệt mỏi chiến tranh ít hơn 25% so với bình thường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
+			<Text>Nhận 50 [ICON_Gold] Vàng mỗi Sức Hấp Dẫn của ô khi thay thế Nông Trại với Vùng ngoại ô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Thợ Xây, và Thợ Xây mới đào tạo được thêm 2 lần xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RAJ_DESCRIPTION">
+			<Text>+2 [ICON_Science] Khoa học, [ICON_Culture] Văn minh, [ICON_Faith] Đức Tin, và [ICON_Gold] Vàng cho mỗi thành phố tự trị của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RAID_DESCRIPTION">
+			<Text>Sản lượng thu được từ cướp bóc được x2 khi cướp Công Trình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>+100% [ICON_Science] Khoa học từ các kiến trúc Khu tri thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
+			<Text>+5 [ICON_Religion] Sức mạnh tôn giáo cho tất cả đơn vị tôn giáo trong chiến đấu thần học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
+			<Text>Một bản sao của tài nguyên chiến lược cho phép tạo ra và mua đơn vị yêu cầu ở thành phố bất kỳ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi cho các thành phố có đóng quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_REVELATION_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatProphet] Nhà tiên tri vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SACK_DESCRIPTION">
+			<Text>Sản lượng nhân đôi khi cướp bóc Đặc Khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
+			<Text>x3 [ICON_Tourism] Du lịch từ [ICON_GreatWork_Music] Tác phẩm âm nhạc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
+			<Text>+100% liền kề Thánh Địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
+			<Text>THỢ XÂY mới đào tạo tăng thêm 2 lần xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>x2 sản lượng [ICON_Faith] Đức Tin từ các kiến trúc Thánh Địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
+			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan từ thời đại Công nghiệp trở đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
+			<Text>+100% liền kề Khu nghệ thuật, và Sân vận động +1 [ICON_Amenities] Tiện nghi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
+			<Text>+50 [ICON_Production] Sản phẩm đối với đơn vị hải quân thời Hiện đại và đối với tất cả Tàu sân bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatGeneral] Đại Tướng Quân mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SURVEY_DESCRIPTION">
+			<Text>x2 EXP cho đơn vị trinh sát.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
+			<Text>+4 điểm [ICON_GreatMusician] Nhạc sĩ vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Vàng từ mỗi Viện nghiên cứu, Học viên quân sự và Nhà máy điện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
+			<Text>x2 sản lượng từ cướp bóc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
+			<Text>+100% liền kề Khu thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Văn minh và +1 [ICON_Science] Khoa học từ [ICON_TradeRoute] Tuyến đường thương mại quốc tế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
+			<Text>+2 điểm [ICON_GreatMerchant] Thương gia vĩ đại mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Vàng và +1 [ICON_Faith] Đức Tin cho tất cả [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản phẩm trong tất cả các thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản phẩm đối với Khu quân sự và các kiến trúc bên trong nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Sức mạnh khi chiến đấu với nền văn minh theo tôn giáo khác.</Text>
+		</Replace>
+		<!-- Preview Text -->
+		<Replace Language='en_US' Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
+			<Text>+4 Thiểu số chính trị</Text>
+		</Replace>
+		<!-- Temporary UI -->
+		<Replace Language='en_US' Tag="LOC_CIVIC_STARTED">
+			<Text>Tiến trình đã bắt đầu đối với Hành chính: {1_CivicName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_COMPLETE">
+			<Text>Hành chính hoàn thành: {1_CivicName}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI accepts from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Ta rất vui lòng chấp nhận lời kêu gọi đồng minh của ngài.</Text>
+		</Replace>
+
+		<!-- AI Rejects from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Ta không hứng thú vào lúc này.</Text>
+		</Replace>
+
+		<!-- AI Requests an alliance from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ta chọn những đồng minh của ta rất kỹ càng, và ta thấy ngài rất xứng đáng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ngài đã là bằng hữu với đế chế của ta. Thật là vinh dự nếu ngài gia nhập đồng minh với ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ngài đã dành được sự tôn trọng của ta. Chúng ta sẽ tạo thành một liên minh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ngài có muốn thành lập liên minh không?</Text>
+		</Replace>
+		
+		<!-- Human accepts AI requests, AI responds -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+			<Text>Thật tuyệt vời.</Text>
+		</Replace>
+
+		<!-- Human rejects AI requests, AI responds -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+			<Text>Thật đáng tiếc.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>Xin lỗi, nhưng ta không thể cam kết một liên minh vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_POSITIVE">
+			<Text>Ta sẽ rất vui mừng cho cả thế giới biết chúng ta là đồng minh của nhau.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+
+
+		<!-- Sections -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_TITLE">
+			<Text>Các khái niệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
+			<Text>Nền văn minh chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_TITLE">
+			<Text>Người lãnh đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_TITLE">
+			<Text>Thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_DISTRICTS_TITLE">
+			<Text>Đặc Khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_TITLE">
+			<Text>Kiến trúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_TITLE">
+			<Text>Kỳ quan và dự án</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_TITLE">
+			<Text>Đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
+			<Text>Huân chương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
+			<Text>Vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
+			<Text>Công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVICS_TITLE">
+			<Text>Hành chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
+			<Text>Chính phủ và chính sách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_TITLE">
+			<Text>Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_TITLE">
+			<Text>Địa hình và tính chất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_TITLE">
+			<Text>Tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
+			<Text>Công trình và tuyến đường</Text>
+		</Replace>
+
+		<!-- Common page text -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
+			<Text>Giới thiệu</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
+			<Text>Khái Niệm Cơ Bản</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
+			<Text>Bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
+			<Text>Hoàn cảnh lịch sử</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
+			<Text>Sơ lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
+			<Text>Hướng phát triển</Text>
+		</Replace>
+
+    <!-- Common chapter header -->
+    <Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+      <Text>Giới thiệu</Text>
+    </Replace>
+
+    <!-- Page group text>-->
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
+			<Text>Văn hóa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
+			<Text>Công nghiệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
+			<Text>Quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
+			<Text>Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
+			<Text>Khoa học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
+			<Text>Thương mại</Text>
+		</Replace>
+
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
+			<Text>Địa hình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
+			<Text>Tính chất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
+			<Text>Kỳ quan thiên nhiên</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
+			<Text>Chính phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+			<Text>Chính sách quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
+			<Text>Chính sách kinh tế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
+			<Text>Chính sách ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
+			<Text>Chính sách vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
+			<Text>Chính sách bất ngờ</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
+			<Text>Công trình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
+			<Text>Đường</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
+			<Text>Lịch sử tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
+			<Text>Tín ngưỡng vị thần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
+			<Text>Tín ngưỡng thờ phụng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
+			<Text>Tín ngưỡng của tín đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
+			<Text>Tín ngưỡng người sáng lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
+			<Text>Tín ngưỡng nâng cao</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
+			<Text>Thưởng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
+			<Text>Quý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
+			<Text>Chiến lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
+			<Text>Cổ vật</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
+			<Text>Kỳ quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
+			<Text>Dự án</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
+			<Text>Thuộc tính đơn vị</Text>
+		</Replace>	
+
+	</LocalizedText>
+</GameData>

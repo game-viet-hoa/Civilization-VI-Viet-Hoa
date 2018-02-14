@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BLANK">
+			<Text>City</Text>
+		</Replace>
+		<!--America-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WASHINGTON">
+			<Text>Washington</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEW_YORK">
+			<Text>New York</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHILADELPHIA">
+			<Text>Philadelphia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BOSTON">
+			<Text>Boston</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BALTIMORE">
+			<Text>Baltimore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHARLESTON">
+			<Text>Charleston</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEW_ORLEANS">
+			<Text>New Orleans</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CINCINNATI">
+			<Text>Cincinnati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LOS_ANGELES">
+			<Text>Los Angeles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ST_LOUIS">
+			<Text>St. Louis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHICAGO">
+			<Text>Chicago</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUFFALO">
+			<Text>Buffalo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAN_FRANCISCO">
+			<Text>San Francisco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CLEVELAND">
+			<Text>Cleveland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DETROIT">
+			<Text>Detroit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HOUSTON">
+			<Text>Houston</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ATLANTA">
+			<Text>Atlanta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DALLAS">
+			<Text>Dallas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAN_DIEGO">
+			<Text>San Diego</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHOENIX">
+			<Text>Phoenix</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAN_ANTONIO">
+			<Text>San Antonio</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAN_JOSE">
+			<Text>San Jose</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEATTLE">
+			<Text>Seattle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PORTLAND">
+			<Text>Portland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MIAMI">
+			<Text>Miami</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DENVER">
+			<Text>Denver</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JACKSONVILLE">
+			<Text>Jacksonville</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KANSAS_CITY">
+			<Text>Kansas City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RICHMOND">
+			<Text>Richmond</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PITTSBURGH">
+			<Text>Pittsburgh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAS_VEGAS">
+			<Text>Las Vegas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALBUQUERQUE">
+			<Text>Albuquerque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MINNEAPOLIS">
+			<Text>Minneapolis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SPARKS">
+			<Text>Sparks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NASHVILLE">
+			<Text>Nashville</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAN_JUAN">
+			<Text>San Juan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PROVIDENCE">
+			<Text>Providence</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SPRINGFIELD">
+			<Text>Springfield</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BOISE">
+			<Text>Boise</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CENTRALIA">
+			<Text>Centralia</Text>
+		</Replace>
+		<!-- Arabia -->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAIRO">
+			<Text>Cairo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MECCA">
+			<Text>Mecca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEDINA">
+			<Text>Medina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DAMASCUS">
+			<Text>Damascus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAGHDAD">
+			<Text>Baghdad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEPPO">
+			<Text>Aleppo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANAA">
+			<Text>Sana'a</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HATTIN">
+			<Text>Hattin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DAMIETTA">
+			<Text>Damietta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HOMS">
+			<Text>Homs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JEDDAH">
+			<Text>Jeddah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HALAB">
+			<Text>Halab</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADEN">
+			<Text>Aden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BARQAH">
+			<Text>Barqah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AR_RAQQAH">
+			<Text>Ar-Raqqah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TRIPOLI">
+			<Text>Tripoli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AYDHAB">
+			<Text>‘Aydhab</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAIF">
+			<Text>Taif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TABUK">
+			<Text>Tabuk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAMA">
+			<Text>Hama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AL_BAB">
+			<Text>Al-Bab</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SUEZ">
+			<Text>Suez</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AQABA">
+			<Text>Aqaba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAIZZ">
+			<Text>Ta'izz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AL_QUNFUDHAH">
+			<Text>Al Qunfudhah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZABID">
+			<Text>Zabīd</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BILBEIS">
+			<Text>Bilbeis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AL_KARAK">
+			<Text>Al Karak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AYLA">
+			<Text>Ayla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IRBID">
+			<Text>Irbid</Text>
+		</Replace>
+		<!-- Brazil -->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RIO_DE_JANEIRO">
+			<Text>Rio de Janeiro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAO_PAULO">
+			<Text>São Paulo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SALVADOR">
+			<Text>Salvador da Bahia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRASILIA">
+			<Text>Brasília</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FORTALEZA">
+			<Text>Fortaleza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MANAUS">
+			<Text>Manaus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CURITIBA">
+			<Text>Curitiba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RECIFE">
+			<Text>Recife</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PORTO_ALEGRE">
+			<Text>Porto Alegre</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BELEM">
+			<Text>Belém</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GUARULHOS">
+			<Text>Guarulhos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NATAL">
+			<Text>Natal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAMPINAS">
+			<Text>Campinas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAO_LUIS">
+			<Text>São Luis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MACEIO">
+			<Text>Maceió</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VICTORIA">
+			<Text>Victória</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BELO_HORIZONTE">
+			<Text>Belo Horizonte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GOIANIA">
+			<Text>Goiânia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DUQUE_DE_CAXIAS">
+			<Text>Duque de Caxias</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAMPO_GRANDE">
+			<Text>Campo Grande</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PARNAIBA">
+			<Text>Parnaíba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FLORIANOPOLIS">
+			<Text>Florianópolis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NOVA_IGUACU">
+			<Text>Nova Iguaçu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAO_BERNARDO_DO_CAMPO">
+			<Text>São Bernardo do Campo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JOAO_PESSOA">
+			<Text>João Pessoa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSASCO">
+			<Text>Osasco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JABOATAO_DOS_GUARARAPES">
+			<Text>Jaboatão dos Guararapes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAO_JOSE_DOS_CAMPOS">
+			<Text>São José dos Campos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CONTAGEM">
+			<Text>Contagem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UBERLANDIA">
+			<Text>Uberlândia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARACAJU">
+			<Text>Aracaju</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CUIABA">
+			<Text>Cuiabá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FEIRA_DE_SANTANA">
+			<Text>Feira de Santana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JUIZ_DE_FORA">
+			<Text>Juiz de Fora</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JOINVILLE">
+			<Text>Joinville</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MACAPA">
+			<Text>Macapá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JUNDIAI">
+			<Text>Jundiaí</Text>
+		</Replace>
+		<!-- China-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XIAN">
+			<Text>Tây An</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BEIJING">
+			<Text>Bắc Kinh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAIYUAN">
+			<Text>Thái Nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHENGDU">
+			<Text>Thành Đô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JIAODONG">
+			<Text>Jiaodong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHANGSHA">
+			<Text>Changsha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LONGXI">
+			<Text>Lũng Tây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GUANGZHOU">
+			<Text>Quảng Châu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HANDAN">
+			<Text>Hàm Đan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHENYANG">
+			<Text>Thẩm Dương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHANGHAI">
+			<Text>Thượng Hải</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WUHAN">
+			<Text>Vũ Hán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YIYANG">
+			<Text>Ích Dương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XIURONG">
+			<Text>Xiurong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHEN">
+			<Text>Chen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XINGZHOU">
+			<Text>Xingzhou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_QUXIAN">
+			<Text>Cừ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NANJING">
+			<Text>Nam Kinh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LANGFANG">
+			<Text>Lang Phường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LINZI">
+			<Text>Lâm Truy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JIUJIANG">
+			<Text>Cửu Giang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAIFENG">
+			<Text>Khai Phong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XUZHOU">
+			<Text>Từ Châu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HEFEI">
+			<Text>Hợp Phì</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XINZHENG">
+			<Text>Tân Trịnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUAN">
+			<Text>Lục An</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_QUFU">
+			<Text>Khúc Phụ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JIANGZHOU">
+			<Text>Giang Châu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUOYANG">
+			<Text>Lạc Dương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YINGCHUAN">
+			<Text>Ngân Xuyên</Text>
+		</Replace>
+		<!-- Egypt-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RA_KEDET">
+			<Text>Râ-Kedet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THEBES">
+			<Text>Thebes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEMPHIS">
+			<Text>Memphis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AKHETATEN">
+			<Text>Akhetaten</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHEDET">
+			<Text>Shedet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IWNW">
+			<Text>ỉwnw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SWENETT">
+			<Text>Swenett</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEKHEN">
+			<Text>Nekhen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAIS">
+			<Text>Sais</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ABYDOS">
+			<Text>Abydos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_APU">
+			<Text>Apu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EDFU">
+			<Text>Edfu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MENDES">
+			<Text>Mendes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SENA">
+			<Text>Sena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CYRENE">
+			<Text>Cyrene</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUTO">
+			<Text>Buto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GIZA">
+			<Text>Giza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KHMUN">
+			<Text>Khmun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ASYUT">
+			<Text>Asyut</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PITHOM">
+			<Text>Pithom</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUSIRIS">
+			<Text>Busiris</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PIEMRO">
+			<Text>Piemro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ORYX">
+			<Text>Oryx</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HUT_HERYIB">
+			<Text>Hut-heryib</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TANIS">
+			<Text>Tanis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PER_BAST">
+			<Text>Per-Bast</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THIS">
+			<Text>This</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARSINOE">
+			<Text>Arsinoe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TJEBNUTJER">
+			<Text>Tjebnutjer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AKHMIM">
+			<Text>Akhmim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KARNAK">
+			<Text>Karnak</Text>
+		</Replace>
+		<!-- England-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LONDON">
+			<Text>London</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LIVERPOOL">
+			<Text>Liverpool</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MANCHESTER">
+			<Text>Manchester</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BIRMINGHAM">
+			<Text>Birmingham</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LEEDS">
+			<Text>Leeds</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHEFFIELD">
+			<Text>Sheffield</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRISTOL">
+			<Text>Bristol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PLYMOUTH">
+			<Text>Plymouth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEWCASTLE">
+			<Text>Newcastle upon Tyne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRADFORD">
+			<Text>Bradford</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STOKE_UPON_TRENT">
+			<Text>Stoke-upon-Trent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HULL">
+			<Text>Hull</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PORTSMOUTH">
+			<Text>Portsmouth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PRESTON">
+			<Text>Preston</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SUNDERLAND">
+			<Text>Sunderland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRIGHTON">
+			<Text>Brighton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NORWICH">
+			<Text>Norwich</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NOTTINGHAM">
+			<Text>Nottingham</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YORK">
+			<Text>York</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LEICESTER">
+			<Text>Leicester</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BLACKBURN">
+			<Text>Blackburn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WOLVERHAMPTON">
+			<Text>Wolverhampton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BATH">
+			<Text>Bath</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COVENTRY">
+			<Text>Coventry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EXETER">
+			<Text>Exeter</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LINCOLN">
+			<Text>Lincoln</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CANTERBURY">
+			<Text>Canterbury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IPSWICH">
+			<Text>Ipswich</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DOVER">
+			<Text>Dover</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HASTINGS">
+			<Text>Hastings</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OXFORD">
+			<Text>Oxford</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHREWSBURY">
+			<Text>Shrewsbury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAMBRIDGE">
+			<Text>Cambridge</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEWCASTLE">
+			<Text>Newcastle</Text>
+		</Replace>
+		<!--France-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PARIS">
+			<Text>Paris</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LYON">
+			<Text>Lyon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ROUEN">
+			<Text>Rouen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BORDEAUX">
+			<Text>Bordeaux</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MARSEILLE">
+			<Text>Marseille</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOULOUSE">
+			<Text>Toulouse</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LA_ROCHELLE">
+			<Text>La Rochelle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMBOISE">
+			<Text>Amboise</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NANTES">
+			<Text>Nantes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RENNES">
+			<Text>Rennes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CALAIS">
+			<Text>Calais</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RHEIMS">
+			<Text>Rheims</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AVIGNON">
+			<Text>Avignon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BOULOGNE">
+			<Text>Boulogne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DIJON">
+			<Text>Dijon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MONTPELLIER">
+			<Text>Montpellier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LIMOGES">
+			<Text>Limoges</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHARTRES">
+			<Text>Chartres</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BLOIS">
+			<Text>Blois</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOURS">
+			<Text>Tours</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VERDUN">
+			<Text>Verdun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GRENOBLE">
+			<Text>Grenoble</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JARNAC">
+			<Text>Jarnac</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMIENS">
+			<Text>Amiens</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TROYES">
+			<Text>Troyes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DIEPPE">
+			<Text>Dieppe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOUL">
+			<Text>Toul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRIANCON">
+			<Text>Briançon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_METZ">
+			<Text>Metz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MONTELIMAR">
+			<Text>Montélimar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CARCASSONNE">
+			<Text>Carcassonne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GAP">
+			<Text>Gap</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE">
+			<Text>Alba-la-Romaine</Text>
+		</Replace>
+		<!--Germany-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AACHEN">
+			<Text>Aachen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COLOGNE">
+			<Text>Cologne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FRANKFURT">
+			<Text>Frankfurt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAGDEBURG">
+			<Text>Magdeburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAINZ">
+			<Text>Mainz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HEIDELBERG">
+			<Text>Heidelberg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TRIER">
+			<Text>Trier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BERLIN">
+			<Text>Berlin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ULM">
+			<Text>Ulm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAMBURG">
+			<Text>Hamburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DORTMUND">
+			<Text>Dortmund</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NUREMBERG">
+			<Text>Nuremberg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BREMEN">
+			<Text>Bremen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AUGSBURG">
+			<Text>Augsburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MUNSTER">
+			<Text>Münster</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_REGENSBURG">
+			<Text>Regensburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ERFURT">
+			<Text>Erfurt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUBECK">
+			<Text>Lübeck</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FREIBURG">
+			<Text>Freiburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WURZBURG">
+			<Text>Würzburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HANOVER">
+			<Text>Hanover</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ROSTOCK">
+			<Text>Rostock</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCHWERIN">
+			<Text>Schwerin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LEIPZIG">
+			<Text>Leipzig</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BONN">
+			<Text>Bonn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ESSEN">
+			<Text>Essen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STUTTGART">
+			<Text>Stuttgart</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DRESDEN">
+			<Text>Dresden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DUSSELDORF">
+			<Text>Düsseldorf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WORMS">
+			<Text>Worms</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POTSDAM">
+			<Text>Potsdam</Text>
+		</Replace>
+		<!--Greece-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ATHENS">
+			<Text>Athens</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SPARTA">
+			<Text>Sparta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CORINTH">
+			<Text>Corinth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EPHESUS">
+			<Text>Ephesus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARGOS">
+			<Text>Argos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KNOSSOS">
+			<Text>Knossos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MYCENAE">
+			<Text>Mycenae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHARSALOS">
+			<Text>Pharsalos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RHODES">
+			<Text>Rhodes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OLYMPIA">
+			<Text>Olympia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ERETRIA">
+			<Text>Eretria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PERGAMON">
+			<Text>Pergamon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MILETOS">
+			<Text>Miletos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEGARA">
+			<Text>Megara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHOCAEA">
+			<Text>Phocaea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SICYON">
+			<Text>Sicyon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TIRYNS">
+			<Text>Tiryns</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAMOS">
+			<Text>Samos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MYTILENE">
+			<Text>Mytilene</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHIOS">
+			<Text>Chios</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PAROS">
+			<Text>Paros</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TEGEA">
+			<Text>Tegea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SYRACUSE">
+			<Text>Syracuse</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DELPHI">
+			<Text>Delphi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GORTYN">
+			<Text>Gortyn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHALKIS">
+			<Text>Chalkis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PYLOS">
+			<Text>Pylos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAXOS">
+			<Text>Naxos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LARISSA">
+			<Text>Larissa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PATRAS">
+			<Text>Patras</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAMIA">
+			<Text>Lamia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MARATHON">
+			<Text>Marathon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAFPLION">
+			<Text>Nafplion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_APOLYTON">
+			<Text>Apolyton</Text>
+		</Replace>
+		<!--India-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DELHI">
+			<Text>Delhi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MUMBAI">
+			<Text>Mumbai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CALCUTTA">
+			<Text>Calcutta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AGRA">
+			<Text>Agra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MADURAI">
+			<Text>Madurai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHENNAI">
+			<Text>Chennai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PATNA">
+			<Text>Patna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HYDERABAD">
+			<Text>Hyderabad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JABALPUR">
+			<Text>Jabalpur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MYSORE">
+			<Text>Mysore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SRINAGAR">
+			<Text>Srinagar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AHMADABAD">
+			<Text>Ahmadabad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BANGALORE">
+			<Text>Bangalore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TRIVANDRUM">
+			<Text>Trivandrum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOLAR">
+			<Text>Kolar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOZHIKODE">
+			<Text>Kozhikode</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RANCHI">
+			<Text>Ranchi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WARANGAL">
+			<Text>Warangal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUCKNOW">
+			<Text>Lucknow</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAGPUR">
+			<Text>Nagpur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MATHURA">
+			<Text>Mathura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RAJAHMUNDRY">
+			<Text>Rajahmundry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CUTTACK">
+			<Text>Cuttack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THANJAVUR">
+			<Text>Thanjavur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VARANASI">
+			<Text>Varanasi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALLAHABAD">
+			<Text>Allahabad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMRITSAR">
+			<Text>Amritsar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOLHAPUR">
+			<Text>Kolhapur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PUNE">
+			<Text>Pune</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IMPHAL">
+			<Text>Imphal</Text>
+		</Replace>
+		<!--Japan-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KYOTO">
+			<Text>Kyoto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOKYO">
+			<Text>Tokyo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSAKA">
+			<Text>Osaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAGOYA">
+			<Text>Nagoya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FUKUOKA">
+			<Text>Fukuoka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SENDAI">
+			<Text>Sendai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHIZUOKA">
+			<Text>Shizuoka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OKAYAMA">
+			<Text>Okayama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAKAMATSU">
+			<Text>Takamatsu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YOKOHAMA">
+			<Text>Yokohama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GIFU">
+			<Text>Gifu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAGANO">
+			<Text>Nagano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAKASAKI">
+			<Text>Takasaki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OTSU">
+			<Text>Otsu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AOMORI">
+			<Text>Aomori</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FUKUSHIMA">
+			<Text>Fukushima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MORIOKA">
+			<Text>Morioka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAKODATE">
+			<Text>Hakodate</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOBE">
+			<Text>Kobe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAMAMATSU">
+			<Text>Hamamatsu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OKAZAKI">
+			<Text>Okazaki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FUKUI">
+			<Text>Fukui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YAMAGATA">
+			<Text>Yamagata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAGOSHIMA">
+			<Text>Kagoshima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HIROSHIMA">
+			<Text>Hiroshima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HIMEJI">
+			<Text>Himeji</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MATSUMOTO">
+			<Text>Matsumoto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OTA">
+			<Text>Ōta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NUMAZU">
+			<Text>Numazu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAPPORO">
+			<Text>Sapporo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAGASAKI">
+			<Text>Nagasaki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOTTORI">
+			<Text>Tottori</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAGAHAMA">
+			<Text>Nagahama</Text>
+		</Replace>
+		<!--Kongo-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_KONGO">
+			<Text>Mbanza Kongo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBUMBI">
+			<Text>Mbumbi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBAMBA">
+			<Text>Mbamba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_NSUNDI">
+			<Text>Mbanza Nsundi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBWILA">
+			<Text>Mbwila</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MPINDA">
+			<Text>Mpinda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KWILA">
+			<Text>Kwila</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_MBATA">
+			<Text>Mbanza Mbata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KINCHASSA">
+			<Text>Kinchassa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KWANGO">
+			<Text>Kwango</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBUJI_MAYI">
+			<Text>Mbuji-Mayi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_MPANGU">
+			<Text>Mbanza Mpangu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAKAVU">
+			<Text>Bakavu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANGA">
+			<Text>Sanga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KATANGO">
+			<Text>Katango</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_WEMBO">
+			<Text>Mbanza Wembo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBAMBA_LOVATA">
+			<Text>Mbamba Lovata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NKUNGA">
+			<Text>Nkunga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NKONDO">
+			<Text>Nkondo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LEMBA_BULA">
+			<Text>Lemba-Bula</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KIBANGU">
+			<Text>Kibangu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MANGA">
+			<Text>Manga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_MPEMBA">
+			<Text>Mbanza Mpemba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MULUMBI">
+			<Text>Mulumbi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAKUTA">
+			<Text>Makuta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZOMBO">
+			<Text>Zombo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BANZA">
+			<Text>Banza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UMPUKA">
+			<Text>Umpuka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MATADI">
+			<Text>Matadi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANDAKA">
+			<Text>Mbandaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUBUMBASHI">
+			<Text>Lubumbashi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MBANZA_SOYO">
+			<Text>Mbanza Soyo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KINDU">
+			<Text>Kindu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KALEMIE">
+			<Text>Kalemie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KIKWIT">
+			<Text>Kikwit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POPOKABAKA">
+			<Text>Popokabaka</Text>
+		</Replace>
+		<!--Norway-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NIDAROS">
+			<Text>Nidaros</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSLO">
+			<Text>Oslo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BERGEN">
+			<Text>Bergen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STAVANGER">
+			<Text>Stavanger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KRISTIANSAND">
+			<Text>Kristiansand</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SKEDSMO">
+			<Text>Skedsmo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SARPSBORG">
+			<Text>Sarpsborg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TROMSO">
+			<Text>Tromsø</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALESUND">
+			<Text>Ålesund</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAMAR">
+			<Text>Hamar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SKIEN">
+			<Text>Skien</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BJARKOY">
+			<Text>Bjarkøy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DRAMMEN">
+			<Text>Drammen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAMSOS">
+			<Text>Namsos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AVALDSNES">
+			<Text>Avaldsnes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOGNDAL">
+			<Text>Sogndal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TONSBERG">
+			<Text>Tønsberg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KARMOY">
+			<Text>Karmøy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FROSTA">
+			<Text>Frosta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KVITSOY">
+			<Text>Kvitsøy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STIKLESTAD">
+			<Text>Stiklestad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HUNDORP">
+			<Text>Hundorp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STANGE">
+			<Text>Stange</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_REYKJAVIK">
+			<Text>Reykjavík</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TJOTTA">
+			<Text>Tjøtta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VERDAL">
+			<Text>Verdal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRATTAHLID">
+			<Text>Brattahlíð</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KRISTIANSUND">
+			<Text>Kristiansund</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RINGERIKE">
+			<Text>Ringerike</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANDNAES">
+			<Text>Sandnæs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MOSTER">
+			<Text>Moster</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VINLAND">
+			<Text>Vinland</Text>
+		</Replace>
+		<!--Rome-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ROME">
+			<Text>Rome</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OSTIA">
+			<Text>Ostia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANTIUM">
+			<Text>Antium</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CUMAE">
+			<Text>Cumae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AQUILEIA">
+			<Text>Aquileia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RAVENNA">
+			<Text>Ravenna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PUTEOLI">
+			<Text>Puteoli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARRETIUM">
+			<Text>Arretium</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEDIOLANUM">
+			<Text>Mediolanum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUGDUNUM">
+			<Text>Lugdunum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARPINUM">
+			<Text>Arpinum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SETIA">
+			<Text>Setia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VELITRAE">
+			<Text>Velitrae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DUROCORTORUM">
+			<Text>Durocortorum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRUNDISIUM">
+			<Text>Brundisium</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAESARAUGUSTA">
+			<Text>Caesaraugusta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PALMYRA">
+			<Text>Palmyra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HISPALIS">
+			<Text>Hispalis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAESAREA">
+			<Text>Caesarea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARTAXATA">
+			<Text>Artaxata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PAPHOS">
+			<Text>Paphos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SALONAE">
+			<Text>Salonae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EBURACUM">
+			<Text>Eburacum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAURIACUM">
+			<Text>Lauriacum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VERONA">
+			<Text>Verona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COLONIA_AGRIPPINA">
+			<Text>Colonia Agrippina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NARBO">
+			<Text>Narbo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TINGI">
+			<Text>Tingi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SARMIZEGETUSA">
+			<Text>Sarmizegetusa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SIRMIUM">
+			<Text>Sirmium</Text>
+		</Replace>
+		<!--Russia-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ST_PETERSBURG">
+			<Text>St. Petersburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MOSCOW">
+			<Text>Moscow</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NOVGOROD">
+			<Text>Novgorod</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAZAN">
+			<Text>Kazan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ASTRAKHAN">
+			<Text>Astrakhan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YAROSLAVL">
+			<Text>Yaroslavl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SMOLENSK">
+			<Text>Smolensk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VORONEZH">
+			<Text>Voronezh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TULA">
+			<Text>Tula</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOLIKAMSK">
+			<Text>Solikamsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TVER">
+			<Text>Tver</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NIZHNIY_NOVGOROD">
+			<Text>Nizhniy Novgorod</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARKHANGELSK">
+			<Text>Arkhangelsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VOLOGDA">
+			<Text>Vologda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OLONETS">
+			<Text>Olonets</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SARATOV">
+			<Text>Saratov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAMBOV">
+			<Text>Tambov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PSKOV">
+			<Text>Pskov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KRASNOYARSK">
+			<Text>Krasnoyarsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IRKUTSK">
+			<Text>Irkutsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YEKATERINBURG">
+			<Text>Yekaterinburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ROSTOV">
+			<Text>Rostov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRYANSK">
+			<Text>Bryansk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YAKUTSK">
+			<Text>Yakutsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STARAYA_RUSSA">
+			<Text>Staraya Russa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PERM">
+			<Text>Perm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PETROZAVODSK">
+			<Text>Petrozavodsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OKHOTSK">
+			<Text>Okhotsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOSTROMA">
+			<Text>Kostroma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NIZHNEKOLYMSK">
+			<Text>Nizhnekolymsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SERGIYEV_POSAD">
+			<Text>Sergiyev Posad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OMSK">
+			<Text>Omsk</Text>
+		</Replace>
+		<!--Scythia-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POKROVKA">
+			<Text>Pokrovka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ISSYK">
+			<Text>Issyk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KUL_OBA">
+			<Text>Kul Oba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GELONUS">
+			<Text>Gelonus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PAZYRYK">
+			<Text>Pazyryk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHERTOMLYK">
+			<Text>Chertomlyk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEAPOLIS">
+			<Text>Neapolis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOSTROMSKAYA">
+			<Text>Kostromskaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MYRIV">
+			<Text>Myriv</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOLOKHA">
+			<Text>Solokha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAIKOP">
+			<Text>Maikop</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAMIANKA_DNIPROVSKA">
+			<Text>Kamianka-Dniprovska</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOLSTAYA">
+			<Text>Tolstaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEVEN_BROTHERS">
+			<Text>Seven Brothers</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OLBIA">
+			<Text>Olbia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KELERMES">
+			<Text>Kelermes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOLOCHA">
+			<Text>Solocha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ULSKI">
+			<Text>Ulski</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARZHAN">
+			<Text>Arzhan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ELIZAVETOVSKAYA">
+			<Text>Elizavetovskaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MELGUNOV">
+			<Text>Melgunov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PANTICAPAEUM">
+			<Text>Panticapaeum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TSARSKAYA">
+			<Text>Tsarskaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OGUZ">
+			<Text>Ogüz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TANAIS">
+			<Text>Tanais</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDROPOL">
+			<Text>Alexandropol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KURDZHIPS">
+			<Text>Kurdzhips</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TSYMBALKA">
+			<Text>Tsymbalka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THEODOSIA">
+			<Text>Theodosia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOZEL">
+			<Text>Kozel</Text>
+		</Replace>
+		<!--Spain-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MADRID">
+			<Text>Madrid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEVILLE">
+			<Text>Seville</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BARCELONA">
+			<Text>Barcelona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOLEDO">
+			<Text>Toledo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CORDOBA">
+			<Text>Córdoba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VALENCIA">
+			<Text>Valencia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZARAGOZA">
+			<Text>Zaragoza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VALLADOLID">
+			<Text>Valladolid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BILBAO">
+			<Text>Bilbao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_A_CORUNA">
+			<Text>A Coruña</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CARTAGENA">
+			<Text>Cartagena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CADIZ">
+			<Text>Cádiz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SALAMANCA">
+			<Text>Salamanca</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAS_PALMAS">
+			<Text>Las Palmas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MURCIA">
+			<Text>Murcia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PAMPLONA">
+			<Text>Pamplona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VIGO">
+			<Text>Vigo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ORAN">
+			<Text>Oran</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VITORIA_GASTEIZ">
+			<Text>Vitoria-Gasteiz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_OVIEDO">
+			<Text>Oviedo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MALAGA">
+			<Text>Málaga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAVANA">
+			<Text>Havana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JAEN">
+			<Text>Jaen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MANILA">
+			<Text>Manila</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANTANDER">
+			<Text>Santander</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALMERIA">
+			<Text>Almeria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALICANTE">
+			<Text>Alicante</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BADALONA">
+			<Text>Badalona</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BURGOS">
+			<Text>Burgos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GIJON">
+			<Text>Gijón</Text>
+		</Replace>
+		<!--Sumeria-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_URUK">
+			<Text>Uruk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ERIDU">
+			<Text>Eridu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KISH">
+			<Text>Kish</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UR">
+			<Text>Ur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAGASH">
+			<Text>Lagash</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NIPPUR">
+			<Text>Nippur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAD_TIBIRA">
+			<Text>Bad-Tibira</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SIPPAR">
+			<Text>Sippar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHURUPPAK">
+			<Text>Shuruppak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADAB">
+			<Text>Adab</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ISIN">
+			<Text>Isin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LARAK">
+			<Text>Larak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ABU_SALABIKH">
+			<Text>Abu Salabikh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AKSHAK">
+			<Text>Akshak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UMMA">
+			<Text>Umma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LARSA">
+			<Text>Larsa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAMAZI">
+			<Text>Hamazi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GIRSU">
+			<Text>Girsu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JEMDET_NASR">
+			<Text>Jemdet Nasr</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NINA">
+			<Text>Nina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KUARA">
+			<Text>Kuara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DILBAT">
+			<Text>Dilbat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KUTHA">
+			<Text>Kutha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MARAD">
+			<Text>Marad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZABALAM">
+			<Text>Zabalam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KISURRA">
+			<Text>Kisurra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PAZURISH_DAGAN">
+			<Text>Pazurish-Dagan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HARBIDUM">
+			<Text>Harbidum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KESH">
+			<Text>Kesh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FAILAKA">
+			<Text>Failaka</Text>
+		</Replace>
+		<!--City-States-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMSTERDAM_1">
+			<Text>Amsterdam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMSTERDAM">
+			<Text>Amsterdam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BANDAR_BRUNEI">
+			<Text>Bandar Brunei</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRUSSELS_1">
+			<Text>Brussels</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRUSSELS">
+			<Text>Brussels</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUENOS_AIRES_1">
+			<Text>Buenos Aires</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUENOS_AIRES">
+			<Text>Buenos Aires</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CARTHAGE_1">
+			<Text>Carthage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CARTHAGE">
+			<Text>Carthage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GENEVA_1">
+			<Text>Geneva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GENEVA">
+			<Text>Geneva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HATTUSA_1">
+			<Text>Hattusa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HATTUSA">
+			<Text>Hattusa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HONG_KONG_1">
+			<Text>Hong Kong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HONG_KONG">
+			<Text>Hong Kong</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JAKARTA_1">
+			<Text>Jakarta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JAKARTA">
+			<Text>Jakarta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JERUSALEM_1">
+			<Text>Jerusalem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_JERUSALEM">
+			<Text>Jerusalem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KABUL_1">
+			<Text>Kabul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KABUL">
+			<Text>Kabul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KANDY_1">
+			<Text>Kandy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KANDY">
+			<Text>Kandy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KUMASI_1">
+			<Text>Kumasi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KUMASI">
+			<Text>Kumasi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LA_VENTA_1">
+			<Text>La Venta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LA_VENTA">
+			<Text>La Venta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LISBON_1">
+			<Text>Lisbon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LISBON">
+			<Text>Lisbon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MOHENJO_DARO_1">
+			<Text>Mohenjo-Daro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MOHENJO_DARO">
+			<Text>Mohenjo-Daro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PRESLAV_1">
+			<Text>Preslav</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PRESLAV">
+			<Text>Preslav</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAN_MADOL_1">
+			<Text>Nan Madol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAN_MADOL">
+			<Text>Nan Madol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEOUL_1">
+			<Text>Seoul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEOUL">
+			<Text>Seoul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STOCKHOLM_1">
+			<Text>Stockholm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STOCKHOLM">
+			<Text>Stockholm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TORONTO_1">
+			<Text>Toronto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TORONTO">
+			<Text>Toronto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VALLETTA_1">
+			<Text>Valletta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VALLETTA">
+			<Text>Valletta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VILNIUS_1">
+			<Text>Vilnius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VILNIUS">
+			<Text>Vilnius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YEREVAN_1">
+			<Text>Yerevan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YEREVAN">
+			<Text>Yerevan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZANZIBAR_1">
+			<Text>Zanzibar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZANZIBAR">
+			<Text>Zanzibar</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

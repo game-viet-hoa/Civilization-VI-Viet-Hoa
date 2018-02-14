@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NUBIA_DESCRIPTION">
+			<Text>Đế Chế Nubian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NUBIA_ADJECTIVE">
+			<Text>Nubian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NUBIA_LOCATION">
+			<Text>Châu Phi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NUBIA_SIZE">
+			<Text>Lúc cực thịnh, ước tính khoảng 486,000 dặm vuông (1.26 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NUBIA_POPULATION">
+			<Text>Ước tính 1.15 triệu người (lúc cực thịnh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NUBIA_CAPITAL">
+			<Text>Kerma, Nepata, Meroë</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_AMANITORE">
+			<Text>Amanitore, nữ hoàng của Nubia, biên giới đế chế của ngươi sẽ trải dài tới tận chân trời. Đừng sợ những kẻ thèm khát nguồn của cải dồi dào của ngươi, vì các cung thủ của ngươi có thể rải mưa tên cách năm trăm bước. Các thành phố của ngươi được biết đến bằng sự thịnh vượng và lòng mộ đạo, một nữ hoàng khôn ngoan, vùng đất của những cánh cung đầy danh dự là một phần của quá khứ để xây dựng nên tương lai vững chắc của vùng đất này.</Text>
+		</Replace>
+		<!-- Leader Agenda-->
+		<Replace Language='en_US' Tag="LOC_AGENDA_CITY_PLANNER_NAME">
+			<Text>Quy hoạch thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CITY_PLANNER_DESCRIPTION">
+			<Text>Luôn cố gắng giữ tối đa số quận trong mỗi thành phố. Tôn trọng các nền văn minh khác cũng là một cách để phát triển thành phố.</Text>
+		</Replace>
+		<!-- City Names -->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEROE">
+			<Text>Meroë</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KERMA">
+			<Text>Kerma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NAPATA">
+			<Text>Napata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NURI">
+			<Text>Nuri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EL_KURRU">
+			<Text>El-Kurru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAWA">
+			<Text>Kawa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEDEINGA">
+			<Text>Sedeinga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HEH">
+			<Text>Heh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_QASR_IBRIM">
+			<Text>Qasr Ibrim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_FARAS">
+			<Text>Faras</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHAAT">
+			<Text>Shaat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IKEN">
+			<Text>Iken</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ABU_SIMBEL">
+			<Text>Abu Simbel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUHEN">
+			<Text>Buhen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DANGEIL">
+			<Text>Dangeil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MIAM">
+			<Text>Miam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOMBOS">
+			<Text>Tombos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KURGUS">
+			<Text>Kurgus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOSHKA">
+			<Text>Toshka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOLEB">
+			<Text>Soleb</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_WAD_BAN_NAQA">
+			<Text>Wad ban Naqa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DEBBA">
+			<Text>Debba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUGDUMBUSH">
+			<Text>Bugdumbush</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAKI">
+			<Text>Baki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMARA">
+			<Text>Amara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MUSAWWARAT_ES_SUFRA">
+			<Text>Musawwarat es-Sufra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EL_FURA">
+			<Text>El Fura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UKMA">
+			<Text>Ukma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PEDEME">
+			<Text>Pedeme</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DEFEIA">
+			<Text>Defeia</Text>
+		</Replace>
+		<!-- Citizen Names -->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_1">
+			<Text>Alara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_2">
+			<Text>Amanislo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_3">
+			<Text>Apedemak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_4">
+			<Text>Arensnuphis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_5">
+			<Text>Arqamani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_6">
+			<Text>Dedun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_7">
+			<Text>Mandulis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_8">
+			<Text>Mut</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_9">
+			<Text>Piye</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MALE_10">
+			<Text>Sebiumeker</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_1">
+			<Text>Amanikhatashan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_2">
+			<Text>Amanirenas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_3">
+			<Text>Amanishakheto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_4">
+			<Text>Amenirdis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_5">
+			<Text>Amesemi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_6">
+			<Text>Kadimalo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_7">
+			<Text>Khalese</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_8">
+			<Text>Nasala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_9">
+			<Text>Shanakdakheto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_FEMALE_10">
+			<Text>Tabiry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_1">
+			<Text>Barschanbu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_2">
+			<Text>Douddil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_3">
+			<Text>Eirpanome</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_4">
+			<Text>Mashshouda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_5">
+			<Text>Orinourta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_6">
+			<Text>Qalidurut</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_7">
+			<Text>Semamun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_8">
+			<Text>Shekanda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_9">
+			<Text>Siti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_10">
+			<Text>Tapara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_1">
+			<Text>Aideosa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_2">
+			<Text>Anthelia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_3">
+			<Text>Damasti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_4">
+			<Text>Eikkir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_5">
+			<Text>Eitou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_6">
+			<Text>Genseoua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_7">
+			<Text>Iesousyko</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_8">
+			<Text>Kel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_9">
+			<Text>Ouareno</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_10">
+			<Text>Pongita</Text>
+		</Replace>
+		<!-- Wonders-->
+		<Replace Language='en_US' Tag="LOC_BUILDING_JEBEL_BARKAL_NAME">
+			<Text>Jebel Barkal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_JEBEL_BARKAL_DESCRIPTION">
+			<Text>Thưởng 2 [ICON_RESOURCE_IRON] Sắt. Cung cấp +4 [ICON_Faith] Đức Tin cho tất cả thành phố của bạn trong phạm vi 6 ô.[NEWLINE][NEWLINE]Phải được xây dựng trên địa hình Sa mạc (Đồi).</Text>
+		</Replace>
+		<!-- Trait Info-->
+		<!-- Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LEADING">
+			<Text>Amanitore cảm thấy hài lòng khi bạn lấp kín các thành phố của bạn bằng các quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LAGGING">
+			<Text>Amanitore không hài lòng khi bạn đang tụt lại phía sau khi xây dựng các quận.</Text>
+		</Replace>
+		<!-- Dialog Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Những lời nói ấm áp của ngươi giống như ánh hoàng hôn. Chúng tôi thật vinh dự gọi ngươi là bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Có lẽ, một ngày nào đó, với nỗ lực của ngươi, Nubia có thể xem ngươi là bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Người Nubian đánh giá cao về ngươi. Hãy chính thức hóa tình hữu nghị của chúng ta bằng một tuyên bố công khai!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Ngươi thật tử tế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Thật xấu hổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Theo dự đoán, ngươi biết cách duy nhất để chiếm được. Hãy đến, sau đó—chọn cách đánh bại của ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Chúng tôi có cung tên, được mài sắc nhọn. Chúng tôi sẽ bắn vào cổ họng chúng một cách tuỳ thích.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Phái đoàn chúng tôi mang theo thiện chí. Ngoài ra, có gan lạc đà tươi. Đừng phạm sai lầm khi nấu chúng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Chúng tôi xin từ chối. Lũ lụt đã làm cho nơi đây cần thêm thời gian để đón nhận khách.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Phái đoàn của bạn đã bình an khi tới đây. Thật vui khi thấy họ xung quanh thủ đô của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Ngươi dám thách thức ta bằng những lời lẽ thô thục đấy .Với ngươi, ta luôn trông đợi điều tồi tệ nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Ngươi là loại tồi tệ nhất—khi ngươi xuất hiện, mọi thứ ngươi chạm vào đều trở nên nhơ bẩn. (Tố cáo bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMANITORE_ANY">
+			<Text>Ta là Amanitore của Nubia. Tất cả đều được hoan nghênh ở các thành phố tuyệt vời của chúng tôi—miễn là họ đến với tình hữu nghị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMANITORE_ANY">
+			<Text>Trong khi ở gần, bạn có thể ghé thăm thành phố của chúng tôi không? Những kim tự tháp của chúng tôi uy nghi ở phía chân trời, đặc biệt nhất là vào lúc bình minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>Chịu trách nhiệm cho đề nghị này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMANITORE_ANY">
+			<Text>Ta sẽ kể cho ngươi biết về thủ đô lộng lẫy của chúng tôi nếu ngươi chia sẻ những câu chuyện của ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_AMANITORE_ANY">
+			<Text>Ngươi có thể nói.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Các thành phố của bạn được xây dựng đúng quy cách. Với mỗi công việc, cần một nơi để thực hiện nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_AMANITORE_REASON_ANY">
+			<Text>(Bạn đã lấp kín các thành phố của bạn bằng các quận.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Các thành phố của bạn tràn ngập rác rưởi. Tại sao bạn không sử dụng quỹ đất hiệu quả hơn?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_AMANITORE_REASON_ANY">
+			<Text>(Bạn không lấp kín các thành phố của bạn bằng các quận.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Phải. Có quá nhiều sự phá hoại. Chúng ta nên tái xây dựng những gì chúng ta đã mất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Không thể nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Người dân của tôi mệt mỏi với cuộc chiến này. Hãy tìm cách kết thúc cuộc chiến này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Tất nhiên. Hãy theo nguyên lý đô thị của chúng ta và biến chúng thành hiện thực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Các vùng đất Nubian là bất khả xâm phạm. Nhà lãnh đạo sẽ nghi ngờ bạn đang chuẩn bị một cuộc xâm lược.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Việc mở cửa biên giới, chúng ta có thể học hỏi nhiều cách tiếp cận khác nhau đối với quy hoạch dân cư.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMANITORE_ANY">
+			<Text>Vùng đất của những cánh cung không chấp nhận quân đội của ngươi ở quá gần. Ta yêu cầu ngươi đem họ trở về.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMANITORE_ANY">
+			<Text>Lính đánh thuê Nubian đi đến nơi họ sẽ đi. Ta không kiểm soát hành động của họ!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>Bạn rất tử tế khi thông báo cho ta về sai lầm không may này. Ta sẽ rút họ về để cho thấy thiện chí của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Dù cho Nubia suy tàn, thì những kim tự tháp của chúng ta sẽ tồn tại mãi mãi sau những kế hoạch phá huỷ của ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Thật thất vọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Ngươi thật tử tế.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

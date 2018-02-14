@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- AI Kudos -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_ANY_ANY">
+			<Text/>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta thấy ngài cũng có chút kinh nghiệm trong nghệ thuật quản lý nhà nước. Riêng ta, ta luôn luôn thích thú với một chút tình báo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CLEOPATRA_ANY">
+			<Text>Ta chỉ quan tâm đến những người xứng đáng với thời gian của ta. Ngài rõ ràng là một trong số họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BARBAROSSA_ANY">
+			<Text>Ta có lời khen về sự khôn ngoan của ngài. Giúp đỡ thành phố tự trị đó là tự rước cái chết vào thân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GANDHI_ANY">
+			<Text>Không có gì xấu hổ khi nản chí cả. Có vũ khí khác hoàn toàn với việc sử dụng nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GILGAMESH_ANY">
+			<Text>Ngài là người bạn và người đồng minh tốt. Gilgamesh sẽ ghi nhớ điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GORGO_ANY">
+			<Text>Ngài sẽ là một chiến binh Sparta tuyệt vời.... kiên cường, mạnh mẽ, dũng cảm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HARDRADA_ANY">
+			<Text>Hải quân dũng mãnh... đó là một dấu hiệu tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HOJO_ANY">
+			<Text>Ngài gây dựng đế chế của mình như mặt trời trỗi dậy vậy: tuyệt cmn vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MVEMBA_ANY">
+			<Text>Ta chào đón những lời mách bảo từ những nhà tiên tri và linh mục của ngài. Ta học được nhiều điều từ các việc làm tốt của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PEDRO_ANY">
+			<Text>Hãy tưởng tượng tất cả những thứ đáng ngạc nhiên mà những bộ óc thiên tài của đất nước ta sẽ đạt được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PERICLES_ANY">
+			<Text>Ngài rất khôn ngoan khi để các thành phố tự trị xung quanh khu ta lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PETER_GREAT_ANY">
+			<Text>Xã hội của ngài là một xã hội cạnh tranh. Nghệ thuật, khoa học... có gì ngài không có không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PHILIP_II_ANY">
+			<Text>Ta cảm thấy an tâm khi ngài không tha thứ cho những tên dị giáo. Bọn nó đi ngược lại với lời Chúa, tất nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_QIN_ANY">
+			<Text>Thật tốt khi ngài không thử cạnh tranh với nhà Tần. Những kỳ quan của ta là không thể bắt chước được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SALADIN_ANY">
+			<Text>Phước lành đến với ngài. Ngài truyền bá sự thật và lòng trắc ẩn thông qua những hành động của ngài dưới tên của đức Chúa Trời quyền năng và tráng lệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Cảm ơn vì đã giữ hòa bình trên lục địa. Ngài xứng đáng lắm!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOMYRIS_ANY">
+			<Text>Cả hai nước chúng ta chưa bao giờ mạnh mẽ như bây giờ. Hãy để chiến thắng luôn sánh vai cùng ngài trong thời đại hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TRAJAN_ANY">
+			<Text>Tầm ảnh hưởng của đế chế của ngài có thể sánh ngang Mộc tinh trên trời cao. Làm rất tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_VICTORIA_ANY">
+			<Text>Xin hãy nhận lấy sự trân trọng tuyệt đối nhất của ta, để cảm ơn vì sự nỗ lực đáng quý mà ngài đã dành trên lục địa chúng ta đã sẻ chia cùng nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_ANY">
+			<Text>(Bạn mạnh trong tầm nhìn ngoại giao và các gián điệp)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_ANY">
+			<Text>(Bạn đã có một quân đội hùng mạnh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_ANY">
+			<Text>(Bạn không đang tấn công hay liên minh với các thành phố tự trị)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GANDHI_REASON_ANY">
+			<Text>(Bạn đang gìn giữ hòa bình)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_ANY">
+			<Text>(Bạn là một trong những người bạn của tôi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_ANY">
+			<Text>(Bạn đã chiến đấu một cách đáng tôn kính và không chấp nhận động thái hòa bình)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_ANY">
+			<Text>(Bạn có một lực lượng hải quân hùng hậu)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_ANY">
+			<Text>(Bạn mạnh mẽ về quân đội cũng như cả trong Đức Tin và Văn minh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_ANY">
+			<Text>(Bạn đã thành lập một tôn giáo và đưa nó đến với Kongo)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_ANY">
+			<Text>(Bạn không cần trở nên nguy hiểm để có nhiều Vĩ nhân)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_ANY">
+			<Text>(Bạn hiện đang không cạnh tranh về các thành phố tự trị)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_ANY">
+			<Text>(Bạn đang mạnh mẽ ở lĩnh vực Khoa học và Văn minh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_ANY">
+			<Text>(Bạn chia sẻ Tôn giáo của ông ấy)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_ANY">
+			<Text>(Bạn không cần trở nên nguy hiểm để có nhiều kỳ quan)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_SALADIN_REASON_ANY">
+			<Text>(Bạn có công trình tôn giáo của ông ta trong đế chế của mình)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Bạn giữ hòa bình trên lục địa nhà ông ấy)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_TOMYRIS_REASON_ANY">
+			<Text>(Bạn là một trong các người bạn của bà ấy)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_TRAJAN_REASON_ANY">
+			<Text>(Đế chế của bạn rất lớn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_ANY">
+			<Text>(Bạn chia sẻ cùng lục địa)</Text>
+		</Replace>
+		<!-- Generic kudos for random agendas -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_ANY">
+			<Text>Danh tiếng - Không rõ lý do</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_CULTURE">
+			<Text>Ta bị ấn tượng với nền văn hóa độc nhất mà người dân của ngài đang xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_HAPPINESS">
+			<Text>Ta nghe nói người dân của ngài muốn tổ chức ăn mừng sự chỉ huy của ngài. Ngài làm rất tốt trong việc giữ cho họ hạnh phúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INCOME">
+			<Text>Ngân khố của ngài đang được lấp đầy một cách tốt đẹp. Luôn luôn là điều tốt khi có một thu nhập vững chắc, đúng không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INDUSTRY">
+			<Text>Ta trao cho ngài lời chúc mừng thành tâm nhất vì năng suất của người dân của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS">
+			<Text>Ta là những người bạn thật sự với những nền văn minh nhỏ hơn ngài. Ta biết ơn vì ngài nhìn nhận thực tế này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_POPULATION">
+			<Text>Số lượng người dân sống trong đế chế của ngài thật là ấn tượng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_SCIENCE">
+			<Text>Ta bị ấn tượng với nền nghiên cứu khoa học sâu sắc của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_STANDING_ARMY">
+			<Text>Ta thích người lãnh đạo có đội quân ấn tượng xung quanh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENJOYS_WAR">
+			<Text>Chỉ có trong chiến đấu mà linh hồn của cả dân tộc sẽ lộ ra. Cầu chúc người giỏi nhất sẽ chiến thắng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LAG">
+			<Text>Ta hài lòng khi thấy những bộ óc vĩ đại của thế giới ưa thích đế chế của ta hơn ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LAG">
+			<Text>Ta rất vui khi thấy ngài để những công trình kì quan lại cho ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PROTECT_CITY_STATES">
+			<Text>Sự bảo hộ của ngài dành cho một thành phố trự trị hợp pháp là một tấm gương cho cả thế giới noi theo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MED_PROTECT_CITY_STATES">
+			<Text>Lá lành đùm lá rách. Thật tốt khi ngài cũng nghĩ như vậy.</Text>
+		</Replace>
+		<!--Kudos for future random agendas (not yet implemented)-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_AIRPOWER">
+			<Text>Ta phải nói rằng, lực lượng không quân của ngài không phải là thứ mà người khác có thể đùa giỡn. Rất tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PROTECTS_CITY_STATES">
+			<Text>Việc bảo vệ cho những người không thể tự bảo vệ bản thân là điều rất đáng hâm mộ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS">
+			<Text>Quân man di là một mối phiền toái cho tất cả chúng ta. Cảm ơn vì sự giúp đỡ!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENVIRONMENT">
+			<Text>Chúng ta chỉ có một trái đất, và ta mừng là ta không phải là người duy nhất tôn trọng điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPLOITATION">
+			<Text>Thế giới là của chúng ta để chinh phục! Và lấy nó đi, cho ngài đấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAME_GOVERNMENT">
+			<Text>Ta thấy ngài là một cá nhân có cùng mục đích với ta, và ta phải khen ngợi sự quản lý chính phủ của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_NUKE_LOVE">
+			<Text>Tư tưởng lớn gặp nhau, ta thấy vậy. Có rất nhiều cách để sử dụng công nghệ ấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FAITH">
+			<Text>Hòa bình đến với ngài. Ta cảm thấy phấn khởi khi gặp một người ngoan đạo y như bản thân ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_EXPLORATION">
+			<Text>Vâng rất tốt. Để việc khám phá lại cho ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>Ta thấy an tâm khi thấy đế chế của ngài chẳng mang lại mối nguy hiểm nào cho ta.</Text>
+		</Replace>
+
+		<!-- AI Warnings-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_ANY_ANY">
+			<Text/>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ngài thực sự nên bắt đầu chú ý đến những gì đang xảy ra xung quanh. Có những trò chơi được chơi ở đây với độ khó lớn hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CLEOPATRA_ANY">
+			<Text>Ngài không xứng đáng để xuất hiện tại cuộc gặp của ta. Quyền lực của ngài cũng yếu như là quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BARBAROSSA_ANY">
+			<Text>Ta sẽ tiêu diệt kẻ thù của ta,và nếu ngươi tiếp tục giúp đỡ họ, ta sẽ tiêu diệt nhà ngươi nốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GANDHI_ANY">
+			<Text>Nếu ngươi đang cảm thấy khát máu, nó có thể là dấu chấm hết cho khả năng lãnh đạo của nhà ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GILGAMESH_ANY">
+			<Text>Nếu nhà ngươi là hại bạn bè của ta, ngươi sẽ phải đối mặt với sức mạnh của Uruk. Ta thề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GORGO_ANY">
+			<Text>Ta có phải là một kẻ hèn nhát, để tránh đổ máu? Để bộc lộc sự yếu đuối? Danh dự của ngài đâu?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HARDRADA_ANY">
+			<Text>Vùng biển của ngài không được bảo vệ, người anh em. Nó quá dễ để đột kích.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HOJO_ANY">
+			<Text>Tinh thần Võ Sĩ Đạo có nghĩa là huấn luyện cơ thể, tâm trí, linh hồn.... nhưng người dân ta cố thể làm việc này ở đâu?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MVEMBA_ANY">
+			<Text>Ta có thể cho rằng sự do sự của ngài trong việc Truyền Đạo tôn giáo của mình xuất phát từ việc thiếu niềm tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PEDRO_ANY">
+			<Text>Kỹ sư và kiến trúc sư tốt nhất của ngài sẽ hạnh phúc hơn ở một nơi mà họ có thể phát triển. Ví dụ như Brazil.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PERICLES_ANY">
+			<Text>Thành phố là của ta. Ta sẽ đề nghị ngài không được can thiệp vào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PETER_GREAT_ANY">
+			<Text>Người dân của ngài thiếu thốn về kiến thức và vẻ đẹp, và ngài vẫn bỏ lơ khoa học và nghệ thuật. Tại sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PHILIP_II_ANY">
+			<Text>Ngài là một sự báng bổ, tốt hơn là hãy sám hối đi. Sự báo thù của Chúa sẽ đổ lên đầu ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_QIN_ANY">
+			<Text>Đâu cần phải xây dựng các kì quan khi ngài có thể nhìn nó ở Trung Hoa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SALADIN_ANY">
+			<Text>Ngài không được phạm thượng. Ngài phải trả giá cho tội báng bổ của ngài chống lại Chúa, người mà ngài biết không hề có khuyết điểm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Không một ai xếp trên luật pháp. Ngài có nhiệm vụ phải ghi nhớ điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TOMYRIS_ANY">
+			<Text>Trung thành là phần thưởng của chính nó. Ngài có biết điều đó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TRAJAN_ANY">
+			<Text>Để cầu xin ngài đã đánh mất mảnh đất trù phú nhất rơi vào tay kẻ thù. Phải chăng ngài quá sợ hãi sự xâm lược?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_VICTORIA_ANY">
+			<Text>Ngài đang bước trên vùng biển nguy hiểm khi đối mặt với Anh và các thuộc địa trung thành của bà ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_CATHERINE_DE_MEDICI_REASON_ANY">
+			<Text>(Bạn mạnh trong tầm nhìn ngoại giao và các gián điệp.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_ANY">
+			<Text>(Bạn có một một đội quân yếu đuối.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_ANY">
+			<Text>(Bạn đang xâm lược hoặc đồng minh với thành phố tự trị.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_GANDHI_REASON_ANY">
+			<Text>(Bạn đang gây chiến.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_GILGAMESH_REASON_ANY">
+			<Text>(Bạn đã lăng mạ một trong những người bạn của tôi.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_GORGO_REASON_ANY">
+			<Text>(Bạn không bao giờ đi đến chiến tranh hoặc đầu hàng trong một thỏa thuận hòa bình.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_ANY">
+			<Text>(Bạn có hải quân yếu kém).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_ANY">
+			<Text>(Bạn mạnh trong quân sự nhưng yếu ở Đức Tin và Văn minh.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_ANY">
+			<Text>(Bạn đã tạo ra một tôn giáo nhưng không Truyền Đạo nó vào Kongo.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_ANY">
+			<Text>(Bạn chiêu mộ nhiều Vĩ nhân hơn.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_ANY">
+			<Text>(Bạn cạnh tranh với các thành phố tự trị.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_PETER_GREAT_REASON_ANY">
+			<Text>(Bạn yếu trong Khoa học và Văn minh.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_PHILIP_II_REASON_ANY">
+			<Text>(Bạn Truyền Đạo tôn giáo của mình sang thành phố anh ấy.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_ANY">
+			<Text>(Bạn đã xây dựng thêm được nhiều kỳ quan.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_SALADIN_REASON_ANY">
+			<Text>(Bạn khởi đầu một tôn giáo đối địch, đặc biệt nếu bạn đang chiến tranh với một nền văn minh theo tôn giáo của anh ấy.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_ANY">
+			<Text>(Bạn đã tấn công một ai đó ở trên lục địa của anh ấy.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_TOMYRIS_REASON_ANY">
+			<Text>(Bạn đã đánh lén một người bạn hoặc tuyên bố một cuộc chiến tranh bất ngờ.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_TRAJAN_REASON_ANY">
+			<Text>(Đế chế của bạn thật nhỏ bé.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_VICTORIA_REASON_ANY">
+			<Text>(Bạn hiện diện trên lục địa mà cố ấy muốn đặt thành phố.)</Text>
+		</Replace>
+		<!-- Generic warnings for random agendas -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_ANY">
+			<Text>Cảnh cáo - Không rõ lý do</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>Ngài còn thiếu sót nhiều điều để phát triển một nền văn minh vững mạnh. Ta sẽ phải nhớ điều gì về người dân của ngài?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>Ngài có thể muốn xem xét một vài tiện nghi cho người dân. Ta không nghĩ họ đồng tình với luật lệ của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>Đế chế của ngài đang tiến đến phá sản. Làm thế nào ngài có thể tồn tại với đống nợ chồng chất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>Ngài đang bước vào vòng nguy hiểm chỉ bởi đang tạo ra những vấn đề thường gặp với thành phố tự trị. Cứ để đấy cho ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>Người dân của ngài thì lười biếng và nghèo nàn. Nếu ngài không thể sản xuất thì nền văn minh của ngài sẽ sớm bị lãng quên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>Có quá ít người sinh sống ở vương quốc của ngài. Phải thật khó khăn khi hoàn thành một việc gì đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>Ngài không giành nhiều thời gian vào nghiên cứu. Người dân của ngài sẽ phải làm thế nào để tiếp tục?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>Ngài có quá ít quân lực. Ngài không lo sợ cho mạng sống của mình sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>Thành phố của ngài thì cạnh bên. Còn quân đội thì hùng hậu. Ngài đang làm ta lo lắng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_GREAT_PERSON_ADVOCATE_LEAD">
+			<Text>Công việc chiêu mộ những Vĩ nhân của ngài mà ta hằng ao ước đang trở thành một vấn đề thực sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LEAD">
+			<Text>Ngài không nhận ra là chúng ta phải ưu việt những người thợ xây dựng các kỳ quan sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_ATTACK_CITY_STATES">
+		  <Text>Chỉ có kẻ hèn mới tấn công những thế lực nhỏ trên thế giới. Ngươi vô dụng đối với bọn ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MED_ATACK_CITY_STATES">
+		  <Text>Hãy xem đây là lời cảnh báo. Tuyệt đối đừng tấn công những thế lực nhỏ yếu nữa.</Text>
+		</Replace>
+    <!--Warnings for future random agendas (not yet implemented)-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_AIRPOWER">
+			<Text>Chẳng có gì là huy hoàng nếu cứ giữ đôi chân mãi trên mặt đất. Ngài phải thử xây dựng một không lực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ATTACKS_CITY_STATES">
+			<Text>Thật là tồi tệ khi bắt nạt kẻ yếu thế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS">
+			<Text>Làm thế quái nào mà ngài lại để quân man di chạy loạn xạ gần nhà của ngài đến vậy?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ENVIRONMENT">
+			<Text>Ta phải nói với ngài rằng sự tàn phá trái đất của ngài không những chỉ ảnh hướng đến ngài mà còn ảnh hưởng đến những nước láng giềng nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPLOITATION">
+			<Text>Xung quanh ngài là những mảnh đất màu mỡ! Làm thế nào mà ngài có thể lờ đi chúng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_DIFFERENT_GOVERNMENT">
+			<Text>Sự khác biệt về tư tưởng của chúng ta chỉ là mới bắt đầu. Ta không thể nào chấp nhận cách ngài cai quản con dân như thế này được...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_NUKE_LOVE">
+			<Text>Vũ khí hạt nhân chính là tương lai! Làm thế nào mà ngài không nhìn thấy điều đó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_FAITH">
+			<Text>Cái gì chỉ dẫn ngài? Chắc chắn, ngài phải tin vào một điều gì đó, hãy chỉ lối cho người dân của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_EXPLORATION">
+			<Text>Còn quá nhiều điều để khám phá, và ta sợ rằng mình không thể chấp hành bất kỳ ai đặt điều trước những nhà thám hiểm.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Kẻ thù cổ xưa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số. [NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Kẻ thù cổ xưa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số. [NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.[NEWLINE]</Text>
+		</Replace>	
+
+		<!-- Victories -->
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Hãy cho tôi một cái đòn bẩy đủ dài và một điểm tựa để đặt lên, và tôi sẽ di chuyển cả thế giới. - Ác-si-mét</Text>
+		</Replace>		
+		
+		<!-- Scenario Package -->
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Kịch bản chơi nhiều người: Ancient Rivals</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Mở rộng tầm nhìn của bạn đồng thời truyền bá văn minh trong quá trình khám phá này và văn hóa - dựa trên kịch bản được thiết lập trong thời kỳ cổ đại. Kéo dài 50 lượt.</Text>
+		</Replace>	
+		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Điều kiện chiến thắng[NEWLINE]Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số. [NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.[NEWLINE]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Giới Hạn Lượt {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Điểm chiến thắng {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Mở rộng ô đất {HexesExplored} {ExploredStatusIcon}[NEWLINE]Ô đất đã cướp {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Hành chính hoàn thành {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Kỳ quan đã hoàn tất {WondersPossessed} {WondersStatusIcon}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

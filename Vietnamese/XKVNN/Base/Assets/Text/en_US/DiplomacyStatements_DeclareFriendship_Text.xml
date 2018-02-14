@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+
+		<!-- AI accepts from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>Ta rất hân hạnh được chấp nhận tình hữu nghị này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Thay mặt cho nhân dân Kongo, ta chấp nhận tình hữu nghị và thiện chí của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta chấp nhận tình hữu nghị với ngài. Và tất nhiên, ngài sẽ được mời dự đám cưới hoàng gia lần tới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Tốt lắm, ta chỉ hi vọng ngài giống như Mark Antony hơn là Brutus.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Một đồng minh mạnh mẽ là người bạn tốt nhất. Hãy cùng sống trong hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ta chấp nhận tình hảo hữu với ngài. Hi vọng nó sẽ mang lại hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh rất hạnh phúc khi kết tình hữu nghị với ngài. Hãy cho cả thế giới biết ngài là hảo hữu của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ngài đã minh chứng rằng mình là một người bạn tốt của Sparta. Ta sẽ thay mặt nhân dân đồng ý tình hữu nghị này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Ngài ư? Được thôi, ta sẽ là bằng hữu của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Ta thấy trong ngài sự yên tĩnh và thanh bình của một chiến binh, và ta chào đón tình hữu nghị này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Ta rất vui lòng đồng ý là đề nghị của ngài về tình hữu nghị này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Thay mặt Nền Dân Chủ, ta đồng ý tình hữu nghị của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Lời đề nghị của ngài rất hay. Ta đồng ý, vì lợi ích của nhân dân chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ngài được chúc phúc bởi Chúa, và bạn của ta. Hãy cho thế giới biết ngài được bảo vệ bởi sức mạnh của Chúa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ngài đã chứng minh mình là một người bằng hữu xứng đáng với Trung Hoa, ta đồng ý lời đề nghị của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Bây giờ ta mới hiểu rằng ngài là một người bằng hữu của đất nước ta. Hãy để ta tuyên bố điều này với thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta không thể nói không với điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ta sẽ chấp nhận tình bằng hữu với ngài, nhưng đừng không phản bội niềm tin của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Hãy để thiên hạ biết rằng Đất nước của ngài là bằng hữu của ta, và rằng chúng ta đã kết tình hữu nghị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Vâng, điều này làm ta hài lòng. Hai nước chúng ta sẽ được hưởng lợi ích từ mối quan hệ hữu nghị này.</Text>
+		</Replace>
+
+		<!-- AI Rejects from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>Ta không có hứng thú vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Kongo chưa sẵn sàng để kết bằng hữu với ngài. Trước tiên hãy để mối quan hệ của chúng ta chín muồi hơn nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta thành thật xin lỗi, nhưng điều này hơi đường đột. Có lẽ là lúc khác?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Hah! Ta đã gộp cả Caesars và Pharaohs thành đồng đội của mình, điều gì khiến nhà ngươi nghĩ mình xứng đáng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Không, ta không thể nhận lời kết bằng hữu của ngài, vì lợi ích của Đế Chế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ta thành thật xin lỗi nhưng ta không thể đồng ý thỏa thuận này với ngài. Xin hãy hiểu cho ta, đó là điều tốt nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh không phải là bạn của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sparta không cần mối quan hệ bằng hữu với ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Không, không phải là tất cả tại Asgard.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Ta phải từ chối, vì lợi ích tốt nhất cho Shogunate và cả đại diện cho Đế Chế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Ta không cảm thấy hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Không, chúng ta không thể là bạn cho đến khi ngài có thể chứng minh nó bằng hành động, hoặc thuyết phục ta làm việc khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ta phải từ chối. Một người bạn cũ vẫn tốt hơn là hai bạn mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Không, ta không chấp nhận đề nghị của ngài. Ngài là một tội nhân, và không phải là người bạn nào của Tây Ban Nha.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ngài vẫn chưa xứng đáng với tình bạn của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Lời đề nghị của ngài rất tốt và đầy hào phóng, nhưng ta phải khiêm tốn từ chối cho đến khi yên tâm về ý định của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta không cảm thấy hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Tình bạn của ta không dễ dàng như thế. Trước tiên ngài phải dành được sự tin tưởng của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>La Mã vẫn là La Mã: không có người bạn nào tốt hơn chính mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Còn quá sớm để đưa ra cam kết. Tất nhiên ta sẽ xem xét khi thích hợp. Hiểu chứ?</Text>
+		</Replace>
+	
+		<!-- AI Requests friendship from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
+			<Text>Ngài có muốn chính thức tuyên bố tình hữu nghị của chúng ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ta gửi cái bắt tay hữu nghị tới ngài. Hãy để nhân dân chúng ta trở thành anh chị em, nhân danh Ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta gửi tới cho ngài cái bắt tay huy hoàng của sự hữu nghị. Ngài sẽ chấp nhận chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Nhiều người tranh giành làm bạn với ta. Đây là một lời đề nghị hào phóng, nhưng ta dành nó cho ngài. Câu trả lời của ngài là gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Một chúng ta mở rộng vòng tay của mình, nhưng lần này là trọng sự hữu nghị. Ngài sẽ chấp nhận chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ta nhận thấy rằng lãnh đạo từng gắn liền với bạo lực; nhưng ngày nay thì nó có nghĩa là cũng hòa hợp với mọi người. Vậy nên...ngài sẽ chấp nhận tình hữu nghị của ta chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Cả thế giới đều biết sự hào phóng của ta với bạn mình. Hãy để chúng ta trở thành những người bạn, không nên là kẻ thù.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Ta dành cho ngài sự hữu nghị của Sparta, ngài sẽ chấp nhận chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Trong tất cả những chuyến đi của ta, ta chưa bao giờ gặp một người nào tuyệt vời như ngài. Hãy để chúng ta trở thành bạn, được chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ngài rất hài hòa và khôn ngoan. Ta dâng cho ngài sự trung thành và danh dự của mình nếu ngài chấp nhận chúng ta là bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Ngài có muốn chính thức tuyên bố tình hữu nghị giữa chúng ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Chúng ta hãy gác sự bất đồng sang một bên, được không? Sự hữu nghị quan trọng hơn là những chính kiến nhỏ nhen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Rất vinh dự được gửi đến bạn tình bạn của ta, cùng với một sự hữu nghị giữa hai quốc gia. Ngài có chấp nhận không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Ta tin rằng ngài đã thấy sự khôn ngoan trong ánh sáng của Chúa. Hãy chia sẻ tình hữu nghị của chúng ta dưới phước lành của Ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Làm ơn, hãy chấp nhận trở lại tình hữu nghị trước đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Ngài đã chứng minh mình là một nhà lãnh đạo khôn ngoan. Ngài chấp nhận đề nghị của ta về sự hữu nghị này chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ngài đã giành được sự tôn trọng của ta. Chúng ta sự thông báo tình bạn hữu này chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Tình hữu nghị là điều quý giá nhất giữa hai quốc gia. Hãy để chúng ta có nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>La Mã vinh quang đưa ra một lời đề nghị về tình hữu nghị. Ngài có đồng ý không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ta đã xem ngài là một người bạn quý. Hi vọng chúng ta đã hiểu nhau...</Text>
+		</Replace>
+
+		<!-- Human accepts AI requests, AI responds -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Quá tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Cảm ơn rất nhiều.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ta cảm ơn ngài thế nào đây?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Cảm ơn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Cảm ơn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Hãy nhận lòng biết ơn của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Cầu cho các Vị Thần phù hộ ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Chúng tôi rất biết ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Cầu thánh Allah phù hộ ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Hãy nhận lời cảm ơn của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Cảm ơn rất nhiều.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ngài rất tử tế và chu đáo.</Text>
+		</Replace>
+		
+		<!-- Human rejects AI requests, AI responds -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Điều đó thật đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Điều đó thật đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Thật đáng tiếc!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Điều đó thật hổ thẹn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Có lẽ lần sau vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Một bước đi không may mắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Ngươi bị điên à?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Một sự hổ thẹn...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Một sự hổ thẹn...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Điều đó thật đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Điều đó thật đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ngu ngốc, ngu ngốc...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Điều đó thật đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Xui xẻo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Nhớ những gì ngài nói.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Điều đó thật tệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Ngài nên cân nhắc lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Hổ thẹn làm sao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Thật đáng tiếc.</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
+			<Text>Xin lỗi, nhưng chúng ta chỉ không thể cam kết một tình hữu nghị chính thức vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_POSITIVE">
+			<Text>Sẽ rất vui khi để cho cả thế giới biết chúng ta đoàn kết như những người bằng hữu.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

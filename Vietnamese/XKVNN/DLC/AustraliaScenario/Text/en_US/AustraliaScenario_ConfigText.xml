@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_AUSTRALIA_SCENARIO_NAME">
+			<Text>Trùm Khai Hoang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP">
+			<Text>Những thuộc địa nào sẽ tận dụng tối đa tài nguyên tự nhiên của nước Úc? Kéo dài 60 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION">
+			<Text>Trong 60 lượt, hãy chạy đua để khám phá nước Úc, tìm kiếm nguồn tài nguyên thiên nhiên, và sử dụng chúng để làm giàu cho thuộc địa của bạn. Kịch bản chơi này không có chiến đấu mà chỉ có cạnh tranh kinh tế. Nó nhấn mạnh sự thăm dò và mở rộng lãnh thổ để tăng lượng [ICON_Gold] Vàng mỗi lượt thu được, đó là điểm số của bạn.[NEWLINE][NEWLINE]Chơi một người: Ở mỗi độ khó đều có một ngưỡng [ICON_Gold] Vàng mỗi lượt. Hãy vượt qua con số đó trước khi trò chơi kết thúc để giành chiến thắng.[NEWLINE][NEWLINE]Chơi nhiều người: Người chơi với số [ICON_Gold] Vàng mỗi lượt cao nhất vào cuối trò chơi là người chiến thắng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO">
+			<Text>Hãy cố gắng không lặp lại thành công như ở New South Wales với thuộc địa Úc non trẻ của bạn, nhưng để vượt qua điều đó. Bạn có thể đạt được danh tiếng trong những vùng đất hoang vu nơi nhiều người khác đã thất bại? Vận may của bạn có thể đến từ lời đồn vị trí các mỏ vàng, những đàn gia súc lớn, hoặc bảo tồn vẻ đẹp tự nhiên của vùng đất này cho các thế hệ tương lai?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME">
+			<Text>Bản đồ nước Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION">
+			<Text>Lục địa Úc được tạo ngẫu nhiên với hình dáng tương tự thế giới-thực.</Text>
+		</Replace>
+		<!-- Civilizations-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME">
+			<Text>Bang Queensland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME">
+			<Text>Tiểu bang Tây Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME">
+			<Text>Tiểu bang Victoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME">
+			<Text>Bang Nam Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION">
+			<Text>Chính quyền bang Queensland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION">
+			<Text>Chính quyền tiểu bang Tây Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION">
+			<Text>Chính quyền tiểu bang Victoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION">
+			<Text>Chính quyền bang Nam Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME">
+			<Text>Vùng Hạ Dưới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME">
+			<Text>Vùng Hạ Dưới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME">
+			<Text>Vùng Hạ Dưới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME">
+			<Text>Vùng Hạ Dưới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Nhà ở cho bất kỳ thành phố cạnh bờ biển. Bãi chăn kích hoạt tấn công văn hóa. Sản lượng từ các Khu tri thức, các Khu Thương Mại, và các Khu nghệ thuật là +2 nếu nằm trong ô đất có sức hấp dẫn Đẹp và +4 nếu Ngây Ngất.</Text>
+		</Replace>
+		<!-- Leaders -->
+		<Replace Language='en_US' Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME">
+			<Text>Thống đốc bang Queensland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME">
+			<Text>Thống đốc tiểu bang Tây Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME">
+			<Text>Thống đốc tiểu bang Victoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME">
+			<Text>Thống đốc bang Nam Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME">
+			<Text>Bang Sunshine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME">
+			<Text>Bang Golden Outback</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME">
+			<Text>Cơn sốt vàng bang Victoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME">
+			<Text>Thuộc địa tự do</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION">
+			<Text>Tất cả ô +1 Sức Hấp dẫn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>Có thêm ô đất khi thành lập thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION">
+			<Text>Bắt đầu trò chơi với Người Thăm Dò. Tất cả những Người Thăm Dò được đào tạo tại thành phố của họ sẽ được tăng thêm 1 hành động xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>Bắt đầu trò chơi với Người Chăn Nuôi. Tất cả Người Chăn Nuôi được đào tạo tại thành phố của họ sẽ được tăng thêm 1 hành động xây dựng.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

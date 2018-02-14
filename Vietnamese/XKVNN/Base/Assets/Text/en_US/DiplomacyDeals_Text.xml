@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
+			<Text>VÀNG MỖI LƯỢT</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
+			<Text>VÀNG MỖI LƯỢT[newline]{1_number} LƯỢT	</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
+			<Text>CHO {1_number} LƯỢT</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
+			<Text>TÀI NGUYÊN QUÝ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
+			<Text>TÀI NGUYÊN CHIẾN LƯỢC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
+			<Text>HIỆP ƯỚC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CITIES">
+			<Text>THÀNH PHỐ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
+			<Text>NGƯỜI CHƠI KHÁC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
+			<Text>TÙ NHÂN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
+			<Text>THÀNH TỰU VĨ ĐẠI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
+			<Text>CÔNG NGHỆ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
+			<Text>{1_LeaderName}[NEWLINE]{2_CivName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
+			<Text>Đồng ý thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
+			<Text>Từ chối thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
+			<Text>Đề xuất thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
+			<Text>Yêu cầu thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
+			<Text>Đồng ý yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
+			<Text>Từ chối yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
+			<Text>Tặng quà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
+			<Text>Đừng bận tâm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
+			<Text>Hủy thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
+			<Text>Hủy yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
+			<Text>Tiếp tục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
+			<Text>Item của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
+			<Text>Item của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
+			<Text>Ngài cho ta gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
+			<Text>Ngài lấy cái gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
+			<Text>Thiết lập thỏa thuận chi tiết...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
+			<Text>Thiết lập thỏa thuận chi tiết...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
+			<Text>{1_DisplayName} ({2_Turns} lượt)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
+			<Text>{1_LeaderName} nói:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
+			<Text>Trả lại {1_Name}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
+			<Text>Trả lại {1_Name} cho {1_LeaderName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
+			<Text>Nhường {1_Name}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
+			<Text>Nhường {1_Name} cho {1_LeaderName}</Text>
+		</Replace>
+		<!--Deal Error Messages-->
+		<Replace Language='en_US' Tag="LOC_DEAL_CITY_NOT_FOUND">
+			<Text>Không tìm thấy thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_CITY_DUPLICATE">
+			<Text>Thỏa thuận khác có cùng thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
+			<Text>Không đủ Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Không đủ Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
+			<Text>Không tìm thấy thành tựu vĩ đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_INVALID_PLAYER">
+			<Text>Người chơi không hợp lệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
+			<Text>Không còn Slot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
+			<Text>Tài nguyên này không đủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_SPY_NOT_FOUND">
+			<Text>Không tìm thấy gián đẹp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
+			<Text>Dân số: {1_number}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
+			<Text>Đặc Khu:</Text>
+		</Replace>
+		<!-- Diplomactic Actions -->
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
+			<Text>Đại sứ quán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
+			<Text>Yêu cầu cống nạp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
+			<Text>Tự do đi lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
+			<Text>Yêu cầu hỗ trợ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
+			<Text>Lăng mạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
+			<Text>Chiến tranh bất ngờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
+			<Text>Hãy hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
+			<Text>Gửi phái đoàn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
+			<Text>Đồng minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
+			<Text>Thiết lập hữu nghị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
+			<Text>Nhận huy hiệu "Ảnh hưởng Lớn"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
+			<Text>Tặng đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
+			<Text>Yêu cầu quân đội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
+			<Text>Tuyên bố chiến tranh trên nền văn minh nhỏ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
+			<Text>Tuyên bố chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
+			<Text>Tuyên bố thánh chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
+			<Text>Tuyên bố chiến tranh giải phóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
+			<Text>Tuyên bố chống xâm lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
+			<Text>Tuyên bố chiến tranh bảo kê</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
+			<Text>Tuyên bố chiến tranh thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
+			<Text>Tuyên bố chiến tranh mở rộng lãnh thổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
+			<Text>Hiệp ước phòng thủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
+			<Text>Tham gia chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
+			<Text>Hiệp ước nghiên cứu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
+			<Text>Hứa không gửi gián điệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
+			<Text>Hứa không cải giáo thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
+			<Text>Hứa không đào cổ vật lên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
+			<Text>Hứa không để Dân Di Cư quá gần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_INVALID">
+			<Text>Tôi sẽ không chấp nhận thỏa thuận này dưới bất cứ hoàn cảnh nào.</Text>
+		</Replace>
+		<!-- Diplomactic Action Tooltips-->
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
+			<Text>Hiệp ước nghiên cứu là đưa ra một lời đề nghị với bạn bè hoặc Đồng minh. Hiệp ước nghiên cứu cho phép hai bên cùng nhau nghiên cứu một công nghệ. Các công nghệ lớn thì thỏa thuận lâu hơn. Trong thời gian thỏa thuận, mỗi bên sẽ được thưởng thúc đẩy công nghệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
+			<Text>Thiết lập một "Tham gia chiến tranh" chống lại một nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
+			<Text>Thiết lập "Hiệp ước phòng thủ". Khi một trong hai đồng minh bị tấn công, tất cả thành viên sẽ tự tuyên bố chiến tranh với kẻ xâm lược.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Tuyên bố trở thành Đồng minh. Đồng minh không đi đến chiến tranh,tự cho phép tự do đi lại, và được một Biện minh chiến tranh khi kẻ xâm lược chiếm được một thành phố của đồng minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
+			<Text>Thành lập Đại sứ quán thường trực. Nếu được chấp nhận, họ sẽ có một chút thân thiện, bạn sẽ có một cấp của "Mức độ truy cập", và [ICON_Capital] Thủ Đô sẽ được tiết lộ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
+			<Text>Yêu cầu một món quà từ thế lực này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
+			<Text>Hỏi về việc tự do đi lại trong lãnh thổ của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
+			<Text>Hỏi thế lực này về một món quà ngoại giao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
+			<Text>Sử dụng để tuyên bố rằng bạn không vui với thế lực này. Chính thức tuyên chiến (có hoặc không có Biện minh chiến tranh) có thể thực hiện sau 5 lượt nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+			<Text>Sử dụng để ngay lập tức bắt đầu chiến tranh. Hình phạt gây chiến tăng 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
+			<Text>Đàm phán một thỏa thuận để hòa hoãn chiến tranh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
+			<Text>Gửi một phái đoàn kèm theo [ICON_Gold] Vàng. Nếu được chấp thuận, người nhận sẽ có một chút thân thiện và bạn sẽ có được một cấp "Mức độ truy cập". Kéo dài đến khi bạn có được Hành chính Ngoại giao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
+			<Text>Chính thức tuyên bố ý định thiết lập hữu nghị. Một khi họ trở thành Đồng minh thì sẽ không thể tuyên bố chiến tranh với thế lực này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với người chơi bạn đã hoặc bị Lăng mạ ít hơn 5 lượt trước. Không có giới hạn về thành phố bạn có thể chiếm giữ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với tôn giáo đã cải giáo trong thành phố của bạn. Tất cả hình phạt chiến tranh giảm một nửa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với thành phố bị xâm lược của người bạn hoặc đồng minh. Không hình phạt chiến tranh cho bất kỳ thành phố được giải phóng nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với thành phố bị xâm lược của bạn. Hình phạt chiến tranh không bị áp dụng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với thế lực đã tấn công thành phố tự trị đồng minh của bạn. Không có hình phạt chiến tranh cho thành phố tự trị này khi được giải phóng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với người chơi kém hơn bạn 2 thời đại công nghệ. Tất cả hình phạt chiến tranh giảm một nửa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Sử dụng để tuyên chiến với người chơi giáp ranh biên giới bạn. Phải có 2 thành phố của bạn nằm trong phạm vi 10 ô của 2 thành phố của kẻ địch. Hành phạt chiến tranh giảm 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
+			<Text>Khởi động đàm phán thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
+			<Text>Đề xuất hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
+			<Text>Chọn Công Nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
+		  <Text>Chọn Đồng Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
+		  <Text>Chọn Mục Tiêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
+		  <Text>Bao nhiêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
+		  <Text>Ta sẽ nhận lấy món quà này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
+		  <Text>Món quà sẽ cải thiện mối quan hệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
+		  <Text>Ta thích thương lượng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
+		  <Text>Tạo thỏa thuận sẽ làm tổn hại mối quan hệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_UNFAIR">
+		  <Text>Ta không thể chấp nhận, đây là một thỏa thuận không công bằng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
+		  <Text>Hỏi lãnh đạo này muốn thêm gì vào lời đề nghị.[NEWLINE]Nó sẽ chỉ thêm những thứ để cân bằng thỏa thuận đôi bên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
+		  <Text>Không thể chấp nhận đề nghị này trong bất kỳ trường hợp nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
+		  <Text>Chặn thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
+			<Text>How about this?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
+			<Text>I'm not willing to trade that</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
+			<Text>I have nothing I'm willing to trade for that</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

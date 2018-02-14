@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- AI responses -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Thật xin lỗi! Ta không thấy thành phố của ngài ở gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Người của ta cần đất. Ngài là ai mà nói rằng họ không thể có được nó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
+			<Text>Dân di cư của ngài quá gần! Ngài nên cân nhắc tìm kiếm vùng đất khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Cảm ơn ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Nếu ngài không tôn trọng vùng đất của ta, ta cũng sẽ không tôn trọng ngài.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Xin lỗi, ta chỉ đang tìm kiếm quân man di gây rắc rối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Ta thích diễu hành quân đội xung quanh đây, nó cho thấy sức mạnh của ta như thế nào.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Vâng ngài nói đúng. Ta rất tiếc phải nhờ đến công việc này. Nó sẽ không xảy ra lần nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Hah! Thứ gì khiến ngài nghĩ ta sẽ giữ lời hứa?</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Ta không nhận ra rằng ngài đã đặt yêu cầu cho vùng đất này. Đây chỉ là một sai lầm nhỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Bí ẩn của quá khứ đều miễn phí cho mọi người. Ngài không thể cấm đoán họ!</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Mặc dù tôn trọng ước muốn của ngài, ta thất vọng rằng ngài không thể nhìn thấy những sai lầm của chính mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Không, không. Đây là cách tốt nhất. Ta đảm bảo ngài sẽ thấy.</Text>
+		</Replace>
+    
+    <!-- AI warns player -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
+			<Text>Binh lính của ngài hành quân quá gần biên giới của ta. Ta mong rằng họ chỉ tham quan vẻ đẹp của khu vực quanh đấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
+			<Text>Đội quân của ngài đang ở trước cửa nhà ta. Ngài nghĩ ta bị mù à? Di chuyển họ đi, không thì ta sẽ phải hành động.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ngài nghĩ rằng có thể đe dọa ta bằng vũ lực? Điều đó sẽ không tốt cho ngài đâu, không hề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
+			<Text>Như đôi mắt của thần Ra, ta có thể thấy tất cả. Ngươi nghĩ rằng ta sẽ không để ý quân đội của ngươi áp sát biên giới của ta sao? Ta yêu cầu nhà ngươi hãy rút quân của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
+			<Text>Nếu ngài nghĩ ta ko thể phát hiện ra quân đội của ngài thì ngây thơ quá rồi đấy. Hãy rút quân khỏi nước Đức, hoặc sẽ lãnh chịu hậu quả.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
+			<Text>Làm ơn, bằng hữu, hãy đưa binh lính ra khỏi khu biên giới của ta. Họ làm một người chuộng hòa bình như ta phải lo lắng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh sẽ xé xác quân của ngài ra từng mảnh bằng chính bàn tay của họ nếu ngài không chịu rút lui quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
+			<Text>Rút lui quân của ngươi ra khỏi biên giới của ta hoặc ta sẽ thay ngươi làm điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
+			<Text>Ta không nhớ là đã yêu cầu quân đội của nhà ngươi, có phải ngươi thèm khát gây chiến?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
+			<Text>Đừng bao giờ rút gươm khỏi vỏ khi không muốn đánh. Rút quân của ngươi ra khỏi địa bàn của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
+			<Text>Binh lính của ngài hành quân quá sát với biên giới của ta. Hy vọng chỉ là để ngắm cảnh miền quê.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
+			<Text>Nếu ngài dọa nạt ta bằng quân đội, thì nó không có tác dụng đâu. Hãy lui quân, hoặc sẽ lãnh hậu quả.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
+			<Text>Quân đội của ngài uy hiếp biên giới của ta... ngài cho rằng ta sẽ ngồi im mà không làm gì sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
+			<Text>Đừng cho rằng ngài có thể giữ quân đội ngay biên giới của ta mà không có ảnh hưởng. Hãy lui quân cùng một lượt đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
+			<Text>Quân đội của ngài đã mất đi lợi thế bất ngờ. Hãy lui binh đi, và suy xét lại chiến lược của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
+			<Text>Chỉ có mù mới không thấy quân đội của ngài ngay trước mắt. Làm ơn, lui quân của ngài ra khỏi biên giới của ta, trừ khi... ngài dự tính gây chiến tranh sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ngài hành quân quá sát biên giới của ta, điều này làm ta bắt đầu đặt câu hỏi về tính liêm chính của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
+			<Text>Quân của ngài đã quá gần biên giới của ta. Hi vọng họ chỉ đến để xem phong cảnh quê ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
+			<Text>Chỉ vài bước chân nữa ngài sẽ thành quân xâm lược. Hãy rút quân ra khỏi biên giới của ta một lần đi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
+			<Text>Quân đội của ngài không được chào đón tại biên giới của ta. Hãy triệu tập họ về.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
+      <Text>Ta biết rằng ngài thật xấu hổ khi sử dụng gián điệp chống lại ta. Hãy loại bỏ gián điệp của ngài!</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Cảm ơn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Ta sẽ ghi nhớ sự sỉ nhục này. Ngươi có thể chắc chắn điều đó!</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
+      <Text>Nền văn hóa của chúng ta không phải để cướp bóc. Hãy ra khỏi vùng đất của ta!</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Cảm ơn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Nếu ngài không thể tôn trọng vùng đất của ta, ta cũng sẽ không tôn trọng ngài.</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
+      <Text>Tôn giáo khác không được chào đón. Ta yêu cầu loại bỏ ngay lập tức.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Cảm ơn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Ta đảm bảo sẽ có hậu quả cho việc này, không bây giờ thì lúc khác.</Text>
+    </Replace>
+
+    <!-- Human Choices -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Dân di cư của ta sẽ làm những gì họ muốn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Xin lỗi, ta sẽ tìm nơi khác.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Đúng là phải lo lắng (Tuyên bố chiến tranh)!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Quân đội của ta chỉ đi ngang qua.</Text>
+		</Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+      <Text>Ta không thể hứa.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+      <Text>Ta xin lỗi, ta sẽ chấm dứt các hoạt động.</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+      <Text>Ngài không thể thay đổi chủ quyền lịch sử. Ta sẽ đào những gì ta muốn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+      <Text>Xin lỗi, ta sẽ chuyển nhà khảo cổ đi nơi khác.</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+      <Text>Nếu đó là ý của chúa thì làm sao ta dám chống lại?</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+      <Text>Ta xin lỗi, ta nghĩ mọi người chào đón ta. Ta đã nhầm.</Text>
+    </Replace>
+    
+    <!-- Confirmation of War -->
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
+      <Text>Động thái này sẽ bắt đầu chiến tranh với {1_CivName}!</Text>
+	  </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+	  <Text>Thực hiện động thái này là sẽ tự đánh vào lãnh thổ của bạn.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+	  <Text>Làm cho cuộc tấn công này sẽ gây hậu quả với một trong những đồng minh.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+	  <Text>Tấn công một cách mù quáng sẽ dẫn đến nhiều hậu quả khôn lường.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
+      <Text>Bạn có chắc muốn làm điều này?</Text>
+    </Replace>
+	</LocalizedText>
+</GameData>

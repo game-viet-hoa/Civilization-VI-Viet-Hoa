@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_CREDITS_BACK_BUTTON">
+			<Text>Back</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CREDITS">
+			<Text>
+[3]CREDITS
+
+
+
+[2]Firaxis Games
+[1]Sid Meier’s Civilization VI
+
+[2]VIỆT HÓA
+[3]Xuân Khánh
+[3]Phúc Võ
+[3]LuongYeuH
+[3]Đạt Đoàn
+[3]Thông Nguyễn
+[3]...
+
+
+[2]TEAM LEADERSHIP
+[3]Lead Designer
+[4]Ed Beach
+
+[3]Lead Engineer
+[4]Ken Grey
+
+[3]Art Director
+[4]Brian Busatti
+
+[3]DLC Art Director
+[4]Jason Johnson
+
+[3]Senior Producer
+[4]Dennis Shirk
+
+[3]DLC Senior Producer
+[4]Andrew Frederiksen
+
+[i]TechTree_Meter_Done
+
+[2]DESIGN TEAM
+
+[3]Lead Designer
+[4]Ed Beach
+
+[3]Designer/Programmers
+[4]Matthew Beach
+[4]Brian Feldges
+[4]Andrew Garrett
+[4]Anton Strenger
+
+[3]Lead AI Engineer
+[4]Andrew Garrett
+
+[i]TechTree_Meter_Done
+
+[2]PRODUCTION TEAM
+
+[3]Senior Producer
+[4]Dennis Shirk
+
+[3]DLC Senior Producer
+[4]Andrew Frederiksen
+
+[3]Associate Producer
+[4]Sarah Darney
+
+[3]Additional Production
+[4]Amy Pickens, Technical Animation Group
+[4]Stuart E. Zissu, Systems and IHV Support
+
+[3]Writers
+[4]Alexander Horn
+[4]Rex Martin
+[4]Zach Bush
+
+[3]Additional Writing
+[4]Steffen Drees
+[4]Carlton Harrison
+[4]Dominic "Bull" Mancuso
+[4]Timothy McCracken
+[4]Peter Murray
+[4]Maurice Suckling
+[4]Scott Wittbecker
+
+[i]TechTree_Meter_Done
+
+[2]PROGRAMMING TEAM
+
+[3]Lead Engineer
+[4]Ken Grey
+
+[3]Gameplay Engineers
+[4]Eric Jordan
+[4]Adam Sherburne
+[4]Scott Spanburg
+
+[3]Additional Gameplay Engineers
+[4]Jeff Hiebert, Ghostpunch
+[4]Olex Lozitskiy, Ghostpunch
+
+[3]Lead Systems Engineer
+[4]Greg Osefo
+
+[3]Systems Engineers
+[4]Ian Schmidt
+[4]Adam Sherburne
+
+[3]Lead Graphics Engineer
+[4]Josh Barczak
+
+[3]Graphics Engineers
+[4]Navjot Garg
+[4]Arthur Gould
+[4]Kevin Jones
+[4]John Kloetzli
+[4]Theodore Maselko
+[4]David Raabe
+[4]Jeremy Shopf
+[4]Kiran Sudhakara
+[4]Marek Vojtko
+
+[3]Lead Database/Modding Engineer
+[4]Shaun Seckman
+
+[3]Lead Interface Engineer
+[4]Tronster
+
+[3]Interface Engineers
+[4]Samuel Batista
+[4]Whitney Bell
+[4]Joe Cortese
+
+[3]Additional Interface Engineers
+[4]Keaton Vanaukan, Ghostpunch
+
+[3]Lead Multiplayer Engineer
+[4]Bradley Olson
+
+[3]Multiplayer Engineers
+[4]Todd Smith
+
+[3]Lead Tools Engineer
+[4]Brian Whitman
+
+[3]Tools Engineers
+[4]David Gurley
+
+[3]Additional UI and Gameplay Support
+
+[3]Blind Squirrel Games
+[4]Chris Wade – Gameplay Engineer
+[4]Leo Simkin – Gameplay Engineer
+[4]David Baker – Executive Producer
+[4]Amanda Khoury – Associate Producer 
+
+[i]TechTree_Meter_Done
+
+[2]ART TEAM
+
+[3]Art Director
+[4]Brian Busatti
+
+[3]DLC Art Director
+[4]Jason Johnson
+
+[3]Lead Interface Designer
+[4]Whitney Bell
+
+[3]DLC Lead Interface Designer
+[4]David Cory
+
+[3]Interface Artists
+[4]Rob Sugama
+
+[3]Lead Animator
+[4]Hector Antunez
+
+[3]DLC Lead Animator
+[4]Grant Chang
+
+[3]Animators
+[4]Rachel Anchors
+[4]Aaron Andersen
+[4]Lou Ferina
+[4]Alex Kim
+[4]Greg Marlow
+[4]Dennis Moellers
+[4]Daniel Perry
+[4]David Senita
+[4]Justin Thomas
+[4]Bryan Twomey
+
+[3]Additional Animators
+[4]Jason Johnson
+
+[3]Technical Animation Group
+[4]Brian Evans
+[4]John Stewart
+
+[3]Additional Technical Animation
+[4]Savannah Myers
+
+[3]Lead Character Artist
+[4]Matthew Kean
+
+[3]Lead Unit Modeling
+[4]David Jones
+
+[3]Character and Unit Modelers
+[4]John Fitzgerald
+[4]Ryan Jackson
+[4]David Jones
+[4]Michael Unkrich
+
+[3]Additional Unit Modelers
+[4]Benjamin McArdle
+[4]Gameshastra Solutions Private Limited
+
+[3]Lead Environment Artist
+[4]Jason Johnson
+
+[3]Environment Artists
+[4]Clark Coots
+
+[3]Lead Structure Modeler
+[4]Matthew Quickel
+
+[3]Structure Modelers
+[4]Jerome Atherholt
+[4]Michael Bates
+[4]Todd Bergantz
+[4]Andrew Clark
+[4]Clark Coots
+[4]Tommy Cox
+[4]Alex Llivicura
+[4]Matt McAuliffe
+[4]Rambo Siu
+
+[3]Additional Structure Modelers
+[4]John Dunford
+
+[3]Lead Visual Effects Artist
+[4]Troy Adam
+
+[3]Visual Effects Artists
+[4]Michael Bazzell
+[4]Rick Menkhaus
+
+[3]Additional Visual Effects Artists
+[4]Todd Bilger
+
+[3]Lead Concept Artist
+[4]Sang Han
+
+[3]DLC Lead Concept Artist
+[4]Kat Berkley
+
+[3]Concept Artists
+[4]Taylor Fischer
+[4]Sam Gauss
+[4]Michael Tassie
+[4]Ryan Andrade
+[4]Aaron Whitehead
+
+[3]Additional Concept Artists
+[4]Andrew Bosley
+[4]Eric Ehoff
+[4]Jeff Paulsrud
+[4]Colleen Peck
+
+[3]Motion Graphics Designer
+[4]Steve Ogden
+
+[i]TechTree_Meter_Done
+
+[2]AUDIO
+
+[3]Lead Audio Designer
+[4]Roland Rizzo
+
+[3]Associate Lead Audio Designer
+[4]Griffin Cohen
+
+[3]Sound Designers
+[4]Griffin Cohen
+[4]Dan Costello
+[4]Roland Rizzo
+[4]Christopher D'Ambrosio
+[4]Dan Price
+
+[3]In-Game Music
+[4]Geoff Knorr
+[4]Roland Rizzo
+[4]Tim Wynn
+
+[3]Opening Cinematic and Main Menu Music
+[4]Christopher Tin
+
+[3]End Game Cinematic Music
+[4]Geoff Knorr
+[4]Christopher Tin
+
+[3]Additional Electronics and Arrangements
+[4]Phill Boucher
+
+[3]Audio Programmer
+[4]Ian Schmidt
+
+[i]TechTree_Meter_Done
+
+[2]Performers
+
+[3]Prague FILMharmonic Orchestra
+[4]Orchestra conducted by Andy Brick
+[4]Rita Cepurcenko, Concertmistress
+[4]Kühn Mixed Choir
+[4]Marek Vorlícek, Choir Conductor
+[4]Jan Holzner, Orchestra and Choir Recording Engineer
+[4]Petr Pycha, Orchestra Contractor
+[4]Tomás Kirschner, Orchestra Librarian
+[4]Geoff Knorr, Orchestrator
+[4]Chris Whittaker, Orchestral Parts Preparation
+[4]Orchestra Recorded at Smecky Music Studios
+[4]Niccolo Seligmann, Bass Viol, Vielle, Kemençe
+[4]Deepak Ram, Bansuri
+[4]Bing Xia, Guzheng
+[4]Chakib Hilali, Oud, Ney, Kawala
+[4]Kylie Hilali, Qanun
+[4]Brad Kolodner, Banjo
+[4]Patrick McAvinue, Fiddle
+[4]Kahil Nayton, Cavaquinho
+[4]Cesar Garabini, 7-string guitar
+[4]Sissel Morken Gullord, Norwegian Bukkehorn
+[4]Andrei Saveliev, Balalaika
+[4]Mathew Poovan, Sitar
+[4]Souvik Ghosh, Tabla
+[4]Chris Reber, Mandolin
+[4]Dave Hadley, Dobro
+[4]Benjamin Beirs, Classical Guitar
+[4]Sandro Freidrich, Duduk, Hotchiku, Recorder, Bombarde, Pivava, Tenor Pivana, Schwegel, Occorsoflute,
+[4]Kaval, Ciaramella, Bass Recorder, Bena, Erdklangfloete, Ocarina, Floyera, Doucaine, Tin Whistle
+[4]Ronnie Nyogetsu Reishin Seldin, Shakuhachi
+[4]Roland Rizzo, South American Flutes
+[4]Geoff Knorr, 9-String Golden Lyre of Erato
+[4]Jon Anders Narum, Norwegian Bukkenhorn Recording Engineer
+
+[3]Kongolese Instrumental Recording by Regulus Sound Productions (PTY) LTD – South Africa
+[4]Caleb Vaughn-Jones, Producer, Recording Engineer, double bass, nyunganyunga, mbira
+[4]Simphiwe Funde, Production assistant, African instruments
+[4]Brent Kennedy, Production assistant and language transcriber
+[4]Joe Van Der Linden, guitar
+[4]Massi Bambino, vocals and Kongolese music researcher
+[4]Sebastian Sala, vocals and Kongolese music researcher
+[4]Candice Bowkers, Recording Engineer
+
+[3]Additional Vocals
+[4]Kyle du Preez, African vocals
+
+[3]Mixing and Mastering
+[4]Geoff Knorr
+
+[3]Cinematic and Main Menu Score 
+[4]Main Menu: "Sogno di Volare (The Dream of Flight)"
+[4]Composed by Christopher Tin
+[4]Lyrics by Leonardo da Vinci, adapted by Chiara Cortez
+[4]Performed by Angel City Chorale, Cappella SF and the Macedonian Symphonic Orchestra
+[4]Mixed by Jason Schweitzer
+[4]Recorded at Abbey Road Studios, Skywalker Sound, The Bridge and MRTV Studio M1
+[4]Recording Engineers: Andrew Dudman, Leslie Ann Jones, Milton Gutierrez and Giorgi Hristovski
+
+[4]Opening Movie: "A New Course"
+[4]Composed by Christopher Tin
+[4]Lyrics by Leonardo da Vinci, adapted by Chiara Cortez
+[4]Performed by Cappella SF and the Macedonian Symphonic Orchestra
+[4]Mixed by Leslie Ann Jones
+[4]Recorded at Skywalker Sound, The Bridge, and MRTV Studio M1
+[4]Recording Engineers: Leslie Ann Jones, Milton Gutierrez and Giorgi Hristovski
+
+[4]Additional Arrangements by Alex Williamson
+[4]Additional Orchestrations by Jerome Leroy
+ 
+[3]Angel City Chorale
+[4]Music Director: Sue Fink
+ 
+[3]Cappella SF
+[4]Music Director: Ragnar Bohlin
+ 
+[3]Orchestra: Macedonian Symphonic Orchestra
+[4]F.A.M.E.'S. Project - Skopje
+[4]Conductor : Oleg Kondratenko
+[4]Recording Engineer : Giorgi Hristovski
+[4]Pro Tools Operator : Atanas Babaleski
+[4]Stage Manager : Riste Trajkovski
+[4]Mixed by Leslie Ann Jones at Skywalker Sound
+[4]Assistant Mix Engineer: Dann Thompson
+[4]Pro Tools Editor: Andre Zweers
+ 
+[4]Additional Arrangements by Alex Williamson
+[4]Additional Orchestrations by Jerome Leroy
+
+[3]Special Thanks
+[4]Radio Active Productions Publishing Studio 
+[4]Peabody Institute Recording Arts and Sciences
+
+[i]TechTree_Meter_Done
+
+[2]SIGNAL SPACE
+[3]Creative Director
+[4]Jose Aguirre
+
+[3]Researcher
+[4]Inga Knoth
+
+[3]Audio Editor 
+[4]Valentino Lercher
+
+[3]Audio Editor 
+[4]Matthew Knutson
+
+[3]Project Manager 
+[4]Christopher Fox
+
+[i]TechTree_Meter_Done
+
+[2]SOLID AIR 
+
+[3]VO Editors
+[4]Transatlantic Audio/Dante Fazio
+[4]Austin Krier
+[4]Garrett Montgomery M.P.S.E
+[4]Stephen Selvaggio
+
+[i]TechTree_Meter_Done
+
+[2]QUALITY ASSURANCE
+
+[3]QA Supervisor
+[4]Timothy McCracken
+
+[3]QA Lead
+[4]Carlton Harrison
+
+[3]Testers
+[4]Daron Carlock 
+[4]Steffen Drees
+[4]Carlton Harrison
+[4]Jen Kraft
+[4]Dominic “Bull” Mancuso
+[4]Kelsey Orem
+
+[3]Additional Testing
+[4]Albert Briggs
+[4]Bennett Kauffman
+[4]Santiago Loane
+[4]Joseph Walker
+[4]Chloe Wright
+
+[3]Testing Interns
+[4]Steven Eisner
+[4]James Hopkins
+[4]Sam McNear
+
+[i]TechTree_Meter_Done
+
+[2]FIRAXIS LIVE TEAM
+
+[3]Producer
+[4]Clint McCaul
+
+[3]Senior Network Programmer
+[4]Michael Springer
+
+[3]Senior Online Services Engineer
+[4]Robert Dye
+
+[3]Telemetry Programmer
+[4]Timothy Talley
+
+[i]TechTree_Meter_Done
+
+[2]FIRAXIS MANAGEMENT
+
+[3]CEO / President
+[4]Steve Martin
+
+[3]Creative Director
+[4]Sid Meier
+
+[3]Studio Art Director
+[4]Arne Schmidt
+
+[3]Director of Software Development
+[4]Steve Meyer
+
+[3]Director of Gameplay Development
+[4]Barry Caudill
+
+[3]Executive Producer
+[4]Kelley Gilmore
+
+[3]Director of Marketing
+[4]Lindsey Riehl
+
+[3]Marketing Associate
+[4]Peter Murray
+
+[3]Community Manager
+[4]Kevin Schultz
+
+[3]Human Resources Director
+[4]Shawn Kohn
+
+[3]Office Manager
+[4]Donna Milesky
+
+[3]IT Manager
+[4]Josh Scanlan
+
+[3]IT Technician
+[4]Matt Baros
+[4]David McFall
+
+[3]Special Projects
+[4]Susan Meier
+
+[3]Special Thanks
+[4]Joanne Miller
+[4]Beth Petrovich
+
+[i]TechTree_Meter_Done
+
+[2]FRANKENSTEIN TEST GROUP
+[4]Camikaze
+[4]Sam "SamBC" Barnett-Cormack
+[4]David "Browd" Brown
+[4]Gloria "Nolan" Carson
+[4]Sean "Gorbles" Hickman
+[4]MadDjinn
+[4]Joel "colonelmustard" Myers
+[4]Adam "Pouakai" Partridge
+[4]Daniel "DanQ" Quick
+[4]Rob Riley
+[4]Hannah "Codex" Schofield
+[4]Elliot "Ekmek" Schroeder
+[4]Anthony "Ztaesek" Seekatz
+[4]Peter "Maniac" Steenbeke
+[4]Daniels "Solver" Umanovskis
+[4]Stephen "WarningU2" Warner
+[4]Frithjof Nikolai Wilborn
+[4]Onno "donald23" Zaal
+
+[i]TechTree_Meter_Done
+
+[2]VENDOR SUPPORT
+
+[3]AMD
+[4]Cristian Cutocheras
+[4]Raul Aguaviva
+[4]Josh Salem
+
+[3]NVidia
+[4]Timofey Cheblokov
+[4]Alex Dunn
+[4]Amanpreet Grewal
+
+[3]Intel
+[4]Raja Bala
+[4]Chris Seitz
+
+[3]Quixel
+[4]Teddy Bergsman
+[4]Eric Ramberg
+
+[3]Wwise
+[4]Martin Dufour
+[4]Adrien Lavoie
+
+[3]Fork
+[4]Noor Khawaja
+
+[3]Valve
+[4]Justin York
+
+[i]TechTree_Meter_Done
+
+[2]PRODUCTION BABIES
+[4]Alan
+[4]Dominic
+[4]Eleanor
+[4]Graham
+[4]Gwendolyn and MacArthur
+[4]Ian
+[4]Leah
+[4]Luca
+[4]Owen
+[4]Owen
+
+[4]To all of our families and loved ones! Thank you for your patience and support!
+
+[4]Published by 2K
+[4]2K is a publishing label of Take-Two Interactive Software, Inc.
+
+[i]TechTree_Meter_Done
+
+[2]2K PUBLISHING
+
+[3]President
+[4]Christoph Hartmann
+
+[3]C.O.O.
+[4]David Ismailer
+
+[i]TechTree_Meter_Done
+
+[2]2K PRODUCT DEVELOPMENT
+
+[3]VP, Product Development
+[4]John Chowanec
+[3]Director of Product Development
+[4]Melissa Miller
+
+[3]Sr. Producer 
+[4]Garrett Bittner
+
+[3]Producer 
+[4]Joe Faulstick
+
+[3]Associate Producers 
+[4]Andrew Dutra
+[4]Meghan Lee
+
+[3]Production Assistants 
+[4]Ross Marabella
+[4]Shelby Martin
+
+[3]Digital Release Manager
+[4]Tom Drake
+
+[3]Digital Release Assistant
+[4]Myles Murphy
+
+[3]Additional Production Support
+[4]Tiffany Nagano
+
+[i]TechTree_Meter_Done
+
+[2]2K CREATIVE DEVELOPMENT
+
+[3]VP, Creative Development
+[4]Josh Atkins
+
+[3]Design Directors 
+[4]Jonathan Pelling
+[4]Francois Giuntini
+
+[3]Art Director
+[4]Robert Clarke
+
+[3]Sr. Director, Creative Production 
+[4]Jack Scalici
+
+[3]Director, Creative Production 
+[4]Chad Rocco
+
+[3]Sr. Manager, Creative Production
+[4]Josh Orellana
+
+[3]Creative Production Coordinator
+[4]William Gale
+
+[3]Creative Production Assistants
+[4]Cathy Neeley
+[4]Megan Rohr
+
+[3]Media Producer
+[4]Mike Read
+
+[3]Developer Support Team – Visual Effects Lead 
+[4]Stephen Babb
+
+[3]Developer Support Team – Animation Lead 
+[4]PJ Leffelman
+
+[3]Developer Support Team – Modeling Lead 
+[4]Peter Turner
+
+[3]Gameplay Capture Lead
+[4]Homer Rabara
+
+[3]Gameplay Capture Team
+[4]Luke McCarthy
+[4]Dana Koerlin
+
+[3]Director of Research and Planning
+[4]Mike Salmon
+
+[3]Sr. Market Researcher
+[4]David Rees
+
+[3]User Testing Manager
+[4]Francesca Reyes
+
+[3]User Researcher
+[4]Jonathan Bonillas
+
+[3]User Test Assistant
+[4]Julian O’Neal
+
+[3]Motion Capture Supervisor  
+[4]David Washburn  
+
+[3]Motion Capture Stage Manager
+[4]Anthony Tominia  
+
+[3]Motion Capture Stage Technicians 
+[4]Jen Antonio
+[4]Emma Castles
+[4]Jeremy Schichtel
+[4]Alexandra Grant
+[4]Christopher Barton
+
+[3]Motion Capture Production Manager
+[4]Charles Ghislandi
+
+[3]Motion Capture Specialists 
+[4]Ryan Girard
+[4]Michelle Hill
+[4]Jose Gutierrez  
+[4]Gil Espanto  
+[4]Jeremy Wages
+
+[3]Motion Capture Pipeline Engineer
+[4]Charles “Auggie” Harris III
+
+[3]Motion Capture Media Supervisor
+[4]J. Mateo Baker 
+
+[3]Motion Capture Audio Assistant
+[4]Andrew Hanson
+
+[i]TechTree_Meter_Done
+
+[2]2K CORE TECH
+
+[3]VP, Technology
+[4]Mark James
+
+[3]Director of Engineering
+[4]David R. Sullivan
+
+[3]Operations Manager, Core Tech
+[4]Peter Driscoll
+
+[3]Sr. Online Architect
+[4]Louis Ewens
+
+[3]Lead Technical Artist
+[4]Jonathan Tilden
+
+[3]Principal Technical Artist
+[4]Kris DeMartini
+
+[3]Senior Software Engineer
+[4]Mitchell Fisher
+
+[3]Software Engineer
+[4]Jack Lui
+[4]Jason Howard
+
+[i]TechTree_Meter_Done
+
+[2]my2K TEAM 
+
+[3]Lead Software Engineer
+[4]Adam Lupinacci
+
+[3]Producer
+[4]Jason Johnson
+
+[3]Jr. Technical Producer
+[4]Nick Silva
+
+[3]Sr. Software Engineers 
+[4]Alberto Covarrubias
+[4]Dale Russell
+[4]Robin Lavallee
+[4]Sky Schulz
+[4]Scott Barrett
+
+[3]Sr. Dev Ops Engineer
+[4]Matthew Rich
+
+[3]Jr. Engineers
+[4]Sourav Dey
+[4]Taylor Owen-Millner
+
+[3]QA Manager
+[4]Ian Moore
+
+[3]Sr. QA Tester
+[4]Greg Vargas
+
+[3]QA Testers 
+[4]Mackenzie Hume
+[4]Parisa Mirshah
+
+[i]TechTree_Meter_Done
+
+[2]2K MARKETING 
+
+[3]SVP, Marketing
+[4]Sarah Anderson
+
+[3]VP, Marketing
+[4]Matt Gorman
+
+[3]VP, International Marketing
+[4]Matthias Wehner
+
+[3]Director of Marketing, North America 
+[4]Kelly Miller
+
+[3]Director, Marketing 
+[4]Matt Knoles
+
+[3]Product Manager 
+[4]Jenny Tam
+
+[3]VP of Communications, The Americas
+[4]Ryan Jones
+
+[3]Sr. Communications Manager 
+[4]Richie Churchill
+
+[3]Communications Coordinator
+[4]Erica Hebert
+
+[3]Sr. Manager, Community Content 
+[4]Darren Gladstone
+
+[3]Community and Social Media Managers 
+[4]David Hinkle
+
+[3]Community Associate
+[4]Joseph Bustos
+
+[3]International Project Manager 
+[4]Ben Kvalo
+
+[3]Creative Director, Marketing
+[4]Gabe Abarcar
+
+[3]Sr. Director, Marketing Production
+[4]Jackie Truong
+
+[3]Marketing Production Manager
+[4]Ham Nguyen
+
+[3]Marketing Production Assistant
+[4]Nelson Chao
+
+[3]Sr. Graphic Designer
+[4]Christopher Maas
+
+[3]Project Manager
+[4]Heidi Oas
+
+[3]Director, Video Production
+[4]Kenny Crosbie
+
+[3]Video Editor &amp; Motion Graphics Designers
+[4]Michael Regelean
+[4]Eric Neff
+
+[3]Video Editor
+[4]Peter Koeppen
+
+[3]Associate Video Editors
+[4]Doug Tyler 
+[4]Nick Pylvanainen
+
+[3]Web Director
+[4]Nate Schaumberg
+
+[3]Sr. Web Designer
+[4]Keith Echevarria
+
+[3]Sr. Web Developer
+[4]Alex Beuscher
+
+[3]Web Developer
+[4]Gryphon Meyers
+
+[3]Web Producer
+[4]Tiffany Nelson
+
+[3]Channel Marketing Managers
+[4]Anna Nguyen
+[4]Marc McCurdy
+
+[3]Partner Marketing Specialist
+[4]Kelsie Lahti
+
+[3]Sr. Director of Events
+[4]Lesley Zinn Abarcar
+
+[3]Events Manager
+[4]David Iskra
+
+[3]Event Tech Manager 
+[4]Mario Higareda
+
+[3]Director, Customer Service
+[4]Ima Somers
+
+[3]Customer Service Manager
+[4]David Eggers
+
+[3]Knowledge Base Coordinator
+[4]Mike Thompson
+
+[3]Customer Service Coordinator
+[4]Jamie Neves
+
+[3]Customer Service Lead
+[4]Crystal Pittman
+
+[3]Senior Customer Service Associates
+[4]Alicia Nielsen
+[4]Ryosuke Kurosawa
+
+[3]Director, Partnerships &amp; Licensing
+[4]Jessica Hopp
+
+[3]Partnerships &amp; Licensing Manager
+[4]Ryan Ayalde
+[4]Greg Brownstein
+
+[3]Partnership &amp; Licensing Associate Manager
+[4]Ashley Landry
+
+[3]Marketing Project Specialist
+[4]Kenya Sancristobal
+
+[i]TechTree_Meter_Done
+
+[2]2K OPERATIONS
+
+[3]SVP, Senior Counsel
+[4]Peter Welch
+
+[3]Counsels
+[4]Justyn Sanderford
+[4]Aaron Epstein
+
+[3]VP, Publishing Operations
+[4]Steve Lux
+
+[3]Director of Label Operations
+[4]Rachel DiPaola 
+
+[3]Director of Operations
+[4]Dorian Rehfield
+
+[3]Director of Analytics
+[4]Mehmet Turan
+
+[3]Sr. Data Analyst
+[4]Adam Dobrin
+
+[3]Sr. Analysts
+[4]Tuomo Nikulainen
+[4]Kyle Bishop
+
+[3]Partner Marketing Manager
+[4]Dawn Earp
+
+[3]Licensing &amp; Operations Specialist
+[4]Xenia Mul
+
+[3]Operations Coordinator
+[4]Aaron Hiscox
+
+[i]TechTree_Meter_Done
+
+[2]2K IT
+
+[3]Sr. Director, 2K IT
+[4]Rob Roudebush
+
+[3]Sr. IT Manager
+[4]Bob Jones
+
+[3]Sr. Network Manager 
+[4]Russell Mains
+
+[3]Sr. Systems Engineer
+[4]Jon Heysek
+
+[3]Security Systems Engineer
+[4]Lee Ryan
+
+[3]Network Engineer
+[4]Don Claybrook
+
+[3]Systems Administrator
+[4]Fernando Ramirez
+[4]Tareq Abbassi
+[4]Scott Alexander
+[4]Davis Krieghoff
+
+[3]IT Analyst
+[4]Michael Caccia
+
+[i]TechTree_Meter_Done
+
+[2]2K ONLINE OPERATIONS  
+
+[3]Director, Online Operations
+[4]Tim Holman
+
+[3]Mobile Marketing Manager
+[4]David Hoffman
+
+[3]Associate Mobile Marketing Manager
+[4]Ramon Aranda
+
+[i]TechTree_Meter_Done
+
+[2]2K QUALITY ASSURANCE 
+
+[3]SVP of Quality Assurance &amp; Submissions
+[4]Alex Plachowski
+
+[3]Test Manager
+[4]Doug Rothman
+
+[3]Submission Manager
+[4]Scott Sanford
+
+[3]Project Lead
+[4]Jason Kolesa
+
+[3]Support Leads
+[4]Chris Adams
+[4]Nathan Bell
+
+[3]Senior Testers
+[4]Joshua Vance
+[4]Kayla Mager
+[4]Raynard Moreno
+[4]Brian Reiss
+[4]Jake Merryman
+[4]Keith Rische
+[4]Summer Breeze
+[4]Todd White
+
+[3]Testers 
+[4]Anthony Garland
+[4]Alex Buckner
+[4]Brandon Peterson
+[4]Bryan Fritz
+[4]Bryant Leos
+[4]Bryce Fernandez
+[4]Demetri Ghaeni
+[4]Douglas Huth
+[4]Douglas Reilly
+[4]Ian Bennett
+[4]James Schindler
+[4]Jason Smith
+[4]Jorge Segarra
+[4]Kelsey Sissons
+[4]Kiwawn Pearson
+[4]Kristian Garcia
+[4]Kyle Lucero
+[4]Mason Gagliardo
+[4]Matthew Finck
+[4]Michael Galo
+[4]Miguel Garcia
+[4]Monique Davis
+[4]Natasha Francois
+[4]Nicholas Giebel
+[4]Preston Chapin-Soriano
+[4]Richard Pugh
+[4]Robb Bryant
+[4]Sacha Moctezuma
+[4]Sampson Brier
+[4]Seth Kent
+[4]Shaylea Gallagher
+[4]Steven Danner
+[4]Tiffany Chung
+[4]Vanessa Derhousoff
+[4]Victoria Cormier
+[4]Wenceslao Concina
+[4]Zachary Little
+
+[3]IT Manager 
+[4]Chris Jones
+
+[3]2K Las Vegas IT
+[4]Kris Jolly
+[4]Juan Corral
+[4]Cameron Steed
+[4]Travis Allen
+ 
+[3]Special Thanks
+[4]Alexandria Belk
+[4]Ashley Fountaine
+[4]Candice Javellonar
+[4]David Barksdale
+[4]Ian Moore
+[4]Jazmine Sarmiento
+[4]Jeremy Ford
+[4]Jeremy Richards
+[4]Joe Bettis
+[4]Leslie Cullum
+[4]Louis Napolitano
+[4]Rachel McGrew
+
+[i]TechTree_Meter_Done
+
+[2]2K INTERNATIONAL PUBLISHING
+
+[3]VP Publishing, Operations
+[4]Murray Pannell
+
+[3]Director, International Marketing and Communications
+[4]Jon Rooke
+
+[3]Head of International Product Marketing
+[4]David Halse
+
+[3]Senior International Communications Manager
+[4]Wouter van Vugt
+
+[3]International Territory Manager
+[4]Warner Guinée
+
+[3]2K International Community &amp; Social Manager 
+[4]Melaine Brou
+
+[i]TechTree_Meter_Done
+
+[2]2K INTERNATIONAL PRODUCT DEVELOPMENT
+
+[3]International Producers 
+[4]Sajjad Majid
+
+[3]Head of Creative Services and Localisation
+[4]Nathalie Mathews
+
+[3]Lead Project Manager
+[4]Emma Lepeut
+
+[3]Sr. Design Manager 
+[4]Tom Baker
+
+[3]External Localization Teams 
+[4]Around the Word
+[4]Effective Media GmbH
+[4]Synthesis Iberia
+[4]Synthesis International srl
+[4]QLOC S.A.
+
+[4]Localization tools and support provided by XLOC Inc.
+
+[3]Localization Special Thanks
+[4]Adam Rycki, Adriano Dezulian, Aleksandr Lavrenov, Aleksandr Skakovsky,
+[4]Aleksandr Sukhanov, Altieres Rohr, Andrea Della Calce Maucieri, Andrea Peruzzotti,
+[4]Ania Wojciechowska, Anna Matsutskaya, Chiara Caccivio, Claudia Rampiconi,
+[4]Damaris Reinke, Dashima Zhigzhitova, Elías Pastoriza, Estrella Del Campo,
+[4]Floriana Grasso, Francesca Tretto, Gabriel Perez-Ayala, Gema Solís, Jose C. Cabezas,
+[4]Katja Kämper, Kira Nepochatova, Laura Bellintani, Maciej Polak, Marie Lorbach,
+[4]Marina Rossieva, Mariya Yunger, Massimiliano Chierici, Mike Kolbasnikov,
+[4]Monique Paula Pereira, Natalia Kalinina, Nazar Orlov, Oleg Perfilyev, Pablo Trenado,
+[4]Paula Ianelli G. Luiz, Paulina Golanowska, Paweł Oleszczuk, Piotr Goździk, Roman Firsov,
+[4]Salvador Tintore, Stefano Gaburri, Thales Ferreira, Vladislav Lebedinskiy, Yuliana Brezhneva
+
+[i]TechTree_Meter_Done
+
+[2]2K INTERNATIONAL QUALITY ASSURANCE
+
+[3]Localization QA Manager
+[4]Jose Minana
+
+[3]Mastering Engineer
+[4]Wayne Boyce
+
+[3]Mastering Technician
+[4]Alan Vincent
+
+[3]Localization QA Senior Lead
+[4]Oscar Pereira
+
+[3]Localization QA Project Lead
+[4]Jose Olivares
+
+[3]Localization QA Leads
+[4]Alba Loureiro
+[4]Elmar Schubert
+[4]Florian Genthon
+
+[3]Associate Localization Lead
+[4]Cristina La Mura
+
+[3]Senior Localization QA Technicians 
+[4]Christopher Funke
+[4]Enrico Sette
+[4]Harald Raschen
+[4]Johanna Cohen
+[4]Sergio Accettura
+
+[3]Localization QA Technicians 
+[4]Clement Mosca
+[4]Daniel Im
+[4]David Sung
+[4]Dimitri Gerard
+[4]Ernesto Rodriguez-Cruz
+[4]Etienne Dumont
+[4]Gabriel Uriarte
+[4]Gian Marco Romano
+[4]Gulnara Bixby
+[4]Iris Loison
+[4]Javier Vidal
+[4]Julio Calle Arpon
+[4]Luca Magni
+[4]Manuel Aguayo
+[4]Martin Schücker
+[4]Matteo Lanteri
+[4]Namer Merli
+[4]Nicolas Bonin
+[4]Noriko Staton
+[4]Pablo Menéndez
+[4]Patricia Ramón
+[4]Roland Habersack 
+[4]Samuel França
+[4]Seon Hee C. Anderson
+[4]Shawn Williams-Brown
+[4]Sherif Mahdy Farrag
+[4]Stefan Rossi
+[4]Stefanie Schwamberger
+[4]Timothy Cooper
+[4]Toni López
+[4]Yury Fesechka
+[4]Benny Johnson 
+[4]Tristan Breeden
+
+[3]Design Team
+[4]James Quinlan
+
+[i]TechTree_Meter_Done
+
+[2]2K INTERNATIONAL TERRITORY MARKETING AND COMMUNICATIONS 
+[4]Agnès Rosique 
+[4]Alan Moore 
+[4]Aaron Cooper
+[4]Belinda Crowe
+[4]Ben Seccombe 
+[4]Carlo Volz 
+[4]Carlos Villasante
+[4]Caroline Rajcom 
+[4]Charley Grafton-Chuck
+[4]Dan Cooke
+[4]Dennis de Bruin
+[4]Devon Stanton
+[4]Diana Freitag 
+[4]François Bouvard
+[4]Gemma Woolnough
+[4]Jan Sturm
+[4]Jean Paul Hardy
+[4]John Ballantyne
+[4]Julien Brossat
+[4]Lieke Mandemakers
+[4]Maria Martinez
+[4]Roger Langford
+[4]Sandra Melero
+[4]Sean Phillips
+[4]Simon Turner
+[4]Stefan Eder
+[4]Zaida Gómez
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO INTERNATIONAL OPERATIONS
+[4]Anthony Dodd
+[4]Nisha Verma
+[4]Phil Anderton
+[4]Denisa Polcerova
+[4]Robert Willis
+
+[i]TechTree_Meter_Done
+
+[2]2K ASIA TEAM
+
+[3]Asia General Manager 
+[4]Jason Wong
+
+[3]Asia Marketing Director
+[4]Diana Tan
+
+[3]Sr. Marketing Manager
+[4]Jason Dou
+
+[3]Asia Marketing Manager
+[4]Daniel Tan
+
+[3]Japan Marketing Manager 
+[4]Maho Sawashima
+[3]Korea Marketing Manager 
+[4]Dina Chung
+
+[3]Sr. Product Executive
+[4]Rohan Ishwarlal
+
+[3]Product Executive
+[4]Sharon Lim
+
+[3]Sr. Localization Manager 
+[4]Yosuke Yano
+
+[3]Localization Coordinator
+[4]Pierre Guijarro
+
+[3]Localization Assistant
+[4]Yusaku Minamisawa
+
+[3]External Localization Teams
+[4]entalize co., ltd.
+[4]GlobalWay Co., Ltd.
+[4]Jiali Flourishing Age Cultural Communication Co., Ltd.
+[4]VGLOC Localization Studios Co., Ltd.
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ASIA OPERATIONS
+[4]Eileen Chong 
+[4]Veronica Khuan 
+[4]Chermine Tan 
+[4]Takako Davis
+[4]Ryoko Hayashi
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ASIA BUSINESS DEVELOPMENT
+[4]Erik Ford
+[4]Syn Chua
+[4]Ellen Hsu
+[4]Kelvin Ahn 
+[4]Paul Adachi
+[4]Fumiko Okura
+[4]Hidekatsu Tani
+[4]Fred Johnson
+[4]Ken Tilakaratna
+[4]Anna Choi
+[4]Cynthia Lee
+[4]Hyun Jookyoung
+
+[i]TechTree_Meter_Done
+
+[2]2K CHINA QUALITY ASSURANCE	
+
+[3]QA Director
+[4]Zhang Xi Kun
+
+[3]Localization QA Manager
+[4]Du Jing
+
+[3]Civilization VI Localization QA lead
+[4]Shigekazu Tsuuchi
+
+[3]Localization QA leads
+[4]Chu Jin Dan
+[4]Zhu Jian 
+
+[3]Senior QA Testers
+[4]Cho Hyunmin
+[4]Kan Liang
+[4]Qin Qi
+
+[3]QA Testers
+[4]Bai Xue
+[4]Hu Meng Meng
+[4]Jin Xiong Jie
+[4]Tan Liu Yang
+[4]Tang Shu
+[4]Wang Ce
+[4]Zhao Yu
+[4]Zhou Qian Yu
+[4]Zou Zhuo Ke
+[4]Liu Kun Peng
+
+[3]Junior QA Testers
+[4]Chen Xue Mei
+[4]Li Ling Li
+[4]Mao Ling Jie
+[4]Tang Dan Ru
+[4]Xiao Yi
+[4]Zhao Jin Yi
+[4]Ou Xu
+[4]Wang Rui
+[4]Pan Zhi Xiong
+
+[3]IT Engineers
+[4]Hu Xiang
+[4]Zhao Hong Wei
+[4]Jiang Fei Kai 
+
+[i]TechTree_Meter_Done
+
+[2]FOX SOUND STUDIOS 
+[4]Rick Fox 
+[4]Victoria Fox
+
+[i]TechTree_Meter_Done
+
+[2]SPECIAL THANKS
+
+[4]Strauss Zelnick
+[4]Karl Slatoff
+[4]Lainie Goldstein
+[4]Dan Emerson
+[4]Jordan Katz 
+[4]David Cox
+[4]Steve Glickstein
+[4]Take-Two Sales Team
+[4]Take-Two Digital Sales Team
+[4]Take-Two Channel Marketing Team
+[4]Siobhan Boes
+[4]Hank Diamond
+[4]Alan Lewis
+[4]Daniel Einzig
+[4]Christopher Fiumano
+[4]Pedram Rahbari
+[4]Jenn Kolbe 
+[4]Greg Gibson
+[4]Take-Two Legal Team
+[4]David Boutry
+[4]Juan Chavez
+[4]Rajesh Joseph
+[4]Gaurav Singh
+[4]Alexander Raney
+[4]Barry Charleton
+[4]Jon Titus
+[4]Gail Hamrick
+[4]Tony MacNeill
+[4]Chris Bigelow
+[4]Brooke Grabrian
+[4]Katie Nelson
+[4]Chris Burton
+[4]Christina Vu
+[4]Betsy Ross
+[4]Pete Anderson
+[4]Oliver Hall
+[4]Maria Zamaniego
+[4]Nicholas Bublitz
+[4]Nicole Hillenbrand
+[4]Danielle Williams
+[4]Sean Roberts
+[4]Gwendoline Oliviero 
+[4]Ariel Owens-Barham
+[4]Kyra Simon
+[4]Ashish Popli
+
+[3]Agencies (In alphabetical order): 
+[4]Access Communications
+[4]Freddie Georges Production Group
+[4]Kathy Lee-Fung
+[4]MODCo Media
+
+[i]TechTree_Meter_Done
+
+[2]EXTERNAL VENDORS AND CONTRACTORS
+
+[3]Music Composition 
+[4]Geoff Knorr
+
+[3]Additional Music Composition 
+[4]Christopher Tin
+[4]Timothy Michael Wynn
+[4]Phill Boucher
+
+[3]Original Score Recording 
+[4]FILMharmonic Orchestra of Prague 
+[4]Conductor and Music Director
+[4]Andy Brick
+
+[3]Cinematic Sound Design
+[4]Source Sound, Inc.
+[4]Supervising Sound Designer &amp; Mix
+[4]Charles Deenen
+
+[3]Sound Designers
+[4]Matt Cavanaugh
+[4]Brent Burge
+[4]Braden Parkes
+
+[2]Voiceover Cast  
+[3]Narrator
+[4]Sean Bean
+
+[3]Advisor 
+[4]Natasha Loring
+
+[3]Hojo Tokimune
+[4]Yoshi Ando
+
+[3]Pedro II
+[4]Renato Belschansky
+
+[3]Tomyris
+[4]Alina Irbekov Berezova
+
+[3]Trajan
+[4]Gianmarco Ceconi
+
+[3]Frederick Barbarossa
+[4]Bert Coll
+
+[3]Peter the Great
+[4]Mikhail Danilyuk
+
+[3]Gorgo
+[4]Angeliki Dimitrakopoulou
+
+[3]Gilgamesh
+[4]Jorge Badillo Galvan
+
+[3]Saladin
+[4]Alhan Gharam
+
+[3]Cleopatra
+[4]Nirvana Hisham
+
+[3]Qin Shi Huang
+[4]Junchao Huang
+
+[3]Mvemba a Nzinga
+[4]Mamengi Alfredo Lombisi
+
+[3]Queen Victoria
+[4]Lucy Briggs Owen
+
+[3]Catherine de Medici
+[4]Lara Valentina Parmiani
+
+[3]Montezuma
+[4]Irwin Daayan Rosenthal Sarli
+
+[3]Gandhi
+[4]Pawan Shukla
+
+[3]Hardrada
+[4]Atli Rafn Sigurdsson
+
+[3]Pericles
+[4]Konstantinos Stelloudis
+
+[3]Theodore Roosevelt
+[4]Richard Tatum
+
+[3]Philip II
+[4]Anton Carmano Vega
+
+[3]Jadwiga
+[4]Julia Jakubowska
+
+[2]French Cast
+
+[3]Narrator
+[4]Philippe Catoire
+
+[3]Advisor
+[4]Caroline Victoria
+
+[2]German Cast
+
+[3]Narrator
+[4]Achim Barrenstein
+
+[3]Advisor
+[4]Karoline Mask von Oppen
+
+[2]Italian Cast
+
+[3]Narrator
+[4]Giorgio Bonino
+
+[3]Advisor
+[4]Katia Sorrentino
+
+[2]Spanish Cast
+
+[3]Narrator
+[4]Alfonso Laguna
+
+[3]Advisor
+[4]Beatriz Berciano
+
+[2]Polish Cast
+
+[3]Narrator
+[4]Przemysław Walich
+
+[3]Advisor
+[4]Joanna Matuszak
+
+[2]Russian Cast
+
+[3]Narrator
+[4]Andrey Lysenko 
+[4]Андрей Лысенко
+
+[3]Advisor
+[4]Alina Milosh 
+[4]Алина Милош
+
+[2]Japanese Cast
+
+[3]Narrator
+[4]Kenichi Suzumura
+
+[3]Advisor
+[4]Nao Toyama
+
+[2]Korean Cast
+
+[3]Narrator
+[4]Shin Han
+
+[3]Advisor
+[4]Yoon Seon Lim
+
+[2]Simplified Chinese Cast
+
+[3]Narrator
+[4]Zhang Lei
+
+[3]Advisor
+[4]Yang Yi Fang
+
+[2]Traditional Chinese Cast
+
+[3]Narrator
+[4]Fang Rong Feng
+
+[3]Advisor
+[4]Qi Qi
+
+[2]Voiceover Recording Studios
+
+[3]Lime Studios
+[4]Dialog Recordist
+[4]Tom Paolantonio
+ 
+[3]Producer
+[4]Susie Boyajan 
+
+[3]Orchard Recording Studios, Somerset UK
+
+[3]Engineers
+[4]Mark Bowyer
+[4]James Wilkes
+[4]Charlotte Worthy-Jarvis
+
+[3]Side UK 
+
+[3]Production Manager
+[4]Emily Munster
+
+[3]Sound Engineer
+[4]Ant Hales
+
+[2]Additional Voiceover Casting and Recording 
+
+[3]Signal Space
+
+[3]Creative Director 
+[4]Jose Aguirre
+
+[3]Researcher
+[4]Inga Knoth
+
+[3]Audio Editors
+[4]Valentino Lercher
+[4]Matthew Knutson
+
+[3]Project Manager 
+[4]Christopher Fox
+
+[3]Voiceover Directors
+[4]JB Blanc
+[4]Chad Rocco
+
+[3]Dialogue Editors
+[4]Transatlantic Audio/Dante Fazio
+[4]Austin Krier
+[4]Garrett Montgomery, M.P.S.E.
+[4]Stephen Selvaggio
+
+[3]Additional Writing 
+[4]Maurice Suckling
+
+[3]Cinematic Production Services 
+
+[3]Plastic Wax Pty Ltd
+
+[3]Creative Leads
+[4]Nathan Maddams
+[4]Dane Maddams
+[4]Tyrone Maddams
+
+[3]Production Management
+[4]Mick Hammell	
+[4]Carly Glover	
+[4]Toby Alderton	
+[4]Terry Mickaiel	
+
+[3]Lead Modeler
+[4]Dean Wood
+
+[3]Modelling
+[4]Ben Mikhaiel	
+[4]Josh Shahinian	
+[4]Alexia Zantides	
+[4]Vee Ng	
+
+[3]Modellers
+[4]Dan Horsfall	
+[4]Josh Davies
+[4]Josh Knorr
+[4]Tristan Locke
+[4]Werner Gradwell
+[4]Brett Sinclair	
+
+[3]Lead Animator 
+[4]Wes Adams	
+
+[3]Animators and Rigging	
+[4]Mitch Coote
+[4]Damian Paon
+[4]Cam Ralph
+[4]Tom Janson
+[4]Gareth Rhodes
+[4]Zarvan Kotwal
+[4]Phil Hook 
+[4]Sina Azad
+	
+[3]Lead Lighter 
+[4]Ben Malter
+
+[3]Lighting and Rendering
+[4]Nigel Waddington	
+[4]Owen Gillman	
+[4]Ben Shearman
+
+[3]Lead VFX TD 
+[4]Sidney Cheng	
+
+[3]VFX 
+[4]Steven Cheah
+[4]Dave Frodsham
+[4]Fernando Flores Gonzales
+
+[3]Lead Compositor 
+[4]Daniel Loui	
+
+[3]Compositors
+[4]Jad Haber
+[4]Ryan Trippensee
+[4]Yoav Dolev
+
+[2]Additional Cinematic Production Services
+
+[3]Section Studios
+
+[3]Production
+[4]Justin Yun 
+[4]Kami Talebi 
+
+[3]Concept
+[4]Gabriel Yeganyan
+[4]Cuba Lee
+[4]Brian Kim
+[4]Howard Pak
+[4]Hyunjae Lee
+[4]Lucas Helmintoller
+[4]Mohammad Chowdhury
+
+[3]Animation
+[4]Cameron Mott
+[4]Judson Morgan
+
+[3]Applied Cinematics
+[4]Mike O’Rourke
+[4]Jason Flynn
+
+[2]3D Art Assets
+[3]Gameshastra Solutions Private Limited
+			</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Base Menu-->
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
+			<Text>Chiếu Lại Đoạn Phim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_MAIN_MENU">
+			<Text>Menu Chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
+			<Text>Chỉ MỘT Lượt Nữa Thôi...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
+			<Text>Người Chơi Kế Tiếp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_VICTORY_INFO">
+			<Text>KẾT QUẢ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING">
+			<Text>XẾP HẠNG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_REPLAY">
+			<Text>BIỂU ĐỒ</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_UI_ENDGAME_CHAT">
+      <Text>TRÒ CHUYỆN</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+			<Text>{1_number}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_POP_SCORE">
+			<Text>Điểm Số</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_LEADER_NAME">
+			<Text>Tên Lãnh Đạo</Text>
+		</Replace>
+
+		<!-- Rankings -->
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
+			<Text>Bạn đã đạt đến cấp của {1_LeaderName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Augustus Caesar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Tôi xây dựng nên La Mã từ gạch vụn và để lại một thành phố cẩm thạch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Hammurabi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Khi Marduk đưa tôi trị vì con người, để bảo vệ quyền lợi của mảnh đất, Tôi đã làm đúng và ngay thẳng, và mang lại hạnh phúc cho những người bị áp bức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Abraham Lincoln</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Luôn luôn ghi nhớ trong đầu rằng giải pháp của bạn để thành công quan trọng hơn bất kỳ thứ gì.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Charlemagne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Hãy để đội quân của ta là đá và cây, và muôn chim trên bầu trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Winston Churchill</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Một người bi quan thấy khó khăn trong mọi cơ hội; một người lạc quan thấy cơ hội trong mỗi khó khăn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Nelson Mandela</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
+			<Text>Luôn luôn là không thể cho đến khi nó hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
+			<Text>Marcus Aurelius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
+			<Text>Đừng chỉ trích các phái khác; tín đồ đích thực đem lại sự kính trọng bất kể trong họ có xứng đáng với danh dự hay không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
+			<Text>Joan of Arc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
+			<Text>Các đối tượng của cuộc sống không nằm bên lề của đa số, nhưng để thoát khỏi việc tìm kiếm vị trí của mình trong loài người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
+			<Text>Charles de Gaulle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
+			<Text>Đối mặt với cuộc khung hoảng. Người đàn ông có cá tính sẽ bỏ đi cái tôi của mình. Anh ta đặt dấu ấn trong từng hành động của mình, tự chịu trách nhiệm với những gì mình làm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
+			<Text>Simon Bolivar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
+			<Text>Mọi người, hãy lắng nghe! Tất cả mọi người đều giống nhau! Tôi đã làm những việc đúng theo lương tâm của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
+			<Text>Lech Walesa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
+			<Text>Kẻ dám đưa bàn tay chặn cánh xe của lịch sử, ngón tay của kẻ đó sẽ bị nghiền nát.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>Ivan the Terrible</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>Thật tội nghiệp và đáng thương khi còn lại một mình, là người cai trị hai vương quốc, mẹ của hai nhà vua, tôi ghê tởm tuổi già này? Ruột gan như bị giằng xé, gia đình tôi được cáng đi và rời xa khỏi tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
+			<Text>Henry VIII</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
+			<Text>Cạo râu là hành động tội lỗi phải trả rằng máu và không thể rửa sạch tội cho dù người đó tử vì đạo. Điều này làm ô uế hình ảnh của Thượng Đế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
+			<Text>Herbert Hoover</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
+			<Text>Những người trẻ sẽ được chúc phúc vì họ sẽ kế thừa các khoản nợ quốc gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
+			<Text>Louis XVI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
+			<Text>Những thính giả không bao giờ nghe điều gì tốt về bản thân họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
+			<Text>Neville Chamberlain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
+			<Text>Trong chiến tranh, bất cứ phe nào gọi họ là kẻ chiến thắng, không có người thắng, nhưng tất cả đều là kẻ thua cuộc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
+			<Text>Andrew Jackson</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
+			<Text>Không có niềm vui trong việc không có gì làm; niềm vui là có nhiều thứ để làm và không làm chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
+			<Text>Nero</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
+			<Text>Một nghệ sĩ thật vĩ đại, Tôi đã chết!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
+			<Text>Warren G. Harding</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
+			<Text>Trong tên của Chúa Ba Ngôi, ba điều tôi hứa với những người Kitô giáo: thứ nhất tôi sẽ bảo vệ Nhà Thờ và tất cả những người Kitô giáo trong địa hạt của tôi có được nền hòa bình đích thực; thứ hai tôi sẽ ngăn chặn cướp cóc và bất công cho tất cả mọi người; thứ ba, tôi hứa và chỉ thị đem đến công bằng và lòng nhân từ cho tất cả các bản án.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
+			<Text>Ethelred the Unready</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
+			<Text>Ừ, chỉ 5 phút, được không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
+			<Text>Dan Quayle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
+			<Text>Nếu chúng ta không thành công, chúng ta đặt may rủi vào thất bại.</Text>
+		</Replace>
+
+		<!-- Replay -->
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
+			<Text>Không Có Biểu Đồ</Text>
+		</Replace>
+
+		<!-- Graph Data Sets -->
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_CULTURE_NAME">
+			<Text>Văn Minh mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_CULTURE_DESC">
+			<Text>Những Văn Minh đạt được mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
+			<Text>Số Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
+			<Text>Tống số Vàng của người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+			<Text>Tổng thành phố đã tạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
+			<Text>Tổng đặc khu đã xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
+			<Text>Tổng kỳ quan đã xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
+			<Text>Tổng kiến trúc đã xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
+			<Text>Tổng các thành phố đã chiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
+			<Text>Tổng các thành phố bị mất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
+			<Text>Tổng các thành phố bị phá hủy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
+			<Text>Tổng số tuyên số chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
+			<Text>Tổng số chiến tranh thắng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
+			<Text>Tổng số trận chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
+			<Text>Tổng số đơn vị đã giết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
+			<Text>Tổng số đơn vị mất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
+			<Text>Tổng số tôn giáo đã sáng lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
+			<Text>Tổng số vĩ nhân kiếm được</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
+			<Text>Tổng số cuộc chiến chống người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
+			<Text>Tổng số vị thần được tìm thấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
+			<Text>Điểm mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
+			<Text>Khoa Học mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
+			<Text>Đức Tin mỗi lượt</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

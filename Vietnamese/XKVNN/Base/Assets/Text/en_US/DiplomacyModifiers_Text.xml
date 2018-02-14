@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- TEMPORARY KLUDGE: DO NOT USE ".", "'", or "-" punctuation in this file until DiplomacyActionView.lua has been updated to have a more robust string parsing algorithm! -->
+		<!-- Standard modifiers -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLY">
+			<Text>Đồng minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DEMAND">
+			<Text>Chúng ta đã thực hiện một yêu cầu của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_JOINT_WAR">
+			<Text>Chúng ta chiến đấu chung với nhau trong một cuộc chiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
+			<Text>Chúng ta đã Cải Giáo thành phố của họ</Text>
+		</Replace>	
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CULTURE_BOMBED">
+			<Text>Chúng ta đã dội bom văn hóa vào một trong những thành phố của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED">
+			<Text>Chúng ta chiếm một trong những thành phố của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED_FRIEND">
+			<Text>Chúng ta chiếm một trong những thành phố hữu nghị hoặc đồng minh với họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_LIBERATED_CITY">
+			<Text>Chúng ta giải phóng một thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_LIBERATED_MY_CITY">
+			<Text>Chúng ta giải phóng một trong những thành phố của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_RAZED_MY_CITY">
+			<Text>Chúng ta san bằng một trong những thành phố của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>Tuyên bố chiến tranh bất ngờ với một người bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DENOUNCED_FRIEND">
+			<Text>Lăng mạ một người bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_FRIEND">
+			<Text>Tuyên bố tình hữu nghị với một người bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_FRIEND">
+			<Text>Tuyên bố liên minh với một người bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_ENEMY">
+			<Text>Tuyên bố chiến tranh bất ngờ với kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DENOUNCED_ENEMY">
+			<Text>Lăng mạ kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>Tuyên bố tình hữu nghị với kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DECLARED_ALLIED_WITH_ENEMY">
+			<Text>Tuyên bố đồng minh với kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIEND">
+			<Text>Tuyên bố bạn bè</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT">
+			<Text>Hiệp ước phòng thủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DELEGATION">
+			<Text>Gửi tới họ một phái đoàn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DENOUNCED">
+			<Text>Chúng ta lăng mạ họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_HAD_FRIENDLY_MEETING">
+			<Text>Gặp mặt tình hữu nghị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NEAR_BORDER_WARNING">
+			<Text>Chúng ta có quân đội trên biên giới của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SETTLED_NEAR_BORDER_WARNING">
+			<Text>Dân di cư của chúng ta gần biên giới của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SHARED_RELIGION">
+			<Text>Họ đang theo tôn giáo của chúng ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_STOP_SPYING_ON_ME_WARNING">
+			<Text>Chúng ta bị bắt khi đang gián điệp họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_STOP_DIGGING_UP_ARTIFACTS_WARNING">
+			<Text>Chúng ta đã bị bắt khi đào cổ vật trong lãnh thổ của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BROKEN_PROMISE">
+			<Text>Chúng ta phá vỡ một lời hứa ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CLOSE_TO_VICTORY">
+			<Text>Chúng ta đang chiến thắng. Họ sợ chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_KEPT_PROMISE">
+			<Text>Chúng ta thực hiện lời hứa ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NO_PROMISE">
+			<Text>Chúng ta từ chối thực hiện lời hứa ngoại giao với họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
+			<Text>Tự do đi lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
+			<Text>Chúng ta thành lập đại sứ quán thường trú</Text>
+		</Replace>
+		<!-- Historical agenda modifiers -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
+			<Text>Gilgamesh thích tuyên bố bạn bè</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>Gilgamesh ghét khi bạn lăng mạ bạn của ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
+			<Text>Tomyris thích tuyên bố bạn bè</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>Tomyris ghét những ai tuyên bố chiến tranh bất ngờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LAGGING">
+			<Text>Pedro hài lòng khi biết bạn đang thiếu thốn Vĩ Nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LEADING">
+			<Text>Pedro buồn vì bạn có có nhiều Vĩ Nhân hơn ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LAGGING">
+			<Text>Peter thất vọng vì bạn có nền khoa học và văn hóa lạc hậu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LEADING">
+			<Text>Peter hài lòng với nền khoa học và văn hóa của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT">
+			<Text>Gorgo muốn thấy bạn chiến đấu hoặc cống nạp để đổi lấy hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED">
+			<Text>Gorgo muốn thấy bạn chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE">
+			<Text>Gorgo biết rằng bạn sẽ cống nạp để đổi lấy hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING">
+			<Text>Qin có vẻ hài lòng vì bạn thiếu các kì quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
+			<Text>Qin buồn vì bạn có nhiều kì quan hơn ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_NOT_WARMONGER">
+			<Text>Gandhi hài lòng vì bạn đã giữ hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_WARMONGER">
+			<Text>Gandhi không vui vì hành động gây chiến của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_SAME">
+			<Text>Philip vui mừng khi bạn chia sẻ tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_ENCROACHING">
+			<Text>Philip rất tức giận khi thấy tín ngưỡng của ta trong đế chế của ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DELIAN_NOT_COMPETING">
+			<Text>Pericles hài lòng vì bạn không tranh giành thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DELIAN_COMPETING">
+			<Text>Pericles tức giận vì bạn đang dụ dỗ các thành phố tự trị của ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DISCIPLE_RECEIVED">
+			<Text>Mvemba vui mừng vì bạn đã truyền bá tín ngưỡng của bạn cho ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
+			<Text>Mvemba thất vọng vì tín ngưỡng của bạn không được truyền bá trên khu vực của ông ấy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
+			<Text>Barbarossa hài lòng vì bạn không động đến thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
+			<Text>Barbarossa tức giận vì bạn đang điều khiển thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">
+			<Text>Victoria hài lòng vì bạn chia sẻ lục địa này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SUN_SETS_NEW_CONTINENT">
+			<Text>Victoria muốn xâm lấn vào lục địa của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Teddy không thích những cuộc tấn công vào người dân vùng đất của hắn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Teddy muốn người dân của hắn được hòa bình</Text>
+		</Replace>
+		<!-- Random agendas -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LAGGING">
+			<Text>Họ hài lòng với việc bạn có ít Vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LEADING">
+			<Text>Họ bực vì bạn có nhiều vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LAGGING">
+			<Text>Họ hài lòng với việc bạn có ít kỳ quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LEADING">
+			<Text>Họ bực vì bạn có nhiều kỳ quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_STATE_NOT_COMPETING">
+			<Text>Họ vui vì bạn không tranh giành các thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_STATE_COMPETING">
+			<Text>Họ giận dữ vì bạn đang chiêu dụ thành phố tự trị của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CULTURE">
+			<Text>Họ hài lòng khi thấy một nền văn minh khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_CULTURE">
+			<Text>Họ không thích nền văn minh có văn hóa thấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INDUSTRY">
+			<Text>Họ hài lòng khi thấy một nền văn minh công nghiệp khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INDUSTRY">
+			<Text>Họ không thích nền văn minh có sản lượng thấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_STANDING_ARMY">
+			<Text>Họ hài lòng khi thấy nền văn minh khác với lực lượng quân đội lớn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_STANDING_ARMY">
+			<Text>Họ không thích nền văn minh lực lượng quân đội ít</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_SCIENCE">
+			<Text>Họ hài lòng khi thấy một nền văn minh khoa học khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_SCIENCE">
+			<Text>Họ không thích những nền văn minh yếu kém về mảng khoa học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_HAPPINESS">
+			<Text>Họ hài lòng với một nền văn minh với những công dân hạnh phúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_HAPPINESS">
+			<Text>Họ không thích nền văn minh mà con người không có hạnh phúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INCOME">
+			<Text>Họ hài lòng khi nhìn thấy một nền văn minh có thu nhập cao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INCOME">
+			<Text>Họ không thích nền văn minh với thu nhập thấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_POPULATION">
+			<Text>Họ hài lòng khi thấy một nền văn minh với dân số đông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_POPULATION">
+			<Text>Họ không thích nền văn minh với dân số thấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENJOYS_WAR">
+			<Text>Họ thích những người chiến đấu và chiến thắng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ATTACKS_BARBARIANS">
+			<Text>Họ hài lòng khi thấy bạn dọn sạch trại của lũ man di</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_IGNORES_BARBARIANS">
+			<Text>Họ không thích nền văn minh của người mà không diệt trừ lũ man di</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENVIRONMENT">
+			<Text>Họ đang quan sát cách bạn đối xử với kỳ quan thiên nhiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPLOITATION">
+			<Text>Họ đang quan sát tiến trình khai phá lãnh thổ của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAME_GOVERNMENT">
+			<Text>Họ rất hài lòng khi thấy bạn cai trị người dân của bạn giống họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_DIFFERENT_GOVERNMENT">
+			<Text>Họ không thích cách bạn quản lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_NUKE_LOVE">
+			<Text>Họ đồng ý là sẽ có một thời gian và địa điểm nào đấy cho vũ khí hạt nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_NUKE_LOVE">
+			<Text>Họ không thích nền văn minh thất bại trong việc xây dựng vũ khí hạt nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAITH">
+			<Text>Họ hài lòng khi thấy một nền văn minh sùng đạo khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAITH">
+			<Text>Họ không thích nền văn minh với ít lòng tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_EXPLORATION">
+			<Text>Họ không thích nền văn minh thám hiểm tốt hơn họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_EXPLORATION">
+			<Text>Họ hài lòng khi những người khác để việc thăm dò thế giới cho họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_AIRPOWER">
+			<Text>Họ hài lòng khi thấy một nền văn minh có lực lượng không quân mạnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_AIRPOWER">
+			<Text>Họ không thích nền văn minh với một lực lượng không quân yếu kém</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_PROTECTION">
+			<Text>Họ rất hài lòng khi thấy bạn bảo vệ nhiều thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_PROTECTION">
+			<Text>Họ hài lòng khi thấy bạn bảo vệ thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_AGGRESSION">
+			<Text>Họ không thích nền văn minh hay xâm lược các thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_AGGRESSION">
+			<Text>Họ rất ghét những nền văn minh rất thường xuyên xâm lược các thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_COMPETING">
+			<Text>Họ bực bội vì thấy bạn có nhiều kì quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_NOT_COMPETING">
+			<Text>Họ hài lòng vì bạn có ít kì quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_COMPETING">
+			<Text>Họ thấy bực bội vì bạn có nhiều vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_NOT_COMPETING">
+			<Text>Họ thấy hài lòng vì bạn có ít vĩ nhân</Text>
+		</Replace>
+		<!-- Future modifiers (not yet implemented)-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_POSITIVE">
+			<Text>Chúng ta đang giao thương với bạn của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_NEGATIVE">
+			<Text>Chúng ta đang giao thương với kẻ thù của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_FRIENDS">
+			<Text>Chúng ta là bạn với đồng minh của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_ENEMIES">
+			<Text>Chúng ta là bạn của kẻ thù họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_FRIENDS">
+			<Text>Chúng ta là đồng minh của bạn họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_ENEMIES">
+			<Text>Chúng ta là đồng minh của kẻ thù họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_FRIENDS">
+			<Text>Chúng ta có một hiệp ước phòng thủ với bạn của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_ENEMIES">
+			<Text>Chúng ta có một hiệp ước phòng thủ với kẻ thù của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_ENEMIES">
+			<Text>Chúng ta đã lăng mạ kẻ thù của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_FRIENDS">
+			<Text>Chúng ta đã lăng mạ bạn của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_UNWANTED_RELIGION">
+			<Text>Chúng ta cố cải giáo tôn giáo của họ sang của mình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_ALLIANCE_BROKEN">
+			<Text>Chúng ta đã phá vỡ liên minh giữa nhau</Text>
+		</Replace>
+		<!-- Non-leader specific versions of modifiers (to use in scenarios, etc.) -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Họ ghét các cuộc tấn công vào các nền văn minh trên lục địa của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Họ thích nền văn minh hòa bình trên lục địa của họ</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

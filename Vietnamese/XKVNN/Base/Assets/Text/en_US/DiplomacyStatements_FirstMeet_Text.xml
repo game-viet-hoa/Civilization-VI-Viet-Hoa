@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- First AI line -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY">
+			<Text>Ta là Mvemba a Nzinga, ngài khỏe chứ bằng hữu của ta. Ta có thể nhìn thấy thượng đế đang phù hộ ngài. Ngài tới đây để chia sẻ trí khôn của ngài sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta là Hoàng thái hậu Catherine của Pháp, hoan nghênh ngài tới vương quốc của ta. Ta muốn hiểu rõ mọi sự liên quan tới ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY">
+			<Text>Ta là Isis tái sinh, ta là sông Nile sinh sôi không ngừng. Nếu ngài xứng đáng với ta, ta sẽ trở thành đồng minh Ai Cập của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY">
+			<Text>Ngài khỏe, ta là hoàng đế La Mã thần thánh Frederick, vua của Đức, Ý, lãnh thổ Burgundy và nhiều quốc gia khác. Ta tin tưởng phương thức thống trị thổ địa của ngài giống ta: thông qua cường quyền.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY">
+			<Text>Ngài khỏe chứ, ta là Mohandas Gandhi. Quốc dân của ta gọi ta là “Bapu” (nghĩa là "Cha”), nhưng xin ngài coi ta là bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY">
+			<Text>Ta là Gilgamesh của Sumeria, cũng là vua của Uruk. Đừng sợ … ta đối với bằng hữu rất tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY">
+			<Text>Ta là Gorgo, vua của Sparta và cũng là lãnh tụ của Hy Lạp. Ngài là người nào vậy? Ngài lấy được những thắng lợi nào?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
+			<Text>Đứng ở trước mặt ngài chính là Harald Sigurdsson: một hải tặc chưa từng thấy qua trên đại dương cùng trên đất bằng. Ha ha, sợ chưa nào?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
+			<Text>Ngài khỏe, ta là Hojo Tokimune của Nhật Bản, là tín đồ thành kính của võ sĩ đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY">
+			<Text>Ngài khỏe, rất vinh hạnh được tự mình nhìn thấy ngài. Dù sao những người có tư tưởng vĩ đại sẽ hấp dẫn lẫn nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
+			<Text>Ngài khỏe, ta là Pericles của Athens, ta đại biểu quốc gia dân chủ của ta hoan nghênh ngài. Ta tin tưởng ngài sẽ để cho ta thương mại với các bên trung lập, đúng không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
+			<Text>Ngài khỏe, ta là Nga hoàng Peter. Khẳng định là lãnh tụ văn nhã giống như ngài rất hưởng thụ mọi chuyện trong cuộc sống tốt đẹp này. Ngài cũng thích nghệ thuật giống ta sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY">
+			<Text>Ta là quốc vương Tây Ban Nha, quốc vương Bồ Đào Nha, đảo Sardinia và đảo Sicily, Naples, Duke của Milan, vân vân , nhưng trọng yếu nhất: ta là tín đồ thành kính chân chính của tôn giáo. Ta hy vọng ngài cũng vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY">
+			<Text>Ngài vì sao đứng ở trước mặt thiên tử bất hủ vĩ đại Tần Thủy Hoàng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY">
+			<Text>Mượn ân điển của thượng đế, ta chúc phúc ngài, bằng hữu chân thành của ta, chúc ngài cường đại, thắng lợi, vương quốc vĩnh hằng vĩnh viễn vô biên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY">
+			<Text>Hoan nghênh đi tới Hợp Chủng Quốc Hoa Hỳ, nếu như ngài biểu hiện tốt, chúng ta có thể trở thành bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY">
+			<Text>Tương quan giữa chúng ta, đều cần biết là: nếu phản bội, máu sẽ phải trả bằng máu! Nhưng...nếu ngài là bằng hữu chân chính của ta, chúng ta sẽ hòa bình chung sống đấy nhé.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
+			<Text>Hé, người xa lạ. Ta là hoàng đế họ Caesar ở La Mã, Trajan. Ngươi là ai? Những thổ địa nào là của ngươi?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
+			<Text>Ngài khỏe. Mượn ân điển của thượng đế, ta là Victoria, trở thành nữ vương của Anh quốc cùng Ai Len. Ta dám nói, rất nhanh toàn bộ đế chế đó đều là của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
+			<Text>Chào mừng vị khách. Ngài nên biết rằng ngài đang đứng trước một sự hiện diện vĩ đại!</Text>
+		</Replace>
+		<!-- Human Responses -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_POSITIVE">
+			<Text>Đây là một vinh dự lớn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY">
+			<Text>Ta sợ quá bận để nán lại trò chuyện với ngài.</Text>
+		</Replace>
+		<!-- AI invitation to visit nearby City -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
+			<Text>Trước khi tiếp tục, hãy cùng ta đến kính viếng nước láng giềng. Sau đó thì chúng ta có thể thưởng thức món gà Moambé.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ngài sẽ không thể sống nếu như không có thức ăn và đồ uống thật ngon. Và nếu như ngài muốn thì ta cũng có thể hướng dẫn ngài cách sử dụng nĩa sao cho phù hợp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
+			<Text>Cạnh chúng ta có một nước láng giềng, ngài có muốn viếng thăm hay không? Ta rất thích được giới thiệu với ngài về bàn game của chúng ta, Senet.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
+			<Text>Với cương vị là quốc vương của Đế Chế La Mã thần thoại, ta chào mừng ngài đến với vương quốc của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
+			<Text>Đến với thành phố cạnh bên, chúng ta có thể được nghe một khúc Trí Thức Thi của nhà thơ Veedic, và có thể còn sẽ được học hỏi thêm nhiều điều nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
+			<Text>Nếu ngài muốn thì có thể thấy niềm tự hào của người Sumer đang ở trước mắt ngài: Một nền nghệ thuật và khoa học truyền thống lâu đời, Ziggurats vĩ đại!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
+			<Text>Thành phố của chúng tôi ở gần đây. Ngài có muốn ghé thăm và nếm thử món nước súp đen tinh khiết của chúng tôi không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
+			<Text>Nói cho ta biết bằng hữu: Ngài có muốn ghé thăm thành phố gần nhất của chúng tôi? Tuy nó không có điện Bilskirnir nhưng đổi lại nó cũng rất đẹp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
+			<Text>Ta sẽ rất vinh dự nếu ngài tới thành phố gần nhất của ta. Ngài có thích Sứa Aemono không? Có?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
+			<Text>Hãy đến Brazil! Ngài có biết cách để nhảy một điệu Samba không? Chẳng có vấn đề gì cả, ngài vẫn sẽ được tận hưởng lễ hội thật vui vẻ bất kể có biết hay không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
+			<Text>Ngài có quan tâm đến việc đến ghé thăm Thủ Đô gần nhất của chúng tôi hay không? Chúng ta có thể bàn việc chính trị sau khi thưởng thức xong một màn văn nghệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
+			<Text>Đến đây nào, hãy để ta cho ngài thấy thành phố cạnh bên. Sau đó chúng ta có thể tham gia buổi khiêu vũ trong một ngôi nhà ở vùng ngoại ô xinh đẹp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PHILIP_II_ANY">
+			<Text>Ngài có muốn xem một trận đấu bò không? Không có buổi trình diễn nào giống như thế đâu. Hãy đến thành phố của ta ở gần đây mà chiêm ngưỡng đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
+			<Text>Thành phố của chúng tôi ở gần đây. Ngài có muốn ghé thăm không? Những nhà điêu khắc của chúng tôi rất tài giỏi trong việc tạo hình đồ sứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
+			<Text>Tôi rất vinh dự cho ngài thấy lòng hiếu khách của các thành phố của chúng tôi: những nghệ thuật đẹp đẽ nhất, những bữa tiệc thịnh soạn nhất, và những lời nguyện cầu du dương ở khắp nơi. Ngài có muốn đến thăm không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Thành phố của chúng tôi ở gần đây. Ngài có muốn ghé thăm không? Tôi có thể cho ngài xem những con gấu bông đang rất được ưa chuộng bấy giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY">
+			<Text>Thành phố của chúng tôi ở gần đây. Ngài có muốn ghé thăm không? Chúng tôi có thể cho ngài mang một trong những cái mũ nhọn của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
+			<Text>The Empire, tất nhiên, có một thành phố ở gần đây. Liệu ngài sẽ đến, ngắm nhìn, và bị chinh phục bởi vẻ đẹp của nó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
+			<Text>Đây là một đặc quyền riêng biệt của ta để đưa cho ngài một lời mời đến thăm Vương Quốc, điều này ta nghĩ đơn giản hơn vì ta có quá nhiều thuộc địa, tất nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
+			<Text>Thành phố của ta ở gần đây. Ngài có muốn ghé thăm không? Ngài có thể tham dự buổi lễ ăn mừng sắp tới của ta.</Text>
+		</Replace>
+		<!-- Human Responses -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
+			<Text>Chúng tôi rất mến lòng kính khách của các ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT">
+			<Text>Xin lỗi, nhưng giờ không phải lúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_POSITIVE">
+			<Text>Ngài có thích ghé thăm thành phố gần bên và thử lòng mến khách của chúng chúng tôi chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY">
+			<Text>Cảm ơn vì đã giới thiệu, nhưng dường như ta không đủ thời gian cho những thứ vui vẻ.</Text>
+		</Replace>
+		<!-- AI accepts Human invitation -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
+			<Text>Bằng tất cả sự kính trọng. Thật là vinh dự khi được chiêm ngưỡng thành phố đang phát triển của ngài thật gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
+			<Text>Vâng, vâng. Thật là tốt cho ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bằng tất cả sự kính trọng. Thật là vinh dự khi được chiêm ngưỡng thành phố đang phát triển của ngài thật gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
+			<Text>Rất vui lòng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
+			<Text>Vâng, chúng tôi rất sẵn lòng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
+			<Text>Rất vui lòng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
+			<Text>Cảm ơn, bằng hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
+			<Text>Vâng. Với tất cả lòng biết ơn của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
+			<Text>Thay mặt cho người dân, đồng ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
+			<Text>Vâng, rất tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
+			<Text>Cầu mong các Vị Thần phù hộ ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
+			<Text>Việc này có thể chấp nhận được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
+			<Text>Một lời đề nghị hấp dẫn. Cầu thánh Allah phù hộ cho người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta không thể từ chối được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
+			<Text>Rất tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
+			<Text>Điều này chấp nhận được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
+			<Text>Chúng tôi thấy hài lòng với điều này.</Text>
+		</Replace>
+		<!-- Human responses -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
+			<Text>Thật là vinh dự khi được gặp ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE">
+			<Text>Hân hạnh được gặp, người lạ mặt. Nhưng ta e là rất bận để ở lại và nói chuyện.</Text>
+		</Replace>
+		<!-- AI invitation to exchange Capital Information -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
+			<Text>Không ai trong chúng ta có Thủ Đô ở gần nhau cả, nhưng có lẽ chúng ta nên đánh dấu lãnh thổ của cả hai trên bản đồ của nhau?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
+			<Text>Hãy để chúng ta trao đổi thông tin như là trí tuệ. Kể ta nghe về Thủ Đô của ngài. Nó có phải là một thành phố linh thiêng không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta bị say đắm với kiến trúc. Nói cho ta nghe, Thủ Đô của ngài có những mái vòm khải hoàn, hay các tòa tháp bằng sắt khổng lồ vậy?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
+			<Text>Alexandria là nơi trị vì của các Pharaoh, quê hương của ta. Ta có thể kể cho ngài nhiều hơn nếu ngài kể cho ta về Thủ Đô của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
+			<Text>Ta có thể cho ngài xem Thủ Đô tuyệt vời của ta nếu như ngài kể cho ta biết làm thế nào Thủ Đô của ngài có thể so sánh với vị trí quyền lực của nước Đức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
+			<Text>Ta rất thích du lịch, có lẽ một ngày nào đó ta sẽ đến thăm Thủ Đô của ngài. Nó có xa không? Ngài sẽ kể cho ta nghe về nó chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
+			<Text>Không ai có thể vượt qua những bức tường của Uruk mà không có sự cho phép của ta, nhưng ta sẽ kể cho ngài nghe về nó, nếu ngài kể cho ta nghe về Thủ Đô của ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
+			<Text>Thủ Đô của ngài như thế nào? Kể cho ta nghe, và ta sẽ kể ngài nghe về Sparta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
+			<Text>Ta đã đi du lịch những nơi rất xa và rộng lớn, nhưng ta chưa bao giờ thấy Thủ Đô của ngài. Kể ta nghe về nó đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
+			<Text>Ta muốn trao đổi thông tin về Thủ Đô của chúng ta. Thủ Đô của ta giống như Miền Đất Thanh Tịnh. Của ngài như thế nào?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
+			<Text>Chúng ta hãy trao đổi những phép lịch sự một cách ngoại giao. Kể ta nghe về Thủ Đô của ngài, và ta sẽ kể cho ngài Thủ Đô của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
+			<Text>Athens là một thủ phủ huy hoàng. Thủ Đô của ngài như thế nào? Đến đây, hãy trao đổi thông tin với nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
+			<Text>Ngài có muốn trao đổi thông tin về Thủ Đô của chúng ta không? Thủ Đô của ta là biểu tượng của phát triển, nhưng ta không biết của ngài như thế nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
+			<Text>Ngài có muốn nghe về Thủ Đô của ta không? Madrid là thành phố đẹp nhất trong những thành phố. Thủ Đô của ngài cũng đẹp như vậy chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
+			<Text>Ngài đã chiêm ngưỡng sự lộng lẫy của Thủ Đô chúng ta. Thủ Đô của ngài có vĩ đại được bằng một nửa của ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
+			<Text>Đến đây, hãy để chúng ta trao đổi thông tin về Thủ Đô của nhau. Ta muốn nghe ngài kể về người dân của ngài, và ta sẽ hạnh phúc kể về những người dân của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta muốn trao đổi thông tin vể Thủ Đô của nhau; thúc đẩy thương mại tự do giữa các quốc gia của chúng ta, và đó là tất cả.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
+			<Text>Vâng, người của ta là dân du mục, nhưng ta vẫn có một Thủ Đô tráng lệ, còn ngài thì sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
+			<Text>Kể ta nghe về Thủ Đô của ngài. Có phải nó được tìm thấy bởi những người Trojan bị lưu lạc? Hoặc trẻ em thì được nuôi dưỡng bởi các con sói phải không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
+			<Text>Với sự thú vị trong mối quan hệ chính trị của chúng ta, ta muốn biết thêm về Thủ Đô của ngài...tất nhiên là chỉ trao đổi thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
+			<Text>Trao đổi thông tin về Thủ Đô của chúng ta là một ý tưởng tuyệt vời. Nó sẽ thúc đẩy quá trình giao thương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_INFO">
+			<Text>Xin lỗi, ta không thể chia sẻ thông tin đó vào lúc này.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

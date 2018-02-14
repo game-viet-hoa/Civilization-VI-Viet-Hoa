@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		
+		<!-- AI accepts from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Ta hạnh phúc cho phép mọi người của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ta hạnh phúc cho phép mọi người của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Oh, rất tốt. Ngài có thể tiến hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ngài có thể đi qua Ai Cập, miễn là ngài tôn trọng những di sản cổ xưa của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Ta sẽ cho phép. Hi vọng vì lợi ích của Đức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ta hạnh phúc cho phép mọi người của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Ngày có thể băng qua Sumer nhưng không được làm phiền đến người dân của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ta sẽ cho phép tự do đi lại, nhưng không được nán lại quá lâu ở Sparta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Vâng, khám phá đi. Thế giới này quá bao la để ở yên một chỗ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Người của ngài có thể băng qua biên giới, nhưng họ phải tôn trọng dân của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Ta hạnh phúc cho phép mọi người của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Vâng, ngài sẽ được phép đi qua Nền Dân Chủ. Có lẽ ngài sẽ học được điều gì đó từ đất nước của ta, và ta cũng hi vọng sẽ học hỏi được gì đó từ ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Rất tốt, đồng ý cho phép ngài băng qua vùng đất của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Có, ngài có thể đi qua vùng đất của ta. Nó sẽ không bị cấm đoán trong một vương quốc lớn như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Tất nhiên là ngài có thể đi qua. Mối đe doạ gì mà ngài có thể gây ra cho Trung Hoa?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Tất nhiên rồi, ngài có thể đi qua vùng đất của ta, miễn là họ còn trong vùng đất của ta. Ta sẽ luôn luôn chấp nhận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta rất vui khi cho phép người dân của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ta rất vui khi cho phép người dân của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Ta rất vui khi cho phép người dân của ngài tự do đi lại trong lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Để thừa nhận sự biết ơn vì đã sẽ chia mong muốn về sự hòa bình thì ta chấp nhận để quân đội của ngài gia nhập lực lượng chính của chúng ta.</Text>
+		</Replace>
+		
+		<!-- AI rejects from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Đáng tiếc, ta không thể đơn giản cho phép nó. Vì sự an toàn, tất nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ngài không thể tiến vào Ai Cập. Chỉ có những người xứng đáng mới có thể bước trên vùng đất này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Ta sinh ra không phải là kẻ ngốc mà lại cho phép kẻ thù của mình băng qua lãnh thổ của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Không, ngươi không thể đi qua Sumer. Chỉ có những đồng minh thật sự mới có thể bước vào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ngài, người chưa được tắm gội trong Eurotas - kẻ không biết gì về agoge - sẽ không được bước vào Sparta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Ta đã mất vương quốc của mình vì sự phản bội một lần rồi... Ta sẽ ko làm như vậy lần nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Pure Land đã từ chối ngươi. Hãy hỏi bản thân tại sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Thật không may, Nền Dân chủ đã bỏ phiếu chống cho phép việc tự do đi lại lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ta không thể để một mốt đe dọa tiềm năng nào vào trong quê hương ta. Ta hi vọng ngài có thể hiểu cho.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ta không chấp nhận ngài hối lộ những đối tượng của ta với cách làm bẩn thỉu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Không, ta sẽ không cho phép người nước ngoài vào làm hỏng đế chế kì diệu của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Với ân điển và sự cứu rỗi của Chúa, ta không chấp nhận người ngoại quốc tới để làm hỏng những vùng đất thánh của Ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Ta không hứng thú lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Vì sự an toàn cho người dân của ta, ta phải từ chối yêu cầu này. Ta hi vọng ngài có thể cảm thông giúp.</Text>
+		</Replace>
+		
+		<!-- AI requests from human -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Liệu ngài sẽ để cho mọi người của ta đi qua lãnh thổ của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Liệu ngài sẽ để cho mọi người của ta đi qua lãnh thổ của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Quân đội ta xin được phép hành quân qua lãnh thổ của ngài. Một cách hòa bình, tất nhiên rồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Hãy để người của ta đi qua lãnh thổ của ngài. Ta sẽ khiến nó đáng giá...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Ta cần di chuyển đội quân của mình đi qua lãnh thổ của ngài. Liệu ngài có chấp thuận hay không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Liệu ngài sẽ để cho người của ta đi qua lãnh thổ của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh đi qua lãnh thổ của ngài để chống lại kẻ địch của hắn có phải không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Người Sparta của ta muốn đi qua vùng đất của ngài, liệu ngài có dám từ chối họ không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ngài sẽ cho phép người Viking của ta đi qua chứ? Sẽ rất khó kiểm soát khi họ trở nên bồn chồn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ta khiêm nhường mong muốn sự cho phép để hành quân qua biên giới của ngài. Ta sẽ giữ hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Ngài sẽ cho phép người của ta đi qua lãnh thổ chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Người Athen mong muốn đi qua lãnh thổ. Ngài sẽ đồng ý chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Người của ta mong muốn đi qua vùng đất của ngài, để mở mang tầm mắt. Ngài sẽ đồng ý chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Vương quốc Tây Ban Nha thành khẩn mong muốn được đi qua vùng đất của ngài. Ta không hề có ý xâm hại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ta phải đi qua lãnh thổ của ngài và khiêm nhường mong muốn được sự cho phép này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Ngài sẽ cho phép người của ta đi qua vùng đất lãnh thổ chứ? Ta cam đoan họ sẽ giữ hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Liệu ngài sẽ để cho mọi người của ta đi qua lãnh thổ của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Liệu ngài sẽ để cho mọi người của ta đi qua lãnh thổ của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Liệu ngài sẽ để cho mọi người của ta đi qua lãnh thổ của ngài chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ta khiêm nhường mong muốn binh lính của ta được đi qua lãnh địa của ngài. Ý ngài thì sao?</Text>
+		</Replace>
+		
+		<!-- Human accepts AI, AI respones -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Tuyệt vời!</Text>
+		</Replace>
+
+		<!-- Human rejects AI, AI respones -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Thật không may</Text>
+		</Replace>
+
+		<!-- Selections -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
+			<Text>Ta sẽ không cho phép quân đội của ngài ở trong biên giới vào lúc này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_POSITIVE">
+			<Text>Mọi người của ngài được chào đón tới vùng đất của ta.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

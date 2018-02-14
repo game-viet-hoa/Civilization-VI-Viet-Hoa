@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- AI is Defeated -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY">
+			<Text>Ta không bao giờ nghĩ ta sẽ kết thúc sớm như thế này!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ngươi không là gì ngoài một tên man di được tôn vinh. Độc ác và tàn nhẫn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta đã sống đủ lâu để biết khi nào ta bị bại trận. Tiếp tục đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ai Cập đã mất. Nếu ta không thể ôm lấy người ta yêu. Ta sẽ ôm những con độc xà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Chúng ta là những kẻ vinh quang và huy hoàng... nhưng không, quên đi. Ngươi là kẻ chiến thắng. Mong là triều đại của ngươi cũng sẽ hòa bình như của ta đã từng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ngươi có thể xiếng xích ta, ngươi có thể tra tấn ta, ngay cả ngươi có thể phá hủy thân xác này, nhưng ngươi sẽ không bao giờ cầm tù được tâm trí ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Sự phản bội đã làm gì ta thế này? Không, ác quỷ nào mới đúng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Thần Ares đã bỏ rơi chúng ta. Sparta đã bị đánh bại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Vậy là, ta sẽ được dự tiệc với các chiến binh Einherjar ở thiên đường, trong khi ngươi phải làm việc cực nhọc ở đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Làm ơn kết thúc sự sỉ nhục này với dòng họ ta... với người dân của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Cầu Chúa ban cho ta những ước nguyện sau cùng này - hòa bình và phồn thịnh cho Brazil.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Ngươi có thể đánh bại ta, nhưng cái mà ta để lại đã được thêu dệt trong sinh mạng mỗi con người ở đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ta đã bị hạ. Sống một kiếp người không đơn giản như băng qua một cánh đồng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Vùng đất của ta... Vương Quốc của ta... tại sao, Chúa ơi? Tại sao Ngài lại chối bỏ con?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ta không bao giờ nghĩ chuyện này sẽ xảy ra... không phải như thế này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Đây không phải là chiến thắng. "Chiến thắng" là thay đổi trái tim của kẻ thù; bằng cách hòa nhã, bằng lòng nhân từ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Chúc mừng. Thay vì Hợp Chủng Quốc Hoa Kỳ, đất nước của ngươi sẽ tiến xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Nữ Hoàng đã bị hạ bệ, nhưng ta sẽ ghi nhớ Người. Ngươi cũng vậy chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Hạnh phúc của thất bại chính là sẽ không phải mong mỏi được thêm hạnh phúc nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Nước Anh sẽ không phải chịu đựng thất bại đau đớn và tàn khốc này nữa, và cảm ơn tạo hóa, nó sẽ phát triển lần nữa.</Text>
+		</Replace>
+				
+		<!-- Human is Defeated (will see this in hotseat) -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY">
+			<Text>Ta không bao giờ nghĩ ta sẽ kết thúc sớm như thế này!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ngươi không là gì ngoài một tên man di được tôn vinh. Độc ác và tàn nhẫn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ta đã sống đủ lâu để biết khi nào ta bị bại trận. Tiếp tục đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ai Cập đã mất. Nếu ta không thể ôm lấy người ta yêu. Ta sẽ ôm những con độc xà.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Chúng ta đã từng là những kẻ vinh quang và huy hoàng... nhưng không, quên đi. Ngươi là kẻ chiến thắng. Mong là triều đại của ngươi cũng sẽ hòa bình như của ta đã từng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ngươi có thể xiếng xích ta, ngươi có thể tra tấn ta, ngay cả ngươi có thể phá hủy thân xác này, nhưng ngươi sẽ không bao giờ cầm tù được tâm trí ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Sự phản bội đã làm gì ta thế này? Không, ác quỷ nào mới đúng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Thần Ares đã bỏ rơi chúng ta. Sparta đã bị đánh bại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Vậy là, ta sẽ được dự tiệc với các chiến binh Einherjar ở thiên đường, trong khi ngươi  phải làm việc cực nhọc ở đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Làm ơn kết thúc sự sỉ nhục này với dòng họ ta... với người dân của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli hãy tha thứ cho sự yếu đuối của chúng con... sự yếu đuối của con. Con đã không đủ mạnh mẽ để phục vụ Ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Cầu Chúa ban cho ta những ước nguyện sau cùng này - hòa bình và phồn thịnh cho Brazil.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Ngươi có thể đánh bại ta, nhưng cái mà ta để lại đã được thêu dệt trong sinh mạng mỗi con người ở đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ta đã bị hạ. Sống một kiếp người không đơn giản như băng qua một cánh đồng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Vùng đất của ta... Vương Quốc của ta... tại sao, Chúa ơi? Tại sao Ngài lại chối bỏ con?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ta không bao giờ nghĩ chuyện này sẽ xảy ra... không phải như thế này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Đây không phải là chiến thắng. "Chiến thắng" là thay đổi trái tim của kẻ thù; bằng cách hòa nhã, bằng lòng nhân từ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Chúc mừng. Thay vì Hợp Chủng Quốc Hoa Kỳ, đất nước của ngươi sẽ tiến xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Nữ Hoàng đã bị hạ bệ, nhưng ta sẽ ghi nhớ Người. Ngươi cũng vậy chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Hạnh phúc của thất bại chính là sẽ không phải mong mỏi được thêm hạnh phúc nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Nước Anh sẽ không phải chịu đựng thất bại đau đớn và tàn khốc này nữa, và cảm ơn tạo hóa, nó sẽ phát triển lần nữa.</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

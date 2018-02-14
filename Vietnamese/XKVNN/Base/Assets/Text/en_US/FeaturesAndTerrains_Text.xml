@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Natural Wonders -->
+		<Replace Language='en_US' Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
+			<Text>Tìm thấy kỳ quan thiên nhiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
+			<Text>Việc phát hiện kỳ quan thiên nhiên đem lại điểm thưởng kinh nghiệm cho Trinh Sát. Kỳ quan thiên nhiên cũng cung cấp thêm điểm thưởng tới các đặc khu có Thánh Địa. Tất cả các vùng liền kề nhận được +2 Sức Hấp dẫn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
+			<Text>Hai ô kỳ quan thiên nhiên có thể được tìm thấy trên địa hình ven biển và đem lại +3 [ICON_Food] Thực phẩm và +2 [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
+			<Text>Hai ô kỳ quan thiên nhiên. Xuất hiện nơi Vách đá sát biển và đem lại +3 [ICON_Culture] Văn minh và +2 [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
+			<Text>Một ô kỳ quan thiên nhiên. Xuất hiện ở Hồ Nước và đem lại +4 [ICON_Faith] Đức Tin, +1 [ICON_Science] Khoa học, và Nước Ngọt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
+			<Text>Hai ô kỳ quan thiên nhiên. Xuất hiện ở Hồ và đem lại +2 [ICON_Faith] Đức Tin, +2 [ICON_Culture] Văn minh, và Nước Ngọt. Các đơn vị sẽ hồi toàn bộ máu nếu ở nơi giáp Biển Chết trong lượt của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
+			<Text>Ba ô kỳ quan thiên nhiên không thể đi qua. Được xem là Núi và đem lại +1 [ICON_Faith] Đức Tin tới các vùng liền kề. Các đơn vị tôn giáo di chuyển gần núi Everest sẽ bỏ điểm phạt di chuyển trên địa hình Đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
+			<Text>Hai ô kỳ quan thiên nhiên không thể đi qua. Được xem là ven biển và đem lại +2 [ICON_Science] Khoa học tới các vùng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
+			<Text>Một ô kỳ quan thiên nhiên không thể đi qua. Được xem là Núi và đem lại +2 [ICON_Food] Thực phẩm tới các vùng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
+			<Text>Bốn ô kỳ quan thiên nhiên. Được xem là Đầm Lầy và đem lại +2 [ICON_Food] Thực phẩm và +2 [ICON_Culture] Văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
+			<Text>Ba ô kỳ quan thiên nhiên không thể đi qua. Đem lại +1 [ICON_Culture] Văn minh và +1 [ICON_Gold] Vàng tới các vùng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
+			<Text>Hai ô kỳ quan thiên nhiên không thể đi qua. Giúp tăng gấp đôi sản lượng của tính chất ô đất tới các vùng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
+			<Text>Một ô kỳ quan thiên nhiên không thể đi qua. Đem lại +1 [ICON_Culture] Văn minh và +1 [ICON_Science] Khoa học tới các vùng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
+			<Text>Hai ô kỳ quan thiên nhiên không thể đi qua. Đem lại +1 [ICON_Gold] Vàng và +1 [ICON_Science] Khoa học tới các vùng liền kề.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

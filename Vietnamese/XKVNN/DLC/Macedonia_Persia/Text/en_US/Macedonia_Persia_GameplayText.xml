@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MACEDON_DESCRIPTION">
+			<Text>Đế chế Macedonian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MACEDON_ADJECTIVE">
+			<Text>Macedonian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MACEDON_LOCATION">
+			<Text>Châu Âu (và một phần nhỏ của Châu Á và Châu Phi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MACEDON_SIZE">
+			<Text>Một vương quốc, rộng khoảng 25,800 dặm vuông (67,000 km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MACEDON_POPULATION">
+			<Text>Tiền-Alexander, khoảng 700.000 người</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MACEDON_CAPITAL">
+			<Text>Aigai và Pella</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PERSIA_DESCRIPTION">
+			<Text>Đế chế Ba Tư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PERSIA_ADJECTIVE">
+			<Text>Ba Tư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_PERSIA_LOCATION">
+			<Text>Châu Á và Châu Phi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_PERSIA_SIZE">
+			<Text>Lúc đỉnh điểm, 2.1 triệu dặm vuông (5.5 triệu km vuông)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_PERSIA_POPULATION">
+			<Text>35 triệu người lúc đỉnh điểm (ước tính)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_PERSIA_CAPITAL">
+			<Text>Pasargadae, Babylon, Persepolis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_ALEXANDER">
+			<Text>Thủ lĩnh vĩ đại, Alexander, dưới thanh gươm Macedon của ngài sẽ lan rộng khắp thế giới. Mỗi vương quốc sẽ là một thách thức đặc biệt để vượt qua, nhưng phần thưởng sẽ tuyệt vời nếu ngài chân thật và dũng cảm. Rời xa hoà bình, vì không có cách nào để thiết lập di sản của ngài nhưng từ việc chinh phục những vùng đất rộng lớn. Hoan hô, Alexander, hãy dẫn dắt mọi người đến vinh quang!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_CYRUS">
+			<Text>Vương miện trên đầu, Cyrus, Vua của Ba Tư, là người được xức dầu. Với những người lính bất tử, và đức tin kiên định, ngài sẽ chinh phục và cai trị các dân tộc trên thế giới. Ngài có thể thấy rất nhiều liên minh hình thành xung quanh ngài, nhưng đừng để bị lừa - đó là cách cổ xưa và yếu đuối để cai trị thế giới. Không hứa hẹn gì trừ khi nó giúp ngài đạt được mục tiêu của mình.</Text>
+		</Replace>
+		<!-- Leader Agenda-->
+		<Replace Language='en_US' Tag="LOC_AGENDA_SHORT_LIFE_GLORY_NAME">
+			<Text>Vinh quang cho cuộc đời ngắn ngủi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SHORT_LIFE_GLORY_DESCRIPTION">
+			<Text>Thích các nền văn minh chiến tranh với thế lực khác với Macedon. Họ đã khinh thường những nền văn minh hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_BACKSTABBER_NAME">
+			<Text>Kẻ cơ hội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_BACKSTABBER_DESCRIPTION">
+			<Text>Thích những nhà lãnh đạo đã tuyên bố một cuộc Chiến tranh Bất ngờ. Gạt bỏ những nhà lãnh đạo không sử dụng tuyên bố Chiến tranh Bất ngờ.</Text>
+		</Replace>
+		<!-- Trait Info-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Công trình đặc biệt của Macedonian: Doanh trại Basilikoi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_HYPASPIST_NAME">
+			<Text>Đơn vị đặc biệt của Macedonian: Lính Hypaspist</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_HETAIROI_NAME">
+			<Text>Đơn vị đặc biệt của Alexander: Kỵ binh Hetairoi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>Công trình đặc biệt của Ba Tư: Cung điện Pairidaeza</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_PAIRIDAEZA_NAME">
+			<Text>Đơn vị đặc biệt của Ba Tư: Lính Immortal</Text>
+		</Replace>
+		<!-- Macedon Cities-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PELLA">
+			<Text>Pella</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AIGAI">
+			<Text>Aigai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA">
+			<Text>Alexandria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_METHONE">
+			<Text>Methone</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHALKIDIKI">
+			<Text>Chalkidiki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DION">
+			<Text>Dion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDROUPOLI">
+			<Text>Alexandroupoli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMPHIPOLIS">
+			<Text>Amphipolis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_TROAS">
+			<Text>Alexandria Troas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PYDNA">
+			<Text>Pydna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_LATMUS">
+			<Text>Alexandria by the Latmus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRETTA">
+			<Text>Alexandretta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_ARIA">
+			<Text>Alexandria in Aria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_PROPHTHASIA">
+			<Text>Alexandria Prophthasia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_ARACHOSIA">
+			<Text>Alexandria in Arachosia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AIANI">
+			<Text>Aiani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_CAUCASUS">
+			<Text>Alexandria in the Caucasus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_ESCHATE">
+			<Text>Alexandria Eschate</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AKANTHOS">
+			<Text>Akanthos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_OXIANA">
+			<Text>Alexandria Oxiana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HERACLEA_LYNCESTIS">
+			<Text>Heraclea Lyncestis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_BUCEPHALA">
+			<Text>Alexandria Bucephala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_NICAEA">
+			<Text>Alexandria Nicaea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PHILIPPOLIS">
+			<Text>Philippolis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_INDUS">
+			<Text>Alexandria on the Indus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_RHAMBACIA">
+			<Text>Alexandria Rhambacia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_STAGIRA">
+			<Text>Stagira</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALEXANDRIA_SUSIANA">
+			<Text>Alexandria in Susiana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_APOLLONIA">
+			<Text>Apollonia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BATMAN">
+			<Text>Batman</Text>
+		</Replace>
+		<!-- Persia Cities-->
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PASARGADAE">
+			<Text>Pasargadae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SUSA">
+			<Text>Susa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HAGMATANA">
+			<Text>Hagmatana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TARSUS">
+			<Text>Tarsus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAKHTRI">
+			<Text>Bakhtri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SPARDA">
+			<Text>Sparda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GORDIAN">
+			<Text>Gordian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TUSHPA">
+			<Text>Tushpa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RAY">
+			<Text>Ray</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZRANKA">
+			<Text>Zranka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SHAHR_I_QUMIS">
+			<Text>Shahr-i Qumis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PARSA">
+			<Text>Parsa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HALICARNASSUS">
+			<Text>Halicarnassus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ISPAHAN">
+			<Text>Ispahan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TYAIY_DRAYAHYA">
+			<Text>Tyaiy Drayahya </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAZAKA">
+			<Text>Mazaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HARAIVA">
+			<Text>Haraiva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANASHAN">
+			<Text>Anashan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PUSHKALAVATI">
+			<Text>Pushkalavati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PURA">
+			<Text>Pura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TAXILA">
+			<Text>Taxila</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BUKHARA">
+			<Text>Bukhara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GANZAK">
+			<Text>Ganzak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MARAKANDA">
+			<Text>Marakanda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THAPSACUS">
+			<Text>Thapsacus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ISTAKHR">
+			<Text>Istakhr</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARTASHAT">
+			<Text>Artashat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IZKI">
+			<Text>Izki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BORAZJAN">
+			<Text>Borazjan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CYRA">
+			<Text>Cyra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TOPRAK_QALA">
+			<Text>Toprak Qala</Text>
+		</Replace>
+		<!-- Citizen Names -->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_1">
+			<Text>Aeropus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_2">
+			<Text>Agathocles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_3">
+			<Text>Alcetas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_4">
+			<Text>Balacrus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_5">
+			<Text>Caranus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_6">
+			<Text>Crateuas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_7">
+			<Text>Koinos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_8">
+			<Text>Lysimachus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_9">
+			<Text>Orested</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MALE_10">
+			<Text>Tryimmas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_1">
+			<Text>Adea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_2">
+			<Text>Arsinoe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_3">
+			<Text>Berenice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_4">
+			<Text>Cynane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_5">
+			<Text>Europa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_6">
+			<Text>Gygaea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_7">
+			<Text>Nicaea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_8">
+			<Text>Philinna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_9">
+			<Text>Phthia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_FEMALE_10">
+			<Text>Stratonice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_1">
+			<Text>Argyris</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_2">
+			<Text>Eleftherios</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_3">
+			<Text>Haris</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_4">
+			<Text>Ioannis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_5">
+			<Text>Omiros</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_6">
+			<Text>Prokopis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_7">
+			<Text>Stephanos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_8">
+			<Text>Thanasis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_9">
+			<Text>Tryfon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_10">
+			<Text>Zinon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_1">
+			<Text>Chrysanthi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_2">
+			<Text>Dimitra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_3">
+			<Text>Evdokia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_4">
+			<Text>Kyveli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_5">
+			<Text>Melpomeni</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_6">
+			<Text>Nefeli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_7">
+			<Text>Paraskevi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_8">
+			<Text>Polyxeni</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_9">
+			<Text>Theofania</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_10">
+			<Text>Zinovia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_1">
+			<Text>Ariomardus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_2">
+			<Text>Arsames</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_3">
+			<Text>Arsites</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_4">
+			<Text>Bardiya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_5">
+			<Text>Cambyses</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_6">
+			<Text>Gaumata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_7">
+			<Text>Hydarnes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_8">
+			<Text>Otanes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_9">
+			<Text>Oxyathres</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MALE_10">
+			<Text>Sogdianus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_1">
+			<Text>Artistun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_2">
+			<Text>Cassandane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_3">
+			<Text>Drypetis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_4">
+			<Text>Parmida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_5">
+			<Text>Parysatis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_6">
+			<Text>Phaedymia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_7">
+			<Text>Roxana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_8">
+			<Text>Sisygambis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_9">
+			<Text>Stateira</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_FEMALE_10">
+			<Text>Amytis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_1">
+			<Text>Arash</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_2">
+			<Text>Dariush</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_3">
+			<Text>Firdaus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_4">
+			<Text>Jalal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_5">
+			<Text>Kianoush</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_6">
+			<Text>Rostam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_7">
+			<Text>Saam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_8">
+			<Text>Soheil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_9">
+			<Text>Vahid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_10">
+			<Text>Zubin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_1">
+			<Text>Banu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_2">
+			<Text>Darya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_3">
+			<Text>Firuzeh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_4">
+			<Text>Golnar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_5">
+			<Text>Laleh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_6">
+			<Text>Niusha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_7">
+			<Text>Roghayeh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_8">
+			<Text>Simin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_9">
+			<Text>Yasamin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_10">
+			<Text>Zareen</Text>
+		</Replace>
+		<!-- Wonders-->
+		<Replace Language='en_US' Tag="LOC_BUILDING_APADANA_NAME">
+			<Text>Apadana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_APADANA_DESCRIPTION">
+			<Text>+2 [ICON_ENVOY] Phái đoàn khi xây dựng một kỳ quan, bao gồm Apadana, trong thành phố này.[NEWLINE][NEWLINE]Phải được xây dựng gần kề [ICON_CAPITAL] Thủ đô của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_HALICARNASSUS_MAUSOLEUM_NAME">
+			<Text>Lăng mộ tại Halicarnassus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_HALICARNASSUS_MAUSOLEUM_DESCRIPTION">
+			<Text>Cấp miễn phí một [ICON_GREATADMIRAL] Đại Đô Đốc khi kỳ quan được xây dựng.[NEWLINE][NEWLINE]Tất cả [ICON_GREATADMIRAL] Đại Đô Đốc có thể sử dụng thêm một lần nghỉ hưu và [ICON_GREATENGINEER] Kỹ sư vĩ đại có thêm một lần sử dụng. Phải được xây dựng liền kề với một Khu Cảng biển.</Text>
+		</Replace>
+		<!-- Diplo Text-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_AT_WAR">
+			<Text>Alexander rất vui khi thấy nền văn minh của bạn đang chiến tranh với người khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_NOT_AT_WAR">
+			<Text>Alexander không vui khi thấy nền văn minh của bạn đang ở trong trạng thái hoà bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BACKSTABBER_USED_SURPRISE_WAR">
+			<Text>Cyrus vui mừng khi thấy tuyên bố Chiến tranh Bất ngờ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BACKSTABBER_NOT_AT_WAR">
+			<Text>Cyrus không hài lòng vì sự thất bại của bạn khi tuyên bố Chiến tranh Bất ngờ.</Text>
+		</Replace>
+		<!-- Dialog Text Alexander -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Người dân Macedonia hoan nghênh tình hữu nghị lâu dài này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Còn quá sớm để nói nếu tình hữu nghị của chúng ta có ý nghĩa. Chỉ có các vị thần mới biết chắc chắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Ta xem ngài là người chân thật, ta hy vọng rằng ta sẽ nhận được sự tin tưởng từ phía ngài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Người dân Macedonia hoan nghênh tình hữu nghị lâu dài này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Còn quá sớm để nói nếu tình hữu nghị của chúng ta có ý nghĩa. Chỉ có các vị thần mới biết chắc chắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Hoà bình chẳng bao giờ gây cho ta nhiều điều quan tâm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Quân đội Hy Lạp đang dang rộng tay chờ ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Ta đánh giá cao những lời mời chào. Hãy yên tâm, phái đoàn của ngài sẽ tận hưởng tất cả những gì đang có trong Macedon khi ở vương quốc của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Ta sẽ không bao giờ chấp nhận điều đó!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Ta đã gửi một phái đoàn thương mại mang những món quà là rượu và dầu ô-liu thượng hạng của Macedon. Ta tin ngài sẽ chào đón các phái viên của ta thật nồng nhiệt?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Những lời phỉ báng của ngài càng làm ta thỏa mãn khi ta đứng trước những tàn tích trong thủ đô của ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Ta đã đối xử với những kẻ phản bội và những kẻ đào ngũ giống như những người xứng đáng được tôn trọng hơn ngài! (Lăng mạ bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_ALEXANDER_ANY">
+			<Text>Xin chào Ta là Alexander của Macedonia, là Vua và Pharaoh, vị Tướng bất khả chiến bại của Hy Lạp! Chắc chắn ngài đã nghe nói về ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ALEXANDER_ANY">
+			<Text>Hãy đến và ghé thăm các thành phố gần nhất của ta, đi bộ giữa Agorai nhộn nhịp của Macedon và nhìn xem nền thương mại thịnh vượng của ta như thế nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ALEXANDER_ANY">
+			<Text>Hãy để điều đó được thực hiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ALEXANDER_ANY">
+			<Text>Ngài đã nghe nói về khả năng phòng vệ đặt biệt của Pella ? Có lẽ chúng ta nên chia sẻ những câu chuyện về những thủ đô vĩ đại của chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_ALEXANDER_ANY">
+			<Text>Chào mừng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ALEXANDER_ANY">
+			<Text>Ta hy vọng chúng ta không gặp mặt nhau trên chiến trường, sẽ thật xấu hổ khi để mất một đối thủ xứng đáng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ALEXANDER_ANY">
+			<Text>Làm thế nào để phát triển đế chế của ngài nếu như ngài từ chối chiến đấu cho thần dân của mình?!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Là đồng minh, ta có thể hỗ trợ các cuộc chinh phạt của nhau. Ta thậm chí sẽ không nhận đồ cống nạp từ ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ALEXANDER_ANY">
+			<Text>Ta tin rằng quân đội của ta có thể chiếm đóng bất kỳ nơi nào, ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ALEXANDER_ANY">
+			<Text>Đừng lãng phí thời gian của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Ta tin rằng đã đến lúc hòa bình. Ngài nói gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Ta tin rằng ngài sẽ tôn trọng đặc quyền vượt qua vùng đất của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Điều này gây nguy hiểm cho quân đội của ngài khi vượt qua những vùng đất gần nơi các lực lượng của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Ngài có cho phép ta di chuyển ra ngoài lãnh thổ của ngài? Ta đang đi tìm Đại Hải Trình!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ALEXANDER_ANY">
+			<Text>Các trinh sát của ta cho biết ngài có lực lượng vũ trang gần biên giới của ta. Hãy cẩn thận, quân đội của ta rất dễ bị lôi cuốn vào trận chiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_ALEXANDER_ANY">
+			<Text>Quân đội của ta sẽ di chuyển tự do và không có bất kỳ sự can thiệp nào từ ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_ALEXANDER_ANY">
+			<Text>Có một số sai lầm, không có nghĩa là ngài phải gánh chịu khi gây ra cơn phẫn nộ đến quân đội của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Ngay khi bắt đầu, cuộc hành quân dài ngày của ta cuối cùng đã kết thúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Không có khả năng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Đã đồng ý!</Text>
+		</Replace>
+		<!-- Dialog Text Cyrus -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Ta luôn sẵn lòng tiến đến tình hữu nghị thân thiết. Ở nơi đâu mà không có bạn bè của ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Ba Tư luôn tìm kiếm tình hữu nghị đáng tin cậy. Khi ta có thể chắc chắn ngài, ta sẽ liên lạc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Ngài là một trong số người đáng tin cậy. Ta hy vọng ngài sẽ thấy ta đứng về phía chính nghĩa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Sau đó nó được quyết định.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Thật không may.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Ngài không nghe những câu chuyện được kể? Sức mạnh của quân đội ta? Xem lại chính mình đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Đã tới lúc ta cho mọi người biết cách nào để phụng sự cho một người cai trị đầy quyền lực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Ta đã đích thân đón chào phái viên của ngài đến vương quốc Ba Tư. Ta có thể hy vọng các cuộc đàm phán sẽ hiệu quả và đem lại lợi ích tốt nhất cho đôi bên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Ta từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Ta đã gửi một phái viên thương mại đến vương quốc của ngài cùng quà tặng là pha lê và đồ gốm từ những thợ thủ công giỏi nhất của ta. Ta chắc chắn ngài sẽ đối xử với phái viên của ta với sự tôn trọng mà ngài đã cho ta thấy?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Một tuyên bố duy nhất chỉ sự kính sợ và ngu dốt mới có thể chống lại sự cai trị nhân từ của Ba Tư.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Ta tố cáo tất cả mọi điều ngươi khởi xướng! Ba Tư tìm cách để tránh xa khỏi ngươi và đường lối của ngươi. (Lăng mạ bạn).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_CYRUS_ANY">
+			<Text>Ngài đứng trước Cyrus vĩ đại của Ba Tư. Chắc chắn chúng ta sẽ nhanh chóng trở thành bạn bè, tối thiểu là trong thời điểm này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CYRUS_ANY">
+			<Text>Bạn của ta, ngài nên ghé thăm thành phố lân cận của ta, đắm mình trong sự tráng lệ của nghệ thuật và kiến trúc vĩ đại của Ba Tư.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CYRUS_ANY">
+			<Text>Một đề nghị hợp lý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CYRUS_ANY">
+			<Text>Ta đã nghe những điều hấp dẫn về thủ đô của ngài. Có lẽ một sự trao đổi văn hoá sẽ đem lại lợi ích cho cả đôi bên?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_CYRUS_ANY">
+			<Text>Ngài mang lại điều gì trước mặt ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CYRUS_ANY">
+			<Text>Hiểu ra tất cả là điều tốt, có một vài cơ hội không thể vượt lên một cách đơn giản.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CYRUS_ANY">
+			<Text>Nếu có sự dối trá đang diễn ra, ta thích điều đó khi ta là người duy nhất đưa ra một âm mưu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Một liên minh của lợi ích, không gì hơn nữa. Nhưng dù sao chỉ là một liên minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CYRUS_ANY">
+			<Text>Vâng. Thật xuất sắc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CYRUS_ANY">
+			<Text>Ngài có lấy bọn ta ra làm trò cười không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Hãy để chúng ta tiến đến hòa bình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Chúng ta hãy hy vọng điều này báo hiệu sự khởi đầu của sự hiểu biết sâu sắc hơn giữa các đế chế của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Bây giờ không phải lúc để vương quốc của ta mở cửa cho người ngoài. Có lẽ chúng ta nên xem xét vấn đề này trong tương lai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Việc mở cửa biên giới chắc chắn sẽ củng cố quan hệ giữa hai quốc gia. Ngài nói gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CYRUS_ANY">
+			<Text>Ta chỉ có thể cho rằng việc phô diễn sức mạnh này là một điều sai lầm. Ta có nên mong đợi một sự rút lui thận trọng từ biên giới của chúng ta ngay tức khắc?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_CYRUS_ANY">
+			<Text>Nếu ngài đang có ý định về chiến tranh, thì quân đội của Ba Tư sẽ vây quanh ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_CYRUS_ANY">
+			<Text>Không phải là bất kính. Lực lượng của ta sẽ từ bỏ vị trí của họ ngay tức thì.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Vì vậy hiếm khi ta nhìn thấy mặt khác của chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Ngài cho rằng chiếm được lợi thế của ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Một đề nghị hợp lý.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

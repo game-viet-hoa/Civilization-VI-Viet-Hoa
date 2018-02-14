@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_RULESET_TITLE">
+			<Text>Kỵ binh và Pháo binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_RULESET_TEASER">
+			<Text>Bạn hãy chiếm đoạt lãnh thổ của kẻ thù trong kịch bản chơi tập trung-chiến đấu này ở thời đại Công nghiệp. Trong vòng 50 lượt. Điều kiện chiến thắng[NEWLINE][ICON_Bullet]Chứng minh bạn là chiến lược gia vĩ đại nhất của thời đại Công Nghiệp bằng cách sở hữu nhiều lãnh thổ nhất ở số lượt bị giới hạn.[NEWLINE]Thay đổi lối chơi[NEWLINE][ICON_Bullet]Giảm chi phí duy trì đơn vị.[NEWLINE][ICON_Bullet]Các đơn vị không cần tài nguyên chiến thuật để đào tạo.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_VICTORY_TITLE">
+			<Text>Không được bại trận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_VICTORY_TITLE_ALT">
+			<Text>Vì quặng sắt, đất đai, và vinh quang!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_VICTORY_DESC">
+			<Text>Chứng minh bạn là chiến lược gia vĩ đại nhất của thời đại Công Nghiệp bằng cách sở hữu nhiều lãnh thổ nhất ở số lượt bị giới hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
+			<Text>"Chiến trường là một cảnh tượng hỗn loạn liên hồi. Người chiến thắng là người kiểm soát sự hỗn loạn đó, bao gồm chính mình và kẻ thù." —Napoleon Bonaparte</Text>
+		</Replace>
+
+		<!-- Mod Package Text -->
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_MOD_TITLE">
+			<Text>Kịch bản chơi nhiều người: Kỵ binh và Pháo binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_MOD_TEASER">
+			<Text>Bạn hãy chiếm đoạt lãnh thổ của kẻ thù trong kịch bản chơi tập trung-chiến đấu này ở thời đại Công nghiệp. Trong vòng 50 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_MOD_DESCRIPTION">
+			<Text>Điều kiện chiến thắng[NEWLINE]Chứng minh bạn là chiến lược gia vĩ đại nhất của thời đại Công Nghiệp bằng cách sở hữu nhiều lãnh thổ nhất ở số lượt bị giới hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VICTORY_NAPOLEON_PROGRESS">
+			<Text>Kích thước lãnh thổ {TerritorySize} {TerritorySizeIcon}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
+			<Text>Giới hạn số lượt {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
+		</Replace>
+		
+		<!-- End Game Leader Ranking -->
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
+			<Text>"Chiến thắng chỉ thuộc về người kiên trì nhất." —Napoleon Bonaparte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Hoàng Đế Napoleon I</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Tổng Lãnh Bonaparte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Tổng Nội Napoleon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Chuẩn Tướng Bonaparte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Trung Uý Napoleon Bonaparte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Napoleone di Buonaparte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT">
+			<Text>Sovereign của Đế chế Sắt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT">
+			<Text>Đại Đô Đốc Hạm đội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT">
+			<Text>Chuẩn Tướng quân đội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT">
+			<Text>Đại Uý Kỵ binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT">
+			<Text>Đại Uý Pháo binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
+			<Text>Trung Uý Martinet</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

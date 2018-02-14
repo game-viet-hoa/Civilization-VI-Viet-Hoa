@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+			<Text>NGHIÊN CỨU HOÀN THÀNH</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+			<Text>Chúc mừng! Bạn đã nghiên cứu {1_TechnologyName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+			<Text>HÀNH CHÍNH MỞ KHÓA</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
+			<Text>Với sự giúp đỡ của mọi người, {1_CivicName} cung cấp chính phủ và chính sách cho lượt này.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

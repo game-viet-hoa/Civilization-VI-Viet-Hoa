@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_DISCUSS">
+      <Text>Thảo luận</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_CASUS_BELLI">
+      <Text>Biện minh chiến tranh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
+      <Text>Biện minh chiến tranh với các lý do để giảm hình phạt gây chiến đi so với chiếm đóng hay san bằng.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_TITLE">
+			<Text>BÁO CÁO</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON">
+			<Text>Tin tức:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOSSIP_NAME">
+			<Text>TIN TỨC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON">
+			<Text>Mức độ truy cập:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL">
+			<Text>Mức độ truy cập:</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_HEADER">
+			<Text>MỨC ĐỘ TRUY CẬP</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP">
+			<Text>Mối quan hệ của ta:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_HEADER">
+			<Text>MỐI QUAN HỆ CỦA TA</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_TO_RAISE_RELATIONSHIP">
+			<Text>Để [COLOR_Civ6Green]nâng cao[ENDCOLOR] mối quan hệ:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
+			<Text>Để [COLOR_Civ6Red]hạ thấp[ENDCOLOR] mối quan hệ:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+			<Text>Hiệp định:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
+			<Text>Chương trình nghị sự:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
+			<Text>Chính phủ:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
+			<Text>Mối quan hệ:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP">
+			<Text>Mối quan hệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_REASONS">
+			<Text>LÝ DO CHO MỐI QUAN HỆ HIỆN TẠI</Text>
+		</Replace>			
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_NOTHING_ABJECT">
+			<Text>Không có thứ gì ảnh hưởng tới mối quan hệ của bạn trong thời gian này.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_INFORMATION_SHARED_HEADER">
+			<Text>Thông tin chia sẻ:</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_NEXT_ACCESS_LEVEL_HEADER">
+			<Text>Mức độ truy cập tiếp theo:</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GAIN_ACCESS_LEVEL_HEADER">
+      <Text>Để [COLOR_Civ6Green]tăng[ENDCOLOR] mức độ truy cập bạn cần:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_LAST_TEN_TURNS">
+      <Text>10 LƯỢT CUỐI</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OLDER">
+      <Text>CŨ HƠN</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
+      <Text>không</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
+      <Text>+{1_Value} tin mới</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
+      <Text>Không có</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NO_RECENT">
+      <Text>[COLOR_Grey]Không có báo cáo nào trong 10 lượt cuối.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_HISTORICAL_AGENDA">
+      <Text>Chương trình nghị sự lịch sử</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_RANDOM_AGENDA">
+      <Text>Chương trình nghị sự ngẫu nhiên</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
+      <Text>Chương trình nghị sự ngẫu nhiên bị ẩn. Thuộc mức độ truy cập BÍ MẬT để có thể tiết lộ.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
+      <Text>Không có Chương trình nghị sự lịch sử</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RANDOM_AGENDA_NONE">
+      <Text>Không có chương trình nghị sự ngẫu nhiên</Text>
+    </Replace>
+	<!-- Used in titles -->
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_OF">
+      <Text>CỦA</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
+      <Text>Cung cấp thương mại thuận lợi.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE">
+      <Text>Lăng mạ một nền văn mình mà {1_Civ} đã lăng mạ.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_TRADE_ROUTE">
+      <Text>Tạo một [ICON_TradeRoute] Tuyến đường thương mại với {1_Civ}.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
+      <Text>Đồng ý tự do đi lại cho {1_Civ}.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
+      <Text>Gửi phái đoàn hoặc đại sứ quán.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_POSITIVE_AGENDA">
+      <Text>Đáp ứng một trong những chương trình nghị sự của họ.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
+      <Text>Chống lại một trong những chương trình nghị sự của họ.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
+      <Text>Lăng mạ một người bạn của {1_Civ}.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
+      <Text>Tuyên bố tình hữu nghị với kẻ địch của {1_Civ}.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
+      <Text>Tạo thỏa thuận công bằng.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE_TOOLTIP">
+      <Text>Mặc cả với nhà lãnh đạo để có thỏa thuận tốt hơn.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_MY_OFFER">
+      <Text>CỦA TÔI:</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_THEIR_OFFER">
+      <Text>CỦA HỌ:</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_WHAT_IT_WILL_TAKE_TOOLTIP">
+      <Text>Hỏi nhà lãnh đạo muốn gì để có được điều đó từ họ.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
+      <Text>Xem tất cả tin tức kiếm được cũng như kết quả của mức độ truy cập của bạn.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
+      <Text>Tổng quan</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
+      <Text>Các thông tin quan trọng được phân làm nhiều mức độ. Cần phải có khả năng truy cập để có thể lấy được tin tức.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
+      <Text>Xem chi tiết mối quan hệ với lãnh đạo này, bao gồm những lý do không được tiết lộ nếu có mức độ truy cập thông tin đó.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ADGENDAS_TOOLTIP">
+      <Text>Chương trình nghị sự là động lực quan trọng để tạo mối quan hệ với người lãnh đạo khác. Nhà lãnh đạo có một chương trình nghị sự lịch sử và chương trình nghị sự bí mật. Biết được nó để làm hài lòng hoặc phản đối họ.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
+      <Text>Chính phủ hiện hành của nền văn minh này.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
+      <Text>Tin tức</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
+      <Text>Mức độ truy cập</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_GOVERNMENT">
+      <Text>Chính phủ</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_AGENDAS">
+      <Text>Chương trình nghị sự</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_AGREEMENTS">
+      <Text>Hiệp định</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_OUR_RELATIONSHIP">
+      <Text>Mối quan hệ của ta</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_OTHER_RELATIONSHIPS">
+      <Text>Mối quan hệ</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_REPORT_OVERVIEW">
+      <Text>Báo cáo : Tổng quan</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_REPORT_GOSSIP">
+      <Text>Báo cáo : Tin tức</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_REPORT_ACCESS_LEVEL">
+      <Text>Báo cáo : Mức độ truy cập</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
+      <Text>Báo cáo : Mối quan hệ</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

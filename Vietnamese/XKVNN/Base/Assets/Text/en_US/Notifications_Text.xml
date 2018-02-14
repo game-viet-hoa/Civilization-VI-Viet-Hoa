@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Turn-Blocking Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
+			<Text>Chọn Cổ vật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
+			<Text>Khai quật thấy một Di tích cổ. Bây giờ chọn một Cổ vật để đưa vào bảo tàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
+			<Text>Chọn công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
+			<Text>Chọn công nghệ để bắt đầu nghiên cứu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
+			<Text>Chọn sản xuất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
+			<Text>Sản xuất đã hoàn thành. Hãy chọn mục tiêu tiếp theo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
+			<Text>Chọn Hành chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
+			<Text>Chọn Hành chính để mở khóa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
+			<Text>Ra lệnh đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
+			<Text>Di chuyển hay làm gì đó đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
+			<Text>Thánh phố tấn công tầm xa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
+			<Text>Thành phố của bạn có thể thực hiện tấn công tầm xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
+			<Text>Xem xét thay đổi chính phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
+			<Text>Đã hoàn tất mở khóa chính phủ mới. Cần phải xem xét thay đổi chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
+			<Text>San phẳng hoặc giữ thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
+			<Text>Đã chinh phục được một thành phố. Quyết định xem để giải phóng, san phẳng hay giữ lại thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
+			<Text>Lấp đầy ô chính sách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
+			<Text>Chính sách cần được thêm vào chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
+			<Text>Chọn vị thần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
+			<Text>Chọn tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
+			<Text>Chọn tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
+			<Text>Chiêu mộ Vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
+			<Text>Gửi phái đoàn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
+			<Text>Kiếm được một [ICON_Envoy] Phái đoàn, có thể gửi họ sang một thành phố tự trị.</Text>
+		</Replace>
+		<!-- Unit Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_DIED">
+			<Text>Đơn vị đã chết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
+			<Text>Đơn vị đã giải tán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
+			<Text>Lượng [ICON_Gold] Vàng thấp. {1_UnitName} đã giải tán.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Đơn vị sẵn sàng nhận Huân Chương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>{1_UnitName} sẵn sàng nhận Huân Chương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
+			<Text>Thua cuộc!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
+			<Text>{1_leader} đã thua cuộc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
+			<Text>{1_leader} đã bị đánh bại bởi {2_leader}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
+			<Text>Thua cuộc!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
+			<Text>Một người chơi không rõ đã thua cuộc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
+			<Text>Bạn mất {1_UnitName} do địch chiếm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
+			<Text>Kẻ địch đã ép buộc {1_UnitName} của bạn phải rút lui.</Text>
+		</Replace>
+		<!-- Diplomacy Notifications-->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
+			<Text>Tuyên bố chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
+			<Text>{1_leader} đã tuyên bố chiến tranh với {2_leader}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
+			<Text>Thương lượng hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
+			<Text>{1_leader} đã làm hòa với {2_leader}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
+			<Text>Gặp nền văn minh mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
+			<Text>Thấy một thành phố tự trị mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
+			<Text>Bạn gặp {1_leader} của thành phố {2_CivDesc}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
+			<Text>{1_leader} cấm tự do đi lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
+			<Text>{1_leader} đã thực thi lệnh. Đơn vị của bạn bên trong đế chế họ bị đẩy ra ngoài biên giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
+			<Text>Hết hạn Tình hữu nghị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
+			<Text>Tình hữu nghị với {1_leader} đã chấm dứt, nó cần phải gia hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>Hết hạn đồng minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>Đồng minh với {1_leader} đã chấm dứt, nó cần phải gia hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
+			<Text>Có được biện minh chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
+			<Text>Bạn có được biện minh chiến tranh {1_WarType} với {2_leader}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
+			<Text>Chiến tranh thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
+			<Text>Thánh chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
+			<Text>Chiến tranh giải phóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
+			<Text>Chiến tranh bảo kê</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
+			<Text>Chiến tranh chống xâm lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
+			<Text>Chiến tranh mở rộng lãnh thổ</Text>
+		</Replace>
+		<!-- Espionage Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
+			<Text>Chọn đường thoát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
+			<Text>Chọn ưu tiên truy đuổi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>{1_unitName} của bạn trong thành phố {2_CityName} đã đánh cắp thành công thành tựu vĩ đại "{3_Work}".</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Đánh cắp thành tựu vĩ đại thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Gián điệp địch trong {1_CityName} đã đánh cắp thành công thành tựu vĩ đại "{2_Work}".</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Đánh cắp thành tựu vĩ đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>{1_unitName} của bạn phá hoại thành công khu công nghiệp trong thành phố {2_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Phá hoại thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Gián điệp địch phá hoại thành công khu công nghiệp trong thành phố {1_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Địch phá hoại thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
+			<Text>{1_unitName} của bạn đánh cắp thành công {2_Amount} [ICON_Gold] Vàng từ thành phố {3_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Đánh cắp thành công vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Gián điệp địch đánh cắp thành công {1_Amount} [ICON_Gold] Vàng từ thành phố {2_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Địch đánh cắp thành công vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn trong {2_CityName} đánh cắp thành công thúc đẩy công nghệ {3_Tech}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Đánh cắp thành công thúc đẩy công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Gián điệp địch trong {1_CityName} đánh cắp thành công thúc đẩy công nghệ {2_Tech}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Địch đánh cắp thúc đẩy công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn trong {2_CityName} đào tạo thành công lính du kích muốn đe dọa thành phố của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Đào tạo thành công lính du kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Gián điệp địch trong {1_CityName} đào tạo thành công lính du kích muốn đe dọa thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Địch đào tạo thành công lính du kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>{1_unitName} của bạn cướp phá thành công Trạm không gian trong thành phố {2_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Gây rối tên lửa thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Gián điệp địch cướp phá thành công Trạm không gian trong thành phố {1_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Địch gây rối tên lửa thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn đã có sự hiểu biết từ các hoạt dộng trong {2_CityName}. Các gián điệp trong thành phố này sẽ hoạt động cao hơn {3_Levels} level cho {4_Turns} lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
+			<Text>Tăng Hiểu Biết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn hoàn tất Nội Gián trong {2_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
+			<Text>Nội Gián hoàn tất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn đã chạy khỏi thành phố {2_CityName} kể từ khi đế chế có thế lực mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
+			<Text>Gián điệp chạy khỏi thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn thất bại ở nhiệm vụ {2_mission} trong thành phố {3_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
+			<Text>Gián điệp thất bại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
+			<Text>{1_unitName} của bạn đã bị bắt ở nhiệm vụ {2_mission} trong thành phố {3_cityName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
+			<Text>Gián điệp bị bắt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
+			<Text>Một gián điệp {1_civName} đã bị bắt ở nhiệm vụ {2_mission} trong thành phố {3_cityName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
+			<Text>Gián điệp địch bị bắt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn bị giết ở nhiệm vụ {2_mission} trong thành phố {3_cityName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
+			<Text>Gián điệp bị giết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
+			<Text>Một gián điệp {1_civName} đã bị giết ở nhiệm vụ {2_mission} trong thành phố {3_cityName}. {4_CounterspyAssist}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
+			<Text>Gián điệp địch bị giết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
+			<Text>Đặc vụ {1_unitName} của bạn hủy bỏ nhiệm vụ {2_mission} trong thành phố {3_cityName}. Mục tiêu nhiệm vụ không còn hợp lệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
+			<Text>Gián điệp hủy bỏ nhiệm vụ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
+			<Text>Có vai trò trong việc chặn kẻ địch ở nhiệm vụ {1_mission} trong thành phố {2_cityName}, gián điệp {3_unitName} được thăng cấp!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
+			<Text>Phản gián tăng cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
+			<Text>Phản gián điệp {1_unitName} của bạn là công cụ chiến thắng cho lực lượng an ninh của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Gián điẹp {1_unitName} của bạn đã trốn thoát và sẽ trở lại [ICON_Capital] Thủ Đô sau {2_turns} lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Gián điệt trốn thoát</Text>
+		</Replace>
+		<!-- City-State Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
+			<Text>Thành phố mới yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
+			<Text>{1_CityStateName} cho bạn yêu cầu mới: {2_QuestName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
+			<Text>Nhiệm vụ thành phố tự trị hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
+			<Text>Bạn đã hành thành nhiệm vụ của thành phố tự trị {1_CityStateName} và nhận thưởng: {2_RewardText}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
+			<Text>Thưởng việc gặp thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
+			<Text>Tìm thấy nền văn minh lớn đầu tiên, {1_CityStateName}, bạn có được {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?Phái viên; other?Phái viên;}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
+			<Text>Thành phố tự trị của bạn dổi chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
+			<Text>Sau khi thay đổi [ICON_Envoy] Phái đoàn, bạn không còn là chủ của {1_CityStateName}.</Text>
+		</Replace>
+		<!-- Trade Route Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
+			<Text>Tuyến đường thương mại đã bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
+			<Text>{1_PlayerName} đã cướp từ Thương Gia của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
+			<Text>{1_PlayerName} đã cướp từ Thương Gia của bạn. [ICON_TradeRoute] Tuyến đường thương mại từ {2_OriginCityName} tới {3_DestinationCityName} không còn hoạt động.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
+			<Text>Tạo ra tuyến đường thương mại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
+			<Text>Hoàn thành tạo một [ICON_TradeRoute] Tuyến đường thương mại có [ICON_TradingPost] Điểm thương mại trong thành phố {1_CityName} của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
+			<Text>Tăng số lượng tuyến đường thương mại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
+			<Text>Bạn đã có thể tạo và duy trì thêm [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+		</Replace>
+		<!-- Economic Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
+			<Text>Cuộc bạo động!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
+			<Text>Thiếu [ICON_Amenities] Tiện nghi trong {1_CityName} đã làm người dân chống lại chúng ta, tạo {2_NumUnits} đơn vị chống đối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
+			<Text>Cần thêm Tiện Nghi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
+			<Text>{1_CityName} cần thêm [ICON_Amenities] Tiện nghi để tiếp tục phát triển. Nếu trở nên tồi tệ, mọi người sẽ nổi loạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
+			<Text>Cần thêm Nhà Ở</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
+			<Text>{1_CityName} cần thêm [ICON_Housing] Nhà Ở để tiếp tục phát triển. Nếu cứ như thế này, chúng ta khó mà gia tăng được [ICON_Citizen] Dân Số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
+			<Text>Thành phố đói!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_STARVING_SUMMARY">
+			<Text>{1_CityName} không cung cấp đủ [ICON_Food] Thực phẩm cho dân ăn uống. Nếu tiếp tục, sẽ mất [ICON_Citizen] Dân Cư!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_MESSAGE">
+			<Text>Thành phố cần thức phẩm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
+			<Text>{1_CityName} không cung cấp đủ [ICON_Food] Thực phẩm cho con người để phát triển. Nên chú trọng [ICON_Food] Thực Phẩm cho thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
+			<Text>Kho bạc phá sản!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
+			<Text>Không còn [ICON_Gold] Vàng, và chi phí của chúng ta cao hơn thu nhập. Nếu tiếp tục, thành phố sẽ mất [ICON_Amenities] Tiện Nghi và các đơn vị sẽ rời bỏ chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Có thể mua với Đức Tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>Bạn đã tích lũy đủ [ICON_Faith] Đức Tin để mua {1_ItemName}.</Text>
+		</Replace>
+		<!-- Multiplayer Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
+			<Text>{1_playerName} đang vào</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
+			<Text>{1_playerName} đang vào game. Quá trình này có thể mất ít phút.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
+			<Text>{1_playerName} đã tham gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
+			<Text>{1_playerName} đã hoàn tất tham gia vào game.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
+			<Text>{1_playerName} đã mất kết nối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
+			<Text>{1_playerName} đã mất kết nối khỏi game.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_KICKED">
+			<Text>{1_playerName} đã bị kick.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
+			<Text>{1_playerName} đã bị kick khỏi game.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
+			<Text>{1_playerName} đang tải Mod</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
+			<Text>{1_playerName} đang tải Mod yêu cầu để chơi ván game này. ({2 : number}/{3 : number})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFCATION_HOST_MIGRATION">
+			<Text>Chuyển chủ phòng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFCATION_HOST_MIGRATION_TT">
+			<Text>Game đang được chuyển sang chủ phòng mới. Game sẽ tiếp tục trở lại trong thời gian ngắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFCATION_HOST_CHANGED">
+			<Text>Đã chuyển chủ phòng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFCATION_HOST_CHANGED_TT">
+			<Text>{1_playerName} là chủ phòng mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
+			<Text>[color:Civ6Red]Sai giai đoạn[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
+			<Text>Các lượt đồng thời</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
+			<Text>Cuộc chiến của bạn với người chơi khác đã kết thúc. Lượt tiếp bạn sẽ phải chơi với tất cả nền văn minh không có-chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
+			<Text>Các lượt tuần tự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
+			<Text>Bạn đang chiến tranh với người chơi khác. Lượt tiếp bạn sẽ phải chơi liên tiếp với tất cả nền văn minh đang có chiến tranh cho đến khi mọi xung đột kết thúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
+			<Text>{1_playerName} hủy đồng bộ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
+			<Text>Game của {1_playerName} đã bị lạc trôi ra khỏi chủ phòng. Chúng đang tải lại để khắc phục sự cố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
+			<Text>{1_playerName} tái đồng bộ hoàn tất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
+			<Text>{1_playerName} đã hoàn tất tải.</Text>
+		</Replace>
+		<!-- Multiplayer deferred popup notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
+			<Text>Thúc đẩy công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
+			<Text>Đạt được thúc đẩy công nghệ: {1_Name} +{2_Boost}%</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
+			<Text>Thúc đẩy hành chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
+			<Text>Đạt được thúc đẩy hành chính: {1_Name} +{2_Boost}%</Text>
+		</Replace>
+		<!-- Great Work Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
+			<Text>Tạo Di Tích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
+			<Text>[ICON_GreatWork_Relic] Di Tích Linh Thiêng {1_RelicName} đã được đặt ở {2_BuildingName} trong thành phố {3_CityName}.</Text>
+		</Replace>
+		<!-- Discovery Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
+			<Text>Tìm thấy lục địa mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
+			<Text>Tìm thấy lục địa mới. Chúng tôi gọi nó là {1_ContinentName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Đã khám phá ra Làng Thổ Dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Tìm thấy một ngôi làng thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
+			<Text>Tìm thấy kỳ quan thiên nhiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
+			<Text>Đã tìm thấy kỳ quan thiên nhiên {1_NaturalWonderName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
+			<Text>Tìm thấy tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
+			<Text>Đã tìm thấy tài nguyên mới {1_ResourceName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
+			<Text>Quan man di tiếp cận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
+			<Text>Phát hiện quân man di đang tiếp cận thành phố {1_CityName}.</Text>
+		</Replace>
+		<!-- Victory Notifications -->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
+			<Text>Bạn Chiếm Ưu Thế Văn Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
+			<Text>Thu hút đủ [ICON_Tourism] Du Lịch để thống trị Văn Minh hơn {1_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
+			<Text>Nước Ngoài Chiếm Ưu Thế Văn Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
+			<Text>{1_CivName} đã thu hút đủ [ICON_Tourism] Du Lịch để thống trị Văn Minh hơn bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Sắp Chiến Thắng Văn Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>Văn Minh của bạn nổi trội hơn tất cả, nhưng còn dưới một nền văn minh khác. Một Chiến Thắng Văn Minh đang tới gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Nước Ngoài Sắp Chiến Thắng Văn Minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>{1_CivName} chỉ cần văn hóa nổi trội hơn những người khác thì sẽ đạt được Chiến Thắng Văn Minh.</Text>
+		</Replace>
+		<!--Future Notifications (not yet implemented)-->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
+			<Text>Biện Minh Chiến Tranh Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
+			<Text>Bây giờ chúng ta có thể tuyên bố {1_WarType} trên {2_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
+			<Text>Thành Phố Tấn Công Tầm Xa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_SUMMARY">
+			<Text>Thành phố {1_CityName} có thể tấn công kẻ địch từ xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_MESSAGE">
+			<Text>Khu Quân Sự Tấn Công Tầm Xa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_SUMMARY">
+			<Text>Khu quân sự bên ngoài thành phố {1_CityName} có thể tấn công kẻ địch từ xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
+			<Text>Thiết Bị Hạt Nhân Phát Nổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
+			<Text>Một thiết bị hạt nhân đã bị kích hoạt bởi {1_CivName} gần thành phố của {2_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
+			<Text>Thiết Bị Nhiệt Hạch Phát Nổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
+			<Text>Một thiết bị nhiệt hạch đã bị kích hoạt bởi {1_CivName} gần thành phố của {2_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
+			<Text>Có Thể Đào Tạo Gián Điệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
+			<Text>Bạn có thể đào tạo thêm một gián điệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
+			<Text>Đơn Vị Đã Bị Bắt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
+			<Text>{1_UnitType} của bạn đã bị bắt bởi {2_EnemyUnitType} từ {3_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
+			<Text>Đơn Vị Đã Bị Tấn Công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
+			<Text>{1_UnitType} của bạn đã bị tấn công bởi {2_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
+			<Text>Hoàn Thành Kỳ Quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
+			<Text>{1_CivName} đã hoàn hành xây dựng kỳ quan thế giới {2_WonderName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
+			<Text>Bạn đã hoàn thành xây dựng kỳ quan thế giới {1_WonderName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
+			<Text>Người chơi không rõ đã hoàn thành xây dựng kỳ quan thế giới {1_WonderName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
+			<Text>Thành Phố Đã Bị Chiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
+			<Text>Thành phố của {1_CityName} đã bị chiếm bởi {2_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
+			<Text>Tường Thành Đã Bị Phá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
+			<Text>Tường thành của thành phố {1_CityName} đã bị phá bở lực lượng từ {2_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
+			<Text>Thủ Đô Đã Bị Chiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
+			<Text>[ICON_Capital] Thủ Đô của {1_CivName} đã bị chiếm bởi {2_CivName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
+			<Text>Thủ Đô Đã Được Đòi Lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
+			<Text>{1_CivName} đã đòi lại được Thủ Đô của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
+			<Text>Kẻ Địch Trong Biên Giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
+			<Text>Kẻ địch bị phát hiện trong biên giới gần thành phố {1_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
+			<Text>Tìm Thấy Di Tích Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
+			<Text>Phát hiện ra một Di Tích Cổ. Gửi Nhà Khảo Cổ đến để khai quây Cổ Vật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
+			<Text>Tìm thấy Tàu Đắm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
+			<Text>Phát hiện ra Tàu đắm. Khi đã có Hành chính Di Sản Văn Hóa, hãy gửi Nhà Khảo Cổ đến để trục vớt tàu bị đắm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
+			<Text>Nhận Được Lời Đề Nghị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
+			<Text>{1_CivName} đã gửi lời đề nghị đến đề xuất thỏa thuận với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
+			<Text>Đề xuất thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
+			<Text>Nhận được đề xuất thỏa thuận từ {1_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
+			<Text>Lăng mạ đến bạn hết hạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
+			<Text>Lăng mạ đến bởi {1_CivName} đã hết hạn. Họ sẽ lăng mạ lại nếu họ muốn chính thức tuyên bố chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
+			<Text>Lăng mạ của bạn hết hạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
+			<Text>Lăng mạ của bạn cho {1_CivName} đã hết hạn và cần phải lăng mạ lại nếu bạn muốn chính thức tuyên bố chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
+			<Text>Hoàn thành lời hứa với bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
+			<Text>Lời hứa với bạn bởi {1_CivName}, {2_PromiseType} đã hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
+			<Text>Bạn hoàn thành lời hứa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
+			<Text>Bạn hứa với thành phố {1_CivName}, {2_PromiseType} đã hoàn thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
+			<Text>Thất hứa với bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>Lời hứa với bạn bởi {1_CivName}, {2_PromiseType} đã bị phá vỡ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
+			<Text>Bạn thất hứa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>Bạn hứa với {1_CivName}, {2_PromiseType} đã bị phá vỡ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
+			<Text>dừng khai quật cổ vật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
+			<Text>di chuyển quân tới biên giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
+			<Text>dừng cải giáo thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
+			<Text>dừng dân di cư lân cận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
+			<Text>dừng gián điệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
+			<Text>Thỏa thuận hết hạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
+			<Text>Thỏa thuận của bạn với {1_CivName} đã hết hạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
+			<Text>Đặc Khu bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
+			<Text>{1_DistrictName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
+			<Text>Công trình bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
+			<Text>{1_ImprovementName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
+			<Text>Kiến trúc bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
+			<Text>{1_BuildingName} của bạn trong {2_CityName} bị cướp bởi {3_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
+			<Text>Đường bị cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
+			<Text>Một ô {1_RoadName} gần {2_CityName} đã bị cướp bởi {3_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
+			<Text>Người chơi hồi sinh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
+			<Text>{1_civName} đã có được thành phố và đang sống trở lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
+			<Text>Người chơi bị loại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
+			<Text>{1_civName} đã bị loại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
+			<Text>Nâng cấp đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
+			<Text>{1_RoadName} đã mở khóa, nâng cấp tất cả đường trong biên giới của bạn ({2_MovementCost} [ICON_Movement] Di chuyển bất kể địa hình nào).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
+			<Text>Đơn vị tôn giáo đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
+			<Text>Do nhiệt tình thu hút người dân nên đã sáng lập ra tôn giáo mới, bạn nhận được {1_UnitName} đầu tiên miễn phí. Sử dụng [ICON_Faith] Đức Tin để mua thêm trong tương lai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
+			<Text>Gián điệp đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
+			<Text>Do phấn khích trên mạng lưới gián điệp mới của bạn, bạn nhận được {1_UnitName} đầu tiên miễn phí. Khi bạn mở khóa công trình nhiều hơn, đào tạo họ trong thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
+			<Text>Thành phố bị bao vây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
+			<Text>{1_CityName} đang bị vây hãm. Thành phố sẽ không tự chữa lành dến khi hết bao vây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
+			<Text>Mất Lãnh Thổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
+			<Text>Chúng ta đã mất lãnh thổ do Bon Văn Hóa của {1_CivName}.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

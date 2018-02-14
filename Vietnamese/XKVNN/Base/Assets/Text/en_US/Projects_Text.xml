@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Sửa các tường thành thiệt hại. Chỉ có thể làm khi thành phố không bị tấn công cách đấy 3 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp [ICON_Gold] Vàng mỗi lượt và điểm [ICON_GreatGeneral] Đại Tướng Quân mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp [ICON_Gold] Vàng mỗi lượt và điểm [ICON_GreatAdmiral] Đại Đô Đốc mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp [ICON_Gold] Vàng mỗi lượt và điểm [ICON_GreatEngineer] Kỹ sư vĩ đại mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp lượng lớn [ICON_Gold] Vàng mỗi lượt và điểm [ICON_GreatMerchant] Thương gia vĩ đại mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp [ICON_Faith] Đức Tin mỗi lượt và điểm [ICON_GreatProphet] Nhà tiên tri vĩ đại mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp [ICON_Science] Khoa học mỗi lượt và điểm [ICON_GreatScientist] Nhà khoa học vĩ đại mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Dự án Đặc Khu cung cấp [ICON_Culture] Văn minh mỗi lượt và chút điểm [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>Dự án đặc biệt của Brazilian cung cấp +1 [ICON_Amenities] Tiện nghi khi kích hoạt và điểm [ICON_GreatPerson] Vĩ nhân cho [ICON_GreatEngineer] Kỹ sư vĩ đại, [ICON_GreatMerchant] Thương gia vĩ đại, [ICON_GreatWriter] Nhà văn vĩ đại, [ICON_GreatArtist] Họa sĩ vĩ đại, và [ICON_GreatMusician] Nhạc sĩ vĩ đại mỗi khi hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Dự án chạy đua không gian để phóng vệ tinh vào quỹ đạo. Tiết lộ đại lý toàn bản đồ, và đánh dấu bước đi đầu tiên trong Chiến thắng khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Dự án chạy đua không gian để phóng tên lửa đáp xuống mặt trăng. Thưởng [ICON_Culture] Văn minh bằng 10 lần [ICON_Science] Khoa học/lượt của bạn, và là bước đi thứ hai trong Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Dự án chạy đua không gian để đưa lò phản ứng lên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Dự án chạy đua không gian để con người định cư trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Dự án chạy đua không gian để trồng thủy canh trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Cho phép tạo thiết bị hạt nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Cho phép tạo thiết bị nhiệt hạch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Thêm một thiết bị hạt nhân vào quốc gia. Yêu cầu [ICON_Resource_Uranium] Uranium. Phí duy trì 14 [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Thêm một thiết bị nhiệt hạch vào quốc gia. Yêu cầu [ICON_Resource_Uranium] Uranium. Phí duy trì 16 [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>Hoàn tất đưa vệ tinh vào quỹ đạo! Tiết lộ đại lý toàn bản đồ, và đánh dấu bước đi đầu tiên trong Chiến thắng khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>Hoàn tất đưa người đáp xuống mặt trăng. Thưởng [ICON_Culture] Văn minh bằng 10 lần [ICON_Science] Khoa học/lượt của bạn, và là bước đi thứ hai trong Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>Hoàn tất lò phản ứng của dự án sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>Hoàn tất dự án định cư trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>Hoàn tất thủy cảnh trên sao Hỏa. Khởi chạy cả 3 dự án sao Hỏa để đạt Chiến thắng Khoa học.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

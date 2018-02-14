@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <!-- Map Name -->
+    <Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_MAP_NAME">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION">
+      <Text>Vùng đất của người Viking.</Text>
+    </Replace>
+		<!--Game Speed-->
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME">
+			<Text>Valhalla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP">
+			<Text>Tốc độ chiến đấu không đổi.</Text>
+		</Replace>
+		<!-- Eras -->
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME">
+			<Text>Lindisfarne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION">
+			<Text>Bắt đầu Thời Đại Lindisfarne của người Viking.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME">
+			<Text>Rus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION">
+			<Text>Thời Đại Rus đỉnh cao của người Viking.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME">
+			<Text>Hastings</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION">
+			<Text>Thời Đại Hastings thoái trào của người Viking.</Text>
+		</Replace>
+		<!-- Empire Names-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION">
+			<Text>Đế chế Đan Mạch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION">
+			<Text>Đế chế Thuỵ Điển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION">
+			<Text>Quốc vương Al-Andalus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION">
+			<Text>Đế chế Byzantine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION">
+			<Text>Đế chế Frankish</Text>
+		</Replace>
+		<!--Leader Names-->
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME">
+			<Text>Al-Hakam II</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME">
+			<Text>Basil II</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME">
+			<Text>Charlemagne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_CNUT_NAME">
+			<Text>Canute</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SCENARIO_OLOF_NAME">
+			<Text>Olof Skötkonung</Text>
+		</Replace>
+		<!-- Civilizations-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME">
+			<Text>Denmark</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME">
+			<Text>Sweden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME">
+			<Text>Al-Andalus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME">
+			<Text>Byzantium</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME">
+			<Text>Francia</Text>
+		</Replace>
+		<!--Traits-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_VIKING_NAME">
+			<Text>Viking</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION">
+			<Text>Các đơn vị bỏ qua chi phí di chuyển cho việc hạ thuỷ và lên bờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME">
+			<Text>Frankish</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION">
+			<Text>Kỳ quan Mt. St. Michel nằm tại Rouen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME">
+			<Text>Moorish</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION">
+			<Text>Kỳ quan Alhambra nằm tại Išbiliya.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME">
+			<Text>Byzantine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION">
+			<Text>Kỳ quan Hagia Sophia nằm tại Constantinople.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME">
+			<Text>Đế chế Biển Bắc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION">
+			<Text>Có thể mở rộng thêm ô chính sách quân sự. Có thể đào tạo Dân đi cư, Thuyền dài Viking, Nhà Truyền Giáo, và Khu cảng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION">
+			<Text>Các đơn vị hải quân +2 Di chuyển. Có thể đào tạo Dân đi cư, Thuyền dài Viking, Nhà Truyền Giáo, và Khu cảng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME">
+			<Text>Kho báu nhà Vua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION">
+			<Text>Có thể mở rộng thêm ô chính sách kinh tế. Có thể đào tạo Dân đi cư, Thuyền dài Viking, Nhà Truyền Giáo, và Khu cảng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_PIOUS_NAME">
+			<Text>Sùng đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION">
+			<Text>Bắt đầu với Chế độ thần quyền và khả năng đào tạo Hiệp sĩ.</Text>
+		</Replace>
+		<!-- Scenario Name and Description-->
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_NAME">
+			<Text>Quân Viking, Thương Nhân, và Kỵ binh!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_TOOLTIP">
+			<Text>Là vua Viking, ngươi có thể tích luỹ một kho của cải vĩ đại? Trong vòng 60 lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIKING_SCENARIO_DESCRIPTION">
+			<Text>Là một Chúa Tể Viking hùng mạnh hãy đem Châu Âu đặt dưới sự cai trị của ngươi trong 60 lượt. Hãy chọn một trong ba nhà lãnh đạo Viking như Đan Mạch, Na-Uy, Thuỵ Điển, hãy cướp bóc và tấn công theo cách của ngươi trên toàn Châu Âu. Phát động cuộc xâm chiếm vào Hải quân Anh, chiếm đóng Paris, hoặc dạo thuyền quanh Gibraltar và cướp bóc trên biển Địa Trung Hải. [NEWLINE][NEWLINE]Khi trở về, hãy xây dựng một đế chế bằng của cải tích luỹ được trên các tuyến đường thương mại và những thành phố đem lại lợi nhuận cao nhất cho ngươi. Và nếu ngươi tìm thấy cho mình một tôn giáo, hãy truyền bá và tạo nên [ICON_Faith] đức tin cho mọi người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_VIKING_SCENARIO">
+			<Text>Đâu là giá trị của Chúa tể Viking? Theo lệnh của ngài, mọi chiến binh biển cả, những người phục tùng trên khắp đại dương đều biết đến ngài. Thuyền dài của ngài ẩn mình bóng tối giống như trong trái tim những người canh giữ tài sản của mình khỏi mọi sự nhòm ngó. Nhưng sự cướp bóc vì lợi ích riêng cũng chỉ đơn giản là cướp bóc. Chúa tể của tôi, Ngài không đơn giản chỉ là một tên cướp. Hãy dạy cho chúng sự thật đau lòng khi khoe khoang của cải—nếu không thể bảo vệ nó, sau đó nó sẽ không bao giờ thuộc về chúng.</Text>
+		</Replace>
+		<!--Units Name-->
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME">
+			<Text>Caballarii</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME">
+			<Text>Farfanes</Text>
+		</Replace>
+		<!--Units Description-->
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION">
+			<Text>Đơn vị đặc biệt của Viking. 4 [ICON_Movement] Di chuyển nếu đơn vị này bắt đầu trong lãnh thổ đối phương. +7 [ICON_Strength] Sức chiến đấu khi tấn công và -7 [ICON_Strength] Sức chiến đấu khi phòng thủ. Kiếm được kiểm Đại Tướng Quân từ việc giết chóc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION">
+			<Text>Đơn vị hải quân đặc biệt của Viking thay thế Thuyền buồm. Có thể cướp bóc ở các vùng ven biển và bắt cóc dân của đối phương. Có thể hồi phục trong lãnh thổ trung lập. Kiếm được kiểm Đại Đô Đốc từ việc giết chóc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION">
+			<Text>Francia là đơn vị đặc biệt có thể thay thế cho Hiệp sĩ. Không bị giảm sức mạnh khi bị thương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION">
+			<Text>Al-Andalus là đơn vị đặc biệt. Đơn vị kỵ binh hạng nhẹ chiến đấu mạnh hơn khi ở cạnh hoặc trong lãnh thổ nhà. Có thể di chuyển sau khi tấn công nếu điểm di chuyển vẫn còn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>Đơn vị đặc biệt của Viking có thể tạo ra những thành phố mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION">
+			<Text>Byzantine là đơn vị đặc biệt. Đơn vị hải quân tầm xa đầu tiên.</Text>
+		</Replace>
+		<!--District Description-->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION">
+			<Text>Một đặc khu đặc biệt của Hải quân Viking hoạt động trong thành phố của bạn. Đồng thời cũng loại bỏ chi phí [ICON_Movement] Di chuyển khi hạ thuỷ và lên bờ tính từ vùng này. Phải xây dựng trên địa hình Bờ Biển hoặc Hồ tiếp giáp đất liền.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại tạo ra, nếu thành phố chưa có một khu Thương Mại.[NEWLINE][NEWLINE]Liền Kề: thưởng theo tiêu chuẩn [ICON_Gold] Vàng cho mỗi tài nguyên liền kề bờ biển. Thưởng ít hơn tiêu chuẩn [ICON_Gold] Vàng cho các đặc khu liền kề.</Text>
+		</Replace>
+		<!--Improvements Name-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME">
+			<Text>Alcázar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME">
+			<Text>Tu Viện</Text>
+		</Replace>
+		<!--Improvements Description-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION">
+			<Text>Công trình Al-Andulus này cung cấp khả năng phòng thủ, [ICON_Faith] Đức tin, và [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION">
+			<Text>Frankish, Byzantine, thành phố tự trị, công  trình cung cấp [ICON_Faith] Đức tin.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

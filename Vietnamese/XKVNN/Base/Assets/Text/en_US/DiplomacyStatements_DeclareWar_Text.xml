@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Human Declares War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY">
+			<Text>Sao ngươi dám! Tất cả những người yêu thương của ngươi đều sẽ biến thành tro bụi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Chúng ta không xa lạ gì với chiến tranh. Ngươi đã bị lạc khỏi con đường của Chúa, và bây giờ chúng ta sẽ trừng trị điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Người dám tấn công vương quốc tối cao của ta? Ta không tin ngay cả Nostradamus có thể đoán trước được điều này!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Hah! Osiris sẽ rất hài lòng chào đón những kẻ thù của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Ta đã tiêu diệt những kẻ thù mạnh mười lần hơn ngươi. Ngươi sẽ chỉ là kẻ kế tiếp cho các sử gia của ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Những nỗ lực để tránh xung đột của ta đã thất bại. Ăn miếng trả miếng chỉ làm cho thế giới không lối thoát.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Ta sẽ thưởng thức hơi thở cuối cùng của ngươi khi ngươi chứng kiến sự hủy diệt của thần dân ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ngươi chắc chắn không biết được người Sparta chỉ trở về với tấm khiên của họ, hoặc nằm trên nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Việc này sẽ tạo nên một sử thi vĩ đại! Những nhà thơ sẽ hát về lòng can trường của ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Phong Thần sẽ bảo vệ chúng ta và ngươi sẽ gục ngã, giống như những kẻ khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Ngươi có thấy điều này vô ích cho ngươi như thế nào chưa, không à?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Binh sĩ không phải cây cối. Khi họ bị tiêu diệt, họ không dễ dàng để thay thế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Cuộc chiến của ngươi thật vô vọng. Ngươi không học được gì từ lịch sử. Xâm lược nước Nga là điều không thể. Kẻ sống bằng thanh gươm thì sẽ chết cũng bởi thanh gươm!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ngươi nghĩ đội quân của ngươi có thể so sánh với hạm đội của ta... với sức mạnh của cả đế chế? Ngươi đã phạm sai lầm nghiêm trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ngươi muốn chiến tranh thì ta sẽ cho ngươi toại nguyện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Ta đã cảnh báo ngươi tránh khỏi đổ máu. Máu không bao giờ ngừng đổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Nếu ta phải chọn giữa công lý và hòa bình, ta chọn công lý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ngươi đã phản bội lòng tin của Tomyris và giờ ngươi phải trả giá!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Sự ngạo mạn của ngươi sẽ là kết thúc của ngươi. Không có thế lực nào có thể tiêu diệt Rome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Chiến tranh? Chúng ta không hứng thú.</Text>
+		</Replace>
+		<!-- AI Declares War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY">
+			<Text>Ngươi có thứ ta muốn, và ta đoạt lấy thứ ta muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ngươi có thật sự nghĩ ngươi có thể bước trên chúng ta dễ dàng vậy sao? Ta sẽ không để điều đó xảy ra. Không phải với Kongo - không phải với người dân của ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Giả vờ như bằng hữu thật là vui chứ hả? Thật đáng tiếc đã đến lúc trút bỏ sự giả tạo và giải quyết bằng vũ lực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ta không còn gì để nói với ngươi nữa. Cầu cho thần Amun-Re dẫn đường cho chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Hãy để cho mọi người biết: ngươi là kẻ thù của nước Đức và phải bị tiêu diệt. Cầu Chúa thương xót cho ngươi, bởi vì ta thì không đâu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ta có thể tham gia cuộc chiến này mà không cần phải hy sinh những luân lý. Đừng hỏi ta tại sao; ngươi sẽ không bao giờ hiểu được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Tại sao ta tranh đấu? Bởi vì ta có thể... bởi vì Inanna yêu cầu. Bây giờ ngươi sẽ biết quyền năng của Sumer!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Bây giờ, chúng ta sẽ thử thách sức mạnh của ngươi! Chuẩn bị tinh thần đi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Cơn bão mà ngươi không thể trốn tránh sẽ đến ngay bây giờ. Ngươi chỉ có thể hy vọng một cái chết nhanh chóng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ta không cho phép Đế Chế phải cam chịu ngươi thêm nữa. Đã đến lúc hạ màn kịch này rồi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Ta phải làm điều này, vì lợi ích của sự tiến bộ nếu phải vì điều gì khác. Ngươi chắc chắn sẽ bị chống lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Việc này dành cho một điều rất rất tốt. Ngươi sẽ hiểu thôi... khi thời khắc tới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ta bằng cách tuyên bố ngươi là kẻ thù của nước Nga, các đồng minh của ta, và Chúa Trời, cầu mong Ngài thương xót cho linh hồn ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Ngươi đã xâm lấn vương quốc của ta và cả vương quốc của Chúa Trời... ngươi phải trả giá cho những tội lỗi của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ngươi là hạt giống của ác quỷ. Ngươi phải bị tiêu diệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Thật là hổ thẹn khi chúng ta phải dùng đến bạo lực, nó không phải là truyền thống khi mà vua phải giết vua.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ta muốn tránh điều này, ngươi biết không, nhưng ý tưởng hòa bình của ngươi khiến ta không còn cách nào khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Nữ Hoàng muốn cái đầu của ngươi. Ngươi sẽ bị dìm trong máu của chính mình!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Chuẩn bị chiến tranh đi. Quân đội của ta sẽ không ngừng vì bất cứ lý do gì; hải quân của ta sẽ tràn ngập trên bờ biển của ngươi, vì vinh quang của La Mã.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Vì sự phản kháng của ta là hão huyền, ta tuyên bố chiến tranh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_NEGATIVE">
+			<Text>Ngươi sẽ trả giá cho điều này sớm thôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_POSITIVE">
+			<Text>Điều này thật tệ. Ta nghĩ chúng ta là bằng hữu.</Text>
+		</Replace>
+		<!-- Reasons - specialized per war type -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_SURPRISE_WAR">
+			<Text>(Tuyên bố Chiến tranh bất ngờ chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_FORMAL_WAR">
+			<Text>(Tuyên bố Chiến tranh chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_HOLY_WAR">
+			<Text>(Tuyên bố thánh chiến chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_RECONQUEST_WAR">
+			<Text>(Tuyên bố chống xâm lược chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_LIBERATION_WAR">
+			<Text>(Tuyên bố chiến tranh giải phóng chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_PROTECTORATE_WAR">
+			<Text>(Tuyên bố chiến tranh bảo kê chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_COLONIAL_WAR">
+			<Text>(Tuyên bố chiến tranh thuộc địa chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
+			<Text>(Tuyên bố chiến tranh mở rộng lãnh thổ)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

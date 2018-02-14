@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Political Event Titles-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_1">
+			<Text>SẴN SÀNG THĂM DÒ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_2">
+			<Text>THUYỀN NƯỚC THUỘC ĐỊA ĐÃ ĐẾN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_3">
+			<Text>MỘT QUỐC GIA ĐƯỢC RA ĐỜI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_4">
+			<Text>THẾ CHIẾN I</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_5">
+			<Text>THẾ CHIẾN II</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_6">
+			<Text>BỔ SUNG THỰC DÂN</Text>
+		</Replace>
+		<!-- Political Event Descriptions-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_1">
+			<Text>Một nhà thám hiểm đã rời khỏi thuộc địa New South Wales của nước Anh để khám phá những bí ẩn của lục địa Úc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_2">
+			<Text>Chúng tôi đã kết nạp một tàu gồm những thành viên khỏe mạnh để đi đến thuộc địa mới. Chúng tôi hy vọng rất nhiều vào nhóm này: không phải tất cả trong số họ là những người bị kết án.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_3">
+			<Text>Bây giờ đã có nhiều thế hệ sống và chết như người Úc bản địa, người dân mong muốn hình thành một quốc gia độc lập như một quốc gia thống nhất. Đây là thời điểm của nước Úc, hình thành một quốc gia mới độc lập khỏi nước Anh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_4">
+			<Text>Một cuộc chiến tranh lớn đã nổ ra trên toàn châu Âu và nước mẹ của chúng ta Vương Quốc Anh đã bị cuốn vào cuộc chiến đó. Chúng tôi sẽ gửi quân để hỗ trợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_5">
+			<Text>Cuộc chiến tranh thế giới đã nổ ra và lần này nước Úc có nguy cơ bị xâm chiếm. Thủ tướng John Curtin đã nhắc nhở chúng ta: “Ngọn lửa của sự tự do đã rực sáng ở vùng đất này bởi những người định cư đầu tiên, và chúng ta phải giữ ngọn lửa rực sáng này cho các thế hệ tiếp theo, bất kỳ kẻ thù nào cũng không thể dập tắt nó.”</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_6">
+			<Text>Công dân của họ đã được thông báo trở lại nước Anh. Nhiều người dân thuộc địa vừa mới đến mong muốn có một nơi ở mới trong thuộc địa của mình.</Text>
+		</Replace>
+		<!-- Political Event Gameplay Effects-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_1">
+			<Text>Sử dụng nhà thám hiểm cho bốn lượt tiếp theo để tìm một địa điểm định cư mới tốt nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_2">
+			<Text>Một Dân di cư mới sẽ xuất hiện ở lượt kết tiếp trong vùng ven biển gần nhà thám hiểm của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_3">
+			<Text>Khi hoàn thành Chính Quyền Liên Bang bạn có thể nâng cấp lên hệ thống chính phủ cao hơn, Chính Quyền Nhà Nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_4">
+			<Text>Bây giờ bạn có thể khởi động dự án AIF trong bất kỳ thành phố nào của bạn. Mỗi nỗ lực đóng góp của bạn cho chiến tranh sẽ nâng cao vị thế của bạn trong tổ cức của chúng tôi, bạn sẽ kiếm +10 [ICON_Gold] Vàng mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_5">
+			<Text>Việc quan trọng lúc này là hoàn thành dự án AIF và phần thưởng bạn nhận được tăng thêm +20 [ICON_Gold] Vàng mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_6">
+			<Text>Dân cư mới đã xuất hiện trong thủ đô của bạn. Từ thời điểm này trở đi, những thành phố mới phải được xây dựng trong phạm vi 10 ô tính từ thành phố hiện tại.</Text>
+		</Replace>
+		<!-- Danger Event Gameplay Effects-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_1">
+			<Text>{1_UnitName} của bạn nhận {2_Damage} thiệt hại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_2">
+			<Text>{1_UnitName} của bạn đã bị giết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_3">
+			<Text>{1_UnitName} của bạn bị mất 1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_4">
+			<Text>Bạn mất {1_Amount} [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_5">
+			<Text>{1_UnitName} của bạn đã trở lại thành phố gần nhất {2_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_6">
+			<Text>{1_Improvement} gần nhất của bạn đã bị cướp.</Text>
+		</Replace>
+		<!-- Delay Event Gameplay Effects-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_1">
+			<Text>{1_UnitName} của bạn mất {2_Movement} điểm di chuyển ở lượt này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_2">
+			<Text>{1_UnitName} của bạn không thể di chuyển ở lượt này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_3">
+			<Text>Hiểu biết về địa hình gần nhất {1_UnitName} đã mất.</Text>
+		</Replace>
+		<!-- Benefit Event Gameplay Effects-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_1">
+			<Text>Một {1_UnitName} đã tiến sát thành phố {2_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_2">
+			<Text>Một {1_UnitName} đã tiến sát đơn vị {2_UnitName}..</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_3">
+			<Text>Vùng lãnh thổ chưa khám phá gần bạn đã được {1_UnitName} tiết lộ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_4">
+			<Text>{1_UnitName} của bạn tăng thêm +1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_5">
+			<Text>{1_UnitName} của bạn đã hồi phục hoàn toàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_6">
+			<Text>{1_UnitName} của bạn hồi {2_HitPoints} điểm HP.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_7">
+			<Text>Gần thành phố {1_CityName} của bạn tăng 1 dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_8">
+			<Text>Tăng thêm {1_Amount} [ICON_Gold] Vàng cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_9">
+			<Text>Bạn nhận được khoảng khắc Eureka cho công nghệ {1_TechName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_10">
+			<Text>Bạn nhận được khoảng khắc Thúc đẩy hành chính cho {1_CivicName}.</Text>
+		</Replace>
+		<!-- Exploration Event Titles-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_1">
+			<Text>Vá lại chỗ hiện tại bị rách </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_2">
+			<Text>Đánh bắt Sứa Hộp sáng mờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_3">
+			<Text>Thu hoạch ốc nón</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_4">
+			<Text>Trì hoãn bởi màn sương nguy hiểm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_5">
+			<Text>Tiếp tế bởi ngư dân bản xứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_6">
+			<Text>Thuê tiểu bang Rock Hopper</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_7">
+			<Text>Vị trí nguồn nước dồi dào</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_1">
+			<Text>Thật đáng tiếc không đánh giá đúng mức nhu cầu cấp nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_2">
+			<Text>Đàn lạc đà chạy tán loạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_3">
+			<Text>Bước vào ổ rắn lục chết người</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_4">
+			<Text>Trì hoãn bởi bão bụi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_5">
+			<Text>Ốc đảo bị ô nhiễm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_6">
+			<Text>Tìm thấy ổ chó Dingo không được bảo vệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_1">
+			<Text>Bị phục kích bởi thổ dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_2">
+			<Text>Chặn đứng đám cháy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_3">
+			<Text>Bị quấy phá bởi chó Dingo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_4">
+			<Text>Ăn nhầm quả mọng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_5">
+			<Text>Được cung cấp lại bởi kẻ cướp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_6">
+			<Text>Thuê người lang thang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_1">
+			<Text>Đá lở!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_2">
+			<Text>Những đêm lạnh giá khác thường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_3">
+			<Text>Cung cấp da thú vào Gorge</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_4">
+			<Text>Chuyến đi thất bại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_5">
+			<Text>Thuê người lục soát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_6">
+			<Text>Tìm thấy mùa xuân trên núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_1">
+			<Text>Ẩu đả với Kangaroo đỏ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_2">
+			<Text>Đang tồn tại điều kiện hạn hán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_3">
+			<Text>Đầu đọc bởi có thường xanh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_4">
+			<Text>Hoàn toàn mất phương hướng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_5">
+			<Text>Thuê người coi kho</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_6">
+			<Text>Dẫn đến nguồn nước bởi Galah Flock</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_1">
+			<Text>Tai hoạ sốt rét</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_2">
+			<Text>Cắt đường lương thực bởi Plague Locusts</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_3">
+			<Text>Mọi thứ bị cuốn mất trong lũ quét</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_4">
+			<Text>Bị sa lầy trong vũng bùn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_5">
+			<Text>Bắt được tôm Tích trong suối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_1">
+			<Text>Bị thu hút bởi Saltwater Corcodile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_2">
+			<Text>Vết thương quá nặng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_3">
+			<Text>Mạng nhện giăng kín ống khói</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_4">
+			<Text>Ăn nhầm loại cá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_5">
+			<Text>Mất tích trong cơn lũ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_6">
+			<Text>Sợ hãi tin đồi quái vật đầm lầy Úc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_1">
+			<Text>Phá hoại bởi giun kim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_2">
+			<Text>Uống quá nhiều nước và uống quá nhanh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_3">
+			<Text>Ngăn chặn cuộc nổi loạn đang tới gần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_4">
+			<Text>Phục hồi vùng cửa sông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_5">
+			<Text>Hồi phục hoàn toàn sức khoẻ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_1">
+			<Text>Mọi thứ ở đây là thuốc độc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_2">
+			<Text>Đà điểu Úc bị giật mình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_3">
+			<Text>Khổ sở bởi bệnh sốt xuất huyết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_4">
+			<Text>Bệnh dịch bởi đàn kiến độc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_5">
+			<Text>Bí ẩn khoa học được phát hiện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_1">
+			<Text>Kích động rắn râu phương đông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_2">
+			<Text>Củi đốt từ cây Gum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_3">
+			<Text>Chim Emu giận giữ khi vi phạm lãnh thổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_4">
+			<Text>Tin đồn giả tạo gấu xuống núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_5">
+			<Text>Tìm thấy tổ trứng chim Emu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_1">
+			<Text>Mùa thu bất hạnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_2">
+			<Text>Ảnh hưởng bởi bệnh Scurvy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_3">
+			<Text>Chỉ đạo mâu thuẫn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_4">
+			<Text>Quên buộc ngựa vào cọc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_5">
+			<Text>Tìm thấy một lối tắt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_6">
+			<Text>Tiếp tế bởi bộ lạc bản xứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_7">
+			<Text>Đi theo dấu chân chó Dingo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_8">
+			<Text>Xung đột với người thám hiểm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_9">
+			<Text>Tìm thấy điểm không đúng trong bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_10">
+			<Text>Kho báu!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_11">
+			<Text>Thuê hướng dẫn viên bản xứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_12">
+			<Text>Vô tình xúc phạm người bản xứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_13">
+			<Text>Vô tình làm cháy rừng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_14">
+			<Text>Di cư của người bản xứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_15">
+			<Text>Đàm phán thất bại với người bản xứ</Text>
+		</Replace>
+		<!-- Exploration Event Descriptions-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_1">
+			<Text>Những gì bắt đầu đầm mình trong đại dương đều kết thúc trong thảm kịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_2">
+			<Text>Một thứ mong manh dễ vỡ, chứa đầy dung dịch gây đau đớn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_3">
+			<Text>Vẻ đẹp bên ngoài che đậy thứ rất nhỏ, là chiếc móc tẩm độc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_4">
+			<Text>Sóng trên biển cuộn vào nhau, dày hơn cả khói súng đại bác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_5">
+			<Text>Họ đã biết rõ vùng nước này và vị trí đàn cá. Chúng tôi đã không biết. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_6">
+			<Text>Làm thế nào họ câu đá từ mỏm đá mà không bị trượt chân? Thật bí ẩn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_7">
+			<Text>Đó là một khám phá tuyệt vời. Đủ để hỗ trợ người dân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_1">
+			<Text>Điên loạn từ cơn khát, những con ngựa chết đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_2">
+			<Text>Những người bản xứ đầu tiên đã bỏ hoang nơi này, từ khi họ đi vào nơi hoang dã.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_3">
+			<Text>Mọi thứ hoà lẫn vào nhau trong ánh mặt trời-gay gắt. Ngay cả những con rắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_4">
+			<Text>Đã chuẩn bị mọi thứ. Hôm sau chúng tôi sẽ lột da chúng để hiến tế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_5">
+			<Text>Chúng tôi đã tìm thấy ốc đảo của sự sống trong vùng hoang mạc đáng nguyền rủa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_6">
+			<Text>Bạn phải hiểu. Đây là điều cần thiết cho sự sống còn của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_1">
+			<Text>Họ đã lấy lương thực nhưng để lại nước cho chúng ta. Họ là những tên trộm, không phải kẻ giết người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_2">
+			<Text>Tôi đốt nóng lò xưởng đúc. Xuýt nữa lông mày và da bị cháy xém.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_3">
+			<Text>Chúng săn đuổi chúng tôi nhiều ngày, cuối cùng nó đã giết chết một vài con gia súc đi lạc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_4">
+			<Text>Cơn đau chạy qua ruột của chúng tôi giống như than nóng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_5">
+			<Text>Chúng tôi đã tạo cho họ một cuộc sống mới, thoát khỏi đám bụi rậm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_6">
+			<Text>Người nông dân linh động tìm kiếm công việc ổn định, tuỳ theo mùa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_1">
+			<Text>Thật không may cho chúng tôi khi cắm trại trên đường đi của nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_2">
+			<Text>Tấm chăn mỏng không thể ngăn những cơn gió lạnh buốt trên núi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_3">
+			<Text>Trong nhận thức muộn màng, chúng tôi đã cất giữ chúng ở nơi chật hẹp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_4">
+			<Text>Những gì có vẻ đầy triển vọng đều dẫn tới một ngày nỗ lực lãng phí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_5">
+			<Text>Nhiều mỏ vàng nằm ở nơi rộng lớn và xa xăm. Chỉ có vài vận may thật sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_6">
+			<Text>Mùa xuân đã bảo vệ chúng ta có rất nhiều nước để chúng ta tích trữ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_1">
+			<Text>Trong nơi phòng thủ của chúng tôi, chúng tôi cố tìm kiếm những thứ đang có trong túi của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_2">
+			<Text>Các nhà máy tham lam muốn chúng ta chết khát như trước kia họ đã làm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_3">
+			<Text>Chiếc lá rụng giống như xác thịt rạn nứt khi ta chạm vào chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_4">
+			<Text>Trong vùng địa hình tương tự như nhau, rất dễ dàng bị lạc đường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_5">
+			<Text>Đó là công việc đơn độc và khó khăn, nhưng họ không quan tâm đến điều đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_6">
+			<Text>Chúng tôi khởi hành tới nơi họ định cư. Những con chim tuyệt đẹp. Có một ít dã thú.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_1">
+			<Text>Muỗi ở đây nhiều tới mức làm tối cả bầu trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_2">
+			<Text>Họ tàn phá mọi cảnh quan hơn là duy trì chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_3">
+			<Text>Nếu không thể đến được vùng đất cao, sẽ hoàn toàn bị cuốn mất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_4">
+			<Text>Một số ủng và vớ đã bị làm bẩn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_5">
+			<Text>Nó có thể ăn được sau khi luộc, ngoại trừ lớp vỏ của nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_1">
+			<Text>Không có âm thanh hay tiếng hét nào. Chỉ có tiếng nước róc rách.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_2">
+			<Text>Những con nhặng đáng nguyền rủa chắn chắn là thủ phạm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_3">
+			<Text>Nói chung. Những sinh vật nhỏ bé, có chất độc rất mạnh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_4">
+			<Text>Không phải mọi loại cá đều ăn được. Đặc biết không chỉ có một loại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_5">
+			<Text>Địa hình thay đổi qua từng ngày. Có phải trò bịp của ánh sáng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_6">
+			<Text>Không có câu hỏi nào đặt ra về linh hồn ẩn sau bụi rậm bám theo chúng tôi trong đầm lầy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_1">
+			<Text>Thậm chí nước uống trong vùng hoang vu này cũng gây nguy hiểm cho đường ruột.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_2">
+			<Text>Sau khi ở ngoài này không lâu, cơn khát đem tới sự khó chịu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_3">
+			<Text>Họ cự tuyệt để rời khỏi ốc đảo. Tai hoạ đã tới gần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_4">
+			<Text>Các vũng nước lẻ lỏi giúp chúng tôi nâng cao tinh thần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_5">
+			<Text>Một ngày đẹp trời. Sẽ giúp tất cả mọi người trở lại cân bằng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_1">
+			<Text>Mỗi côn trùng, động vật, hoa, rễ cây, hoặc dây leo đều có thể giết chết chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_2">
+			<Text>Chúng tôi cười lớn, hãy nghĩ kĩ, khi lần đầu nhảy xuống chân núi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_3">
+			<Text>Cơn sốt kéo dài một thời gian trước khi có dấu hiệu sự chết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_4">
+			<Text>Có những bất hạnh khác thường khi giường ngủ của chúng tôi nằm trên gò tổ kiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_5">
+			<Text>Kỳ quan được tìm thấy trong khu rừng hoang vắng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_1">
+			<Text>Nó lộ rõ bản tính xấu xa khi bị đánh vì không có lý do chính đáng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_2">
+			<Text>Chúng tôi đã không lường trước được vụ nổ. Một số người nghĩ bị đại bác tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_3">
+			<Text>Cú mổ hung ác của nó làm chúng tôi mất cảnh giác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_4">
+			<Text>Chúng tôi chưa bao giờ chạm trán gấu ăn thịt Koala. Chúng tôi là những người may mắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_5">
+			<Text>Khi ăn sống, lòng đỏ của con hàu vẫn giống như khi nấu chín.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_1">
+			<Text>Nếu cần thiết bạn có thể bắn chết con ngựa bị khập khiễng. Đừng làm vậy với con người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_2">
+			<Text>Lớp da sẽ bong ra khỏi vòm miệng. Khá khó chịu. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_3">
+			<Text>Điều kiện khó nghe và tâm trạng gay gắt dẫn đến cuộc cãi vã.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_4">
+			<Text>Một sai lầm nhỏ trong thị trấn. Ít hơn nhiều khi ở trong vùng hoang vu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_5">
+			<Text>Dựa vào nguyên cớ này. Một vẻ ngoài tầm thường dẫn tới điều không khả quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_6">
+			<Text>May mắn cho chúng tôi, không phải tất cả mọi nơi trong bụi rậm thiếu sự sống con người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_7">
+			<Text>Đàn chó dingo vượt qua dòng nước và săn mồi. Tốt nhất là theo người bản xứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_8">
+			<Text>Nhiều lời van nài khẩn thiết để cấp vốn cho họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_9">
+			<Text>Có lẽ họ đã đúng. Viễn cảnh xa lạ trong vùng hoang vu này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_10">
+			<Text>Thật xấu hổ khi tìm thấy xác của nhà thám hiểm thất bại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_11">
+			<Text>Chúng tôi đủ khả năng chia đàn gia súc để đảm bảo đủ lượng cỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_12">
+			<Text>Về sau, chúng tôi hiểu rằng đó là sự xúc phạm nghiêm trọng đối với gia đình tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_13">
+			<Text>Vào lúc đó, chúng tôi không có ý tưởng nào để di chuyển. Tất cả đã xa vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_14">
+			<Text>Điều kiện nghèo túng đã khiến họ tìm vận may ở nơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_15">
+			<Text>Có vẻ như cuộc thảo luận trước đây của họ với người bên ngoài không đạt được kết quả.</Text>
+		</Replace>
+
+		<!-- Exploration Event Journal Entries-->
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_1">
+			<Text>Bị cuốn ra biển, coi như chết đuối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_2">
+			<Text>Đặt chân lên để giao phối. Thủ thuật không thành công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_3">
+			<Text>Áp vỏ sò vào tai. Không thể nghe được đại dương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_4">
+			<Text>Tầm nhìn không tồn tại. Không được tiến hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_5">
+			<Text>Trao đổi thực phẩm tươi và nước sạch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_6">
+			<Text>Những phân loại thích hợp, dễ dàng cho công việc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_7">
+			<Text>Là một nơi thực sự phong phú. Vị trí đã được ghi lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_1">
+			<Text>Để sinh tồn, chúng tôi cần dựa vào số nước chúng tôi có.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_2">
+			<Text>Miệt thị. Không thấy gì bởi nước dãi lạc đà. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_3">
+			<Text>Bắp chân bị cắn mạnh. Tiếp sau phổi không còn hoạt động.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_4">
+			<Text>Tầm nhìn không tồn tại. Vũng bùn nhầy nhụa. Không được tiến hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_5">
+			<Text>Vui mừng khi giảm nhẹ tầm nhìn. Vị trí đã được ghi lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_6">
+			<Text>Đã bổ sung lương thực. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_1">
+			<Text>Bị gãy răng khi bắt đầu cuộc ẩu đả. Lương thực cũng bị mất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_2">
+			<Text>Không thể phân biệt cốt và tro của thi hài. Đang ấn vào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_3">
+			<Text>Tiếng hú liên hồi. Bốn đêm mất ngủ. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_4">
+			<Text>Bị mất nước. Bị mất tinh thần. Quá yếu để du hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_5">
+			<Text>Đã tiếp để và dự trữ. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_6">
+			<Text>Cung cấp đường đi tới vùng dân cư gần nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_1">
+			<Text>Vật tư y tế bị mất. Chấn thương vẫn còn, thiếu thốn để điều trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_2">
+			<Text>Hoại tử vì lạnh. Phải ép mạnh trước khi tất cả chúng ta bị ảnh hưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_3">
+			<Text>Nỗ lực hồi phục đã thất bại. Đói, bị thương, mất tinh thần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_4">
+			<Text>Sẽ chết khi vượt qua đây. Hãy quay lại nơi cắm trại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_5">
+			<Text>Nhóm người thăm dò đã đến văn phòng khai thác thuộc địa gần nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_6">
+			<Text>Đã bảo vệ và tiếp tế. Lương thực dồi dào. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_1">
+			<Text>Nhiều cú đá dẫn tới tổn thương cơ quan, tiếp theo là cái chết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_2">
+			<Text>Đất đai nứt nẻ. Đoàn thám hiểm cũng như vậy. Tiến lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_3">
+			<Text>Không thể tránh xa được những cụm cỏ sắc nhọn trong địa hình này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_4">
+			<Text>Đã đi qua con đường này hai lần trước buổi trưa. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_5">
+			<Text>Nông trại nơi hoang dã gần nhất sẽ có thêm người chăn gia súc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_6">
+			<Text>Bầu da nước và dạ dày căng đầy như sắp vỡ. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_1">
+			<Text>Cơn sốt kéo dài. Không thể hồi phục được. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_2">
+			<Text>Kiếm ăn không có kết quả. Thắt lưng buộc bụng. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_3">
+			<Text>Rời bỏ trại trong đêm tối, xem như đã chết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_4">
+			<Text>Không có tiến bộ đáng kể. Được bảo hộ cẩn thận. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_5">
+			<Text>Đã tìm thấy tôm cua! Đã bổ sung lương thực. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_1">
+			<Text>Trong quá khứ chúng ta nghĩ đã được no đủ. Một lần đánh giá sai lầm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_2">
+			<Text>Tiếng gào thét kinh hãi khi chạy vào đầm lầy. Xem như đã chết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_3">
+			<Text>Vùng đất khắc nghiệt này chứa đầy những nỗi kinh hoàng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_4">
+			<Text>Một cái chết nhớp nhúa dẫn tới ảnh hưởng hoàn toàn thần kinh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_5">
+			<Text>Thời khắc khó khăn khi du ngoạn. Đã tìm thấy trại dựng hôm trước của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_6">
+			<Text>Quý tộc rởm yêu cầu ta cố gắng trốn tránh. Không được tiến hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_1">
+			<Text>Gãi ngứa dẫn đến nhiễm trùng. Không thể ngủ hoặc ngồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_2">
+			<Text>Trông đợi phục hồi nguồn nước nhiễm bệnh. Không được tiến hành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_3">
+			<Text>Prudence đề nghị chúng ta kéo dài thời gian để phục hồi sức khoẻ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_4">
+			<Text>Tắm rửa thật sảng khoái. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_5">
+			<Text>Đã bổ sung lương thực. Bầu da căng đầy nước. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_1">
+			<Text>Một người chết không rõ nguyên nhân không rõ nguồn gốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_2">
+			<Text>Cổ họng con chim bị cắt bởi những móng vuốt sắc nhọn. Một cái chết nhanh chóng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_3">
+			<Text>Đó là bệnh sốt huyết. Chúng ta đều biết kết quả như thế nào. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_4">
+			<Text>Túi ngủ không dùng được. Một ngày mệt lử thổi khói đuổi kiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_5">
+			<Text>Những ghi chú phong phú. Quyền đặt tên đã thuộc về chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_1">
+			<Text>Tôi nhắc lại sự nguy hiểm của những con rắn đầu hình thoi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_2">
+			<Text>Những con ngựa bị mất bình tình. Lông bị cháy. Lông mày bị cháy xém.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_3">
+			<Text>Mất một mắt. Nhiễm khuẩn ổ mắt. Cung cấp thêm đạm cho nạn nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_4">
+			<Text>Mất một ngày để nghe những điều nhảm nhí. Xung quanh tôi toàn những kẻ ngu xuẩn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_5">
+			<Text>Đã bổ sung lương thực. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_1">
+			<Text>Chấn thương nghiêm trọng do địa hình biến đổi bất thường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_2">
+			<Text>Trung lúc tuyệt vọng lương thực rất có giá trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_3">
+			<Text>Tai hoạ đã đến, một trong số họ nghiêm trọng vấn đề. Tinh thần thấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_4">
+			<Text>Nhấn mạnh, thật cương quyết, rất cần thiết khi cột dây vật nuôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_5">
+			<Text>Đã tìm thấy lối đi ẩn ngày mai cần khám phá khẩn trương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_6">
+			<Text>Trao đổi thực phẩm tươi và nước sạch. Bây giờ tiến lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_7">
+			<Text>Đã tìm thấy vũng nước, chó dingoe ngừng duổi để bổ sung nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_8">
+			<Text>Cuối cũng đã đạt được thoả thuận chia sẻ quyền đặt tên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_9">
+			<Text>Cần thăm dò bổ sung một vài nơi. Đã đánh dấu vị trí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_10">
+			<Text>Phần thưởng gồm nhiều con số như đã hứa. Tinh thần cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_11">
+			<Text>May mắn gì đâu! Bây giờ chúng ta đã có gấp đôi vận may của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_12">
+			<Text>Vội vàng rời khỏi khu vực để tránh xa lực lượng đối kháng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_13">
+			<Text>Những cục than hồng bắt đầu rực cháy. Thú hoang đã lẩn trốn khỏi chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_14">
+			<Text>Nhóm người bản xứ đã tới gần khu định cư. Tiến lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_15">
+			<Text>Mặc dù được đảm bảo nhưng giao dịch bị từ chối. Bỏ đi ngay sau đó.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

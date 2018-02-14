@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Có thể xây dựng bằng [ICON_TradeRoute] Tuyến đường thương mại hoặc bởi Kĩ sư quân đội. Tối ưu tốc độ [ICON_Movement] Di chuyển của bất kỳ đơn vị nào khi đi từ một ô có đường sang ô khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Có thể xây dựng bằng [ICON_TradeRoute] Tuyến đường thương mại hoặc bởi Kĩ sư quân đội. Tối ưu tốc độ [ICON_Movement] Di chuyển của bất kỳ đơn vị nào khi đi từ một ô có đường sang ô khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+			<Text>Có thể xây dựng bằng [ICON_TradeRoute] Tuyến đường thương mại hoặc bởi Kĩ sư quân đội. Tối ưu tốc độ [ICON_Movement] Di chuyển của bất kỳ đơn vị nào khi đi từ một ô có đường sang ô khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+			<Text>Có thể xây dựng bằng [ICON_TradeRoute] Tuyến đường thương mại hoặc bởi Kĩ sư quân đội. Tối ưu tốc độ [ICON_Movement] Di chuyển của bất kỳ đơn vị nào khi đi từ một ô có đường sang ô khác.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

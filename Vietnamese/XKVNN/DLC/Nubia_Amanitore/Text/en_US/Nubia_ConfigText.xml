@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NUBIA_NAME">
+			<Text>Nubia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME">
+			<Text>Ta-Seti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản phẩm cho các đơn vị Tầm xa. Tất cả các đơn vị Tầm xa tăng thêm +50% kinh nghiệm chiến đấu. Các mỏ tài nguyên chiến lược mang lại +1 [ICON_Production] Sản phẩm. Các mỏ tài nguyên quý hiếm mang lại +2 [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<!-- Improvement Info-->
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_PYRAMID_NAME">
+			<Text>Kim tự tháp Nubian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+			<Text>Cải tiến bằng cách mở khoá Thợ xây và phải xây dựng trên Sa mạc, Đồi Sa mạc hoặc Vùng ngập nước. +1 [ICON_Faith] Đức tin. Nhận thêm tài nguyên từ các đặc khu liền kề. +1 [ICON_Food] Thực phẩm nếu liền kề với Thành phố Trung tâm. Đối với tất cả các đặc khu khác nếu nằm liền kề thưởng: +1 tài nguyên nếu đặc khu nằm liền kề.</Text>
+		</Replace>
+		<!-- Leader Info-->
+		<Replace Language='en_US' Tag="LOC_LEADER_AMANITORE_NAME">
+			<Text>Amanitore</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME">
+			<Text>Kandake của Meroë</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION">
+			<Text>+20% [ICON_Production] Sản xuất đối với tất cả các quận thêm +40% nếu có một Kim tự tháp Nubian liền kề với Thành phố Trung tâm.</Text>
+		</Replace>
+		<!-- Unit Info-->
+		<Replace Language='en_US' Tag="LOC_UNIT_NUBIAN_PITATI_NAME">
+			<Text>Xạ thủ Pítati</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION">
+			<Text>Đơn vị đặc biệt của Nubian vào thời Cổ đại thay thế cho Cung thủ. Mạnh hơn Cung thủ với khả năng [ICON_Movement] Di chuyển xa hơn. Nâng cấp lên Nỏ thủ.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

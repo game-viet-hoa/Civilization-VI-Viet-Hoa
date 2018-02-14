@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Cleopatra của Ai Cập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Chào mừng du khách. Ngài nên biết rằng mình đang được chứng kiến sự hiện diện của sự vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>Ngài muốn làm gì thế, thưa ngài?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Thiết lập tình hữu nghị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Đề xuất hòa bình</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Yêu cầu tự do đi lại[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Gửi phái đoàn[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Thiết lập đại sứ quán thường trú[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Lăng mạ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh bất ngờ[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Tuyên bố chính thức chiến tranh[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Tuyên bố thánh chiến[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh giải phóng[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Không bị phạt nếu chiếm thành phố bạn bè)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh chống xâm lược[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Không bị phạt nếu chiếm lại thành phố của bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh bảo kê[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Không bị phạt nếu phòng thủ thành phố tự trị đồng minh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh thuộc địa[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Tuyên bố chiến tranh mở rộng lãnh thổ[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Hình phạt chiến tranh: {1_WarmongerLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Giá {1_Cost} [ICON_Gold] Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Ngài có chắc muốn đi đến chiến tranh?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>Không</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Tạo thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Tạo yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Từ chối yêu cầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Tạm biệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Đề xuất bán đấu giá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>Ta có thể làm gì cho ngài?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>Ngài nghĩ gì về điều này?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>Yêu cầu của ta phải được đáp ứng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>Xem thỏa thuận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>Xem yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>Không có sẵn item để yêu cầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>Không có sẵn item để thỏa thuận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Hứa không gián điệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Hứa dân di cư không gần các thành phố của ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Hứa không cải giáo tôn giáo thành phố của ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Hứa không đào cổ vật</Text>
+		</Replace>
+		<!-- Action Failure Reasons -->
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Một số thành viên trong đội của bạn là bạn hoặc đồng mình của một thành viên trong đội này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Không lăng mạ người chơi này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi lăng mạ (có sẵn trong {3_Remaining} lượt nữa).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Có một Hiệp ước Phòng Thủ với lãnh đạo này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>Không thể {1_WarActionType}[NEWLINE][COLOR_RED]Không thỏa mãn các điều điện cho Biện Minh Chiến Tranh này.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi làm hòa (có sẵn trong {3_Remaining} lượt nữa).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ đến lượt thứ {2_TurnNumber} để tuyên bố chiến tranh với một nền văn minh chính trong Game này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>Không thể {1_ActionType}[NEWLINE]Cần {2_GoldRequirement} [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi tuyên bố chiến tranh (có sẵn trong {3_Remaining} lượt nữa).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>Không thể {1_WarActionType}[NEWLINE]Chiến tranh bất tận trong Game này.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

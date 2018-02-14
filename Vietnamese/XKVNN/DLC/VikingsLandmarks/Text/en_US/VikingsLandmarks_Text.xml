@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EYJAFJALLAJOKULL_NAME">
+			<Text>Eyjafjallajökull</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_GIANTS_CAUSEWAY_NAME">
+			<Text>Giant's Causeway</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_LYSEFJORDEN_NAME">
+			<Text>Lysefjord</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EYJAFJALLAJOKULL_DESCRIPTION">
+			<Text>Vùng đất liền kề đem lại +1 [ICON_Culture] Văn minh và +2 [ICON_Food] Lương thực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_GIANTS_CAUSEWAY_DESCRIPTION">
+			<Text>Đơn vị chiến đấu mặt đất khi đi vào ô liền kề nhận được khả năng 'Lính giáo Fionn' (+5 Sức chiến đấu).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_LYSEFJORDEN_DESCRIPTION">
+			<Text>Đơn vị Hải Quân khi tiến vào những vùng liền kề đặc biệt sẽ tăng thêm cấp độ huân chương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EYJAFJALLAJOKULL_QUOTE">
+			<Text>“Ngọn lửa ở trên một cột cao và to lớn cho phép mọi người dân ở Holt nhìn thấy rõ ràng vào ban đêm như thể đang ở ban ngày.”[NEWLINE]– Liverpool Mercury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_GIANTS_CAUSEWAY_QUOTE">
+			<Text>“Ở đây màn khói nâu sẫm màu từ đá núi lửa, có cả màu đất đỏ, và phía dưới là các mảnh vụn than-củi dễ nhận ra.”[NEWLINE]– Dublin Penny Journal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_LYSEFJORDEN_QUOTE">
+			<Text>“Trong vùng biển này, và ở giữa sự cô đơn này, đường phố trội dậy sự u ám ảm đạm—một con đường không có bước chân người. Không ai đi qua đó; không có tàu cập bến.”[NEWLINE]– Victor Hugo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUCKLAND_NAME">
+			<Text>Auckland</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ANTANANARIVO_NAME">
+			<Text>Antananarivo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ARMAGH_NAME">
+			<Text>Armagh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GRANADA_NAME">
+			<Text>Granada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MUSCAT_NAME">
+			<Text>Muscat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PALENQUE_NAME">
+			<Text>Palenque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION">
+			<Text>Thành phố tự trị Auckland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ANTANANARIVO_DESCRIPTION">
+			<Text>Thành phố tự trị Antananarivo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ARMAGH_DESCRIPTION">
+			<Text>Thành phố tự trị Armagh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GRANADA_DESCRIPTION">
+			<Text>Thành phố tự trị Granada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MUSCAT_DESCRIPTION">
+			<Text>Thành phố tự trị Muscat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PALENQUE_DESCRIPTION">
+			<Text>Thành phố tự trị Palenque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AUCKLAND_ADJECTIVE">
+			<Text>Auckland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ANTANANARIVO_ADJECTIVE">
+			<Text>Antananarivo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ARMAGH_ADJECTIVE">
+			<Text>Armagh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GRANADA_ADJECTIVE">
+			<Text>Granada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MUSCAT_ADJECTIVE">
+			<Text>Muscat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_PALENQUE_ADJECTIVE">
+			<Text>Palenque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AUCKLAND">
+			<Text>Auckland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANTANANARIVO">
+			<Text>Antananarivo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARMAGH">
+			<Text>Armagh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GRANADA">
+			<Text>Granada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MUSCAT">
+			<Text>Muscat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PALENQUE">
+			<Text>Palenque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_AUCKLAND_NAME">
+			<Text>Thưởng cho chủ Auckland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_ANTANANARIVO_NAME">
+			<Text>Thưởng cho chủ Antananarivo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_ARMAGH_NAME">
+			<Text>Thưởng cho chủ Armagh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_GRANADA_NAME">
+			<Text>Thưởng cho chủ Granada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_MUSCAT_NAME">
+			<Text>Thưởng cho chủ Muscat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_PALENQUE_NAME">
+			<Text>Thưởng cho chủ Palenque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION">
+			<<Text>Vùng nước cạn thuộc sở hữu của bạn đem lại +1 [ICON_Production] Sản phẩm. Tăng thêm +1 khi bước vào thời đại Công Nghiệp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_ANTANANARIVO_DESCRIPTION">
+			<Text>Nền văn minh của bạn +2% [ICON_Culture] Văn minh cho mỗi Vĩ Nhân có được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_ARMAGH_DESCRIPTION">
+			<Text>Thợ xây của bạn có thể ngay lập tức xây Tu Viện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_GRANADA_DESCRIPTION">
+			<Text>Thợ xây của bạn có thể ngay lập tức xây Alcázar.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_MUSCAT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi trong các thành phố có Khu Thương Mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_PALENQUE_DESCRIPTION">
+			<Text>Tỷ lệ tăng trưởng thành phố cao hơn 15% nếu có Khu tri thức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SPEAR_OF_FIONN_NAME">
+			<Text>Lính giáo Fionn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SPEAR_OF_FIONN_DESCRIPTION">
+			<Text>Lính giáo Fionn: +5 Sức chiến đấu</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_IMPROVEMENT_ALCAZAR_NAME">
+      <Text>Alcázar</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_IMPROVEMENT_MONASTERY_NAME">
+      <Text>Tu Viện</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION">
+      <Text>Mở khoá khả năng của Thợ Xây để xây dựng Alcázar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Văn hoá. Đơn vị chiếm đóng nhận được +4 [ICON_Strength] Sức phòng thủ, và tự động tăng thêm 2 lượt khi phòng thủ. Không thể xây thêm một Alcázar khác bên cạnh.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_IMPROVEMENT_MONASTERY_DESCRIPTION">
+      <Text>Mở khoá khả năng của Thợ Xây để xây dựng Tu Viện.[NEWLINE][NEWLINE] +2 [ICON_Faith] Đức tin. +15 HP hồi phục cho đơn vị tôn giáo trong vùng không chịu tấn công ở lượt này. Không thể xây thêm một Tu Viện khác bên cạnh.</Text>
+    </Replace>
+	</LocalizedText>
+</GameData>

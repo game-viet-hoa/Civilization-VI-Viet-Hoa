@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LocalizedText>
+    <!-- Main menu text -->
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_GRAPHICS">
+      <Text>Graphics Benchmark</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_AI">
+      <Text>AI Benchmark</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_GRAPHICS_TT">
+      <Text>Measure graphics performance on your computer</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_AI_TT">
+      <Text>Measure AI and turn-processing performance on your computer</Text>
+    </Replace>
+
+    <!-- Benchmarking UI text -->
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_TIME">
+      <Text>Time:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_TURN">
+      <Text>Turn:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+      <Text>Average Turn Time:</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!---->
+		<!-- PROMOTION NAME TEXT -->
+		<!---->
+		<!--Recon-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_RANGER_NAME">
+			<Text>Biệt kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ALPINE_NAME">
+			<Text>Núi cao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SENTRY_NAME">
+			<Text>Lính gác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPYGLASS_NAME">
+			<Text>Ống nhòm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GUERRILLA_NAME">
+			<Text>Du kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_AMBUSH_NAME">
+			<Text>Phục kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CAMOUFLAGE_NAME">
+			<Text>Ngụy trang</Text>
+		</Replace>
+		<!--Melee-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BATTLECRY_NAME">
+			<Text>Tiếng thét xung trận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TORTOISE_NAME">
+			<Text>Rùa cạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMMANDO_NAME">
+			<Text>Đặc công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_AMPHIBIOUS_NAME">
+			<Text>Lưỡng cư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZWEIHANDER_NAME">
+			<Text>Đại kiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_URBAN_WARFARE_NAME">
+			<Text>Tác chiến đô thị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ELITE_GUARD_NAME">
+			<Text>Cận vệ tinh nhuệ</Text>
+		</Replace>
+		<!--Ranged-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_VOLLEY_NAME">
+			<Text>Súng liên thanh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GARRISON_NAME">
+			<Text>Đồn trú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ARROW_STORM_NAME">
+			<Text>Bão tên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INCENDIARIES_NAME">
+			<Text>Đạn cháy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPPRESSION_NAME">
+			<Text>Trấn áp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EMPLACEMENT_NAME">
+			<Text>Cắm chốt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EXPERT_MARKSMAN_NAME">
+			<Text>Thiện xạ</Text>
+		</Replace>
+		<!--Siege-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GRAPE_SHOT_NAME">
+			<Text>Đạn tỏa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CREW_WEAPONS_NAME">
+			<Text>Đội vũ khí</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SHELLS_NAME">
+			<Text>Đạn cối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SHRAPNEL_NAME">
+			<Text>Mảnh đạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HEAVY_PROJECTILES_2">
+			<Text>Ném vật nâng cấp 2</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME">
+			<Text>Đo tầm tiên tiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EXPERT_CREW_NAME">
+			<Text>Binh đoàn tinh nhuệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_FORWARD_OBSERVERS_NAME">
+			<Text>Tổ đội thiện nghệ</Text>
+		</Replace>
+		<!--Anti-Cavalry-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ECHELON_NAME">
+			<Text>Dàn trận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_THRUST_NAME">
+			<Text>Tập kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SQUARE_NAME">
+			<Text>Dàn trận hình vuông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCHILTRON_NAME">
+			<Text>Dàn trận Schiltron</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REDEPLOY_NAME">
+			<Text>Triển khai lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CHOKE_POINTS_NAME">
+			<Text>Điểm yếu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HOLD_THE_LINE_NAME">
+			<Text>Giữ hàng ngũ</Text>
+		</Replace>
+		<!--Light Cavalry-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ESCORT_MOBILITY_NAME">
+			<Text>Hộ tống linh động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CAPARISON_NAME">
+			<Text>Giáp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COURSERS_NAME">
+			<Text>Nhanh nhẹn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DEPREDATION_NAME">
+			<Text>Phá hoại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME">
+			<Text>Bọc 2 lớp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPIKING_THE_GUNS_NAME">
+			<Text>Súng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PURSUIT_NAME">
+			<Text>Truy đuổi</Text>
+		</Replace>
+		<!--Heavy Cavalry-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BREAKTHROUGH_NAME">
+			<Text>Đột phá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CHARGE_NAME">
+			<Text>Xông lên trước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BARDING_NAME">
+			<Text>Giáp ngựa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MARAUDING_NAME">
+			<Text>Đi cướp phá hoại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ROUT_NAME">
+			<Text>Chạy toán loạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ARMOR_PIERCING_NAME">
+			<Text>Phá giáp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REACTIVE_ARMOR_NAME">
+			<Text>Giáp xịn</Text>
+		</Replace>
+		<!--Aircraft Fighter-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DOGFIGHTING_NAME">
+			<Text>Không chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INTERCEPTOR_NAME">
+			<Text>Đánh chặn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_STRAFE_NAME">
+			<Text>Oanh tạc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GROUND_CREWS_NAME">
+			<Text>Thợ máy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COCKPIT_ARMOR_NAME">
+			<Text>Giáp Cabin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TANK_BUSTER_NAME">
+			<Text>Chống tăng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DROP_TANKS_NAME">
+			<Text>Thả xe tăng</Text>
+		</Replace>
+		<!--Aircraft Bomber-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BOX_FORMATION_NAME">
+			<Text>Đội hình hộp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_NAME">
+			<Text>Lái quá đà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TORPEDO_BOMBER_NAME">
+			<Text>Ngư lôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME">
+			<Text>Hỗ trợ trên không tầm gần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME">
+			<Text>Chiến thuật bảo dưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_LONG_RANGE_NAME">
+			<Text>Chặng dài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPERFORTRESS_NAME">
+			<Text>Siêu pháo đài</Text>
+		</Replace>
+		<!--Naval Melee-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EMBOLON_NAME">
+			<Text>Mũi nhọn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REINFORCED_HULL_NAME">
+			<Text>Gia cố thân tàu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HELMSMAN_NAME">
+			<Text>Tài công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_AUXILIARY_SHIPS_NAME">
+			<Text>Lái tàu phụ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_RUTTER_NAME">
+			<Text>Sổ tay chỉ đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CONVOY_NAME">
+			<Text>Hộ tống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CREEPING_ATTACK_NAME">
+			<Text>Biện pháp chống tàu ngầm</Text>
+		</Replace>
+		<!--Naval Ranged-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_LINE_OF_BATTLE_NAME">
+			<Text>Dàn hàng ngũ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BOMBARDMENT_NAME">
+			<Text>Ném bom</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PREPARATORY_FIRE_NAME">
+			<Text>Chuẩn bị bắn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ROLLING_BARRAGE_NAME">
+			<Text>Bắn chặn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PROXIMITY_FUSES_NAME">
+			<Text>Cầu chì cảm biến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME">
+			<Text>Trùng tâm ngắm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPPLY_FLEET_NAME">
+			<Text>Viện trợ hải đoàn</Text>
+		</Replace>
+		<!--Naval Carrier-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_FLIGHT_DECK_NAME">
+			<Text>Sàn Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HANGAR_DECK_NAME">
+			<Text>Khoang Nhà Máy Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_FOLDING_WINGS_NAME">
+			<Text>Cánh Cụp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCOUT_PLANES_NAME">
+			<Text>Máy Bay Do Thám</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ADVANCED_ENGINES_NAME">
+			<Text>Động Cơ Tiên Tiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DECK_CREWS_NAME">
+			<Text>Thủy Thủ Đoàn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPER_CARRIER_NAME">
+			<Text>Siêu Mẫu Hạm</Text>
+		</Replace>
+		<!--Naval Raider-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_LOOT_NAME">
+			<Text>Cướp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BOARDING_NAME">
+			<Text>Neo Đậu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SWIFT_KEEL_NAME">
+			<Text>Thân Lẹ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_OBSERVATION_NAME">
+			<Text>Quan Sát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SILENT_RUNNING_NAME">
+			<Text>Chạy Êm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HOMING_TORPEDOES_NAME">
+			<Text>Ngư Lôi Điều Khiển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_WOLFPACK_NAME">
+			<Text>Bầy sói</Text>
+		</Replace>
+		<!--Apostles-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ORATOR_NAME">
+			<Text>Nhà Hùng Biện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PROSELYTIZER_NAME">
+			<Text>Người Quy Đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TRANSLATOR_NAME">
+			<Text>Phiên Dịch Viên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PILGRIM_NAME">
+			<Text>Người Hành Hương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INDULGENCE_VENDOR_NAME">
+			<Text>Cha Xứ Xóa Tội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HEATHEN_CONVERSION_NAME">
+			<Text>Chuyển Đổi Ngoại Giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DEBATER_NAME">
+			<Text>Người Tranh Luận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MARTYR_NAME">
+			<Text>Tử Vì Đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CHAPLAIN_NAME">
+			<Text>Giáo Sĩ</Text>
+		</Replace>
+		<!--Warrior Monk-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
+			<Text>Shadow Strike</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
+			<Text>Twilight Veil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
+			<Text>Exploding Palms</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
+			<Text>Disciples</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
+			<Text>Sweeping Wind</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
+			<Text>Dancing Crane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
+			<Text>Cobra Strike</Text>
+		</Replace>
+		<!--Spy-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
+			<Text>Kỹ Sư Công Nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_NAME">
+			<Text>Trộm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_DEMOLITIONS_NAME">
+			<Text>Phá Hủy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_CON_ARTIST_NAME">
+			<Text>Lừa Đảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME">
+			<Text>Thủ Lĩnh Du Kích</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME">
+			<Text>Nhà Khoa Học Tên Lửa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SEDUCTION_NAME">
+			<Text>Dụ Dỗ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_DISGUISE_NAME">
+			<Text>Cải Trang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_LINGUIST_NAME">
+			<Text>Nhà Ngôn Ngữ Học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_QUARTERMASTER_NAME">
+			<Text>Đại Kiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_ACE_DRIVER_NAME">
+			<Text>Tay Lái Giỏi</Text>
+		</Replace>
+		<!---->
+		<!-- PROMOTION DESCRIPTION TEXT -->
+		<!---->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Thắng cấp)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Chính sách)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Chính phủ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Vĩ Nhân)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Tôn giáo)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Khả năng)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WONDER_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Kỳ quan)</Text>
+		</Replace>
+		<!--Recon-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
+			<Text>[ICON_Movement] Di chuyển nhanh hơn trong Rừng và Rừng nhiệt đới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ALPINE_DESCRIPTION">
+			<Text>[ICON_Movement] Di chuyển nhanh hơn trên địa hình đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SENTRY_DESCRIPTION">
+			<Text>Có thể nhìn xuyên qua Rừng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPYGLASS_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GUERRILLA_DESCRIPTION">
+			<Text>Có thể di chuyển sau khi tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COMMANDO_DESCRIPTION">
+			<Text>Có thể leo qua vách đá.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
+			<Text>+20 [ICON_Strength] Sức mạnh trong mọi tính huống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION">
+			<Text>Chỉ có kẻ địch liền kề mới thấy được đơn vị này.</Text>
+		</Replace>
+		<!--Melee-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BATTLECRY_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị cận chiến và đánh xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TORTOISE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ chống đơn vị đánh xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION">
+			<Text>Không phạt [ICON_Strength] Sức mạnh và [ICON_Movement] Di chuyển khi tấn công từ biển hoặc sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ZWEIHANDER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị chống kị binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiến đấu trong một đặc khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ELITE_GUARD_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt nếu cho phép [ICON_Movement] Di chuyển. Có thể di chuyển sau khi tấn công.</Text>
+		</Replace>
+		<!--Ranged-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_VOLLEY_DESCRIPTION">
+			<Text>+5 [ICON_Ranged] Đánh xa đấu với đơn vị mặt đất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi chiếm một đặc khu hoặc Pháo đài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] Đánh xa đấu với đơn vị mặt đất và hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] Đánh xa đấu với đặc khu phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPPRESSION_DESCRIPTION">
+			<Text>Tập luyện kiểm soát khu vực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EMPLACEMENT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ đấu với thành phố tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt nếu đơn vị không di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EXPERT_CREW_DESCRIPTION">
+			<Text>Có thể tấn công sau khi di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION">
+			<Text>+1 [ICON_Range] Tầm đánh.</Text>
+		</Replace>
+		<!--Anti-Cavalry-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh đấu với đơn vị kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị cận chiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
+			<Text>x2 thưởng hỗ trợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ đấu với đơn vị cận chiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<!--Siege-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SHRAPNEL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SHELLS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đặc khu phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ trong Rừng, Đồi hoặc Đầm lầy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Đơn vị lân cận của các loại khác nhau được +10 [ICON_Strength] Sức mạnh đấu với kỵ binh.</Text>
+		</Replace>
+		<!--Light Cavalry-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION">
+			<Text>Kế thừa tốc độ [ICON_Movement] Di chuyển của các đơn vị đoàn hộ tống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh đấu với chống kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh khi tấn công đơn vị dánh xa và công thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DEPREDATION_DESCRIPTION">
+			<Text>Cướp bóc chỉ mất 1 điểm [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION">
+			<Text>2x thưởng thọc sườn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị công thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PURSUIT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<!--Heavy Cavalry-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CHARGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với phòng thủ Cố Thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BARDING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với tấn công tầm xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MARAUDING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị trong đặc khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ROUT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chống lại các đơn vị bị thương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh chống lại đơn vị kỵ binh hạng nặng khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ chống lại kỵ binh hạng nặng và chống kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt nếu cho phép [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<!--Aircraft Fighter-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DOGFIGHTING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị Máy bay chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với phòng không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INTERCEPTOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị bomber.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_STRAFE_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh đấu với đơn vị không phải là kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_GROUND_CREWS_DESCRIPTION">
+			<Text>Hồi sức khi tuần tra hoặc dàn trận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TANK_BUSTER_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh đấu với đơn vị kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DROP_TANKS_DESCRIPTION">
+			<Text>+2 [ICON_Range] tầm đánh.</Text>
+		</Replace>
+		<!--Aircraft Bomber-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BOX_FORMATION_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu lại đơn vị Máy bay chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với phòng không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
+			<Text>+12 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION">
+			<Text>Có thể hồi sức sau khi tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_LONG_RANGE_DESCRIPTION">
+			<Text>+2 [ICON_Range] Tầm đánh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION">
+			<Text>Không có yêu cầu sức khỏe tối thiểu để không tặc.</Text>
+		</Replace>
+		<!--Naval Melee-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi phòng thủ đấu với tấn công tầm xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_RUTTER_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HELMSMAN_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
+			<Text>Hồi sức bên ngoài lãnh thổ thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh khi trong đoàn hộ tống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION">
+			<Text>+14 [ICON_Strength] Sức mạnh đấu với hải tặc.</Text>
+		</Replace>
+		<!--Naval Ranged-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
+			<Text>Hồi sức bên ngoài lãnh thổ thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đặc khu phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh đấu với đơn vị mặt đất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đặc khu phòng thủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh khi phòng thủ đấu với tấn công trên trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION">
+			<Text>+1 [ICON_Range] tầm đánh.</Text>
+		</Replace>
+		<!--Naval Carrier-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION">
+			<Text>+1 slot máy bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HANGAR_DECK_DESCRIPTION">
+			<Text>+1 slot máy bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION">
+			<Text>+1 slot máy bay.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DECK_CREWS_DESCRIPTION">
+			<Text>Có thể hồi sức sau khi tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
+			<Text>Hồi sức bên ngoài lãnh thổ thân thiện.</Text>
+		</Replace>
+		<!--Naval Raider-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
+			<Text>+50 [ICON_Gold] Vàng từ đột kích bờ biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_BOARDING_DESCRIPTION">
+			<Text>Có [ICON_Gold] Vàng từ chiến thắng hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_OBSERVATION_DESCRIPTION">
+			<Text>+1 tầm nhìn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh đấu với đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
+			<Text>Có thể di chuyển sau khi tấn công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_WOLFPACK_DESCRIPTION">
+			<Text>+1 tấn công mỗi lượt.</Text>
+		</Replace>
+		<!--Apostle-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_ORATOR_DESCRIPTION">
+			<Text>Có thể Truyền đạo Tôn giáo thêm 2 lần.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PROSELYTIZER_DESCRIPTION">
+			<Text>Truyền Đạo Tôn Giáo sẽ loại bỏ 75% áp lực từ Tôn Giáo khác trong thành phố mục tiêu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
+			<Text>Truyền Đạo Tôn Giáo sẽ x3 Sức Mạnh trong các thành phố của nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
+			<Text>Lần đầu tiên di chuyển tới gần Kỳ Quan Thiên Nhiên sẽ nhận thêm 3 lần Truyền Đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION">
+			<Text>Nhận [ICON_Gold] 100 Vàng nếu đơn vị này Cải Giáo một thành phố sang Tôn Giáo của bạn lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION">
+			<Text>Có được Quân Man Di khi kề bên bằng cách sử dụng một lần Truyền Đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_DEBATER_DESCRIPTION">
+			<Text>+20 [ICON_Religion] Sức mạnh Tôn Giáo trong chiến đấu thần học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MARTYR_DESCRIPTION">
+			<Text>Di tích sẽ được tạo nếu Tông Đồ chết trong chiến đấu thần học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
+			<Text>Tông Đồ hoạt động như Quân Y, cung cấp thêm chữa lành cho các đơn vị trong vòng 1 ô.</Text>
+		</Replace>
+		<!--Warrior Monk-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
+			<Text>2x thưởng thọc sườn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
+			<Text>Chỉ đơn vị địch liền kề mới có thể nhìn thấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Sức mạnh chiến đấu trong tất cả các tình huống.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION">
+			<Text>Khi đang phòng thủ một đơn vị địch, lan truyền tôn giáo của họ tới các thành phố liền kề</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION">
+			<Text>Thêm +1 tấn công mỗi lượt nếu cho phép [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Sức mạnh chiến đấu trong tất cả các tình huống.</Text>
+		</Replace>
+		<!--Spy-->
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">
+			<Text>Ăn cắp công nghệ nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION">
+			<Text>Ăn cắp Thành tựu vĩ đại nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION">
+			<Text>Phá hoại sản xuất nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION">
+			<Text>Bòn rút ngân quỹ nếu nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION">
+			<Text>Đào tạo lính du kích nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION">
+			<Text>Phá hoại tên lửa nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION">
+			<Text>Phản gián nếu kinh nghiệm hơn 2 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION">
+			<Text>Không tốn thời gian để thiết lập sự hiện diện ở thành phố địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION">
+			<Text>Thời gian hoàn thành tất cả nhiệm vụ giảm 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION">
+			<Text>Nếu điệp viên ở trong lãnh thổ nhà, tất cả các điệp viên của bạn hoạt động với +1 level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION">
+			<Text>Nếu bị bắt trong một nhiệm vụ thì có nhiều cơ hội để trốn thoát (+4 level).</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
