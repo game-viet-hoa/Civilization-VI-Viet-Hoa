@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Khi bạn gửi một [ICON_ENVOY] Phái đoàn đến một thành phố-tự trị nó sẽ thêm 200 sức ép Tôn giáo đối với thành phố-tự trị đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>+1 [ICON_Food] Thực phẩm từ [ICON_RESOURCE_WINE] Rượu, [ICON_RESOURCE_INCENSE] Hương trầm, [ICON_RESOURCE_COCOA] Ca-cao,  [ICON_RESOURCE_TOBACCO] Thuốc lá, [ICON_RESOURCE_OLIVES] Ô-liu, [ICON_RESOURCE_COFFEE] Cà-phê, và [ICON_RESOURCE_TEA] Chè.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_GOLDEN_AGE_WAR">
+			<Text>(Tuyên bố Chiến tranh Thời Vàng son chống lại bạn)</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_EMERGENCY_WAR">
+      <Text>(Đã gia nhập Khẩn cấp chống lại bạn)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_WAR_OF_RETRIBUTION">
+      <Text>(Tuyên bố Chiến tranh Báo thù chống lại bạn)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_IDEOLOGICAL_WAR">
+      <Text>(Tuyên bố Chiến tranh Tư tưởng chống lại bạn)</Text>
+    </Replace>
+
+    <!-- Human Declares War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Ấn Độ không sợ chiến tranh. Điều bạn có thể làm nhiều nhất là làm chậm quá trình tiến bộ của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Tôi biết không thể tin tưởng bạn! Chúng tôi đã chuẩn bị từ lâu cho cuộc chiến này. Bạn có muốn không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Bạn có thể đã tìm thấy một hướng đi khác. Bây giờ, sự hối tiếc của bạn sẽ được đo bằng máu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bạn thật ngu xuẩn! Hãy ăn thật no trước khi đặt chân vào Scotland!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Bạn sẽ thất bại nhanh chóng... người dân của bạn, sẽ bị lãng quên. Ta đã thấy trước điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Cạn lời. Hôm nay, Mông Cổ sẽ đánh bại bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Những lời mạnh mẽ của họ  làm run rẩy đôi môi của bạn. Tôi đã nhìn thấy bạn đang run rẩy trong sợ hãi.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Những trái tim Georgia sẽ không run sợ trước đám đông quân đội ngươi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Sự hiếu chiến nguy hiểm của bạn sẽ không thành công. Hà Lan sẽ chống lại!</Text>
+		</Replace>		
+	<!-- AI Declares War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Lãnh thổ của bạn sẽ cải thiện được nhiều dưới sự cai trị của Ấn Độ. Tôi nhìn thấy điều tốt nhất từ nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Bạn đến với chiến tranh. Mapuche sẽ sử dụng vũ khí của riêng mình để chống lại bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Tôi không quan tâm khi gây ra sự khủng khiếp khi chiến tranh với bạn—nhưng công lý cần được bảo đảm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Chiến tranh vẫn nằm trong trái tim chúng ta. Tại sao phải tiếp tục một hòa bình sai trái?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Các ngôi sao đã tiên đoán trước thất bại của bạn. Tại sao phải chống lại thiên ý?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bạn kháng cự lại đường lối quân đội của tôi. Chẳng bao lâu, bạn sẽ gục ngã trước họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Có quá nhiều điểm yếu trong bạn. Đừng sợ —những đứa con của Zulu sẽ loại bỏ giùm bạn.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Thượng đế chiến đấu cùng chúng tôi. Bạn chỉ có một mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Hà Lan không sợ bạn. Khi chúng tôi đánh bại bạn, chúng tôi sẽ mạnh mẽ hơn bao giờ hết.</Text>
+		</Replace>			
+		
+	
+  </LocalizedText>
+</GameData>

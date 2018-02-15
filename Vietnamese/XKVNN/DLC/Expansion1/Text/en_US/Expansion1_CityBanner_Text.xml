@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGION_TT">
+			<Text>Tôn giáo Chủ đạo: {1_ReligionName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BELONGS_TT">
+			<Text>Thuộc về {1_CivName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_TT">
+			<Text>{1_CityName} ({2_CivName})</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
+			<Text>Thông tin của chúng tôi cho biết có một [ICON_Governor] Thống đốc đang ở trong thành phố này, nhưng không thể xác định ai hay họ đã thiết lập người đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
+			<Text>Thông tin của chúng tôi cho biết có [ICON_Governor] {1_GovernorName} đang ở trong thành phố này, nhưng không thể xác định nhóm nào đã thiết lập người đó</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
+			<Text>Bạn sở hữu một Trạm thông Thương ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
+			<Text>Bạn sở hữu một Trạm thông Thương ở đây, nhưng nó không hoạt động do chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_CAN_STRIKE">
+			<Text>Thành phố có thể thực hiện một cuộc tấn công tầm xa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
+			<Text>Thành phố được bảo vệ sơ sài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
+			<Text>Thành phố được bảo vệ bởi tường thành</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
+			<Text>Thủ đô Đầu tiên của {1_Owner}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
+			<Text>Thủ đô Mới của {1_Owner}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
+			<Text>Thủ đô Đầu tiên của {1_OriginalOwner} (Đã chiếm được)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
+			<Text>Thành phố của {1_Owner}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_CITY_STATE_TT">
+			<Text>Thành phố Tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_FREE_CITY_TT">
+			<Text>Thành phố Tự do</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

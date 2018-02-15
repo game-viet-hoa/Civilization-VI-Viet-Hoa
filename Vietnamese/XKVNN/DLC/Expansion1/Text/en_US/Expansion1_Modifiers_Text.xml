@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_EMERGENCY">
+			<Text>Liên minh Khẩn cấp|Các Liên minh Khẩn cấp</Text>
+			 <Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_GOVERNOR">
+			<Text>Thống đốc|Các Thống đốc</Text>
+			 <Plurality>1|2</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,320 @@
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_ERAS_TURNS_TILL_NEXT_ERA">
+			<Text>SỐ LƯỢT TRƯỚC KHI TỚI THỜI KẾ TIẾP:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_CURRENT_SCORE">
+			<Text>ĐIỂM HIỆN TẠI:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_CURRENT_AGE">
+			<Text>THỜI HIỆN TẠI:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_HEROIC">
+			<Text>ANH HÙNG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_GOLDEN">
+			<Text>VÀNG SON</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_NORMAL">
+			<Text>THÔNG THƯỜNG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_DARK">
+			<Text>ĐEN TỐI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_CURRENT_AGE_BY_CIV">
+			<Text>THỜI HIỆN TẠI CỦA NỀN VĂN MINH:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_TO_EARN_AGE_NEXT_ERA">
+			<Text>KIẾM MỘT THỜI MỚI VÀO THỜI KẾ TIẾP:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_ERA_REQUIREMENTS_REDUCED">
+			<Text>Điểm Thời đại yêu cầu đã bị giảm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_ERA_REQUIREMENTS_INCREASED">
+			<Text>Điểm Thời đại yêu cầu đã tăng thêm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_TITLE">
+			<Text>Tiến độ Thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_NEW_ERA_THRESHOLD">
+			<Text>NGƯỠNG CHO THỜI KẾ TIẾP</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_ERA_TYPE_EFFECTS">
+			<Text>{1_EraName} Các hiệu ứng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_THE_ERA">
+			<Text>{1_EraName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA">
+			<Text>Thời gian cần qua Thời Kế tiếp:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA_VALUE">
+			<Text>{1_MinTurns} - {2_MaxTurns} Lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_SPECIFIC_TURNS_TO_NEXT_ERA">
+			<Text>{1_Turns} {1_Turns : plural 1?Turn; other?Turns;}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_CHANGE_TITLE">
+			<Text>THẾ GIỚI TIẾN VÀO:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_HEROIC_AGE">
+			<Text>Thời Anh hùng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_GOLDEN_AGE">
+			<Text>Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_DARK_AGE">
+			<Text>Thời Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_NORMAL_AGE">
+			<Text>Thời Thông thường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_ACTIVE_BONUSES">
+			<Text>Kích hoạt Thưởng:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_ERA_SCORE">
+			<Text>Điểm Thời đại:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_ERA_PROGRESS_TOOLTIP">
+			<Text>Tiến độ Thời đại[NEWLINE][NEWLINE]Xem Điểm Thời đại và Cống hiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_GOLDEN_THRESHOLD">
+			<Text>Ngưỡng Thời Vàng son:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_PROGRESS_DARK_THRESHOLD">
+			<Text>Ngưỡng Thời Đen tối:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_TITLE">
+			<Text>Hoàn thành Thời đại: {1_EraName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_DESCRIPTION">
+			<Text>Bạn đã hoàn thành rất nhiều, lãnh đạo kiệt xuất! Các cuộc thắng trận của bạn sẽ được lưu danh vào lịch sử?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION">
+			<Text>Sự Cống hiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION_SUBHEADER">
+			<Text>Thực hiện Sự Cống hiến của bạn cho {1_EraName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_COMMEMORATION_POPUP_CONFIRM">
+			<Text>Xác nhận {1_NumSelected}/{2_NeededSelected}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_TITLE">
+			<Text>THẾ GIỚI ĐÃ TIẾN VÀO[NEWLINE]THE {1_EraName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE">
+			<Text>Bạn đang trong Thời Anh hùng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE">
+			<Text>Bạn đang trong Thời Vàng son!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE">
+			<Text>Bạn đang trong Thời Đen tối!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE">
+			<Text>Bạn đang trong Thời Thông thường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_LABEL">
+			<Text>[ICON_GLORY_GOLDEN_AGE] THỜI VÀNG SON</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_LABEL">
+			<Text>[ICON_GLORY_DARK_AGE] THỜI ĐEN TỐI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_LABEL">
+			<Text>[ICON_GLORY_NORMAL_AGE] THỜI THÔNG THƯỜNG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bạn có thể thực hiện 3 Sự Cống hiến, một trong số đó sẽ cung cấp điểm thưởng cho Thời đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bạn có thể thực hiện 1 Sự Cống hiến, sẽ cung cấp điểm thưởng cho Thời đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bạn có thể thực hiện 1 Sự Cống hiến, sẽ cung cấp một nguồn bổ sung Điểm Thời đại trong Thời đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bạn có thể thực hiện 1 Sự Cống hiến, sẽ cung cấp một nguồn bổ sung Điểm Thời đại trong Thời đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT">
+			<Text>Bạn đang trong [ICON_GLORY_SUPER_GOLDEN_AGE] Thời Anh hùng trong trò chơi này![NEWLINE][NEWLINE][ICON_BULLET]Mỗi người trong [ICON_Citizen]  Công dân của bạn phải chịu áp lực 1.5 Lòng Trung thành trong thành phố của họ. Áp lực này cũng ảnh hưởng đến các thành phố khác trong phạm vi 9 ô, nhưng hiệu quả trên mỗi ô sẽ ít hơn 10%. Sẽ dễ dàng hơn để duy trì Lòng Trung thành trong các thành phố của bạn và thách thức Lòng Trung thành của các thành phố lân cận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>Bạn đang trong [ICON_GLORY_GOLDEN_AGE] Thời Vàng son trong trò chơi này!![NEWLINE][NEWLINE][ICON_BULLET]Mỗi người trong [ICON_Citizen]  Công dân của bạn phải chịu áp lực 1.5 Lòng Trung thành trong thành phố của họ. Áp lực này cũng ảnh hưởng đến các thành phố khác trong phạm vi 9 ô, nhưng hiệu quả trên mỗi ô sẽ ít hơn 10%. Sẽ dễ dàng hơn để duy trì Lòng Trung thành trong các thành phố của bạn và thách thức Lòng Trung thành của các thành phố lân cận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT">
+			<Text>Bạn đang trong [ICON_GLORY_DARK_AGE] Thời Đen tối trong trò chơi này![NEWLINE][NEWLINE][ICON_BULLET]Mỗi người trong [ICON_Citizen]  Công dân của bạn phải chịu áp lực 0.5 Lòng Trung thành trong thành phố của họ. Áp lực này cũng ảnh hưởng đến các thành phố khác trong phạm vi 9 ô, nhưng hiệu quả trên mỗi ô sẽ ít hơn 10%. Sẽ khó duy trì Lòng Trung thành ở các thành phố của bạn và khó khăn hơn để gây ảnh hưởng đến Lòng Trung thành của các thành phố nước ngoài lân cận.[NEWLINE][NEWLINE][ICON_BULLET]Bạn có thể áp dụng Chính sách Đen tối cho Chính phủ của bạn, nhưng có thể phải trả giá cao.[NEWLINE][NEWLINE][ICON_BULLET]Nếu bạn kiếm đủ Điểm Thời đại cho Thời Vàng son trong thời đại tiếp theo của trò chơi, bạn sẽ đạt được Thời Anh hùng, có thể thực hiện nhiều Sự Công hiến có mức điểm thưởng cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT">
+			<Text>Bạn đang trong [ICON_GLORY_NORMAL_AGE] Thời Thông thường trong trò chơi này![NEWLINE][NEWLINE][ICON_BULLET] Mỗi người trong [ICON_Citizen]  Công dân của bạn phải chịu áp lực 1 Lòng Trung thành trong thành phố của họ. Áp lực này cũng ảnh hưởng đến các thành phố khác trong phạm vi 9 ô, nhưng hiệu quả trên mỗi ô sẽ ít hơn 10%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_PRIDE_MOMENTS">
+			<Text>Khoảnh khắc Lịch sử (+1 tới +6 mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_NEW_ERA_THRESHOLDS">
+			<Text>NGƯỠNG THỜI ĐẠI MỚI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GLORY_HUD_ERA_ENDS_IN">
+			<Text>Số lượt Trước khi Kết thúc Thời đại: {1_Turns}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_AGE_EFFECTS">
+			<Text>HIỆU ỨNG THỜI ĐẠI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TECH_BOOSTS">
+			<Text>Thưởng Sự Cống hiến: khởi động Eureka (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CIVIC_BOOSTS">
+			<Text>Thưởng Sự Cống hiến: khởi động Cảm xúc (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CITY_RELIGION_CONVERSIONS">
+			<Text>Thưởng Sự Cống hiến: Các thành phố chuyển đổi theo tôn giáo của bạn (+{1_ScoreIncrement} mỗi chuyển đổi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_DISTRICT_CONSTRUCTIONS">
+			<Text>Thưởng Sự Cống hiến: Các quận được xây dựng (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CORPS_KILLS">
+			<Text>Thưởng Sự Cống hiến: Các quân đoàn bị giết (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARMY_KILLS">
+			<Text>Thưởng Sự Cống hiến: Quân đội bị giết (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TRADE_ROUTE_COMPLETIONS">
+			<Text>Thưởng Sự Cống hiến: Đã hoàn thành Tuyến đường Thương mại (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_MAP_DISCOVERIES">
+			<Text>Thưởng Sự Cống hiến: Khám phá những vùng đất mới (+{1_ContinentScoreIncrement} cho Lục địa, +{2_NaturalWonderScoreIncrement} cho các Kỳ quan Tự nhiên)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNIT_SEA_KILLS">
+			<Text>Thưởng Sự Cống hiến: Giết các đơn vị hải quân không thuộc Man di(+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SCIENCE_BUILDING_CONSTRUCTIONS">
+			<Text>Thưởng Sự Cống hiến: Các tòa nhà được xây dựng cung cấp cho Khoa học như lợi ích cơ sở. (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CULTURE_BUILDING_CONSTRUCTIONS">
+			<Text>Thưởng Sự Cống hiến: Một khe cho các tòa nhà đã được xây dựng có Tác phẩm Vĩ đại(+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_AERODROME_BUILDING_CONSTRUCTIONS">
+			<Text>Thưởng Sự Cống hiến: Các tòa nhà được xây dựng từ quận có sân bay nhỏ (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_INDUSTRIAL_BUILDING_CONSTRUCTIONS">
+			<Text>Thưởng Sự Cống hiến: Đã xây dựng nền công nghiệp sau này (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SPY_MISSIONS">
+			<Text>Thưởng Sự Cống hiến: Mỗi hoạt động tấn công Gián điệp thành công(+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARTIFACT_EXTRACTIONS">
+			<Text>Thưởng Sự Cống hiến: Mỗi cổ vật được khai quật (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_GREAT_PEOPLE_EARNED">
+			<Text>Thưởng Sự Cống hiến: Mỗi Vĩ nhân có được (+{1_ScoreIncrement} mỗi loại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNKNOWN_SOURCE">
+			<Text>Những nguồn Khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_BASELINE">
+			<Text>Điểm khi Thời đại bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_GOLDEN_AGE">
+			<Text>Căn cứ ngưỡng Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_DARK_AGE">
+			<Text>Căn cứ ngưỡng Thời Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_CITIES">
+			<Text>Các thành phố khi Thời đại bắt đầu ({1_ScoreIncrement} mỗi thành phố)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNHAPPY_CITIES">
+			<Text>Mỗi thành phố không vui vẻ ({1_ScoreIncrement} mất [ICON_Amenities] Tiện nghi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_GOVERNMENT">
+			<Text>Chính phủ (KHÔNG KÍCH HOẠT)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_TECH">
+			<Text>Không hoàn thành các Công nghệ từ Thời đại này (KHÔNG KÍCH HOẠT)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_CIVIC">
+			<Text>Không hoàn thành các Công dân từ Thời đại này(KHÔNG KÍCH HOẠT)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_TECH">
+			<Text>Không hoàn thành các Công nghệ từ các Thời đại trước đó(KHÔNG KÍCH HOẠT)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_CIVIC">
+			<Text>Không hoàn thành các Công dân từ các Thời đại trước đó (KHÔNG KÍCH HOẠT)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_GOLDEN_AGES">
+			<Text>Các Thời Vàng son đã đạt được ({1_ScoreIncrement} mỗi Thời đại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_DARK_AGES">
+			<Text>Các Thời Đen tối đã đạt được ({1_ScoreIncrement} mỗi Thời đại)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_ANARCHY">
+			<Text>Vô chính phủ trong Thời đại này ({1_ScoreIncrement} mỗi Vô chính phủ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNKNOWN_SOURCE">
+			<Text>Những nguồn Khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_SCORE_HEADER">
+			<Text>Điểm Thời đại của bạn:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_SCORE_SOURCE">
+			<Text>{1_EraScoreNumber} từ {2_EraScoreSourceType}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOLDEN_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Ngưỡng để kiếm được một [ICON_GLORY_GOLDEN_AGE] Thời Vàng son tiếp theo: {1_thresh} hoặc cao hơn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DARK_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Ngưỡng để tránh được một [ICON_GLORY_DARK_AGE] Thời Đen tối tiếp theo: {1_thresh} hoặc cao hơn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_STABILITY_HEADER">
+			<Text>Điểm Ổn định của bạn:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_SCORE_LEADERBOARD_TITLE">
+			<Text>Điểm Thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_STABILITY_LEADERBOARD_TITLE">
+			<Text>Điểm Ổn định</Text>
+		</Replace>
+		<!-- Golden/Dark Ages -->
+		<Replace Language='en_US' Tag="LOC_NEW_TURN_PANEL_NEXT_ERA_COUNTDOWN">
+			<Text>{2_EraName} kết thúc trong {1_TurnsRemaining} {1_TurnsRemaining : plural 1?Turn; other?Turns;}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_ENTERED_NEW_ERA">
+			<Text>Thế giới tiến vào {1_EraName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_GOLDEN_AGE">
+			<Text>Nền văn minh của bạn đã phát triển thịnh vượng trong thời đại cuối cùng, hãy dẫn dắt họ bước vào Thời Vàng son trong thời đại này!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_DARK_AGE">
+			<Text>Nền văn minh của bạn đã vấp ngã vào thời đại cuối cùng này, hãy thoát khỏi Thời Đen tối trong thời đại này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_GOLDEN_AGE_DESCRIPTION">
+			<Text>Những Thời Vàng son kiếm được bằng cách kích hoạt những Khoảnh khắc Lịch sử, và mang lại nhiều  điểm thưởng lớn.[NEWLINE]Những người chơi này đã giành được Thời Vàng son trong thời đại này:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_DARK_AGE_DESCRIPTION">
+			<Text>Thời Đen tối có thể bắt đầu trong Thời Trung cổ và đặt ra những thách thức lớn hoặc kém phát triển cho nền văn minh. -1 [ICON_Amenities] Tiện nghi và -50% Phát triển ở tất cả các thành phố. Nếu một người chơi trở lại Thời Đen tối một lần nữa trong thời đại kế tiếp, một nửa thành phố của họ sẽ rơi vào tình trạng hỗn loại và trở thành các trại Man di.[NEWLINE]Những người chơi này đã bước vào Thời Đen tối trong thời đại này:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ERA_POPUP_NO_MET_PLAYERS">
+			<Text>(Không có người chơi nào bạn đã gặp)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_HEROIC_AGE_ACHIEVED">
+			<Text>Bởi vì bạn đã kiếm được một Thời Anh hùng, bạn có thể thực hiện ba Sự Cống hiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_GOLDEN_AGE_ACHIEVED">
+			<Text>Bởi vì bạn đã kiếm được một Thời Vàng son, bạn có thể thực hiện một Sự Cống hiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_DARK_AGE_ACHIEVED">
+			<Text>Bởi vì bạn đã kiếm được một Thời Đen tối, bạn có thể thực hiện một Sự Cống hiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEDICATION_POPUP_NORMAL_AGE_ACHIEVED">
+			<Text>Bởi vì bạn đã kiếm được một Thời Thông thường, bạn có thể thực hiện một Sự Cống hiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_PREVIOUS_ERA_TOTAL_SCORE">
+			<Text>Tổng điểm từ các Thời đại trước đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_EFFECTS_ACTIVE_THIS_AGE">
+			<Text>KÍCH HOẠT HIỆU ỨNG TRONG THỜI NÀY:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERAS_YOU_WILL_EARN_BLANK_AGE_NEXT_ERA">
+			<Text>Bạn sẽ kiếm được một {1_AgeName} ở Thời đại kế tiếp</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

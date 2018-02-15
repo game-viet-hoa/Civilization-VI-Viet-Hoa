@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Chandragupta Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Quả thật, Ấn Độ từ lâu đã nghĩ đến một người giống bạn. Công bố công khai là một đặc quyền.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Người dân của tôi không chia sẻ sự nhiệt tình của tôi vì tình hữu nghị của chúng ta. Nhưng một ngày nào đó họ sẽ thân thiện với bạn.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Ấn Độ coi trọng rất cao về người dân của bạn. Với sự cho phép của bạn, tôi sẽ công bố tình hữu nghị chung của chúng ta với tất cả mọi người.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tôi có thể tôn trọng điều đó.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Sai lầm của tôi. Hãy tha thứ cho tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tôi rất thích sự tổ chức trong phái đoàn của bạn. Họ đã cho tôi nhiều điều để xem xét tương lai của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Mặc dù tôi rất vui mừng chào đón phái đoàn của bạn, tôi đang bận rộn ở nơi khác. Hẹn bạn thời điểm khác!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Phái đoàn chúng tôi mang rất nhiều quà. Rất nhiều sữa béo và gia vị mà bạn mong muốn! Chúng tôi luôn có thể gửi nhiều hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Mặc dù tôi bỏ qua lời lẽ độc ác của bạn, Ấn Độ vẫn sẽ nhớ họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bạn đem đến sự lúng túng cho người dân của bạn! Bạn là kẻ hai lời, họ không hề dễ chịu gì.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bạn được chào đón để nói chuyện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Ấn Độ coi tương lai của bạn là đối địch hay chư hầu trong tương lai, nhưng thay vào đó là một đối tác thật sự. bạn có muốn nói gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Người dân của chúng tôi đã đổ đủ máu—cả bạn và tôi. Chúng ta hãy chấm dứt cuộc chiến tranh này vì lợi ích của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Đây là một lời đùa? Không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Đã qua thời gian rút lui lực lượng của chúng tôi từ chiến trường. Bạn phải nhìn thấy sự khôn ngoan trong điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tôi khiêm tốn chấp nhận yêu cầu của bạn. Ấn Độ có nhiều lợi ích từ sự sắp xếp như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tôi không thể. Bây giờ, phải đóng cửa biên giới Ấn Độ với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Mở biên giới của bạn sẽ giúp mang lại cho người dân của bạn gần gũi hơn với tôi. Tôi tất nhiên sẽ đáp lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Tôi không tin rằng quân đội của bạn có ý định đe dọa Ấn Độ. Tuy nhiên, tốt nhất là họ nên rút lui. Ngay lập tức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bạn đã học được những bài học quá tốt cho mình. Tôi sẽ chỉ dẫn bạn khi kết thúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Không. Ấn Độ sẽ không có được lợi ích gì.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Một đề nghị khôn ngoan!</Text>
+		</Replace>
+
+		<!-- Lautaro Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Thế giới sẽ biết chúng ta dẫn dắt hai dân tộc với một ý chí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Mapuche không chuẩn bị cho tình hữu nghị này. Có lẽ trong thời gian tới chúng ta sẽ đạt được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Một ý chí; hai dân tộc. Chúng ta có nên nói với thế giới chúng ta cùng đứng như bạn bè?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Vâng, tốt lắm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Điều này để lại một dư vị xấu trong miệng của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Tôi cảm ơn phái đoàn của bạn. Mapuche chào đón họ như những vị khách danh dự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Phái đoàn của bạn không được vào thành phố Mapuche.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche gửi quà tặng. Vải này là tốt nhất của chúng tôi. Món hầm charquicán rất ngon. Hãy chấp nhận những món quà này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Hành động của bạn phản ánh bản chất của bạn. Mapuche không thể đứng cạnh bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche dùng tên của bạn như một lời nguyền. Ai có thể đứng cùng bạn? Bạn bè của bạn cũng quay lưng lại với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_LAUTARO_ANY">
+			<Text>À, đó là bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Tôi biết bây giờ bạn xứng đáng. Mapuche mời bạn đứng cùng chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LAUTARO_ANY">
+			<Text>Mapuche không còn bụng dạ nào cho cuộc chiến này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LAUTARO_ANY">
+			<Text>Tôi không thể.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Cuộc chiến này ràng buộc chúng ta đi theo con đường phá hoại. Hãy để chúng tôi thay thế cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Bạn được chào đón để di qua vùng đất Mapuche.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Vùng đất này chỉ dành riêng cho Mapuche. Bạn phải đi nơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche muốn di chuyển trong vùng đất của bạn, giống như bạn muốn trong chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LAUTARO_ANY">
+			<Text>Mapuche nghĩ rằng quân đội của bạn có ý định tổ hại chúng tôi. Tôi sẽ cho bạn cơ hội để thoải mái tâm trí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Chúng tôi đã chống lại đến cùng, nhưng đã quá muộn... quá muộn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Bạn xúc phạm tôi đấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Bạn tôn trọng Mapuche với điều này.</Text>
+		</Replace>
+
+		<!-- Poundmaker Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Tôi hạnh phúc nhất khi đem đến hòa bình giữa các quốc gia. Tình hữu nghị giữa nhân dân ta mang lại niềm vui cho tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Ước muốn tốt nhất là kết bạn với Cree, nhưng người dân chúng tôi vẫn chưa sẵn sàng. Không phải bây giờ.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Cree đã sẵn sàng chào đón bạn với tư cách bạn bè. Xin vui lòng, tôi yêu cầu bạn, tôn trọng sự tin tưởng của họ.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Tốt, tốt.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Đây không phải là điều tôi muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Người đân chúng tôi hoan nghênh phái đoàn của bạn đến đống lửa chóp nhọn của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Không, người dân của tôi không muốn quà tặng như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Người dân của tôi gửi quà tặng cho bạn—áo choàng da trâu và hạt pimihkan. Với những vật này bạn sẽ vượt qua mùa đông dễ dàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Lời nói của bạn là vô giá trị, người dân của bạn lạc lối, và bạn không có bạn bè sẽ đứng cạnh bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Tôi thề sẽ bảo vệ những người dân của tôi khỏi những người như bạn. Lời dối trá của bạn làm ô nhiễm không khí. Bạn sống chỉ để ăn cắp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_POUNDMAKER_ANY">
+			<Text>Bạn được chào đón.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Long đã trở thành đồng minh của Cree là bạn bè của chúng tôi. Bạn sẽ là người tiếp theo tham gia với chúng tôi chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>Từ một cuộc chiến tranh không công bằng có thể tiến đến một hòa bình giữa chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>Không, điều này không thể biện hộ được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Tôi luôn muốn hòa bình. Người dân của chúng ta có thể đi theo con đường này không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Có đủ chỗ cho người dân của bạn đi qua vùng đất của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Cree không tin tưởng bạn. Hãy ở phần đất của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Người dân của tôi muốn di chuyển qua vùng đất của bạn. Bạn sẽ cho phép họ chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_POUNDMAKER_ANY">
+			<Text>Tại sao bạn gửi rất nhiều quân đội gần biên giới của chúng tôi? Một hành động hấp tất, và hòa bình sẽ bị phá vỡ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Nếu tôi muốn chiến tranh, bây giờ tôi sẽ không ở đây. Bạn đã không bắt tôi. Tôi tự nhủ mình điều đấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Một kẻ ngốc chấp nhận điều này. Tôi không ngu ngốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Tôi thấy sự khôn ngoan trong điều này. Đồng ý.</Text>
+		</Replace>
+
+		<!-- Robert The Bruce Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Thật là một ngày hạnh phúc! Chúng ta đứng cùng nhau như một, giống như hai cánh tay của một người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tôi nghĩ rằng bạn là người phù hợp, nhưng Scotland vẫn cần sự dè dặt của họ về bạn. Không phải là bây giờ.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Trong một thế giới đầy kẻ xấu, người có tinh thần ngay thẳng phải đoàn kết với nhau như những người bạn.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Thật cao thượng.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Không, tôi hiểu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tôi đã nhận được phái đoàn của bạn và thiết đãi họ như một cèilidh. Chúng tôi nhảy cho đến khi gục vào nhau!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Scotland cần có những lời lẽ chân thành từ bạn hơn là quà tặng, vì vậy tôi đã gửi trả lại phái đoàn của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Xin vui lòng chấp nhận vải tweeds và món haggis của người dân tôi. Ồ, và người thổi sáo! Họ rất ưu tú?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bạn như đống rác bốc mùi! Bạn quanh co bằng những lời vô nghĩa! Hãy ra khỏi tầm mắt của tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bạn thật ngốc! Tôi muốn dùng rìu chẻ đầu bạn ra, nhưng tôi sợ rằng sự ngu dốt của bạn làm ô nhiễm nơi này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tiếp nào, nói đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Chúng ta thật giống nhau, bạn và tôi. Hãy nắm lấy tay tôi, và cho thế giới thấy chúng ta đang đứng cùng với nhau!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Scotland thích tấn công các lực lượng của bạn, nhưng đủ là đủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Tất nhiên là không!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hãy nói thẳng thắn. Không "thoát khỏi ràng buộc, ngừng chiến tranh, v.v ...". Ngừng bắn, hay là không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Thật công bằng. Tâm trí bạn không nắm rõ các bức tường khi bạn vượt qua chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bạn không đến chỉ để nói lan man.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Một người láng giềng tốt là người để cho người khác di chuyển qua vùng đất của mình, bạn có đồng ý không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Quân của bạn không nên diễu hành ngoài lãnh thổ của Scotland. Tốt nhất nên di chuyển chúng đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Một cơn gió lẻ loi thổi qua vùng cao nguyên hôm nay. Một bài ca buồn cho Scotland. Bạn có thể nghe nó không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Thật là một đề nghị đáng khinh. Không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hmm. Đồng ý.</Text>
+		</Replace>
+		
+		<!-- Seondeok Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Hàn Quốc vui lòng chấp nhận tuyên bố của bạn. Ta sắp sửa hỏi bạn đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Ta không thể chấp nhận tuyên bố của bạn. Làm như vậy sẽ gây ra nhiều rắc rối cho Hàn Quốc hơn là giá trị của nó.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Ta cảm thấy ta phải tuyên bố tình hữu nghị của Hàn Quốc tới người dân của bạn. Tất nhiên, với sự đồng ý của bạn.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Thật tuyệt vời.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Không phải nó, tiếp theo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Chúng tôi rất biết ơn khi nhận được phái đoàn của bạn. Chúng tôi rất vui vì những món quà bạn đã gửi tặng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Hàn Quốc cảnh giác khi nhận một món quà cho đến khi chúng ta biết được ý định của người gửi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Hãy chấp nhận món yukpo rất ngon của chúng tôi. Đậu nành giữ cho thịt bò mềm và có hương vị tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Hàn Quốc đã không làm gì để nhận lấy những lời phỉ báng của bạn! Nhưng bây giờ, có lẽ chúng ta sẽ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Bạn giống như vùng biển đầy rác rưởi—mùi hôi thối của bạn bám vào mọi thứ bạn chạm vào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_SEONDEOK_ANY">
+			<Text>Bạn có thể nói.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Sức mạnh của Hàn Quốc là các đồng minh. Cùng với nhau chúng ta sẽ mạnh mẽ hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Ta sẽ phản bội ước muốn đánh bại bạn để đổi lấy hòa bình lâu dài. Tôi sẽ không phản bội ước muốn đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Hãy ra câu hỏi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Cuộc chiến này đã làm cho cả hai chúng ta lúng túng. Chúng ta hãy đình chiến và quan tâm đến người dân của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Tôi hoan nghênh ý tưởng thương mại và trao đổi đi kèm với mở cửa biên giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Cẩn thận canh giữ biên giới của chúng ta tới bạn cho đến khi ý định của bạn trở nên rõ ràng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Mặc dù rất thận trọng, mở cửa biên giới có thể là hướng để cải thiện quan hệ của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SEONDEOK_ANY">
+			<Text>Hàn Quốc không thông cảm những người lính ở gần biên giới của chúng ta. Rút họ đi ngay lập tức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Ta đã thấy trước kết cục của mình, nhưng không Hàn Quốc sẽ chia sẻ số phận cùng với ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Cảm ơn bạn, nhưng ta không thể đồng ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Một đề nghị hấp dẫn. Hàn Quốc sẽ đồng ý.</Text>
+		</Replace>
+		
+		<!-- Genghis Khan Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Đại bàng vút bay trên bồ câu và thỏ. Hãy để chúng ta cùng đứng trong tình hữu nghị, và để phần còn lại co dúm trong bóng tối của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Không. Đừng cho rằng Mông Cổ khâm phục bạn nhiều như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Hãy chấp nhận tình hữu nghị của Mông Cổ! Ta muốn nhìn thấy thế giới run sợ khi họ thấy chúng ta đoàn kết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mông Cổ sẽ đánh giá cao điều này.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mông Cổ sẽ nhớ điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Những người kỵ sĩ của tôi đã hộ tống phái đoàn của bạn tới nơi an toàn và phân phát quà tặng của bạn. Họ đã nhận đầy đủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Quà tặng của bạn là không cần thiết. Nếu ta muốn những thứ đó, ta sẽ cướp lấy chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ta gửi cho bạn những món quà—đàn ngựa, một tay cung trẻ, và rượu sữa ngựa airag. Cạn ly nào!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ngu xuẩn và yếu ớt! Bạn làm thế nào mà không chinh phục được?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Sự yếu đuối và dại dột của bạn khiến ta tức giận. Vào một ngày, có lẽ sẽ sớm, bạn sẽ học được sự nguy hiểm trong đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ta sẽ cân nhắc lời nói của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Cưỡi ngựa với Mông Cổ. Bạn biết rằng trái tim của bạn khao khát sự liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mặc dù ta muốn tiếp tục cuộc chiến này, Mông Cổ thì không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Không phải nếu bạn đưa thêm những con ngựa tốt nhất của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Cả hai chúng ta đều biết Mông Cổ sẽ đánh bại bạn. Chúng ta hãy tạm ngừng cuộc chiến này. Ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bạn có thể di chuyển qua đất của chúng tôi. Hãy thể hiện sức mạnh của chúng ta khi bạn đi qua.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Cái gì của chúng ta là của chúng ta, cho dù đó là bầy vật nuôi hay đất đai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>I want you to let my forces travel across your land. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Quân đội bạn nằm gần biên giới của chúng tôi là một mục tiêu hấp dẫn. Vì sự an toàn của họ, bạn nên di chuyển họ đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bạn đã gây khó khăn cho các thị tộc Mông Cổ. Sự tôn trọng đối với bạn gần đạt tới sự kinh tởm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bạn gọi đó là thỏa thuận. Ta gọi nó là sự ăn cướp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Đồng ý. Điều tốt nhất cho cả hai chúng ta.</Text>
+		</Replace>
+		
+		<!-- Shaka Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Tất nhiên! Người con của Zulu tôn trọng người dân của bạn, và bạn phải chứng minh mình là một người bạn thật sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Bạn không phải là người bạn chân thành đối với người con của Zulu. Hãy nỗ lực nhiều hơn, bạn có thể, nhưng bây giờ? Không.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Người con của Zulu sẽ đứng bên cạnh bạn, nếu bạn đứng cùng chúng tôi. Chúng ta hãy tuyên bố tình hữu nghị của mình?</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Tôi sẽ không vượt qua lòng biết ơn.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Đừng chế nhạo tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Phái đoàn của bạn đến. Người con của Zulu tiếp nhận những món quà của bạn, nhưng đừng nghĩ đến việc mua được lòng trung thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Cho đến khi tôi biết ý đồ của bạn, tôi có thể không chấp nhận món quà nào mà bạn đưa ra.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Tôi đã gửi một iklwa. Họ được đặt tên cho âm thanh khi họ thực hiện kéo ra từ thương tích.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Lời nói của bạn thật thô lỗ. Bụng dạ của bạn thật hôi thối. Cách duy nhất để làm sạch đó là cắt bỏ nó đi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Một cơ thể yếu có thể tập luyện. Một tâm trí yếu ớt có thể rèn luyện. Nhưng khi bạn để lộ bí mật, không có cách nào lấy lại niềm tin được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_SHAKA_ANY">
+			<Text>Lại là bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Sự khác biệt giữa người dân của chúng tôi không có nghĩa gì cả. Bạn sẽ chiến đấu bên cạnh chúng tôi chứ? Những vấn đề này là tất cả.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SHAKA_ANY">
+			<Text>Nếu bạn tìm kiếm hòa bình, người con của Zulu sẽ chấp nhận yêu cầu của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SHAKA_ANY">
+			<Text>Bạn làm lãng phí thời gian của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Cuộc chiến này hủy diệt cả hai chúng ta. Bất kỳ chiến thắng nào đều là rỗng tuếch. Hãy đến, chúng ta hãy ngưng chiến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Đồng ý. Tốt hơn là nhìn thấy sức mạnh người láng giềng của bạn hơn là tưởng tượng ra điểm yếu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Người con của Zulu không có ích gì cho người dân của bạn làm điều ngớ ngẩn trong vùng đất của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Người con của Zulu không có gì để che giấu. Người dân của bạn được chào đón trong vùng đất của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SHAKA_ANY">
+			<Text>Quân đội của bạn diễu hành dọc biên giới Zulu tạo ra một mục tiêu hấp dẫn cho chiến binh impi của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Đúng, bạn đã kết thúc triều đại của tôi. Nhưng tôi sẽ luôn mang đến ác mộng cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Đừng chế nhạo tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Vâng—ngay bây giờ.</Text>
+		</Replace>
+		
+		<!-- Tamar Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Ta nghĩ đó là một trò đùa ác ý, nhưng khi nghĩ kỹ, ta ghi nhận sự chân thành của bạn. Georgia đồng ý với yêu cầu của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Tình hữu nghị? Georgia có rất nhiều thứ, nhưng không bao hàm đến việc kết bạn của bạn.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Bạn là một trong số ít người mà Georgia có thể tin tưởng. Nếu bạn đồng ý, ta sẽ để cho tất cả mọi người được biết.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Hành động của bạn xứng đáng với lòng biết ơn của ta.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Bạn thật quá quắt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Phái đoàn của bạn không gây ra sự cố gì. Ta cho rằng đó là một thành công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgia có những vấn đề cấp bách. Đây không phải là thời điểm để tiếp đón các thương nhân của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Các thương gia Georgia mang rất nhiều món churchkhela. Họ làm một món tráng miệng rất đầy đủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Bạn là một người đáng ghét. Người dân của bạn đáng có được một người lãnh đạo tốt hơn bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Gọi cho bạn là một kẻ vô tư lự là một sự xúc phạm đến kẻ vô lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_TAMAR_ANY">
+			<Text>Tại sao bạn lại quấy rầy ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Kết hợp sức mạnh của chúng ta sẽ làm cho kẻ thù phải ngừng lại. Tự tin lên bạn sẽ thấy được lợi ích.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TAMAR_ANY">
+			<Text>Ta hài lòng khi bạn học được bài học của bạn. Cuộc chiến này có thể kết thúc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TAMAR_ANY">
+			<Text>Đáng tiếc. Thật đáng tiếc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Cuộc chiến tranh này phải kết thúc. Ta sẽ thừa nhận không có lỗi gì trong nguyên nhân của nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Ta cho rằng nên khuyến khích thương mại giữa người dân của chúng ta. Georgia sẽ mở cửa biên giới. Ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgia không cần sự ảnh hưởng từ nước ngoài trên vùng đất của mình. Ít nhất, không phải là từ bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>My advisors recommend Georgia opens its borders. I see some wisdom in their words.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TAMAR_ANY">
+			<Text>Bạn kiểm tra sự kiên nhẫn của ta bằng những người lính dọc theo biên giới Georgia. Di chuyển chúng hoặc chúng sẽ bị xóa bỏ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Các bức tường không đủ để cứu Georgia khỏi sự thất bại. Không phải do ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Thử lại. Lần này, với một lời đề nghị thực sự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Thật đau đớn khi đồng ý, nhưng ta vẫn phải làm.</Text>
+		</Replace>
+		
+		<!-- Wilhelmina Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi rất vui mừng chấp nhận tình hữu nghị. Mong cho tương lai của chúng ta được lâu dài và thịnh vượng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi không công nhận khoản bồi thường của bạn cho tình hữu nghị với Hà Lan.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Các nền văn minh với những quan hệ thân thiện như chúng ta nên công bố với thế giới, bạn đồng ý không?</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Tuyệt vời.</Text>
+			</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Thật không may.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi đã chào đón các phái đoàn của bạn với niềm danh dự thích hợp, và chúng tôi cảm ơn bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi không chấp nhận món quà của bạn, vì tôi chắc chắn bạn hiểu rằng nó không phù hợp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Hà Lan gửi cho bạn những món quà mừng gặp mặt—đôi giày bằng gỗ, pho mát, và bánh quế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi gửi đến bạn những quan điểm lợi ích thẳng thắn của chúng tôi: rằng bạn không phù hợp với luật lệ, và là một mối đe dọa cho Hà Lan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Đó là mong muốn nồng nhiệt của chúng tôi để nói với bạn rằng chúng tôi thấy bạn tệ hại đến mức nào, và chúng tôi mong muốn triều đại của bạn thật ngắn ngủi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_WILHELMINA_ANY">
+			<Text>Bạn có được sự chú ý của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Bạn đã chứng minh được một đối tác đáng tin cậy trong nguyên tắc quốc gia của chúng tôi, và chúng tôi muốn làm sâu sắc hơn mối quan hệ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Vâng. Cuộc chiến của chúng ta đã kéo dài đủ lâu. Chúng ta hãy xây dựng lại những gì chúng ta đã mất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Đơn giản là không thể.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Hà Lan muốn buôn bán hàng hóa hơn là bơm thổi chúng. Chúng ta nên kết thúc chiến tranh này, ngay lập tức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Hà Lan sẵn sàng chấp nhận đề nghị của bạn và sẽ mở cửa biên giới cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi không thể cho phép bạn di chuyển qua lãnh thổ một cách tự do.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Liệu lợi ích của chúng tôi có được đáp ứng tốt nhất bằng cách mở đường đi giữa các vùng đất của chúng ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILHELMINA_ANY">
+			<Text>Bạn nghĩ chúng tôi không biết gì về kế hoạch của bạn? Chúng tôi yêu cầu bạn di chuyển quân đội của bạn ra khỏi biên giới của chúng tôi ngay lập tức!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Với sự giúp đỡ của Thượng Đế, một ngày nào đó Hà Lan có thể đòi lại lãnh thổ của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi phải từ chối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Chúng tôi đã nghe nói không có nguồn cung cấp tốt hơn.</Text>
+		</Replace>
+  </LocalizedText>
+</GameData>

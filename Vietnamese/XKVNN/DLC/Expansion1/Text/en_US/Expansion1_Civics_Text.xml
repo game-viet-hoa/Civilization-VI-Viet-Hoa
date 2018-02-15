@@ -1,0 +1,164 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Policy Names -->
+		<Replace Language='en_US' Tag="LOC_POLICY_AUTOCRACY_NAME">
+			<Text>Di sản Chuyên chế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_OLIGARCHY_NAME">
+			<Text>Di sản Độc tài</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
+			<Text>Di sản Cộng hòa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MONARCHY_NAME">
+			<Text>Di sản Quân chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_THEOCRACY_NAME">
+			<Text>Di sản Thần quyền</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
+			<Text>Di sản Thương nghiệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FASCISM_NAME">
+			<Text>Di sản Phát-xít</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COMMUNISM_NAME">
+			<Text>Di sản Cộng sản</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_DEMOCRACY_NAME">
+			<Text>Di sản Dân chủ</Text>
+		</Replace>
+		<!-- Policies -->
+		<Replace Language='en_US' Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
+			<Text>Tiền trảm hậu tấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
+			<Text>Tất cả đơn vị thêm +25% kinh nghiệm chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>Các [ICON_TradeRoute] Tuyến đường Thương mại của bạn tới thành phố Đồng minh cung cấp +4 [ICON_Food] Thực phẩm và +4 [ICON_Production] Sản xuất cho cả hai thành phố. Điểm Đồng minh của mỗi người tăng nhanh hơn 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
+			<Text>Uy thế Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
+			<Text>Thiết lập [ICON_GOVERNOR] Thống đốc có ít nhất 3 Cấp độ cung cấp +1 [ICON_Amenities] Tiện nghi và +1 [ICON_Housing] Nhà ở.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% phát triển và 3 Lòng Trung thành mỗi lượt cho các thành phố không nằm trên [ICON_Capital] Thủ đô đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] Vàng và +10% [ICON_PRODUCTION] Sản xuất cho các thành phố không nằm trên [ICON_Capital] Thủ đô đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
+			<Text>Văn phòng Truyền thông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
+			<Text>[ICON_Governor] Thống đốc cung cấp +1 Lòng Trung thành mỗi lượt trong thành phố của họ, mỗi Cấp độ mà [ICON_Governor] Thống đốc có.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>Cộng thêm [ICON_Gold] Vàng từ Khu Thương mại: +50% nếu thành phố có [ICON_CITIZEN] dân số từ 10 trở lên, +50% nếu quận có ít nhất +4 thưởng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>Cộng thêm [ICON_Culture]  Văn hoá từ Khu Nghệ thuật: +50% nếu thành phố có [ICON_CITIZEN] dân số từ 10 trở lên, +50% nếu quận có ít nhất +3 thưởng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIMITANEI_NAME">
+			<Text>Giới hạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
+			<Text>+2 Lòng Trung thành mỗi lượt cho các thành phố có đơn vị quân đồn trú.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Ít hơn 25% mệt mỏi do chiến tranh hơn bình thường. +2 Lòng Trung thành mỗi lượt cho các thành phố có đơn vị quân đồn trú.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Giảm cấp độ Gián điệp của kẻ địch xuống 2 trong vùng đất của bạn. Tuy nhiên, tất cả các thành phố đều phải -2 Lòng Trung thành mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PRAETORIUM_NAME">
+			<Text>Quan tòa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
+			<Text>Các [ICON_Governor] Thống đốc cung cấp +2 Lòng Trung thành mỗi lượt cho thành phố của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>Tăng thêm [ICON_Science] Khoa học từ Khu Tri thức: +50% nếu thành phố có [ICON_CITIZEN] dân số từ 10 trở lên, +50% nếu quận có ít nhất +3 thưởng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
+			<Text>Năng lực Tấn công Lần hai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
+			<Text>Bảo trì Thiết bị Hạt nhân giảm 50% [ICON_Gold] Vàng mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Tăng thêm [ICON_Faith] Đức tin từ Khu Tôn giáo: +50% nếu thành phố có [ICON_CITIZEN] dân số từ 10 trở lên, +50% nếu quận có ít nhất +3 thưởng liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_WISSELBANKEN_NAME">
+			<Text>Liên Ngân hàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
+			<Text>Các [ICON_TradeRoute] Tuyến đường Thương mại của bạn tới thành phố Đồng minh cung cấp +2 [ICON_Food] Thực phẩm và +2 [ICON_Production] Sản xuất cho cả hai thành phố. Điểm Đồng minh của mỗi người tăng nhanh hơn 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MONASTICISM_NAME">
+			<Text>Tu hành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
+			<Text>Dũng cảm Thoái trào</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INQUISITION_NAME">
+			<Text>Quan án Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ISOLATIONISM_NAME">
+			<Text>Chủ nghĩa Cá nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
+			<Text>Thư của Marque</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROBBER_BARONS_NAME">
+			<Text>Robber Barons</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ELITE_FORCES_NAME">
+			<Text>Lực lượng Tinh nhuệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVISM_NAME">
+			<Text>Chủ nghĩa Tập thể</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROGUE_STATE_NAME">
+			<Text>Chính phủ Xỏ lá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
+			<Text>[ICON_Science] Tăng gấp đôi Khoa học ở các thành phố có Khu Tôn giáo.[NEWLINE]NHƯNG: -25% [ICON_Culture] Văn hoá cho tất cả các thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức Chiến đấu cho tất cả các đơn vị cận chiến.[NEWLINE]NHƯNG: Không thể cứu thương ở ngoài lãnh thổ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
+			<Text>Bắt đầu Quan án Tôn giáo với 1 điểm Tông đồ. Tất cả đơn vị tôn giáo +15 [ICON_Religion] Sức chiến đấu Tôn giáo ở trong lãnh thổ thân thiện.[NEWLINE]NHƯNG: -25%[ICON_Science] Khoa học cho tất cả các thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
+			<Text>Các tuyến nội địa cung cấp +2 [ICON_Food] Thực phẩm, +2 [ICON_Production] Sản xuất.[NEWLINE]NHƯNG: Không thể đào tạo hoặc mua Dân cư cũng như giải quyết vấn đề ở các thành phố mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
+			<Text>Hải tặc: +100% Sản xuất, +2 [ICON_Movement] Di chuyển. Tăng gấp đôi lợi nhuận khi cướp bóc các Tuyến đường Thương mại.[NEWLINE]NHƯNG: lợi nhuận từ [ICON_TradeRoute] Tuyến đường Thương mại -50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
+			<Text>+50% [ICON_Gold] Vàng cho các thành phố có Khu Thương mại. +25% [ICON_Production] Sản xuất cho các thành phố có Nhà máy.[NEWLINE]NHƯNG: -2 [ICON_Amenities] Tiện nghi cho tất cả các thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
+			<Text>+100% kinh nghiệm chiến đấu cho tất cả các đơn vị.[NEWLINE]NHƯNG: +2 [ICON_Gold] Vàng để duy trì mỗi đơn vị quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
+			<Text>Nông trại +1 [ICON_Food] Thực phẩm. Tất cả các thành phố +2 [ICON_Housing] Nhà ở. + 100% khi liền kề Khu Công nghiệp.[NEWLINE]NHƯNG: điểm [ICON_GreatPerson] Vĩ nhân kiếm được chậm 50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
+			<Text>+50% [ICON_Production] Sản xuất cho các dự án chương trình hạt nhân và WMD.[NEWLINE]NHƯNG: Không có được các [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
+			<Text>Lợi nhuận thu được từ cướp bóc và đột kích ven biển tăng gấp đôi.</Text>
+		</Replace>
+		<!-- Updated from base game -->
+		<Replace Language='en_US' Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Cho phép ghép ba đơn vị giống hệt nhau thành một Quân đội hoặc Hạm đội. Cho phép tạo ra một lý do Khơi mào Chiến tranh mới: Chiến tranh Mở rộng Lãnh thổ.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

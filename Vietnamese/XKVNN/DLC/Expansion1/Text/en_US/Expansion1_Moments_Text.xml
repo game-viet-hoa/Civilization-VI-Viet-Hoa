@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Moments-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED">
+			<Text>Artifact Extracted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_DESCRIPTION">
+			<Text>An artifact has been uncovered, giving us insight into the past.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_INSTANCE_DESCRIPTION">
+			<Text>As the dirt is brushed away, the {GreatWorkName} sees the light of sun after ages. It will grace the museums of {ActingPlayerCivName} for years to come.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED">
+			<Text>Barbarian Camp Destroyed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_DESCRIPTION">
+			<Text>A hostile barbarian camp was leveled to the ground by a unit, spreading peace through the area.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_INSTANCE_DESCRIPTION">
+			<Text>Our forces clear a barbarian camp, and a threat to our growing civilization is vanquished.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY">
+			<Text>Threatening Camp Destroyed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_DESCRIPTION">
+			<Text>A hostile barbarian camp within 6 tiles of one of your cities was destroyed by a unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_INSTANCE_DESCRIPTION">
+			<Text>The danger on the doorstep of {CityName} has been defeated! The barbarians are driven away.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BATTLE_FOUGHT">
+			<Text>Battle Fought</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BATTLE_FOUGHT_DESCRIPTION">
+			<Text>A battle was fought between adversaries. Used by the Archaeology system to potentially generate [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Site resources.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED">
+			<Text>Religion Adopts All Beliefs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_DESCRIPTION">
+			<Text>Your Religion has added its final Belief and is now complete.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_INSTANCE_DESCRIPTION">
+			<Text>Theologians clarify the tenets of {ReligionName} and its Beliefs.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD">
+			<Text>World's First Religion to Adopt All Beliefs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your Religion is the first in the world to add its final Belief and become complete.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The arguments of the theologians of {ReligionName} fill great books, and it becomes the first Religion to clarify its Beliefs.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Unique Building Constructed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>You have completed this unique building for the first time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Our people take pride in the {BuildingType}, which reflects our values and priorities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER">
+			<Text>World Wonder Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_DESCRIPTION">
+			<Text>A world wonder is completed, showing our grandeur over other civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Standing in the {BuildingType}, the citizens of {CityName} are filled with awe.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER">
+			<Text>Old World Wonder Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_DESCRIPTION">
+			<Text>A World Wonder is completed. Even though it belongs to a bygone era, it will still show our grandeur over other civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Standing in the {BuildingType}, the citizens of {CityName} remember their glorious past.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN">
+			<Text>World's Largest Civilization</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_DESCRIPTION">
+			<Text>Your civilization has become the largest in the world, with at least 3 more cities than its next biggest rival.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_INSTANCE_DESCRIPTION">
+			<Text>{CityName} is the latest city in our sprawling empire, and other civilizations look on in awe.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER">
+			<Text>City of Awe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_DESCRIPTION">
+			<Text>A city is placed within 2 tiles of a natural wonder.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_INSTANCE_DESCRIPTION">
+			<Text>The inspirational sight of {FeatureType} fills the citizens of our new city of {CityName} with joy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY">
+			<Text>Aggressive City Placement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_DESCRIPTION">
+			<Text>A city is placed within 5 tiles of another civilization's city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_INSTANCE_DESCRIPTION">
+			<Text>The bureaucrats of {TargetPlayerCivName} are piqued by our boldness in settling {CityName} so near their own city of {OtherCityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT">
+			<Text>City on New Continent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_DESCRIPTION">
+			<Text>A city is placed on a continent you have not yet settled.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_INSTANCE_DESCRIPTION">
+			<Text>{CityName} becomes the first settlement on {ContinentName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT">
+			<Text>Desert City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_DESCRIPTION">
+			<Text>A city is established on difficult Desert terrain, expanding your reach into the wilds.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_INSTANCE_DESCRIPTION">
+			<Text>Visitors complain about the heat of {CityName}, but at least it's a dry heat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW">
+			<Text>Snow City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_DESCRIPTION">
+			<Text>A city is established on difficult Snow terrain, expanding your reach into the wilds.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_INSTANCE_DESCRIPTION">
+			<Text>The citizens of {CityName} have a hundred words for "snow."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA">
+			<Text>Tundra City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_DESCRIPTION">
+			<Text>A city is established on difficult Tundra terrain, expanding your reach into the wilds.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_INSTANCE_DESCRIPTION">
+			<Text>The citizens of {CityName} take pride in the land's rugged beauty and their own hardiness.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR">
+			<Text>Enemy City Adopts Our Religion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_DESCRIPTION">
+			<Text>An enemy city, despite being at war, has seen the light and adopted our Religion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Heaven opens the eyes of the people of {CityName}, and they join the faithful followers of {ReligionName}, even while at war with {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY">
+			<Text>Rival Holy City Converted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_DESCRIPTION">
+			<Text>The Holy City of another Religion has converted to our Religion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} was once the cradle of {OldReligionName}, but now the faithful flock to the temples of {ReligionName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST">
+			<Text>First Gigantic City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_DESCRIPTION">
+			<Text>A city has reached 20 [ICON_Citizen] Population for the first time in your civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Paradoxically, the citizens of {CityName} are both incredibly proud of their city's size, and yet never stop complaining about how crowded it has gotten.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD">
+			<Text>World's First Gigantic City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>A city has reached 20 [ICON_Citizen] Population for the first time in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>They say you haven't lived until you've seen the crowds in {CityName} walking its boulevards and avenues, and taken in the spectacle of humanity's largest city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST">
+			<Text>First Enormous City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_DESCRIPTION">
+			<Text>A city has reached 15 [ICON_Citizen] Population for the first time in your civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} expands further, and becomes the largest city of our people.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD">
+			<Text>World's First Enormous City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>A city has reached 15 [ICON_Citizen] Population for the first time in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The residents of {CityName} brag of living in the world's largest, most sophisticated city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST">
+			<Text>First Large City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_DESCRIPTION">
+			<Text>A city has reached 10 [ICON_Citizen] Population for the first time in your civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} grows and its people take pride in the thriving metropolitan life.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD">
+			<Text>World's First Large City</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>A city has reached 10 [ICON_Citizen] Population for the first time in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Visitors speak in awe of {CityName}, the largest city in the world. How do so many people live together in peace?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY">
+			<Text>Foreign City Joins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_DESCRIPTION">
+			<Text>A foreign city has decided to pledge its loyalty to us instead, joining our empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_INSTANCE_DESCRIPTION">
+			<Text>The people of {CityName} no longer feel part of {TargetPlayerCivName}, and agree to join our civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY">
+			<Text>Free City Joins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_DESCRIPTION">
+			<Text>A Free City has decided to pledge its loyalty to us, joining our empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_INSTANCE_DESCRIPTION">
+			<Text>The citizens of {CityName} feel an affinity with us, and willingly enter our civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL">
+			<Text>Foreign Capital Taken</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_DESCRIPTION">
+			<Text>You have taken control of a foreign power's original capital city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, the former capital of {TargetPlayerCivName}, is now part of our civilization!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED">
+			<Text>Final Foreign City Taken</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_DESCRIPTION">
+			<Text>You have taken control of a civilization's last remaining city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_INSTANCE_DESCRIPTION">
+			<Text>{TargetPlayerCivName} will not stand the test of time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER">
+			<Text>City Returns to Original Owner</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_DESCRIPTION">
+			<Text>A city has returned to its original owner.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_INSTANCE_DESCRIPTION">
+			<Text>{CityName} returns to {ActingPlayerCivName} once more!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST">
+			<Text>First Civic of New Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>You have completed your civilization's first civic from a new era of discovery.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Let others say what they will, but the real flourishing of {PlayerEraType} culture began with the rise of {CivicType} in {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD">
+			<Text>World's First Civic of New Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You have completed the world's first civic from a new era of discovery.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Our expression of {CivicType} will define humanity's future in the {PlayerEraType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Unique District Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>You have completed this unique district for the first time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>The {DistrictType} was no accident, but the result of the unique genius of our people.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS">
+			<Text>Splendid Campus Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_DESCRIPTION">
+			<Text>You have completed your civilization's first Campus with a starting adjacency bonus of 3 [ICON_Science] Science or higher.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_INSTANCE_DESCRIPTION">
+			<Text>Walking the quads and lingering outside classrooms of the Campus near {CityName}, you can hear scholars debate the ideas that will change the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB">
+			<Text>Splendid Commercial Hub Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>You have completed your civilization's first Commercial Hub with a starting adjacency bonus of 4 [ICON_Gold] Gold or higher.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_INSTANCE_DESCRIPTION">
+			<Text>They say that people are drawn to the Commercial Hub of {CityName} just for the excitement of buying and selling in the market. But the money is pretty good, too.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR">
+			<Text>Splendid Harbor Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_DESCRIPTION">
+			<Text>You have completed your civilization's first Harbor with a starting adjacency bonus of 4 [ICON_Gold] Gold or higher.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_INSTANCE_DESCRIPTION">
+			<Text>Sailors and stevedores shout and sing shanties all along the bustling wharfs in the Harbor of {CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE">
+			<Text>Splendid Holy Site Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_DESCRIPTION">
+			<Text>You have completed your civilization's first Holy Site with a starting adjacency bonus of 3 [ICON_Faith] Faith or higher.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_INSTANCE_DESCRIPTION">
+			<Text>Chimes and chanting, incense and icon, the Holy Site of {CityName} brings worshippers and pilgrims into contemplation of the higher matters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE">
+			<Text>Splendid Industrial Zone Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>You have completed your civilization's first Industrial Zone with a starting adjacency bonus of 4 [ICON_Production] Production or higher.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_INSTANCE_DESCRIPTION">
+			<Text>Whistles indicate the start of a new shift, and workers from {CityName} stream into the Industrial Zone, ready to put in a good day's work.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE">
+			<Text>Splendid Theater Square Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_DESCRIPTION">
+			<Text>You have completed your civilization's first Theater Square with a starting adjacency bonus of 3 [ICON_Culture] Culture or higher.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_INSTANCE_DESCRIPTION">
+			<Text>Delightful songs, inspiring words. The artists, poets, and playwrights of {CityName} all stroll the streets of our Theater Square.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST">
+			<Text>First Neighborhood Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_DESCRIPTION">
+			<Text>You have completed your civilization's first Neighborhood district.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_INSTANCE_DESCRIPTION">
+			<Text>The citizens of {CityName} are the first to discover that the only thing better than living in {CityName} is living in a slightly cleaner place outside of it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD">
+			<Text>World's First Neighborhood</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You have completed the world's first Neighborhood district.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The citizens of {CityName} are the first in the world to discover that the only thing better than living in {CityName} is living in a slightly cleaner place outside of it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER">
+			<Text>Emergency Completed Successfully</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_DESCRIPTION">
+			<Text>As a member, you have succeeded in an Emergency.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_INSTANCE_DESCRIPTION">
+			<Text>The {EmergencyType} with {TargetPlayerCivName} is over, and we emerge triumphant. But what will the future hold?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET">
+			<Text>Emergency Successfully Defended</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_DESCRIPTION">
+			<Text>As the target, you have succeeded in fighting off an Emergency against you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_INSTANCE_DESCRIPTION">
+			<Text>The armies of jealous civilizations fail to stop our people! The {EmergencyType} dissolves in recrimination and blame.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD">
+			<Text>First Discovery of a Natural Wonder</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Our civilization's explorers are the first in the world to behold this natural wonder.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Explorers of {ActingPlayerCivName} are the first from a major civilization to set eyes on {FeatureType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD">
+			<Text>First Discovery of a New Continent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Our civilization's explorers are the first in the world to find this continent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Explorers of {ActingPlayerCivName} are the first from a major civilization to set foot on the continent of {ContinentName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST">
+			<Text>First Armada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_DESCRIPTION">
+			<Text>Your civilization's first Armada is formed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>From the deck of the {UnitType}, one can see the ships of our first Armada stretching off into distance, each flying our civilization's flag.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD">
+			<Text>World's First Armada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>The world's very first Armada is formed, under your command.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The immense power of the world's first Armada is ready to take to the high seas at our command!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST">
+			<Text>First Army</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_DESCRIPTION">
+			<Text>Your civilization's first Army is formed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>The forces of our first Army march by in a seemingly unending procession!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD">
+			<Text>World's First Army</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>The world's very first Army is formed, under your command.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The world has never seen the likes of an Army such as that of our {UnitType}! Our power is unmatched.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST">
+			<Text>First Corps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_DESCRIPTION">
+			<Text>Your civilization's first Corps is formed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Mightier than a single unit, our first Corps stands ready to protect the civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD">
+			<Text>World's First Corps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>The world's very first Corps is formed, under your command.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Our staff officers report that the world's first Corps is ready for action!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST">
+			<Text>First Fleet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_DESCRIPTION">
+			<Text>Your civilization's first Fleet is formed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_INSTANCE_DESCRIPTION">
+			<Text>All hands salute the flag as our first Fleet assembles!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD">
+			<Text>World's First Fleet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>The world's very first Fleet is formed, under your command.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The assembled captains all report their ships ready to weigh anchor, as the world's first Fleet is ready for action!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE">
+			<Text>Dark Age Begins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_DESCRIPTION">
+			<Text>The game enters a new era, and your civilization has the challenges of a Dark Age to overcome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>The game enters the {PlayerEraType}, and your civilization has the challenges of a Dark Age to overcome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE">
+			<Text>Golden Age Begins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_DESCRIPTION">
+			<Text>The game enters a new era, and your civilization has earned a Golden Age.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_INSTANCE_DESCRIPTION">
+			<Text>The game enters the {PlayerEraType}, and your civilization has earned a Golden Age.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE">
+			<Text>Heroic Age Begins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_DESCRIPTION">
+			<Text>The game enters a new era, and your civilization has earned a Heroic Age after overcoming past challenges.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_INSTANCE_DESCRIPTION">
+			<Text>The game enters the {PlayerEraType}, and your civilization has earned a Heroic Age after overcoming past challenges.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE">
+			<Text>Normal Age Begins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_DESCRIPTION">
+			<Text>The game enters a new era, and you have avoided a Dark Age.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_INSTANCE_DESCRIPTION">
+			<Text>The game enters the {PlayerEraType}, and you have avoided a Dark Age.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED">
+			<Text>Tribal Village Contacted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_DESCRIPTION">
+			<Text>A Tribal Village was contacted, giving strength to our budding cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_INSTANCE_DESCRIPTION">
+			<Text>Villagers bring gifts as they join our civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST">
+			<Text>First Tier 1 Government</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_DESCRIPTION">
+			<Text>Your civilization adopts its first Tier 1 Government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerCivName} adopts government by {GovernmentType}, leading to a new political age for the citizens.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD">
+			<Text>First Tier 1 Government in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to adopt a Tier 1 Government in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The people of {ActingPlayerCivName} adopt a government of {GovernmentType}, the great synthesis of their political philosophy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST">
+			<Text>First Tier 2 Government</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_DESCRIPTION">
+			<Text>Your civilization adopts its first Tier 2 Government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Ancient traditions of governance evolve, and {ActingPlayerLeaderName} chooses {GovernmentType} as its new way to rule.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD">
+			<Text>First Tier 2 Government in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to adopt a Tier 2 Government in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The old ways were good, but time has shown their weakness. The people of {ActingPlayerCivName} find new strength with their adoption of {GovernmentType}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST">
+			<Text>First Tier 3 Government</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DESCRIPTION">
+			<Text>Your civilization adopts its first Tier 3 Government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_INSTANCE_DESCRIPTION">
+			<Text>The honorable traditions of the past will still form part of the new government of {GovernmentType} that {ActingPlayerCivName} has chosen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD">
+			<Text>First Tier 3 Government in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to adopt a Tier 3 Government in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Centuries of political philosophy reach their ultimate expression, as {ActingPlayerCivName} chooses {GovernmentType} as its new government for the future.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST">
+			<Text>All Governors Appointed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_DESCRIPTION">
+			<Text>You have appointed all available [ICON_Governor] Governors, securing the prosperity of many cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{GovernorName}, the {GovernorShortTitle}, enters your service and completes your staff of capable advisors.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST">
+			<Text>Governor Fully Promoted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_DESCRIPTION">
+			<Text>You have fully promoted a [ICON_Governor] Governor for the first time, unlocking powerful abilities to help a city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>The art of governance finds its ultimate expression in the leadership of {GovernorName}, the {GovernorShortTitle}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA">
+			<Text>Great Person Recruited</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_DESCRIPTION">
+			<Text>A [ICON_GreatPerson] Great Person has traveled to our lands to share unique talents.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_INSTANCE_DESCRIPTION">
+			<Text>After deliberation, {GreatPersonIndividualName} chooses to bring their talents to {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA">
+			<Text>Old Great Person Recruited</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_DESCRIPTION">
+			<Text>A [ICON_GreatPerson] Great Person has traveled to our lands. Though better suited to a past era, they will still contribute great things to our civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_INSTANCE_DESCRIPTION">
+			<Text>After deliberation, {GreatPersonIndividualName} chooses to bring their talents to {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF">
+			<Text>Great Person Lured by Faith</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_DESCRIPTION">
+			<Text>A [ICON_GreatPerson] Great Person has traveled to our lands to share unique talents, thanks to our use of [ICON_Faith] Faith to make up more than half their recruitment cost.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>The prayers of the faithful are answered! {GreatPersonIndividualName} appears to change the destiny of {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF">
+			<Text>Great Person Lured by Gold</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_DESCRIPTION">
+			<Text>A [ICON_GreatPerson] Great Person has traveled to our lands to share unique talents, thanks to our generous stipend of [ICON_Gold] Gold.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>No expense was spared in bringing {GreatPersonIndividualName} to {ActingPlayerCivName}, where they begin their work.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Unique Tile Improvement Built</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>You have completed this unique tile improvement for the first time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Truly, this {ImprovementType} represents our civilization's spirit and defines the landscape of our empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED">
+			<Text>Inquisition Begins</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_DESCRIPTION">
+			<Text>Your Religion launches an inquisition.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_INSTANCE_DESCRIPTION">
+			<Text>The heavens rejoice as a righteous Inquisition begins to correct those who do not believe in {ReligionName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD">
+			<Text>World's First Inquisition</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your Religion launches the world's first inquisition.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} is the first Religion to begin an Inquisition to root out heresies.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED">
+			<Text>Pantheon Founded</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_DESCRIPTION">
+			<Text>Your people adopt Belief in a Pantheon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>Could this numinous moment be what those other prophets were talking about?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD">
+			<Text>World's First Pantheon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your people are the first in the world to adopt Belief in a Pantheon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The first prophet has a flash of insight beneath a starry sky, and bows in thanksgiving to unseen gods.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD">
+			<Text>City-State's First Suzerain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You have become the first Suzerain of this city-state.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The rulers of {CityStatePlayerCivName} bow to {ActingPlayerCivName}, who became their first Suzerain in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY">
+			<Text>Levied Army Stands Down</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_DESCRIPTION">
+			<Text>Your use of [ICON_Envoy] Envoys has convinced this city-state's levied army to stand down.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_INSTANCE_DESCRIPTION">
+			<Text>{TargetPlayerCivName} learns that politics is also a battlefield, as {ActingPlayerCivName} overturns their Suzerain status in {CityStatePlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR">
+			<Text>Enemy City-State Pacified</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_DESCRIPTION">
+			<Text>Your use of [ICON_Envoy] Envoys has toppled a hostile city-state's Suzerain, convincing it to end hostilities with you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Previous mercenary contracts are subject to renegotiation, when {ActingPlayerCivName} overturns the old Suzerain of {CityStatePlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY">
+			<Text>City-State Army Levied</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_DESCRIPTION">
+			<Text>You have levied the military forces of a city-state.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_INSTANCE_DESCRIPTION">
+			<Text>The control of the armies of {CityStatePlayerCivName} passes to {ActingPlayerCivName} in an impressive military ceremony.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY">
+			<Text>City-State Army Levied Near Enemy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_DESCRIPTION">
+			<Text>You have levied the military forces of a city-state within striking distance of an enemy civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_INSTANCE_DESCRIPTION">
+			<Text>A new front opens in the war between {TargetPlayerCivName} and {ActingPlayerCivName}, as control of {CityStatePlayerCivName} changes on the borders.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS">
+			<Text>Met All Civilizations</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_DESCRIPTION">
+			<Text>You have met all living civilizations in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_INSTANCE_DESCRIPTION">
+			<Text>Having finally met the people of {TargetPlayerCivName}, we have a funny feeling that there are no remaining civilizations out there.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD">
+			<Text>World's First to Meet All Civilizations</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You are the first to meet all living civilizations in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>We met the people of {TargetPlayerCivName}, and became the first to meet all the civilizations of the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR">
+			<Text>Met New Civilization</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR_DESCRIPTION">
+			<Text>You have made contact with a new civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR_INSTANCE_DESCRIPTION">
+			<Text>Wary welcomes and curious stares mark the moment of our meeting with the people of {TargetPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE">
+			<Text>Overcame Dark Age</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_DESCRIPTION">
+			<Text>Your civilization has earned enough Era Score to overcome its Dark Age early, and rise into a Normal Age! The next Golden Age you earn will be extra powerful.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>As fire purifies gold, so our Civilization has been purified by the trials of our Dark Age. Now all behold our renewed glory!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN">
+			<Text>Manhattan Project Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_DESCRIPTION">
+			<Text>Your scientists completed the Manhattan Project.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_INSTANCE_DESCRIPTION">
+			<Text>The terrible power of the atom is at our control now that we have completed the Manhattan Project.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS">
+			<Text>Mars Component Launched</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION">
+			<Text>You have launched your civilization's first component for the Mars spacecraft.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION">
+			<Text>Sure, anyone could build {LOC_GRAMMAR_A_AN &lt;&lt; {ProjectShortName}}. But not anyone can put it in orbit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD">
+			<Text>World's First Mars Component Launched</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You are the first in the world to launch a component for the Mars spacecraft.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>An engineer watches a rocket thunder from the launch pad, carrying the {ProjectShortName}. "This is really happening," she says. "We're going to Mars."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING">
+			<Text>Landed on the Moon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_DESCRIPTION">
+			<Text>You send a successful mission to land on the moon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_INSTANCE_DESCRIPTION">
+			<Text>Your scientists confirm what others have reported: The moon is very dusty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD">
+			<Text>World's First Landing on the Moon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You are the first in the world to land on the moon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>That's one small step for a man, and one giant leap for mankind, all thanks to our civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY">
+			<Text>Operation Ivy Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_DESCRIPTION">
+			<Text>Your scientists completed Operation Ivy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_INSTANCE_DESCRIPTION">
+			<Text>A nondescript folder contains the report of Operation Ivy's success. But what will contain the power of our new weapons?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH">
+			<Text>Satellite Launched Into Orbit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_DESCRIPTION">
+			<Text>You launched your civilization's first satellite into orbit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_INSTANCE_DESCRIPTION">
+			<Text>At night our citizens point at a new star tracking across the sky - our first Satellite!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD">
+			<Text>World's First Satellite in Orbit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You launched the world's first satellite into orbit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Beep...beep...beep...beep...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED">
+			<Text>Religion Founded</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_DESCRIPTION">
+			<Text>A Great Prophet founds a Religion, bringing light to your people.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} is the true path of salvation! Please ignore all those other ones!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD">
+			<Text>World's First Religion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your people are the first to form a Religion, bringing light to the world at large!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>It is said that when {GreatPersonIndividualName} founded {ReligionName}, the world's first Religion, the sun broke through the clouds, and a sweet scent filled the air.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SHIP_SUNK">
+			<Text>Ship Sunk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SHIP_SUNK_DESCRIPTION">
+			<Text>A naval unit was sunk in combat. Used by the Archaeology system to potentially generate [ICON_RESOURCE_SHIPWRECK] Shipwreck resources.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL">
+			<Text>Master Spy Earned</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_DESCRIPTION">
+			<Text>One of your Spies has reached its maximum promotion level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>They say that {UnitCitizenName} has contacts in every city in the world, impeccable taste in clothing, and a car that transforms into a motorboat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST">
+			<Text>First Master Spy Earned</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_DESCRIPTION">
+			<Text>For the first time, one of your Spies has reached its maximum promotion level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>In a secret underground room, you thank {UnitCitizenName} for a successful career of service before the next mission begins.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST">
+			<Text>First Technology of New Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>You have completed your civilization's first technology from a new era of discovery.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Many dispute the actual start of the {PlayerEraType}, but you know it was when {ActingPlayerCivName} discovered {TechnologyType}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD">
+			<Text>World's First Technology of New Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You have completed the world's first technology from a new era of discovery.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The discovery of {TechnologyType} in {ActingPlayerCivName} sets the world stage for future discoveries in the {PlayerEraType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV">
+			<Text>Trading Post Established in New Civilization</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_DESCRIPTION">
+			<Text>You have established your first [ICON_TradingPost] Trading Post in this civilization, opening up access to new markets.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_INSTANCE_DESCRIPTION">
+			<Text>Dusty and tired but eager to haggle, merchants open our first Trading Post in the lands of {TargetPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV">
+			<Text>Trading Posts in All Civilizations</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_DESCRIPTION">
+			<Text>You have established a [ICON_TradingPost] Trading Post in all civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_INSTANCE_DESCRIPTION">
+			<Text>Our web of trade spans the world after the opening of the Trading Post in {CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD">
+			<Text>First Trading Posts in All Civilizations</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You are the first in the world to establish a [ICON_TradingPost] Trading Post in all civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Merchants and bankers cheer as we open our Trading Post in {CityName}. We are the first to trade in every civilization in the world!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR">
+			<Text>Taking Flight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_DESCRIPTION">
+			<Text>You completed your first flying unit. People rejoice at the new possibilities this entails.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_INSTANCE_DESCRIPTION">
+			<Text>The {UnitType} of {ActingPlayerCivName} went up, and did not immediately come down, to great rejoicing.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD">
+			<Text>World's First Flight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_DESCRIPTION">
+			<Text>You completed the world's first flying unit! People rejoice at the new possibilities this entails.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Humanity realized its dream of flight for the first time, as the {UnitType} of {ActingPlayerCivName} took to the skies.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA">
+			<Text>On the Waves</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_DESCRIPTION">
+			<Text>You complete your first seafaring unit. A world of possibility awaits on the horizon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_INSTANCE_DESCRIPTION">
+			<Text>The crew of the {UnitType} from {ActingPlayerCivName} invent the sailor's yarn after their first sea voyage.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD">
+			<Text>World's First Seafaring</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_DESCRIPTION">
+			<Text>You completed the world's first seafaring unit! A world of possibility awaits on the horizon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Yearning for new adventures, the {UnitType} from {ActingPlayerCivName} is the first in the world to roam the seas.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC">
+			<Text>Strategic Resource Potential Unleashed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_DESCRIPTION">
+			<Text>You own your first unit that uses this strategic resource.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_INSTANCE_DESCRIPTION">
+			<Text>Skeptics may ask: "What good {ResourceType : plural 1?is; other?are;} {ResourceType}?" But we know now that {ResourceType : plural 1?it is; other?they are;} a formidable weapon for our {UnitType}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD">
+			<Text>World's First Strategic Resource Potential Unleashed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_DESCRIPTION">
+			<Text>You are the world's first civilization to own a unit using this strategic resource.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Before, {ResourceType} {ResourceType : plural 1?was; other?were;} merely a curiosity of scholars. Now our {UnitType} wields {ResourceType : plural 1?it; other?them;} as a weapon for the first time in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE">
+			<Text>Unique Unit Marches</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>You have trained this unique unit for the first time, giving you an edge on the battlefield.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Who but {ActingPlayerCivName} could create the {UnitType}? And who can possibly resist it?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL">
+			<Text>Unit Promoted with Distinction</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_DESCRIPTION">
+			<Text>One of your units reaches its fourth level of promotion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Citizens turn out in throngs to celebrate the latest triumph of our {UnitType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST">
+			<Text>First Unit Promoted with Distinction</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_DESCRIPTION">
+			<Text>For the first time, one of your units reaches its fourth level of promotion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Of all our military forces, this {UnitType} is the most famous. None yet has achieved so many victories in war.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL">
+			<Text>Admiral Defeats Enemy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_DESCRIPTION">
+			<Text>One of your [ICON_GreatAdmiral] Great Admirals has overseen their first victorious offensive against an enemy unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName} stands on deck, spyglass to eye, as the enemy ships sink to the ocean's depths.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL">
+			<Text>General Defeats Enemy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_DESCRIPTION">
+			<Text>One of your [ICON_GreatGeneral] Great Generals has overseen their first victorious offensive against an enemy unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName} leads the troops in parade after a stunning victory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION">
+			<Text>Enemy Formation Defeated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_DESCRIPTION">
+			<Text>One of your units defeated an enemy unit with a superior military formation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_INSTANCE_DESCRIPTION">
+			<Text>Despite being heavily outnumbered, our {UnitType} has won the day!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS">
+			<Text>Enemy Veteran Defeated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_DESCRIPTION">
+			<Text>One of your units defeated an enemy unit with at least 2 more promotions than it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_INSTANCE_DESCRIPTION">
+			<Text>Our {UnitType} has captured the battle standards of a veteran enemy!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI">
+			<Text>Cause for War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_DESCRIPTION">
+			<Text>You have utilized a Casus Belli to make war on another civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_INSTANCE_DESCRIPTION">
+			<Text>The world agrees that our {WarType} against {TargetPlayerCivName} is well justified.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED">
+			<Text>World Circumnavigated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_DESCRIPTION">
+			<Text>Your civilization has revealed a tile in every vertical line of the map. This forms a path around the world, even if the path does not end where it began.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_INSTANCE_DESCRIPTION">
+			<Text>Following where few have gone before, {ActingPlayerCivName} circumnavigates the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD">
+			<Text>World's First Circumnavigation</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to reveal a tile in every vertical line of the map. This forms a path around the world, even if the path does not end where it began.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerCivName} completes the world's first circumnavigation!</Text>
+		</Replace>
+		<!--Moment Data-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_BELIEF">
+			<Text>Belief</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_BUILDING">
+			<Text>Building</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_CITY_STATE_PLAYER">
+			<Text>City-State Player</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_CIVIC">
+			<Text>Civic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_CONTINENT">
+			<Text>Continent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_DISTRICT">
+			<Text>District</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_EMERGENCY">
+			<Text>Emergency</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_FEATURE">
+			<Text>Feature</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GOVERNMENT">
+			<Text>Government</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GOVERNOR">
+			<Text>Governor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GREAT_PERSON_INDIVIDUAL">
+			<Text>Great Person Individual</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GREAT_WORK">
+			<Text>Great Work</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_IMPROVEMENT">
+			<Text>Improvement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_OLD_RELIGION">
+			<Text>Old Religion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_PLAYER_ERA">
+			<Text>Player Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_PROJECT">
+			<Text>Project</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_RELIGION">
+			<Text>Religion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_RESOURCE">
+			<Text>Resource</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_TARGET_PLAYER">
+			<Text>Target Player</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_TARGET_PLAYER_ERA">
+			<Text>Target Player Era</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_TECHNOLOGY">
+			<Text>Technology</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_UNIT">
+			<Text>Unit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR">
+			<Text>War</Text>
+		</Replace>
+		<!-- Types of war (so we can specify in moment text) -->
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_SURPRISE_WAR">
+			<Text>Surprise War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_FORMAL_WAR">
+			<Text>Formal War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_HOLY_WAR">
+			<Text>Holy War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_RECONQUEST_WAR">
+			<Text>Reconquest War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_LIBERATION_WAR">
+			<Text>Liberation War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_DEFENSIVE_PACT">
+			<Text>Defensive Pact</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_JOINT_WAR">
+			<Text>Joint War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_SUZERAIN_WAR">
+			<Text>Suzerain War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_PROTECTORATE_WAR">
+			<Text>Protectorate War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_COLONIAL_WAR">
+			<Text>Colonial War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_TERRITORIAL_WAR">
+			<Text>War of Territorial Expansion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_GOLDEN_AGE_WAR">
+			<Text>Golden Age War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_EMERGENCY_WAR">
+			<Text>Emergency War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_WAR_OF_RETRIBUTION">
+			<Text>War of Retribution</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_IDEOLOGICAL_WAR">
+			<Text>Ideological War</Text>
+		</Replace>
+		<!--Moment Categories and Bonuses-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL">
+			<Text>Sky and Stars</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE">
+			<Text>Sky and Stars Golden Age:[NEWLINE]Unlocks the [ICON_TechBoosted] Eurekas for Advanced Flight, Nuclear Fission, and Rocketry if in the Atomic Era. If in the Information Era the Eurekas for Satellites, Robotics, Nuclear Fusion, and Nanotechnology are unlocked. +100% XP earned for all Air Units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
+			<Text>Sky and Stars Dedication Bonus:[NEWLINE]Gain +1 Era Score for each Aerodrome building constructed. Gain +1 Era Score each time a [ICON_GreatPerson] Great Person is Earned.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_DARK_AGE">
+			<Text>Sky and Stars Dedication Bonus:[NEWLINE]Gain +1 Era Score for each Aerodrome building constructed. Gain +1 Era Score each time a [ICON_GreatPerson] Great Person is Earned.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL">
+			<Text>Pen, Brush, and Voice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_GOLDEN_AGE">
+			<Text>Pen, Brush, and Voice Golden Age:[NEWLINE][ICON_CivicBoosted] Inspirations provide an additional 10% of civic costs. Each city receives +1 [ICON_Culture] Culture for each specialty district </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_NORMAL_AGE">
+			<Text>Pen, Brush, and Voice Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you trigger an [ICON_CivicBoosted] Inspiration. +1 Era Score for constructing a building with a Great Work Slot.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_DARK_AGE">
+			<Text>Pen, Brush, and Voice Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you trigger an [ICON_CivicBoosted] Inspiration. +1 Era Score for constructing a building with a Great Work Slot.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC">
+			<Text>Reform the Coinage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_GOLDEN_AGE">
+			<Text>Reform the Coinage Golden Age:[NEWLINE]Your Traders cannot be plundered. International [ICON_TradeRoute] Trade Routes provide +3 [ICON_Gold] Gold per specialty district in the foreign city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_NORMAL_AGE">
+			<Text>Reform the Coinage Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you successfully complete a [ICON_TradeRoute] Trade Route.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_DARK_AGE">
+			<Text>Reform the Coinage Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you successfully complete a [ICON_TradeRoute] Trade Route.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE">
+			<Text>Bodyguard of Lies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_GOLDEN_AGE">
+			<Text>Bodyguard of Lies Golden Age:[NEWLINE]Takes no time to establish presence in an enemy city. Time to complete all offensive missions reduced by 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_NORMAL_AGE">
+			<Text>Bodyguard of Lies Dedication Bonus:[NEWLINE]Gain +1 Era Score for each successful offensive Spy operation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_DARK_AGE">
+			<Text>Bodyguard of Lies Dedication Bonus:[NEWLINE]Gain +1 Era Score for each successful offensive Spy operation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION">
+			<Text>Hic Sunt Dracones </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_GOLDEN_AGE">
+			<Text>Hic Sunt Dracones Golden Age:[NEWLINE]+3 starting [ICON_Citizen] Population for cities settled on a different continent than your first city. +2 [ICON_Movement] Movement for naval and embarked units. +2 Loyalty per turn for cities not on your original [ICON_Capital] Capital's continent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_NORMAL_AGE">
+			<Text>Hic Sunt Dracones Dedication Bonus:[NEWLINE]Gain +3 Era Score each time you discover a new Continent or natural wonder. Gain +1 Era Score each time you kill a non-Barbarian naval unit in combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_DARK_AGE">
+			<Text>Hic Sunt Dracones Dedication Bonus:[NEWLINE]Gain +3 Era Score each time you discover a new Continent or natural wonder. Gain +1 Era Score each time you kill a non-Barbarian naval unit in combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL">
+			<Text>Heartbeat of Steam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_GOLDEN_AGE">
+			<Text>Heartbeat of Steam Golden Age:[NEWLINE]+10% [ICON_Production] Production toward Industrial era and later wonders. Campus district's [ICON_SCIENCE] Science adjacency bonus provides [ICON_PRODUCTION] Production as well.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_NORMAL_AGE">
+			<Text>Heartbeat of Steam Dedication Bonus:[NEWLINE]Gain +1 Era Score  for each Industrial or later building constructed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_DARK_AGE">
+			<Text>Heartbeat of Steam Dedication Bonus:[NEWLINE]Gain +1 Era Score  for each Industrial or later building constructed. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE">
+			<Text>Monumentality</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_GOLDEN_AGE">
+			<Text>Monumentality Golden Age:[NEWLINE]+2 [ICON_Movement] Movement for all Builders. May purchase civilian units with [ICON_Faith] Faith. Builders and Settlers are 30% cheaper to purchase with [ICON_FAITH] Faith and [ICON_GOLD] Gold.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_NORMAL_AGE">
+			<Text>Monumentality Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you construct a new specialty District.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_DARK_AGE">
+			<Text>Monumentality Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you construct a new specialty District.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY">
+			<Text>To Arms!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_GOLDEN_AGE">
+			<Text>To Arms! Golden Age:[NEWLINE]Unlock a special Casus Belli which gives 75% less warmonger penalties than formal war and can be used immediately after Denouncing the target. +15% [ICON_Production] Production towards military units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_NORMAL_AGE">
+			<Text>To Arms! Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you kill a non-Barbarian Corps in combat and +2 Era Score each time you kill a non-Barbarian Army in combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_DARK_AGE">
+			<Text>To Arms! Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you kill a non-Barbarian Corps in combat and +2 Era Score each time you kill a non-Barbarian Army in combat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS">
+			<Text>Exodus of the Evangelists</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_GOLDEN_AGE">
+			<Text>Exodus of the Evangelists Golden Age:[NEWLINE]+2 [ICON_Movement] Movement for all Missionaries, Apostles, and Inquisitors. Additionally, newly trained ones get +2 Charges. +4 [ICON_GreatProphet] Great Prophet points per turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE">
+			<Text>Exodus of the Evangelists Dedication Bonus:[NEWLINE]Gain +2 Era Score each time you convert a city to your founded Religion for the first time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_DARK_AGE">
+			<Text>Exodus of the Evangelists Dedication Bonus:[NEWLINE]Gain +2 Era Score each time you convert a city to your founded Religion for the first time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC">
+			<Text>Free Inquiry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_GOLDEN_AGE">
+			<Text>Free Inquiry Golden Age:[NEWLINE][ICON_TechBoosted] Eurekas provide an additional 10% of technology costs. Commercial Hub and Harbor district's [ICON_GOLD] Gold adjacency bonus provides [ICON_Science] Science as well.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE">
+			<Text>Free Inquiry Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you trigger a [ICON_TechBoosted] Eureka. +1 Era Score for constructing a building that provides Science as a base yield.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_DARK_AGE">
+			<Text>Free Inquiry Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you trigger a [ICON_TechBoosted] Eureka. +1 Era Score for constructing a building that provides Science as a base yield.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM">
+			<Text>Wish You Were Here</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_GOLDEN_AGE">
+			<Text>Wish You Were Here Golden Age:[NEWLINE]Cities with [ICON_Governor] Governors receive +50%  [ICON_Tourism] Tourism from World Wonders. +100%  [ICON_Tourism] Tourism to all National Parks.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE">
+			<Text>Wish You Were Here Dedication Bonus:[NEWLINE]Gain +1 Era Score each Artifact extracted.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_DARK_AGE">
+			<Text>Wish You Were Here Dedication Bonus:[NEWLINE]Gain +1 Era Score each Artifact extracted.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_NO_MOMENTS_TO_SHOW">
+			<Text>Your civilization hasn't experienced any Historic Moments yet.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

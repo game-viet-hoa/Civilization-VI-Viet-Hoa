@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SOURCE_VENDOR">
+			<Text>Một nhà cung cấp tại trạm thông thương của bạn đã được thông tin điều gì đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIZSOURCE_TRADING_POST_TRAIT">
+			<Text>Hiệu ứng Örtöö của Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIZSOURCE_ACTION_TRADING_POST_TRAIT">
+			<Text>Thiết lập [ICON_TradingPost] Trạm thông Thương như Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_FOMENT_UNREST_DETECTED">
+			<Text>{1_CivName} đã mất lòng trung thành trong {2_CityName} vì hoạt động của gián điệp từ {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_FOMENT_UNREST_UNDETECTED">
+			<Text>{1_CivName} đã mất lòng trung thành trong {2_CityName} vì hoạt động của một gián điệp chưa xác định.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_NEUTRALIZE_GOVERNOR_DETECTED">
+			<Text>{1_CivName} đã có thống đốc của họ trong {2_CityName} trở thành trung lập bởi một gián điệp từ {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_NEUTRALIZE_GOVERNOR_UNDETECTED">
+			<Text>{1_CivName} đã có thống đốc của họ trong {2_CityName} trở thành trung lập bởi một gián điệp chưa xác định.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

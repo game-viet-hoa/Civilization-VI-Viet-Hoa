@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- FrontEnd Text -->
+		<Replace Language='en_US' Tag="LOC_EXPANSION1_NAME">
+			<Text>Bản mở rộng: Trỗi dậy và Sụp đổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EXPANSION1_DESCRIPTION">
+			<Text>Đây là một trò chơi sử dụng Bản mở rộng: Trỗi dậy và Sụp đổ, bao gồm các Thời kỳ Vĩ đại, Lòng Trung thành, các Thống đốc, và Khẩn cấp. Bạn có thể dẫn dắt người dân của bạn vào Thời Vàng son của sự thịnh vượng? Hoặc đế chế của bạn sẽ đối mặt với những thách thức của Thời Đen tối?</Text>
+		</Replace>
+		<!-- Map Config Text -->
+		<Replace Language='en_US' Tag="LOC_MAP_ARCHIPELAGO_NAME">
+			<Text>Quần đảo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TSLEUROPE_NAME">
+			<Text>Bắt đầu từ Địa điểm có thực ở Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TSLEUROPE_DESCRIPTION">
+			<Text>Các nền văn minh bắt đầu tại vị trí có thực của họ theo lịch sử trên bản đồ Châu Âu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_EUROPE_NAME">
+			<Text>Châu Âu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_EUROPE_DESCRIPTION">
+			<Text>Một đại diện của Châu Âu với các nguồn lực, địa hình và các tính năng phản ánh vị trí lịch sử của họ.</Text>
+		</Replace>
+		<!-- Player Config Text -->
+		<!-- District Config Text -->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
+			<Text>Khu nghỉ mát Copacabana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Một quận đặc trưng của Brazil. Thay thế cho Công viên Nước, và cung cấp +2 [ICON_Amenities] Tiện nghi. Hơn nữa giúp mở khóa dự án Lễ hội Car-ni-van, cung cấp +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loạt điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành xong. Không thể xây dựng trong một thành phố có Con đường Car-ni-van. Không thể xây dựng trên Rặng san hô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
+			<Text>Một quận đặc trưng của Brazil. Thay thế cho Khu Giải trí, và cung cấp +2 [ICON_Amenities] Tiện nghi. Hơn nữa giúp mở khóa dự án Lễ hội Car-ni-van, cung cấp +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loạt điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành xong. Không thể xây dựng trong một thành phố có Khu nghỉ dưỡng Copacabana.</Text>
+		</Replace>
+		<!-- Unit Config Text -->
+		<Replace Language='en_US' Tag="LOC_UNIT_SPEC_OPS_NAME">
+			<Text>Đội Đặc nhiệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SPEC_OPS_DESCRIPTION">
+			<Text>Đơn vị do thám thuộc Thời Nguyên tử. Khả năng Thả dù cho phép di chuyển từ vùng đất thân thiện tới địa điểm trong 7 ô (12 nếu bắt đầu từ Sân bay Nhỏ hoặc Đường băng). Có thể tấn công các đơn vị hỗ trợ ngay tức khắc bỏ qua các đơn vị chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DRONE_NAME">
+			<Text>Drone</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DRONE_DESCRIPTION">
+			<Text>Đơn vị hỗ trợ thuộc Thời Nguyên tử. Thêm +1 [ICON_Range] Phạm vi và +5 [ICON_Bombard] Sức ném Bom cho các đơn vị bao vây nằm gần nhau.</Text>8
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PIKE_AND_SHOT_NAME">
+			<Text>Giáo và Súng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Khắc tinh của đơn vị kỵ binh ở cuối Thời Phục hưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
+			<Text>Xe tải Tiếp tế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SUPPLY_CONVOY_DESCRIPTION">
+			<Text>Đơn vị hỗ trợ thuộc Thời Hiện đại. Tăng khả năng chữa lành cho các đơn vị khi ở gần. Cung cấp thêm cho mỗi đơn vị 1 [ICON_Movement] Di chuyển nếu bắt đầu di chuyển cạnh Xe tải Tiếp tế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_ZULU_IMPI_NAME">
+			<Text>Chiến binh Impi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Trung cổ của Zulu thay thế cho Lính giáo. Tăng thưởng khi tấn công bên Sườn, giá thấp và phí duy trì thấp. Kiếm được Điểm Kinh nghiệm nhanh hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
+			<Text>Hỏa xa Hwacha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Phục hưng của Hàn Quốc. Có [ICON_Ranged] Sức Tấn công Tầm xa cao. Không thể di chuyển và tấn công trong cùng một lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
+			<Text>Lính hỏa mai Cao nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Công nghiệp của Scotland thay thế cho Lính Súng. Đơn vị do thám mạnh. +5 [ICON_Strength] Sức Chiến đấu khi ở địa hình Đồi núi và Rừng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
+			<Text>Đại Thuyền buồm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Phục hưng của Hà Lan. +7 [ICON_Strength] Sức Chiến đấu khi tấn công các quận có phòng vệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
+			<Text>Tiễn mã Keshig</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Trung cổ của Mông cổ. Có thể hộ tống thường dân di chuyển và hỗ trợ các đơn vị ở một tốc độ [ICON_Movement] Di chuyển rất cao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
+			<Text>Chiến binh Khevsur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Trung cổ của Gruzia. +7 [ICON_Strength] Sức Chiến đấu khi ở địa hình đồi núi. Không bị phạt [ICON_Movement] Di chuyển trong địa hình đồi núi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
+			<Text>Kỵ binh Malón</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Phục hưng của Mapuche. +5 [ICON_Strength] Sức Chiến đấu nếu trong 4 ô của lãnh thổ thân thiện. Mất 1 [ICON_Movement] Di chuyển khi cướp bóc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
+			<Text>Chiến binh Okihtcitaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Đơn vị đặc biệt thuộc Thời Cổ đại của Cree thay thế cho Trinh sát. Đơn vị trinh sát mạnh. Bắt đầu với 1 cấp miễn phí.</Text>
+		</Replace>
+		<!-- America -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
+			<Text>Tất cả các ô áp dụng chính sách ngoại giao của chính phủ hiện tại đã được chuyển đổi thành các tấm Thẻ.</Text>
+		</Replace>
+		<!-- China -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
+			<Text>Các [ICON_TechBoosted] Eureka và các [ICON_CivicBoosted] Cảm xúc cung cấp thêm 50% công dân và công nghệ thay vì chỉ 40%.</Text>
+		</Replace>
+		<!-- Cleopatra -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
+			<Text>Các [ICON_TradeRoute] Tuyến đường Thương mại của bạn tới các nền văn minh khác cung cấp +4 [ICON_Gold] Vàng cho Ai Cập. Các [ICON_TradeRoute] Tuyến đường Thương mại của các nền văn minh khác khác tới Ai Cập cung cấp +2 [ICON_Food] Thực phẩm cho họ và +2 [ICON_Gold] Vàng cho Ai Cập. Thương mại với đồng minh kiếm được gấp đôi Điểm Liên minh.</Text>
+		</Replace>
+		<!-- Chandragupta -->
+		<Replace Language='en_US' Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
+			<Text>Chandragupta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
+			<Text>Arthashastra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
+			<Text>Có thể tuyên bố Chiến tranh Mở rộng Lãnh thổ sau khi Huấn luyện Quân Đội. +2 [ICON_Movement] Di chuyển và +5 [ICON_Strength] Sức Chiến đấu trong 10 lượt đầu tiên sau khi tuyên bố Chiến tranh Mở rộng Lãnh thổ.</Text>
+		</Replace>
+		<!-- England -->
+		<Replace Language='en_US' Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
+			<Text>Một quận đặc biệt về hải quân của Anh hoạt động trong thành phố của bạn. Thay thế Quận Hải cảng. Cũng loại bỏ phạt [ICON_Movement] Di chuyển để lên tàu và xuống tàu trong ô này. Phải được xây dựng trên Bờ Biển hoặc Bờ Hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả các đơn vị hải quân trong Xưởng tàu[NEWLINE]+2 [ICON_Gold] Vàng và +4 Lòng Trung thành mỗi lượt khi xây dựng trên lục địa nước ngoài. Không thể xây dựng trên Rặng San hô.</Text>
+		</Replace>
+		<!-- Lautaro-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
+			<Text>Mapuche</Text>
+			<Gender>Đàn ông:</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
+			<Text>Mapuchen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
+			<Text>Đế chế Mapuche</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
+			<Text>Toqui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
+			<Text>Tất cả các đơn vị được đào tạo trong các thành phố có một [ICON_Governor] Thống đốc được chỉ định sẽ tăng thêm 25% kinh nghiệm khi chiến đấu. +10 [ICON_Strength] Sức Chiến đấu khi chống lại các nền văn minh trong Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
+			<Text>+{1_Amount} chống lại các nền văn minh trong Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_LAUTARO_NAME">
+			<Text>Lautaro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
+			<Text>Chim ưng Nhanh nhẹn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
+			<Text>Nếu đơn vị của Mapuche đánh bại đơn vị kẻ địch trong biên giới thành phố của kẻ địch, thì thành phố đó sẽ mất 5 Lòng Trung thành.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+      <Text>Nếu đơn vị của Mapuche đánh bại đơn vị kẻ địch trong biên giới thành phố của kẻ địch, thì thành phố đó sẽ mất 20 Lòng Trung thành.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
+			<Text>Đền đá Chemamull</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
+			<Text>Mở khóa khả năng xây dựng Đền đá Chemamull của Thợ xây, công trình đặc biệt của Mapuche.[NEWLINE][NEWLINE]Cung cấp đồng đều 75% [ICON_CULTURE] Văn hoá trong những ô có Sự Hấp dẫn. Thêm [ICON_TOURISM] Du lịch sau khi nghiên cứu Đường bay. Hấp dẫn tối thiểu.</Text>
+		</Replace>
+		<!-- Gilgamesh-->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
+			<Text>Có thể tuyên bố chiến tranh tới bất cứ ai gây chiến trong đồng minh của họ mà không bị phạt kẻ hiếu chiến. Khi chiến đấu với kẻ thù chung, họ và đồng mình của họ chia sẻ phần thưởng và kinh nghiệm chiến đấu nếu trong vòng 5 ô. Các Liên minh của họ giành được Điểm Liên minh khi chiến đấu với kẻ thù chung.</Text>
+		</Replace>
+		<!-- Poundmaker-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CREE_NAME">
+			<Text>Cree</Text>
+			<Gender>Đàn ông:</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
+			<Text>Cree</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
+			<Text>Đế chế Cree</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
+			<Text>Nîhithaw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Tuyến đường Thương mại và một Thương nhân miễn phí với công nghệ Đồ gốm. Không bị đòi hỏi trong vòng 3 ô của thành phố mà Cree kiểm soát khi một Thương nhân lần đầu tiên di chuyển vào đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POUNDMAKER_NAME">
+			<Text>Poundmaker</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
+			<Text>Các Điều khoản Thuận lợi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
+			<Text>Tất cả các loại Liên minh đều Chia sẻ Tầm nhìn.[NEWLINE]Các [ICON_TradeRoute] Tuyến đường Thương mại thêm +1 [ICON_Food] Thực phẩm cho mỗi Trại hoặc Bãi Chăn thả trong thành phố của Poundmaker.[NEWLINE]Các [ICON_TradeRoute] Tuyến đường Thương mại thêm +1 [ICON_Gold] Vàng cho mỗi Trại hoặc Bãi Chăn thả trong thành phố của Poundmaker.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
+			<Text>Khu nhà Mekewap</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
+			<Text>Mở khóa khả năng xây dựng Khu nhà Mekewap của Thợ xây, công trình đặc biệt của Cree.[NEWLINE][NEWLINE]Cung cấp +1 [ICON_PRODUCTION] Sản xuất và +1 [ICON_Housing] Nhà ở. +1 [ICON_GOLD] Vàng nếu nằm cạnh tài nguyên Quý hiếm. Nằm cạnh 2 tài nguyên Thưởng thêm +1 [ICON_FOOD] Thực phẩm. Thêm [ICON_PRODUCTION] Sản xuất, [ICON_GOLD] Vàng, [ICON_FOOD] Thực phẩm, và [ICON_HOUSING] Nhà ở thông qua sự tiến bộ của Cây Công dân và Cây Công nghệ. Phải được đặt cạnh tài nguyên Quý hiếm. Không thể xây dựng kế bên Khu nhà Mekewap khác.</Text>
+		</Replace>
+		<!-- Robert the Bruce -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
+			<Text>Scotland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
+			<Text>Người Scotland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
+			<Text>Đế chế Scotland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
+			<Text>Người Scotland được Khai sáng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Các thành phố hạnh phúc nhận được thêm +5%  [ICON_SCIENCE] Khoa học và +5%  [ICON_PRODUCTION] Sản xuất. Các thành phố hạnh phúc thêm +1  [ICON_GreatScientist] Đại Khoa học gia cho mỗi Trường học và +1 [ICON_GreatEngineer] Đại Kỹ sư viên cho mỗi Khu Công nghiệp. Các thành phố bị ảnh hưởng giúp tăng gấp đôi điểm thưởng này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
+			<Text>Robert của Bruce</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
+			<Text>Bannockburn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
+			<Text>Can declare a War of Liberation after gaining the Defensive Tactics Civic.  +100% [ICON_Production] Production and +2 [ICON_Movement] Movement for the first 10 turns after declaring a War of Liberation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
+			<Text>Sân Gôn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
+			<Text>Mở khóa khả năng xây dựng Sân Gôn của Thợ xây, công trình đặc biệt của Scotland.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Tiện nghi và +2 [ICON_GOLD] Vàng. +1 [ICON_CULTURE] Văn hóa nếu nằm cạnh Thành phố Trung tâm và +1 [ICON_CULTURE] Văn hóa nếu nằm cạnh Khu Giải trí. Thêm [ICON_TOURISM] Du lịch và [ICON_HOUSING] Nhà ở thông qua sự tiến bộ của Cây Công dân và Cây Công nghệ. Không thể đặt trên Sa mạc hoặc Đồi Sa mạc. Chỉ một trong mỗi thành phố. Các ô có Sân Gôn không thể đổi chỗ. +1 Hấp dẫn.</Text>
+		</Replace>
+		<!-- Seondeok -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KOREA_NAME">
+			<Text>Hàn Quốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
+			<Text>Người Hàn Quốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
+			<Text>Đế chế Hàn Quốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
+			<Text>Tam Quốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
+			<Text>Các khu Mỏ nhận +1 [ICON_SCIENCE] Khoa học nếu nằm gần Trường Seowon. Các Nông trại nhận +1 [ICON_FOOD] Thực phẩm nếu nằm gần Trường Seowon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SEONDEOK_NAME">
+			<Text>Seondeok</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
+			<Text>Hwarang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
+			<Text>+10% [ICON_Culture] Văn hóa và +10% [ICON_Science] Khoa học cho tất cả các thành phố có một [ICON_Governor] Thống đốc được chỉ định.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SEOWON_NAME">
+			<Text>Trường Seowon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
+			<Text>Công trình đặc biệt ở Hàn Quốc cho các nỗ lực khoa học. Thay thế cho Khu Tri thức. +4 [ICON_SCIENCE] Khoa học. Phải được xây dựng trên Đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
+			<Text>Mức độ liền kề: -1 [ICON_SCIENCE] Khoa học cho mỗi quận liền kề.</Text>
+		</Replace>
+		<!-- Genghis Khan -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
+			<Text>Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
+			<Text>Người Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
+			<Text>Đế chế Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
+			<Text>Örtöö</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
+			<Text>Bắt đầu một [ICON_TradeRoute] Tuyến đường Thương mại ngay lập tức tạo ra một [ICON_TradingPost]  Trạm Thông thương ở thành phố đích. Nhận được thêm cấp độ [ICON_VisLimited] Tầm nhìn Ngoại giao khi sở hữu [ICON_TradingPost] Trạm Thông thương tại bất kỳ thành phố nào trong nền văn minh. Tất cả đơn vị Mông Cổ tăng gấp đôi [ICON_Strength] Sức Chiến đấu khi [ICON_VisLimited] Tầm nhìn Ngoại giao cao hơn đối thủ của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
+			<Text>Thành Cát Tư Hãn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
+			<Text>Hãn quốc Kim tướng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
+			<Text>Tất cả các đơn vị kỵ binh được +3 [ICON_Strength] Sức Chiến đấu và có cơ hội bắt giữ các đơn vị kỵ binh của địch đã bại trận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} Hãn quốc Kim tướng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORDU_NAME">
+			<Text>Doanh trại Ordu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORDU_DESCRIPTION">
+			<Text>Công trình đặc biệt của Mông Cổ. Có khả năng cho phép +1 [ICON_MOVEMENT] Di chuyển cho Kỵ binh hạng Nặng và Kỵ binh hạng Nhẹ được đào tạo trong thành phố này. + 25% kinh nghiệm chiến đấu cho tất cả đơn vị kỵ binh được đào tạo trong thành phố này. Không được xây dựng trong quận đã có một Doanh trại.</Text>
+		</Replace>
+		<!-- Shaka Zulu -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_NAME">
+			<Text>Zulu</Text>
+			<Gender>Đàn ông:</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
+			<Text>Zulu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
+			<Text>Đế chế Zulu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
+			<Text>Isibongo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
+			<Text>Các thành phố có đơn vị đồn trú sẽ được +3 Lòng Trung thành mỗi lượt, hoặc +5 nếu là Quân đoàn hoặc Quân đội. Chinh phục một thành phố giúp nâng cấp đơn vị đó thành Quân đoàn hoặc Quân đội, nếu có chính sách Công dân phù hợp đã được mở khóa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SHAKA_NAME">
+			<Text>Shaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
+			<Text>Amabutho</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
+			<Text>Có thể thành lập các Quân đoàn (Lính đánh thuê) và Quân đội (Lính ái quốc) ngay từ đầu. Thêm +5 [ICON_STRENGTH] Sức Chiến đấu cho cả Quân đoàn và Quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_IKANDA_NAME">
+			<Text>Doanh trại Ikanda</Text>
+			<Gender>Đàn ông:</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
+			<Text>Công trình đặc biệt của Zulu thay thế cho Khu trại. Cung cấp +1 [ICON_Housing] Nhà ở. Một khi điều kiện Công dân hoặc Công nghệ được đáp ứng, Quân đoàn và Quân đội có thể được xây dựng ngay lập tức. Các Quân đoàn và Quân đội sẽ được tạo ra nhanh hơn.</Text>
+		</Replace>
+		<!-- Spain -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
+			<Text>Tạo ra các Đội tàu và Hạm đội sớm hơn bình thường (Chủ nghĩa Thương nghiệp) . Các [ICON_TradeRoute] Tuyến đường Thương mại tới nhiều đại lục nhận nhận thưởng thêm [ICON_Gold] Vàng cho các tuyến đường đến các nền văn minh khác, và thưởng thêm [ICON_Food] Thực phẩm và [ICON_Production] Sản xuất cho các tuyến đường giữa các thành phố của bạn. +2 Lòng Trung thành mỗi lượt cho các thành phố  nằm gần Thành phố Trung tâm và không phải trên vùng đất của [ICON_Capital] Thủ đô ban đầu.</Text>
+		</Replace>
+		<!-- Tamar-->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GEORGIA_NAME">
+			<Text>Georgia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
+			<Text>Người Georgia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
+			<Text>Đế chế Georgia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
+			<Text>Sức mạnh của Đoàn kết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+			<Text>Khi thực hiện Cống hiến khi bắt đầu Thời Vàng son, nhận thưởng từ Thời Thông thường để cải thiện Điểm Thời đại, ngoài ra nhận thưởng thêm từ Thời Vàng son.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TAMAR_NAME">
+			<Text>Tamar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
+			<Text>Vinh quang của Thế giới, Vương quốc và Đức tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
+			<Text>+100% [ICON_FAITH] Đức tin trong 10 lượt sau khi tuyên bố Chiến tranh Bảo hộ. Mỗi [ICON_ENVOY] Phái đoàn bạn gửi đến thành phố-tự trị của bạn có Tôn giáo chiếm đa số được tính là hai [ICON_ENVOY] Phái đoàn. (Phải có Tôn giáo chiếm đa số).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TSIKHE_NAME">
+			<Text>Tường bao Tsikhe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
+			<Text>Công trình đặt biệt của Georgia. Có chi phí [ICON_Production] Sản xuất thấp hơn so với Tường bao Thời Phục hưng. Nâng cao sức mạnh phòng thủ bên lên mức cao nhất có thể. Cung cấp 3 [ICON_TOURISM] Du lịch sau khi đạt được Bảo tồn Công dân. Cung cấp 3 [ICON_Faith] Đức tin.</Text>
+		</Replace>
+		<!-- Wilhemina -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
+			<Text>Hà Lan</Text>
+			<Gender>Đàn ông:</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
+			<Text>Người Hà Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
+			<Text>Đế chế Hà Lan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
+			<Text>Sông Lớn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
+			<Text>Thưởng lớn cho các Khu Tri thức, Khu Nghệ thuật và Khu Công nghiệp nếu nằm cạnh sông. Tấn công Văn hoá tới ô liền kề khi hoàn thành Cảng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_WILHELMINA_NAME">
+			<Text>Wilhelmina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
+			<Text>Diễn thuyết qua Ra-đi-ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
+			<Text>Các [ICON_TradeRoute] Tuyến đường Thương mại của bạn đến các thành phố của bạn cung cấp +1 Lòng Trung thành mỗi lượt khi bắt đầu từ thành phố. Các [ICON_TradeRoute] Tuyến đường Thương mại tới các thành phố nước ngoài hoặc từ các thành phố nước ngoài cung cấp +1 [ICON_Culture] Văn hóa cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_POLDER_NAME">
+			<Text>Kênh đào</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
+			<Text>Mở khóa khả năng xây dựng Kênh đào của Thợ xây, công trình đặc biệt của Hà Lan.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Thực phẩm và +1 [ICON_Production] Sản xuất. +1 [ICON_FOOD] Thực phẩm nếu nằm gần một Kênh đào. Thêm [ICON_PRODUCTION] Sản xuất, [ICON_GOLD] Vàng, và [ICON_FOOD] Thực phẩm thông qua sự tiến bộ của Cây Công dân và Cây Công nghệ. Phải được đặt trên Bờ Biển hoặc Hồ liền kề với 3 hoặc nhiều ô đất bằng phẳng. Tăng chi phí [ICON_Movement] Di chuyển của ô tới 3.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Ngư nghiệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>Một [ICON_Governor] Thống đốc có kỹ năng đặc biệt có thể được lập trong thành phố có Thống đốc Thanh tra với Ngư nghiệp đã được mở khóa. 1 [ICON_Food] Thực phẩm, thêm +1 [ICON_ Thực phẩm] Thực phẩm nếu nằm cạnh tài nguyên biển. Phải được xây dựng trên bờ biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>Công viên Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>Một [ICON_Governor] Thống đốc có kỹ năng đặc biệt có thể được lập trong thành phố có Thống đốc Thanh tra với Công viên và Nhà Văn hóa đã mở khóa. Năng suất 2 Hấp dẫn và 1 [ICON_Culture] Văn hóa. +1 [ICON_Amenities] Tiện nghi nếu nằm gần nước. Không được nằm liền kề với Công viên Thành phố.</Text>
+		</Replace>
+		<!-- Jerusalem -->
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME_EXPANSION">
+			<Text>Thưởng Bá chủ Jerusalem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Các thành phố của bạn với Khu Tôn giáo sẽ gây ra áp lực như thể họ là Thành phố Thánh (áp lực Tôn giáp 4x lên tất cả các thành phố trong vòng 10 ô).</Text>
+		</Replace>
+		<!-- Free Cities -->
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
+			<Text>Các Thành phố Tự do</Text>
+			<Gender>Đàn ông:</Gender>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
+			<Text>Các Thành phố Tự do</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
+      <Text>Cấp độ {1_Level}</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
+      <Text>Báo cáo: Liên minh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
+      <Text>Xem xét các khả năng và ảnh hưởng tương lai của Liên minh hiện tại của bạn với nhà lãnh đạo này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
+      <Text>{1_CurrentTurns} / {2_TurnsToLevel}</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
+      <Text>Liên minh Hiện tại:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
+      <Text>Lợi ích đã thêm ở Cấp độ Kế tiếp:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
+      <Text>Những Liên minh Sẵn có:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
+      <Text>Hiện tại bạn không có liên minh với người chơi này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
+      <Text>(Hết hiệu lực trong [ICON_TURN] {1_Turns} Lượt)</Text>
+	  </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
+      <Text>Xem xét những trường hợp Khẩn cấp của bạn với nhà lãnh đạo này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
+      <Text>Đang nhắm tới bạn:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
+      <Text>Đang tham gia với bạn:</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
+      <Text>Báo cáo: Khẩn cấp</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
+      <Text>Khẩn cấp</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_AT_WAR_WITH_CS">
+			<Text>[COLOR_RED]Bạn đang chiến tranh với Thành phố-Tự trị này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAX_ALLIANCE_POINTS">
+			<Text>TỐI ĐA</Text>
+		</Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
+			<Text>Khoảnh khắc Lịch sử</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
+			<Text>Người dân của bạn kỷ niệm một Khoảnh khắc Lịch sử! {1_MomentDescription} (+{2_EraScoreAmount} Era Score)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
+			<Text>Thống đốc được thiết lập trong {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
+			<Text>Thống đốc {1_GovernorName} hiện đã được thiết lập trong {2_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
+			<Text>Khả năng mới có sẵn của Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
+			<Text>Bổ nhiệm một Thống đốc mới hoặc thăng cấp một Thống đốc hiện tại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
+			<Text>Ô Thống đốc mới có sẵn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
+			<Text>Thăng cấp một [ICON_Governor] Thống đốc hiện tại, hoặc Bổ nhiệm một Thống đốc mới cho nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
+			<Text>Ô Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
+			<Text>Thăng cấp một Thống đốc hiện tại, hoặc Bổ nhiệm một Thống đốc mới cho nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
+			<Text>Thăng cấp Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
+			<Text>Một ô có sẵn để thăng cấp một trong các Thống đốc của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
+			<Text>Bổ nhiệm Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
+			<Text>Bổ nhiệm một Thống đốc mới cho nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
+			<Text>Duy trì hoặc Giải phóng Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
+			<Text>Một thành phố nước ngoài đã nổi dậy chống lại chủ cũ của nó, kể từ khi Lòng Trung thành của nó giảm về 0. Lòng Trung thành của bạn là cao nhất ở đó, do đó nó khiêm tốn yêu cầu tham gia nền Văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Thăng cấp Thống đốc có hiệu lực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>Thăng cấp có hiệu lực dành cho một trong các Thống đốc của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
+			<Text>Thống đốc đã bị loại bỏ khỏi {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
+			<Text>Thống đốc {1_GovernorName} không còn được chỉ định cho {2_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
+			<Text>Thống đốc {1_GovernorName} đã di chuyển đến {2_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
+			<Text>Thống đốc {1_GovernorName} đã di chuyển từ {2_CityName} đến {3_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
+			<Text>Thống đốc {1_GovernorName} đã trở lại phục vụ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
+			<Text>Thống đốc {1_GovernorName} đã trở lại phục vụ. {2_GovernorTitle} bây giờ có thể được chỉ định đến một thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
+			<Text>Thành phố đang mất Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
+			<Text>{1_CityName} đang mất Lòng Trung thành. Nếu Lòng Trung thành giảm về 0, nó có thể vượt qua sự kiểm soát của chúng ta. Chỉ định một Thống đốc đến thành phố để ổn định và giành được Lòng Trung thành của người dân ở đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
+			<Text>Thành phố mất Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
+      <Text>Vì Lòng Trung thành đã giảm xuống 0, {1_CityName} đã nổi loạn và trở thành một Thành phố Tự do. Để kiểm soát nó một lần nữa, bạn phải một lần nữa thể hiện Lòng Trung thành của bạn ở đó hoặc sử dụng quân đội.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
+      <Text>Thành phố nước ngoài giành được Độc lập</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
+      <Text>{1_CivName} không còn đủ Lòng Trung thành để giữ cho thành phố {2_CityName} nằm trong đế quốc của họ. Các nền văn minh gần đó đang thực hiện Lòng Trung thành hoặc sử dụng quân đội để sớm giành quyền kiểm soát Thành phố Tự do này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
+      <Text>Thành phố Tự do thỉnh cầu nền văn minh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
+      <Text>Thành phố Tự do của {2_CityName} phải chịu áp lực từ nước ngoài, và yêu cầu gia nhập {1_CivName}.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
+			<Text>Chiến tranh Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
+			<Text>Chiến tranh Báo thù</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
+			<Text>Chiến tranh Tư tưởng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
+			<Text>Khởi tạo một [ICON_TradeRoute] Tuyến đường Thương mại sẽ tạo ra một [ICON_TradingPost] Trạm Thông thương cho bạn trong thành phố {1_CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
+			<Text>Duy trì hoặc Giải phóng Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
+      <Text>Một Thành phố Tự do đã đánh mất mong muốn duy trì độc lập. Vì Lòng Trung thành của bạn là cao nhất ở đó, nó khiêm tốn yêu cầu gia nhập nền Văn minh của bạn.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
+			<Text>Mật vụ của bạn {1_unitName} trong {2_CityName} đã thành công trong việc loại bỏ các Phái đoàn của đối phương.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
+			<Text>Xì-căng-dan đang thêu dệt thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
+			<Text>Một gián điệp của đối phương trong {1_CityName} đã thành công trong việc loại bỏ các Đại sứ của chúng ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
+			<Text>Đối phương đã Thêu dệt Xì-căng-dan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
+			<Text>Mật vụ của bạn {1_unitName} của bạn đã thành công trong việc giảm Lòng Trung thành của chủ sở hữu ở thành phố {2_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
+			<Text>Success Fomenting Unrest</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
+			<Text>An enemy Spy has reduced the Loyalty of your citizens in {1_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
+			<Text>Đang kích động Bất ổn thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
+			<Text>Mật vụ của bạn {1_unitName} đã thành công trong việc vô hiệu hóa thống đốc đối phương trong thành phố {2_cityName}, loại bỏ họ ra khỏi nhiệm vụ trong {3_turns} lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
+			<Text>Đang vô hiệu hóa Thống đốc thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
+			<Text>Một Gián điệp của đối phương đã thành công trong việc vô hiệu hóa thống đốc của bạn {1_governorName} trong thành phố {2_cityName}, loại bỏ họ ra khỏi nhiệm vụ trong {3_turns} lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
+			<Text>Gián điệp đối phương đã vô hiệu hóa Thống đốc thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>Liên minh đã hết hiệu lực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>Liên minh của bạn với {1_CivName} đã hết hiệu lực.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
+      <Text>Gia tăng Cấp độ Liên minh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
+      <Text>Cấp độ Liên mình  của bạn với {1_CivName} đã được gia tăng.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
+			<Text>Thông báo Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
+			<Text>{1_CivName} đã được nhắm tới là một mục tiêu Khẩn cấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Một người chơi chưa xác định đã được nhắm tới là một mục tiêu Khẩn cấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
+			<Text>Hoàn Toàn Khẩn cấp</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
+      <Text>Mục tiêu Khẩn cấp đang nhắm tới bạn đã thất bại. Bạn đã được thưởng.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
+			<Text>Mục tiêu Khẩn cấp nhắm tới {1_CivName} đã thất bại. {1_CivName} đã được thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Mục tiêu Khẩn cấp nhắm tới một người chơi chưa xác định đã thất bại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
+			<Text>Hoàn Toàn Khẩn cấp</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
+      <Text>Mục tiêu Khẩn cấp nhắm tới bạn đã thành công. Những người chống lại bạn đã được thưởng.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
+			<Text>Mục tiêu Khẩn cấp nhắm tới {1_CivName} đã thành công. Những người chống lại {1_CivName} đã được thưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Mục tiêu Khẩn cấp nhắm tới một người chơi chưa xác định đã thành công.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
+      <Text>Cảnh báo Khẩn cấp</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
+      <Text>{1_EmergencyType} nhắm tới {2_CivName} đã kết thúc vì {3_CityName} đã bị phá hủy.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
+      <Text>{1_EmergencyType} nhắm tới {2_CivName} đã kết thúc vì {3_CityName} đã được trả lại cho chủ sở hữu ban đầu.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
+      <Text>1_EmergencyType} nhắm tới {2_CivName} đã kết thúc vì {3_CityName} đã được trả lại cho chủ sở hữu trước đó.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
+      <Text>{1_EmergencyType} nhắm tới {2_CivName} đã kết thúc vì {3_CityName} không còn thuộc về {2_CivName}.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
+      <Text>{1_EmergencyType} nhắm tới {2_CivName} đã kết thúc vì {2_CivName} đã bị phá hủy.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
+			<Text>KHẨN CẤP!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
+			<Text>Một sự khẩn cấp cần bạn chú ý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
+			<Text>Đã thực hiện Cam kết tới bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
+			<Text>Cam kết cho bạn bởi {1_CivName} tới {2_PledgeType} đã được thực hiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
+			<Text>Cam kết của bạn đã thực hiện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
+			<Text>Cam kết của bạn tới {1_CivName} tới {2_PledgeType} đã được thực hiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
+			<Text>Phá vỡ Cam kết tới bạn </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
+			<Text>Lời cam kết tới bạn bởi {1_CivName} tới {2_PledgeType} đã bị phá vỡ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
+			<Text>Cam kết của bạn bị phá vỡ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
+			<Text>Cam kết của bạn tới {1_CivName} tới {2_PledgeType} đã bị phá vỡ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
+			<Text>Thực hiện Cống hiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
+			<Text>Kể từ khi trò chơi bước vào một thời đại mới, bạn có thể thực hiện một lễ Cống hiến để chỉ dẫn người dân của bạn hướng tới tương lai mong muốn cho nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
+			<Text>Thưởng Cống hiến đã Khởi sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
+			<Text>{1_DedicationBonusTriggerSentence} Bởi vì điều này, bạn nhận được Điểm Thời đại từ điểm thưởng Cống hiến của bạn!</Text>
+		</Replace>
+		<!--TUTORIAL EVENTS TEXT-->
+	</LocalizedText>
+</GameData>

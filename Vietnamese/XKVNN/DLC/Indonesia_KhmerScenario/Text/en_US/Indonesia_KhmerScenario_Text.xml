@@ -15,6 +15,7 @@
 		<Delete Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS"/>
 		<Delete Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS"/>
 	
+	
 		<!-- Buildings-->
 		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_LIGHTHOUSE_DESCRIPTION">
 			<Text>+1 [ICON_FOOD] Thực phẩm cho tất cả thành phố thuộc vùng Bờ biển.</Text>

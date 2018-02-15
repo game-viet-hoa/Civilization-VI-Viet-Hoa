@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Standard modifiers -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NEIGHBOR">
+			<Text>Chandragupta không hài lòng Đế Chế của bạn ở gần ông ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NOT_NEIGHBOR">
+			<Text>Chandragupta hài lòng Đế Chế của bạn ở xa ông ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_HIGH_SCIENCE">
+			<Text>Seondeok hài lòng với những nỗ lực của bạn trong Khoa học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>Seondeok thất vọng vì bạn bỏ qua Khoa học</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_PEACEFUL">
+			<Text>Robert của Bruce hài lòng bạn đã giữ gìn hòa bình với láng giềng của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_WARLIKE">
+			<Text>Robert của Bruce bất an khi bạn chiến đấu với láng giềng của bạn</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_MANY_ALLIANCES">
+      <Text>Poundmaker chấp thuận làm liên minh với bạn</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_FEW_ALLIANCES">
+      <Text>Poundmaker không vui khi bạn có ít liên minh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_HIGH_WALLS">
+			<Text>Tamar hài lòng khi bạn đang củng cố các thành phố của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>Tamar bất an khi các thành phố của bạn thiếu sự phòng vệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_GAINING_CITIES">
+			<Text>Lautaro chấp thuận chiến thắng đất đai thông qua lòng trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>Lautaro không thích những người không thể đảm bảo lòng trung thành người dân của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_CURMUDGEON_POSITIVE">
+			<Text>Họ thích dành thời gian với các nhà lãnh đạo có cùng giới tính với họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_CURMUDGEON_NEGATIVE">
+			<Text>Họ không thích sự bối rối mà bạn sắp đặt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_FLIRTATIOUS_POSITIVE">
+			<Text>Bạn rất hấp dẫn và duyên dáng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_FLIRTATIOUS_NEGATIVE">
+			<Text>Bạn không quan tâm đến họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_POSITIVE">
+			<Text>Họ yêu mến bạn khi bạn chia sẻ rất nhiều thông tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_NEGATIVE">
+			<Text>Họ không vui khi họ không thể tìm được tin đồn nào từ bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_GOLDEN_AGE">
+			<Text>Họ rất vui khi gặp bạn trong Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_DARK_AGE">
+			<Text>Họ thất vọng vì bạn ở trong Thời Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_DARK_AGE">
+			<Text>Họ khuyến khích bạn vượt qua Thời Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Họ ghen tị với Thời Vàng son của bạn</Text>
+		</Replace>
+		<!-- Troops on border pledge modifiers -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_BROKEN_PLEDGE">
+			<Text>Chúng tôi đã phá vỡ cam kết để di chuyển quân đội của chúng tôi từ biên giới của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_KEPT_PLEDGE">
+			<Text>Chúng tôi đã giữ cam kết để di chuyển quân đội của chúng tôi từ biên giới của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NO_PLEDGE">
+			<Text>Chúng tôi đã quyết định không cam kết sẽ di chuyển quân của chúng tôi ra khỏi biên giới của họ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SHARED_EMERGENCY">
+			<Text>Chúng tôi đã tham gia một trường hợp khẩn cấp chống lại cùng một người</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

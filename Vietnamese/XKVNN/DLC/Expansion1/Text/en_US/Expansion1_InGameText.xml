@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Combat Modifiers -->
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Thống đốc)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Liên minh)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
+			<Text>+{1_Value} Thay đổi Ngoại giao Gần đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
+			<Text>+{1_Value} Chuyển động của kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
+			<Text>+{1_Value} Chỉ huy đơn vị Đồn trú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
+			<Text>+{1_Value} từ Liên minh Quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
+			<Text>{1_Value: number +#;-#} từ Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
+			<Text>+{1_Value} từ Liên minh Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
+			<Text>+{1_Value} tăng cường phòng thủ trên không</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
+			<Text>+{1_Value} Đạt được kỹ năng Quan án Tôn giáo của thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
+			<Text>-{1_Value} Ít hiệu quả khi chống lại các đơn vị mặt đất</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
+			<Text>-{1_Value} Ít hiệu quả khi chống lại các đơn vị hải quân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_LOYALTY">
+			<Text>Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_GOVERNOR">
+			<Text>Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} Lòng Trung thành[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
+			<Text>[COLOR_RED]{1_Num} Lòng Trung thành[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
+			<Text>Những lợi ích từ các Thống đốc:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_TITLE">
+			<Text>CÁC THỐNG ĐỐC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
+			<Text>Không thỏa mãn nền Văn minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
+			<Text>[COLOR_RED]Chi tiêu [ICON_Faith] Đức tin cho sự bảo hộ bị vô hiệu hóa bởi một trong các chính sách hiện tại của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
+			<Text>[COLOR_RED]Chi tiêu [ICON_Gold] Vàng cho sự bảo hộ bị vô hiệu hóa bởi một trong các chính sách hiện tại của bạn.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
+			<Text>Không thể cứu thương trong lãnh thổ này do chính sách đã lựa chọn</Text>
+		</Replace>
+		<!-- Alliance Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
+			<Text>Bạn đã có một Liên minh loại này với nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
+			<Text>{1_OtherCiv} đã có một Liên minh loại này với nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
+			<Text>Cấp độ Liên minh: {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
+			<Text>Cấp độ Liên minh:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
+			<Text>Cấp độ Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
+			<Text>Điểm Liên minh:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
+			<Text>+{1_PointsPerTurn}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
+			<Text>/ {1_PointsNeeded}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
+			<Text>Liên minh hiện tại: {1_AllianceTypeName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
+			<Text>Xem thông tin quan trọng về Cấp độ Liên minh của bạn với nhà lãnh đạo này, bao gồm những lợi ích của Liên minh mà bạn có quyền truy cập.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
+			<Text>Cấp độ Liên minh Nghiên cứu {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
+			<Text>Cấp độ Liên minh Văn hóa {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
+			<Text>Cấp độ Liên minh Kinh tế {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
+			<Text>Cấp độ Liên minh Quân sự {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
+			<Text>Cấp độ Liên minh Tôn giáo {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_RESEARCH">
+			<Text>Liên minh Nghiên cứu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_CULTURAL">
+			<Text>Liên minh Văn hóa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_MILITARY">
+			<Text>Liên minh Quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_ECONOMIC">
+			<Text>Liên minh Kinh tế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_RELIGIOUS">
+			<Text>Liên minh Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
+			<Text>Tạo một Liên minh Nghiên cứu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
+			<Text>Tạo một Liên minh Văn hóa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
+			<Text>Tạo một Liên minh Quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
+			<Text>Tạo một Liên minh Kinh tế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
+			<Text>Tạo một Liên minh Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
+			<Text>Làm mới Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCES">
+			<Text>Những Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCES_TT">
+			<Text>Đề nghị một Liên minh với quyền này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
+			<Text>Đề nghị kéo dài duy trì Liên minh hiện tại của bạn với quyền này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
+			<Text>Liên minh hiện tại của bạn nhận được những lợi ích này:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
+			<Text>Ở Cấp độ Liên minh kế tiếp, các Liên minh của bạn nhận được những lợi ích bổ sung này:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
+			<Text>{1_Tooltip}[NEWLINE]Toàn bộ [ICON_Tourism] Du lịch được tăng thêm +{2_Percent} từ những Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ những Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) từ những Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} từ những Liên minh Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
+			<Text>Chia sẻ Tầm nhìn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
+			<Text>Các thành phố của đồng minh của bạn không áp dụng áp lực Lòng Trung thành đối với bạn, và ngược lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
+			<Text>Các thành phố của đồng minh của bạn không áp dụng áp lực Tôn giáo đối với bạn, và ngược lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
+			<Text>+5 [ICON_Strength] Sức Chiến đấu chống lại các đơn vị của người chơi khác đang chiến tranh với bạn và đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
+			<Text>+4 [ICON_GOLD] Vàng từ các [ICON_TradeRoute] Tuyến đường Thương mại tới đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
+			<Text>+2 [ICON_GOLD] Vàng từ các [ICON_TradeRoute] Tuyến đường Thương mại từ đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
+			<Text>+2 [ICON_FAITH] Đức tin từ các [ICON_TradeRoute] Tuyến đường Thương mại tới đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
+			<Text>+1 [ICON_FAITH] Đức tin từ các [ICON_TradeRoute] Tuyến đường Thương mại từ đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
+			<Text>+2 [ICON_Culture] Văn hóa từ các [ICON_TradeRoute] Tuyến đường Thương mại tới đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
+			<Text>+1 [ICON_Culture] Văn hóa từ các [ICON_TradeRoute] Tuyến đường Thương mại từ đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
+			<Text>+2 [ICON_SCIENCE] Khoa học từ các [ICON_TradeRoute] Tuyến đường Thương mại tới đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
+			<Text>+1 [ICON_SCIENCE] Khoa học từ các [ICON_TradeRoute] Tuyến đường Thương mại từ đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
+			<Text>Thưởng điểm [ICON_Envoy] Phái đoàn cho mỗi Thành phố Tự trị tiến hành Cống nạp cho đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
+			<Text>+15% [ICON_PRODUCTION] Sản xuất cho các đơn vị quân đội khi bạn hoặc đồng minh của bạn có chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
+			<Text>+10 Sức Chiến đấu Tôn giáo khi chống lại các Tôn giáo không phải đồng minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
+			<Text>Mỗi 30 lượt (trên Tiêu chuẩn), bạn mở khóa một [ICON_TechBoosted] Eureka cho công nghệ mà đồng minh của bạn đã nghiên cứu hoặc đã thúc đẩy, nhưng bạn thì chưa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
+			<Text>Mỗi [ICON_District] Quận của bạn được thêm điểm [ICON_GreatPerson] Vĩ nhân cho mỗi lượt nếu bạn có [ICON_TradeRoute] Tuyến đường Thương mại từ thành phố này đến thành phố đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
+			<Text>Các đơn vị bắt đầu với một Cấp độ miễn phí</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
+			<Text>+1 [ICON_FAITH] Đức tin cho mỗi [ICON_Citizen] Công dân của bạn theo tôn giáo đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
+			<Text>Thưởng Áp lực Tôn giáo trong các thành phố không có ai theo Tôn giáo đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
+			<Text>Bạn nhận được + 10% [ICON_SCIENCE] khoa học từ đồng minh của bạn khi bạn hoặc đồng minh của bạn đang nghiên cứu công nghệ mà người kia đã hoàn thành, hoặc đang nghiên cứu công nghệ tương tự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
+			<Text>Bạn nhận được + 20% [ICON_Tourism] Du lịch từ đồng minh của bạn từ các Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
+			<Text>Bạn nhận được + 10% [ICON_Culture] Văn hóa từ đồng minh của bạn từ các Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
+			<Text>Chia sẻ các khoản thưởng Bá chủ với đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
+			<Text>{1_Amount} Điểm cho đồng minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
+			<Text>[NEWLINE]{1_Amount} Điểm từ một [ICON_TradeRoute] Tuyến đường Thương mại tới đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
+			<Text>[NEWLINE]{1_Amount} Điểm từ một [ICON_TradeRoute] Tuyến đường Thương mại từ đồng minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
+			<Text>[NEWLINE]{1_Amount} Điểm từ việc tuyên bố chiến tranh với kẻ địch chung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} Điểm từ các nguồn tài nguyên khác của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} Điểm từ các nguồn tài nguyên khác của đồng minh của bạn</Text>
+		</Replace>
+		<!-- New Government Text -->
+		<Replace Language='en_US' Tag="LOC_GOVT_POLICY_TYPE_DARKAGE">
+			<Text>Những Chính sách Thời Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1">
+			<Text>+1 cho tất cả lợi nhuận cho mỗi tòa nhà chính phủ và cung điện trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY_XP1">
+			<Text>Tất cả đơn vị cận chiến mặt đất, chống kỵ binh, và đơn vị cận chiến hải quân đạt được thêm +4 [ICON_Strength] Sức Chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
+			<Text>Tất cả thành phố với một nhận thêm +1 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện nghi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
+			<Text>+1 [ICON_Housing] Nhà ở cho mỗi cấp độ của Tường thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
+			<Text>+5 [ICON_Religion] Sức Chiến đấu Tôn giáo trong Cuộc chiến Thần học.[NEWLINE]+.5 [ICON_Faith] Đức tin mỗi [ICON_Citizen] Công dân trong các thành phố có [ICON_Governor] Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP_XP1">
+			<Text>+10% [ICON_GOLD] Vàng cho tất cả các thành phố với một [ICON_Governor] Thống đốc đã được chỉ định.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_FASCISM_XP1">
+			<Text>Tất cả đơn vị được thêm +4 [ICON_Strength] Sức Chiến đấu. Mệt mỏi do Chiến tranh giảm 15%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM_XP1">
+			<Text>+0.4 [ICON_Production] Sản xuất mỗi [ICON_Citizen] Công dân trong các thành phố với [ICON_Governor] Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
+			<Text>+2 [ICON_Production] Sản xuất, +1 [ICON_Housing] Nhà ở cho mỗi Quận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
+			<Text>+10% Sản xuất đối với các Kỳ quan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
+			<Text>+20% Kinh nghiệm Đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
+			<Text>+15% Điểm Vĩ nhân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY_XP1">
+			<Text>+50% Điểm Ảnh hưởng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY_XP1">
+			<Text>Giảm giá 15% khi Mua bằng [ICON_Faith] Đức tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP_XP1">
+			<Text>+15% Sản xuất đối với các Quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM_XP1">
+			<Text>+20% Sản xuất đối với các Đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP1">
+			<Text>+10% Sản xuất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+			<Text>Giảm giá 25% khi Mua bằng [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_UNLOCKS_POLICY_CARD">
+			<Text>Mở khóa {1_PolicyName} Thẻ Chính sách.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 từ Di sản Chuyên chế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 từ Di sản Thần quyền</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FASCISM_LEGACY_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 từ Di sản Phát-xít</Text>
+		</Replace>
+		<!-- Governors UI -->
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_TAB_OWNED_GOVERNORS">
+			<Text>Thống đốc Hiện tại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_TAB_GOVERNOR_CANDIDATES">
+			<Text>Ứng cử viên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
+			<Text>Bổ nhiệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_DETAILS">
+			<Text>Chi tiết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_PROMOTE">
+			<Text>Thăng cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_VIEW_PROMOTIONS">
+			<Text>Xem xét Thăng cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ESTABLISHED_IN">
+			<Text>Thiết lập trong:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITIONING_TO">
+			<Text>Thiết lập quyền lực chính trị trong:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NEEDS_ASSIGNMENT">
+			<Text>Cần phải Bổ nhiệm </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_REPLACES">
+			<Text>Thay thế:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_CONFIRM_REPLACEMENT">
+			<Text>THAY ĐỔI THỐNG ĐỐC? Ô thống đốc này sẽ được thay thế bằng vị thống đốc khác trong thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_PLUS_PRESSURE">
+			<Text>{1_Pressure: number +#;-#}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHED">
+			<Text>{1_Name} ({2_Type}) được thiết lập trong thành phố này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHING">
+			<Text>{1_Name} ({2_Type}) được thiết lập trong thành phố này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_NO_GOVERNOR">
+			<Text>Không có Thống đốc nào được Bổ nhiệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_CURRENT_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Lòng Trung thành Hiện tại mỗi Lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGNMENT_FUTURE_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Lòng Trung thành mỗi lượt với Thống đốc được thiết lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITION_TURNS">
+			<Text>{1_NumTurns} Lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TURNS_UNTIL_ESTABLISHED">
+			<Text>{1_NumTurns} Lượt cho đến khi được thiệt lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NAME_WITH_TURNS">
+			<Text>{1_GovernorName} ({2_Turns} {2_Turns : plural 1?Turn; other?Turns;})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED">
+			<Text>Vô hiệu hóa:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
+			<Text>({1_Turns} {1_Turns : plural 1?Turn; other?Turns;})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
+			<Text>Ứng cử viên Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
+			<Text>Chỉ định {1_GovernorName} tới:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_BASE_ABILITY_HEADER_TEXT">
+			<Text>Kỹ năng Căn bản: </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_PROMOTIONS_HEADER_TEXT">
+			<Text>Thăng cấp:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_CHANGE_ASSIGNMENT">
+			<Text>Thay đổi thành phố bổ nhiệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_GRANT_PROMOTION">
+			<Text>Đã Thăng cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_GOVERNOR_NEUTRALIZED">
+			<Text>Vượt quá Phận sự</Text>
+		</Replace>
+		<!-- Governors -->
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
+			<Text>Victor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
+			<Text>Amani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
+			<Text>Moksha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
+			<Text>Magnus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
+			<Text>Liang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
+			<Text>Pingala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
+			<Text>Reyna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
+			<Text>Người cai quản thành trì</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_AMBASSADOR_TITLE">
+			<Text>Nhà ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_CARDINAL_TITLE">
+			<Text>Hồng y</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE">
+			<Text>Người quản lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_BUILDER_TITLE">
+			<Text>Thanh tra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_EDUCATOR_TITLE">
+			<Text>Nhà giáo dục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_MERCHANT_TITLE">
+			<Text>Nhà tài phiệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_DEFENDER_SHORT_TITLE">
+			<Text>Người cai quản thành trì</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_AMBASSADOR_SHORT_TITLE">
+			<Text>Nhà ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_CARDINAL_SHORT_TITLE">
+			<Text>Hồng y</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_SHORT_TITLE">
+			<Text>Người quản lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_BUILDER_SHORT_TITLE">
+			<Text>Thanh tra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_EDUCATOR_SHORT_TITLE">
+			<Text>Nhà giáo dục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_MERCHANT_SHORT_TITLE">
+			<Text>Nhà tài phiệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_DEFENDER_DESCRIPTION">
+			<Text>Tập trung Quân đội, thiết lập chỉ một lần trong một thành phố, {LOC_GOVERNOR_THE_DEFENDER_NAME} là phương tiện để củng cố, bảo vệ và phòng thủ khỏi các mối đe dọa nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_AMBASSADOR_DESCRIPTION">
+			<Text>Kỹ năng để đạt được sự hỗ trợ cho nền văn minh của mình, và truyền bá ảnh hưởng tới các thành phố lân cận. {LOC_GOVERNOR_THE_AMBASSADOR_NAME} là thống đốc duy nhất được giao nhiệm vụ trong thành phố-tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_CARDINAL_DESCRIPTION">
+			<Text>Lãnh đạo Tinh thần và Tôn giáo có thể làm tăng [ICON_Religion] Sức mạnh Tôn giáo của một thành phố, và các đơn vị Tôn giáo đóng tại đó. {LOC_GOVERNOR_THE_CARDINAL_NAME} là ngọn hải đăng của [ICON_FAITH] Đức tin trong đế chế của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_DESCRIPTION">
+			<Text>Táo bạo và thành thạo, {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME} có thể thu thập các tài nguyên có giá trị khi cần thiết. Ông ấy cũng có kỹ năng trong việc tối ưu hóa toàn bộ [ICON_PRODUCTION] Sản xuất trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_EDUCATOR_DESCRIPTION">
+			<Text>{LOC_GOVERNOR_THE_EDUCATOR_NAME} tố gắng tập trung vào việc mở mang [ICON_SCIENCE] Khoa học và [ICON_Culture] Văn hoá trong thành phố. Ông ta cũng có kỹ năng trong việc thu hút [ICON_GreatPerson] Những người Tài giỏi đến thành phố của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_MERCHANT_DESCRIPTION">
+			<Text>Lanh lợi và am hiểu tài chính, {LOC_GOVERNOR_THE_MERCHANT_NAME} có thể tăng cường sức mạnh kinh tế của thành phố, sử dụng tài chính để cung cấp nhiều hơn bình thường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_THE_BUILDER_DESCRIPTION">
+			<Text>Chuyên gia về hiệu suất, {LOC_GOVERNOR_THE_BUILDER_NAME} có kỹ năng về mọi thứ liên quan đến công trình và xây dựng. Một chuyên gia lập kế hoạch, cô ấy cũng có thể quản lý việc phát triển các đổi mới trong thành phố.</Text>
+		</Replace>
+		<!-- Governor Promotions -->
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
+			<Text>Đồn nhỏ lẻ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+			<Text>Tăng +5 [ICON_Strength] Sức Chiến đấu của đơn vị đồn trú trong thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
+			<Text>Chỉ huy đơn vị Đồn trú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+			<Text>Các đơn vị bảo vệ trong phạm vi thành phố được thêm +5 [ICON_Strength] Sức Chiến đấu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
+			<Text>Lỗi châu mai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+			<Text>Thành phố nhận thêm [ICON_Ranged] Tấn công Tầm xa mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
+			<Text>Phòng vệ Hậu cần</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
+			<Text>Chuyên gia An ninh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
+			<Text>Các gián điệp của kẻ địch hoạt động tại cấp độ 2 dưới bình thường trong thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+			<Text>Thành phố không thể bị bao vây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
+			<Text>Sáng kiến Phòng vệ trên Không</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
+			<Text>+25 [ICON_Strength] Sức Chiến đấu đối với các đơn vị phòng thủ trên không trong phạm vi của thành phố khi chống lại máy bay và ICBM (tên lửa đạn đạo xuyên lục địa).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
+			<Text>Sứ giả</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
+			<Text>Có thể được chỉ định cho thành phố-tự trị, nơi cô ấy hoạt động như là 2 [ICON_Envoy] Phái đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
+			<Text>Ảnh hưởng của các thành phố lân cận sẽ áp dụng {1_LoyaltyPerTurnAmount} Lòng Trung thành mỗi lượt tới một thành phố mới được định cư ở đây. Xem xét sử dụng [ICON_Governor] Thống đốc ở thành phố mới, hoặc chỉ định ở nơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
+			<Text>Phái viên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
+			<Text>Các thành phố khác trong vòng 9 ô và không thuộc sở hữu của bạn sẽ nhận được +2 Lòng Trung thành mỗi lượt tới nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
+			<Text>Uy tín</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
+			<Text>Các thành phố khác của bạn trong vòng 9 ô nhận được +2 Lòng Trung thành mỗi lượt tới nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
+			<Text>Giàu có</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
+			<Text>Trong khi thiết lập trong một thành phố-tự trị, cung cấp một bản sao các tài nguyên Quý hiểm của nó cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
+			<Text>Người sáng lập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
+			<Text>+4 [ICON_Amenities] Tiện nghi cho thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
+			<Text>Người múa rối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
+			<Text>Trong khi thiết lập trong một thành phố-tự trị, tăng gấp đôi các [ICON_Envoy] Phái đoạn của bạn ở đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
+			<Text>Giám mục</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
+			<Text>Quan án Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
+			<Text>Kiến trúc Thần thánh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
+			<Text>Đặt tay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
+			<Text>Thành trì của Thượng đế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
+			<Text>Thánh Bảo Trợ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
+			<Text>Áp lực Tôn giáo tới các thành phố lân cận mạnh hơn 100% từ thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
+			<Text>+10 [ICON_Religion] Sức Chiến đấu Tôn giáo trong cuộc chiến thần học trong các ô của thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+			<Text>+20% [ICON_Production] Sản xuất cho Khu Tôn giáo trong thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+			<Text>[ICON_Governor] Các đơn vị tôn giáo của Thống đốc được chữa lành hoàn toàn trong một lượt trong các ô của thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+			<Text>Thành phố sẽ bỏ qua áp lực và các hiệu ứng chiến đấu từ Tôn giáo không do [ICON_Governor] Thống đốc của người chơi sáng lập.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
+			<Text>Các tông đồ được đào tạo trong thành phố này được nhận thêm một cấp độ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
+			<Text>Nhà sáng chế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
+			<Text>+ 100% lợi ích từ việc thu hoạch và di dời các di sản trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
+			<Text>Hậu cần Thặng dư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
+			<Text>+20% [ICON_Food] Phát triển cho thành phố. Các [ICON_TradeRoute] Tuyến đường Thương mại của bạn kết thúc tại đây cung cấp +2 [ICON_ Thực phẩm] Thực phẩm cho thành phố của họ khi khởi đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
+			<Text>Dự phòng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+			<Text>+20% [ICON_Production] cho Khu công nghiệp trong thành phố. Các Dân cư được đào tạo trong thành phố không thu hút [ICON_Citizen] Dân số.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
+			<Text>Nhà Tư bản Công nghiệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+			<Text>+1 [ICON_Production] Sản xuất mỗi lượt từ mỗi tài nguyên Chiến lược trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
+			<Text>Thương nhân Chợ đen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+			<Text>Tài nguyên Chiến lược không bắt buộc trong thành phố để xây dựng các đơn vị tài nguyên phụ thuộc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
+			<Text>Hợp nhất Cực điểm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+			<Text>Thành phố này nhận [ICON_Production] Sản xuất từ bất kỳ Khu Công nghiệp nằm gần đó, không chỉ là lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
+			<Text>Trưởng phường hội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
+			<Text>Tất cả Thợ xây dựng được đào tạo trong thành phố nhận được +1 phí xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
+			<Text>Cơ sở hạ tầng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản xuất tới Thành phố Trung tâm và Tòa nhà Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
+			<Text>Ngư nghiệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+			<Text>cải thiện ngư nghiệp có thể xây dựng trong thành phố bên bờ biển. Lợi ích 1 [ICON_Food] Thực phẩm, +1 [ICON_Food] Food Thực phẩm nếu nằm cạnh tài nguyên biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
+			<Text>Công viên và Nhà văn hóa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+			<Text>Cải thiện Công viên Thành phố có thể xây dựng trong thành phố. Lợi ích 2 Hấp dẫn và 1 [ICON_Culture] Văn hóa. +1 [ICON_Amenities] Tiện nghi nếu nằm gần nước.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
+			<Text>Ủy viên Khu vực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản xuất tới việc xây dựng các quận trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
+			<Text>Giải trí</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
+			<Text>+30% [ICON_Production] Sản xuất cho Khu Giải trí và Công viên Nước trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
+			<Text>Thủ thư</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
+			<Text>Tăng 20% [ICON_Science] Khoa học và [ICON_Culture] Văn hoá được tạo ra bởi thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
+			<Text>Chuyên gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+			<Text>+20% [ICON_Production] Sản xuất tới Khu Nghệ thuật trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
+			<Text>Nhà nghiên cứu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+			<Text>+20% [ICON_Production] Sản xuất tới Khu Tri thức trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
+			<Text>Trợ cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
+			<Text>+100% [ICON_GreatPerson] Điểm Vĩ nhân mỗi lượt trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
+			<Text>Đề xuất Thi đua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
+			<Text>30% [ICON_Production] Sản xuất cho tất cả dự án vũ khí hạt nhân trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
+			<Text>Sáng kiến Không gian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
+			<Text>30% [ICON_Production] Sản xuất cho tất cả dự án chương trình-không gian trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
+			<Text>Mở mang Đất đai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+			<Text>Mở mang các ô mới trong thành phố nhanh hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
+			<Text>Cảng trưởng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
+			<Text>Thưởng gấp đôi khi liền kề Khu Thương mại và Cảng biển trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
+			<Text>Trao đổi Nước ngoài </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
+			<Text>+3 [ICON_Gold] Vàng mỗi lượt từ mỗi [ICON_TradeRoute] Tuyến đường Thương mại nước ngoài đi qua thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
+			<Text>Biểu thuế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
+			<Text>+3 [ICON_Gold] Vàng mỗi lượt từ tất cả các [ICON_TradeRoute] Tuyến đường Thương mại vào và ra thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
+			<Text>Người thu Thuế</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Vàng mỗi lượt cho mỗi [ICON_Citizen] Công dân trong thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
+			<Text>Nhà đấu thầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
+			<Text>Cho phép thành phố mua các quận bằng [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
+			<Text>Người phụ trách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
+			<Text>Gấp đôi [ICON_Tourism] Du lịch từ các Tác phẩm Vĩ đại về Mỹ thuật, Âm nhạc, và Thơ văn trong thành phố.</Text>
+		</Replace>
+		<!-- Leader Agendas-->
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">
+			<Text>Thích những nền văn minh có nhiều quân đoàn và quân đội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORSE_LORD">
+			<Text>Thích những nền văn minh không cạnh tranh kỵ binh với ông ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CULTURAL_ID">
+			<Text>Thích những nền văn minh có Lòng Trung thành cao, không thích những ai thấp</Text>
+		</Replace>
+		<!-- Unit Abilities-->
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALPINE_TRAINING_NAME">
+			<Text>Đào tạo Leo núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
+			<Text>Tất cả đơn vị chiến đấu mặt đất đạt được thêm +3 [ICON_Strength] Sức Chiến đấu khi chiến đấu trên Đồi và di chuyển qua Đồi nhanh hơn khi di chuyển gần kỳ quan tự nhiên Matterhorn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Sức Chiến đấu khi chiến đấu trên Đồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
+			<Text>+{1_Amount} Sức ném Bom từ đơn vị hỗ trợ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>+{1_Amount} Sức Chiến đấu thưởng thêm khi trên Đồi và Rừng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>+{1_Amount} Sức Chiến đấu thưởng thêm khi trên địa hình Đồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>+{1_Amount} Sức Chiến đấu thưởng thêm trong 4 ô của lãnh thổ thân thiện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+{1_Amount} chống lại các quận có phòng vệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
+			<Text>Thảo nguyên Mông Cổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
+			<Text>Kinh tế Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Tuyến đường Thương mại của đơn vị này không thể bị cướp bởi các đơn vị kẻ địch. Thu được như một phần của Kinh tế Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_NAME">
+			<Text>Quan án Tôn giáo </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Sức Chiến đấu Tôn giáo trong lãnh thổ thân thiện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
+			<Text>Dũng cảm Thoái trào</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Sức Chiến đấu cho tất cả đơn vị cận chiến.</Text>
+		</Replace>
+		<!-- Feature -->
+		<Replace Language='en_US' Tag="LOC_FEATURE_REEF_NAME">
+			<Text>Rặng san hô</Text>
+		</Replace>
+		<!-- Natural Wonders -->
+		<Replace Language='en_US' Tag="LOC_FEATURE_DELICATE_ARCH_NAME">
+			<Text>Vòm cung Đá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
+			<Text>Một kỳ quan tự nhiên kỳ vĩ. Cung cấp +2 [ICON_FAITH] Đức tin và +1 [ICON_GOLD] Vàng cho các ô liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_DELICATE_ARCH_QUOTE">
+			<Text>"Nếu Vòm cung Đá có ý nghĩa quan trọng điều đó là dối trá, tôi sẽ mạo hiểm, với sức mạnh kỳ lạ và bất ngờ làm giật mình các giác quan và ngạc nhiên cho tâm trí."[NEWLINE]–Edward Abbey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
+			<Text>Con mắt của sa mạc Sahara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION">
+			<Text>Kỳ quan thiên nhiên chiếm ba ô. Cung cấp +1 [ICON_PRODUCTION] Sản xuất. Sau khi trò chơi đạt đến Thời đại Nguyên tử, cung cấp thêm +1 [ICON_PRODUCTION] Sản xuất và +3 [ICON_SCIENCE] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_QUOTE">
+			<Text>"Thật kỳ diệu, dường như không phải là vết sẹo của một thiên thạch mà là một vòm cung bị xói mòn sâu sắc, với các màu sắc cảm giác như cầu vồng."[NEWLINE]–Chris Hadfield</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_MATTERHORN_NAME">
+			<Text>Đỉnh Matterhorn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
+			<Text>Một kỳ quan tự nhiên kỳ vĩ. Một ngọn Núi lớn và cung cấp +1 [ICON_CULTURE] Văn hóa cho các ô liền kề. Các đơn vị chiến đấu mặt đất di chuyển cạnh Định Matterhorn sẽ bỏ qua Đồi và tăng +3[ICON_Strength] Sức Chiến đấu khi chiến đấu trên đồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_MATTERHORN_QUOTE">
+			<Text>"Hãy để tôi được nghỉ ngơi, sau đó, để tỏ lòng kính trọng và ngưỡng mộ tới Đỉnh Matterhorn vĩ đại, trước khi qua đời hay để những tia sáng cuối cùng của mặt trời lặn xuống những dãy núi cao hơn và xa hơn."[NEWLINE]–F. Crauford Grove</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_RORAIMA_NAME">
+			<Text>Núi Roraima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
+			<Text>Kỳ quan thiên nhiên chiếm bốn ô. Một ngọn Núi lớn và cung cấp +1 [ICON_FAITH] Đức tin và +1 [ICON_SCIENCE] Khoa học tới các ô liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_RORAIMA_QUOTE">
+			<Text>"Đó là một phong cảnh tuyệt vời, vì tất cả những gì xung quanh là những tảng đá kỳ quái ở những vị trí không thể tin được, một số đặt trên hoặc bên cạnh những cái khác, theo những cách dường như đi ngược lại mọi quy luật lực hấp dẫn."[NEWLINE]–Goldthwaite của Tạp chí Địa lý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
+			<Text>Vịnh Người chết Ubsunur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
+			<Text>Kỳ quan thiên nhiên chiếm bốn ô. Một Đầm lầy và cung cấp +2 [ICON_FAITH] Đức tin, +1 [ICON_FOOD] Thực phẩm và +1 [ICON_PRODUCTION] Sản xuất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
+			<Text>"Thế giới đang trỗi dậy từ vùng nước tăm tối và sâu thẳm, chiến thắng hư không và vô hữu hình vô hạn."[NEWLINE]–John Milton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME">
+			<Text>Công viên địa chất Trương Dịch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION">
+			<Text>Kỳ quan thiên nhiên chiếm ba ô. Một ngọn Núi và cung cấp 2 [ICON_GREATGENERAL] điểm Vĩ nhân và 2 [ICON_GREATMERCHANT] điểm Đại Thương nhân nếu bạn sở hữu ít nhất một trong số kỳ quan này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_ZHANGYE_DANXIA_QUOTE">
+			<Text>"Với ánh mặt trời sáng rực rỡ, lúc đó sương mù buông xuống, ở mỗi hướng, cảnh quan thay đổi như ma thuật."[NEWLINE]–Fan Zhongyan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_LAKE_RETBA_NAME">
+			<Text>Hồ màu Hồng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION">
+			<Text>Kỳ quan thiên nhiên chiếm hai ô. Hồ này cung cấp +2 [ICON_CULTURE] Văn hóa, +2 [ICON_GOLD] Vàng, +1 [ICON_PRODUCTION] Sản xuất, và Nước Sạch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_LAKE_RETBA_QUOTE">
+			<Text>"Nước, nước, ở mọi nơi, cũng như không có nếu như không có đồ để uống."[NEWLINE]–Samuel Taylor Coleridge, Thủy thủ Già</Text>
+		</Replace>
+		<!-- Cultural Identity UI-->
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_LOYALTY_SUBSECTION">
+			<Text>Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_ACCUMULATED_IDENTITY_SUBSECTION">
+			<Text>Tích lũy Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_DISTANCE_FROM_CAPITAL">
+			<Text>Gần vị trí tới [ICON_Capital] Thủ đô của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_OF">
+			<Text>của</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_TOTAL_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Có thể đạt được</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_STATUS">
+			<Text>Trạng thái:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_LOYALTY_LINE">
+			<Text>Lòng Trung thành mỗi lượt:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP">
+			<Text>Sở hữu thành phố này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_POPULATION">
+			<Text>Các [ICON_Citizen] Công dân đang sống ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MARTIAL_LAW">
+			<Text>Đơn vị đồn trú Chiếm đóng tại thời điểm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION">
+			<Text>Chiếm đóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_STARVATION">
+			<Text>Đói khát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_TRADE_ROUTES">
+			<Text>Các [ICON_TradeRoute] Tuyến đường Thương mại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_GOVERNOR">
+			<Text>[ICON_Governor] Thống đốc đặt ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_HAPPINESS">
+			<Text>Cấp độ Hạnh phúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MODIFIERS">
+			<Text>Các hiệu ứng khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ORIGINAL_OWNERSHIP">
+			<Text>Là chủ sở hữu ban đầu của thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP_BEFORE_OCCUPATION">
+			<Text>Là chủ sở hữu của thành phố trước khi chiếm đóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
+			<Text>Mong muốn độc lập</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
+			<Text>Áp lực từ các [ICON_Citizen] Công dân gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
+			<Text>Các [ICON_Citizen] Công dân gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_CITIES">
+			<Text>các [ICON_Citizen] Công dân kẻ địch gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+			<Text>Nhà ngoại giao [ICON_Governor] Thống đốc gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_GOVERNORS">
+			<Text>Nhà ngoại giao [ICON_Governor] Thống đốc kẻ địch gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PRESSURE_OWNERSHIP">
+			<Text>{1_IdentityPressureAmount} từ thành phố Sở hữu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PRESSURE_POPULATION">
+			<Text>{1_IdentityPressureAmount} từ các [ICON_Citizen] Công dân của thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PRESSURE_AGES">
+			<Text>{1_IdentityPressureAmount} từ Thời Vàng son hoặc Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PRESSURE_GOVERNOR">
+			<Text>{1_IdentityPressureAmount} từ Nhà ngoại giao [ICON_Governor] Thống đốc </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PRESSURE_MODIFIERS">
+			<Text>{1_IdentityPressureAmount} từ các hiệu ứng khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
+			<Text>Các [ICON_Citizen] Công dân của bạn trong 9 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
+			<Text>Quân Luật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_OCCUPATION">
+			<Text>[COLOR_RED]Chiếm đống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_TRADE_ROUTES">
+			<Text>Các [ICON_TradeRoute] Tuyến đường Thương mại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOVERNOR">
+			<Text>[ICON_Governor] Thống đốc Thường trú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_BASE_DECAY">
+			<Text>Căn bản sự Sụy đổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_HAPPINESS">
+			<Text>Công dân Hạnh phúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_UNHAPPINESS">
+			<Text>[COLOR_RED]Công dân không hạnh phúc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOLDEN_AND_DARK_AGES">
+			<Text>Thời Vàng son hoặc Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_MISC">
+			<Text>Các Điều chỉnh khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_INDEPENDENCE_DESIRE">
+			<Text>[COLOR_RED]Bất ổn Chung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
+			<Text>[COLOR_RED]Các [ICON_Citizen] Công dân nền văn minh khác trong vòng 9 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
+			<Text>[COLOR_RED]Thành phố đang đói khát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_SOURCE_ADDITIONAL">
+			<Text>Nguồn Bổ sung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_LOYALTY_NO_GROWTH_PENALTY">
+			<Text>KHÔNG BỊ PHẠT</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CULTURAL_IDENTITY_LENS">
+			<Text>Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CULTURAL_IDENTITY_LENS_TOOLTIP">
+			<Text>Cho xem Lòng Trung thành của các thành phố, và các nguồn của Lòng Trung thành đang ảnh hưởng tới nó.</Text>
+		</Replace>
+		<!-- Disloyal City UI -->
+		<Replace Language='en_US' Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<!--New version of base game text used in conquer city UI popup, to describe Liberation effect on Loyalty-->
+			<Text>Giải phóng thành phố sẽ trả lại cho một trong những chủ nhân cũ của nó, có thể đưa nền văn minh đó trở lại cuộc chơi.[NEWLINE][NEWLINE]{1_WarmongerInfo}[NEWLINE][NEWLINE]Thành phố này sẽ miễn nhiễm với áp lực Lòng Trung thành từ các thành phố và các thống đốc của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_HEADER">
+			<Text>THÀNH PHỐ NỔI LOẠN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_NAME_LABEL">
+			<Text>Tên Thành phố:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_POPULATION_LABEL">
+			<Text>Dân số:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_DISTRICTS_LABEL">
+			<Text>Số Quận Hiện tại:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_BUTTON_LABEL">
+			<Text>Giữ Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_EXPLANATION">
+			<Text>Giữ thành phố này. Bạn có thể muốn đặt một [ICON_Governor] Thống đốc ở đây để tăng cường Lòng Trung thành những công dân mới này gia nhập đế chế của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_BUTTON_LABEL">
+			<Text>Cự tuyệt Thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_EXPLANATION">
+			<Text>Cự tuyệt để thành phố này gia nhập vào đế chế của bạn. Nó sẽ vẫn là một Thành phố Tự do. Nó sẽ không yêu cầu gia nhập vào nền văn minh của bạn một lần nữa, nhưng vẫn có thể giành lại nó từ một nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_LOYALTY_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ {1_LoyaltyLevelName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_3_NAME">
+			<Text>Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_2_NAME">
+			<Text>Do dự Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_1_NAME">
+			<Text>Không Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_0_NAME">
+			<Text>Bất ổn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_3_DESCRIPTION">
+			<Text>Các công dân Trung thành với nền văn minh của bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_2_DESCRIPTION">
+			<Text>Lòng Trung thành của các công dân đối với nền văn minh của bạn đang do dự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_1_DESCRIPTION">
+			<Text>Các công dân không Trung thành với nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_LEVEL_0_DESCRIPTION">
+			<Text>Các công dân đang trong tình trạng bất ổn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GLORY_SCORE_BREAKDOWN">
+			<Text>{1_Icon}({2_Score}/{3_threshold})</Text>
+		</Replace>
+		<!-- Resources -->
+		<Replace Language='en_US' Tag="LOC_RESOURCE_AMBER_NAME">
+			<Text>Hổ phách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RESOURCE_OLIVES_NAME">
+			<Text>Ô-liu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RESOURCE_TURTLES_NAME">
+			<Text>Rùa</Text>
+		</Replace>
+		<!-- HUD -->
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_POPULATION_GRAPH_TOOLTIP">
+			<Text>{1_Amount} {2_CivName} {1_Amount : plural 1?Citizen; other?Citizens;}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_LOYALTY">
+			<Text>{1_LoyaltyAmount} Lòng Trung thành ({2_LoyaltyPerTurn : number +#.#;-#.#} mỗi lượt)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_FULL_LOYALTY">
+			<Text>Lòng Trung thành Đầy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GAINING_LOYALTY">
+			<Text>Lòng Trung thành Đầy trong {1_Turns} {1_Turns : plural 1?turn; other?turns;}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_LOSING_LOYALTY">
+			<Text>Nổi loạn trong {1_Turns} {1_Turns : plural 1?turn; other?turns;}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_GET_UNIT_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% đối với các đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_GET_BUILDING_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% đối với các tòa nhà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_STABLE_LOYALTY">
+			<Text>Lòng Trung thành Công dân không thay đổi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_CULTURAL_EFFECT">
+			<Text>Không có tác động tích cực hoặc tiêu cực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR">
+			<Text>Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CIVICS_TREE_AWARD_GOVERNOR">
+			<Text>Thưởng 1 [Icon_Governor] Ô Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_LAUNCHBAR_GOVERNOR_BUTTON">
+			<Text>Các Thống đốc[NEWLINE][NEWLINE]Xem hoặc quản lý các [Icon_Governor] Thống đốc trong nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
+			<Text>Dòng Lịch sử[NEWLINE][NEWLINE]Xem dòng thời gian các Khoảnh khắc Lịch sử đã đạt được bởi nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
+			<Text>Lòng Trung thành và Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED">
+			<Text>Thiết lập tại thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} bổ nhiệm tới thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} thiết lập tại thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_NO_GOVERNOR">
+			<Text>Không bổ nhiệm [ICON_Governor] Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_NO_GOVERNOR_EFFECT">
+			<Text>...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_TURNS">
+			<Text>{1_num} {1_Num : plural 1?turn; other?turns;}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_GOLD_FROM_POPULATION">
+			<Text>{Value : number +#.#;-#.#} từ bổ sung thuế</Text>
+		</Replace>
+		<!-- Loyalty and Identity -->
+		<Replace Language='en_US' Tag="LOC_LOYALTY_STATUS_LOYAL">
+			<Text>[COLOR_GREEN]Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_STATUS_DISLOYAL">
+			<Text>[COLOR_RED]Không Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_PER_TURN_STATUS_GAINING">
+			<Text>[COLOR_GREEN][ICON_PressureUp] Trỗi dậy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_PER_TURN_STATUS_STABLE">
+			<Text>Ổn định</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_PER_TURN_STATUS_LOSING">
+			<Text>[COLOR_RED][ICON_PressureDown] Sụp đổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_EFFECT_NONE">
+			<Text>Thành phố này trung thành với bạn, và không có ảnh hưởng bất lợi nào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TO_PLAYER">
+			<Text>[COLOR_RED]Nếu Lòng Trung thành giảm về 0, thành phố sẽ nổi loạn và gia nhập {1_PlayerName}, người tích lũy nhiều Lòng Trung thành nhất ở đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TIED_PLAYERS">
+			<Text>[COLOR_RED]Nếu Lòng Trung thành giảm về 0, thành phố sẽ nổi loạn và gia nhập vào nền văn minh khác có Lòng Trung thành tích lũy cao nhất ở đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOYALTY_GROWTH_AND_YIELD_EFFECTS_TEXT">
+			<Text>Sự Phát triển Thành phố tại {1_GrowthReduction}%[NEWLINE]Lợi nhuận Thành phố bị giảm{2_YieldPercentage}%</Text>
+		</Replace>
+		<!-- Emergency Text Blocks -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_PARTICIPANTS">
+			<Text>NGƯỜI THAM GIA:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_PENDING">
+			<Text>Đang chờ xử lý {1_TypeEmergency}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_ONGOING">
+			<Text>Đang thực hiện {1_TypeEmergency}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETED">
+			<Text>Đã hoàn thành {1_TypeEmergency}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET">
+			<Text>Mục tiêu: {1_Target}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_YOU_ARE_TARGET">
+			<Text>Bạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_JOIN">
+			<Text>Đồng ý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_REJECT">
+			<Text>Từ chối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TURNS_REMAINING">
+			<Text>Vẫn còn [ICON_Turn] {1_Turns} Lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NO_TURNS_REMAINING">
+			<Text>Kết thúc trong [ICON_Turn] Lượt này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TURNS_OVER">
+			<Text>Kết thúc Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_BUFFS_EXPLANATION">
+			<Text>Khẩn cấp đang chờ xử lý:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARDS_EXPLANATION">
+			<Text>Nếu các Thành viên thành công:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+			<Text>Nếu các Thành viên thất bại:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBERS_HAVE_WON_REWARDS">
+			<Text>Được hưởng từ chiến thắng của  Thành viên:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_HAS_WON_REWARDS">
+			<Text>Được hưởng từ chiến thắng của Mục tiêu:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_THESE_GOALS">
+			<Text>Hoàn thành các mục tiêu này:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_PENDING_EXPLANATION">
+			<Text>Bạn có cơ hội gia nhập Khẩn cấp chống lại Mục tiêu này.[NEWLINE]{1_GoalsExplanation}[NEWLINE]Thành công, và bạn sẽ được thưởng. Thất bại, và Mục tiêu sẽ phát triển mạnh hơn. Bạn phải Chấp nhận hoặc Từ chối tình trạng Khẩn cấp này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_PENDING_EXPLANATION_DEFENDER">
+			<Text>Tình trạng Khẩn cấp được công bố tới bạn![NEWLINE]{1_GoalsExplanation}[NEWLINE]Thành công ngăn chặn các Thành viên chiếm giữ các mục tiêu này, và bạn sẽ được thưởng. Thất bại, các Thành viên sẽ phát triển mạnh mẽ hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
+			<Text>ĐANG CHỜ XỬ LÝ: ĐỒNG Ý HOẶC TỪ CHỐI</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
+      <Text>Các Thành viên Chiến thắng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
+      <Text>Mục tiêu Chiến thắng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
+      <Text>Các nền văn minh thành viên phân chia [ICON_Gold] {1_Amount} Vàng.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
+      <Text>Mục tiêu nhận được [ICON_Gold] {1_Amount} Vàng mỗi Thành viên</Text>
+    </Replace>
+		<!-- |||||||||  Goal Specific                                                   ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
+			<Text>Những người gia nhập Khẩn cấp sẽ cần phải chiếm giữ các thành phố đặc trưng từ {TargetName} trong [ICON_Turn] {Turns} Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_CAPTURE_CITIES">
+			<Text>Các Thành viên của Khẩn cấp phải chiếm giữ các thành phố đặc trưng từ {TargetName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES">
+			<Text>Chiếm giữ {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE">
+			<Text>Phòng thủ {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE">
+			<Text>Phòng thủ {1_CityName} cho đến khi kết thúc Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES">
+			<Text>Chiếm giữ {1_CityName} trước khi kết thúc Khẩn cấp</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY">
+			<Text>Những người gia nhập Khẩn cấp sẽ cần phải ngăn chặn {CityName} theo đuổi Tôn giáo của {TargetName} cho {HalfTurns} trong [ICON_Turn] {Turns} Lượt kế tiếp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_UNCONVERT_CITY">
+			<Text>Các Thành viên của Khẩn cấp phải ngăn chặn {CityName} theo đuổi Tôn giáo của {TargetName} trong [ICON_Turn] {Turns} Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY">
+			<Text>Chỉ trích {NewReligion}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE">
+			<Text>Phòng thủ {NewReligion}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE">
+			<Text>Thực hiện {NewReligion} là Tôn giáo Chủ đạo trong {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY">
+			<Text>Ngăn chặn {NewReligion} khỏi Tôn giáo Chủ đạo trong {1_CityName}</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY">
+			<Text>Những người gia nhập Khẩn cấp cần phải giải phóng {CityName} khỏi sự kiểm soát {TargetName} trong [ICON_Turn] {Turns} Lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIBERATE_CITY">
+			<Text>Các Thành viên của Khẩn cấp phải giải phóng {CityName} khỏi {TargetName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY">
+			<Text>Giải phóng {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE">
+			<Text>Phòng thủ {1_CityName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE">
+			<Text>Phòng thủ {1_CityName} cho đến khi kết thúc Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY">
+			<Text>Giải phóng {1_CityName} trước khi kết thúc Khẩn cấp</Text>
+		</Replace>
+		<!-- |||||||||  Emergency Specific                                              ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NAME_MILITARY">
+			<Text>Quân sự Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_FLAVOR_MILITARY">
+			<Text>"Nếu chúng ta không đoàn kết, thì số phận của thành phố này sẽ đến với chúng ta mọi lúc".</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_DESCRIPTION_MILITARY">
+			<Text>{TargetName}, dù nằm ở vị trí hàng đầu trong các nền văn minh của thế giới, đã chiếm được {OldCityName}. {TargetName} tháo chạy thành công là một vấn đề đáng quan tâm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY">
+			<Text>Ngoài ra, tất cả Thành viên sẽ có Hòa bình, Mở cửa Biên giới, và Chia sẻ Tầm nhìn với nhau. Tất cả Thành viên sẽ tiến hành Chiến tranh với Mục tiêu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT">
+			<Text>Các đơn vị của Thành viên được +1 [ICON_Movement] Di chuyển trong lãnh thổ của Mục tiêu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Các đơn vị của Mục tiêu bị -2 [ICON_Strength] Sức Chiến đấu khi chiến đấu với các đơn vị của Thành viên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING">
+			<Text>Các đơn vị của Thành viên được +5 chữa lành trong lãnh thổ của Mục tiêu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE">
+			<Text>Mục tiêu thêm +2 [ICON_Strength] Sức Chiến đấu khi tấn công đơn vị của Thành viên khi Tấn công Thành phố.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Các đơn vị của Thành viên được +1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Các đơn vị của Mục tiêu +1 [ICON_Movement] Di chuyển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Thành viên được +1 Vàng mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Mục tiêu được +1 Vàng mỗi lượt.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NAME_CITY_STATE">
+			<Text>Thành phố-Tự trị Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_FLAVOR_CITY_STATE">
+			<Text>"Chúng tôi tôn trọng sự độc lập của Thành phố-Tự trị, và sẽ không nhắm mắt làm ngơ đến cuộc xâm chiếm này."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_DESCRIPTION_CITY_STATE">
+			<Text>{TargetName} has captured {OldCityName}.  The conquest of {OldCityName} is a matter of great concern.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE">
+			<Text>All Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY">
+			<Text>Members gain +1 [ICON_Gold] Gold per turn for each of their [ICON_Envoy] Envoys.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES">
+			<Text>Target [ICON_TradeRoute] Trade Routes to City-States grant +2 [ICON_Gold] Gold per turn.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NAME_RELIGIOUS">
+			<Text>Tôn giáo Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_FLAVOR_RELIGIOUS">
+			<Text>"The cries of the faithful rise to heaven, and on earth, we are moved to righteous fury."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_DESCRIPTION_RELIGIOUS">
+			<Text>{TargetName} has converted {OldCityName}, the Holy City of {OldReligion}, to {NewReligion}.  It appears that {TargetName} is unwilling to co-exist peacefully with the other great Religions of the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
+			<Text>Each Member gains a Relic.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
+			<Text>The Target's Religion releases a burst of Pressure in all nearby cities.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NAME_SPYING">
+			<Text>Spying Emergency</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_DESCRIPTION_SPYING">
+			<Text>Everybody spies, but this guy got caught!  Let's do something about that!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_SPYING">
+			<Text>Capture a Target Spy using Lay Trap in a City where the Target is doing an Operation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SPYING_ACTION">
+			<Text>Member Spies gain a new action in Member Cities: Lay Trap.  If a Target Spy attempts an Operation in this City, they will be caught in the trap.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_SPY_KILLER">
+			<Text>The captured Spy is killed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_FORTITUDE">
+			<Text>It will be more difficult for the Target to complete Spy Operations in Member cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SPYING_FREE_SPY">
+			<Text>The Target gains 1 additional Spy.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NAME_NUCLEAR">
+			<Text>Hạt nhân Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_FLAVOR_NUCLEAR">
+			<Text>"Hideous forces, employed to hideous ends. Never again!"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_DESCRIPTION_NUCLEAR">
+			<Text>{TargetName} has used the most powerful weapon in the world, and the nuclear genie is out of the bottle. Is our extinction at hand?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR">
+			<Text>In addition, all Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT">
+			<Text>Member units gain +1 [ICON_Movement] movement in the Target's territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Target units have -2 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Target units have -3 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE">
+			<Text>Member cities exert one less Loyalty pressure.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_NAME_BACKSTAB">
+			<Text>Betrayal Emergency</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_FLAVOR_BACKSTAB">
+			<Text>"Open, honest war is surely less hateful than this deceitful diplomacy."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_DESCRIPTION_BACKSTAB">
+			<Text>{TargetName} has struck a treacherous blow, declaring war on {OldPlayerName}, a long-time friend!  It appears that none are safe from {TargetName}'s aggression.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB">
+			<Text>In addition, all Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT">
+			<Text>Member units gain +1 [ICON_Movement] movement in the Target's territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH">
+			<Text>Target units have -3 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_CANCEL_TRADE_ROUTES">
+			<Text>All Trade Routes between the Members and the Target are canceled.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING">
+			<Text>All Trade Routes between Members grant +2 [ICON_Production] Production.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Target units have -3 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS">
+			<Text>The Target will receive reduced War Weariness when at war with Members.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TAB_COMPLETED">
+			<Text>Completed</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<!--Spy-->
+		<Replace Language='en_US' Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
+			<Text>Fabricate Scandal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
+			<Text>Foment Unrest</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR_DESCRIPTION">
+			<Text>Neutralize Governor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ESPIONAGE_FABRIRCATE_SCANDAL_REWARD">
+			<Text>removing enemy Envoys</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ESPIONAGE_FOMENT_UNREST_REWARD">
+			<Text>reducing Loyalty and increasing our Loyalty</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_REWARD">
+			<Text>disabling the enemy [ICON_Governor] Governor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FABRICATE_SCANDAL">
+			<Text>Forcing the top competitors to lose Envoys</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FOMENT_UNREST">
+			<Text>Reduce enemy Loyalty</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR">
+			<Text>Temporarily remove the enemy [ICON_Governor] Governor from duty</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
+			<Text>Smear Campaign</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
+			<Text>Covert Action</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
+			<Text>License to Kill</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION">
+			<Text>Fabricate Scandal as if 2 levels more experienced.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION">
+			<Text>Foment Unrest as if 2 levels more experienced.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION">
+			<Text>Neutralize Governor as if 2 levels more experienced.</Text>
+		</Replace>
+		<!--Diplomacy modifiers-->
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PLEDGE">
+			<Text>Broke a pledge to move troops from their border</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PLEDGE">
+			<Text>Kept a pledge to move troops from their border</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PLEDGE">
+			<Text>Decided to not make a pledge to move troops</Text>
+		</Replace>
+		<!--OPERATIONS AND COMMANDS TEXT-->
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_PARADROP_DESCRIPTION">
+			<Text>Paradrop</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_IN_ZOC">
+			<Text>In Enemy Zone of Control</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_FRIENDLY_TERRITORY">
+			<Text>Must be in friendly territory or adjacent to a Airstrip or Aerodrome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Requires full movement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_PROJECT_PRODUCTION_DESCRIPTION">
+			<Text>Add [ICON_Production] Production to a project.  Only once per city per turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
+			<Text>Priority Target</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
+			<Text>Loyalty per turn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_DETAILS_TURNS_TO_ESTABLISH">
+			<Text>Turns to Establish</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>The amount of Loyalty per turn towards your civilization that this Governor provides for the city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_TRANSITION_STRENGTH">
+			<Text>Transition Strength</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_TRANSITION_STRENGTH_TOOLTIP">
+			<Text>The speed at which this Governor becomes established in a city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_ASSIGN_GOVERNOR_TO">
+			<Text>Assign Governor to...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_SELECT_A_CITY">
+			<Text>Select a city...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
+			<Text>No Previous Governor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_TURNS_TO_ESTABLISH">
+			<Text>Number of turns before the governor will be established.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_SKILL_TREE">
+			<Text>Cây Kỹ năng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTE">
+			<Text>Promote</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
+			<Text>Assign</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
+			<Text>Reassign</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
+			<Text>ABILITIES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES">
+			<Text>GOVERNOR ABILITIES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES_SUBTEXT">
+			<Text>Spend Governor Titles on Promotions</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_GOVERNOR_TITLES">
+			<Text>Governor Titles: {1_PointsAvailable}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_GOVERNOR_TITLES_AVAILABLE">
+			<Text>GOVERNOR TITLES AVAILABLE: {1_PointsAvailable}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
+			<Text>SPENT: {1_PointsSpent}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HISTORY_TIMELINE_TITLE">
+			<Text>History of the {1_PlayerCiv}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HISTORY_NEW_MOMENT">
+			<Text>{1_PlayerCiv} Makes History</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HISTORY_MOMENT_EFFECTS">
+			<Text>{1_MomentDate}    \|    Lượt {2_MomentTurn}    \|    {3_MomentScore} Điểm Thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
+			<Text>{1_MomentDate}    \|    Lượt {2_MomentTurn}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
+			<Text>Loyalty: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POSITIVE_PRESSURE">
+			<Text>+{1_Value}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_GOVERNORS_PRESSURE_TOOLTIP">
+			<Text>[ICON_Governor] Governor placed here</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
+			<Text>Owner's [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
+			<Text>Other civilizations' [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
+			<Text>Desire for independence</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
+      <Text>Cấp độ Hạnh phúc</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
+			<Text>Other effects here</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
+      <Text>Base strength as a City-State</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
+      <Text>Base strength as a Free City</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
+			<Text>Pressure from nearby [ICON_Citizen] Citizens</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
+			<Text>Ranges from +20 to -20, based on the comparison of pressure coming from nearby Citizens belonging to the city's owner and nearby Citizens belonging to a different civilization.[NEWLINE][ICON_Bullet]1 Pressure per [ICON_Citizen] Citizen normally[NEWLINE][ICON_BULLET]Increased in [ICON_Capital] Capital[NEWLINE][ICON_BULLET]Can be affected by Golden Ages, Dark Ages, and the Bread and Circuses city project[NEWLINE][ICON_BULLET]Also applies to other cities within 9 tiles, but is 10% less effective per tile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
+			<Text>Ranges from +20 to -20, based on the comparison of pressure coming from nearby Citizens belonging to the city's owner and nearby Citizens belonging to a different civilization.[NEWLINE][ICON_Bullet]1 Pressure per [ICON_Citizen] Citizen normally[NEWLINE][ICON_BULLET]Increased in [ICON_Capital] Capital</Text>
+		</Replace>
+		<!-- Dedications-->
+		<Replace Language='en_US' Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">
+			<Text>You have triggered a [ICON_TechBoosted] Eureka.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_BOOST_DEDICATION_NOTIFICATION">
+			<Text>You have triggered an [ICON_CivicBoosted] Inspiration.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGIOUS_CONVERSION_DEDICATION_NOTIFICATION">
+			<Text>You have converted a city to your founded Religion for the first time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_COMPLETION_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a new District.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRADE_ROUTE_DEDICATION_NOTIFICATION">
+			<Text>You have completed a [ICON_TradeRoute] Trade Route.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_DISCOVERY_DEDICATION_NOTIFICATION">
+			<Text>You have discovered a new Continent or Natural Wonder.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CORPS_KILL_DEDICATION_NOTIFICATION">
+			<Text>You have destroyed a corps.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ARMY_KILL_DEDICATION_NOTIFICATION">
+			<Text>You have destroyed an army.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAVAL_UNIT_KILL_DEDICATION_NOTIFICATION">
+			<Text>You have destroyed a non-Barbarian naval unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCIENCE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building that provides [ICON_Science] Science as a base yield.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building with a Great Work slot.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDUSTRIAL_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building from the Industrial Era or later.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AERODROME_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building in the Aerodrome district.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SPY_MISSION_DEDICATION_NOTIFICATION">
+			<Text>You have completed a successful offensive Spy operation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ARTIFACT_EXTRACTION_DEDICATION_NOTIFICATION">
+			<Text>You have extracted an [ICON_GreatWork_Artifact] Artifact.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
+			<Text>You have earned a [ICON_GreatPerson] Great Person.</Text>
+		</Replace>
+		<!-- Scoring -->
+		<Replace Language='en_US' Tag="LOC_CATEGORY_ERA_SCORE_NAME">
+			<Text>Điểm Thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
+			<Text>Civilizations that have assigned their Diplomat [ICON_Governor] Governor to this city-state:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_STATE_PANEL_CIV_AMBASSADOR_TOOLTIP">
+			<Text>{1_CivName} has assigned a Diplomat to this city-state.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_LIMITED">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_FULL">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName}) - {3_EstablishInfo}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+			<Text>Major bonus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+			<Text>Minor bonus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>+1 [ICON_Food] Food from the Plantation improvement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_NEW_FEATURES">
+			<Text>New Features</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
+			<Text>Review the new features in the Rise and Fall expansion ruleset.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_XP1_INTRO_NEXT">
+			<Text>Next</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_XP1_INTRO_PREVIOUS">
+			<Text>Previous</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_XP1_INTRO_CONTINUE">
+			<Text>Tiếp tục</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

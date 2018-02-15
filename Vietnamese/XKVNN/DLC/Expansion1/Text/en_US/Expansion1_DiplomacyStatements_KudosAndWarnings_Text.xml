@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Leader Text-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Những người láng giềng tốt nhất là những người xa xôi. Ngay bây giờ, bạn là người láng giềng tốt nhất của Ấn Độ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Không có khoảng cách giữa các vùng đất của chúng ta. Người dân của tôi bị buộc phải chịu đựng mùi hôi thối của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Người dân của bạn tự hào về nơi họ đến. Rõ ràng họ làm theo hướng dẫn của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Làm thế nào để dẫn dắt người dân chán trường như vậy? Họ có làm theo tấm gương bạn đưa ra không?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Tôi rất tôn trọng những ai công bố tình hữu nghị với thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Lựa chọn tình hữu nghị một cách khôn ngoan—nhưng bạn phải lựa chọn thôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Khôn ngoan để giữ hòa bình với láng giềng của bạn. Hận thù phải trả cái giá rất đắt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Giữ chiến tranh của bạn xa ra. Nếu không, các vùng đất của bạn sẽ bị chiếm giữ vô ích.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Sự thông thái của bạn về bí mật của sự sáng tạo là điều ghen tị với người dân của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Trong khi những người khác vươn tới thiên đường, thì bạn cào bới bụi bẩn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kỵ binh tạo ra tình trạng lúng túng trên đất của bạn, nhưng thật may mắn chỉ một lát thôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bạn sẽ không đội mũ lông cừu và xem nó là một chiếc mũ bảo vệ. Vậy tại sao bạn tuyên bố rằng bạn được gọi là "kỵ binh?"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SHAKA_ANY">
+			<Text>Quân đội trong vùng đất của bạn đã để lộ điểm mạnh. Bạn đã thanh lọc chưa? Không ngoan là hãy luôn thanh lọc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SHAKA_ANY">
+			<Text>Tại sao lại cho phép lực lượng của bạn giữ tính đồng nhất của họ? Họ nên kết hợp với nhau để phụng sự bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TAMAR_ANY">
+			<Text>Tôi đánh giá cao những bức tường mà bạn xây dựng cho người dân của bạn. Bạn có một tinh thần của người Georgia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TAMAR_ANY">
+			<Text>Người dân của bạn quá tin người. Họ cho phép bất cứ ai vào thành phố của họ—ngay cả những người man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Hà Lan thịnh vượng với mọi chuyến hàng mà bạn gửi cho chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Những người từ chối thương mại thường nghĩ rằng họ có thể lấy những gì họ muốn từ chúng tôi. Họ nhầm lẫn thật nghiêm trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_CURMUDGEON_POSITIVE">
+			<Text>Một người cai trị vĩ đại không thể bị phân tâm bởi các âm mưu của người khác giới, bạn không đồng ý à?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_CURMUDGEON_POSITIVE">
+			<Text>Tôi không có kiên nhẫn để tán gẫu vặt vãnh và dí dỏm. Tôi thích sự thẳng thắng hơn—giống như bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_CURMUDGEON_POSITIVE">
+			<Text>Tôi cho rằng một ngày nào đó tôi sẽ phải xem xét vấn đề kế vị, nhưng tôi hy vọng ngày đó còn xa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_CURMUDGEON_NEGATIVE">
+			<Text>Bạn không có những thứ tốt hơn của tôi ngoài việc luyên thuyên? Thật phân tâm và phản tác dụng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Tôi khâm phục bạn. Có rất nhiều người trong chúng ta làm việc đó, tất nhiên, nhưng tôi là fan hâm mộ lớn nhất và quan trọng nhất của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Tôi bị cuốn vào sự quyến rũ mê hoặc của bạn, và tôi hy vọng bạn cảm thấy giống như tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CYRUS_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Tôi nói với người dân của tôi rằng tôi muốn theo đuổi mối quan hệ ngoại giao tốt đẹp với nền văn minh của bạn, nhưng tôi sẽ thú nhận rằng trái tim tôi chỉ mong ước gặp lại bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Có lẽ sau đó chúng ta nên bàn thảo một số vấn đề cá nhân? Chỉ riêng bạn và tôi, không có những yếu tố của quốc gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Đến đây, ngồi với tôi và cùng chúng tôi lướt trên sông Nile trên chiếc thuyền hoàng gia của tôi, và tôi sẽ chỉ cho bạn những điều tốt nhất của... Ai Cập.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ALEXANDER_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Tôi nghĩ rằng tôi yêu bạn nhiều như tôi yêu bản thân mình. Bạn thật ấn tượng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Bạn đưa tôi đến những suy nghĩ không đứng đắn, và tôi có thể gục ngã vì đặc ân của bạn. Chắc chắn bạn có lòng trắc ẩn với tôi, và vòng tay bạn ra sau tôi để trao nụ hôn?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GITARJA_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Bạn làm cho trái tim tôi đập như sóng vỗ bờ—mạnh mẽ và liên hồi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CHANDRAGUPTA_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Một người phải cân bằng chiến tranh với niềm vui. Và tôi rất vui khi có bạn bầu bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Thật lạ là chúng ta có thể bị cuốn hút bởi một người, không chỉ vì ngoại hình của họ mà cả tâm trí của họ. Bạn làm như thế nào? Bí mật của bạn là gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GILGAMESH_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Đừng run rẩy quá nhiều trước mặt tôi! Bạn có thể chạm vào tôi, và bạn thấy rằng tôi chỉ là một người đàn ông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_FLIRTATIOUS_POSITIVE">
+			<Text>Tôi phải làm gì để gây ấn tượng với bạn? Thổ lộ ư, và nó sẽ có hiệu lực ngay lập tức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_FLIRTATIOUS_NEGATIVE">
+			<Text>Bạn nói rằng bạn chỉ đang dàn xếp về lợi ích của mọi người, nhưng tôi nghĩ bạn chỉ ghen tị với mối quan hệ của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Tốt nhất là mối quan hệ của chúng ta được xây dựng dựa trên sức mạnh của việc hiểu biết những bí mật của người khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Bạn phải tận hưởng các báo cáo của các phái đoàn và gián điệp của bạn nhiều như tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Lần kế tiếp tôi gửi một phái đoàn đến cho bạn, người lãnh đạo sẽ có một đống hồ sơ chất đầy những bí mật then chốt. Hãy đảm bảo không có ai xung quanh khi bạn mở nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Có lẽ bạn đã nghe thấy những tiếng thì thầm mà tôi cho là bạn là một trong những nguồn tin của tôi. Nhưng ai lắng nghe những gì mọi người nói? Tất nhiên, bên cạnh bạn và tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>Tôi thường tự hỏi tại sao bạn quá ít nói. Tôi tin rằng bạn không có gì thú vị để nói ra.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Các nhà thơ và các triết gia của chúng tôi giữ nền văn minh của bạn như ánh sáng của thế giới, và tôi phải đồng ý với họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Sự uy nghi của cá nhân bạn được phản ánh bằng vinh quang nền văn minh của bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Người dân của mỗi nền văn minh kinh ngạc khi nhìn bạn. Bạn là nguồn cảm hứng cho thế giới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Tôi nhìn nền văn minh và các công trình của mình, và tôi hiểu tại sao người dân của bạn được ca ngợi trong mọi bài hát và câu chuyện trên khắp thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Nền văn minh của bạn là mô hình để tôi xây dựng nước Nga mới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Điều gì có thể tốt hơn là chung quanh mình với những nhà thơ và nhà viết kịch, các vị thánh và các nhà khoa học? Tôi đã luôn nghĩ rằng một quốc gia vĩ đại là sự biểu hiện của những phước lành của Thượng Đế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Vâng! Sự xuất sắc của bạn—Arete của bạn—thực sự đáng được thi đua!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>Aspire là một ví dụ xứng đáng với phần còn lại của thế giới! Người dân sẽ yêu bạn nếu bạn đưa họ đến vinh quang.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Nền văn minh của chúng tôi khâm phục cách bạn xử lý rắc rối của bạn với sự cứng rắn và kiên quyết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Bạn chịu đựng những đau khổ của Thời Đen tối với đức tính cao quý! Tôi muốn người dân của tôi mạnh mẽ giống như bạn!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Tôi gửi cho bạn một món quà: Một chiếc nhẫn được khắc "Ý chí vượt qua tất cả". Hãy để nó là nguồn an ủi bạn trong những lúc rắc rối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Một nhà lãnh đạo trẻ tuổi sẽ không thể làm được những gì bạn đang làm: Giữ vững quyền kiểm soát nền văn minh của bạn trong cơn khủng hoảng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GENGHIS_KHAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Tôi khâm phục cách bạn cai trị. Tôi đánh giá cao phải đi đến một chiến lược phức tạp để chinh phục nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Trái tim của bạn phải đau cùng nỗi đau người dân của bạn. Ba Lan hiểu được hoàn cảnh của bạn, và chúng tôi cầu nguyện cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_LAUTARO_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Bạn cũng vậy, biết ý nghĩa của việc chống lại sự tàn ác của kẻ hùng mạnh là gì. Mapuche tôn trọng những gì bạn làm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JAYAVARMAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Bây giờ bạn đang bị ràng buộc với chu kỳ luân hồi. Tôi cầu nguyện không ngừng rằng bạn sẽ sớm được giải thoát, và bình an.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE">
+			<Text>"Thời kỳ huy hoàng" người dân của bạn trông rất giống với sự hăng hái của tôi. Tôi mong đợi ngày bạn sa sút.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

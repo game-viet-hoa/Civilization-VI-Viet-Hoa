@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Government Buildings -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_TALL_NAME">
+			<Text>Khán Phòng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_WIDE_NAME">
+			<Text>Phòng Truyền thống</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+			<Text>Ngai vàng Thủ lãnh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_FAITH_NAME">
+			<Text>Ngà nguyện Hoàng gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+			<Text>Bộ Ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_SPIES_NAME">
+			<Text>Cơ quan Tình báo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+			<Text>Bộ Chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+			<Text>Bảo tàng Lịch sử Quốc gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+			<Text>Tầng lớp Hoàng gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Tiện nghi và +4 [ICON_Housing] Nhà ở cho các Thành phố có [ICON_Governor] Thống đốc[NEWLINE]-2 Lòng Trung thành cho các Thành phố không có [ICON_Governor] Thống đốc.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+			<Text>Dân cư tăng 50% [ICON_Production] Sản xuất.[NEWLINE]Các thành phố mới nhận được miễn phí Thợ xây.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+			<Text>Chiếm thành phố của kẻ địch thưởng 20% [ICON_Production] Sản xuất cho tất cả các thành phố trong 5 lượt.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+			<Text>Tác động của Thành phố Tự trị giảm một nửa [ICON_Gold] Vàng.[NEWLINE].Đơn vị thừa hưởng +4 [ICON_Strength] Sức Chiến đấu.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 từ Bộ Ngoại giao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+			<Text>+1 Gián điệp và Khả năng Gián điệp.[NEWLINE]Tất cả hoạt động gián điệp đều có cơ hội thành công cao hơn.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+			<Text>Cho phép mua các đơn vị mặt đất bằng [ICON_Faith] Đức tin.[NEWLINE]Tận dụng Cướp bóc các Quận cũng cung cấp điểm thưởng [ICON_Faith] Đức Tin.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+			<Text>Khi các đơn vị loại bỏ một đơn vị khác, họ sẽ hồi phục 20 máu.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+			<Text>Cung cấp 4 ô mở rộng cho bất kỳ Tác phẩm Vĩ đại nào.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+			<Text>Các Thợ xây có khả năng sử dụng tất cả các chi phí của họ để cung cấp [ICON_Production] Sản xuất cho một Dự án của Quận. Một thành phố mỗi lượt.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<!-- Water Entertainment Complex Buildings -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
+			<Text>Vòng quay Nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
+			<Text>+2 [ICON_Tourism] Du lịch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AQUARIUM_NAME">
+			<Text>Thủy cung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
+			<Text>Thưởng thêm Tiện nghi cho mỗi thành phố trung tâm trong vòng 9 ô. Điểm thưởng này được áp dụng chỉ một lần cho một thành phố, các bản sao của thành phố này trong vòng 9 ô không cung cấp thêm điểm thưởng. +1 [ICON_SCIENCE] Khoa học tới từng nguồn tài nguyên ven biển, Khu Tàu đắm và Dải san hô trong thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
+			<Text>Trung tâm Thể thao dưới Nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
+			<Text>Thưởng thêm Tiện nghi cho mỗi thành phố trung tâm trong vòng 9 ô. Điểm thưởng này được áp dụng chỉ một lần cho một thành phố, các bản sao của thành phố này trong vòng 9 ô không cung cấp thêm điểm thưởng. +2 [ICON_Tourism] Du lịch cho mỗi Kỳ quan được xây dựng trong thành phố này hoặc xây gần Bờ biển.</Text>
+		</Replace>
+		<!-- Neighborhood Buildings -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_FOOD_MARKET_NAME">
+			<Text>Chợ Thực phẩm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
+			<Text>Chỉ có thể xây dựng một lần trong thành phố, ngay cả khi thành phố có nhiều Vùng Lân cận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
+			<Text>Trung tâm Mua sắm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
+			<Text>+4 [ICON_Tourism] Du lịch. Chỉ có thể xây dựng một lần trong thành phố, ngay cả khi thành phố có nhiều Vùng Lân cận.</Text>
+		</Replace>
+		<!-- Wonders -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
+			<Text>Trạm Nghiên cứu Amundsen-Scott</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
+			<Text>+20% [ICON_SCIENCE] Khoa học và 10% [ICON_PRODUCTION] Sản xuất cho tất cả các thành phố. Nếu có 5 Núi Tuyết hoặc các Đồi Tuyết trong 3 ô của thành phố này và sở hữu bởi người chơi này thì lợi nhuận tăng gấp đôi. Phải được xây dựng bên cạnh Khu Tri thức với một Phòng Nghiên cứu trên Núi Tuyết hoặc Đồi Tuyết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
+			<Text>Phòng Ký kết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+			<Text>Tăng thêm 3 mức thăng chấp cho [ICON_Governor] Thống đốc. Tất cả các thành phố nằm ngoài lãnh thổ của bạn cùng với một [ICON_Governor] Thống đốc tăng thêm +15% [ICON_Production] Sản xuất, +15% [ICON_Faith] Đức tin và +15% [ICON_Gold] Vàng. Phải được xây dựng gần Trung tâm Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Đại hý trường Colosseum cung cấp 2 thứ sau: [ICON_Culture] Văn hóa, Lòng Trung thành mỗi lượt, và [ICON_Amenities] Tiện nghi cho mỗi thành phố trung tâm trong vòng 6 ô. Phải được xây dựng trên vùng đất bằng phẳng liền liền kề với Khu Giải trí với một Đấu trường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Nhận được thúc đẩy cho tất cả các công nghệ thời Cổ Đại và Cổ Điển. Nhận được ngẫu nhiên một thúc đẩy công nghệ sau khi một người chơi khác tuyển dụng một [ICON_GreatScientist] Đại Khoa học gia. Phải được xây dựng trên vùng đất phẳng liền kề với Khu Tri thức với một Thư viện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
+			<Text>Đảo Kilwa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
+			<Text>+3 [ICON_ENVOY] Phái đoàn khi được xây dựng. Khi bạn là Bá chủ của Thành phố-Tự trị, thành phố này sẽ tăng thêm 15% lợi nhuận. Nếu bạn là Bá chủ 2 hoặc nhiều Thành phố-Tự trị, sẽ tăng thêm +15% cho tất cả các thành phố của bạn. Phải được xây dựng trên vùng đất phẳng liền kề với Bờ biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_KOTOKU_IN_NAME">
+			<Text>Người Lao động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
+			<Text>+20% [ICON_Faith] Đức Tin cho thành phố này. Thêm 4 Chiến binh Nhà sư.[NEWLINE][NEWLINE]Phải được xây dựng liền kề một Khu Tôn giáo với một Đền thờ. Các Chiến binh Nhà sư chỉ có thể nhận được nếu người chơi đã thành lập một tôn giáo hoặc nếu có một tôn giáo chiếm đa số trong thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
+			<Text>Nhà thờ St. Basil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] Du lịch Tôn giáo cho thành phố này. +1 [ICON_Food] Thực phẩm, +1 [ICON_Production] Sản xuất, và +1 [ICON_Culture] Văn hóa cho tất cả vùng Lãnh nguyên của thành phố này. Phải được xây dựng liền kề với Thành phố Trung tâm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
+			<Text>Tượng Nữ thần Tự Do</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
+			<Text>Thêm 2 Dân cư. Tất cả các thành phố của bạn trong vòng 6 ô luôn đạt 100% trung thành. Phải được xây dựng trên Bờ biển, liền kề với đất liền và một Quận Hải cảng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
+			<Text>Đền Taj Mahal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
+			<Text>+1 Điểm Thời đại từ Khoảng khắc Lịch sử thu được sau khi hoàn thành kỳ quan này nếu Khoảnh khắc đó có giá trị là 2 hoặc nhiều hơn Điểm Thời đại. Phải được xây dựng bên cạnh Sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
+			<Text>Đền thờ của Artemis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
+			<Text>Cải thiện mỗi Trại, Bãi Chăn thả và Đồn điền trong 4 ô của kỳ quan này này cung cấp +1[ICON_AMENITIES] Tiện nghi. Phải được xây dựng liền kề với một Trại.</Text>
+		</Replace>
+		<!-- Trade balance changes -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Tuyến đường Thương mại, nếu thành phố này chưa có Ngọn Hải đăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị hải quân được đào tạo trong thành phố này. +1 [ICON_FOOD] Thực phẩm cho tất cả các ổ Ven biển của thành phố này. +1 [ICON_TradeRoute] Tuyến đường Thương mại, nếu thành phố này chưa có Chợ.</Text>
+		</Replace>
+		<!-- Other balance changes -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
+			<Text>Cung cấp +1 Lòng Trung thành mỗi lượt cho thành phố này. Nếu thành phố đã có tối đa Lòng Trung thành, hơn nữa cung cấp thêm +1 [ICON_Culture] Văn hóa.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+      <Text>Yêu cầu Làm mới Liên minh</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+      <Text>{1_name} đã yêu cầu mở rộng Liên minh giữa các nền văn minh của bạn.</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+      <Text>Yêu cầu Làm mới Liên minh được Chấp nhận</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+      <Text>{1_name} đã chấp nhận làm mới Liên minh của bạn.</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+      <Text>Làm mới Liên minh bị Từ chối</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+      <Text>{1_name} đã từ chối làm mới Liên minh của bạn.</Text>
+    </Replace>
+
+    <Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+      <Text>Liên minh của chúng ta mang lại lợi ích to lớn cho cả hai người dân của chúng ta. Tôi đề nghị chúng ta nên làm mới nó.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+      <Text>Tôi mừng là bạn đồng ý.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+      <Text>Darn, tôi nghĩ chúng ta sẽ là đồng minh mãi mãi.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+      <Text>Có vẻ là một ý tưởng tuyệt vời. Chúng tôi đồng ý.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+      <Text>Chúng tôi không muốn tiếp tục tiến trình này với bạn tại thời điểm này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_POSITIVE">
+      <Text>Chúng tôi rất vui lòng mở rộng Liên minh của chúng tôi.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_NEGATIVE">
+      <Text>Chúng tôi không muốn mở rộng Liên minh này.</Text>
+    </Replace>
+  
+
+	  <Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_1">
+			<Text>Vâng, vì lợi ích của sự thịnh vượng trong tương lai của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_2">
+			<Text>Vâng, điều này đã đem lại lợi ích cho cả hai nền văn minh của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_3">
+			<Text>Vâng, chúng ta hãy làm mới lại liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_POUNDMAKER">
+			<Text>Vâng! Tốt hơn là người dân của chúng ta nên di chuyển qua lại lẫn nhau hơn là chỉ từ một phía.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_GILGAMESH">
+			<Text>Tất nhiên! Có phải chúng ta đã không chiến đấu lâu dài bên cạnh nhau? Kẻ thù của chúng ta sẽ sợ hãi khi nhắc đến danh tiếng của chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_ALEXANDER">
+			<Text>Tất nhiên! Có phải chúng ta đã không chiến đấu lâu dài bên cạnh nhau? Kẻ thù của chúng ta sẽ sợ hãi khi nhắc đến danh tiếng của chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_TEDDY">
+			<Text>Điều đúng đắn là chúng ta nên duy trì Liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CATHERINE">
+			<Text>Vâng, tôi ghét phải từ bỏ lợi ích khi liên kết với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CLEOPATRA">
+			<Text>Vâng. Tôi nắm lấy một cơ hội bấy kỳ để duy trì mối quan hệ thân thiết của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_1">
+			<Text>Mọi thứ bây giờ khác biệt so với trước đây. Chúng ta không thể làm mới Liên minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_2">
+			<Text>Không. Liên minh này không còn dính líu tới chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_3">
+			<Text>Không. Không cần phải làm mới Liên minh này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_POUNDMAKER">
+			<Text>Trước kia chúng ta thân thiết với nhau, bây giờ Cree phải đi theo con đường riêng của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_GILGAMESH">
+			<Text>Không, nó không thể như vậy được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_ALEXANDER">
+			<Text>Không, nó không thể như vậy được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_TEDDY">
+			<Text>Mỹ sẽ đi theo con đường riêng của mình, là con đường quyền lực hạng nhất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CATHERINE">
+			<Text>Tôi phải từ chối khi liên kết với bạn. Ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CLEOPATRA">
+			<Text>Không. Tình yêu của tôi đối với Liên minh này đã phai nhạt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_1">
+			<Text>Liên minh của chúng tôi đã mang lại hòa bình và sự thịnh vượng cho nền văn minh của chúng tôi. Hãy để chúng tôi làm mới nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_2">
+			<Text>Chúng ta nên làm mới Liên minh như vậy sẽ có lợi cho cả hai nền văn minh của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_3">
+			<Text>Chúng ta có nên làm mới Liên minh? Cả hai chúng ta đều đạt được lợi ích từ thỏa thuận này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_POUNDMAKER">
+			<Text>Suốt cuộc đời tôi, tôi đã tìm kiếm hòa bình giữa các dân tộc. Hãy để liên minh của chúng tôi cho những người khác thấy một hướng đi tốt hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_GILGAMESH">
+			<Text>Hãy làm mới liên minh, bạn của tôi! Chúng ta sẽ tìm thấy niềm vui cùng với nhau khi chúng ta đánh bại kẻ thù chung!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_ALEXANDER">
+			<Text>Hãy làm mới liên minh, bạn của tôi! Chúng ta sẽ tìm thấy niềm vui cùng với nhau khi chúng ta đánh bại kẻ thù chung!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_TEDDY">
+			<Text>Chúng ta hãy làm mới Liên minh! Sau đó, chúng ta hãy cùng nhau tổ chức một trận đấu vật để ăn mừng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CATHERINE">
+			<Text>Chúng ta sẽ duy trì Liên minh này chứ? Bạn nên xin lỗi nếu bạn đã bỏ lỡ các buổi tiệc của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CLEOPATRA">
+			<Text>Chúng ta đã tiến tới rất gần Liên minh này. Bạn chắc chắn sẽ không rút khỏi bây giờ chứ?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_1">
+			<Text>Xuất sắc. Cả hai nền văn minh của chúng ta sẽ phát triển mạnh mẽ hơn thông qua điều này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_2">
+			<Text>Rất tốt. Hòa bình và thịnh vượng sẽ được duy trì.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_3">
+			<Text>Tôi vui mừng vì bạn đã nhìn thấy những lợi ích mà Liên minh này mang lại cho chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_POUNDMAKER">
+			<Text>Điều này là rất tốt!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_GILGAMESH">
+			<Text>Hãy vui mừng vì sự kết hợp sức mạnh của chúng ta! Tôi nghe thấy hàm răng của kẻ địch va vào nhau vì sợ hãi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_ALEXANDER">
+			<Text>Hãy vui mừng vì sự kết hợp sức mạnh của chúng ta! Tôi nghe thấy hàm răng của kẻ địch va vào nhau vì sợ hãi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_TEDDY">
+			<Text>Kẻ côn đồ!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CATHERINE">
+			<Text>Ồ tốt. Tôi ghét bạn khi bỏ lỡ bất cứ điều gì quan trọng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CLEOPATRA">
+			<Text>Tôi rất vui lòng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_1">
+			<Text>Một quyết định đáng thất vọng, tôi chắc chắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_2">
+			<Text>Tôi hy vọng bạn không hối tiếc về quyết định này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_3">
+			<Text>Thật đáng tiếc là bạn lại cảm thấy như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_POUNDMAKER">
+			<Text>Có lẽ một ngày nào đó bạn sẽ nhận ra rằng cả chúng ta trở nên mạnh mẽ hơn khi chúng ta đoàn kết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_GILGAMESH">
+			<Text>Không vấn đề gì. Tôi đủ sức mạnh khi không có bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_ALEXANDER">
+			<Text>Không vấn đề gì. Tôi đủ sức mạnh khi không có bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_TEDDY">
+			<Text>Sức mạnh của nước Mỹ chỉ có tăng thêm. Bạn hãy khôn ngoan mà chấp nhận đề nghị của tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CATHERINE">
+			<Text>Thật thất vọng và thiển cận thay cho bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CLEOPATRA">
+			<Text>Chắc chắn một số nền văn minh khác đã che mắt bạn. Hãy tìm sự an ủi của bạn với họ, sau đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_ACCEPT">
+			<Text>Làm mới Liên minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_REJECT">
+			<Text>Kết thúc Liên minh</Text>
+		</Replace>
+  </LocalizedText>
+</GameData>

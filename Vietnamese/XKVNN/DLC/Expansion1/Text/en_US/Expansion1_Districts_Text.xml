@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_NAME">
+			<Text>Trung tâm Chính Phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_NAME">
+			<Text>Công viên Nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
+			<Text>Một quận được đặt trong đế chế của bạn để tưởng niệm sự lựa chọn chính phủ của bạn. Cung cấp +8 Lòng Trung thành ở mỗi lượt cho thành phố này, và tăng +1 thưởng liền kề tới bất kỳ quận nào nằm liền kề. Thưởng +1 [Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Một quận được đặt trên bờ biển dành để giữ cho người dân của bạn hạnh phúc bằng cách tăng [ICON_Amenities] Tiện nghi. Không thể xây dựng trong một thành phố có Khu Giải trí. Không thể xây dựng trên Dãy đá ngầm.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DISTRICT_COMMERCIAL_HUB_EXPANSION1_DESCRIPTION">
+      <Text>Một quận trong thành phố của bạn chuyên về tài chính và thương mại.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
+      <Text>Một quận hải quân đặt tại thành phố của bạn. Cũng loại bỏ phạt [ICON_Movement] Di chuyển để lên tàu và xuống tàu từ ô này. Phải được xây dựng trên Bờ Biển hoặc Bờ Hồ. Không thể xây dựng trên Dãy đá ngầm.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
+			<Text>Một quận trong thành phố của bạn nhằm giữ cho người dân của bạn hạnh phúc bằng cách tăng [ICON_Amenities] Tiện nghi. Không thể xây dựng trong thành phố có Công viên Nước.</Text>
+	</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Văn hóa khi liền kề với Sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_RIVER_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Sản xuất khi liền kề với Sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_RIVER_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Khoa học khi liền kề với Sông.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_NEGATIVE_DISTRICT_SCIENCE">
+			<Text>{1_num: number +#,###;-#,###} [ICON_Science] Khoa học khi liền kề với quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Văn hoá khi liền kề với Trung tâm Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Đức tin khi liền kề với Trung tâm Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_GOLD">
+			<Text>+{1_num} [ICON_Gold] Vàng khi liền kề với Trung tâm Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Sản phẩm khi liền kề với Trung tâm Chính phủ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_GOVERNMENT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Khoa học khi liền kề với Trung tâm Chính phủ.</Text>
+		</Replace>
+    <!-- Projects -->
+    <Replace Language='en_US' Tag="LOC_PROJECT_WATER_CARNIVAL_NAME">
+      <Text>Lễ hội Car-ni-van</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_WATER_CARNIVAL_SHORT_NAME">
+      <Text>Lễ hội Car-ni-van (Bờ biển)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
+      <Text>Dự án duy nhất của Brazil cung cấp +1 [ICON_Amenities] Sự tiện dụng khi kích hoạt và [ICON_GreatPerson] Vĩ nhân cho các [ICON_GreatEngineer] Kỹ sư Trưởng, các [ICON_GreatMerchant] Đại Thương nhân, các [ICON_GreatWriter] Đại Văn hào, các [[ICON_GreatArtist] Đại Nghệ nhân, và các [ICON_GreatMusician] Đại Nhạc sĩ khi hoàn thành xong.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
+      <Text>Bread and Circuses</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_SHORT_NAME">
+      <Text>Bánh mì và Rạp xiếc</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_WATER_BREAD_AND_CIRCUSES_SHORT_NAME">
+      <Text>Bánh mì và Rạp xiếc (Bờ biển)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
+      <Text>Dự án của thành phố giúp tăng Lòng trung thành cho bản thân nó và các thành phố khác ở gần đó. .[NEWLINE][NEWLINE]Khi kích hoạt, mỗi [ICON_Citizen] Công dân của bạn ở đây tăng thêm +0.5 Lòng Trung thành đối với thành phố này. Áp lực này cũng ảnh hưởng đến các thành phố khác trong phạm vi 9 ô, nhưng hiệu quả trên mỗi ô sẽ giảm 10%. Sau khi hoàn thành, ngay lập tức được +20 Lòng Trung thành cho thành phố này.[NEWLINE][NEWLINE]Bắt buộc: cần Khu Giải trí hoặc Công viên Nước.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
+      <Text>Dự án của thành phố giúp tăng Lòng trung thành cho bản thân nó và các thành phố khác ở gần đó. .[NEWLINE][NEWLINE]Khi kích hoạt, mỗi [ICON_Citizen] Công dân của bạn ở đây tăng thêm +1 Lòng Trung thành đối với thành phố này. Áp lực này cũng ảnh hưởng đến các thành phố khác trong phạm vi 9 ô, nhưng hiệu quả trên mỗi ô sẽ giảm 10%. Sau khi hoàn thành, ngay lập tức được +20 Lòng Trung thành cho thành phố này.[NEWLINE][NEWLINE]Bắt buộc: cần Khu Giải trí hoặc Công viên Nước.</Text>
+    </Replace>
+	<!-- Updates to base game Districts -->
+	<Replace Language='en_US' Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Một quận trong thành phố của bạn nhằm giữ cho người dân của bạn hạnh phúc bằng cách tăng [ICON_Amenities] Tiện nghi. Không thể xây dựng trong một thành phố có Công viên Nước.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Một quận duy nhất ở Brazil. Thay thế Khu Giải trí và cung cấp +2 [ICON_Amenities] Tiện nghi, và giá xây dựng rẻ hơn. Không thể xây dựng trong một thành phố có Khu Copacabana. Ngoài ra, dự án Lễ hội Car-ni-van cũng mở khóa, tăng thêm +1 [ICON_Amenities] Tiện nghi khi tiến hành và điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành xong.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

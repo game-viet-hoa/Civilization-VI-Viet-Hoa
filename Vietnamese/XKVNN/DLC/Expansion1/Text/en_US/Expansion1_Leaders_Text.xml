@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Agenda Names-->
+		<Replace Language='en_US' Tag="LOC_AGENDA_BILLIONAIRE_NAME">
+			<Text>Tỉ phú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CHEOMSEONGDAE_NAME">
+			<Text>Đài thiên văn Cheomseongdae</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME">
+			<Text>Đóa hoa của Scotland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORSE_LORD_NAME">
+			<Text>Chúa tể Kỵ binh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORN_CHEST_LOINS_NAME">
+			<Text>Tù và, Áo giáp, Thắt lưng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_IRON_CONFEDERACY_NAME">
+			<Text>Liên minh Sắt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_MAURYA_EMPIRE_NAME">
+			<Text>Đế chế Maurya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_NARIKALA_FORTRESS_NAME">
+			<Text>Pháo đài Narikala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
+			<Text>Linh hồn của Tucapel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CURMUDGEON_NAME">
+			<Text>Kẻ thô lỗ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_FLIRTATIOUS_NAME">
+			<Text>Kẻ lăng nhăng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_NAME">
+			<Text>Chuyện tầm phào</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYCOPHANT_NAME">
+			<Text>Kẻ nịnh hót</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYMPATHIZER_NAME">
+			<Text>Người ủng hộ</Text>
+		</Replace>
+		<!--Agenda Description-->
+		<Replace Language='en_US' Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
+			<Text>Cố gắng tối đa hóa các [ICON_TradeRoute] Tuyến đường Thương mại. Thích các nền văn minh thương mại với cô, không ưa những người không thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
+			<Text>Cố gắng xây dựng [ICON_Science] Khoa học, và thích các nền văn minh cũng tập trung vào [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
+			<Text>Sẽ không tấn công những người láng giềng trừ khi họ hứa hẹn với anh ta. Thích những người không chiến tranh với láng giềng, không ưa những người làm ngược lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
+			<Text>Muốn xây dựng lực lượng kỵ binh nổi bật nhất thế giới. Thích những người không đua tranh trong kỵ binh. Không thích những người đối đầu với anh ta bằng kỵ binh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
+			<Text>Cố gắng sử dụng càng nhiều quân đoàn và quân đội càng tốt và tôn trọng các nền văn minh đi theo sự lãnh đạo của mình. Không thích những nền văn minh không thể tạo ra quân đoàn hoặc không sử dụng chúng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
+			<Text>Cố gắng hình thành nhiều liên minh và tôn trọng những người làm tương tự.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
+			<Text>Cố gắng chinh phục các nền văn minh lân cận, và thích những nền văn minh mà không phải là láng giềng của mình.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
+			<Text>Cố gắng xây thành lũy xung quanh các thành phố của mình và tôn trọng các nền văn minh đi theo sự lãnh đạo của cô. Không thích những nền văn minh thất bại trong việc củng cố các thành phố của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
+			<Text>Cố gắng tạo ra và duy trì mức độ trung thành đối với văn hoá. Không thích các nền văn minh không duy trì được lòng trung thành của người dân mình, thích những người làm như thế.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CURMUDGEON_DESCRIPTION">
+			<Text>Không có thời gian cho sự cợt nhả đối với những người khác giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_FLIRTATIOUS_DESCRIPTION">
+			<Text>Thân thiện đối với những người khác giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
+			<Text>Muốn biết tất cả mọi thứ về mọi người.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYCOPHANT_DESCRIPTION">
+			<Text>Ấn tượng trước bất kỳ nền văn minh nào đạt được Thời Vàng son.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYMPATHIZER_DESCRIPTION">
+			<Text>Cảm thấy tệ hại cho những người đi qua Thời Đen tối.</Text>
+		</Replace>
+		<!--City-States-->
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Khoa học cho mỗi Thư viện.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Khoa học cho mỗi Trường đại học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Đức tin cho mỗi Miếu thờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Đức tin cho mỗi Đền thờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Vàng cho mỗi Chợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Vàng cho mỗi Ngân hàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Văn hoá cho mỗi Nhà hát Bán nguyệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Văn hoá cho mỗi Bảo tàng Nghệ thuật và Bảo tàng Khảo cổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản xuất cho mỗi thành phố có Trại lính hoặc Chuồng ngựa khi sản xuất các đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản xuất cho mỗi thành phố có Kho vũ khí khi sản xuất các đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản xuất cho mỗi thành phố có Phân xưởng khi sản xuất các kỳ quan, các tòa nhà và các quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Sản xuất cho mỗi thành phố có Nhà máy khi sản xuất các kỳ quan, các tòa nhà và các quận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ANTIOCH_NAME">
+			<Text>Antioch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
+			<Text>Thành phố-tự trị Antioch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
+			<Text>Thưởng bá chủ Antioch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
+			<Text>Các [ICON_TradeRoute] Tuyến đường thương mại của bạn tới các thành phố nước ngoài kiếm được +1 [ICON_Gold] Vàng  cho mỗi tài nguyên Quý hiếm tại đích đến.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
+			<Text>Antiochian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BABYLON_NAME">
+			<Text>Babylon </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>Thành phố-tự trị Babylon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
+			<Text>Thưởng bá chủ Babylon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_SCIENCE] Khoa học cho mỗi [ICON_GreatWork_WRITING] Kiệt tác Văn học. +2 [ICON_SCIENCE] Khoa học cho mỗi [ICON_GreatWork_RELIC] Thánh tích và [ICON_GreatWork_Artifact] Cổ vật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
+			<Text>Babylonian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Giảm 20% [ICON_GOLD] Vàng khi mua các đơn vị mặt đất cho mỗi quận có Khu trại nằm trong thành phố đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Bạn nhận được +2 Lòng trung thành cho mỗi lượt khi ở trong các thành phố có Khu trại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Các quận của bạn có công trình cung cấp +1 [ICON_GreatPerson] Vĩ nhân cho mỗi loại của họ ([ICON_GreatWriter] Đại Văn hào, [ICON_GreatArtist] Đại Nghệ nhân, và [ICON_GreatMusician] Đại Nhạc sĩ của quận có Khu Nghệ thuật).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Đối với Liên minh Cấp cao, tất cả các quận của bạn có Khu Nghệ thuật nhận thưởng +50% liền kề.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

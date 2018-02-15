@@ -1,0 +1,44 @@
+<GameData>
+	<LocalizedText>
+		<!-- Admirals -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
+			<Text>Tăng thêm +2 Lòng Trung thành mỗi lượt cho thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_NAME">
+			<Text>Ferdinand Magellan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_FERDINAND_MAGELLAN_ACTIVE">
+			<Text>Tăng thêm +4 Lòng Trung thành mỗi lượt cho thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
+			<Text>Tăng thêm +6 Lòng Trung thành mỗi lượt cho thành phố này.</Text>
+		</Replace>
+		<!-- Engineers -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_CULTURE_BOMB_TRIGGER_INDUSTRIAL_ZONE">
+			<Text>Tấn công Văn hoá vùng liền kề khi hoàn thành Khu Công nghiệp tại bất kỳ thành phố nào.</Text>
+		</Replace>
+		<!-- Generals -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
+			<Text>Tăng thêm +2 Lòng Trung thành mỗi lượt cho thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
+			<Text>Ngay lập tức tạo ra một đơn vị Spec Ops với 1 cấp kỹ năng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
+			<Text>Tăng thêm +4 Lòng Trung thành mỗi lượt cho thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
+			<Text>Tăng thêm +6 Lòng Trung thành mỗi lượt cho thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_TIMUR_NAME">
+			<Text>Timur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_TIMUR_ACTIVE">
+			<Text>Tăng thêm 1 cấp độ kỹ năng và + 25% kinh nghiệm chiến đấu cho một đơn vị mặt đất.</Text>
+		</Replace>
+		<!-- Merchants -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_GOVERNOR_POINTS">
+			<Text>Tăng thêm 1 [ICON_Governor] Chức vụ Thống đốc hoặc tuyển dụng một [ICON_Governor] Thống đốc mới.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

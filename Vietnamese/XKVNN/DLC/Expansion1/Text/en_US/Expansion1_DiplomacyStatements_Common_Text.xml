@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_GOLDEN_AGE_WAR">
+      <Text>[SIZE_16]Tuyên bố Chiến tranh Thời Vàng son[NEWLINE][SIZE_12]</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_WAR_OF_RETRIBUTION">
+      <Text>[SIZE_16]Tuyên bố Chiến tranh Báo thù[NEWLINE][SIZE_12]</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_IDEOLOGICAL_WAR">
+      <Text>[SIZE_16]Tuyên bố Chiến tranh Tư tưởng[NEWLINE][SIZE_12]</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CASUS_BELLI_WAR_OF_RETRIBUTION_DESCRIPTION">
+      <Text>Đối tượng mục tiêu quyền lực đã phá vỡ lời hứa với bạn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CASUS_BELLI_IDEOLOGICAL_WAR_DESCRIPTION">
+      <Text>Đối tượng mục tiêu quyền lực đã có chính phủ Cấp 3 khác với bạn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_CASUS_BELLI_GOLDEN_AGE_WAR_DESCRIPTION">
+      <Text>Bạn phải ở trong Thời Vàng son với "Những Cánh tay!" như một sự Cống hiến.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

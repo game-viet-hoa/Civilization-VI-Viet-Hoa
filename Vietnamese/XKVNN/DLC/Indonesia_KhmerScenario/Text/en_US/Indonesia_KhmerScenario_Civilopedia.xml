@@ -180,7 +180,8 @@
 			<Set Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_ASTRONOMY_CHAPTER_HISTORY_PARA_1"/>
 			<Where Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_ASTRONOMY_CHAPTER_HISTORY_PARA_1"/>
 		</Update>
-
+	
+	
 		<!-- This is a bit of a kludge to deal with the fact that our loc tool doesn't like duplicate keys between main DLC and scenario. -->
 		<!-- The following strings are prefixed with a unique scenario key then later renamed. -->
 		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_1_SCENARIO">

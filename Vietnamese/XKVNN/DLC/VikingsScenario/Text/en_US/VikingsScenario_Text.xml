@@ -4,6 +4,8 @@
 	<LocalizedText>
 		<!-- Remove Harold's DoM blurb-->
 		<Delete Tag="LOC_LOADING_INFO_LEADER_HARDRADA"/>
+	
+	
 		<!-- City-State Empire Names-->
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_DESCRIPTION">
 			<Text>Apuolė city-state</Text>

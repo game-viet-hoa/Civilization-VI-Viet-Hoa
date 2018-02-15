@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- First AI line -->
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_CHANDRAGUPTA_ANY">
+				<Text>Ta là Chandragupta, hoàng đế Mauryan của Ấn Độ thống nhất. Không có ta, thì không ai có thể lãnh đạo.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_LAUTARO_ANY">
+				<Text>Ta là Lautaro, là Chim ưng Nhanh nhẹn. Mapuche tôn kính ta bằng sự kính trọng. Ta sẽ nhìn thấy điều đó từ bạn chứ?</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_POUNDMAKER_ANY">
+				<Text>Ta là Poundmaker, và ta đại diện cho Cree. Có thể luôn luôn có hòa bình giữa chúng ta.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_ROBERT_THE_BRUCE_ANY">
+				<Text>Ta là Robert của Bruce. Scotland đi theo ta—có thể là qua những cánh đồng lúa mỳ hay trong trận chiến.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_SEONDEOK_ANY">
+				<Text>Ta, Seondeok của Hàn Quốc, chấp nhận bạn. Cuộc gặp mặt của chúng ta đã được đoán trước.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENGHIS_KHAN_ANY">
+				<Text>Ta là Thành Cát Tư Hãn. Trước mắt ta là tương lai người Mông Cổ. Đằng sau ta là đoàn ky binh quan trọng duy nhất.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_SHAKA_ANY">
+				<Text>Bạn đang đứng trước Shaka của Zulu. Dám phản bội lại quân đội của ta? Ta sẽ không mắc phải sai lầm như thế.</Text>
+			</Replace>		
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_TAMAR_ANY">
+				<Text>Ta là Tamar của Georgia. Nói những gì bạn có và sẽ có được trên đường lối của bạn.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILHELMINA_ANY">
+				<Text>Ta là Wilhelmina, Nữ hoàng của Hà Lan. Thât vui mừng khi gặp gỡ bạn.</Text>
+			</Replace>					
+		<!-- AI invitation to visit nearby City -->
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CHANDRAGUPTA_ANY">
+				<Text>Bạn di chuyển gần lãnh thổ Ấn Độ. Tại sao lại không đến thăm và thư giãn với vũ điệu hoàng gia của chúng tôi?</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LAUTARO_ANY">
+				<Text>Bạn đang tiếp cận vùng đất Mapuche. Bạn tìm cách đi qua chemamull của chúng tôi, và tìm hiểu về tổ tiên của chúng tôi?</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_POUNDMAKER_ANY">
+				<Text>Tôi mời bạn đến với tư cách khách của tôi và xem Cree sống như thế nào.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ROBERT_THE_BRUCE_ANY">
+				<Text>Trong khi bạn đang ở lân cận chúng tôi, bạn không muốn ghé xem thủ đô của chúng tôi ư?</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SEONDEOK_ANY">
+				<Text>Bạn phải ghé thăm thủ đô của chúng tôi. Seowon của chúng tôi là những ví dụ tốt nhất của tư tưởng khoa học và chính trị.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENGHIS_KHAN_ANY">
+				<Text>Bạn có biết vùng đất mà bạn đang tiếp cận? Xem ta tập hợp Khiết Tiết, và biết rằng đây là Mông Cổ.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SHAKA_ANY">
+				<Text>Bạn phải đến thăm thủ đô Zulu. Nơi mạnh nhất trong ikanda của chúng ta—nơi bạn sẽ thấy chính mình ở đó.</Text>
+			</Replace>		
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TAMAR_ANY">
+				<Text>Tôi sẽ hướng dẫn bạn đến thủ đô của chúng tôi. Hãy xem khả năng phòng thủ cao của chúng tôi.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILHELMINA_ANY">
+				<Text>Hà Lan chào đón bạn để tìm hiểu thủ đô của chúng tôi, và hi vọng bạn đền đáp lại.</Text>
+			</Replace>		
+		<!-- AI accepts Human invitation -->
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CHANDRAGUPTA_ANY">
+				<Text>Chỉ có kẻ ngốc mới từ chối.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LAUTARO_ANY">
+				<Text>Bạn tôn trọng Mapuche cùng với điều này.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_POUNDMAKER_ANY">
+				<Text>Tôi thấy sự khôn ngoan trong điều này. Đồng ý.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ROBERT_THE_BRUCE_ANY">
+				<Text>Không thể nói không với điều đó.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SEONDEOK_ANY">
+				<Text>Một đề nghị hấp dẫn. Hàn Quốc sẽ đồng ý.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENGHIS_KHAN_ANY">
+				<Text>Tôi có thể chấp nhận điều này.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SHAKA_ANY">
+				<Text>Hoan nghênh.</Text>
+			</Replace>		
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TAMAR_ANY">
+				<Text>Rất tốt.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILHELMINA_ANY">
+				<Text>Chúng tôi bày tỏ lòng biết ơn của chúng tôi.</Text>
+			</Replace>		
+		<!-- AI invitation to exchange Capital Information -->
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CHANDRAGUPTA_ANY">
+				<Text>Chúng ta nên nói về thủ đô của mình. Xác định chúng ta cách xa nhau bao xa.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LAUTARO_ANY">
+				<Text>Tôi sẽ cho bạn biết về thủ đô của Mapuche, nếu bạn cho tôi biết về thủ đô của bạn.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_POUNDMAKER_ANY">
+				<Text>Hãy đến và xem nơi người dân của tôi sống, và cho chúng tôi biết nơi ở của bạn.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ROBERT_THE_BRUCE_ANY">
+				<Text>Tôi có tầm nhìn để xem xét thủ đô của bạn. Và tôi là một người công bằng, tôi sẽ đưa bạn đến thăm Scotland.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SEONDEOK_ANY">
+				<Text>Tôi sẽ cung cấp phương hướng đến thủ đô của chúng tôi, nếu bạn đáp ứng lại.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENGHIS_KHAN_ANY">
+				<Text>Chúng ta nên trao đổi thông tin về thủ đô của chúng ta. Một ngày nào đó tôi có thể đến thăm bạn.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SHAKA_ANY">
+				<Text>Tôi có thể chỉ bạn đến thủ đô của Zulu, nếu bạn chỉ tôi đến chỗ bạn. Thật rủi ro khi chia sẻ, vâng—nhưng nhỏ thôi.</Text>
+			</Replace>		
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TAMAR_ANY">
+				<Text>Chúng ta nên cung cấp phương hướng đến thủ đô của nhau để chúng ta có thể thỏa thuận trực tiếp với nhau.</Text>
+			</Replace>
+			<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILHELMINA_ANY">
+				<Text>Chúng tôi mong muốn bạn giao thương với thủ đô của chúng tôi, cùng đạt được lợi ích và lâu dài giữa chúng ta.</Text>
+			</Replace>		
+  </LocalizedText>
+</GameData>

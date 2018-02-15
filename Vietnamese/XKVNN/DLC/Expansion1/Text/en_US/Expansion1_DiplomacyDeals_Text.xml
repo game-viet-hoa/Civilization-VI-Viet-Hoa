@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_NAME">
+      <Text>Tuyên bố Chiến tranh Thời Vàng son</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_DESCRIPTION">
+      <Text>Được sử dụng để tuyên bố chiến tranh với người chơi khi bạn đang trong Thời Vàng son với "Những cánh tay!" Cống hiến. Có thể được sử dụng ngay sau khi đang Bãi ước với một nền văn minh, mà không phải đợi số lượt như bình thường. Không có hạn chế về thành phố mà bạn có thể giành được. Mức phạt độ Hiếu chiến giảm tới 75%.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_NAME">
+      <Text>Tuyên bố Chiến tranh Báo thù</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_DESCRIPTION">
+      <Text>Được sử dụng để tuyên bố chiến tranh với người chơi đã phá vỡ lời hứa với bạn trong 30 lượt. Không có hạn chế về thành phố mà bạn có thể giành được. Mức phạt độ Hiếu chiến giảm tới 50%.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_NAME">
+      <Text>Tuyên bố Chiến tranh Tư tưởng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_DESCRIPTION">
+      <Text>Được sử dụng để tuyên bố chiến tranh với người chơi đang ở trong chính phủ Cấp 3. Không có hạn chế về thành phố mà bạn có thể giành được. Mức phạt độ Hiếu chiến giảm tới 50%.</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Tuyên bố thiết lập Liên minh với một người. Đồng minh có thể không đi đến chiến tranh, tự động Mở cửa Biên giới, tự động tạo Hiệp ước Bảo vệ, và mỗi người đều nhận được Khai mào Chiến tranh tới nền văn minh xâm lược nếu một trong những đồng minh mất đi thành phố.</Text>
+	</Replace>
+  </LocalizedText>
+</GameData>
