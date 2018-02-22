@@ -280,5 +280,8 @@
     <Replace Language='en_US' Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
       <Text>Kiến trúc (bất kỳ)</Text>
     </Replace>
+	<Replace Language='en_US' Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
+	  <Text>[ICON_Movement] Thay đổi Di chuyển: {1_Amount}</Text>
+	</Replace>
 	</LocalizedText>
 </GameData>

@@ -15,10 +15,10 @@
 			<Text>Giúp tăng phòng thủ chống tấn công từ bên ngoài. Thêm 2 [ICON_TOURISM] Du Khách sau khi có hành chính Bảo Tồn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
-			<Text>Kiến trúc đặc biệt của Nhật Bản. +4 [ICON_Production] Sản phẩm cho tất cả các thành phố trong vòng 6 ô. Sau khi nghiên cứu công nghệ Điện thì +4 [ICON_Culture] Văn minh cho thành phố đó.</Text>
+			<Text>Kiến trúc đặc biệt của Nhật Bản. +4 [ICON_Production] Sản phẩm cho tất cả các thành phố trung tâm trong vòng 6 ô. Sau khi nghiên cứu công nghệ Điện thì +4 [ICON_Culture] Văn minh cho thành phố đó. Thưởng này chỉ áp dụng một lần cho một thành phố, và các bản sao của công trình đó trong vòng 6 ô của một thành phố trung tâm không cung cấp thưởng thêm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
-			<Text>Thưởng cho tất cả thành phố trong vòng 6 ô.</Text>
+			<Text>Thưởng cho tất cả thành phố trung tâm trong vòng 6 ô. Thưởng này chỉ áp dụng một lần cho một thành phố, và các bản sao của công trình đó trong vòng 6 ô của một thành phố trung tâm không cung cấp thưởng thêm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION"> 
 			<Text>Kiến trúc đặc biệt của Mỹ. +100% thúc đẩy [ICON_Tourism] Du lịch từ thành phố này đối với nền văn minh khác trong thời hiện đại.</Text>
@@ -33,10 +33,13 @@
 			<Text>Kiến trúc đặc biệt của Ả Rập. Thưởng [ICON_Faith] Đức Tin bằng với thưởng của Khu tri thức liền kề.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
-			<Text>+25% EXP cho tất cả đơn vị mặt đất được đào tạo trong thành phố này. Đào tạo Trung đội và Đại đội nhanh hơn.</Text>
+			<Text>+25% EXP cho tất cả đơn vị mặt đất được đào tạo trong thành phố này. Cho phép đào tạo Trung đội và Đại đội trực tiếp. Chi phí đào tạo Trung đội và Đại đội giảm 25%.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
 			<Text>Nhà truyền giáo và Tông Đồ tạo ra ở đây được thêm +1 lần Truyền Đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+			<Text>Thêm +1 [ICON_FAITH] Đức tin cho mỗi thời đại kể từ khi được xây dựng hoặc sửa chữa lần cuối cùng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
 			<Text>Giữ [ICON_GreatWork_Landscape] Tác phẩm nghệ thuật. Có thể không xây được trong khu nghệ thuật nếu đã có Bảo tàng khảo cổ.</Text>
@@ -45,10 +48,10 @@
 			<Text>Giữ [ICON_GreatWork_Artifact] Cổ vật. Có thể không xây được trong khu nghệ thuật nếu đã có Bảo tàng nghệ thuật.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
-			<Text>Thưởng cho mỗi thành phố trung tâm trong vòng 6 ô.</Text>
+			<Text>Thưởng cho mỗi thành phố trung tâm trong vòng 6 ô. Thưởng này chỉ áp dụng một lần cho một thành phố, và các bản sao của công trình đó trong vòng 6 ô của một thành phố trung tâm không cung cấp thưởng thêm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
-			<Text>Đào tạo Hải đoàn và Hạm đội nhanh hơn. +25% EXP cho tất cả hải quân đào tạo trong thành phố này. +2 [ICON_GOLD] Vàng cho tất cả ô Bờ Biển của thành phố này.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả đơn vị hải quân được đào tạo trong thành phố này. Cho phép đào tạo trực tiếp Hải đoàn và Hạm đội. Chi phí đào tạo Hải đoàn và Hạm đội giảm 25%. +2 [ICON_GOLD] Vàng cho tất cả ô Bờ biển trong thành phố này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
 			<Text>Cho phép mua Nhà truyền giáo. Nhà truyền giáo chỉ có thể mua bằng [ICON_Faith] Đức Tin.</Text>
@@ -60,7 +63,7 @@
 			<Text>+25% EXP cho tất cả đơn vị hải quân được đào tạo trong thành phố này. Thưởng [ICON_Production] Sản phẩm bằng với thưởng của Khu cảng biển liền kề.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
-			<Text>Thưởng cho mỗi thành phố trung tâm trong vòng 6 ô.</Text>
+			<Text>Thưởng cho mỗi thành phố trung tâm trong vòng 6 ô. Thưởng này chỉ áp dụng một lần cho một thành phố, và các bản sao của công trình đó trong vòng 6 ô của một thành phố trung tâm không cung cấp thưởng thêm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
 			<Text>Tăng sức mạnh phòng thủ chống tấn công từ bên ngoài lên cao nhất có thể. Thêm 3 [ICON_TOURISM] Du Khách sau khi có hành chính Bảo Tồn.</Text>
@@ -78,7 +81,7 @@
 			<Text>Mỗi [ICON_RESOURCE_RICE] Gạo và [ICON_RESOURCE_WHEAT] Lúa mì +1 [ICON_Food] Thực phẩm. Thành phố phải gần sông.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ZOO_DESCRIPTION">
-			<Text>Thưởng cho mỗi trung tâm thành phố trong vòng 6 ô.</Text>
+			<Text>Thưởng cho mỗi trung tâm thành phố trong vòng 6 ô. Thưởng này chỉ áp dụng một lần cho một thành phố, và các bản sao của công trình đó trong vòng 6 ô của một thành phố trung tâm không cung cấp thưởng thêm.</Text>
 		</Replace>
 		<!-- Wonders -->
 		<Replace Language='en_US' Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">

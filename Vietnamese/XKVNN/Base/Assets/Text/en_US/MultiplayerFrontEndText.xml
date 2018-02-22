@@ -8,5 +8,11 @@
 		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
 			<Text>Đang tải save</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
+			<Text>Game này đang chạy phiên bản khác.[NEWLINE]Game: {1_GameVersion} Local: {2_GameVersion}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
+			<Text>Không thể tham gia game phiên bản khác.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

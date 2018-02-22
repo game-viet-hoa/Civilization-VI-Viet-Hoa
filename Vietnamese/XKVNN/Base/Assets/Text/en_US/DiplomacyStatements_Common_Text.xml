@@ -67,6 +67,24 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
 			<Text>Giá {1_Cost} [ICON_Gold] Vàng</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+			<Text>Quyền lực mục tiêu đã cải giáo một trong những thành phố của bạn.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Quyền lực mục tiêu đã chiếm một trong những thành phố của bạn.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+			<Text>Quyền lực mục tiêu đã chiếm một trong những thành phố của bạn bè hoặc đồng minh.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Quyền lực mục tiêu đã tuyên chiến với một trong những thành phố tự trị đồng minh.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+			<Text>Quyền lực mục tiêu đứng phía sau bạn 2 thời đại công nghệ.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Hai trong các thành phố của quyền lực mục tiêu nằm trong 10 ô của các thành phố đối phương.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
 			<Text>Ngài có chắc muốn đi đến chiến tranh?</Text>
 		</Replace>
@@ -138,7 +156,7 @@
 			<Text>Không thể {1_WarActionType}[NEWLINE]Có một Hiệp ước Phòng Thủ với lãnh đạo này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
-			<Text>Không thể {1_WarActionType}[NEWLINE][COLOR_RED]Không thỏa mãn các điều điện cho Biện Minh Chiến Tranh này.[ENDCOLOR]</Text>
+			<Text>Không thể {1_WarActionType}[NEWLINE][COLOR_RED]Không thỏa mãn các điều điện cho Biện Minh Chiến Tranh này.[ENDCOLOR][NEWLINE][{2_CasusBelliDescription}]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
 			<Text>Không thể {1_WarActionType}[NEWLINE]Phải chờ {2_Turns} lượt sau khi làm hòa (có sẵn trong {3_Remaining} lượt nữa).</Text>

@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<LocalizedText>
-		<!-- Delete existing text entries-->
-		<Delete Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRESLAV_CHAPTER_HISTORY_PARA_1"/>
-		<Delete Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ILKUM_CHAPTER_HISTORY_PARA_1"/>
-		<Delete Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MEDINA_QUARTER_CHAPTER_HISTORY_PARA_1"/>
-		<Delete Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PIOPIOTAHI_CHAPTER_HISTORY_PARA_1"/>
-
-		<Update>
-			<Where Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MEDIEVAL_FAIRES_CHAPTER_HISTORY_PARA_1" />
-			<Set Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDIEVAL_FAIRES_CHAPTER_HISTORY_PARA_1" />
-		</Update>
-		<Update>
-			<Where Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MEDIEVAL_FAIRES_CHAPTER_HISTORY_PARA_2" />
-			<Set Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDIEVAL_FAIRES_CHAPTER_HISTORY_PARA_2" />
-		</Update>
-		<Update>
-			<Where Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MEDIEVAL_FAIRES_CHAPTER_HISTORY_PARA_3" />
-			<Set Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDIEVAL_FAIRES_CHAPTER_HISTORY_PARA_3" />
-		</Update>
-	
-	
 		<!-- Add text-->
 		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CNUT_TITLE">
 			<Text>Canute</Text>
@@ -152,7 +132,7 @@
 			<Text>The city now known as Palermo has been renamed by every conqueror, and it has had many. Founded c. 730 BC by the Phoenicians as Zis, it became a possession of Carthage, then Rome, then Vandals, then Ostrogoths, and then Byzantium. When the Muslims took the island in 904 AD after fierce fighting, the Arabs renamed the town Balarm, and made it the capital of the Emirate of Sicily. Over the course of the next decades, Balarm blossomed, until – it was said – it could compete with Cordoba and Cairo in influence and splendor. Under the  rule of the Fatimid caliphs, the flourishing port became a center of trade (mostly agricultural … the Muslims introduced oranges, lemons, pistachios, and sugarcane) and culture. But after dynastic quarrels among the Muslims, Sicily was overrun by Christian mercenaries, including the Norman Robert Guiscard, in 1072.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DUMBARTON_CHAPTER_HISTORY_PARA_1">
-			<Text>The key to Dumbarton’s history – at least, according to local historians – is the double pointed plug of volcanic rock sticking up over the countryside. As early as the Iron Age, its strategic location was recognized. The first documented evidence of a settlement at Dumbarton is a letter St. Patrick wrote to Ceretic, king of Strathcylde and Alcluith c. 450 AD. For the next few centuries, the history of the town is unclear. However, by 870 Dumbarton Rock was a nice little British fortress and settlement, seemingly prosperous and peaceful. But then the Vikings arrived, a force under Ivar Beinlaus en route from sacking York; Olaf the White joined him from Ireland. Together they besieged the town for 15 weeks, before finally storming it, burning it, and carrying off everything not nailed down – including the survivors – in a fleet of 200 longships back to Ireland.</Text>
+			<Text>The key to Dumbarton’s history – at least, according to local historians – is the double pointed plug of volcanic rock sticking up over the countryside. As early as the Iron Age, its strategic location was recognized. The first documented evidence of a settlement at Dumbarton is a letter St. Patrick wrote to Ceretic, king of Strathclyde and Alcluith c. 450 AD. For the next few centuries, the history of the town is unclear. However, by 870 Dumbarton Rock was a nice little British fortress and settlement, seemingly prosperous and peaceful. But then the Vikings arrived, a force under Ivar Beinlaus en route from sacking York; Olaf the White joined him from Ireland. Together they besieged the town for 15 weeks, before finally storming it, burning it, and carrying off everything not nailed down – including the survivors – in a fleet of 200 longships back to Ireland.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GIJON_CHAPTER_HISTORY_PARA_1">
 			<Text>A non-descript place lying on the north coast of Iberia lay Gijon. Indeed, at various times the town has been abandoned, notably in the 9th Century AD when a Norman fleet docked there and declared the place 'civitas deserta.' Previously, various barbarian settlements had left no trace either; by the 7th Century, the Visigoth king Susebut had supplanted the rather tenuous Roman hold. Gijon was, for about a century, capital of the Muslim territories along the Cantabric Sea, until 722 when Pelagius won the battle of Covadonga to become the first king of Asturias. Until 1270 AD, the town is not mentioned again in any records; in that year, it seems that Alfonso X granted it its “Carta Pueblo.” Between the battle and the carta, the only mentions of Gijon are in a couple Danish sagas.</Text>
@@ -239,7 +219,7 @@
 			<Text>William I – also, not without reason, known as William the Bastard and William the Conqueror – at the tender age of eight, the descendent of Vikings, became the Duke of Normandy. Aided by King Henri I of France, William managed to hang onto his dukedom and life until he came of age. Being an ambitious sort, by 1064 AD William had managed to add the neighboring provinces of Britanny and Maine to his Norman holdings. In 1066 William took himself off across the Channel to pursue his tenuous claim to the English throne. The rest of his life was then spent trying to consolidate his hold on England, fend off threats to his continental lands, and dealing with his troublesome eldest son.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_THORFIN_CHAPTER_HISTORY_PARA_1">
-			<Text>Thorfinn was the youngest of five sons of Sigurd Hlodvirsson, Earl of Orkney … but the only one to the earl’s second wife, who happened to be daughter of Malcolm II of Scotland. When Sigurd was killed in Ireland in 1011 AD, Orkney got divided between the four surviving brothers, with two-year-old Thorfinn getting the least share. With the support of King Malcolm and of King Olaf of Norway, by 1030 21-year-old Thorfinn held control of the Orkneys entire. Thorfinn spent the rest of his life conquering the Hebrides, raiding Ireland, helping his cousin Macbeth gain the Scottish throne, and turning his subjects Christian.</Text>
+			<Text>Thorfinn was the youngest of five sons of Sigurd Hlodvirsson, Earl of Orkney … but the only one to the earl’s second wife, who happened to be daughter of Malcolm II of Scotland. When Sigurd was killed in Ireland in 1011, Orkney got divided between the four surviving brothers, with two-year-old Thorfinn getting the least share. With the support of King Malcolm and of King Olaf of Norway, young Thorfinn gained control of the Orkneys by 1030. Thorfinn spent the rest of his life conquering the Hebrides, raiding Ireland, helping his cousin Macbeth gain the Scottish throne, and turning his subjects Christian.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ROGER_CHAPTER_HISTORY_PARA_1">
 			<Text>Roger (also known as Jarl Rogeirr) was the self-styled Norman Count of Sicily from the opening of his efforts to reclaim the island from the Muslims until his death 29 years later. Roger first went to Italy in 1057 AD to aid his greedy brother Robert Guiscard in taking Calabria from the Byzantines. In May 1061 the brothers decided to conquer the whole of Sicily. After they took Palermo in January 1072, Robert as suzerain invested Roger as “Count of Sicily.” In 1098 the Pope granted Roger and his heirs the Apostolic Legateship of the island as well.</Text>

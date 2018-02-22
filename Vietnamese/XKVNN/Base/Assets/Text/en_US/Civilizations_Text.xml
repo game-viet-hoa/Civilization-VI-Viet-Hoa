@@ -282,9 +282,6 @@
 			<Text>Zanzibari</Text>
 		</Replace>
 		<!-- Civ Traits-->
-		<Replace Language='en_US' Tag="LOC_TRAIT_PLACEHOLDER">
-			<Text>[PLACEHOLDER] Không có thuộc tính đặc biệt</Text>
-		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
 			<Text>Rừng Amazon</Text>
 		</Replace>
@@ -530,7 +527,7 @@
 			<Text>Châu Á</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVINFO_INDIA_SIZE">
-			<Text>Ước tính 1.3 dặm vuông (3.3 triệu km vuông)</Text>
+			<Text>Ước tính 1.3 triệu dặm vuông (3.3 triệu km vuông)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVINFO_INDIA_POPULATION">
 			<Text>Ước tính 1.2 tỷ</Text>

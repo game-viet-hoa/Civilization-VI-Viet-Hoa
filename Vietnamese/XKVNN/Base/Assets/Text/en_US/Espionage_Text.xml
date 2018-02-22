@@ -189,7 +189,7 @@
 		</Replace>
 		<!-- ==================== Spy Operation Details ==================== -->
 		<Replace Language='en_US' Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
-			<Text>Tăng tầm nhìn ngoại giao lên 1 cấp.</Text>
+			<Text>Tăng [ICON_VisLimited] Tầm Nhìn Ngoại Giao lên 1 cấp.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GAIN_SOURCES">
 			<Text>Gián điệp sẽ hoạt động cao hơn ở {1_Levels} level cho {2_Turns} lượt.</Text>
@@ -464,6 +464,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITPANEL_ESPIONAGE_CHOOSE_MISSION">
 			<Text>Chọn nhiệm vụ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ESPIONAGE_SPY_TRADE_DISABLED_AT_WAR">
+			<Text>[COLOR_RED]Hiện không có khả năng giao thương cho {1_SpyName}. Bạn đang chiến tranh với {2_CivName}.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

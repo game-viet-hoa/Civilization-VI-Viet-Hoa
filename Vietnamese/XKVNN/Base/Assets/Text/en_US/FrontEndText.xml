@@ -38,7 +38,10 @@
 		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
 			<Text>Nhắc tôi lần tới.</Text>
 		</Replace>
-
+		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
+			<Text>Cài đặt đồ họa đã được điều chỉnh. Bạn có thể xem lại hoặc thay đổi các cài đặt này trong Menu Tùy Chọn.</Text>
+		</Replace>
+	
 		<!-- Main Menu-->
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_RESUME_GAME">
 			<Text>Tiếp tục game</Text>
@@ -268,7 +271,7 @@
 			<Text>Không thể áp dụng nội dung bổ sung.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_MISSING">
-			<Text>Không thể tải thêm nội dung yêu cầu.[NEWLINE]Nội dung:[NEWLINE]</Text>
+			<Text>Nội dung thêm là bắt buộc nhưng chưa được mua hoặc cài đặt.[NEWLINE]Nội dung:[NEWLINE]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
 			<Text>Steam Workshop từ chối truy cập nội dung yêu cầu.[NEWLINE]Nội dung:[NEWLINE]</Text>
@@ -343,7 +346,7 @@
 			<Text>QUAY LẠI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_END_GAME">
-			<Text>XÓA GAME</Text>
+			<Text>XÓA</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
 			<Text>Đang kết thúc Game...</Text>
@@ -428,9 +431,6 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
 			<Text>Đang chơi</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_STAGING_ROOM_JOIN_CODE">
-			<Text>Mã tham gia:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
 			<Text>GAME INTERNET</Text>
@@ -1067,10 +1067,10 @@
 			<Text>Không có quân man di</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
-			<Text>Allies Share Visibility</Text>
+			<Text>Chia sẻ tầm nhìn đồng đội</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
-			<Text>Allied players will share their visibility of the map.</Text>
+			<Text>Những người chơi cùng đội sẽ chia sẻ tầm nhìn bản đồ cho nhau.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_TURNTIMER_TYPE">
 			<Text>Thời gian mỗi lượt</Text>
@@ -1567,7 +1567,7 @@
 			<Text>Lượt tối đa:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAX_TURNS_DESCRIPTION">
-			<Text>Số lượt đến khi tính Chiến Thắng Điểm. Sử dụng 0 để không giới hạn.</Text>
+			<Text>Số lượt tối đa của game.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_RESUME_GAME_TT">
 			<Text>Tiếp tục Game cuối mà bạn chơi.</Text>
@@ -1611,7 +1611,7 @@
 
 		<!-- Copyright screen -->
 		<Replace Language='en_US' Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+			<Text>© 1991-2018 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2018 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2018 by RAD Game Tools Inc.  Fork Copyright © 2018 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2018 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2018 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Tiếp tục</Text>
@@ -1770,6 +1770,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
 			<Text>Yêu cầu một hoặc nhiều gói DLC của save không được cài đặt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Một hoặc nhiều gói mở rộng của save đã không được cài đặt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEAM_NAME_SELECT_TITLE">
 			<Text>Team Name</Text>

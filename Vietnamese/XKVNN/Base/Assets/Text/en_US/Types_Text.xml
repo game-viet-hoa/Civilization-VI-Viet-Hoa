@@ -1413,7 +1413,7 @@
 			<Text>Alexander Pushkin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME">
-			<Text>Edgar Allen Poe</Text>
+			<Text>Edgar Allan Poe</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_AUSTEN_NAME">
 			<Text>Jane Austen</Text>
@@ -2177,15 +2177,18 @@
 		<!-- Resources: Bonus-->
 		<Replace Language='en_US' Tag="LOC_RESOURCE_BANANAS_NAME">
 			<Text>Chuối</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_CATTLE_NAME">
 			<Text>Sữa bò</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_COPPER_NAME">
 			<Text>Đồng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_CRABS_NAME">
 			<Text>Cua</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_DEER_NAME">
 			<Text>Hươu</Text>
@@ -2223,9 +2226,11 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_DYES_NAME">
 			<Text>Thuốc nhuộm</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_FURS_NAME">
 			<Text>Lông thú</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_GYPSUM_NAME">
 			<Text>Thạch cao</Text>
@@ -2247,6 +2252,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_PEARLS_NAME">
 			<Text>Ngọc trai</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_SALT_NAME">
 			<Text>Muối</Text>
@@ -2259,6 +2265,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_SPICES_NAME">
 			<Text>Gia vị</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_SUGAR_NAME">
 			<Text>Đường</Text>
@@ -2268,33 +2275,39 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_TRUFFLES_NAME">
 			<Text>Nấm cục</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_TOBACCO_NAME">
 			<Text>Thuốc lá</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_WHALES_NAME">
 			<Text>Cá voi</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_WINE_NAME">
 			<Text>Rượu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_JEANS_NAME">
 			<Text>Quần Jean</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_PERFUME_NAME">
 			<Text>Nước hoa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_COSMETICS_NAME">
 			<Text>Mỹ phẩm</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_TOYS_NAME">
 			<Text>Đồ chơi</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_CINNAMON_NAME">
 			<Text>Quế</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_CLOVES_NAME">
 			<Text>Đinh hương</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<!-- Resources: Strategic-->
 		<Replace Language='en_US' Tag="LOC_RESOURCE_ALUMINUM_NAME">
@@ -2305,6 +2318,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_HORSES_NAME">
 			<Text>Ngựa</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RESOURCE_IRON_NAME">
 			<Text>Sắt</Text>

@@ -38,11 +38,23 @@
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
 			<Text>{1_UnitName} ({2_Num} damage) của bạn đã tiêu diệt {3_UnitName}!</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+			<Text>{1_UnitName} của bạn đã chết khi đang tấn công {2_EnUName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+			<Text>{1_UnitName} của bạn đã chết khi đang tấn công thì bị kẻ địch {2_EnUName} ({3_Num} damage) đánh chặn!</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
 			<Text>{1_UnitName} của bạn đã chết khi tấn công {2_EnUName} ({3_Num} damage)!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
 			<Text>{1_UnitName} của bạn đã chết khi tấn công thành phố {2_EnUName} ({3_Num} damage)!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+			<Text>{2_UnitName} của bạn đang tấn công thì bị thương ({3_Num} damage) do {5_EnemyUnitName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+			<Text>{2_UnitName} của bạn đang tấn công thì bị thương ({3_Num} damage) do bị đánh chặn bởi {5_EnemyUnitName} ({6_Num} damage)!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
 			<Text>{1_UnitName} ({2_Num} damage) của bạn tấn công {3_EnUName} ({4_Num} damage)!</Text>
@@ -56,6 +68,12 @@
 		<Replace Language='en_US' Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
 			<Text>{1_UnitName} ({2_Num} damage) của bạn đã bị tấn công bởi {3_EnUName} ({4_Num} damage)!</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+			<Text>{1_UnitName} của bạn đã đánh chặn ({2_Num} damage) một kẻ địch {3_EnUName} ({4_Num} damage)!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+			<Text>Trong khi đánh chặn, {2_UnitName} của bạn đã bị phá hủy bởi {5_EnemyUnitName} ({6_Num} damage)!</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
 			<Text>Trong khi phòng thủ, {2_UnitName} của đã bị giết chết bởi {4_EnemyUnitName} ({5_Num} damage)!</Text>
 		</Replace>
@@ -68,23 +86,26 @@
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
 			<Text>{1_UnitName} của bạn bị {2_EnUName} oanh tạc nhận {3_Num} damage!</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+			<Text>{1_UnitName} của bạn đã bị thương do một kẻ địch {2_EnUName}({3_Num} damage)!</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
 			<Text>{1_UnitName} của bạn bắn pháo vào {2_EnUName} gây {3_Num} damage!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
 			<Text>{1_UnitName} của bạn bị {2_EnUName} bắn pháo nhận {3_Num} damage!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
-			<Text>{1_UnitName} của bạn sống sót sau khi đánh chặn vũ khí hạt nhân, nhận {2_Num} damage từ {4_EnemyUnitName} và gây {5_Num} damage!</Text>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+			<Text>{1_UnitName} WMD của bạn tấn công đã thành công!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_FAILED">
-			<Text>{1_UnitName} của bạn đã thất bại trong việc đánh chặn vũ khí hạt nhân bởi gây {2_Num} damage cho {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
+		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+			<Text>{1_UnitName} WMD đã thất bại bởi vì damage cao.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_WMD_FAILED_DUE_TO_INTERCEPT">
-			<Text>{1_UnitName} của bạn thất bại trong việc triển khai vũ khí hạt nhân. Nó đã bị đánh chặn, nhận {2_Num} damage từ {4_EnemyUnitName} và gây {5_Num} damage!</Text>
+		<Replace Language='en_US' Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+			<Text>Bạn đã thất bại trong việc ngăn chặn {2_EnemyUnitName} WMD tấn công!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_SUCCEEDED">
-			<Text>{1_UnitName} của bạn đã đánh chặn vũ khí hạt nhân bởi gây {2_Num} damage cho {4_EnemyUnitName} và nhận {5_Num} damage!</Text>
+		<Replace Language='en_US' Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+			<Text>Bạn đã thành công trong việc ngăn chặn {2_EnemyUnitName} WMD tấn công bằng cách gây ra {3_Num} damage!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
 			<Text>Trong khi phòng thủ, {1_UnitName} của bạn bị giết chết bởi {2_EnUName} ({3_Num} damage)!</Text>
@@ -181,7 +202,7 @@
 			<Text>Giải phóng một thành phố thì nó sẽ trở về với một trong số những người chủ trước, có thể mang nền văn minh này quay trở lại game.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
-			<Text>Giải phóng một thành phố sẽ cho phép  [COLOR_GREEN]GIẢM MẠNH[ENDCOLOR] hành phạt chiến tranh đã kiếm được trước đó.</Text>
+			<Text>Giải phóng một thành phố sẽ cho phép [COLOR_MEDIUM_GREEN]GIẢM MẠNH[ENDCOLOR] hành phạt chiến tranh đã kiếm được trước đó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
 			<Text>Giữ thành phố này trong đế chế của bạn ngay bây giờ. Nó sẽ sản xuất kém, thành phố bị chiếm cho đến khi quyền sở hữu được đưa ra bàn bạc tại diễn đàn hòa bình hậu chiến tranh.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>

@@ -35,5 +35,8 @@
 		<Replace Language='en_US' Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
 			<Text>Đơn vị đặc biệt của Ba Lan thời Trung Cổ. Đẩy kẻ dịch đang phòng thủ lùi ra khỏi ô của chúng khi gây được nhiều sát thương hơn. Kẻ phòng thủ mà không rút lui sẽ bị nhận thêm sát thương.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION">
+			<Text>Một công trình đặc biệt của Ba Lan. [ICON_TradeRoute] Tuyến đường thương mại quốc tế từ thành phố này được +2 [ICON_Production] Sản phẩm; [ICON_TradeRoute] Tuyến đướng thương mại trong nước được +4 [ICON_Gold] Vàng. Thêm +1 [ICON_TradeRoute] Tuyến đường thương mại nếu thành phố này không có công trình Ngọn hải đăng.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

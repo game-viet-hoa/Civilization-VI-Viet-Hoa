@@ -200,5 +200,18 @@
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
       <Text>Báo cáo : Mối quan hệ</Text>
     </Replace>
+	
+	<Replace Language='en_US' Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
+		<Text>Vô chính phủ ({1_num} lượt)</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
+		<Text>Không</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
+		<Text>{1_CivName} đã tố cáo những hành động tà ác của {2_CivName}.</Text>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
+		<Text>{1_CivName} đã tuyên bố tình bạn của họ với {2_CivName}. [Hơn {3_RemainingTurns} lượt]</Text>
+	</Replace>
   </LocalizedText>
 </GameData>

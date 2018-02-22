@@ -132,7 +132,7 @@
 			<Text>Có thể sử dụng số lần phí để trị thương bản thân hoặc tất cả đơn vị tôn giáo thân thiện. Không thể bắt đầu chiến tranh tôn giáo với đơn vị tôn giáo khác (nhưng có thể phòng thủ).</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
-			<Text>Đơn vị chiến đấu di chuyển nhanh trên đất trung cổ với cây thăng cấp độc nhất.</Text>
+			<Text>Đơn vị chiến đấu trung cổ di chuyển nhanh trên đất trung cổ với cây thăng cấp độc nhất.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
 			<Text>Tìm và khai quật [ICON_GreatWork_Artifact] Cổ vật từ [ICON_RESOURCE_ANTIQUITY_SITE] Khu di tích cổ để trưng bày trong Bảo tàng.</Text>
@@ -359,7 +359,7 @@
 			<Text>Lính áo đỏ Anh được Victoria lãnh đạo thời công nghiệp. +10 [ICON_Strength] Sức mạnh khi chiến đấu ở lục địa khác lục địa có Thủ Đô. Không chi phí xuống tàu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
-			<Text>Kị binh tình nguyện được Teddy Roosevelt lãnh đạo thời Hiện đại. Kiếm được [ICON_Culture] Văn minh từ việc giết kẻ địch trên lục địa chứa [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi đấu trên đồi. Phí duy trì thấp.</Text>
+			<Text>Kị binh tình nguyện được Teddy Roosevelt lãnh đạo thời Công nghiệp. Kiếm được [ICON_Culture] Văn minh từ việc giết kẻ địch trên lục địa chứa [ICON_Capital] Thủ Đô. +10 [ICON_Strength] Sức mạnh khi đấu trên đồi. Phí duy trì thấp.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
 			<Text>Lính Lê Dương La Mã là đơn vị cận chiến đặc biệt thời Cổ đại thay thế Kiếm sĩ. Có thể xây Pháo đài La Mã.</Text>
@@ -383,7 +383,7 @@
 			<Text>Đơn vị thời công nghiệp thay thế Kỵ binh của Nga. Mạnh hơn kỵ binh và +5 [ICON_Strength] Sức mạnh khi đấu trong hoặc liền kề lãnh thổ của mình. Có thể di chuyển sau khi tấn công nếu điểm [ICON_Movement] Di chuyển vẫn còn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
-			<Text>Đơn vị thời Cổ đại thay thế Lính Ngựa của Ấn Độ. -5 [ICON_Strength] Sức mạnh cho tất cả kẻ địch liền kề.</Text>
+			<Text>Đơn vị kỵ binh hạng nặng thời Cổ đại. -5 [ICON_Strength] Sức mạnh cho tất cả kẻ địch liền kề.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
 			<Text>Đơn vị thời cổ đại thay thế Kiếm sĩ của Kongo. +10 [ICON_Strength] Sức mạnh khi đang phòng thủ chống lại tấn công tầm xa. Có thể di chuyển và nhìn xuyên qua Rừng và Rừng nhiệt đới.</Text>
@@ -401,10 +401,10 @@
 			<Text>Hải quân thời hiện đại thay thế tàu ngầm của Đức. Sản xuất rẻ hơn, +1 Tìm nhìn, và +10 [ICON_Strength] Sức mạnh khi chiến đấu trên đại dương. Có thể nhìn thấy đơn vị tàng hình khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>Không quân thời hiện đại thay thế chiến đấu cơ của Mỹ. +5 tấn công khi đánh với máy bay chiến đấu, có +2 tầm chiến đấu, và +50% EXP.</Text>
+			<Text>Không quân thời nguyên tử thay thế chiến đấu cơ của Mỹ. +5 tấn công khi đánh với máy bay chiến đấu, có +2 tầm chiến đấu, và +50% EXP.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
-			<Text>Đơn vị thời hiện đại thay thế Chiến Hạm của Brazil. Mạnh hơn Chiến Hạm. Mở khóa bởi Chủ nghĩa dân tộc.</Text>
+			<Text>Đơn vị thời công nghiệp thay thế Chiến Hạm của Brazil. Mạnh hơn Chiến Hạm. Mở khóa bởi Chủ nghĩa dân tộc.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

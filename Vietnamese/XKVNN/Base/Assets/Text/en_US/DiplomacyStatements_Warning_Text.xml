@@ -181,7 +181,10 @@
     <!-- Confirmation of War -->
     <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
       <Text>Động thái này sẽ bắt đầu chiến tranh với {1_CivName}!</Text>
-	  </Replace>
+	</Replace>
+	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
+		<Text>Thực hiện lượt di chuyển này sẽ bắt đầu chiến tranh với:</Text>
+	</Replace>
 	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
 	  <Text>Thực hiện động thái này là sẽ tự đánh vào lãnh thổ của bạn.</Text>
 	</Replace>

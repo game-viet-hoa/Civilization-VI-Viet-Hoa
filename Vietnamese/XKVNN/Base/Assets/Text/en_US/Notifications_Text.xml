@@ -106,6 +106,9 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
 			<Text>Một người chơi không rõ đã thua cuộc.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNMET_CITY_STATE_DEFEATED_SUMMARY">
+			<Text>Một thành phố tự trị chưa từng gặp đã bị đánh bại.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
 			<Text>Bạn mất {1_UnitName} do địch chiếm.</Text>
 		</Replace>
@@ -303,6 +306,9 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
 			<Text>Gián điệp địch bị giết</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_TO_CAPITAL">
+			<Text>Gián điệp {1_unitName} của bạn đã hủy bỏ chuyến đi kể từ khi thành phố thay đổi mục tiêu. Có thể tìm thấy họ trong thủ đô của bạn.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
 			<Text>Đặc vụ {1_unitName} của bạn hủy bỏ nhiệm vụ {2_mission} trong thành phố {3_cityName}. Mục tiêu nhiệm vụ không còn hợp lệ.</Text>
 		</Replace>
@@ -323,6 +329,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
 			<Text>Gián điệt trốn thoát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Một gián điệp địch từ nền văn minh chưa rõ đã trốn thoát khỏi thành phố {1_cityName} của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Gián điệp địch đã trốn thoát</Text>
 		</Replace>
 		<!-- City-State Notifications -->
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
@@ -489,13 +501,13 @@
 			<Text>Thúc đẩy công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
-			<Text>Đạt được thúc đẩy công nghệ: {1_Name} +{2_Boost}%</Text>
+			<Text>Thúc đẩy công nghệ: {1_Name}!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
 			<Text>Thúc đẩy hành chính</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
-			<Text>Đạt được thúc đẩy hành chính: {1_Name} +{2_Boost}%</Text>
+			<Text>Thúc đẩy hành chính: {1_Name}!</Text>
 		</Replace>
 		<!-- Great Work Notifications -->
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
@@ -620,6 +632,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
 			<Text>Người chơi không rõ đã hoàn thành xây dựng kỳ quan thế giới {1_WonderName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_FAILED_MESSAGE">
+			<Text>Thu hồi sản phẩm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
+		  <Text>Bạn đã không thể hoàn thành kỳ quan thế giới {1_WonderName}. Tuy nhiên {2_Production} [ICON_Production] Sản phẩm đã được thu hồi từ việc nỗ lực và thưởng cho thành phố {3_CityName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
 			<Text>Thành Phố Đã Bị Chiếm</Text>
@@ -797,6 +815,18 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
 			<Text>Chúng ta đã mất lãnh thổ do Bon Văn Hóa của {1_CivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_MESSAGE">
+			<Text>Lực lượng máy bay đã đổi căn cứ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_SUMMARY">
+			<Text>Vị trí của {1_AirUnit} đã bị tiết lộ và buộc phải đổi căn cứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_MESSAGE">
+			<Text>Vượt qua căn cứ không quân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_SUMMARY">
+			<Text>{1_AirUnit} đã không thể đổi căn cứ và đã bị phá hủy.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -10,10 +10,10 @@
 			<Text>Xây dựng {1_DistrictName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
-			<Text>Thúc đẩy công nghệ {1_TechName}.</Text>
+			<Text>[ICON_TechBoosted] Thúc đẩy công nghệ {1_TechName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
-			<Text>Thúc đẩy hành chính {1_CivicName}.</Text>
+			<Text>[ICON_CivicBoosted] Thúc đẩy hành chính {1_CivicName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
 			<Text>Chiêu mộ {1_GreatPersonClassName}.</Text>

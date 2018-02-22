@@ -76,7 +76,12 @@
 		</Replace>
 
 		<!-- Gameplay Panel -->
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_TUTORIAL_EXPERIENCED_PLAYER">
+			<Text>Người chơi có kinh nghiệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP1">
+			<Text>Mới từ Civilization VI - Trỗi dậy và Sụp đổi</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
 			<Text>Mới từ Civilization VI</Text>
 		</Replace>
@@ -89,7 +94,9 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
 			<Text>Hoạt cảnh ngày đêm:</Text>
 		</Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HISTORIC_MOMENT_ANIMATION">
+			<Text>Hoạt cảnh tiết lộ thời khắc lịch sử:</Text>
+		</Replace>
 		<!-- Graphics Panel - Option Enums -->
 
 		<Replace Language='en_US' Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
@@ -436,7 +443,12 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
 			<Text>Thay đổi sự xuất hiện của người lãnh đạo.[NEWLINE][NEWLINE]Tắt để [COLOR_Civ6DarkRed]tăng hiệu suất[ENDCOLOR] và giá trị thấp để [COLOR_Blue]giảm bộ nhớ sử dụng[ENDCOLOR].</Text>
 		</Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TEXT">
+			<Text>Mờ chuyển động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TOOLTIP">
+			<Text>Bật mờ chuyển động ở các lãnh đạo.</Text>
+		</Replace>
 		<!-- Application Panel -->
 
 		<Replace Language='en_US' Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
@@ -482,6 +494,38 @@
 		</Replace>
  
 		<!-- Hotkeys Panel -->
+		
+		<!-- Expansion 1 - Additional Hotkeys-->
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
+			<Text>Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS_HELP">
+			<Text>Hiển thị màn hình Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE">
+			<Text>Mốc thời gian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE_HELP">
+			<Text>Hiển thị Màn hình Mốc thời gian lịch sử</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS">
+			<Text>Bảng Tiến độ thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS_HELP">
+			<Text>Hiển thị bảng Tiến độ thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY">
+			<Text>Thành phố Thủ đô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY_HELP">
+			<Text>Chuyển tới Thành phố Thủ đô</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP1">
+			<Text>Giao diện người dùng (Trỗi dậy và Sụp đổ):</Text>
+		</Replace>
+
+		<!-- Base Game Hot Keys-->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
 			<Text>Giao diện người dùng:</Text>
 		</Replace>
@@ -662,6 +706,12 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
 			<Text>Di chuyển phải</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMIN">
+			<Text>Phóng to</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMOUT">
+			<Text>Thu nhỏ</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
 			<Text>Thành phố tiếp</Text>
 		</Replace>
@@ -760,7 +810,10 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
 			<Text>Du lịch</Text>
 		</Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY">
+			<Text>Trung thành</Text>
+		</Replace>
+		
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
 			<Text>Toggles the Religion lens.</Text>
 		</Replace>
@@ -782,7 +835,10 @@
 		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
 			<Text>Toggles the Tourism lens.</Text>
 		</Replace>
-
+		<Replace Language='en_US' Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY_HELP">
+			<Text>Toggles the Loyalty lens.</Text>
+		</Replace>
+		
 		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_UNDERSCORE">
 			<Text>_</Text>
 		</Replace>

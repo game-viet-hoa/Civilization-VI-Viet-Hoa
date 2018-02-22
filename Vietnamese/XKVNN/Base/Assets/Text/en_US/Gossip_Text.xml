@@ -137,6 +137,9 @@
 		<Replace Language='en_US' Tag="LOC_GOSSIP_CONQUER_CITY">
 			<Text>{1_CivName} đã chiếm {2_CityName}.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_CONQUER_CAPITAL_CITY">
+			<Text>{1_CivName} đã chinh phục được thủ đô gốc {2_CivAdjective} của {3_CityName}.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_CONSTRUCT_BUILDING">
 			<Text>{1_CivName} đã xây {2_BuildingName} trong {3_CityName}.</Text>
 		</Replace>

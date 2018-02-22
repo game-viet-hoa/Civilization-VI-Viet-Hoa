@@ -378,7 +378,7 @@
 			<Text>Cho phép dùng [ICON_Faith] Đức Tin để đào tạo Chiến Binh Tu Sĩ, đạo quân mặt đất thời trung cổ với cây thăng cấp độc nhất. Chỉ có thể trong Đền thời ở thánh địa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
-			<Text>+1% [ICON_Production] Sản phẩm cho mỗi tín đồ.</Text>
+			<Text>+1% [ICON_Production] Sản phẩm cho mỗi tín đồ tôn giáo này trong thành phố.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Tiện nghi trong tất cả thành phố với 2 Đặc Khu.</Text>
@@ -442,6 +442,21 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
 			<Text>+{1_Value} Chiến dịch Tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_INCOMING_RELIGION_PRESSURE">
+			<Text>Sức ép đi vào mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_OUTGOING_RELIGION_PRESSURE">
+			<Text>Sức ép đi ra mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_PREDOMINANT_RELIGION">
+			<Text>{1_ReligionName} (Predominant)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP_HEADER">
+			<Text>Tín đồ / Tổng sức ép đã nhận:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP">
+			<Text>{1_ReligionName}:[NEWLINE]{2_Followers} Tín đồ, {3_TotalPressure} sức ép</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

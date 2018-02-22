@@ -15,7 +15,7 @@
 			<Text>Thợ Xây lên được tàu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Cho phép loại bỏ đầm lầy.</Text>
+			<Text>Cho phép loại bỏ đầm lầy, và thu hoạch [ICON_RESOURCE_BANANAS].</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MASONRY_DESCRIPTION">
 			<Text>Cho phép thu hoạch [ICON_RESOURCE_STONE] Đá.</Text>
@@ -72,7 +72,7 @@
 			<Text>Nâng cấp công trình Nông Trại thành Nông nghiệp máy móc. +1 [ICON_Food] Thực phẩm cho mỗi ô liền kề Nông Trại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] Sản phẩm từ công trình Xưởng gỗ. Mở khóa Phòng Thủ Đô Thị cho phép tất cả thành phố có 200 sức mạnh phòng thủ và khả năng thực hiện tấn công tầm xa.</Text>
+			<Text>+1 [ICON_Production] Sản phẩm từ công trình Xưởng gỗ. Mở khóa Phòng Thủ Đô Thị cho phép tất cả thành phố có 200 sức mạnh phòng thủ và khả năng thực hiện tấn công tầm xa. Tất cả tường cải tiến trước đó trở nên lỗi thời và các đơn bị hỗ trợ công thành không còn hiệu quả nữa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
 			<Text>+1 [ICON_Movement] Di chuyển cho đơn vị lên tàu.</Text>
@@ -222,7 +222,7 @@
 			<Text>Có 3 Lính Hỏa Mai.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Xây Mỏ than đá.</Text>
+			<Text>Xây Mỏ than đá và Tàu bọc thép.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
 			<Text>Có 3 Tàu cướp biển.</Text>
@@ -399,7 +399,7 @@
 			<Text>Có 3 Lính Hỏa Mai.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Xây Mỏ than đá.</Text>
+			<Text>Xây Mỏ than đá và Tàu bọc thép.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
 			<Text>Có 3 Tàu cướp biển.</Text>

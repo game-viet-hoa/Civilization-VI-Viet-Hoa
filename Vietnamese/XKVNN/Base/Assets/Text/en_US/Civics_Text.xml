@@ -534,7 +534,7 @@
 			<Text>Thưởng +100% liền kề Khu nghệ thuật.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_AGOGE_DESCRIPTION">
-			<Text>Thưởng +50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời Xa xưa và Cổ đại.</Text>
+			<Text>Thưởng +50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến, chống kỵ binh và đánh xa thời Xa xưa và Cổ đại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Tuyến đường thương mại tới thành phố đồng minh được +2 [ICON_Food] Thực phẩm và +2 [ICON_Production] Sản phẩm cho cả hai thành phố.</Text>
@@ -600,7 +600,7 @@
 			<Text>+50% Sản Phẩm đối với Dân Di Cư. Giá mua ô đất giảm 20%.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Trung cổ và Phục hưng.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến, chống kỵ binh và đánh xa thời đại Trung cổ và Phục hưng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
 			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị hàng không thời đại Hiện đại và Nguyên tử.</Text>
@@ -621,7 +621,7 @@
 			<Text>+15% [ICON_Production] Sản phẩm đối với kỳ quan thời đại Trung cổ và Phục hưng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Công nghiệp và Hiện đại.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến, chống kỵ binh và đánh xa thời đại Công nghiệp và Hiện đại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
 			<Text>+100% sản lượng [ICON_Culture] Văn minh từ các kiến trúc Khu nghệ thuật.</Text>
@@ -702,7 +702,7 @@
 			<Text>Mỗi thành phố +1 [ICON_Culture] Văn minh cho mỗi Đặc Khu nó xây dựng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
-			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến và đánh xa thời đại Nguyên tử và Thông tin.</Text>
+			<Text>+50% [ICON_Production] Sản phẩm đối với đơn vị cận chiến, chống kỵ binh và đánh xa thời đại Nguyên tử và Thông tin.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
 			<Text>+4 điểm [ICON_GreatGeneral] Đại Tướng Quân mỗi lượt.</Text>
@@ -807,7 +807,7 @@
 			<Text>+2 điểm [ICON_GreatGeneral] Đại Tướng Quân mỗi lượt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>x2 EXP cho đơn vị trinh sát.</Text>
+			<Text>x2 EXP cho đơn vị trinh sát từ việc thám hiểm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
 			<Text>+4 điểm [ICON_GreatMusician] Nhạc sĩ vĩ đại mỗi lượt.</Text>
@@ -837,7 +837,7 @@
 			<Text>+30% [ICON_Production] Sản phẩm đối với Khu quân sự và các kiến trúc bên trong nó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Sức mạnh khi chiến đấu với nền văn minh theo tôn giáo khác.</Text>
+			<Text>+4 [ICON_Strength] Sức mạnh khi chiến đấu với đạo quân phi tôn giáo của nền văn minh theo tôn giáo khác.</Text>
 		</Replace>
 		<!-- Preview Text -->
 		<Replace Language='en_US' Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">

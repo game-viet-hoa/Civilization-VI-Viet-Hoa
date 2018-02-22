@@ -81,6 +81,15 @@
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
 			<Text>Kích hoạt trên một đơn vị Đại đội.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION_SEA">
+			<Text>Kích hoạt trên một đơn vị quân đội mà không phải là Hải đoàn hoặc Hạm đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION_SEA">
+			<Text>Kích hoạt trên một đơn vị Hải đoàn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION_SEA">
+			<Text>Kích hoạt trên một đơn vị Hạm đội.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
 			<Text>Kích hoạt trên một tài nguyên quý.</Text>
 		</Replace>

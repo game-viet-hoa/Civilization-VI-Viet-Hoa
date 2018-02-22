@@ -60,31 +60,31 @@
 			<Text>Là Đặc Khu yêu cầu để xây dựng dự án Chiến thắng Khoa Học. Bao gồm Phóng vệ tinh từ trái đất, Đáp xuống mặt trăng, Nhà ở trên sao Hỏa, Thực vật trên sao Hỏa, và Lò phản ứng trên sao Hỏa. Không thể xây trên đồi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Hy Lạp. Thay thế khu nghệ thuật. Thưởng 1 [ICON_Envoy] Phái đoàn khi hoàn thành.</Text>
+			<Text>Đặc Khu đặc biệt của Hy Lạp. Thay thế khu nghệ thuật và phí xây dựng rẻ hơn. Thưởng 1 [ICON_Envoy] Phái đoàn khi hoàn thành.[NEWLINE][NEWLINE]+1 [ICON_Culture] Văn minh cho liền kề Thành phố trung tâm. +1 [ICON_Culture] Văn minh cho mỗi kỳ quan và đặc khu liền kề. Chỉ có thể xây trên Đồi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề: Thưởng [ICON_Culture] Văn minh cho thành phố trung tâm liền kề. Thưởng [ICON_Culture] Văn minh cho mỗi kỳ quan và Đặc Khu liền kề. Chỉ có thể xây trên đồi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_BATH_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của La Mã cho phát triển thành phố. Thay thế Khu thủy lợi.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nước sạch từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước sạch sẽ có 6 [ICON_Housing] Nhà ở. Các thành phố đã có nước sạch sẽ có +2 [ICON_Housing] Nhà ở. Phải xây cạnh thành phố trung tâm. Trong cả hai trường hợp, Nhà tắm La Mã đều thưởng thêm +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện nghi.</Text>
+			<Text>Đặc Khu đặc biệt của La Mã cho phát triển thành phố. Thay thế Khu thủy lợi và phí xây dựng rẻ hơn.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nước sạch từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước sạch sẽ có 6 [ICON_Housing] Nhà ở. Các thành phố đã có nước sạch sẽ có +2 [ICON_Housing] Nhà ở. Phải xây cạnh thành phố trung tâm. Trong cả hai trường hợp, Nhà tắm La Mã đều thưởng thêm +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện nghi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Đức cho hoạt động công nghiệp. Thay thế khu công nghiệp.</Text>
+			<Text>Đặc Khu đặc biệt của Đức cho hoạt động công nghiệp. Thay thế khu công nghiệp và phí xây dựng rẻ hơn.[NEWLINE][NEWLINE]+ 2[ICON_Production] Sản phẩm nếu liền kề Khu thương mại. +1 [ICON_Production] Sản phẩm cho mỗi tài nguyên liền kề. +1 [ICON_Production] Sản phẩm cho mỗi 2 ô đặc khu liền kề.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề:  Thưởng lớn [ICON_Production] Sản phẩm nếu gần Khu thương mại. Thưởng [ICON_Production] Sản phẩm cho mỗi tài nguyên liền kề. Thưởng ít [ICON_Production] Sản phẩm cho Đặc Khu liền kề.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Nga cho hoạt động tôn giáo. Thay thế Thánh Địa.[NEWLINE][NEWLINE]Mở rộng biên giới thêm một ô cho mỗi lần Vĩ nhân hoạt động trong thành phố này.</Text>
+			<Text>Đặc Khu đặc biệt của Nga cho hoạt động tôn giáo. Thay thế Thánh Địa và phí xây dựng rẻ hơn.[NEWLINE][NEWLINE]Mở rộng biên giới thêm một ô cho mỗi lần Vĩ nhân hoạt động trong thành phố này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Kongo chỉ có thể xây ở Rừng nhiệt đới hoặc Rừng. Thay thế Vùng ngoại ô nhưng có sớm hơn. +5 [ICON_Housing] Nhà ở , +2 [ICON_Food] Thực phẩm, và +4 [ICON_Gold] Vàng, regardless of Appeal.</Text>
+			<Text>Đặc Khu đặc biệt của Kongo chỉ có thể xây ở Rừng nhiệt đới hoặc Rừng. Thay thế Vùng ngoại ô nhưng có sớm, phí xây dựng rẻ hơn. +5 [ICON_Housing] Nhà ở , +2 [ICON_Food] Thực phẩm, và +4 [ICON_Gold] Vàng, regardless of Appeal.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Brazil. Thay thế khu giải trí, và +2 [ICON_Amenities] Tiện nghi. Cũng mở hóa dự án Lễ hội Carnival, cho phép +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loại điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành.</Text>
+			<Text>Đặc Khu đặc biệt của Brazil. Thay thế khu giải trí, và +2 [ICON_Amenities] Tiện nghi, và phí xây dựng rẻ hơn. Cũng mở hóa dự án Lễ hội Carnival, cho phép +1 [ICON_Amenities] Tiện nghi khi tiến hành và một loại điểm [ICON_GreatPerson] Vĩ nhân khi hoàn thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
-			<Text>Đặc Khu đặc biệt của Anh cho hoạt động hải quân. Thay thế Khu hải cảng. Loại bỏ điểm phạt [ICON_Movement] Di chuyển khi lên tàu và xuống tàu từ ô này. Phải xây trên bờ biển hoặc đất gần hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân được xây dựng ở xưởng[NEWLINE]+2 [ICON_Gold] Vàng khi xây trên lục địa khác[NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
+			<Text>Đặc Khu đặc biệt của Anh cho hoạt động hải quân. Thay thế Khu hải cảng và phí xây dựng rẻ hơn. Loại bỏ điểm phạt [ICON_Movement] Di chuyển khi lên tàu và xuống tàu từ ô này. Phải xây trên bờ biển hoặc đất gần hồ.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả đơn vị hải quân được xây dựng ở xưởng[NEWLINE]+2 [ICON_Gold] Vàng khi xây trên lục địa khác[NEWLINE]+1 [ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
 			<Text>Liền kề: Thưởng nhiều [ICON_Gold] Vàng cho mỗi trung tâm thành phố liền kề. Thưởng [ICON_Gold] Vàng cho mỗi tài nguyên biển liền kề. Thưởng ít [ICON_Gold] Vàng cho Đặc Khu liền kề.</Text>

@@ -37,7 +37,7 @@
 			<Text>Phái đoàn ngoại giao đang chờ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
-			<Text>{1_name} có hỏi về việc gửi phái đoàn ngoại giao tới thủ đô của bạn.</Text>
+			<Text>{1_name} có hỏi về việc gửi phái đoàn ngoại giao tới [Icon_Capital] thủ đô của bạn.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">

@@ -177,6 +177,18 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
 			<Text>(Họ nghĩ bạn là người hiếu chiến.)</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>(Bạn đã chiến tranh với bạn bè của họ.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND">
+			<Text>(Bạn đã tố cáo bạn bè của họ.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>(Bạn đã tuyên bố tình bạn với kẻ địch của họ.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY">
+			<Text>(Bạn có đồng minh với kẻ thù của họ.)</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
 			<Text>(Bạn đã lăng mạ bằng hữu của họ.)</Text>
 		</Replace>

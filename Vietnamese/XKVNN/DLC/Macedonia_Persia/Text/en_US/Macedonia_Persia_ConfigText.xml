@@ -79,5 +79,9 @@
 		<Replace Language='en_US' Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
 			<Text>+5 Thưởng Chiến Đấu khi ở gần Đại Tướng.</Text>
 		</Replace>
+		<!-- Expansion 1 -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Di chuyển cho 10 lượt đầu sau khi tuyên bố chiến tranh bất ngờ với một nền văn minh lớn. +5 Trung thành mỗi lượt trong các thành phố đã chiếm với một đơn vị đồn trú. Tuyên bố chiến tranh bất ngờ chỉ được tính như một Chiến tranh chính thức cho mục đích gây chiến và mệt mỏi chiến tranh.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

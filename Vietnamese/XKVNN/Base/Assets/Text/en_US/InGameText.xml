@@ -572,7 +572,7 @@
 			<Text>Không nước</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_TOO_CLOSE_TO_CITY">
-			<Text>Quá gần thành phố</Text>
+			<Text>Quá gần thành phố hoặc bị chắn bởi địa hình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_OUTCOME_STALEMATE">
 			<Text>Bế tắc</Text>
@@ -917,6 +917,9 @@
 		<Replace Language='en_US' Tag="LOC_CITY_BANNER_THERMONUCLEAR_STRIKE_CAPABLE">
 			<Text>Tấn công nhiệt hạch</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_STAGNATE">
+			<Text>"Dân số thành phố bị trì trệ."</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_BANNER_TURNS_STARVATION">
 			<Text>{1_Turns : plural 1?{1_Turns} lượt; other?{1_Turns} lượt;} nữa thiếu ăn.</Text>
 		</Replace>
@@ -1240,7 +1243,7 @@
 			<Text>Tôn Giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGION_NO_CITIZENS">
-			<Text>Không có Tôn Giáo trong thành phố tại thời điểm này.</Text>
+			<Text>Không có Tín Đồ Tôn Giáo trong thành phố tại thời điểm này.</Text>
 		</Replace>		
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
 			<Text>Tôn Giáo Công Dân</Text>
@@ -1395,6 +1398,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
 			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_THREE_BUILDINGS">
+			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}, {2_BuildingTheSecond}, hoặc {3_BuildingTheThird}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
 			<Text>Đặc Khu bị chiếm bởi kẻ địch.</Text>
@@ -1985,7 +1991,7 @@
 			<Text>[COLOR_Civ6Green]Không[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WARMONGER_LEVEL_LIGHT">
-			<Text>Nhẹ</Text>
+			<Text>[COLOR_White]Nhẹ[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WARMONGER_LEVEL_MODERATE">
 			<Text>[COLOR_Civ6Yellow]Vừa phải[ENDCOLOR]</Text>
@@ -2169,6 +2175,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVICS_KEY_DISTRICT">
 			<Text>Đặc Khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVICS_KEY_UNLOCK">
+			<Text>Mở khóa đặc biệt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVICS_KEY_WONDER">
 			<Text>Kỳ Quan</Text>
@@ -3027,7 +3036,7 @@
 			<Text>Dân di cư gần họ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRADE_RELATIONS">
-			<Text>Mối quan hệ thương mại tốt</Text>
+			<Text>Các tuyến đường thương mại giữa các quốc qua của chúng ta</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WARMONGER">
 			<Text>Hiếu chiến</Text>
@@ -3584,7 +3593,7 @@
 			<Text>Phải có Đền thờ trong Thánh Địa để mua Đại Tu Sĩ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_RELIGION_APOSTLE_TT">
-			<Text>Tông Đồ có thể cải giáo [ICON_Citizen] Dân Cư sang Tôn Giáo của họ và bắt đầu chiến tranh thần thánh với đơn vị của tôn giáo khác.</Text>
+			<Text>Tông Đồ có thể cải giáo [ICON_Citizen] Dân Cư sang Tôn Giáo của họ và bắt đầu chiến tranh thần thánh với đơn vị của tôn giáo khác. Mỗi lần chơi có thể Thẩm Tra để cho phép mua Thẩm Giáo. Mỗi lần chơi có thể Truyền đạo Tín ngưỡng để thêm Tín ngưỡng cho tôn giáo của họ. Những lần sử dụng này sẽ tiêu thụ Tông Đồ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_RELIGION_MISSIONARY_TT">
 			<Text>Nhà truyền giáo có thể cải giáo [ICON_Citizen] Dân Cư sang tôn giáo của họ. Có thể không bắt đầu được chiến tranh thần thánh với đơn vị của tôn giáo khác (nhưng có thể phòng thủ).</Text>
@@ -4060,7 +4069,7 @@
 			<Text>Tuyển quân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_STATES_LEVY_MILITARY_DETAILS">
-			<Text>Chủ các thành phố tự trị có thể dùng {1_GoldCost} [ICON_Gold] Vàng để tạm thời điều khiển tất cả đơn vị quân đội của họ. Họ sẽ trở lại sau {2_TurnLimit} [ICON_Turn] lượt, hoặc có người chủ khác.</Text>
+			<Text>Chủ các thành phố tự trị có thể dùng {1_GoldCost} [ICON_Gold] Vàng để tạm thời điều khiển tất cả đơn vị quân đội của họ. Các đơn vị sẽ không thể di chuyển ở lượt của họ khi được thuê, nhưng sẽ nhận lệnh từ người chủ ở những lượt sau đó. Họ sẽ trở lại thành phố tự trị sau {2_TurnLimit} [ICON_Turn] lượt, hoặc có người chủ khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_STATES_MILITARY_ALREADY_LEVIED">
 			<Text>Bạn đã tuyển quân đội của thành phố tự trị.</Text>
@@ -4461,7 +4470,7 @@
 			<Text>CUNG CẤP:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_WORKS_THEMED_BONUS">
-			<Text>[ICON_ThemeBonus_Active][COLOR:ResCultureLabelCS]CHỦ ĐỀ[ENDCOLOR]</Text>
+			<Text>[ICON_ThemeBonus_Active][COLOR:72,39,111,255]CHỦ ĐỀ[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_WORKS_THEME_BONUS_PROGRESS">
 			<Text>[ICON_ThemeBonus]Chủ đề trưng bày({1_current}/{2_total})</Text>
@@ -4521,7 +4530,7 @@
 			<Text>{1_type} phù hợp với Chủ Đề của Bảo Tàng này. Thêm thành tựu của loại này để nhận thưởng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_WORKS_ART_THEME_DUPLICATE_ARTIST">
-			<Text>{1_type} cùng chủ đề, nhưng Bảo Tàng đã trưng bày một thành tựu của Vĩ Nhân này. Thêm Thành Tựu Vĩ Đại cùng chủ đề nhưng khác VĨ Nhân để nhận thưởng.</Text>
+			<Text>Bảo Tàng này đã trưng bày một thành tựu của Vĩ Nhân này. Thêm Thành Tựu Vĩ Đại cùng chủ đề nhưng khác VĨ Nhân để nhận thưởng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREAT_WORKS_ART_MATCHED_THEME">
 			<Text>[COLOR:ResCultureLabelCS]{1_building} đã có Chủ Đề. [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch được x2.[ENDCOLOR]</Text>
@@ -5080,6 +5089,9 @@
 			<Text>{1_Turns : plural 1? lượt; other? lượt;}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
+			<Text>[ICON_Reports]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_VIEW_REPORTS_TT">
 			<Text>Báo cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_WORKED_LAND">
@@ -5449,7 +5461,7 @@
 			<Text>{1_TourismInfo}Thành Phố Thấn Thánh của {2_ReligionName} cung cấp +{3_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Du khách được thêm bởi Tường hoặc Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Du khách được thêm bởi các kiến trúc hoặc Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Du khách từ Thành Tựu Vĩ Đại trong {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
