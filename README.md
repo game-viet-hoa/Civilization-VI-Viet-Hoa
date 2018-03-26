@@ -7,13 +7,13 @@ https://www.fshare.vn/folder/FTMDP5D5CXG5
 # Hướng dẫn việt hóa
 ## 1. Phiên bản Crack
 ### 1.1. Việt hóa tự động
-- Tải file [Civilization.VI.Viet.Hoa.exe](https://github.com/xkvnn/Civilization-VI-Viet-Hoa/releases/download/latest/Civilization.VI.Viet.Hoa.exe) về
+- Tải file [Civilization.VI.Viet.Hoa.exe](https://github.com/game-viet-hoa/Civilization-VI-Viet-Hoa/releases/download/latest/Civilization.VI.Viet.Hoa.exe) về
 - Copy vào thư mục Game rồi chạy
 
 ![image](https://user-images.githubusercontent.com/15854252/36202771-b9686a84-11b7-11e8-871f-d6b9630a1b45.png)
 
 ### 1.2. Việt hóa thủ công
-- Tải file [này](https://github.com/xkvnn/Civilization-VI-Viet-Hoa/archive/master.zip) về
+- Tải file [này](https://github.com/game-viet-hoa/Civilization-VI-Viet-Hoa/archive/master.zip) về
 - Giải nén
 - Copy toàn bộ nội dung bên trong
 > master.zip\Civilization-VI-Viet-Hoa-master\Vietnamese
